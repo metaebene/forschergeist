@@ -1,0 +1,661 @@
+﻿[00:00:00-0 Intro]
+[00:00:43-0 @timpritlove] Hallo und herzlich willkommen zu Forschergeist, dem Podcast des Stifterverbands für die deutsche Wissenschaft.
+[00:00:48-6 @timpritlove] Mein Name ist Tim Pritlove und ich begrüße alle hier zur Ausgabe Nummer 52 unserer Gesprächsreihe.
+[00:00:55-8 @timpritlove] Und heute tauchen wir mal in die Wissensvermittlung ein, und zwar die ganz konkrete Wissensvermittlung in Form von Museen.
+[00:01:06-9 @timpritlove] Dazu bin ich nach Bonn gefahren zum Deutschen Museum in Bonn und begrüße ganz herzlich meine Gesprächspartnerin Andrea Niehaus, schönen guten Tag.
+[00:01:15-9 @andreaniehaus] Ja hallo.
+[00:01:17-0 @timpritlove] Frau Niehaus, Sie sind ja hier die Leiterin. Schon ganz schön lange?
+[00:01:22-1 @andreaniehaus] Ja, die Zeit vergeht, Zeit ist relativ, wie es mal jemand gesagt hat.
+[00:01:28-3 @timpritlove] Ja. Relativität spüren.
+[00:01:33-5 @andreaniehaus] Ja ich mach das total gerne.
+[00:01:35-6 @andreaniehaus] Ich sage immer, ich habe den schönsten Job der Welt.
+[00:01:38-3 @andreaniehaus] Ich habe hier im Deutschen Museum Bonn die Museumsarbeit angefangen.
+[00:01:44-4 @andreaniehaus] Davor habe ich ganz normal studiert.
+[00:01:46-8 @andreaniehaus] Und zwar, das wird jetzt vielleicht den ein oder anderen überraschen, ich bin Kunsthistorikerin von der Ausbildung her.
+[00:01:52-2 @andreaniehaus] Kenne aber das Deutsche Museum seit meiner Kindheit, denn mein Vater ist Ingenieur.
+[00:01:57-7 @andreaniehaus] Um genau zu sein Architekt, begeisterter Modellflieger als Hobby.
+[00:02:01-8 @andreaniehaus] Und immer wenn es ab in den Süden ging, sind wir natürlich über das Deutsche Museum nach München oder über München dann ins deutsche Museum gefahren, andersherum.
+[00:02:11-5 @andreaniehaus] Und das gehört natürlich zu meinen Kindheitserinnerungen, da durch die Säle zu streifen.
+[00:02:17-1 @andreaniehaus] Dass ich hier später mal arbeiten würde, wusste ich damals natürlich noch nicht.
+[00:02:21-7 @andreaniehaus] Aber als ich fertig war mit dem Studium, war schon für mich klar, dass ich ans Museum gehen würde.
+[00:02:28-5 @andreaniehaus] Für mich war auch klar, dass ich einen großen Schwerpunkt in der Vermittlung sehe.
+[00:02:34-4 @andreaniehaus] Und da waren mir ehrlich gesagt die Kunstmuseen alle zumindest in Deutschland alle noch viel zu langweilig.
+[00:02:41-7 @andreaniehaus] Also mir reicht es einfach nicht, paar Schildchen neben die Bilder zu hängen und dann darauf zu warten, dass die Besucher halt wissen, was man da sieht.
+[00:02:52-6 @andreaniehaus] Sondern ich bin bei einem Lehrer in die Schule gegangen, der gesagt hat, man versteht nur das was man sieht oder man sieht nur das was man versteht.
+[00:03:00-0 @andreaniehaus] Und insofern ist für mich ein ganz starker Ansatz die Vermittlung gewesen. 
+[00:03:04-6 @timpritlove] War das denn im Deutschen Museum in München gleich anders?
+[00:03:08-0 @andreaniehaus] Natürlich. Ich meine alleine das was wir ausstellen, nämlich technische Geräte, denen sieht man ja nun wirklich nicht an wie sie funktionieren.
+[00:03:16-8 @andreaniehaus] Und das war ja eigentlich die entscheidende Idee von unserem Museumsgründer Oskar von Miller, der 1903 das Deutsche Museum gegründet hat.
+[00:03:25-7 @andreaniehaus] Dass die Leute wirklich verstehen sollen, wie die technischen Geräte funktionieren, wie Wissenschaft funktioniert.
+[00:03:34-3 @andreaniehaus] Und der hatte sich ja auch eine ganze Reihe von bekannten Wissenschaftlern an seine Seite geholt.
+[00:03:39-1 @andreaniehaus] Das war der Wilhelm Konrad Röntgen, das war Karl Benz, Karl von Linde, das sind alles noch Namen, die nachklingen, nämlich in Unternehmen.
+[00:03:50-8 @andreaniehaus] Und das ist der Ansatz des Deutschen Museums, die Sachen zum Sprechen zu bringen, aber auch den Museumsbesuch zu einem Erlebnis zu machen, das Spaß macht.
+[00:04:02-4 @andreaniehaus] Also ohne Vermittlung geht im Deutschen Museum gar nichts.
+[00:04:07-5 @andreaniehaus] Und ich habe mich dann hier bewusst nach Bonn orientiert, weil das Museum damals 95 noch relativ neu war.
+[00:04:17-9 @andreaniehaus] Mit einem sehr rührigen Leiter, das war der Dr. Peter Frieß.
+[00:04:23-2 @andreaniehaus] Und bei dem, habe ich gedacht, lerne ich am allermeisten. Und das war auch eine gute Entscheidung muss ich sagen bis heute.
+[00:04:30-9 @timpritlove] Vielleicht nochmal kurz zu dem Deutschen Museum in München.
+[00:04:33-5 @timpritlove] Das ist ja ein sehr großes Museum, das ist schon eine Weile her, seit ich das letzte Mal da war, muss ich zugestehen.
+[00:04:40-2 @timpritlove] Aber was hat den Unterschied so ausgemacht?
+[00:04:42-3 @timpritlove] Ich meine jetzt nur weil es Technik ist, dann ist es automatisch anders, das funktioniert ja jetzt noch nicht.
+[00:04:47-3 @timpritlove] Es muss ja dann auch irgendetwas in der Aufbereitung anders sein, als man es vielleicht klassischerweise einem Museum zuschreibt.
+[00:04:53-7 @andreaniehaus] Genau.
+[00:04:54-7 @timpritlove] Inwiefern ist das gelungen dort?
+[00:04:56-4 @andreaniehaus] Also ich finde es nach wie vor sehr gelungen.
+[00:04:58-6 @andreaniehaus] Denn die Exponate stehen dort nicht immer stumm rum, sondern man kann sie auch in Bewegung versetzen.
+[00:05:07-4 @andreaniehaus] Oder aber, wenn man es am Original selber nicht mehr kann, gibt es ein Modell, dass die Funktionsweise einer Apparatur eben auch zeigt oder das Prinzip dahinter erklärt.
+[00:05:20-5 @andreaniehaus] Und das denke ich ist eine gute Zusammenschau, denn wir sagen ja immer, Lernen funktioniert auf verschiedenen Kanälen.
+[00:05:28-1 @andreaniehaus] Man muss hören, man muss sehen, man muss fühlen, man muss begreifen und das sind alles Kanäle, Vermittlungskanäle, die das Deutsche Museum schon sehr gut anspricht.
+[00:05:37-8 @andreaniehaus] Und die Demonstration, das Hands-On, das was die Science-Centre ja heute sozusagen in Extenso machen, das ist etwas, was im Deutschen Museum eben von Beginn an eben auch mit einbezogen wurde.
+[00:05:51-2 @andreaniehaus] Im Unterschied zu den Science-Centern haben wir aber auch unsere historischen Exponate.
+[00:05:56-1 @andreaniehaus] Beispielsweise ich habe ja den Röntgen schon genannt, die erste Röntgenapparatur oder von Herrn Benz das erste Auto.
+[00:06:05-7 @andreaniehaus] Das sind natürlich auch Sachen, wo die Leute schon auch mit Ehrfurcht davor stehen.
+[00:06:11-0 @andreaniehaus] Und wo man sich dann auch überlegt, Mensch da hat der Herr Benz drin gesessen und ist mit seiner Frau oder seine Frau mit ihm, eigentlich war ja die Geschichte eher umgekehrt, hat diese erste entscheidende Autofahrt gemacht, um zu sagen, Mensch das Ding läuft.
+[00:06:26-3 @andreaniehaus] Und das sind diese Authentizität der Objekte, das ist etwas, was wir natürlich nach wie vor sehr fördern, auf die wir auch zurecht finde ich stolz sind.
+[00:06:36-3 @andreaniehaus] Aber es gilt eben bei uns auch das Drumherum, das heißt ich muss den Leuten auch sagen, ja was ist denn damit passiert, wie funktioniert das?
+[00:06:45-0 @andreaniehaus] Oder ich habe ein Modell, an dem ich die Dinge sozusagen in Bewegung setzen kann, um selber zu verstehen, Mensch was passiert denn da eigentlich?
+[00:06:54-9 @andreaniehaus] Das sieht man den Sachen ja eben nicht an.
+[00:06:57-1 @timpritlove] Bevor wir vielleicht auf die Details des Museums selber kommen, vielleicht nochmal kurz wie so die Entwicklungsgeschichte gelaufen ist.
+[00:07:07-4 @timpritlove] Also zunächst einmal gab es ja nur das Deutsche Museum in München, wodurch ist denn dann hier überhaupt die Idee für einen Ableger entstanden?
+[00:07:16-3 @andreaniehaus] Also soweit ich das wirklich mal zurückverfolgt habe, gab es erste Ideen schon in den 80er Jahren.
+[00:07:25-2 @andreaniehaus] Damals hat die Stadt Bonn, damals ja noch Bundeshauptstadt, ihre 2000 Jahr-Feier vorbereitet und es gab ein Gespräch hier mit dem Stifterverband im Wissenschaftszentrum, ob man hier in Räumlichkeiten nicht eine Ausstellung zum Thema Technik, angefangen von den Römern bis in die heutige Zeit, machen könnte.
+[00:07:48-3 @andreaniehaus] Das war so die erste Idee.
+[00:07:50-2 @timpritlove] Dazu muss man erläutern, Wissenschaftszentrum hier in Bonn …
+[00:07:53-1 @andreaniehaus] Genau richtig.
+[00:07:54-6 @timpritlove] … ist ein Ort, an dem verschiedenste wissenschaftliche Gruppen untergebracht sind.
+[00:08:00-5 @timpritlove] Jetzt standen wir vorhin noch vor der Tafel, die Liste kriege ich jetzt nicht mehr so ganz zusammen, aber Max-Planck-Gesellschaft, Helmholtz-Gemeinschaft alle sind in irgendeiner Form vertreten, DAAD.
+[00:08:09-7 @andreaniehaus] Und damals sind natürlich viel mehr …. Und damals war auch die Stiftung preußischer Kulturbesitz hier, die eine große Ausstellungsfläche eben auch hatten.
+[00:08:18-6 @andreaniehaus] Und es gab einen ungenutzten Keller, sage ich jetzt mal, das zweite Untergeschoss.
+[00:08:24-9 @andreaniehaus] Das erste, wo früher mal ein Schwimmbad oder Europas modernstes Fitnesscenter entstehen sollte.
+[00:08:31-7 @andreaniehaus] Anfang der 70er Jahre, als das Wissenschaftszentrum hier gebaut wurde, gab es ja die Energiekrise.
+[00:08:38-5 @andreaniehaus] Man hat sich dann überlegt, oh das wird aber teuer, wenn man hier ein Schwimmbad und Sauna und so etwas betreibt, allein von den Energiekosten.
+[00:08:45-5 @andreaniehaus] Und hat die Pläne dann letztendlich zurückgehalten.
+[00:08:49-9 @andreaniehaus] Es war aber schon quasi angelegt.
+[00:08:51-5 @andreaniehaus] Aber diese Räumlichkeiten sind dann nur noch für Partys der DFG, als Archiv genutzt worden, aber hatten nicht wirklich eine richtige Nutzung.
+[00:09:01-0 @andreaniehaus] Und da hat die Stadt Bonn eben angesetzt, entweder Stiftung preußischer Kulturbesitz oder direkt schon in diesen Kellerräumlichkeiten, das weiß ich jetzt nicht mehr ganz genau.
+[00:09:10-5 @andreaniehaus] Aber auf jeden Fall ist aus dieser ersten Idee eine zweite Idee entstanden, wenn wir schon eine Ausstellung machen, die temporär ist, wenn wir schon Geld ausgeben …
+[00:09:22-0 @timpritlove] Warum lassen wir sie nicht gleich stehen.
+[00:09:23-4 @andreaniehaus] Genau richtig.
+[00:09:25-0 @andreaniehaus] Und dann kamen tatsächlich diese Kellerflächen mit ins Spiel.
+[00:09:30-2 @andreaniehaus] Und man ist dann auf’s Deutsche Museum zugegangen.
+[00:09:33-3 @andreaniehaus] Es gab ja damals in Deutschland keine anderen Technikmuseen, die man groß hätte fragen können und das Deutsche Museum ist natürlich immer noch das bedeutendste Technikmuseum hier in Deutschland.
+[00:09:45-7 @andreaniehaus] Und die haben gesagt, ja das könnten wir uns eigentlich ganz gut vorstellen, in der Bundeshauptstadt, gerade letztendlich vor dem Aspekt auch Lobbyarbeit, das sind ja alles schon so Dinge.
+[00:09:57-1 @andreaniehaus] Aber wir können es nicht selber finanzieren.
+[00:10:00-6 @andreaniehaus] Dazu muss man sagen, dass das Deutsche Museum zwar damals 1903 vom deutschen Kaiser mitgegründet wurde, aber nach dem zweiten Weltkrieg, es gibt keine Nationalmuseen mehr und das Deutsche Museum ist zu 70% vom Freistaat Bayern finanziert und zu 30% über die Leibniz-Forschungsgemeinschaft.
+[00:10:22-7 @andreaniehaus] Das heißt es sind glaube ich 50% Bund und 50% sind das alle Bundesländer.
+[00:10:30-3 @andreaniehaus] Aber das ist entscheidend für uns, auch jetzt in der Situation, in der wir uns gerade befinden, dass das Land Bayern kein Geld nach Nordrhein-Westfalen geben wollte für unsere Aufbaukosten.
+[00:10:45-0 @andreaniehaus] Der Stifterverband hat auf diese Aussage hin natürlich Himmel und Hölle in Bewegung gesetzt, um jene Finanzierung zu sichern.
+[00:10:54-1 @andreaniehaus] Damals zu sichern.
+[00:10:57-0 @andreaniehaus] Und hat dann das Land Nordrhein-Westfalen wirklich mit ins Boot bekommen und die Bundeshauptstadt Bonn.
+[00:11:03-0 @andreaniehaus] Vielleicht nochmal zurück auch zu den Plänen, da ist ja politisch einiges passiert in Bonn, nämlich die Wiedervereinigung.
+[00:11:09-2 @andreaniehaus] Und die ersten Pläne waren so 1985, da war das ja noch in weiter Ferne.
+[00:11:15-7 @timpritlove] Da war das noch richtige Bundeshauptstadt.
+[00:11:17-1 @andreaniehaus] Genau richtig. Da wusste man ja noch nicht, was 89 passiert.
+[00:11:21-8 @andreaniehaus] Und 89 und dann vor allen Dingen 90 sind die Pläne mit so einem Deutschen Museum Bonn hier natürlich erst mal in der Schublade gelandet.
+[00:11:30-7 @andreaniehaus] Weil man ja auch wirklich nicht wusste, Bonn Berlin, wie geht es hier weiter?
+[00:11:39-5 @andreaniehaus] Dann 92 wurden die Pläne wieder aus der Schublade rausgeholt, denn Bonn hat sich quasi eine neue Ausprägung gegeben.
+[00:11:48-6 @andreaniehaus] Hat sich überlegt, Mensch was machen wir denn jetzt, wenn Berlin Bundeshauptstadt wird?
+[00:11:53-1 @andreaniehaus] Und die Entscheidung ist ja in der Zeit dann auch gefallen.
+[00:11:57-3 @andreaniehaus] Und man hat sich dann ein 5-Säulen-Modell, so wird es immer genannt, gegeben.
+[00:12:04-1 @andreaniehaus] Und Wissenschaft ist eine der Säulen gewesen, die den Strukturwandel hier in der Region eben mit stützen sollte.
+[00:12:10-6 @andreaniehaus] Da ist ja auch eine eigene Hochschule gegründet worden, die Hochschule Bonn-Rhein-Sieg.
+[00:12:15-7 @andreaniehaus] Da ist in Remagen ein Teil von der Hochschule Koblenz mit gegründet worden, der RheinAhrCampus.
+[00:12:26-5 @andreaniehaus] Und unter anderem hat man sich überlegt, Mensch da war doch mal was mit einem Museum.
+[00:12:32-3 @andreaniehaus] Das wäre ja eigentlich gar nicht mal so schlecht, wenn wir das hier auch noch mit unterbringen können.
+[00:12:35-4 @andreaniehaus] Und so kamen wir wieder aus der Schublade hervor mit einer Konstruktion, dass das Land Nordrhein-Westfalen die Investitionskosten getragen hat.
+[00:12:48-1 @andreaniehaus] Die Stadt Bonn, die ursprünglich dafür vorgesehen war, in die Betriebskosten hineinging und der Stifterverband mehr oder weniger die Personalkosten für den Aufbau des Museums getragen hat.
+[00:13:01-1 @andreaniehaus] Und eine 10-jährige Mietfreiheit gewährt hat.
+[00:13:05-1 @andreaniehaus] Das war also so eine Trias, die das Ganze wirklich so vorangetrieben hat, nach vielen Gesprächen, dass man im November 1995 wirklich hier eröffnen konnte.
+[00:13:19-1 @timpritlove] Da war dann zumindest für 10 Jahre erst mal alles klar?
+[00:13:23-5 @andreaniehaus] Genau richtig. Also eigentlich waren wir ein Experiment, würde ich mal sagen.
+[00:13:27-8 @andreaniehaus] Auch seitens des Deutschen Museums sicherlich.
+[00:13:31-4 @andreaniehaus] Denn wir haben ja, anders als unser Mutterhaus, mit 73.000 m2, das ist schon ordentlich, dafür braucht man quasi fast zwei Monate, um sich alles anzugucken, sind wir wesentlich kleiner mit 1.400 m2.
+[00:13:46-7 @andreaniehaus] Haben auch nicht so das enzyklopädische Wissen, das unser Münchner Haus hat.
+[00:13:52-2 @andreaniehaus] Dass wir, ich sage mal, den allerersten Computer und den letzten Computer zeigen, sondern wir fokussieren und haben etwa 100 Exponate, an denen wir exemplarisch erklären, wie Forschung in Deutschland organisiert ist, wie Wissenschaft in Deutschland organisiert ist.
+[00:14:12-5 @andreaniehaus] Wie das funktioniert und welche herausragenden Leistungen es letztendlich in den letzten Jahrzehnten gegeben hat.
+[00:14:21-8 @andreaniehaus] Und dadurch, dass wir eben relativ wenig Platz haben, mussten wir uns fokussieren.
+[00:14:28-5 @andreaniehaus] Das Deutsche Museum sammelt ja international und wir konzentrieren uns eigentlich auf Forschung und Technik in Deutschland nach 1945.
+[00:14:39-7 @timpritlove] Was ist denn jetzt eigentlich durch dieses Verhältnis zum Deutschen Museum bestimmt?
+[00:14:44-4 @timpritlove] Ich meine, man kann ja sagen, andere Finanzierungsstrukturen, anderer Ort, was hat es denn dann eigentlich noch mit dem Mutterhaus zu tun?
+[00:14:50-9 @timpritlove] Was für eine Art Verbindung existiert dort?
+[00:14:52-9 @andreaniehaus] Ja ich denke, wir sind auch in andere Sicht noch ein Experimentierfeld, dass man einfach versucht hat, dass wir auch personell in relativ schlanken Strukturen arbeiten müssen.
+[00:15:05-0 @andreaniehaus] Es ist nicht immer ganz einfach.
+[00:15:06-9 @andreaniehaus] Aber unser Mutterhaus stellt uns dafür eben auch Leistungen zur Verfügung, auf die wir zurückgreifen können.
+[00:15:14-1 @andreaniehaus] Hier in Bonn gibt es keinen einzigen Kurator, das heißt jemand, der ein bestimmtes Fachgebiet hat.
+[00:15:19-4 @andreaniehaus] Das Deutsche Museum in München hat etwa 52 Fachbereiche, von der Schifffahrt bis zur Raumfahrt, von der Biologie bis zur Chemie.
+[00:15:28-6 @andreaniehaus] Und betreut in dem Bereich eben die Exponate.
+[00:15:32-9 @andreaniehaus] Und entscheidet dann eben auch, wie und was gesammelt wird.
+[00:15:37-8 @andreaniehaus] Wir arbeiten mit diesen, das sind auch nicht mehr 52 Kuratoren, das war es einmal, wir arbeiten aber mit den Münchner Kuratoren sehr eng zusammen.
+[00:15:45-3 @andreaniehaus] Wir stellen ja deren Sachen, deren Exponate sozusagen aus.
+[00:15:49-5 @andreaniehaus] Und können, wenn wir Fachfragen haben, immer wieder auf sie zurückkommen.
+[00:15:53-5 @andreaniehaus] Uns wird ja auch vieles angeboten, zu sammeln.
+[00:15:57-3 @andreaniehaus] Wo wir manchmal sagen, ja das können wir natürlich nicht selber entscheiden, da müssen wir jetzt erst mal unsere Fachkuratoren in München fragen.
+[00:16:03-7 @andreaniehaus] Und entscheiden dann gemeinsam, ist das was, ist das interessant, wo stellen wir es aus?
+[00:16:08-3 @andreaniehaus] Und insofern ist da eine ganz ganz enge Zusammenarbeit.
+[00:16:11-0 @andreaniehaus] Das ist für uns auch wirklich wichtig, die Fachkompetenz in unserem Rücken zu haben.
+[00:16:14-6 @andreaniehaus] Das ist aber nur das eine. Das andere ist eben, dass unsere gesamte Verwaltung in München läuft.
+[00:16:20-8 @andreaniehaus] Das heißt unsere Personalverwaltung, Finanzverwaltung, Exponateverwaltung, da haben wir keinerlei Personal vor Ort, das das machen muss, sondern das läuft eben alles sozusagen über München.
+[00:16:33-0 @timpritlove] Man kann sich hier sozusagen auf das Schöne konzentrieren?
+[00:16:36-6 @andreaniehaus] Sagen wir mal so, wir können uns auf die eigentliche Museumsarbeit konzentrieren.
+[00:16:40-6 @timpritlove] Ja.
+[00:16:42-0 @andreaniehaus] Und da eben auch versuchen, neue Wege zu gehen, neue Wege zu suchen und einfach auszuprobieren.
+[00:16:48-5 @andreaniehaus] Wirklich ein Experimentierfeld.
+[00:16:50-8 @andreaniehaus] Und auch relativ schnell entscheiden zu können.
+[00:16:53-9 @andreaniehaus] Entscheidungen in München über Ausstellungen brauchen manchmal 2-3 Jahre.
+[00:17:00-3 @andreaniehaus] Wir brauchen keinen so großen Vorlauf.
+[00:17:02-7 @andreaniehaus] Das ist bei unserem Thema, zeitgenössische Forschung und Technik, natürlich auch immer schwierig.
+[00:17:06-8 @andreaniehaus] Wir müssen manchmal innerhalb eines halben Jahres entscheiden können, ob wir was machen oder nicht.
+[00:17:10-8 @andreaniehaus] Und insofern sind diese schlanken Strukturen, die flachen Hierarchien für uns eben auch ganz wichtig.
+[00:17:19-3 @timpritlove] Na dann kommen wir doch mal auf den Inhalt.
+[00:17:21-5 @timpritlove] Also schönes Stichwort, wie war nochmal die Formulierung?
+[00:17:25-6 @andreaniehaus] Zeitgenössische Forschung und Technik in Deutschland nach 1945.
+[00:17:29-8 @andreaniehaus] Schöner Untertitel nicht?
+[00:17:30-9 @timpritlove] Okay. Da ist ja jetzt mittlerweile auch schon einiges dazu gekommen, aber ist ja schon mal ein ganz klarer Fokus.
+[00:17:34-7 @andreaniehaus] Genau.
+[00:17:35-7 @timpritlove] Dass man sagt, okay wir schauen jetzt einfach ab der Gründung der Bundesrepublik Deutschland auf alles.
+[00:17:42-2 @timpritlove] Und auch nicht nur auf die Bundesrepublik Deutschland, sondern teilweise wird ja auch die Zweistaatlichkeit im Museum selbst thematisiert.
+[00:17:52-2 @timpritlove] Warum nicht weiter zurückblicken?
+[00:17:55-4 @andreaniehaus] Naja wir haben uns damals auch auf das Bonner Thema mit konzentriert.
+[00:18:00-1 @andreaniehaus] Wir sind hier nicht das einzige Museum, das in Bonn auch neu gegründet wurde.
+[00:18:04-1 @andreaniehaus] Sondern wir sind gemeinsam in einem Verbund, das nennt sich Museumsmeile, auch mit dem Haus der Geschichte der Bundesrepublik Deutschland, die ja quasi einen ähnlichen Fokus haben.
+[00:18:14-4 @andreaniehaus] Nach 1945, das ist eben auch verbunden mit der Bonner Geschichte, die ja sozusagen auch erst nach 45, vor allen Dingen auch nach der Entscheidung, Bonn eben Bundeshauptstadt zu werden, verknüpft ist.
+[00:18:29-7 @andreaniehaus] Und insofern denke ich, macht das auch Sinn hier in der Stadt.
+[00:18:34-4 @andreaniehaus] Vor allen Dingen auch, ich sage mal, regionale Bezüge geschichtlicher Art zu knüpfen, aber auch durchaus regionale Bezüge, indem wir halt auch schauen, was ist denn in Nordrhein-Westfalen alles denn so passiert?
+[00:18:48-8 @andreaniehaus] Ich würde mal sagen, ein gutes Drittel unserer Exponate stammt auch wirklich hier aus Nordrhein-Westfalen.
+[00:18:55-5 @andreaniehaus] Wir haben tatsächlich auch Bonner Exponate, und zwar solche, auf die wir sehr sehr stolz sind.
+[00:18:59-5 @andreaniehaus] Bonn und die Universität ist ja sehr stark in ihrer Physik, unter anderem, muss man jetzt ja sagen.
+[00:19:05-8 @andreaniehaus] Und wir haben den ersten Elektronenbeschleuniger mit starker Fokussierung, ich sage mal immer, der Urvater vom Cern, also der Riesenbeschleuniger in Genf.
+[00:19:16-9 @andreaniehaus] Und haben letztendlich eben auch glaube ich eine der zusammenhängendsten Sammlungen von Exponaten des Nobelpreisträgers Wolfgang Paul.
+[00:19:25-4 @andreaniehaus] Der hier in Bonn eben ganz eindeutig Geschichte geschrieben hat, gerade mit der Teilchenphysik.
+[00:19:33-8 @andreaniehaus] Und insofern gehört das sozusagen zu unseren Stammexponaten, zu den Stammexponaten.
+[00:19:41-3 @andreaniehaus] Aber man kann auch weiter nach Köln zum DLR gehen, das Deutsche Zentrum für Luft- und Raumfahrt, wo wir Exponate haben.
+[00:19:47-4 @andreaniehaus] Oder ins Forschungszentrum Jülich, wo wir eben auch unter anderem einen Physiknobelpreisträger ausstellen, nämlich den Peter Grünberg mit seinem Magnetresonanzeffekt.
+[00:19:58-2 @andreaniehaus] Also insofern denke ich machte das auch wirklich Sinn, hier zu gucken, was ist in der Gegend?
+[00:20:04-3 @andreaniehaus] Aber natürlich sammeln wir auch Dinge von Stuttgart bis Schleswig-Holstein.
+[00:20:10-5 @andreaniehaus] Jetzt muss ich aber schwer mal überlegen, was wir aus Schleswig-Holstein haben.
+[00:20:13-2 @andreaniehaus] Aber auf jeden Fall war es uns wichtig, wirklich einen Überblick zu geben.
+[00:20:18-9 @timpritlove] Aber man kann auch sozusagen was erzählen, selbst wenn Einstein sozusagen nicht mehr in der Aufgabenbeschreibung drin ist?
+[00:20:24-5 @andreaniehaus] Natürlich. Man kann immer was erzählen.
+[00:20:26-2 @timpritlove] Ja.
+[00:20:27-0 @andreaniehaus] Und das ist denke ich auch das, was wir machen wollen, wir wollen Geschichten erzählen.
+[00:20:30-6 @andreaniehaus] Und wir haben etwa 100 Exponate.
+[00:20:32-8 @andreaniehaus] Die sind zusammengefasst in 35 Kurzgeschichten, so nennen wir sie, die eben auch ein gemeinsames Thema haben.
+[00:20:43-2 @andreaniehaus] Wie die „Elementarteilchen“ oder andere Strukturaufklärungen.
+[00:20:51-3 @andreaniehaus] Also wir versuchen halt wirklich, hier in dem Museum Geschichten zu erzählen.
+[00:20:55-5 @timpritlove] Ja und es sind auch relativ komplexe Themen schon, die hier angefasst werden.
+[00:20:59-7 @timpritlove] Also normalerweise, wenn man jetzt so an Museum und Technik heranführen denkt, klar es sind auch so viele Basics drin so.
+[00:21:07-0 @timpritlove] Der fliegende Ball auf dem Luftstrom etc., was man sicherlich an vielen Orten schon mal gesehen hat und auch zurecht gesehen hat.
+[00:21:14-9 @timpritlove] Weil auch das muss natürlich herangeführt werden.
+[00:21:16-3 @timpritlove] Aber dann geht man ein paar Meter weiter, und dann hat man auf einmal so einen Ionenbeschleuniger und komplexere Sachen.
+[00:21:23-2 @timpritlove] Ist das immer so einfach, so megakomplexe Sachen so aufzubereiten, dass das auch sinnvoll ist?
+[00:21:29-7 @andreaniehaus] Das ist glaube ich das allerschwerste, was unseren Alltag eben auch ausmacht.
+[00:21:35-7 @andreaniehaus] Und ich glaube, seit den 20 Jahren oder es gibt uns ja jetzt seit über 20 Jahren, sind wenige Steine mehr auf dem anderen geblieben.
+[00:21:45-2 @andreaniehaus] Also wir haben das Museum schon komplett umgebaut.
+[00:21:48-9 @andreaniehaus] Nicht so komplett, wie wir es wünschten, aber wir sind glaube ich anders aufgestellt, als in der Zeit, wo das Museum eröffnet wurde.
+[00:21:57-4 @andreaniehaus] Weil wir einfach auch gemerkt haben, das ist sehr anspruchsvoll, was wir hier ausstellen.
+[00:22:02-8 @andreaniehaus] Und wir müssen sozusagen, wir merken ja auch, dass die Besucher, die zu uns kommen, eben auch nicht mehr das Grundlagenwissen haben, um das zu verstehen, was wir hier ausstellen.
+[00:22:15-0 @andreaniehaus] Und wir haben eigentlich Ende der 90er Jahre, da war von MIND-Bildung, was heute einem ja so leicht über die Lippen geht, noch überhaupt nichts in Aussicht.
+[00:22:25-0 @andreaniehaus] Da haben wir schon festgestellt, dass viele Schulklassen in Physik oder in der Chemie schon gar nicht mehr mit ihrem Wissen durchdringen, was wir hier ausstellen.
+[00:22:33-8 @andreaniehaus] Geschweige denn auch Erwachsene.
+[00:22:35-9 @andreaniehaus] Sondern dass es ein Museum eigentlich für Fachleute ist.
+[00:22:39-3 @timpritlove] Woran liegt das, dass das Wissen so nicht mehr da ist?
+[00:22:44-6 @andreaniehaus] Möglicherweise weil es auch sehr sehr komplex geworden ist.
+[00:22:46-7 @andreaniehaus] Man erforscht ja immer mehr, die Erkenntnis schreitet immer voran, und es ist eben heute alles nicht so einfach zu durchdringen.
+[00:22:56-7 @andreaniehaus] Und ich denke, wir müssen und das war unser Weg, erst mal wieder back to the roots, zu den Grundlagen.
+[00:23:05-5 @andreaniehaus] Und um den Faden nochmal von vorhin aufzunehmen, wir haben Ende der 90er Jahre eigentlich unser gesamtes Kinder- und Jugendprogramm angefangen zu entwickeln.
+[00:23:16-1 @andreaniehaus] Weil wir gemerkt haben, Schulklassen, die ein Interesse haben, die auch erwarten, wenn sie ins Deutsche Museum kommen, dass ihnen die Vermittlungskonzepte unseres Mutterhauses sozusagen angeboten werden, waren möglicherweise auch enttäuscht, dass sie es bei uns einfach nicht bekommen haben.
+[00:23:33-8 @andreaniehaus] Denn für uns ist es auch wirklich schwierig, mit diesem Fokus zeitgenössische Forschung und Technik.
+[00:23:41-2 @andreaniehaus] Wir haben eben keine Dampfmaschine, die man in Gang setzen kann, wie unsere Münchner Kollegen.
+[00:23:45-9 @andreaniehaus] Oder eben die „Dampflok“, wo die Augen leuchten.
+[00:23:52-3 @andreaniehaus] Sondern wir stellen häufig nur kleine Geräte aus oder auch etwas größere Geräte, da kann man dann sagen, das ist wichtig, aber man muss es eben zum Leben erwecken.
+[00:24:04-4 @andreaniehaus] Und das ist glaube ich in unserem Bereich extrem schwierig.
+[00:24:08-8 @andreaniehaus] Und wir versuchen da wirklich viele Register zu ziehen.
+[00:24:14-1 @andreaniehaus] Und haben denke ich über die Jahre, die es uns gibt, verschiedene Register dann auch wirklich entwickelt.
+[00:24:20-7 @timpritlove] Da würde mich ja mal interessieren, was da der Trick ist.
+[00:24:23-5 @timpritlove] Weil ich überlege jetzt gerade mal, unter anderem habe ich jetzt beim Durchgehen einen schönen mp3-Encoder gesehen.
+[00:24:32-4 @timpritlove] Das ist ja auch so eine Entwicklung, die in Deutschland vorgenommen wurde.
+[00:24:36-3 @timpritlove] Wenn man sich dann so die ersten Laborgeräte anschaut, dann sieht das ja ganz beeindruckend aus.
+[00:24:41-2 @timpritlove] Viel diskrete Elektronik, die da zusammengeschraubt ist und wahrscheinlich auch eine Menge Strom verbraucht hat.
+[00:24:47-3 @timpritlove] Aber zumindest schon zeigt, welche Ingenieurstätigkeit dahinter ist.
+[00:24:51-8 @timpritlove] Aber um jetzt sozusagen zu erfassen, was denn Audioencoding überhaupt ist und auf was das arbeitet.
+[00:24:58-6 @timpritlove] Man muss ja eigentlich bei vielem irgendwie sowieso immer bis 1850 oder zumindest bis 1900 zurückgehen, um diese Grundlagen auch wirklich zu bekommen.
+[00:25:11-7 @timpritlove] Also was ich sagen will, ist es denn sozusagen zu verschmerzen, dass man jetzt diese ersten 50 Jahre mehr oder weniger rauslässt?
+[00:25:18-8 @andreaniehaus] Wir lassen sie ja nicht raus, sondern wir haben einige andere Stationen, nur an anderen Stellen auch noch sozusagen ausgestellt.
+[00:25:31-1 @andreaniehaus] Aber ich denke, die mp3-Technik kann auch erst mal für sich stehen.
+[00:25:35-4 @andreaniehaus] Und das Interessante ist ja, dass viele Leute meinen, das ist eine Erfindung aus Amerika.
+[00:25:41-6 @andreaniehaus] Wo man zumindest auch mal geradestehen kann, dass das ganze aus Nürnberg Erlangen kommt, aus dem Fraunhofer Institut.
+[00:25:49-5 @andreaniehaus] Und das Schöne ist für uns diese Bewegung public understanding of science.
+[00:25:53-7 @andreaniehaus] Wo wir eben auch Ende der 90er Jahre wirklich von Anfang an mitgemacht haben.
+[00:25:58-4 @andreaniehaus] Denn die Wissenschaftler haben eben auch verstanden, dass sie ihre Erfindungen, ihre Erkenntnisse letztendlich dem Publikum mitteilen müssen, der Öffentlichkeit.
+[00:26:09-5 @andreaniehaus] Und das war für uns auch ein ganz ganz wichtiger Prozess, von dem wir profitiert haben.
+[00:26:15-9 @andreaniehaus] Denn wir haben das Fraunhofer Institut beispielsweise damals die Erfinder der mp3-Technik gefragt, ob sie uns helfen, das Ganze zu vermitteln.
+[00:26:23-7 @andreaniehaus] Und da sind wir natürlich sofort auf offene Türen gestoßen.
+[00:26:27-5 @andreaniehaus] Das war, sage ich mal, also vor diesem ganzen Prozess, manchmal schon auch etwas schwieriger.
+[00:26:35-1 @andreaniehaus] Wenn man den Wissenschaftlern gesagt hat, ja Sie müssen es so erklären, dass Lieschen Müller es auch versteht.
+[00:26:41-1 @andreaniehaus] Ich habe da manche schönen Szenen erlebt, wo man mehr oder weniger nicht bereit war, auf des Volkes Stimme sozusagen zu hören oder sich darauf hinabzulassen.
+[00:26:54-4 @andreaniehaus] Das ist ganz anders geworden, das ist super.
+[00:26:56-1 @andreaniehaus] Das ist auch super für uns, weil wir die Wissenschaftler sozusagen mit im Boot haben und gemeinsam Lösungen finden, wie man das vermitteln kann.
+[00:27:03-8 @andreaniehaus] Im Falle der mp3-Technik das Fraunhofer Institut eben wirklich einen ganz tollen Computerbeitrag entwickelt.
+[00:27:10-4 @andreaniehaus] Wo wir eben auch ein paar Anregungen geben konnten.
+[00:27:13-4 @andreaniehaus] Und das zeigen wir bei uns dann im Museum.
+[00:27:15-9 @timpritlove] Wodurch hat sich das geändert? Also was ist auf einmal anders, dass da irgendwas drüber nachgedacht wird?
+[00:27:23-6 @andreaniehaus] Ja ich denke wirklich, diese entscheidende Gründungsveranstaltung, damals glaube ich noch in der Akademie der Wissenschaften in Berlin, wo sich die großen Forschungschefs zusammengetan haben, um dieses Manifest public understanding of science done the humanities „Push“ genannt eben auch zu gründen.
+[00:27:46-6 @andreaniehaus] Wo man eben auch von oben gesagt hat, es ist unglaublich wichtig, dass wir unsere Erkenntnisse der Öffentlichkeit eben auch mitteilen.
+[00:27:55-5 @andreaniehaus] Das hat glaube ich eine Bewegung in Gang gesetzt.
+[00:27:58-2 @andreaniehaus] Wo ja die Wissenschaftssommer, wo der Stifterverband für die deutsche Wissenschaft ja auch sehr sehr aktiv war.
+[00:28:03-8 @andreaniehaus] Diese Ausschreibung, Stadt der Wissenschaft, das sind ja alles Meilensteine in etwas, was heute eigentlich schon fast normal herkommt.
+[00:28:11-7 @andreaniehaus] Wenn man heute Wissenschaftler fragt, wollen Sie bei uns einen Vortrag halten oder wollen Sie an einer Diskussionsrunde teilnehmen, dann ist das kein Thema mehr.
+[00:28:21-6 @andreaniehaus] Und insofern freue ich mich.
+[00:28:23-6 @andreaniehaus] Und wir profitieren wie gesagt davon.
+[00:28:25-9 @andreaniehaus] Und die mp3-Technik wie gesagt, es auszustellen ist ja auch immer nur ein Teil.
+[00:28:30-9 @andreaniehaus] Ich hatte ja vorhin gesagt, wir haben keinen Stein auf dem anderen gelassen.
+[00:28:34-6 @andreaniehaus] Wir haben natürlich auch ein Forum bei uns dann quasi entwickelt.
+[00:28:38-9 @andreaniehaus] Wir haben dafür Dinge weggeräumt, abgerissen, Exponate sozusagen in das Depot gestellt, damit wir als Museum eben auch einen Veranstaltungsort und ein Veranstaltungsraum bekommen, wo wir eben die Wissenschaftler einladen.
+[00:28:53-6 @andreaniehaus] Wo wir Diskussionsrunden machen.
+[00:28:57-2 @andreaniehaus] Adressat ist die Öffentlichkeit, um sich da eben auch wirklich von den Wissenschaftlern direkt Informationen zu holen, mit ihnen ins Gespräch zu kommen und zu diskutieren.
+[00:29:07-3 @andreaniehaus] Das ist eben auch ganz ganz wichtig.
+[00:29:11-4 @timpritlove] Der Begriff Museum, dem heftet ja schon noch so ein bisschen der Staub an.
+[00:29:16-7 @andreaniehaus] Zu Unrecht.
+[00:29:18-0 @timpritlove] Sicherlich zu Unrecht, aber es ist so.
+[00:29:21-7 @timpritlove] Also manche bringen jetzt neue Begriffe auf, es fiel hier auch schon, Science Centre ist so einer dieser Worte.
+[00:29:30-9 @timpritlove] Ich weiß nicht, es gibt glaube ich noch irgendwas anderes, was ich jetzt gerade vergraben habe.
+[00:29:35-0 @timpritlove] Aber das ist ja auch eine Bewegung, die jetzt nicht nur in Deutschland stattfindet.
+[00:29:38-9 @timpritlove] Sondern ich habe das schon an verschiedensten Orten …
+[00:29:43-1 @timpritlove] Auch in Deutschland gibt es verschiedene, Wolfsburg hier diese Pheno???.
+[00:29:49-7 @timpritlove] Es gibt also verschiedene mit ähnlichen Namen.
+[00:29:52-3 @timpritlove] Also dieses Spielerische, neu aufzurollen und ein Verständnis für Technik und Wissenschaft herbeizuführen, ist ja schon ein globaler Trend.
+[00:30:01-6 @timpritlove] Also gibt es auch außerhalb von Deutschland an vielen Stellen.
+[00:30:05-6 @timpritlove] Kann der Begriff Museum da noch mithalten oder muss man den vielleicht irgendwann mal ablegen?
+[00:30:13-7 @andreaniehaus] Das ist eine ganz ganz tricky Frage ehrlich gesagt.
+[00:30:17-8 @andreaniehaus] Ich bin durch und durch Museumsfreund, wie gesagt.
+[00:30:20-9 @andreaniehaus] Museum ist zu Unrecht verstaubt oder wie auch immer.
+[00:30:26-0 @andreaniehaus] Ich glaube, das sehen auch andere unterschiedlich, für andere ist er ganz positiv besetzt.
+[00:30:31-4 @andreaniehaus] Weil wir bewahren ja Dinge, die ansonsten vielleicht auf dem Müll landen würden, für die Menschheit auf.
+[00:30:40-6 @andreaniehaus] Wer weiß, was mit Karl Benz’ erstem Auto passiert wäre oder der Anlage von Röntgen.
+[00:30:45-7 @andreaniehaus] Ich meine, ich bin damals mit Peter Grünberg durchs Forschungszentrum Jülich spaziert.
+[00:30:50-4 @andreaniehaus] Ich glaube durch alle Labors.
+[00:30:51-5 @andreaniehaus] Und der hat gesagt, er hat mit einem Gerät seine ersten Messungen gemacht, aber er weiß nicht mehr, welche.
+[00:30:57-3 @andreaniehaus] Das ist schade, dass dieses Bewusstsein eben heute nicht mehr ganz so stark ist.
+[00:31:03-2 @andreaniehaus] Dass man immer wieder als Museum sagen muss, bitte nicht wegschmeißen.
+[00:31:06-1 @andreaniehaus] Bevor ihr es wegschmeißt, fragt bitte mich.
+[00:31:08-9 @andreaniehaus] Gerade in meinem Bereich zeitgenössische Forschung und Technik.
+[00:31:11-7 @andreaniehaus] Ich sitze quasi bei den Wissenschaftlern auf dem Schoß und sage, bitte nicht wegschmeißen.
+[00:31:18-1 @andreaniehaus] Und ich denke, die Science Centre, es gab früher mal in den 90er Jahren, als das so hochschwappte, natürlich auch so ein bisschen Animositäten zwischen den Museen und den Science Centern.
+[00:31:31-1 @andreaniehaus] Weil Science Centre extrem finanziell gut ausgestattet wurden.
+[00:31:34-8 @andreaniehaus] Jede Stadt, jede Kommune hat sich dann mit einem Science Centre geschmückt und wir Museen mussten dann halt immer so ein bisschen aus der Röhre gucken.
+[00:31:45-4 @andreaniehaus] Heute ist eine gute Zusammenarbeit eigentlich die Regel.
+[00:31:48-2 @andreaniehaus] Es gibt Verbände, in denen sowohl Science Centre als auch Science Museums sitzen und gemeinsam Dinge entwickeln.
+[00:31:56-8 @andreaniehaus] Also insofern, denke ich, können wir voneinander auch lernen.
+[00:32:00-2 @andreaniehaus] Also da habe ich ehrlich gesagt keinerlei Berührungsängste.
+[00:32:04-7 @timpritlove] Also gibt es da überhaupt noch einen Unterschied?
+[00:32:05-9 @andreaniehaus] Ja, das sind die historischen Exponate, das ist der größte Unterschied.
+[00:32:11-5 @andreaniehaus] Und wenn ein Science Centre Exponat sagt, dann meint er seine Demonstrationen.
+[00:32:16-0 @andreaniehaus] Jetzt muss man dazu sagen, dass die Science Centre ihre Exponate in der Regel auch nicht selber bauen.
+[00:32:25-9 @andreaniehaus] Es gibt welche, die tun das, aber in der Regel gibt es einfach Firmen, die die Science Centre bestücken.
+[00:32:33-3 @andreaniehaus] Und je nachdem wie das Konzept eben eines Science Centres aussieht, erkennt man den Ball, den auch wir haben, mit dem Bernoulli-Effekt.
+[00:32:42-1 @andreaniehaus] Dieser Fön, mit dem man einen Ball balanciert, den hat man natürlich in allen anderen Science Centres auch.
+[00:32:50-1 @andreaniehaus] Unsere historischen Exponate machen uns aber sozusagen einzigartig.
+[00:32:57-4 @andreaniehaus] Denn so ein erstes Auto findet man nur im Deutschen Museum.
+[00:33:00-3 @andreaniehaus] Das Stuttgarter Mercedes Museum hat leider nur einen Nachbau.
+[00:33:06-1 @andreaniehaus] Und das ist das, was nochmals diese Museen eben ausmachen, die Authentizität - oh Gott schwieriges Wort - ihrer Objekte.
+[00:33:15-5 @andreaniehaus] Manches von unseren Dingen, jetzt hier auch in Bonn, mag Massenware gewesen sein, ein Exponat, aber es hat eine Bedeutung dadurch, dass ein Wissenschaftler mit diesem Gerät etwas besonderes herausgefunden hat.
+[00:33:29-6 @andreaniehaus] Und das ist eben schon auch diese Aura.
+[00:33:32-1 @andreaniehaus] Da bin ich dann auch wirklich Kulturfrau, das ist diese Aura, die um ein Exponat herumschwebt, die meines Erachtens wirklich unvergleichbar ist.
+[00:33:41-9 @andreaniehaus] Und ich kann mich noch wie heute erinnern, wir haben die erste Messapparatur von dem sogenannten Patch-Clamp-Messplatz von den beiden Nobelpreisträgern Erwin Neher und Bert Sakmann.
+[00:33:54-2 @andreaniehaus] Und die beiden waren mal bei einer Veranstaltung bei uns und haben sich davor gestellt und gesagt, mein Gott was haben wir damals gebastelt.
+[00:34:02-5 @andreaniehaus] Wir haben überhaupt nicht gewusst, wir hatten nur eine Idee, wie wir das rausbekommen wollten und was haben wir damals wirklich gebastelt.
+[00:34:12-2 @andreaniehaus] Also an diesen Spruch kann ich mich bis heute noch dran erinnern, weil es eben auch so diese Genese zeigt.
+[00:34:18-1 @andreaniehaus] Viele unserer Exponate haben ja wirklich eine Geschichte, eine Entstehungsgeschichte und ich finde die großartig.
+[00:34:25-7 @andreaniehaus] Denn das sind ja auch unsere Rolemodels, unsere Exponateväter und -mütter, so nennen wir die sie immer ganz nett, sind ja auch Rolemodels für die jungen Leute, die zu uns kommen.
+[00:34:37-5 @andreaniehaus] Weil jeder weiß ja heute nicht mehr was er wird und wie werde ich das?
+[00:34:42-1 @andreaniehaus] Wenn ich Erfinder werden will, was muss ich da eigentlich studieren und solche Sachen.
+[00:34:47-6 @andreaniehaus] Also wir können eben auch wirklich diese Vorbilder liefern, indem wir diese Geschichten erzählen, vielleicht einem Jungen oder Mädchen letztendlich eben sagen, Mensch die Erfinder, die wir ausstellen, standen mal genau vor derselben Frage.
+[00:35:05-3 @andreaniehaus] Und haben dieses und jenes gemacht.
+[00:35:08-4 @andreaniehaus] Also ich denke, das ist auch nochmal eine ganz wichtige Funktion, die wir als Museum eben auch erfüllen.
+[00:35:13-2 @andreaniehaus] Außer dass wir die Sachen einfach nur konservieren, haben wir wirklich eine sehr große, spielen wir wirklich eine sehr sehr große Rolle mit unserer Vermittlung in der Nachwuchsbindung.
+[00:35:27-3 @timpritlove] Schauen wir doch nochmal auf die außergewöhnlichen Exponate.
+[00:35:30-8 @timpritlove] Es gibt ja deren gleich mehrere.
+[00:35:32-4 @timpritlove] Gleich wenn man reinkommt, dann strahlt einen ein Transrapid an.
+[00:35:39-3 @timpritlove] Sicherlich auch eine der … fragwürdige Bedeutung hat.
+[00:35:45-6 @timpritlove] Weil ist es denn jetzt eine Leistung oder ist es denn eigentlich ein Scheitern?
+[00:35:49-4 @timpritlove] Technisch ist es sicherlich auf jeden Fall eine Leistung.
+[00:35:52-8 @timpritlove] Und wir werden sicherlich auch irgendwann nochmal sehen, dass bestimmte Dinge ja außerhalb von Deutschland durchaus Erfolg haben, nur irgendwie in Deutschland aus irgendwelchen Gründen nicht so richtig.
+[00:36:02-2 @andreaniehaus] Das kann man, da muss ich Ihnen wieder heftig widersprechen, das ist ja das Schöne, dass wir an solchen Beispielen eben auch andere Geschichten erzählen können.
+[00:36:11-2 @andreaniehaus] Ich warte noch ein bisschen auf die Geschichte, dass wir sie auch wirklich erzählen.
+[00:36:14-2 @andreaniehaus] Mit einem Exponat aber der Transrapid ist von der technischen Leistung her wirklich großartig.
+[00:36:22-2 @andreaniehaus] Man hat sozusagen es nur nicht geschafft, es politisch durchzusetzen.
+[00:36:27-7 @andreaniehaus] Und das ist ja auch das, was wir zeigen.
+[00:36:30-1 @andreaniehaus] Wissenschaft und Technik entsteht ja nicht in luftleerem Raum, sondern es muss immer Bedingungen geben, die Wissenschaft und Technik sozusagen möglich machen.
+[00:36:40-6 @andreaniehaus] Es müssen die richtigen Entscheidungen gefällt werden.
+[00:36:43-6 @andreaniehaus] Es müssen die richtigen wirtschaftlichen Komponenten eben sein.
+[00:36:47-5 @andreaniehaus] Es ist wie gesagt ein Geflecht von Gesellschaft, von Wirtschaft, von Politik und Wissenschaft, das Dinge sozusagen voranbringt.
+[00:36:56-4 @andreaniehaus] Und im Falle des Transrapids war das ja eine sehr sehr alte Technologie bzw. die Idee geht wirklich auf die 1920er Jahre zurück.
+[00:37:06-6 @andreaniehaus] Und wurde dann in den 60er Jahren mehr oder weniger auch aus der Schublade geholt.
+[00:37:11-4 @andreaniehaus] Und die Idee lebt aber interessanterweise wohl weiter, und zwar in Fahrstühlen.
+[00:37:18-3 @andreaniehaus] Die Firma Thyssen Krupp hat in Rottweil ein großes Zentrum gebaut, einen Turm, wo sie letztendlich eben Fahrstühle testet, die genau mit diesem elektromagnetischen Prinzip und diesen ganzen Feinheiten, die am Transrapid ausprobiert wurden, bestückt.
+[00:37:36-0 @andreaniehaus] Und da bin ich schon im Gespräch, aber ich habe leider da noch keine frohe Kunde, dass ich auch das mal bei uns thematisiere.
+[00:37:46-8 @timpritlove] Das sind diese Fahrstühle, die auch quer fahren oder?
+[00:37:49-0 @andreaniehaus] Genau. Also spannend spannend spannend.
+[00:37:53-1 @andreaniehaus] Und ich meine, gut ich finde es selber sehr sehr schade, dass man nach Shanghai fahren muss, um Transrapid fahren zu können.
+[00:37:59-3 @andreaniehaus] Ich selber habe das mehrere Male gemacht, aber auch in Lathe auf der Versuchsstrecke.
+[00:38:05-6 @andreaniehaus] Ja, die es ja nicht mehr gibt. Aber es wird ein neues Museum geben über den Transrapid.
+[00:38:13-2 @timpritlove] Sehr schön aus persönlicher Sicht finde ich natürlich auch das Trautonium, was dort herumsteht von Oskar Sala.
+[00:38:20-5 @timpritlove] Ein außergewöhnlicher Erfinder und Musiker in einem, der im Prinzip so die ganze Synthesizer-Entwicklung vorweggenommen hat.
+[00:38:30-7 @timpritlove] Warum steht das da?
+[00:38:32-6 @andreaniehaus] Ja weil es sozusagen einzigartig ist, ein tolles Schätzchen.
+[00:38:36-3 @andreaniehaus] Wie ich schon sagte, wir haben manchmal Apparaturen, die wirklich aus einer Massenproduktion kommen und durch einen Wissenschaftler zu etwas besonderem wurden.
+[00:38:45-9 @andreaniehaus] Das Trautonium, das Mixtur-Trautonium ist per se etwas ganz besonderes.
+[00:38:52-6 @andreaniehaus] Und ich meine, ich finde es immer sehr sehr spannend, dass das Deutsche Museum auch eine große Sammlung von Musikinstrumenten hat, die in irgendeiner Weise einen technischen Bezug haben.
+[00:39:01-4 @andreaniehaus] Und das sind nun eigentlich schon relativ viele.
+[00:39:04-2 @andreaniehaus] Und der Oskar Sala hat eben mit diesem Mixtur-Trautonium erstens relativ viele Patente da auch reingesteckt, der war ja Physiker und Komponist.
+[00:39:13-7 @andreaniehaus] Hat bei Hindemith Komposition studiert und hat das Gerät ständig weiter entwickelt.
+[00:39:19-4 @andreaniehaus] Und mit diesem Gerät ist der Thriller von Hitchcocks Film, ist die Musik - Entschuldigung - von Hitchcocks Film „Die Vögel“ vertont worden.
+[00:39:31-4 @andreaniehaus] Und insofern wurde damit Geschichte geschrieben.
+[00:39:35-1 @timpritlove] Schon mal beim Kling-Klang-Studio angefragt, ob die nicht auch noch ein paar Durchbrüche der Synthesizer-Entwicklung bringen kann?
+[00:39:42-9 @timpritlove] Ist ja auch Nordrhein-Westfalen.
+[00:39:44-4 @andreaniehaus] Ja, also Stockhausen hatten wir natürlich auch mal als Exponat.
+[00:39:49-0 @andreaniehaus] Das ist dann sozusagen durch die mp3-Technik verdrängt worden das Exponat, aber wir sind immer offen.
+[00:39:56-1 @andreaniehaus] Wir brauchen nur immer den Platz.
+[00:39:57-7 @timpritlove] Ja.
+[00:39:58-4 @andreaniehaus] Kommt ein Exponat, muss ein anderes weichen.
+[00:40:00-9 @timpritlove] Ja mit Kraftwerk in Kontakt zu treten, scheint auch nicht so einfach zu sein.
+[00:40:04-8 @andreaniehaus] Nein richtig. Aber das schöne ist, Oskar Sala und die Kraftwerks-Leute haben sich gekannt.
+[00:40:10-4 @andreaniehaus] Die haben auch - damals war das natürlich jetzt nicht so, dass man sich Emails geschrieben hat, aber korrespondiert und telefoniert.
+[00:40:15-8 @andreaniehaus] Die Kraftwerks-Leute waren sehr interessiert an dem, was der Oskar Sala gemacht hat.
+[00:40:22-8 @andreaniehaus] Und Oskar Sala war ja wirklich ein berühmter Mann, der diverse Preise abgeräumt hat.
+[00:40:28-1 @andreaniehaus] Ich habe ihn persönlich auch noch erleben können und was war das interessant.
+[00:40:32-4 @andreaniehaus] Also wirklich ein recht kleiner Mann, der - ich habe ihn erlebt, ich glaube, da war er schon Ende 80, bei einer Preisverleihung bei der Bundeskunsthalle für sein Lebenswerk.
+[00:40:46-3 @andreaniehaus] Und ich glaube gegen Mitternacht taute er auf und hat dann bis 4 Uhr morgens durchgemacht.
+[00:40:51-6 @andreaniehaus] Ein unglaublich toller Mann.
+[00:40:55-1 @timpritlove] Was mich persönlich natürlich immer sehr anspricht, ist die Computerentwicklung, die war ja in Deutschland auch nicht ganz irrelevant.
+[00:41:01-6 @timpritlove] In Ihrem Museum steht ein Z23.
+[00:41:04-9 @timpritlove] Immerhin so auch der erste Transistorcomputer.
+[00:41:08-9 @timpritlove] Was kann man denn an solchen Exponaten erklären?
+[00:41:13-0 @timpritlove] Also was wird denn mit dem Teil dann vermittelt?
+[00:41:17-6 @andreaniehaus] Also wir haben ja die Speichereinheit dieses Z23 ausgestellt.
+[00:41:23-0 @andreaniehaus] Und das ist sozusagen die erste mit Transistoren.
+[00:41:26-6 @andreaniehaus] Und man sieht natürlich vor allen Dingen erst mal die Größe.
+[00:41:29-3 @andreaniehaus] Das ist ja ein, ich sage mal, riesiger Schrank.
+[00:41:32-5 @andreaniehaus] Und direkt daneben steht der Peter Grünberg mit seiner kleinen „Festplatte“, um einfach mal die Dimensionen von damals und heute klarzumachen.
+[00:41:42-8 @andreaniehaus] Der Zuse ist von 65, ich glaube das waren 200.000 Rechenoperationen pro Minute.
+[00:41:52-4 @andreaniehaus] Ich glaube heutige Rechenoperationen pro Sekunde sind im Millionenbereich, vielleicht sogar bei einer Milliarde und wesentlich kleiner.
+[00:42:02-3 @andreaniehaus] Also mir zeigt das oder das, was wir damit eben auch zeigen wollen, ist letztendlich eben auch die Miniaturisierung.
+[00:42:11-9 @timpritlove] Ja. Glaube da sind wir auch schon weiter als Millionen und Milliarden.
+[00:42:17-3 @andreaniehaus] Ich glaube beim iPhone beim letzten, ich weiß nicht, ob man hier Produkte nennen kann, aber sind es glaube ich ein paar Milliarden pro Sekunde.
+[00:42:27-7 @timpritlove] Also es bewegt sich auf jeden Fall schon in einem Bereich, wo es irgendwie schon fast überhaupt nicht mehr relevant ist, das noch groß zusammenzuzählen.
+[00:42:35-5 @timpritlove] Ja, dieser … ich war jetzt früh am Morgen dort, alles voll mit Schulklassen, hatte ich den Eindruck.
+[00:42:50-1 @timpritlove] Das dürfte eine ganze Menge der Aktivität ausmachen.
+[00:42:52-5 @timpritlove] Wie geht man denn pädagogisch an diese ganze Sache heran?
+[00:42:56-8 @andreaniehaus] Ich meine schöne Dinge ausstellend das irgendwie erklären, ist ja so das eine.
+[00:43:00-0 @timpritlove] Aber ich vermute mal, in dem Moment, wo man die Tür aufmacht und die Kids kommen reingelaufen und die entscheiden dann darüber, was interessant ist und was nicht interessant ist, dann fängt man doch erst zu lernen und anzupassen.
+[00:43:12-5 @timpritlove] Wie geht man da ran?
+[00:43:15-4 @timpritlove] Wie positioniert man das Museum auch als Ausbildungsort?
+[00:43:20-7 @andreaniehaus] Wie gesagt, Anfang der 90er Jahre ist uns klar geworden, dass wir da was tun müssen.
+[00:43:27-2 @andreaniehaus] Dass das Museum so eigentlich nur für Spezialisten funktioniert.
+[00:43:32-5 @andreaniehaus] Und das war sozusagen der Startschuss für uns, ein Workshop-Programm zu entwickeln für Kinder und Jugendliche.
+[00:43:40-5 @andreaniehaus] Mittlerweile umfasst unser Programm glaube ich fast 45, ich glaube wir nähern uns schon fast 50, Themen rund um die Naturwissenschaften.
+[00:43:49-5 @andreaniehaus] Wo es uns vor allen Dingen um die Vermittlung der Grundlagen geht.
+[00:43:53-3 @andreaniehaus] Also wie gesagt, mit einer Anbindung an Exponate.
+[00:43:56-7 @andreaniehaus] Aber nehmen wir doch zum Beispiel das Mixtur-Trautonium, wie produziert denn das Töne?
+[00:44:01-6 @andreaniehaus] Was sind Töne überhaupt?
+[00:44:03-4 @andreaniehaus] Also wirklich back to the roots, erst mal ganz vorne anfangen.
+[00:44:09-2 @andreaniehaus] Und die physikalischen Grundlagen von Musik eben auch zu erfahren.
+[00:44:16-1 @andreaniehaus] Die Workshops sind natürlich alle so konzipiert, dass man vieles eben selber machen kann.
+[00:44:20-3 @andreaniehaus] Denn begreifen oder verstehen tut man vor allen Dingen, wenn man auch begreifen kann, also sprich wirklich mit seiner Hand Dinge tun kann, produzieren kann.
+[00:44:29-6 @andreaniehaus] Und insofern ist das handlungsorientierte Lernen eine ganz ganz wichtige Komponente bei uns.
+[00:44:35-5 @andreaniehaus] Wir haben beispielsweise zum Thema Computer Ende der 90er Jahre auch schon angefangen, hier mit dem Fraunhofer-Institut für autonome intelligente Systeme, die also ganz stark in der Robotik sind, an einem Workshop-Programm, das nannte sich damals Roberta und sollte sozusagen die Informatik eben auch für Mädchen spannend machen.
+[00:44:57-7 @andreaniehaus] Indem sie eben einen Roboter bauen aus Lego, Lego Mindstorm fing damals an.
+[00:45:03-9 @andreaniehaus] Und die sollten den eben nicht nur bauen, sondern eben natürlich auch programmieren.
+[00:45:09-4 @andreaniehaus] Und da sind wir sofort mit eingestiegen, weil das fanden wir super.
+[00:45:12-8 @andreaniehaus] Und das läuft bei uns bis heute.
+[00:45:15-3 @andreaniehaus] Das sind wirklich auch sehr erfolgreiche Programme, weil das auch Kinder wirklich ab 8 Jahre wirklich auch sehr anspricht.
+[00:45:25-8 @andreaniehaus] Und wir haben jetzt auch oder schon seit Jahren eine Schule, die hier regelmäßig die Generalprobe für die großen Wettbewerbe macht.
+[00:45:34-4 @andreaniehaus] Die heißen RoboCup oder FirstLegoLeague, das sind also zwei separate Workshops, wo hier wirklich 200 Schulkinder dann aus ganz Nordrhein-Westfalen zusammen kommen und hier mit ihren kleinen Lego-Robotern letztendlich einen ganz großen Parcours bewältigen müssen.
+[00:45:53-0 @andreaniehaus] Und insofern eine kleine Keimzelle, aus der sich dann vieles entwickelt.
+[00:45:57-4 @andreaniehaus] Das ist denke ich so unsere Vorgehensweise.
+[00:46:03-7 @andreaniehaus] Das zweite, was wirklich auch sehr sehr gut angenommen wird, wir haben gemerkt, dass wir viel zu wenig machen für Kinder aus etwas benachteiligten sozialen Gruppen.
+[00:46:17-8 @andreaniehaus] Dass zwar die Gymnasien zu uns kommen mit ihren tollen engagierten Lehrern, dass uns die Hauptschulen beispielsweise aber nicht so unbedingt frequentieren.
+[00:46:28-8 @andreaniehaus] Daraus haben wir eben auch ein Programm gemacht.
+[00:46:32-2 @andreaniehaus] Wir haben die deutsche Telekomstiftung dazu gewinnen können, bei uns ein Schülerlabor zu Alltagschemie zu entwickeln, das wirklich sehr sehr niederschwellig ist.
+[00:46:40-9 @andreaniehaus] Dafür haben wir auch ein Teil des Museums umgebaut, unseren Eingangsbereich.
+[00:46:45-8 @andreaniehaus] Da wo früher ein Überblick über das deutsche Forschungssystem, allerdings ein bisschen langweilig, dargestellt war, das haben wir rausgekloppt und haben das Ganze ins Internet gestellt.
+[00:46:55-6 @andreaniehaus] Weil das ja dann sozusagen auch ein gutes Medium ist für solche Überblicke.
+[00:47:01-8 @andreaniehaus] Und haben mitten im Eingangsbereich hinter der Kasse wirklich unser Schülerlabor, was aber aussieht, wie eine ganz ganz große Küche.
+[00:47:11-1 @andreaniehaus] Unsere „Chemikalien“ stehen in Wandschränken.
+[00:47:16-7 @andreaniehaus] Da kann man also sehen, dass man Backpulver da hat oder Essigessenz oder Rohrreiniger und solche Sachen.
+[00:47:24-5 @timpritlove] Also normale Dinge sozusagen.
+[00:47:25-6 @andreaniehaus] Genau richtig, oder Shampoo.
+[00:47:27-7 @andreaniehaus] Und so sind eigentlich auch die Workshops aufgezogen, so ein bisschen als Geschichte, als Story, wie man ja heute schön neudeutsch sagt, Storytelling.
+[00:47:39-3 @andreaniehaus] Beispielsweise haben wir einen tollen CSI-Workshop.
+[00:47:41-6 @andreaniehaus] Also wer war der Dieb?
+[00:47:45-3 @andreaniehaus] Wo es wirklich letztendlich darum geht, man findet im Museum Dinge.
+[00:47:48-3 @andreaniehaus] Ein weißes Pulver oder eine Serviette mit roten Flecken und dann muss man sozusagen wie in der Gerichtsmedizin untersuchen, was es denn ist.
+[00:48:02-0 @andreaniehaus] Ob das weiße Pulver Zucker ist oder Salz?
+[00:48:05-0 @andreaniehaus] Ob der rote Fleck Rotkohl ist oder rote Bete.
+[00:48:08-9 @andreaniehaus] Und das eben mit ganz ganz einfachen Analysemitteln.
+[00:48:11-7 @andreaniehaus] Also sprich, Essigessenz oder anderen Dingen.
+[00:48:15-3 @andreaniehaus] Ja mit Hilfe von Experimenten den Dieb finden.
+[00:48:21-2 @andreaniehaus] Und der Hit jetzt gerade zur Weihnachtszeit ist natürlich die Weihnachtsbäckerei.
+[00:48:27-6 @andreaniehaus] Das sind Lebkuchen aus der Mikrowelle.
+[00:48:34-6 @andreaniehaus] Wo die Kinder eben wirklich etwas lernen über Backtriebmittel.
+[00:48:38-7 @timpritlove] Ich dachte schon, man muss rausfinden, wo der Weihnachtsmann wohnt.
+[00:48:42-8 @andreaniehaus] Nein, aber man muss auch die richtige Temperatur finden, denn manchmal riecht es auch ein bisschen verbrannt und bisschen verkokelt.
+[00:48:48-6 @andreaniehaus] Das ist dann, wenn der Lebkuchen zu lange in der Mikrowelle ist.
+[00:48:52-3 @andreaniehaus] Also wirklich die Kinder oder Besucher dort abholen, wo sie stehen.
+[00:48:58-6 @andreaniehaus] Und das ist eben unsere Philosophie und kommt wirklich super an und die Hauptschulen lieben das.
+[00:49:04-5 @andreaniehaus] Ich meine hier in Nordrhein-Westfalen haben wir inzwischen ja den Trend, dass die Hauptschulen abgeschafft werden, aber die Schüler gibt es ja trotzdem.
+[00:49:10-9 @andreaniehaus] Die bleiben in den Gesamtschulen.
+[00:49:12-8 @andreaniehaus] Und mit denen arbeiten wir jetzt eben auch eng zusammen und haben auf dem Ganzen noch etwas aufgesattelt.
+[00:49:19-1 @andreaniehaus] 90 Minuten ist ja alles sehr schön und kann eben auch was bewirken, aber wir haben ein Projekt in der Experimentierküche aufgesattelt, das nennt sich Laborführerschein.
+[00:49:30-5 @andreaniehaus] Das umfasst 40 Stunden, das ist schon richtig aufwendig für die Schüler.
+[00:49:35-5 @andreaniehaus] Das machen die in der 8. Klasse, das machen sie freiwillig.
+[00:49:39-3 @timpritlove] Was lernt man da?
+[00:49:40-5 @andreaniehaus] Man lernt viel über Kunststoffe und man lernt aber auch viel über sich selber.
+[00:49:46-7 @andreaniehaus] Man lernt auch viel über seine Stärken.
+[00:49:48-6 @andreaniehaus] Das Ganze ist gekoppelt mit einem Persönlichkeitsbildungsprozess.
+[00:49:54-5 @andreaniehaus] Experimentieren ist ein sozialer Prozess.
+[00:49:56-6 @andreaniehaus] Das heißt man steht in der Gruppe zusammen, man muss in Kleinstgruppen miteinander arbeiten.
+[00:50:00-5 @andreaniehaus] Man muss miteinander kommunizieren.
+[00:50:03-1 @andreaniehaus] Und das sind eben auch Dinge, die wir den Kindern oder den Jugendlichen eben auch beibringen.
+[00:50:07-7 @andreaniehaus] Dass es wichtig ist, dass man sich vorstellen kann, dass man eben sozusagen auch mal erfährt, was man gut kann.
+[00:50:17-4 @andreaniehaus] Und wenn man etwas nicht so gut kann, dass man sozusagen es verbessern kann, wenn man übt.
+[00:50:25-1 @andreaniehaus] Und das ist wirklich eines meiner Lieblingsprojekte, der Laborführerschein.
+[00:50:29-7 @andreaniehaus] Nach diesen 40 Stunden, wo die Kinder übrigens auch Unternehmen kennenlernen, mit den Auszubildenden sprechen.
+[00:50:38-4 @andreaniehaus] Die Maschinen - wir machen hier einfache Kunststoffversuche, dass man mit einem Fön den Joghurtbecher Plattmacht und dann wieder rauszieht.
+[00:50:47-2 @andreaniehaus] Tief- und Hochziehen, diese ganzen Prozesse.
+[00:50:50-6 @andreaniehaus] Das lernen dann die Kinder halt wirklich in einem großen Unternehmen kennen.
+[00:50:54-6 @andreaniehaus] Oder sie lernen den Ausgangsstoff kennen.
+[00:50:55-8 @andreaniehaus] Wir haben ja ein großes Unternehmen, LyondellBasell, das ist einer der größten Polystyrol, Polypropylenhersteller hier.
+[00:51:02-6 @andreaniehaus] Und da lernen sie eben den Ausgangsstoff eben auch kennen, in welchen riesigen Maschinen so etwas hergestellt wird.
+[00:51:09-4 @andreaniehaus] Das ist für die natürlich auch ungemein beeindruckend.
+[00:51:12-1 @andreaniehaus] Vor allen Dingen, wenn sie dann mit den Auszubildenden ins Gespräch kommen, die ja auch mal in ihrer Situation waren und denen auch Tipps geben können.
+[00:51:18-9 @andreaniehaus] Du weißt nciht, was du werden willst oder wie du es anstellst, dann kannst du das und das machen und mir hat damals geholfen, dass ich so und so gemacht habe.
+[00:51:26-4 @andreaniehaus] Das ist wirklich ein super Netzwerk und eine tolle Austauschbörse.
+[00:51:32-3 @andreaniehaus] Und nach diesen 40 Stunden bekommen sie eben hinterher ein IHK-Zertifikat, was sie wirklich in ihre Bewerbungsunterlagen tun können.
+[00:51:40-8 @andreaniehaus] Sie haben einen kleinen Zeh in den Unternehmen.
+[00:51:43-7 @andreaniehaus] Wir haben etwa 12 Außenorte, die als Partner da immer wieder mitmachen.
+[00:51:49-2 @andreaniehaus] Darunter auch die Universität Bonn, aber auch die Hochschule Bonn-Rhein-Sieg, wo die Schüler mal ein echtes Labor kennenlernen und die entsprechenden Sicherheitsvorkehrungen.
+[00:52:00-0 @andreaniehaus] Also insofern ist wirklich das ein ganz ganz tolles Projekt, um die Schüler wirklich auch sozusagen diese schwere Entscheidung, was will ich später mal werden, gerade in der 8. Klasse, um ihnen da wirklich auch ein paar Hilfestellungen eben auch zu geben.
+[00:52:17-0 @andreaniehaus] Und ihre Persönlichkeit mit zu entwickeln.
+[00:52:19-3 @andreaniehaus] Das ist wirklich toll, dass wir immer wieder erleben, diese Zertifikatsübergaben werden auch von den Schülern moderiert.
+[00:52:26-1 @andreaniehaus] Dass Schüler, die vormals kein Wort aus dem Mund bekommen haben oder auch Schüler mit besonderem Förderbedarf, wo wir hinterher wirklich dachten, das gibt es ja gar nciht, sich wirklich vor 100 Leute gestellt haben und dann sozusagen durch den Nachmittag geführt haben.
+[00:52:43-8 @andreaniehaus] Da merkt man halt wirklich, was man bewegen kann und das vergisst keiner nie im Leben.
+[00:52:51-6 @timpritlove] So mit Chemie und Physik das ist ja ich sage mal auch schon so ein bisschen verbreitet.
+[00:52:57-9 @timpritlove] Was so ein bisschen neuer Trend ist, ist ja auch, dass Programmieren mehr in der Schule angegangen wird.
+[00:53:06-1 @timpritlove] Was bis vor kurzem irgendwie noch so ein bisschen glaube ich vielen noch ein bisschen merkwürdig vorkam.
+[00:53:09-9 @timpritlove] Oder wo einfach auch die Problematik war, dass entweder die Anschaffung von Systemen so teuer ist oder dass schlicht einfach die Lehrer noch nicht selber auf diesem Stand waren.
+[00:53:19-3 @timpritlove] In Großbritannien hat es schon längere Tradition bei der BBC, mit den frühen Computerprojekten und jetzt geht es ja hin in diese Kleinelektronik.
+[00:53:29-8 @timpritlove] Es gibt ja in Deutschland auch so ein Projekt, dieses Calliope-Projekt.
+[00:53:33-5 @timpritlove] Spielt das hier auch schon eine Rolle?
+[00:53:36-8 @andreaniehaus] Ja das spielt eine Rolle.
+[00:53:38-9 @andreaniehaus] Wir sind uns allerdings noch nicht so ganz sicher, und das sind ja viele nicht, wie wir es wirklich gut auf die Reihe bringen.
+[00:53:49-8 @andreaniehaus] Ich glaube, bevor man programmiert oder bevor man programmieren lernt, braucht man erst mal die Basics.
+[00:53:57-1 @andreaniehaus] Und insofern geht unsere Überlegung eben auch dahin, dass Programmieren wirklich auch vorzuschalten mit einem kleinen Crashkurs Elektrotechnik.
+[00:54:07-4 @andreaniehaus] Denn ich muss erst mal auch wissen, was ein Widerstand ist oder andere Dinge, bevor ich wirklich dann ins Programmieren gehe.
+[00:54:16-2 @andreaniehaus] Erstaunlicherweise teilen diese Einstellungen auch wirklich Leute, die in der Computerbranche sind.
+[00:54:22-5 @andreaniehaus] Aber im Moment treiben uns leider, werden wir gerade noch ein bisschen abgelenkt von einer sehr existentiellen Sorge.
+[00:54:32-5 @andreaniehaus] Aber wir würden da gerne etwas machen, auf jeden Fall.
+[00:54:36-4 @andreaniehaus] Wir sind nur noch nicht ganz so weit, wir beobachten eher, was so alles passiert.
+[00:54:40-1 @andreaniehaus] Aber das Calliope haben wir natürlich auch auf dem Schirm, es gibt ja inzwischen auch andere Systeme.
+[00:54:45-7 @andreaniehaus] Und wir haben ja schon etwas, diese Roberta-Sache ist natürlich schon auch ein erster Schritt in die Richtung.
+[00:54:55-8 @andreaniehaus] Wir interessieren uns sehr für den 3D-Druck.
+[00:54:58-0 @andreaniehaus] Ich habe hier bspw. spiele hier gerade mit Legosteinen aus dem 3D-Drucker.
+[00:55:04-2 @andreaniehaus] Braucht 20 Minuten ein Steinchen.
+[00:55:09-5 @andreaniehaus] Ist aber insofern natürlich auch für die Kinder und Jugendlichen ein Ergebnis, das man halt anfassen kann.
+[00:55:17-6 @andreaniehaus] Das darf man eben auch nicht unterschätzen.
+[00:55:21-4 @andreaniehaus] Und insofern nochmals, wir beobachten gerade so ein bisschen, was man machen kann, aber wir haben natürlich auch so unsere Ansprüche.
+[00:55:29-2 @andreaniehaus] Und da haben wir noch nichts spruchreif, aber wir sind auf jeden Fall sehr aktiv in dem Bereich.
+[00:55:39-3 @timpritlove] Ja Lego scheint ja gerade ein Inhalt der Sonderausstellung zu sein, die gerade läuft.
+[00:55:45-4 @timpritlove] Das ist natürlich eine tolle Brücke eigentlich, weil mit Lego kann jeder was anfangen.
+[00:55:51-2 @timpritlove] Vielleicht noch kurz, was das Programmieren betrifft, ich würde ja so sagen, Programmieren und Elektrotechnik sind eigentlich nochmal so zwei verschiedene Sachen.
+[00:55:58-2 @timpritlove] Das mag dann relevant sein, wenn es konkret um diese kleinen Elektronikplatinen geht, wo man Dinge anschließen muss und dann wirklich mit Steuerungen arbeitet.
+[00:56:08-6 @timpritlove] Aber das Programmieren an sich konzeptionell denke ich lässt sich natürlich von Elektrotechnik wunderbar trennen, weil es ja hier eine reine Kopfsache ist.
+[00:56:19-3 @andreaniehaus] Genau, nur ich glaube wir reden ja wirklich über digitale Bildung, das ist ja eigentlich sozusagen die Überschrift, wo das Programmieren drunter fällt.
+[00:56:28-6 @andreaniehaus] Und ich finde es immer so schade, wenn man dann einfach so punktuell Dinge draufsattelt.
+[00:56:33-5 @andreaniehaus] Genauso wie die Forderung, dass die Schüler Wirtschaft als Fach in der Schule haben wollen.
+[00:56:40-8 @andreaniehaus] Viele Dinge hängen doch einfach miteinander zusammen.
+[00:56:43-2 @andreaniehaus] Und ich glaube, es ist wichtiger, statt immer das punktuell zu machen, das halt wirklich in diesen größeren Zusammenhängen zu sehen.
+[00:56:51-1 @andreaniehaus] Was das Lernen ja auch sehr viel effektiver macht.
+[00:56:54-7 @andreaniehaus] Ich meine, klar ist das vielleicht schön, wenn die Schüler dann letztendlich dieses Programmieren beherrschen.
+[00:57:01-2 @andreaniehaus] Aber ich fände es doch schade, wenn die Zusammenhänge fehlen würden und da bin ich eigentlich eher unterwegs.
+[00:57:08-2 @andreaniehaus] Das ist wie bei dem Schülerlabor zur Alltagschemie, wo es dann gar nicht so sehr um sozusagen die chemische Formel geht.
+[00:57:16-2 @andreaniehaus] Bei der Oberstufe schon, aber nicht in der 2. oder 3. Klasse.
+[00:57:21-6 @andreaniehaus] Das würde die Kinder eben auch überfordern, sie sollen ja Spaß an der Sache haben.
+[00:57:26-1 @andreaniehaus] Und wen nich jetzt hier mal sehe, ich habe das vorhin so aus unserer Kommentarwand gegriffen.
+[00:57:32-3 @andreaniehaus] „Es war voll cool“ oder vor allen Dingen, „es hat sehr viel Spaß gemacht“.
+[00:57:37-2 @andreaniehaus] Dann ist das doch die „Einstiegsdroge“.
+[00:57:40-2 @andreaniehaus] Also erst mal muss es Spaß machen und letztendlich ist es dann ein Stufenprozess.
+[00:57:46-6 @andreaniehaus] Und ich glaube, das gilt auch für uns als Museum, dass wir dieses sogenannte Konzept des lebenslangen Lernens eben auch hier vertreten.
+[00:57:57-2 @andreaniehaus] Lernen und Bildung ist wie eine Spirale.
+[00:58:00-2 @andreaniehaus] Man braucht an jeder sozusagen in jeder Etage braucht man sozusagen einen Impuls, den man setzen muss und das hört nie auf.
+[00:58:10-4 @timpritlove] Ja.
+[00:58:11-5 @andreaniehaus] Und da nochmal dieses Punktuelle mag ja sehr schön sein, aber wir sehen das halt einfach wirklich in größeren Zusammenhängen.
+[00:58:18-3 @timpritlove] Ich erinnere mich gerade, dass wir hier bei Forschergeist ziemlich am Anfang auch das Thema Talentförderung schon mal diskutiert haben.
+[00:58:30-4 @timpritlove] In einem etwas anderen Kontext, da ging es darum, Schüler quasi für die Universitäten zu entdecken.
+[00:58:38-0 @timpritlove] Schönes Gespräch hier mit Suat Yilmaz. 
+[00:58:42-2 @timpritlove] Mir fällt das jetzt gerade ein, weil ich mir denke, wenn man jetzt quasi das Museum auch als pädagogischen Ort versteht und hier dann eben Schüler auch entdeckt in gewisser Hinsicht.
+[00:58:52-8 @timpritlove] Oder zumindest die Lehrer dann vielleicht auch beobachten, dass eben Schüler ihrer Klasse …
+[00:58:57-0 @timpritlove] Gibt es dann hier auch eine Anbindung an, ich sage mal, Forschungszentren oder andere Bildungseinrichtungen, wo man dann eben auch Empfehlungen aussprechen kann?
+[00:59:08-3 @timpritlove] Sagen kann, hier wenn wir das gefallen hat, dann geh doch mal da hin, dass man da so einen direkten Weg aufbaut?
+[00:59:13-6 @andreaniehaus] Genau. Also das ist denke ich die Idee, die hinter dem Laborführerschein eben auch steht.
+[00:59:19-8 @andreaniehaus] Dass wir begabte Menschen oder interessierte Schüler eben auch weitervermitteln können.
+[00:59:26-1 @andreaniehaus] Und wir haben eben auch schon so unsere kleinen Erfolgsstories.
+[00:59:29-6 @andreaniehaus] Wir haben noch keinen Nobelpreisträger, okay daran arbeiten wir noch.
+[00:59:32-7 @andreaniehaus] Auf die kann ja unser Mutterhaus, weil es das einfach schon so lange gibt, zurückblicken.
+[00:59:38-4 @timpritlove] Ich meine nach 20 Jahren, da sind die noch nicht alt genug.
+[00:59:41-3 @andreaniehaus] Und ich muss sagen, es muss ja auch nicht immer gleich ein Nobelpreisträger dabei rauskommen.
+[00:59:44-8 @andreaniehaus] Aber der Cebit-Innovationspreisträger in 2016 war der Sebastian Stenzel.
+[00:59:52-6 @andreaniehaus] Der ist Studierender damals gewesen an der Hochschule Bonn Rhein-Sieg, Informatik.
+[00:59:57-3 @andreaniehaus] Und der hat ein Programm entwickelt, den Cryptomator, das ist ein Cryptographieprogramm sozusagen, das jetzt von 1+1 glaube ich verwendet wird.
+[01:00:09-2 @andreaniehaus] Und der hat so nett gesagt, als er damals den Preis in Hannover entgegennahm, dass die Besuche im Deutschen Museum Bonn ihm die Zusammenhänge von Naturwissenschaften und Technik haben verstehen lassen.
+[01:00:23-9 @andreaniehaus] Das meinte ich nochmal mit diesen Zusammenhängen.
+[01:00:25-9 @andreaniehaus] Dass es eben nicht nur einfach so rausgegriffen wird, sondern dass man eben das in dieser Komplexität eben auch begreifen kann.
+[01:00:32-9 @andreaniehaus] Das ist doch schon super oder?
+[01:00:34-9 @timpritlove] Das macht einen bestimmt froh.
+[01:00:36-5 @andreaniehaus] Und diesen Herrn Stenzel oder dieses kleine Startup, das sich hier in Bonn gegründet hat, mit denen stehe ich in Kontakt.
+[01:00:44-3 @andreaniehaus] Und hoffe ja auch (bald ein Exponat einzuwerben).
+[01:00:53-6 @andreaniehaus] Oder beispielsweise wir sind eben auch Austragungsort für Forschung und auch das wird unser nächstes Exponat werden.
+[01:00:59-7 @andreaniehaus] Das habe ich jetzt quasi schon in der Tasche.
+[01:01:02-5 @andreaniehaus] Das ist der erste Roboter, der autonom Führungen gemacht hat und dessen Algorithmen heute noch die Grundlage des autonomen Fahrens sind.
+[01:01:12-4 @andreaniehaus] Weil nämlich hier eine Studentenkombo von der Uni Bonn mit ihrem Professor angeklopft haben und gefragt haben, ob sie den Roboter hier laufen lassen können.
+[01:01:21-1 @andreaniehaus] Da haben wir natürlich gesagt, ja klasse, super, toll, attraktiv.
+[01:01:28-3 @andreaniehaus] Und einer von diesen Doktoranden damals ist heute Leibniz-Preisträger, Wolfram Burgert, an der Uni in Freiburg und der andere ist später nach Stanford gegangen und wurde Vizepräsident von Google.
+[01:01:40-1 @andreaniehaus] Also wenn das mal nicht auch eine schöne Erfolgsgeschichte ist, wo wir eben tatsächlich ein Mosaikstein sind in der Biografie in Naturwissenschaft und Technik erfolgreicher Menschen.
+[01:01:53-1 @andreaniehaus] Aber es geht uns eben nicht nur darum, Exzellenz hier sozusagen mit zu befördern, sondern als Museum, als öffentlicher Ort, geht es uns ja immer auch um die Scientific Literacy.
+[01:02:03-2 @andreaniehaus] Es gibt eigentlich keinen entsprechenden deutschen Begriff.
+[01:02:06-3 @timpritlove] Wissenschaft als Breitensport.
+[01:02:10-0 @andreaniehaus] Ja ist nicht schlecht, höre ich zum ersten Mal, aber nicht schlecht.
+[01:02:13-4 @timpritlove] Habe ich mir gerade so ausgedacht.
+[01:02:16-1 @andreaniehaus] Aber es ist ganz schön, weil wir verstehen uns ja hier auch nicht als Hochkultur.
+[01:02:21-1 @andreaniehaus] Sondern wir gehen halt wirklich in die Breite und uns ist es wirklich wichtig, dieses Schlagwort „Bildung für alle“ aus den 60er Jahren, das ist uns eben nach wie vor eben auch sehr wichtig.
+[01:02:31-1 @andreaniehaus] Dass wir eben alle Altersgruppen und möglichst auch alle sozialen Gruppen eben auch hier mit unseren Dingen begeistern.
+[01:02:40-9 @andreaniehaus] Und ich freue mich immer ganz besonders, wenn unsere Laborschüler, die ja aus wirklich aus allen, die kommen von Förderschulen, wir haben einen Migrationsanteil von ca. 80%.
+[01:02:51-5 @andreaniehaus] Wenn die wirklich auch mit ihren Eltern und Geschwistern am Wochenende wiederkommen, weil sie das Museum eben als einen Ort begreifen, vor allen Dingen das Deutsche Museum, an dem sie willkommen geheißen werden.
+[01:03:02-9 @andreaniehaus] Das hätten wir nie gedacht, dass uns dieser Begriff auch mal sozusagen positiv im Sinne von Integration ausgelegt wird.
+[01:03:12-7 @andreaniehaus] Dass wir diesen Respekt, den wir diesen Menschen entgegenbringen, eben auch dazu führt, dass sie sagen, Mensch wir fühlten uns da so wohl, wir sind mit so viel Respekt behandelt worden, dass wir da am Wochenende eben wieder hingehen.
+[01:03:25-7 @andreaniehaus] Das finde ich eben auch super und freut mich immer sehr, dass aus diesem kleinen Pflänzchen, dass wir dann immer säen, dass sich da unglaublich viel entwickelt.
+[01:03:37-8 @andreaniehaus] Und manchmal wissen wir ja alles gar nicht, was sich entwickelt.
+[01:03:41-5 @andreaniehaus] Aber nochmal vielleicht zur Talentsuche.
+[01:03:46-1 @andreaniehaus] Eine erste Laborfühschülerin aus einer Hauptschule, deren Eltern wirklich Analphabeten sind, aus Marokko sind die eingewandert, hat sofort gesagt, nach dem Laborführerschein, sie möchte ein Praktikum bei dem großen Unternehmen LyondellBasell machen.
+[01:04:05-3 @andreaniehaus] Davon ist sie dann aber wieder abgekommen, als sie nach ein paar Tagen gemerkt hat, das ist nichts für sie.
+[01:04:12-1 @andreaniehaus] Sie möchte lieber sozusagen mit Menschen zu tun haben, sie möchte helfen.
+[01:04:15-4 @andreaniehaus] Sie hat dann eine Ausbildung zur Krankenschwester gemacht in einem Hospital, in einem Krankenhaus, das dann auf unser Projekt aufmerksam wurde.
+[01:04:24-2 @andreaniehaus] Und letztendlich dann eben auch einige Schüler immer sozusagen aufgenommen hat.
+[01:04:30-2 @andreaniehaus] Aber dieses Mädchen, die Sadia, hat dann später ihre Ausbildung beendet, hat ihr Abitur nachgemacht und studiert heute Gesundheitswissenschaften an der Universität Paderborn.
+[01:04:46-0 @andreaniehaus] Also ich finde das ist eine super Erfolgsgeschichte, das sagt sie auch ganz öffentlich, dass ihr das hier sehr viel gebracht hat, dass sie auch wirklich gelernt hat zu schauen, wer ist sie eigentlich, wo liegen ihre Stärken.
+[01:05:02-9 @andreaniehaus] Und ja das freut mich und wir hoffen, dass wir wie gesagt noch viele anderer solcher Geschichten eben auch hier produzieren können.
+[01:05:13-2 @timpritlove] Wer hat denn noch nicht angerufen?
+[01:05:13-7 @timpritlove] Also wer sollte denn, wer könnte denn noch auf das Museum aufmerksam werden?
+[01:05:19-6 @timpritlove] Mit wem würden Sie denn ganz gerne noch eine Kooperation machen?
+[01:05:23-4 @timpritlove] Also ich meine jetzt keine konkreten einzelnen, weil die sind bestimmt alle schon angerufen worden.
+[01:05:30-5 @timpritlove] Aber wer könnte denn sozusagen das Konzept Museum noch für sich entdecken?
+[01:05:40-0 @andreaniehaus] Naja also … mein geheimster Traum ist ja letztendlich, dass wir hier an diesem Standort weitermachen können.
+[01:05:52-0 @andreaniehaus] Und das ist ja ein Traum, der sozusagen ja nicht so besonders greifbar ist, leider Gottes, muss man sagen, segeln wir ja in schwierigen Zeiten.
+[01:06:01-5 @andreaniehaus] Und wenn Sie mich nach Kooperationspartnern fragen, dann muss ich ganz ehrlich sagen, es müssen Kooperationspartner mit ganz viel Geld sein.
+[01:06:08-8 @andreaniehaus] So schnöde bin ich inzwischen.
+[01:06:11-9 @andreaniehaus] Denn wenn Sie sich an den Anfang unseres Gespräch erinnern, diese Trias mit dem Land NRW, der Stadt Bonn und dem Stifterverband, da ist ja sozusagen das Land NRW, nachdem wir eröffnet sind natürlich sozusagen die haben einmalig die Investitionskosten gezahlt und damit war deren Part erledigt.
+[01:06:33-8 @andreaniehaus] Die Stadt Bonn hatte uns dann an der Backe und hat bis 2017 eben auch noch 830.000 Euro an uns gezahlt, damit wir hier unsere Arbeit machen können.
+[01:06:47-6 @andreaniehaus] Das sind etwa 70% unseres Budgets, diese fallen aber in 18 weg.
+[01:06:53-4 @andreaniehaus] Und zwar nicht komplett glücklicherweise, sondern zu 50%.
+[01:06:58-8 @andreaniehaus] Und wir haben jetzt in den letzten zwei Jahren wirkclih zugesehen, dass es in irgendeiner Weise für uns weitergeht. Und haben eine Lösung zumindest einigermaßen für 2020.
+[01:07:13-9 @andreaniehaus] Aber für mich bedeutet das schon einen großen Einschnitt insofern, dass ich Personal entlassen muss, auch im Bildungsbereich.
+[01:07:19-7 @andreaniehaus] Dass ich meine Öffnungszeiten einschränke, dass ich meine Preise erhöhe und dass ich jeden Cent, den ich vorher schon dreimal umgedreht, jetzt mindestens 100 mal umdrehen muss.
+[01:07:30-2 @andreaniehaus] Und das sind natürlich erschwerte Arbeitsbedingungen, wo ich sage, ich würde mich gerne wieder wirklich auf die Entwicklung toller Programme zur Digitalisierung konzentrieren.
+[01:07:39-4 @andreaniehaus] Aber im Moment konzentriere ich mich wirklich, wie ich das nächste Jahr hier überstehe.
+[01:07:46-1 @andreaniehaus] Und insofern bin ich im Moment leider sehr aufs Geld fixiert.
+[01:07:51-5 @andreaniehaus] Aber ich glaube, es ist für einen guten Zweck.
+[01:07:55-1 @andreaniehaus] Denn all diese jungen Menschen, von denen ich vorhin berichtet habe, sind im Prinzip genau die Menschen, die doch so händeringend gesucht werden.
+[01:08:04-9 @andreaniehaus] Wir reden hier von einem Fachkräftemangel.
+[01:08:07-3 @andreaniehaus] Wir wissen, dass viele technische Berufe, viele Stellen gar nicht mehr besetzt werden können.
+[01:08:12-2 @andreaniehaus] Und in fünf Jahren wird das absolute Chaos ausbrechen, weil viele eben in den Ruhestand gehen und diese Stellen durch ja welche Leute eigentlich ersetzt werden können?
+[01:08:22-4 @andreaniehaus] Also müsste doch die Wirtschaft oder auch das Land Nordrhein-Westfalen doch ein großes Interesse haben, uns hier weiter zu halten, damit wir hier unsere Arbeit machen können.
+[01:08:35-5 @andreaniehaus] Und daran arbeiten wir.
+[01:08:39-2 @andreaniehaus] Wenn da jemand anrufen würde, ich stehe zur Verfügung.
+[01:08:44-6 @timpritlove] Ja gut, aber es geht ja jetzt nicht nur um, gib uns Geld und lass uns in Ruhe.
+[01:08:48-1 @andreaniehaus] Nein.
+[01:08:48-3 @timpritlove] Sondern es geht ja sozusagen darum, dass man jetzt hier auch eine echte Kooperation aufbauen kann.
+[01:08:52-5 @andreaniehaus] Genau das.
+[01:08:54-0 @timpritlove] Darauf wollte ich eigentlich so ein bisschen hinaus.
+[01:08:55-6 @timpritlove] Also was für Kooperationsmodelle wären denn aus Ihrer Perspektive noch denkbar, die vielleicht bisher noch gar nicht in dem Maße ausgespielt wurden?
+[01:09:07-0 @andreaniehaus] Ich denke, es kommt auch wirklich auf denjenigen an, der anruft.
+[01:09:11-5 @andreaniehaus] Aber wir haben in der Vergangenheit wie gesagt nur 70% unseres Geldes von der öffentlichen Hand, den Reset haben wir uns immer selber besorgt durch Projekte.
+[01:09:20-1 @andreaniehaus] Und haben eben mit vielen Partnern, das waren Stiftungen und das sind auch immer noch Stiftungen hier wirklich gemeinsam Projekte entwickelt.
+[01:09:28-7 @andreaniehaus] Die deutsche Telekomstiftung ist da wirklich ganz vorbildlich gewesen.
+[01:09:32-3 @andreaniehaus] Denn die Geldgeber wollen ja nicht einfach nur das Geld an uns geben und sagen, jetzt macht mal, sondern haben ja auch ein großes Interesse sozusagen das inhaltlich eben auch mitzuprägen.
+[01:09:45-2 @andreaniehaus] Sie müssen es ja auch sozusagen wieder anderen verkaufen, dass sie bei uns eine Menge Geld lassen.
+[01:09:51-4 @andreaniehaus] Also insofern ist das für uns ja auch eine große Hilfe.
+[01:09:54-8 @andreaniehaus] Also wir sind niemals sozusagen Einzelkämpfer, sondern agieren halt immer in Teams.
+[01:10:02-7 @andreaniehaus] Ich denke, man muss das wirklich davon abhängig machen.
+[01:10:05-2 @andreaniehaus] Ich meine, wir haben Projekte mit der EU gemacht, wir haben andere Dinge gemacht.
+[01:10:10-1 @andreaniehaus] Ich glaube wir haben schon fast alle Kooperationsformen durchgespielt.
+[01:10:14-1 @andreaniehaus] Aber sind immer offen für anderes.
+[01:10:16-7 @andreaniehaus] Aber ich betone nochmals, erst mal muss unsere Existenz hier gesichert sein, und dann können wir wieder über Projekte reden.
+[01:10:23-7 @timpritlove] Gut, dann frage ich mich, gibt es noch ein paar letzte salbungsvolle Worte, die man hier nochmal loslassen sollte, die wir jetzt noch nicht angesprochen haben?
+[01:10:38-1 @andreaniehaus] Auf jeden Fall, große Unterstützung bekamen wir und bekommen wir sicherlich auch von einem sehr aktiven Förderverein.
+[01:10:46-8 @andreaniehaus] Und der hat sich eben auch aus Unternehmen hier aus der Region gegründet.
+[01:10:51-3 @andreaniehaus] Ohne diesen Förderverein, dessen Schirmherr im Übrigen Ranga Yogeshwar ist und dessen Vorsitzender Antonio Casellas, ist früher Vizepräsident bei GKN Sinter Metals, das ist hier ein großes Unternehmen im Süden von Bonn.
+[01:11:07-5 @andreaniehaus] Diese beiden und es kommen noch viele viele andere mit dazu, unter anderem Ulrike Lenk, die Geschäftsführerin des Wissenschaftszentrums, die haben hier wirklich in de letzten beiden Jahren einen riesigen Job gemacht.
+[01:11:22-0 @andreaniehaus] Denn ohne die wären wir glaube ich hier sang- und klanglos einfach wegrationalisiert worden, bzw. weggespart worden.
+[01:11:29-8 @andreaniehaus] Und dieser Förderverein hat es geschafft, dass sich die Stadt Bonn nicht komplett aus unserer Finanzierung zurückzieht, sondern immerhin, und da muss man schon sehr dankbar sein, 400.000 Euro pro Jahr in unser Budget hineingibt.
+[01:11:43-8 @andreaniehaus] Also insofern möchte ich mich nochmal ganz herzlich bei dem Förderverein bedanken.
+[01:11:49-8 @andreaniehaus] Und das ist ja genau das Argument, was sie haben, die vielen Unternehmen, die Mitglied sind, wissen ja alle selber an eigenem Leibe, wie schwierig es ist, qualifizierte Fachkräfte zu bekommen.
+[01:12:02-0 @andreaniehaus] Und wenn wir denen erzählen was wir machen, mit dem Laborführerschein oder überhaupt mit unseren 50 verschiedenen Workshopthemen.
+[01:12:09-0 @andreaniehaus] Ob das nun Brennstoffzelltechnologie ist oder ob es um Papierflieger geht, um Aerodynamik und solche Dinge.
+[01:12:17-9 @andreaniehaus] Das fasziniert eben auch die Unternehmen.
+[01:12:20-8 @andreaniehaus] Und das Thema Lego ist natürlich voll anschlussfähig insofern, dass wir zwar hier einen Sammler ausstellen mit seinen tollen Produkten, dass wir uns aber auch mit dem Thema Spritzguss auseinandersetzen werden im nächsten Jahr.
+[01:12:37-4 @andreaniehaus] Denn die Legosteinchen kann man per 3D-Druck, dauert aber sehr lange, aber die vielen Milliarden von Legosteinen werden aus einem Kunststoff hergestellt, ABS, ich erspare Ihnen die lange Version und dieser Werkstoff wurde von Bayer entwickelt 1963.
+[01:12:59-5 @andreaniehaus] Von demselben Erfinder, der auch Makrolon entwickelt hat.
+[01:13:03-5 @andreaniehaus] Das ist der Kunststoff, aus dem die CD gemacht wurde.
+[01:13:06-0 @andreaniehaus] Und das ist zufälligerweise ein Exponat in unserer Sammlung.
+[01:13:09-5 @andreaniehaus] Also insofern haben wir wieder einen schönen Bezug, auch einen regionalen Bezug, denn Bayer ist ja gar nicht so weit von uns entfernt.
+[01:13:16-5 @andreaniehaus] Und regional insofern natürlich auch, weil hier die Region Köln-Bonn auch eine Kunststoffregion ist.
+[01:13:24-2 @andreaniehaus] Hier gibt es viele Hidden Movers, beispielsweise bei Rodenkirchen eine Firma Wilpitz, die Wäschebügel herstellt.
+[01:13:37-4 @andreaniehaus] Diese Wäschebügel werden durch die ganze Welt geschippert, wo sie dann mit Wäsche behängt werden und wieder zurückkommen.
+[01:13:43-1 @andreaniehaus] Und dann im C&A oder im Kaufhof landen.
+[01:13:46-5 @andreaniehaus] Alles aus Spritzguss.
+[01:13:47-9 @andreaniehaus] Und insofern wird das auch nochmal ein großes bestimmendes Thema im nächsten Jahr sein.
+[01:13:53-5 @andreaniehaus] Zeigt auch nochmal, wie wir hier agieren, wirklich in einem Umfeld von Schulen, von Wirtschaft, von Wissenschaft und eben das alles um der Öffentlichkeit eben zu zeigen, wie Wissenschaft und Technik zusammenhängen.
+[01:14:13-2 @timpritlove] Schönes Schlusswort. Von hier aus vielen Dank für die Ausführungen über das Deutsche Museum Bonn.
+[01:14:19-8 @timpritlove] Und an alle Zuhörer und Zuhörerinnen vielen Dank, genau dafür, fürs Zuhören.
+[01:14:25-7 @timpritlove] Ich sage tschüss und bis bald.
+[01:14:27-4 Outro]
