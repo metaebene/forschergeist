@@ -1,0 +1,2365 @@
+﻿WEBVTT
+
+00:00:42.901 --> 00:00:48.700
+<v timpritlove>Hallo und herzlich willkommen zu Forschergeist, dem Podcast des Stifterverbands für die deutsche Wissenschaft.
+
+00:00:48.701 --> 00:00:58.400
+<v timpritlove>Mein Name ist Tim Pritlove und ich begrüße alle zu Nummer 68 unserer Sendereihe über Wissenschaft, wissenschaftliche Fragen,
+
+00:00:58.401 --> 00:01:11.000
+<v timpritlove>wissenschaftliche Ergebnisse und oft und so ist es auch heute beleuchten wir konkrete Forschung und auch so die Ergebnisse der Forschung in einer ganzen Lebenszeit
+
+00:01:11.001 --> 00:01:18.700
+<v timpritlove>und heute tauchen wir ein in die Psychologie und hinterfragen unsere Entscheidungen und die Arten und Weise, wie wir da hinkommen.
+
+00:01:18.701 --> 00:01:23.100
+<v timpritlove>Und dafür begrüße ich zunächst einmal Gerd Gigerenzer, schönen guten Tag.
+
+00:01:23.101 --> 00:01:26.000
+<v gerdgigerenzer>Ebenfalls einen schönen guten Tag.
+
+00:01:26.001 --> 00:01:29.000
+<v timpritlove>Herr Gigerenzer Sie sind Psychologe.
+
+00:01:29.001 --> 00:01:38.100
+<v timpritlove>Wir befinden uns jetzt gerade hier in Berlin im Max-Planck-Institut für Bildungsforschung in einem wunderschönen Gebäude im Übrigen,
+
+00:01:38.101 --> 00:01:45.600
+<v timpritlove>also ganz toll und das ist sogar aus den 60er Jahren, das ist eine Architektur, die man nicht unbedingt erwarten würde.
+
+00:01:45.601 --> 00:01:53.700
+<v timpritlove>Das ist sicherlich sehr inspirierend, hier zu arbeiten, aber Sie haben ja sehr viele Stationen in Ihrem Leben auch gehabt.
+
+00:01:53.701 --> 00:02:00.700
+<v timpritlove>Mich würde zum Start mal interessieren, warum sind Sie denn überhaupt in die Psychologieforschung gegangen?
+
+00:02:00.701 --> 00:02:03.500
+<v timpritlove>Was hat Sie denn dahin inspiriert?
+
+00:02:03.501 --> 00:02:06.600
+<v timpritlove>War Wissenschaft für Sie schon immer klares Ziel?
+
+00:02:06.601 --> 00:02:08.700
+<v gerdgigerenzer>Nein.
+
+00:02:08.701 --> 00:02:13.500
+<v gerdgigerenzer>Mich hat ein Lehrer inspiriert, so wie es vielen Menschen geht.
+
+00:02:13.501 --> 00:02:22.100
+<v gerdgigerenzer>Ein Biologielehrer, der nebenbei Diplompsychologe war und uns über ganz interessante Dinge erzählt hat.
+
+00:02:22.101 --> 00:02:23.100
+<v gerdgigerenzer>Und das …
+
+00:02:23.101 --> 00:02:24.200
+<v timpritlove>Was denn für Dinge?
+
+00:02:24.201 --> 00:02:27.500
+<v gerdgigerenzer>So wie Menschen funktionieren.
+
+00:02:27.501 --> 00:02:28.300
+<v timpritlove>Aha.
+
+00:02:28.301 --> 00:02:31.600
+<v gerdgigerenzer>Warum Menschen das für richtig halten was sie denken.
+
+00:02:31.601 --> 00:02:38.100
+<v gerdgigerenzer>Und so habe ich dann beschlossen, Psychologe zu studieren.
+
+00:02:38.101 --> 00:02:40.200
+<v timpritlove>Einfach so?
+
+00:02:40.201 --> 00:02:44.400
+<v timpritlove>Das war dann sozusagen sofort klar, dass es Psychologie sein soll?
+
+00:02:44.401 --> 00:02:55.300
+<v gerdgigerenzer>Es war wie bei vielen Menschen, man hat eine Person, die man in gewissem Sinne bewundert als Jugendlicher
+
+00:02:55.301 --> 00:03:02.300
+<v gerdgigerenzer>und denkt, warum nicht etwas ähnliches zu machen.
+
+00:03:02.301 --> 00:03:03.200
+<v timpritlove>Und dann sind Sie wohin gegangen?
+
+00:03:03.201 --> 00:03:08.100
+<v gerdgigerenzer>Nun das war die Ludwig-Maximilians-Universität in München.
+
+00:03:08.101 --> 00:03:12.000
+<v gerdgigerenzer>Damals gab es noch eine Aufnahmeprüfung, ich habe sie bestanden.
+
+00:03:12.001 --> 00:03:13.700
+<v timpritlove>Gibt es die heute nicht mehr, nein?
+
+00:03:13.701 --> 00:03:18.100
+<v gerdgigerenzer>Nein, auf jeden Fall nicht mehr in diesem Sinne.
+
+00:03:18.101 --> 00:03:22.800
+<v gerdgigerenzer>Und das waren noch zwei Tage richtige Prüfungen.
+
+00:03:22.801 --> 00:03:25.200
+<v gerdgigerenzer>Und dann habe ich zu studieren begonnen.
+
+00:03:25.201 --> 00:03:35.700
+<v gerdgigerenzer>Das war eine etwas ungewöhnliche Zeit, weil es waren im Wesentlichen, das Universitätsgebäude war voller roter Banner, marxistische Gruppen waren da,
+
+00:03:35.701 --> 00:03:47.400
+<v gerdgigerenzer>selbst die Statistik wurde von marxistischen Gruppen zumindest versucht zu dominieren und es war viel los damals.
+
+00:03:47.401 --> 00:03:49.800
+<v timpritlove>Von welchem Damals reden wir jetzt gerade?
+
+00:03:49.801 --> 00:03:53.900
+<v gerdgigerenzer>Das war 1969.
+
+00:03:53.901 --> 00:04:00.700
+<v timpritlove>Okay, also mitten in den Studentenunruhen der 68er und folgenden.
+
+00:04:00.701 --> 00:04:15.400
+<v gerdgigerenzer>Ja, dann habe ich Vorlesungen gehört, dann haben wir Statistik bekommen von einem Statistiker, den niemand verstanden hat.
+
+00:04:15.401 --> 00:04:16.100
+<v timpritlove>Warum nicht?
+
+00:04:16.101 --> 00:04:30.900
+<v gerdgigerenzer>Nun er hat an der Tafel damals mit Kreide Formel nach Formel geschrieben, abgeleitet, wir haben das kopiert, dann hat er es wieder ausgewischt, weil ein Fehler drin war.
+
+00:04:30.901 --> 00:04:34.100
+<v gerdgigerenzer>Wir haben wieder von neu angefangen und haben dann protestiert.
+
+00:04:34.101 --> 00:04:38.100
+<v gerdgigerenzer>Und er wurde abgesetzt und der Psychologieprofessor hat Statistik gemacht.
+
+00:04:38.101 --> 00:04:45.000
+<v gerdgigerenzer>Und dann habe ich eines gelernt, Statistik ist nicht Statistik, es ist etwas völlig anderes.
+
+00:04:45.001 --> 00:04:51.500
+<v gerdgigerenzer>Dann habe ich mich selbst beworben als Statistiktutor, weil ich dachte, am besten lernt man, indem man lehrt.
+
+00:04:51.501 --> 00:04:52.700
+<v timpritlove>Ja.
+
+00:04:52.701 --> 00:05:01.400
+<v gerdgigerenzer>Und das war so ein Weg hinzukommen zu dem späteren Thema, Verständnis von Risiken.
+
+00:05:01.401 --> 00:05:14.700
+<v gerdgigerenzer>Und tja, dann habe ich also mein Studium mit Musik finanziert, ich war Musiker und habe dann am Ende des Studiums,
+
+00:05:14.701 --> 00:05:22.700
+<v gerdgigerenzer>also als ich kurz davor war, meinen Doktor zu machen, nun eine Entscheidung treffen müssen,
+
+00:05:22.701 --> 00:05:28.200
+<v gerdgigerenzer>nämlich weiterhin auf der Bühne bleiben oder eine akademische Karriere zu versuchen.
+
+00:05:28.201 --> 00:05:38.500
+<v gerdgigerenzer>Auf der Bühne zu bleiben bedeutete, dass ich einen sicheren, das hatte ich schon mehr als zehn Jahre gemacht, einen sicheren Job hatte,
+
+00:05:38.501 --> 00:05:41.100
+<v gerdgigerenzer>auch wesentlich mehr verdiente als an der Universität.
+
+00:05:41.101 --> 00:05:45.100
+<v timpritlove>War das mehr klassische Musik oder Rock’n’Roll?
+
+00:05:45.101 --> 00:05:52.800
+<v gerdgigerenzer>Nein, das war Dixieland, Soul, Jazz
+
+00:05:52.801 --> 00:05:59.200
+<v gerdgigerenzer>Und es an der Universität zu versuchen, das war ein Risiko.
+
+00:05:59.201 --> 00:06:05.400
+<v gerdgigerenzer>Weil ich wusste ja nicht, werde ich einmal Professor werden oder werde ich scheitern?
+
+00:06:05.401 --> 00:06:14.900
+<v gerdgigerenzer>Also habe ich die risikoreiche Alternative gewählt und das ist sozusagen die kurze Geschichte, wie ich da hinkam, wo ich heute bin.
+
+00:06:14.901 --> 00:06:20.300
+<v timpritlove>Wie haben Sie das Risiko für sich abgewägt in dem Moment?
+
+00:06:20.301 --> 00:06:29.400
+<v gerdgigerenzer>Ich habe keine Rechnung gemacht, sondern das ist auch eine der Punkte, die mir damals deutlich wurden,
+
+00:06:29.401 --> 00:06:40.700
+<v gerdgigerenzer>dass die klassische Entscheidungstheorie, die, wo man nun alle möglichen Konsequenzen vorhersieht und sie gewichtet
+
+00:06:40.701 --> 00:06:48.400
+<v gerdgigerenzer>und den Nutzen mit den Wahrscheinlichkeiten multipliziert, eben nicht beschreibt, wie ich es gemacht habe und so gut wie.
+
+00:06:48.401 --> 00:06:51.700
+<v gerdgigerenzer>Und auch nicht beschreibt, wie die meisten anderen es machen.
+
+00:06:51.701 --> 00:07:02.300
+<v gerdgigerenzer>Und in meiner eigenen Forschung später habe ich dann versucht zu untersuchen, wie Menschen wirklich Entscheidungen treffen ohne Wahrscheinlichkeiten.
+
+00:07:02.301 --> 00:07:05.900
+<v gerdgigerenzer>Und ohne Nutzenabwägungen.
+
+00:07:05.901 --> 00:07:17.900
+<v gerdgigerenzer>Und das heißt, Entscheidungen unter Ungewissheit, wie diese Situation, wo man nicht wissen kann als junger Mensch, was wird sein in zehn Jahren?
+
+00:07:17.901 --> 00:07:19.700
+<v timpritlove>Da werden wir ja gleich drauf kommen.
+
+00:07:19.701 --> 00:07:37.100
+<v timpritlove>Um vielleicht nochmal das Lebensbild abzuschließen, später sind Sie dann von München auch nach, also hier zum MPI für Bildungsforschung gewechselt als Direktor
+
+00:07:37.101 --> 00:07:50.400
+<v timpritlove>und haben später dann auch noch das Harding-Zentrum für Risikokompetenz hier sozusagen begründet, ich weiß nicht, begleitet, aufgebaut.
+
+00:07:50.401 --> 00:07:54.200
+<v timpritlove>Das ist ja ein Teil der Forschung hiervon.
+
+00:07:54.201 --> 00:07:55.400
+<v gerdgigerenzer>Ja, das ist eine eigene Geschichte.
+
+00:07:55.401 --> 00:08:01.800
+<v gerdgigerenzer>Ich hatte einmal ein Buch geschrieben, das war mein erstes populäres Buch.
+
+00:08:01.801 --> 00:08:08.300
+<v gerdgigerenzer>Das heißt im Deutschen „Das 1x1 der Skepsis“, im Englischen heißt es „Reckoning with risk“.
+
+00:08:08.301 --> 00:08:16.000
+<v gerdgigerenzer>Es wurde in London für den Preis der Royal Society nominiert, also es kam unter die letzten sechs.
+
+00:08:16.001 --> 00:08:23.600
+<v gerdgigerenzer>Ich habe ihn nicht gewonnen den Preis, sondern es hat damals immer jemand aus dem Commonwealth gewonnen.
+
+00:08:23.601 --> 00:08:24.200
+<v timpritlove>So aus Prinzip.
+
+00:08:24.201 --> 00:08:30.900
+<v gerdgigerenzer>Ich war, so wie man mir sagte, der erste Europäer, also Kontinentaleuropäer, der je nominiert worden ist.
+
+00:08:30.901 --> 00:08:31.800
+<v timpritlove>Oh.
+
+00:08:31.801 --> 00:08:42.000
+<v gerdgigerenzer>Ein britischer Investmentbanker, David Harding, hat darüber in den Zeitungen gelesen, hat sich eine Kopie des Buchs gekauft,
+
+00:08:42.001 --> 00:08:50.300
+<v gerdgigerenzer>hat dann weitere Kopien seinen 200 Mathematikern geschenkt und mich eingeladen zum Vortrag.
+
+00:08:50.301 --> 00:09:05.200
+<v gerdgigerenzer>Ich habe den Vortrag gehalten im Imperial College und nachher waren wir aus zum Abendessen und er hat mich gefragt, was so mein großer Traum ist.
+
+00:09:05.201 --> 00:09:20.500
+<v gerdgigerenzer>Da habe ich gesagt, ich träume davon, ein Institut zu gründen, das hilft Menschen, Risiken zu verstehen und entspannt und informiert statt ängstlich mit ihnen umzugehen.
+
+00:09:20.501 --> 00:09:31.000
+<v gerdgigerenzer>Und dann hat er mir seither einige Million Euros gegeben, um dieses Institut aufzubauen.
+
+00:09:31.001 --> 00:09:39.900
+<v gerdgigerenzer>Als David Harding hier am Max-Planck-Institut kam, hat er in seiner Einleitung folgendes gesagt,
+
+00:09:39.901 --> 00:09:50.200
+<v gerdgigerenzer>er als Investmentbanker hat immer gewusst, dass die meisten Professionellen im Bankbereich Zahlen nicht verstehen,
+
+00:09:50.201 --> 00:09:55.800
+<v gerdgigerenzer>aber ihm war nicht klar, dass das gleiche für Richter und Ärzte gilt.
+
+00:09:55.801 --> 00:10:01.000
+<v timpritlove>/lacht/ Das heißt, bleiben nur noch die Mathematiker über?
+
+00:10:01.001 --> 00:10:03.900
+<v gerdgigerenzer>Nicht jeder Mathematiker versteht Statistik.
+
+00:10:03.901 --> 00:10:13.500
+<v gerdgigerenzer>Schauen Sie, statistische Information ist das, was die medizinische Forschung bringt.
+
+00:10:13.501 --> 00:10:20.600
+<v gerdgigerenzer>Es ist sozusagen die Zähmung der Ungewissheit.
+
+00:10:20.601 --> 00:10:33.700
+<v gerdgigerenzer>Und statistische Informationen zu verstehen ist wichtiger in einer modernen Demokratie als die Mathematik der Gewissheit, Algebra, Geometrie, Trigonometrie.
+
+00:10:33.701 --> 00:10:47.700
+<v gerdgigerenzer>Das ist eine schöne Mathematik, aber man sollte zuerst die nützliche Mathematik lehren, also nützlich im Sinne für die große Gemeinschaft von Menschen.
+
+00:10:47.701 --> 00:10:49.100
+<v timpritlove>Und das ist die Statistik?
+
+00:10:49.101 --> 00:10:51.700
+<v gerdgigerenzer>Und das ist statistisches Denken, so würde ich das sagen.
+
+00:10:51.701 --> 00:10:54.900
+<v gerdgigerenzer>Man soll es nicht als Mathematik lehren.
+
+00:10:54.901 --> 00:11:03.500
+<v gerdgigerenzer>Das geht hier ins Ohr rein und im anderen Ohr raus, sondern man muss es lehren mit der Wirklichkeit,
+
+00:11:03.501 --> 00:11:09.600
+<v gerdgigerenzer>so dass die jungen Menschen und auch ältere Menschen den Bezug verstehen.
+
+00:11:09.601 --> 00:11:19.700
+<v gerdgigerenzer>Also ich nehme mal ein Beispiel: Vor einiger Zeit hat uns die Weltgesundheitsorganisation gewarnt, dass für jede 50 Gramm von Wurst, die wir essen,
+
+00:11:19.701 --> 00:11:27.700
+<v gerdgigerenzer>unser Risiko, einen Darmkrebs zu bekommen, sich um 18% erhöht, 18%.
+
+00:11:27.701 --> 00:11:29.600
+<v gerdgigerenzer>Essen Sie noch Wurst?
+
+00:11:29.601 --> 00:11:31.900
+<v timpritlove>Ich esse noch Wurst.
+
+00:11:31.901 --> 00:11:32.800
+<v gerdgigerenzer>Nun.
+
+00:11:32.801 --> 00:11:42.600
+<v gerdgigerenzer>Einige meiner Freunde haben aufgehört Wurst zu essen, weil sie dachten, dass bedeutet, dass von je 100 Menschen 18 mehr Darmkrebs bekommen
+
+00:11:42.601 --> 00:11:45.500
+<v gerdgigerenzer>und da wollten sie nicht dabei sein.
+
+00:11:45.501 --> 00:11:48.100
+<v timpritlove>Das ist ja nur die Wahrscheinlichkeit, die hier steigt.
+
+00:11:48.101 --> 00:11:56.100
+<v gerdgigerenzer>In Wirklichkeit, was die Zahl bedeutet, ist, ein relativer Anstieg um 18%, kein absoluter.
+
+00:11:56.101 --> 00:12:04.600
+<v gerdgigerenzer>Der absolute Anstieg ist etwa von 5% Wahrscheinlichkeit lebenslang Darmkrebs zu bekommen, nicht daran zu sterben
+
+00:12:04.601 --> 00:12:09.000
+<v gerdgigerenzer>und der stieg in der Studie von 5% auf 5,9%.
+
+00:12:09.001 --> 00:12:10.700
+<v timpritlove>Um 18% halt.
+
+00:12:10.701 --> 00:12:13.500
+<v gerdgigerenzer>Und das ist auch 18% mehr.
+
+00:12:13.501 --> 00:12:24.000
+<v gerdgigerenzer>Also das heißt, wenn man sagen würde, nun für jede 50 Gramm, die Sie Wurst oder anders verarbeitetes Fleisch essen, steigt Ihr Risiko um weniger als einen Prozentpunkt,
+
+00:12:24.001 --> 00:12:31.000
+<v gerdgigerenzer>damit kann man wenig Aufmerksamkeit und Angst erregen, aber mit 18% mehr geht das.
+
+00:12:31.001 --> 00:12:42.900
+<v gerdgigerenzer>Das ist ein Beispiel dafür, wie auch heute noch mit einem einfachen Trick hier, nämlich statt absoluter Risikoanstieg den relativen zu berichten,
+
+00:12:42.901 --> 00:12:45.700
+<v gerdgigerenzer>größere Zahlen machen mehr Angst.
+
+00:12:45.701 --> 00:12:48.500
+<v gerdgigerenzer>Die Menschen mit manipuliert werden.
+
+00:12:48.501 --> 00:12:59.300
+<v gerdgigerenzer>Und statistisches Denken ist die Fähigkeit, durch diese Tricks durchzusehen und sie zu erkennen,
+
+00:12:59.301 --> 00:13:06.100
+<v gerdgigerenzer>um selbst die Fernsteuerung des Lebens wieder in die Hand zu nehmen, statt sich Angst machen zu lassen.
+
+00:13:06.101 --> 00:13:17.100
+<v timpritlove>Ja da kommt man dann schnell zu diesem geflügelten Wort der Statistik, der man nur glauben darf, wenn man sie selber gefälscht hat.
+
+00:13:17.101 --> 00:13:20.500
+<v gerdgigerenzer>Das ist ein Wort, das ich überhaupt nicht mag.
+
+00:13:20.501 --> 00:13:21.300
+<v timpritlove>Ja.
+
+00:13:21.301 --> 00:13:21.400
+<v gerdgigerenzer>Nein.
+
+00:13:21.401 --> 00:13:27.200
+<v gerdgigerenzer>Also es gibt ja berühmte Bücher wie Lückmann mit Statistik und so weiter, ich halte das für völlig irreführend.
+
+00:13:27.201 --> 00:13:34.100
+<v gerdgigerenzer>Es geht nicht darum, Statistik zu misstrauen, es geht darum, sie zu beherrschen und durchzusehen.
+
+00:13:34.101 --> 00:13:37.800
+<v gerdgigerenzer>Und sich eben nicht lenken lassen.
+
+00:13:37.801 --> 00:13:40.300
+<v gerdgigerenzer>Und zu wissen, welche Fragen man stellt.
+
+00:13:40.301 --> 00:13:44.300
+<v timpritlove>Ich denke, der Satz transportiert ja zumindest eine Skepsis, die man vielleicht haben sollte.
+
+00:13:44.301 --> 00:13:52.700
+<v timpritlove>Also sozusagen dieses Anzweifeln einer Behauptung oder zumindest der Darstellung einer Zahl und das ist ja das, was Statistik letztlich sagt.
+
+00:13:52.701 --> 00:14:00.500
+<v timpritlove>Also auf der einen Seite hängt es natürlich von den Zahlen ab, auf der anderen Seite hängt es davon ab, wie man diese eben interpretiert und präsentiert?
+
+00:14:00.501 --> 00:14:02.300
+<v gerdgigerenzer>Nein, nein, nein.
+
+00:14:02.301 --> 00:14:10.100
+<v gerdgigerenzer>Es ist ungefähr so, wenn man sagen würde, traue keinem Wort, dass du nicht selbst gefälscht hast.
+
+00:14:10.101 --> 00:14:10.400
+<v timpritlove>Gesprochen hast.
+
+00:14:10.401 --> 00:14:12.400
+<v gerdgigerenzer>Oder gesprochen hast.
+
+00:14:12.401 --> 00:14:18.900
+<v gerdgigerenzer>Schauen Sie, es geht nicht darum, dass man nicht lesen und schreiben lernt und dem missbraucht.
+
+00:14:18.901 --> 00:14:23.000
+<v gerdgigerenzer>Es geht darum, dass man statistisches Denken lernt, statt ihm zu misstrauen.
+
+00:14:23.001 --> 00:14:34.200
+<v timpritlove>Okay, was ist statistisches Denken, welche Strategie sollte ich an den Tag legen, um mit dieser Art und Weise der Darreichung von Zahlen und Verhältnissen arbeiten zu können für mich?
+
+00:14:34.201 --> 00:14:38.600
+<v gerdgigerenzer>Gut, also da gibt es ein paar ganz elementare Prinzipien, die jeder lernen kann.
+
+00:14:38.601 --> 00:14:40.800
+<v gerdgigerenzer>Wir hatten eines.
+
+00:14:40.801 --> 00:14:45.000
+<v gerdgigerenzer>Also verlangen Sie immer absolute Risiken, keine relativen.
+
+00:14:45.001 --> 00:14:45.700
+<v timpritlove>Okay.
+
+00:14:45.701 --> 00:14:51.800
+<v gerdgigerenzer>Und damit decken Sie schon ein Drittel von den meisten irreführenden Meldungen ab.
+
+00:14:51.801 --> 00:14:52.700
+<v timpritlove>Okay.
+
+00:14:52.701 --> 00:15:02.400
+<v gerdgigerenzer>Wie zum Beispiel, Fokus online hat einmal berichtet, tödliche Haiangriffe um 100% gestiegen.
+
+00:15:02.401 --> 00:15:03.600
+<v timpritlove>Von einem auf zwei.
+
+00:15:03.601 --> 00:15:09.000
+<v gerdgigerenzer>Ja, das war von sechs auf zwölf in einem Jahr weltweit.
+
+00:15:09.001 --> 00:15:15.700
+<v gerdgigerenzer>Aber manche Menschen lassen sich dadurch beunruhigen und dann lassen sie ihre Kinder nicht mehr ins Wasser gehen.
+
+00:15:15.701 --> 00:15:25.600
+<v gerdgigerenzer>Während man ein höheres Risiko ums Leben zu kommen hat, wenn man mit dem Auto zum Strand fährt.
+
+00:15:25.601 --> 00:15:32.900
+<v timpritlove>Aber da steckt natürlich eine ganze Menge mit drin, weil man natürlich, naja mit Unterstellungen ist immer ein bisschen schwierig so, aber wir wissen ja alle,
+
+00:15:32.901 --> 00:15:42.900
+<v timpritlove>dass gerade in der letzten Zeit, es nimmt eher zu, der Kampf um die mediale Aufmerksamkeit und damit ja sozusagen das Gewinnen von Zuschauern
+
+00:15:42.901 --> 00:15:50.800
+<v timpritlove>und damit potenziellen Einnahmequellen, weil Aufmerksamkeit die Währung der Werbung ist, und die Werbung die Quelle des Geldes ist,
+
+00:15:50.801 --> 00:15:56.800
+<v timpritlove>dass man sozusagen hier drauf bewusst eben verzichtet, Klarheit zu schaffen.
+
+00:15:56.801 --> 00:16:09.700
+<v timpritlove>So dieses Anteasern in Überschriften, die sozusagen den eigentlichen Fakt hinweglässt, ein populäres Fertiggericht lässt eine große Komponente weg
+
+00:16:09.701 --> 00:16:15.500
+<v timpritlove>und im zehnten Absatz erwähnen wir es dann vielleicht mal irgendwann, was eigentlich ganz unwichtig ist.
+
+00:16:15.501 --> 00:16:26.200
+<v timpritlove>Das ist ja sozusagen auch ein Trick, der benutzt wird und läuft ja dann sozusagen der Wahrhaftigkeit der Darstellung von Fakten entgegen.
+
+00:16:26.201 --> 00:16:27.000
+<v gerdgigerenzer>Ja.
+
+00:16:27.001 --> 00:16:31.000
+<v gerdgigerenzer>Und das werden wir nicht kontrollieren können.
+
+00:16:31.001 --> 00:16:42.500
+<v gerdgigerenzer>Aber was wir kontrollieren können, ist, dass die Menschen da durchsehen und sich das nicht bieten lassen und sich auf keinen Fall verführen lassen.
+
+00:16:42.501 --> 00:16:45.400
+<v gerdgigerenzer>Und das ist, was ich meine mit Risikokompetenz.
+
+00:16:45.401 --> 00:16:58.000
+<v gerdgigerenzer>Hier geht es um das Verständnis von Daten, von Fakten und auch das Verständnis, dass man jede Statistik in mindestens zwei Arten und Weisen darstellen kann.
+
+00:16:58.001 --> 00:17:02.400
+<v gerdgigerenzer>Eine ist verständlich transparent und die andere ist irreführend.
+
+00:17:02.401 --> 00:17:09.700
+<v gerdgigerenzer>Absolute Risiken sind transparent, relative Risiken führen viele Menschen in die Irre.
+
+00:17:09.701 --> 00:17:13.700
+<v gerdgigerenzer>Und das ist nicht das einzige Prinzip.
+
+00:17:13.701 --> 00:17:23.900
+<v gerdgigerenzer>Nehmen wir mal an, Sie hören im Wetterbericht, dass es morgen mit einer Wahrscheinlichkeit von 30% regnet, was bedeutet das?
+
+00:17:23.901 --> 00:17:27.100
+<v gerdgigerenzer>30% von was?
+
+00:17:27.101 --> 00:17:34.600
+<v gerdgigerenzer>Wir haben eine Studie in vielen Ländern in Europa und den USA durchgeführt.
+
+00:17:34.601 --> 00:17:43.100
+<v gerdgigerenzer>Die meisten Berliner denken, dass es bedeutet, dass es morgen in 30% der Zeit regnet, also sieben bis acht Stunden.
+
+00:17:43.101 --> 00:17:43.900
+<v timpritlove>Wow.
+
+00:17:43.901 --> 00:17:52.500
+<v gerdgigerenzer>Andere denken, es wird morgen in 30% der Gegend regnen, also wahrscheinlich nicht wo ich wohne.
+
+00:17:52.501 --> 00:18:03.300
+<v gerdgigerenzer>Die meisten New Yorker denken, die Berliner haben überhaupt keine Ahnung, es bedeutet etwas drittes, nämlich dass es an 30% der Tage regnet, für die diese Vorhersage getroffen wurde.
+
+00:18:03.301 --> 00:18:07.300
+<v gerdgigerenzer>Also wahrscheinlich morgen gar nicht.
+
+00:18:07.301 --> 00:18:09.000
+<v gerdgigerenzer>Sind Menschen dumm?
+
+00:18:09.001 --> 00:18:13.400
+<v gerdgigerenzer>Also manche meiner Kollegen sind zu dem Schluss gekommen.
+
+00:18:13.401 --> 00:18:21.000
+<v gerdgigerenzer>Das Problem liegt aber hier mindestens so viel bei der Risikokommunikation.
+
+00:18:21.001 --> 00:18:28.100
+<v gerdgigerenzer>Das Nachrichtensprecher und Meteorologen nicht immer gelernt haben, wie man ein Risiko kommuniziert.
+
+00:18:28.101 --> 00:18:33.900
+<v gerdgigerenzer>Also in dem Fall, was ist denn die Bezugsklasse von den 30%?
+
+00:18:33.901 --> 00:18:41.700
+<v gerdgigerenzer>Sind das Tage, ist das Zeit oder Ort?
+
+00:18:41.701 --> 00:18:45.900
+<v gerdgigerenzer>Und was die Meteorologen meinen ist, es sind Tage.
+
+00:18:45.901 --> 00:18:52.500
+<v gerdgigerenzer>Dass es an 30% der Tage, für die man die Vorhersage macht, ein Minimum an der Messstation regnet.
+
+00:18:52.501 --> 00:18:58.600
+<v gerdgigerenzer>Aber wenn man das nicht sagt, dann denken sich Menschen etwas vernünftiges aus.
+
+00:18:58.601 --> 00:19:02.300
+<v gerdgigerenzer>Und wer Vorstellungskraft hat, kann auch ganz andere Referenzklassen finden.
+
+00:19:02.301 --> 00:19:14.300
+<v gerdgigerenzer>Eine Frau Athen in sagte uns, ich weiß was 30% Regenwahrscheinlichkeit bedeutet, drei Meteorologen denken es regnet und sieben nicht.
+
+00:19:14.301 --> 00:19:14.600
+<v timpritlove>/lacht/
+
+00:19:14.601 --> 00:19:18.800
+<v gerdgigerenzer>Das ist jetzt ein zweites Prinzip.
+
+00:19:18.801 --> 00:19:25.400
+<v gerdgigerenzer>Also frage immer, Prozent von was oder Wahrscheinlichkeit von was?
+
+00:19:25.401 --> 00:19:33.300
+<v gerdgigerenzer>Und diese Prinzipien sind einfach zu lernen, aber sie werden immer noch nicht in allen Schulen gelernt.
+
+00:19:33.301 --> 00:19:38.800
+<v gerdgigerenzer>Nicht einmal im Medizinstudium lernt jeder angehende Arzt das.
+
+00:19:38.801 --> 00:19:45.000
+<v gerdgigerenzer>Geschweige denn vom Studium der Juristerei.
+
+00:19:45.001 --> 00:19:51.800
+<v timpritlove>Und wird es überhaupt irgendwo korrekt vermittelt?
+
+00:19:51.801 --> 00:19:57.700
+<v gerdgigerenzer>Also meine Gruppe und ich wir machen das.
+
+00:19:57.701 --> 00:20:08.400
+<v gerdgigerenzer>Und es gibt auch die Unstatistik des Monats, die ich zusammen mit zwei Kollegen, Thomas Bauer und Walter Krämer schreibe.
+
+00:20:08.401 --> 00:20:22.300
+<v gerdgigerenzer>Das ist eine kurze Meldung über eine Pressemeldung, wo man die Zahlen verdreht hat, das können Sie nachlesen unter unstatistik.de.
+
+00:20:22.301 --> 00:20:31.800
+<v gerdgigerenzer>Und das ist eine Hilfe, um die Menschen zum Denken wieder anzuregen, zum Mitdenken.
+
+00:20:31.801 --> 00:20:41.500
+<v timpritlove>Jetzt führt das ja alles so ein bisschen auch zu dieser Frage, auf Basis wovon treffen wir denn eigentlich unsere Entscheidungen?
+
+00:20:41.501 --> 00:20:50.300
+<v timpritlove>Weil sozusagen diese Fehlinterpretation der Statistik impliziert ja jetzt, dass ich diese Statistik dann sozusagen auch wirklich als Anlass nehme, eine Entscheidung zu fällen.
+
+00:20:50.301 --> 00:20:51.000
+<v gerdgigerenzer>Ja.
+
+00:20:51.001 --> 00:20:52.900
+<v timpritlove>Also sozusagen eine externe Beeinflussung.
+
+00:20:52.901 --> 00:21:01.600
+<v timpritlove>Natürlich sind wir Wahrnehmungstiere und versuchen natürlich alle möglichen Fakten oder geglaubten Fakten zumindest um uns herum zu versammeln,
+
+00:21:01.601 --> 00:21:07.300
+<v timpritlove>um dann eine, wie man so schön sagt, informierte Entscheidung zu treffen.
+
+00:21:07.301 --> 00:21:18.400
+<v timpritlove>Jetzt haben Sie ja diese ganzen Entscheidungsprinzipien, die in Menschen ablaufen, sich über lange Zeit angeschaut,
+
+00:21:18.401 --> 00:21:25.900
+<v timpritlove>wie sind Sie da vorgegangen und zu welchen Erkenntnissen sind Sie denn gekommen, wie eine Entscheidung abläuft beim Menschen?
+
+00:21:25.901 --> 00:21:32.400
+<v gerdgigerenzer>Nun, man kann ganz grob zweierlei Situationen unterscheiden.
+
+00:21:32.401 --> 00:21:40.500
+<v gerdgigerenzer>Solche, wo wir es mit messbaren und bekannten Risiken zu tun haben, das sind die meisten Beispiele, die wir jetzt hatten.
+
+00:21:40.501 --> 00:21:49.500
+<v gerdgigerenzer>Also Wetterwahrscheinlichkeiten und solche Dinge, die man relativ gut für einen begrenzten Zeitraum vorhersagen kann.
+
+00:21:49.501 --> 00:21:57.300
+<v gerdgigerenzer>Dann gibt es aber viel mehr Situationen, wo man es mit Ungewissheit, also mit nicht berechenbaren, Risiken zu tun hat.
+
+00:21:57.301 --> 00:22:06.300
+<v gerdgigerenzer>Meine Entscheidung, was soll ich tun, weiterhin auf der Bühne stehen, Musik zu machen oder eine akademische Karriere zu versuchen,
+
+00:22:06.301 --> 00:22:07.600
+<v gerdgigerenzer>ist eine unter Ungewissheit.
+
+00:22:07.601 --> 00:22:11.100
+<v gerdgigerenzer>Da kann man sich nicht ausrechnen, was passieren wird.
+
+00:22:11.101 --> 00:22:23.600
+<v gerdgigerenzer>Wenn Sie dagegen heute Abend ins Spielkasino gehen und Roulette spielen, dann können Sie sich ausrechnen, wie viel Sie auf lange Sicht verlieren werden.
+
+00:22:23.601 --> 00:22:25.600
+<v timpritlove>Oder gewinnen.
+
+00:22:25.601 --> 00:22:26.700
+<v gerdgigerenzer>Ja, das können Sie sich ausrechnen.
+
+00:22:26.701 --> 00:22:27.300
+<v timpritlove>Ja.
+
+00:22:27.301 --> 00:22:38.900
+<v gerdgigerenzer>Und ein Kernergebnis meiner Forschung ist, wir brauchen unterschiedliche Werkzeuge, mentale Werkzeuge, für diese beiden Situationen.
+
+00:22:38.901 --> 00:22:44.800
+<v gerdgigerenzer>Und hinzukommt, dass viele wirkliche Entscheidungssituationen Teile von beiden haben.
+
+00:22:44.801 --> 00:22:50.000
+<v gerdgigerenzer>Bestimmte Dinge kann man relativ gut berechnen, aber andere gar nicht.
+
+00:22:50.001 --> 00:22:52.100
+<v timpritlove>Wie haben Sie das untersucht?
+
+00:22:52.101 --> 00:23:09.000
+<v gerdgigerenzer>Nun, wir haben zum Beispiel Experten untersucht, die Entscheidungen treffen im Bereich der Wirtschaft oder auch Ärzte und ich habe auch Richter trainiert.
+
+00:23:09.001 --> 00:23:13.000
+<v gerdgigerenzer>Und die wirklich mit Ungewissheit umgehen.
+
+00:23:13.001 --> 00:23:19.400
+<v gerdgigerenzer>Und das Mittel, eines der großen Mittel, mit Ungewissheit umzugehen, das sind sogenannte Heuristiken,
+
+00:23:19.401 --> 00:23:25.100
+<v gerdgigerenzer>das heißt, einfache Regeln, die aber sehr sehr gut sein können.
+
+00:23:25.101 --> 00:23:45.200
+<v gerdgigerenzer>Also im Investmentbereich eine einfache Heuristik wäre, nun, verteilen Sie Ihr Geld, ein Drittel in Bonds, ein Drittel in Stocks und ein Drittel in Real Estate, das ist eine Heuristik.
+
+00:23:45.201 --> 00:23:51.700
+<v gerdgigerenzer>Die hat keinen Anspruch optimal zu sein, aber man kann nicht optimal sein in einer Welt, wo man die Zukunft nicht kennt.
+
+00:23:51.701 --> 00:24:06.500
+<v gerdgigerenzer>Und ich habe auch gezeigt, dass Heuristiken oft besser sind, akkurater, nicht nur schneller, als sehr sehr komplizierte Methoden.
+
+00:24:06.501 --> 00:24:12.200
+<v gerdgigerenzer>Ein Beispiel, erinnern Sie sich noch an Google Flu Trends?
+
+00:24:12.201 --> 00:24:11.600
+<v timpritlove>mhm (bejahend)
+
+00:24:11.601 --> 00:24:27.700
+<v gerdgigerenzer>Google wollte zeigen, dass man mit BigData die Verbreitung von Grippe und grippeähnlichen Erkrankungen viel viel besser vorhersagen kann
+
+00:24:27.701 --> 00:24:33.500
+<v gerdgigerenzer>und vor allen Dingen schneller vorhersagen kann, als das was man hat.
+
+00:24:33.501 --> 00:24:37.200
+<v timpritlove>Wobei das in dem Fall, glaube ich, auf Suchanfragen basierte.
+
+00:24:37.201 --> 00:24:38.100
+<v gerdgigerenzer>Richtig.
+
+00:24:38.101 --> 00:24:49.900
+<v gerdgigerenzer>Also man hatte eine ganz vernünftige Idee, nämlich man versucht herauszufinden, wer Grippe hat, über die Suchbegriffe, was soll ich machen, wenn ich das …
+
+00:24:49.901 --> 00:24:56.600
+<v gerdgigerenzer>und dann die Suchbegriffe zu ermitteln andere, die mit Grippe korrelieren.
+
+00:24:56.601 --> 00:25:05.600
+<v gerdgigerenzer>Und man hat ungefähr 50 Millionen solcher Suchbegriffe analysiert, dann einen Algorithmus getestet und entwickelt,
+
+00:25:05.601 --> 00:25:17.200
+<v gerdgigerenzer>der 45 Suchbegriffe hat und der sonst geheim ist und dann hat man vorhergesagt.
+
+00:25:17.201 --> 00:25:33.700
+<v gerdgigerenzer>Das begann 2009, das Problem war, dass 2009 die Schweinegrippe kam und die kam außerhalb der Session, also die Berichte waren im Wesentlichen von April bis zum September,
+
+00:25:33.701 --> 00:25:42.100
+<v gerdgigerenzer>wo der Höhepunkt war und der Algorithmus hatte gelernt, dass Grippe immer hoch ist im Winter, niedrig im Sommer.
+
+00:25:42.101 --> 00:25:52.000
+<v gerdgigerenzer>Und das war das erste Mal, dass der Algorithmus sozusagen auf die Nase gefallen ist, denn auch ein BigData kann auch nicht viel mehr als zu hoffen,
+
+00:25:52.001 --> 00:25:54.200
+<v gerdgigerenzer>dass die Zukunft genauso ist wie die Vergangenheit.
+
+00:25:54.201 --> 00:25:55.400
+<v timpritlove>Zumindest vergleichbar.
+
+00:25:55.401 --> 00:25:58.500
+<v gerdgigerenzer>Das kann ja nicht denken.
+
+00:25:58.501 --> 00:26:07.500
+<v gerdgigerenzer>Dann haben die Google Ingenieure darauf reagieren in einer typischen Art und Weise, nämlich wenn wir einen komplexen Algorithmus haben,
+
+00:26:07.501 --> 00:26:14.200
+<v gerdgigerenzer>der nicht funktioniert, dann machen wir es komplexer und haben 160 Variablen reingenommen.
+
+00:26:14.201 --> 00:26:26.800
+<v gerdgigerenzer>Nach unserer Forschung wissen wir, dass unter hochgradiger Ungewissheit und das ist der Fall mit Grippe und Viren, man es nicht komplexer machen muss,
+
+00:26:26.801 --> 00:26:29.700
+<v gerdgigerenzer>sondern einfacher machen muss.
+
+00:26:29.701 --> 00:26:34.900
+<v gerdgigerenzer>Aber diese Einsicht hat sich noch nicht überall durchgesetzt.
+
+00:26:34.901 --> 00:26:47.100
+<v gerdgigerenzer>So haben sie das auf 160 erhoben und dann gab es weitere Probleme, nämlich dass Menschen, die Suchbegriffe eingegeben haben, nicht weil sie Symptome hatten,
+
+00:26:47.101 --> 00:26:54.200
+<v gerdgigerenzer>sondern weil sie neugierig waren, und am Ende ist das Ganze so um die 2015 eingestellt worden.
+
+00:26:54.201 --> 00:26:56.600
+<v gerdgigerenzer>Es ging nicht.
+
+00:26:56.601 --> 00:26:58.200
+<v gerdgigerenzer>So, jetzt gebe ich Ihnen ein Beispiel.
+
+00:26:58.201 --> 00:27:05.900
+<v timpritlove>Wobei man Google zumindest zugute halten lassen muss, sie probieren es dann halt auch wenigstens mal und sind selber im Trial and Error Bereich unterwegs.
+
+00:27:05.901 --> 00:27:13.600
+<v gerdgigerenzer>Der große Unterschied zu vielen anderen BigData-Versprechungen ist, dass sie wirklich Vorhersagen gemacht haben und öffentlich gezeigt haben,
+
+00:27:13.601 --> 00:27:16.400
+<v gerdgigerenzer>man konnte es überprüfen.
+
+00:27:16.401 --> 00:27:24.800
+<v gerdgigerenzer>Nun, unter Ungewissheit, so haben wir gezeigt, muss man vereinfachen bis zu einem bestimmten Punkt.
+
+00:27:24.801 --> 00:27:35.500
+<v gerdgigerenzer>Jetzt haben wir uns überlegt, was wäre die einfachste Methode, um die Verbreitung von Grippe vorherzusagen, also genau was Google vorhergesagt hat,
+
+00:27:35.501 --> 00:27:42.900
+<v gerdgigerenzer>war die Anzahl der grippebezogenen Arztbesuchen in einer bestimmten Region.
+
+00:27:42.901 --> 00:27:52.700
+<v gerdgigerenzer>Was meinen Sie, was wäre die einfachste Methode, ohne BigData, ohne 50 Millionen Suchbegriffe, sondern mit einer Portion gesundem Menschenverstand?
+
+00:27:52.701 --> 00:27:53.600
+<v gerdgigerenzer>Nehmen Sie nur eine Variable.
+
+00:27:53.601 --> 00:27:56.200
+<v timpritlove>Jetzt mit einem digitalen System oder mit einer beliebigen Recherchemethode?
+
+00:27:56.201 --> 00:28:01.000
+<v gerdgigerenzer>Nein. Noch etwas, was ganz einfach findbar ist.
+
+00:28:01.001 --> 00:28:06.000
+<v gerdgigerenzer>Man nimmt die grippebezogenen Arztbesuche vor zwei Wochen.
+
+00:28:06.001 --> 00:28:15.000
+<v gerdgigerenzer>Das ist das früheste Datum, was zur Verfügung steht, von vor einer Woche hat man noch keine Daten.
+
+00:28:15.001 --> 00:28:27.700
+<v gerdgigerenzer>Und dann formuliert man eine Heuristik, nämlich die grippebezogenen Arztbesuche in der Region werden genau die gleichen sein wie vor zwei Wochen.
+
+00:28:27.701 --> 00:28:30.200
+<v timpritlove>Wenn es keine besondere Verbreitung gibt.
+
+00:28:30.201 --> 00:28:41.900
+<v gerdgigerenzer>Und diese einfache Heuristik hat einen wesentlich kleineren Fehler, das heißt eine bessere Vorhersage als der gesamte BigData-Algorithmus.
+
+00:28:41.901 --> 00:28:43.200
+<v gerdgigerenzer>Das haben wir gerade gezeigt.
+
+00:28:43.201 --> 00:28:54.200
+<v gerdgigerenzer>Was es illustriert, ist, dass unter Ungewissheit BigData und komplexe Modelle wahrscheinlich versagen.
+
+00:28:54.201 --> 00:29:00.200
+<v gerdgigerenzer>Und man hier besser beraten ist, wenn man einfache Regeln nimmt.
+
+00:29:00.201 --> 00:29:07.000
+<v timpritlove>Jetzt sind wir schon so ein bisschen nach vorne gesprungen und haben schon so die Implikationen auf die große Technologie.
+
+00:29:07.001 --> 00:29:14.600
+<v timpritlove>Ich würde ganz gern nochmal so ein bisschen zurückgehen auf, wie wir als Individuum Entscheidungen fällen.
+
+00:29:14.601 --> 00:29:29.700
+<v timpritlove>Ich meinte ja, wir denken vielleicht, dass wir das aus gutem Grund machen oder nachdem wir lange darüber nachgedacht haben, alle Für und Wider abgewogen
+
+00:29:29.701 --> 00:29:43.400
+<v timpritlove>und miteinander in Bezug gesetzt haben, stimmt das, sind wir so, funktionieren wir so, oder sind das andere Parameter, die uns zu einer Entscheidung bringen?
+
+00:29:43.401 --> 00:29:43.800
+<v gerdgigerenzer>Ja.
+
+00:29:43.801 --> 00:29:50.200
+<v timpritlove>Und vor allem, was macht eine entscheidungsfreudige Person eigentlich aus?
+
+00:29:50.201 --> 00:29:59.700
+<v gerdgigerenzer>Also wenn Sie die klassische Entscheidungstheorie lesen, dann werden Sie dort etwa das lesen, was Benjamin Franklin seinem Neffen einmal geraten hat,
+
+00:29:59.701 --> 00:30:11.300
+<v gerdgigerenzer>wenn du in Zweifel bist, dann nimm dir ein Blatt Papier, liste alle Alternativen auf, alle Gründe dafür, alle Gründe dagegen, dann gewichte diese und mach die Rechnung.
+
+00:30:11.301 --> 00:30:13.100
+<v gerdgigerenzer>Benjamin Franklin meinte das sehr ernst.
+
+00:30:13.101 --> 00:30:21.100
+<v gerdgigerenzer>Er sagte, wenn du das nicht tust, dann wirst du auch keine Frau finden und dich nicht verheiraten.
+
+00:30:21.101 --> 00:30:34.800
+<v gerdgigerenzer>Das ist im Wesentlichen der Kerngedanke von der heutigen erwarteten Nutzentheorie, also man wäge alles und übersehe nichts.
+
+00:30:34.801 --> 00:30:42.200
+<v gerdgigerenzer>Das ist eine Methode, die ist erfolgversprechend in einer Situation, wo man die Risiken berechnen kann,
+
+00:30:42.201 --> 00:30:49.200
+<v gerdgigerenzer>nicht aber in anderen Situationen, also unter Ungewissheit.
+
+00:30:49.201 --> 00:30:59.200
+<v gerdgigerenzer>Und in diesen Bereichen verwenden Menschen eben Heuristiken, Regeln und oft anders als Maschinen soziale Heuristiken.
+
+00:30:59.201 --> 00:31:05.000
+<v gerdgigerenzer>Eine soziale Heuristik wäre zum Beispiel für viele Jugendliche, mach was deine Peers tun.
+
+00:31:05.001 --> 00:31:09.200
+<v gerdgigerenzer>Wenn man das nicht macht, ist man draußen.
+
+00:31:09.201 --> 00:31:12.500
+<v gerdgigerenzer>Also Imitation.
+
+00:31:12.501 --> 00:31:19.200
+<v gerdgigerenzer>Oder und da gibt es verschiedene Dinge, soll man den erfolgreichen imitieren oder die Masse imitieren?
+
+00:31:19.201 --> 00:31:32.200
+<v gerdgigerenzer>Ratgeben und das ist auf der anderen Seite auch genau das, was uns Menschen ausmacht, wir Menschen sind die Art, wo Kinder und auch schon Kleinkinder viel präziser
+
+00:31:32.201 --> 00:31:37.800
+<v gerdgigerenzer>und viel allgemeiner imitieren als in jeder anderen Art.
+
+00:31:37.801 --> 00:31:49.100
+<v gerdgigerenzer>Und das schafft uns genau die Kultur, dass nicht jeder wieder neu lernen muss, auf der andern Seite aber auch diese Tendenz, den anderen nachzulaufen.
+
+00:31:49.101 --> 00:31:55.400
+<v timpritlove>Was soll das, ich meine, das ist ja sozusagen eine entwicklungsbiologische Frage in gewisser Hinsicht.
+
+00:31:55.401 --> 00:31:57.900
+<v timpritlove>Also was sichert das Überleben?
+
+00:31:57.901 --> 00:32:14.300
+<v timpritlove>Am Anfang ist ja die Imitation des Babys das Anlernen einer Vielzahl von Kulturtechniken auf der einen Seite, aber natürlich auch so der einfachen Basic des förmlichen Begreifens der Welt
+
+00:32:14.301 --> 00:32:25.700
+<v timpritlove>und wir lernen sozusagen sehr viel erst nach der eigentlichen Geburt, wo wir das bei anderen Tierarten ja beobachten, dass sie quasi frisch geschlüpft schon komplexe Handlungen
+
+00:32:25.701 --> 00:32:32.500
+<v timpritlove>mehr oder weniger fest einprogrammiert haben, aber eben dann vielleicht auch nicht in dem selben Maße in der Lage sind, sie dann an andere Bedingungen anzupassen,
+
+00:32:32.501 --> 00:32:36.000
+<v timpritlove>wie es denn vielleicht dem Menschen obliegt.
+
+00:32:36.001 --> 00:32:45.600
+<v timpritlove>Aber irgendwann muss man dann ja dann sozusagen auch ausbrechen aus diesem reinen Imitierungsbusiness, insbesondere wenn man für sich individuell eine Entscheidung fällen will,
+
+00:32:45.601 --> 00:32:51.500
+<v timpritlove>die dann einen Unterschied macht, irgendwann will man ja dann auch herausstechen aus der Masse.
+
+00:32:51.501 --> 00:32:57.000
+<v timpritlove>Worauf soll man sich dann sozusagen stürzen?
+
+00:32:57.001 --> 00:33:05.700
+<v gerdgigerenzer>Also nach meiner Forschung haben die Menschen eine sogenannte Werkzeugkiste, eine Toolbox, von solchen Regeln, die einem helfen.
+
+00:33:05.701 --> 00:33:12.500
+<v gerdgigerenzer>Und wo man mit Imitation zum Beispiel beginnt, aber zu einem bestimmten Punkt dann selbst weitermacht.
+
+00:33:12.501 --> 00:33:15.500
+<v gerdgigerenzer>Also es gibt ganze Nationen, die das tun.
+
+00:33:15.501 --> 00:33:26.600
+<v gerdgigerenzer>Als ich zum ersten Mal an der chinesischen Akademie der Wissenschaften zu Besuch war, hat mich die Dekanin gefragt, Herr Gigerenzer, erklären Sie mir,
+
+00:33:26.601 --> 00:33:31.900
+<v gerdgigerenzer>was wir tun müssen, damit wir so gut wie Max-Planck werden.
+
+00:33:31.901 --> 00:33:33.000
+<v gerdgigerenzer>Diese Frage …
+
+00:33:33.001 --> 00:33:35.800
+<v timpritlove>Also Max Planck die Person oder Max Planck die Institution?
+
+00:33:35.801 --> 00:33:39.000
+<v gerdgigerenzer>Die Max-Planck-Gesellschaft.
+
+00:33:39.001 --> 00:33:46.600
+<v gerdgigerenzer>Diese Frage habe ich von keinem westlichen Präsidenten und schon gar nicht in Deutschland je gehört.
+
+00:33:46.601 --> 00:33:50.200
+<v gerdgigerenzer>Und ich war beeindruckt von der Frage.
+
+00:33:50.201 --> 00:34:03.100
+<v gerdgigerenzer>Und die Chinesen haben gar keine Scheu zu imitieren die Exzellenz, aber sie wissen, wenn wir soweit sind, dann müssen wir selbst lenken.
+
+00:34:03.101 --> 00:34:14.100
+<v gerdgigerenzer>Also das ist genau die Idee, dass bestimmte von diesen Regeln bis zu einem bestimmten Punkt gehen, aber dann braucht man eine andere.
+
+00:34:14.101 --> 00:34:24.800
+<v gerdgigerenzer>Und ein großer Teil des Erfolgs des Landes China hängt ja auch damit zusammen, dass man so stark imitiert wie es Kinder machen.
+
+00:34:24.801 --> 00:34:25.200
+<v timpritlove>Als Gesellschaft?
+
+00:34:25.201 --> 00:34:29.300
+<v gerdgigerenzer>Als Gesellschaft und keine Scheu davor hat.
+
+00:34:29.301 --> 00:34:36.600
+<v timpritlove>Aber irgendwann muss man ja dann auch den Absprung bekomme und eine eigene Qualität ausbilden.
+
+00:34:36.601 --> 00:34:39.900
+<v gerdgigerenzer>Richtig, das passiert im Moment in diesem Land.
+
+00:34:39.901 --> 00:34:46.000
+<v gerdgigerenzer>Bei uns ist es oft so, dass man eher Scheu hat zu imitieren.
+
+00:34:46.001 --> 00:34:57.300
+<v gerdgigerenzer>Also man sieht es schon etwa, wenn man gemeinsam mit Kollegen zum Essen geht und man bestellt sich einen Lachs, dann ist es wahrscheinlich,
+
+00:34:57.301 --> 00:35:03.300
+<v gerdgigerenzer>dass keiner der anderen auch noch einen Lachs bestellt.
+
+00:35:03.301 --> 00:35:07.700
+<v gerdgigerenzer>Ist eine gewisse Scheu da zu imitieren.
+
+00:35:07.701 --> 00:35:23.300
+<v gerdgigerenzer>Also die Frage, wie treffen Menschen Entscheidungen, die Antwort darauf ist, man muss unterscheiden zwischen Situationen, wo man wirklich die Zukunft relativ gut berechnen kann,
+
+00:35:23.301 --> 00:35:26.800
+<v gerdgigerenzer>wo sie stabil ist und denen, wo das nicht der Fall ist.
+
+00:35:26.801 --> 00:35:33.400
+<v gerdgigerenzer>Beim ersten kann man rechnen, da kann man Statistiken verwenden, da kann man sich fragen, was bedeutet eine Regenwahrscheinlichkeit?
+
+00:35:33.401 --> 00:35:34.000
+<v timpritlove>Also …
+
+00:35:34.001 --> 00:35:34.100
+<v gerdgigerenzer>Beim zweiten ist das nicht der Fall.
+
+00:35:34.101 --> 00:35:40.400
+<v timpritlove>… solange man sich quasi in einem festen Regelsystem befindet, also ein Spiel.
+
+00:35:40.401 --> 00:35:52.700
+<v gerdgigerenzer>Ja. Spiel, das ist auch der Platz, wo BigData und künstliche Intelligenz am erfolgreichsten ist, bei Spielen, wie Go und Schach.
+
+00:35:52.701 --> 00:36:03.400
+<v gerdgigerenzer>Wo künstliche Intelligenz die größten Probleme hat, ist das, was wir Intuition und guten Menschenverstand nennen.
+
+00:36:03.401 --> 00:36:25.400
+<v gerdgigerenzer>Also Dinge, den Zusammenhang zu erkennen, kausal zu denken und auch die intuitive Psychologie und die intuitive Physik zu verstehen, die jedem Kind mehr oder weniger in die Wiege gegeben wird.
+
+00:36:25.401 --> 00:36:32.900
+<v timpritlove>Es gibt doch, glaube ich, schon diese Illusion, dass man selber meint, eine informierte Entscheidung zu fällen,
+
+00:36:32.901 --> 00:36:42.900
+<v timpritlove>sagen Sie, dass das sozusagen eigentlich gar nicht so ist, sondern dass man sich generell nur auf seine Intuition verlässt?
+
+00:36:42.901 --> 00:36:46.800
+<v timpritlove>Machen wir das immer oder manchmal, meistens?
+
+00:36:46.801 --> 00:36:54.900
+<v gerdgigerenzer>Also ich würde sagen, in den seltensten Fällen können wir informierte Entscheidungen oder vollinformierte Entscheidungen treffen.
+
+00:36:54.901 --> 00:37:04.600
+<v gerdgigerenzer>Das geht wie gesagt in Situationen, wenn Sie in die Spielbank gehen, dann können Sie sich ausrechnen und informierte Entscheidungen zu treffen.
+
+00:37:04.601 --> 00:37:15.900
+<v gerdgigerenzer>Aber wenn es darum geht, den richtigen romantischen Partner zu finden, sein Geld vernünftig zu investieren, dann ist es eine andere Situation,
+
+00:37:15.901 --> 00:37:26.000
+<v gerdgigerenzer>aber hier kann man auch gute Regeln, also heuristische Regeln sich überlegen und auch ausprobieren.
+
+00:37:26.001 --> 00:37:40.200
+<v gerdgigerenzer>Und die Forschung zeigt eben auch, dass anders als viele denken, einfache Regeln oft besser sein können und nicht nur schneller als komplexes Denken.
+
+00:37:40.201 --> 00:37:52.600
+<v timpritlove>Aber eine Heuristik anwenden heißt ja im Prinzip, selber auszuwählen, welches Kriterium jetzt entscheidend sein soll, indem man eben auch bewusst andere Sachen auslässt.
+
+00:37:52.601 --> 00:38:00.700
+<v timpritlove>Sprich, ich entwickle eigentlich für diesen Moment mein eigenes Regelsystem, indem ich einfach wegabstahiere und Dinge einfach weglasse.
+
+00:38:00.701 --> 00:38:06.500
+<v timpritlove>Was ist die treibende Kraft, um hier die richtige Entscheidung zu fällen?
+
+00:38:06.501 --> 00:38:14.800
+<v gerdgigerenzer>Also diese Entscheidungen und heuristische Entscheidungen können bewusst sein oder unbewusst sein.
+
+00:38:14.801 --> 00:38:24.200
+<v gerdgigerenzer>Wir wissen, dass viele Tiere ihre Entscheidungen über heuristische Regeln treffen.
+
+00:38:24.201 --> 00:38:30.000
+<v gerdgigerenzer>Also wie suchen Bienen nach einem neuen Nest?
+
+00:38:30.001 --> 00:38:32.400
+<v gerdgigerenzer>Wie suchen Ameisen nach einem neuen Nest?
+
+00:38:32.401 --> 00:38:35.300
+<v gerdgigerenzer>Das ist relativ gut erforscht.
+
+00:38:35.301 --> 00:38:41.600
+<v gerdgigerenzer>Und das sind oft erstaunlich einfache Regeln, die sie benutzen, die aber funktionieren.
+
+00:38:41.601 --> 00:38:56.500
+<v gerdgigerenzer>Wenn beim Menschen eine Heuristik unbewusst angewandt wird, dann nennt man das Intuition, man weiß, was man tun soll, aber man kann es nicht begründen.
+
+00:38:56.501 --> 00:39:09.800
+<v gerdgigerenzer>Also bei Personalauswahl ist das oft der Fall, dass ein Bewerber auf dem Papier sehr gut aussieht, aber wenn man ihn dann persönlich trifft und mit ihm spricht,
+
+00:39:09.801 --> 00:39:16.800
+<v gerdgigerenzer>dann hat man ein negatives Bauchgefühl und dann stehen viele vor der Frage, was soll ich denn trauen?
+
+00:39:16.801 --> 00:39:20.400
+<v gerdgigerenzer>Dem Papier oder meinem negativen Bauchgefühl?
+
+00:39:20.401 --> 00:39:28.500
+<v gerdgigerenzer>Und oft ist die Erfahrung, dass man hätte seinem Bauchgefühl eher vertrauen sollen.
+
+00:39:28.501 --> 00:39:34.400
+<v gerdgigerenzer>Und das gilt genau dann, wenn die Person langjährige Erfahrung mit zum Beispiel Personalauslese hat.
+
+00:39:34.401 --> 00:39:40.600
+<v gerdgigerenzer>Das gilt nicht unbedingt für einen Anfänger.
+
+00:39:40.601 --> 00:39:42.800
+<v timpritlove>Haben wir da ein Organ im Bauch?
+
+00:39:42.801 --> 00:39:46.800
+<v timpritlove>Warum ist das Bauchgefühl eigentlich im Bauch?
+
+00:39:46.801 --> 00:39:49.100
+<v gerdgigerenzer>Es ist nicht im Bauch.
+
+00:39:49.101 --> 00:39:52.300
+<v timpritlove>Aber es fühlt sich so an.
+
+00:39:52.301 --> 00:39:55.200
+<v gerdgigerenzer>Nein, das ist eine deutsche Idee.
+
+00:39:55.201 --> 00:39:58.700
+<v gerdgigerenzer>Also ich habe ein Buch geschrieben, das heißt Bauchentscheidungen.
+
+00:39:58.701 --> 00:40:05.800
+<v gerdgigerenzer>Dieses Buch ist in zwanzig oder so Sprachen übersetzt und fast nie konnte der Titel übersetzt werden.
+
+00:40:05.801 --> 00:40:20.000
+<v gerdgigerenzer>Das Englische gut feeling ist noch am nächsten, aber fragen Sie mal einen Spanier oder einen Kroaten über Bauchgefühle, da gibt es die Assoziationen nicht.
+
+00:40:20.001 --> 00:40:24.400
+<v gerdgigerenzer>Für den Franzosen ist es noch eher das Herz.
+
+00:40:24.401 --> 00:40:28.100
+<v gerdgigerenzer>Auch guts ist nicht wirklich Bauch, sondern liegt etwas tiefer.
+
+00:40:28.101 --> 00:40:28.800
+<v timpritlove>Ja.
+
+00:40:28.801 --> 00:40:43.700
+<v gerdgigerenzer>Und wenn Sie die These hören, dass im Bauch das Netzwerk, was wir an Neuronen im Bauch haben, für die Intuition da ist, dann kann es eigentlich nur ein Deutscher geschrieben haben.
+
+00:40:43.701 --> 00:40:47.200
+<v gerdgigerenzer>Da ist ein Netzwerk, aber das tut etwas anderes, was auch wichtig ist.
+
+00:40:47.201 --> 00:40:52.900
+<v timpritlove>Also die Entscheidung kommt natürlich aus dem Hirn, aber welcher Teil des Hirns ist denn hier zuständig?
+
+00:40:52.901 --> 00:41:03.100
+<v gerdgigerenzer>Ja, also man kann sich das so einfach vorstellen, große Teile des Gehirns sind im Bewusstsein, hier der Sprache genau, nicht zugänglich.
+
+00:41:03.101 --> 00:41:06.900
+<v gerdgigerenzer>Dort wird aber Information gespeichert.
+
+00:41:06.901 --> 00:41:15.900
+<v gerdgigerenzer>Wenn Sie die jetzt nun ignorieren würden, dann viel Glück mit Ihren Entscheidungen.
+
+00:41:15.901 --> 00:41:31.800
+<v gerdgigerenzer>Die Intuition ist so definiert, dass man sagt, es ist eine Form von unbewusstem Wissen, das auf jahrelanger Erfahrung mit einem bestimmten Problem besteht
+
+00:41:31.801 --> 00:41:40.000
+<v gerdgigerenzer>und wo man in der Regel sofort spürt, was man tun oder lassen sollte, aber es nicht begründen kann.
+
+00:41:40.001 --> 00:41:49.600
+<v gerdgigerenzer>Also es ist keine Willkür, es ist keine göttliche Eingabe, es ist kein sechster Sinn, es ist auch nichts, was nur Frauen haben, wir Männer haben auch Intuitionen.
+
+00:41:49.601 --> 00:42:04.800
+<v gerdgigerenzer>Aber es ist in unserer Gesellschaft eine Tendenz, Intuition abzuwerten, weil man denkt, dass alles, was vernünftig ist, muss man begründen können.
+
+00:42:04.801 --> 00:42:07.700
+<v gerdgigerenzer>Stellen Sie sich vor, wo das hinführt.
+
+00:42:07.701 --> 00:42:21.300
+<v gerdgigerenzer>Also wenn Sie ein Fußballspiel haben und ein Spieler schießt ein Tor aus einem unglaublichen Winkel, dann müsste der Schiedsrichter zu ihm laufen und sagen,
+
+00:42:21.301 --> 00:42:28.300
+<v gerdgigerenzer>jetzt erklären Sie mir, wie Sie dieses Tor geschossen haben, wenn Sie es nicht können, gilt es nicht.
+
+00:42:28.301 --> 00:42:45.000
+<v gerdgigerenzer>Das ist ungefähr die Einstellung, die man in vielen großen Firmen hat, in vielen Verwaltungen und auch, was ein Problem inzwischen für viele Ärzte geworden ist,
+
+00:42:45.001 --> 00:42:52.800
+<v gerdgigerenzer>die Angst haben, ihrer ärztlichen Intuition zu folgen, weil sie es per Definition ja nicht erklären können.
+
+00:42:52.801 --> 00:43:06.600
+<v gerdgigerenzer>Und die Folge ist, dass in vielen Bereichen dennoch intuitive Entscheidungen gefällt werden, aber man gibt es nicht öffentlich zu.
+
+00:43:06.601 --> 00:43:20.400
+<v gerdgigerenzer>Nach meiner Arbeit mit großen DAX-notierten Unternehmen ist es so, dass nach Aussagen der Führungskräfte selbst etwa jede zweite wichtige professionelle Entscheidung
+
+00:43:20.401 --> 00:43:28.300
+<v gerdgigerenzer>am Ende eine Bauchentscheidung ist und ich betone am Ende, erst geht man durch die Daten, aber die sprechen ja nicht immer für sich.
+
+00:43:28.301 --> 00:43:36.400
+<v gerdgigerenzer>Und wenn man dann seiner Erfahrung folgt, obgleich man es nicht begründen kann, dann ist das damit gemeint.
+
+00:43:36.401 --> 00:43:41.400
+<v gerdgigerenzer>Die gleichen Führungskräfte würden das wie gesagt in der Öffentlichkeit nicht zugeben.
+
+00:43:41.401 --> 00:43:54.300
+<v gerdgigerenzer>Und ich habe zwei Methoden beobachtet, mit denen man mit der eigenen Angst vor Bauchentscheidungen und auch damit vor Verantwortung zu übernehmen umgeht.
+
+00:43:54.301 --> 00:43:58.200
+<v gerdgigerenzer>Verantwortung muss man für eine Bauchentscheidung immer selbst übernehmen.
+
+00:43:58.201 --> 00:44:06.800
+<v gerdgigerenzer>Die erste ist, man sucht nach Gründen im Nachhinein, also man stellt etwa einen Mitarbeiter ab, der zwei Wochen lang nach Gründen sucht
+
+00:44:06.801 --> 00:44:13.900
+<v gerdgigerenzer>und dann präsentiert der Vorstand die Bauchentscheidung als eine faktenbasierte Entscheidung.
+
+00:44:13.901 --> 00:44:19.600
+<v gerdgigerenzer>Das ist eine Verschwendung von Geld, Zeit und Intelligenz, nur weil man Angst hat.
+
+00:44:19.601 --> 00:44:30.800
+<v gerdgigerenzer>Eine Version davon ist etwas teurer, man stellt eine Beratungsfirma ein, die dann auf 200 Seiten mit PowerPoint die schon getroffene Entscheidung begründet.
+
+00:44:30.801 --> 00:44:48.300
+<v gerdgigerenzer>Ich habe mit großen Beratungsfirmen gearbeitet und ich habe ihn gefragt, wären Sie bereit mir zu sagen, welcher Prozentsatz Ihrer Kundenkontakte darin besteht,
+
+00:44:48.301 --> 00:44:53.200
+<v gerdgigerenzer>dass Sie schon getroffene Entscheidungen im Nachhinein begründen?
+
+00:44:53.201 --> 00:45:01.100
+<v gerdgigerenzer>Er sagte zu mir, Herr Gigerenzer, wenn Sie meinen Namen nicht nennen, sage ich es Ihnen, es ist über 50%.
+
+00:45:01.101 --> 00:45:05.400
+<v timpritlove>Wir nennen den Namen jetzt nicht.
+
+00:45:05.401 --> 00:45:16.100
+<v gerdgigerenzer>Aber schauen Sie mal, was wird hier verschwendet an Zeit, Geld, Intelligenz, nur weil man nicht den Mut hat, zu den eigenen Entscheidungen,
+
+00:45:16.101 --> 00:45:19.300
+<v gerdgigerenzer>weil sie Bauchentscheidungen sind, zu stehen?
+
+00:45:19.301 --> 00:45:25.800
+<v timpritlove>man könnte natürlich auch sagen, weil die Gesellschaft diese Art von Entscheidungen als solche als Begründung nicht akzeptiert.
+
+00:45:25.801 --> 00:45:27.100
+<v gerdgigerenzer>Richtig.
+
+00:45:27.101 --> 00:45:37.600
+<v timpritlove>Also die Ängste sind ja dann sozusagen die Ängste vor der Reaktion, die wiederum gebildet sind durch so eine kulturelle Hegemonie einer gefühlten Rationalität,
+
+00:45:37.601 --> 00:45:47.000
+<v timpritlove>dass man sozusagen von allem annimmt, es müsste immer einen guten Grund geben, der auf Nachfrage dann natürlich auch präsentiert werden kann,
+
+00:45:47.001 --> 00:45:58.300
+<v timpritlove>so dass man dann sich eben nicht traut, weil man dann unter Umständen ja auch rechtlich vielleicht in dem Zuge belangt wird, hatten Sie denn einen guten Grund für diese Entscheidung,
+
+00:45:58.301 --> 00:46:00.300
+<v timpritlove>die dann total schiefgegangen ist?
+
+00:46:00.301 --> 00:46:06.500
+<v timpritlove>Ja, nein ich fühlte mich gerade danach und dann habe ich es erst mal gemacht, ja aber.
+
+00:46:06.501 --> 00:46:09.800
+<v timpritlove>Und ich glaube, das ist dann auch so ein bisschen ein Grund, warum das gemacht wird.
+
+00:46:09.801 --> 00:46:16.300
+<v timpritlove>Das heißt, dass eigentlich unsere Gesellschaft nicht risikobereit ist.
+
+00:46:16.301 --> 00:46:18.600
+<v gerdgigerenzer>Das ist richtig.
+
+00:46:18.601 --> 00:46:32.100
+<v timpritlove>Ist das eine grundsätzliche Haltung dieser Gesellschaft oder ist das ein vorübergehender Zustand, der sich vielleicht unter anderen Umständen, nach einem Krieg oder so, ändert?
+
+00:46:32.101 --> 00:46:38.600
+<v gerdgigerenzer>Es gibt Bereiche in unserer Gesellschaft, wo man diese Angst nicht so hat, zum Beispiel Familienunternehmen haben das ganz wenige.
+
+00:46:38.601 --> 00:46:45.700
+<v gerdgigerenzer>Wenige defensive Entscheidungen, mehr Mut zu Bauchentscheidungen.
+
+00:46:45.701 --> 00:46:59.800
+<v gerdgigerenzer>Es gibt allerdings in unserer Gesellschaft nach meiner Beobachtung eine immer mehr wachsende Kultur der Rechtfertigung, Kultur der Absicherung,
+
+00:46:59.801 --> 00:47:03.100
+<v gerdgigerenzer>die auf Kosten von unserer Leistungskultur geht.
+
+00:47:03.101 --> 00:47:16.600
+<v gerdgigerenzer>Man investiert mehr Zeit darüber nachzudenken, wie man sich absichert, statt wie man eine bessere Leistung bringt und das halte ich für gefährlich.
+
+00:47:16.601 --> 00:47:18.800
+<v gerdgigerenzer>Und das finden wir im Bereich der Medizin.
+
+00:47:18.801 --> 00:47:23.800
+<v gerdgigerenzer>Viele Ärzte müssen ihre Zeit damit verbringen zu dokumentieren, zu dokumentieren.
+
+00:47:23.801 --> 00:47:39.300
+<v gerdgigerenzer>Viele Bereiche des sogenannten Risikomanagements sind damit beschäftigt, sich selbst abzusichern und den Vorstand abzusichern, statt wirkliche Risiken zu beseitigen.
+
+00:47:39.301 --> 00:47:50.900
+<v gerdgigerenzer>Und wir haben es in der Politik, dass immer mehr Politiker strategisch denken, statt das zu sagen, was sie wirklich denken.
+
+00:47:50.901 --> 00:48:01.600
+<v gerdgigerenzer>Und das ist auch einer der Faktoren, warum immer weniger Menschen Vertrauen in Politik haben, weil sie spüren, es ist ein Spiel zum großen Teil und nicht,
+
+00:48:01.601 --> 00:48:10.200
+<v gerdgigerenzer>es gibt kaum Frauen und Männer, die eine Vision haben und für die einstehen.
+
+00:48:10.201 --> 00:48:11.800
+<v timpritlove>Warum ist das so?
+
+00:48:11.801 --> 00:48:13.800
+<v gerdgigerenzer>Das hat unterschiedliche Gründe.
+
+00:48:13.801 --> 00:48:27.700
+<v gerdgigerenzer>Also im Bereich der Medizin ist es eine Kultur von Angst vor Gerichtsprozessen, die besonders stark ist in den USA.
+
+00:48:27.701 --> 00:48:37.600
+<v gerdgigerenzer>Man nennt das defensive Medizin, das heißt, der Arzt rät dem Patienten nicht das, was das beste für den Patienten ist, sondern etwas …
+
+00:48:37.601 --> 00:48:40.200
+<v timpritlove>Für das er selbst am wenigstens gefährdet ist.
+
+00:48:40.201 --> 00:48:47.600
+<v gerdgigerenzer>wodurch sich der Arzt selbst schützt vor dem Patienten als Troublemaker oder als möglicher Kläger.
+
+00:48:47.601 --> 00:48:54.200
+<v gerdgigerenzer>Es gibt Studien in den USA, die Ärzte gefragt haben, betreiben Sie defensive Medizin?
+
+00:48:54.201 --> 00:49:01.700
+<v gerdgigerenzer>Was meinen Sie, welcher Prozentsatz von Studie zu Studie sagt, ja das mache ich?
+
+00:49:01.701 --> 00:49:02.800
+<v gerdgigerenzer>Es ist immer über 90%.
+
+00:49:02.801 --> 00:49:04.400
+<v timpritlove>Über 90, ich wäre jetzt bei 60-70 eingestiegen.
+
+00:49:04.401 --> 00:49:10.500
+<v gerdgigerenzer>Ja und das ist wahrscheinlich eine Unterschätzung, denn nicht jeder gibt zu vor sich selbst.
+
+00:49:10.501 --> 00:49:22.300
+<v gerdgigerenzer>Und defensive Medizin besteht typischerweise darin, dass man den Patienten zu viel behandelt, also unnötige Antibiotika, unnötige Krebsfrüherkennungen,
+
+00:49:22.301 --> 00:49:25.900
+<v gerdgigerenzer>unnötige, sogar unnötige Operationen.
+
+00:49:25.901 --> 00:49:30.800
+<v timpritlove>USA ist wahrscheinlich auch ein schwieriges Feld, um das zu untersuchen, weil natürlich auch die anderen Incentives schwierig sind.
+
+00:49:30.801 --> 00:49:39.700
+<v timpritlove>Also generell auch natürlich ein Gesundheitssystem, das haben wir auch bei uns, was ja weniger am Erfolg ausgerichtet ist, sondern eben sozusagen an realen Kosten,
+
+00:49:39.701 --> 00:49:43.600
+<v timpritlove>die in diesem komplett privatisierten System natürlich extrem sind.
+
+00:49:43.601 --> 00:49:53.900
+<v timpritlove>Da rät man dann gegebenenfalls auch zu Untersuchungen, die mir dann eben als Arzt einen persönlichen Vorteil einbringen, weil da einfach mehr Umsatz mit gemacht werden kann.
+
+00:49:53.901 --> 00:49:55.600
+<v timpritlove>Gehen wir vielleicht mal weg von der Medizin, sondern sozusagen auch generell.
+
+00:49:55.601 --> 00:50:06.600
+<v timpritlove>Ich meine, so ein ähnliches Absicherungsverhalten habe ich jetzt auch schon oft aus Behördenstrukturen zum Beispiel erlebt, wo eben Verantwortung nicht übernommen werden soll
+
+00:50:06.601 --> 00:50:13.400
+<v timpritlove>und Dinge werden erst dann getan, wenn die nächsthöhere Hierarchie das eben dann auch abgesegnet hat, dann kann man das alles machen.
+
+00:50:13.401 --> 00:50:24.700
+<v timpritlove>Also so ein Mangel an Bereitschaft, eben Verantwortung zu übernehmen, eben aus Angst einer Bestrafung durch ein System oder eben auch nur durch eine öffentliche Meinung,
+
+00:50:24.701 --> 00:50:30.200
+<v timpritlove>was spätestens dann zum Tragen kommt, denke ich, wenn wir in dieser Hierarchie wiederum ganz oben angekommen sind.
+
+00:50:30.201 --> 00:50:46.000
+<v timpritlove>Das ist sozusagen eine vertretbare, belegbare, vielleicht sogar in gewisser Hinsicht rationale Entscheidung, alles spricht dafür, nur eine wahrgenommene Bestrafungsoption, die im Raum steht,
+
+00:50:46.001 --> 00:50:52.000
+<v timpritlove>führt dann eben dazu, dass auch so etwas nicht durchgeführt wird.
+
+00:50:52.001 --> 00:51:01.900
+<v timpritlove>Kampf gegen Klimawandel könnte man vielleicht auch ein wenig in diese Kategorie schieben, ohne das jetzt hier gleich alles auf eine Ebene stellen zu wollen.
+
+00:51:01.901 --> 00:51:04.700
+<v timpritlove>Aber was tut man denn gegen diese Kultur?
+
+00:51:04.701 --> 00:51:06.200
+<v timpritlove>Was ist sozusagen der Ausdruck?
+
+00:51:06.201 --> 00:51:15.700
+<v timpritlove>Ich hatte vorhin auch noch gefragt, ist das jetzt nur so ein Zwischenstand oder ist das etwas, was sich schon immer verschärft hat?
+
+00:51:15.701 --> 00:51:26.200
+<v timpritlove>Oder gibt es auch Gesellschaften, die in einem bestimmten Moment nur so sind, aber dann später nicht mehr?
+
+00:51:26.201 --> 00:51:38.600
+<v timpritlove>Also bei China haben Sie gesagt, wandelt sich das jetzt so ein bisschen von dem Imitieren in jetzt müssen wir selber was machen, dann sind sie ja in gewisser Hinsicht vielleicht auch in Gefahr, in diese Zustand zu kommen.
+
+00:51:38.601 --> 00:51:49.200
+<v gerdgigerenzer>Mit einigen meinen früheren Mitarbeitern habe ich ein Startup gegründet, das heißt simply rational, das Institut der Entscheidung,
+
+00:51:49.201 --> 00:51:59.000
+<v gerdgigerenzer>wo wir mit den unter anderen Berliner Behörden arbeiten zum Thema defensives Entscheiden.
+
+00:51:59.001 --> 00:52:12.000
+<v gerdgigerenzer>Und in allen Behörden wie in allen großen börsennotierten Firmen, mit denen ich gearbeitet habe, ist defensives Entscheiden ein großes Thema.
+
+00:52:12.001 --> 00:52:22.400
+<v gerdgigerenzer>Und nach den DAX-Unternehmen, mit denen ich gearbeitet habe, ist ungefähr jede zweite, jede dritte Entscheidung nach Aussagen der Führungskräfte selbst eine defensive.
+
+00:52:22.401 --> 00:52:29.000
+<v gerdgigerenzer>Das heißt, nicht die beste für die Firma, sondern die beste, um sich selbst zu schützen.
+
+00:52:29.001 --> 00:52:42.200
+<v gerdgigerenzer>Und das ist wiederum ein Aspekt, wo man klar sieht, wo unsere Wirtschaft leidet, und das ist ein rein psychologischer Aspekt, der natürlich damit zusammenhängt mit der Akzeptanz der Umgebung.
+
+00:52:42.201 --> 00:52:44.700
+<v gerdgigerenzer>Was kann man dagegen tun?
+
+00:52:44.701 --> 00:53:00.200
+<v gerdgigerenzer>Nun, das hängt sehr ab von der jeweiligen – das ist anders bei Ärzten als in großen Kooperationen - was oft hilft in Kooperationen, ist, dass die Führungskräfte selbst ein Modell werden
+
+00:53:00.201 --> 00:53:03.100
+<v gerdgigerenzer>für eine positive Fehlerkultur.
+
+00:53:03.101 --> 00:53:19.300
+<v gerdgigerenzer>Positive Fehlerkultur bedeutet, dass man Fehler als nützliche Information interpretiert und sich dann überlegt, wie kann man die Ursachen beseitigen?
+
+00:53:19.301 --> 00:53:23.400
+<v gerdgigerenzer>Dadurch werden es am Ende weniger Fehler.
+
+00:53:23.401 --> 00:53:29.400
+<v gerdgigerenzer>Eine negative Fehlerkultur bedeutet, dass man davon ausgeht, dass es keine Fehler geben darf.
+
+00:53:29.401 --> 00:53:35.900
+<v gerdgigerenzer>Passiert einer, versucht man es unter den Teppich zu kehren, gelingt das nicht, dann …
+
+00:53:35.901 --> 00:53:34.800
+<v timpritlove>sind die Konsequenzen groß.
+
+00:53:34.801 --> 00:53:36.900
+<v gerdgigerenzer>… sucht man einen Schuldigen.
+
+00:53:36.901 --> 00:53:43.700
+<v gerdgigerenzer>Und das führt zu immer mehr defensiven Entscheiden.
+
+00:53:43.701 --> 00:53:51.400
+<v gerdgigerenzer>Und man kann einiges tun, um positive Fehlerkulturen zu gründen und es gibt sie.
+
+00:53:51.401 --> 00:53:58.500
+<v gerdgigerenzer>Also zum Beispiel die Cockpit-Fehlerkultur bei den internationalen Fluggesellschaften, ist eine ziemlich positive.
+
+00:53:58.501 --> 00:54:02.100
+<v gerdgigerenzer>Und das ist der Grund, warum es kaum Unfälle gibt.
+
+00:54:02.101 --> 00:54:03.800
+<v timpritlove>Was beutetet das?
+
+00:54:03.801 --> 00:54:11.300
+<v gerdgigerenzer>Nun das bedeutet zum Beispiel, dass man Checklists hat, dass man ein, man nennt es, critical incident reporting system hat,
+
+00:54:11.301 --> 00:54:16.500
+<v gerdgigerenzer>wo man Zwischenfälle, die problematisch waren, meldet.
+
+00:54:16.501 --> 00:54:23.600
+<v gerdgigerenzer>Und nicht, um jemanden so vorzuführen, sondern um auf ein Problem aufmerksam zu machen
+
+00:54:23.601 --> 00:54:30.100
+<v gerdgigerenzer>und dann die Gesellschaft versucht, dieses Problem dann zu beseitigen.
+
+00:54:30.101 --> 00:54:40.400
+<v gerdgigerenzer>In einer negativen Fehlerkultur, wie wir es zum Beispiel in vielen börsennotierten Firmen haben, aber auch in vielen Krankenhäusern,
+
+00:54:40.401 --> 00:54:50.500
+<v gerdgigerenzer>geht man eben davon aus, dass keine Fehler passieren dürfen und passiert einer, dann geht das in defensive Entscheidungen und die Fehler werden immer mehr.
+
+00:54:50.501 --> 00:54:53.700
+<v gerdgigerenzer>Also das ist zum Beispiel ein Aspekt, das man tun kann.
+
+00:54:53.701 --> 00:54:57.600
+<v gerdgigerenzer>Man kann natürlich ganz witzige kleine Dinge machen.
+
+00:54:57.601 --> 00:55:13.300
+<v gerdgigerenzer>Also wir haben in einem Fall mit einer Firma ein Prinzip ausprobiert, was nun defensives Entscheiden deutlich macht.
+
+00:55:13.301 --> 00:55:14.600
+<v gerdgigerenzer>Kennen Sie Monopoly?
+
+00:55:14.601 --> 00:55:16.200
+<v timpritlove>Mhm (bejahend)
+
+00:55:16.201 --> 00:55:22.600
+<v gerdgigerenzer>Dort kann man ins Gefängnis kommen, dafür gibt es eine Gefängnisfreikarte.
+
+00:55:22.601 --> 00:55:34.600
+<v gerdgigerenzer>Nun, die Idee ist die, dass die an alle Führungskräfte einer Firma Gefängnisfreikarten verteilt werden, mit dem Hinweis,
+
+00:55:34.601 --> 00:55:41.000
+<v gerdgigerenzer>wenn Sie ein Risiko eingehen für die Firma und es geht schief, geben Sie die Karte ab, keine Fragen.
+
+00:55:41.001 --> 00:55:50.300
+<v gerdgigerenzer>Das ändert die ganze Wahrnehmung und das ändert auch die Fragen, die man stellt.
+
+00:55:50.301 --> 00:55:57.900
+<v gerdgigerenzer>Weil wenn jemand nach zwei Jahren immer noch auf seiner Karte sitzt, dann stellt man andere Fragen.
+
+00:55:57.901 --> 00:56:11.300
+<v gerdgigerenzer>Also das sind so Dinge, die man untersuchen kann und auch spezifisch auf eine Firma zuschneiden kann, wo Zeichen gesetzt werden, dass wir jetzt einen anderen Weg gehen.
+
+00:56:11.301 --> 00:56:22.000
+<v gerdgigerenzer>Weg von einer negativen Fehlerkultur, wo man darüber nicht reden darf, einer hin, wo man offen damit umgeht und auch Menschen, also Führungskräfte,
+
+00:56:22.001 --> 00:56:26.500
+<v gerdgigerenzer>die Risiken eingehen für die Firma, nicht bestraft.
+
+00:56:26.501 --> 00:56:40.300
+<v timpritlove>Ich grüble gerade ein wenig, ob das nicht auch ein Aspekt der japanischen Industriekultur gewesen ist, der sie in die Lage versetzt hat,
+
+00:56:40.301 --> 00:56:45.900
+<v timpritlove>innerhalb kürzester Zeit die ganzen Produktionsmechanismen zum Beispiel bei der Automobilproduktion voranzubringen.
+
+00:56:45.901 --> 00:56:46.600
+<v gerdgigerenzer>Ja.
+
+00:56:46.601 --> 00:56:57.100
+<v timpritlove>Weil eben dieses Verbessern vor Ort und dieses Rückmelden von Fehlern und damit ja sozusagen auch das Hinweisen auf was besser laufen könnte explizit belohnt haben.
+
+00:56:57.101 --> 00:57:02.000
+<v timpritlove>Also quasi ein Belohnungssystem für Verbesserungsvorschläge, was es ja auch in deutschen Unternehmen gibt,
+
+00:57:02.001 --> 00:57:07.100
+<v timpritlove>aber was offensichtlich nicht so gut zu funktionieren scheint.
+
+00:57:07.101 --> 00:57:13.500
+<v timpritlove>Wie kriegt man jetzt das sozusagen aus der Gesellschaft an sich heraus?
+
+00:57:13.501 --> 00:57:16.700
+<v timpritlove>Woran krankt es denn?
+
+00:57:16.701 --> 00:57:21.600
+<v gerdgigerenzer>Nun, also das …
+
+00:57:21.601 --> 00:57:26.200
+<v timpritlove>Es hätte ja zum Beispiel auch geholfen, den Flughafen hier mal voranzubringen, dann wurde ja auch im Prinzip …
+
+00:57:26.201 --> 00:57:27.600
+<v gerdgigerenzer>Sie meinen den Berliner?
+
+00:57:27.601 --> 00:57:34.700
+<v timpritlove>Ja, das Problem wurde solange verschleppt, bis das alles richtig katastrophal war.
+
+00:57:34.701 --> 00:57:50.900
+<v gerdgigerenzer>Ja, ich glaube, wir Berliner werden inzwischen Weltruhm erreichen im Bauen von Flughafen, aber am Ende ist es vielleicht ähnlich wie in Wien,
+
+00:57:50.901 --> 00:57:53.100
+<v gerdgigerenzer>ich weiß nicht, ob Sie die Geschichte kennen.
+
+00:57:53.101 --> 00:57:58.600
+<v gerdgigerenzer>Die Österreicher haben in den 70er Jahren ihr erstes Atomkraftwerk und ihr letztes gebaut.
+
+00:57:58.601 --> 00:58:04.000
+<v gerdgigerenzer>Als es fertig war, haben sie eine Volksabstimmung gemacht, ob man es in Betrieb setzen sollte oder lieber nicht.
+
+00:58:04.001 --> 00:58:15.700
+<v gerdgigerenzer>Und knapp ging es aus für lieber nicht und seitdem steht es dort und es ist sozusagen das einzige Museum, in dem ein Atomkraftwerk steht, mit einem 1:1-Modell.
+
+00:58:15.701 --> 00:58:18.700
+<v gerdgigerenzer>Und das könnte vielleicht das Ende des BER auch sein.
+
+00:58:18.701 --> 00:58:20.100
+<v gerdgigerenzer>Wir wollen es nicht hoffen.
+
+00:58:20.101 --> 00:58:21.900
+<v timpritlove>So ein Flughafenmuseum.
+
+00:58:21.901 --> 00:58:23.300
+<v gerdgigerenzer>Ja, ein richtiger Flughafen.
+
+00:58:23.301 --> 00:58:23.900
+<v timpritlove>Ja.
+
+00:58:23.901 --> 00:58:28.000
+<v gerdgigerenzer>Eine Touristenattraktion, das gäbe es nirgendwo anders.
+
+00:58:28.001 --> 00:58:33.600
+<v timpritlove>Das stimmt, sind aber düstere Aussichten.
+
+00:58:33.601 --> 00:58:38.600
+<v timpritlove>Jetzt haben wir …
+
+00:58:38.601 --> 00:58:43.200
+<v timpritlove>Also ich fasse das mal so ein bisschen zusammen.
+
+00:58:43.201 --> 00:58:53.500
+<v timpritlove>Also der Glaube, dass wir sozusagen rationale Entscheidungen treffen können, die gut begründet sind, der trifft so nicht zu,
+
+00:58:53.501 --> 00:59:04.200
+<v timpritlove>sondern die Realität ist, dass wir eigentlich im Leben niemals genug wirklich klare Regeln und Rahmenbedingungen vorfinden, anhand derer wir uns orientieren können,
+
+00:59:04.201 --> 00:59:17.000
+<v timpritlove>sondern es gibt immer Ungewissheiten, es gibt immer sowohl Ungewissheiten in meinem Umfeld, dass Dinge nicht klar sind, dass Dinge sich dynamisch zufällig chaotisch entwickeln können
+
+00:59:17.001 --> 00:59:24.500
+<v timpritlove>auf der einen Seite, aber andererseits, dass ich auch selbst überhaupt gar nicht das Besteck habe, um hier klare Schnitte vorzunehmen.
+
+00:59:24.501 --> 00:59:34.300
+<v timpritlove>Ich weiß nicht alles darüber, so das sogenannte gesunde Halbwissen kommt hier so zum Einsatz und es eigentlich vergebene Liebesmüh ist,
+
+00:59:34.301 --> 00:59:45.800
+<v timpritlove>nach klaren Kriterien zu suchen, weil sowohl mein Umfeld als auch wie ich selber aufgestellt bin, am Ende diese Bedingungen eigentlich gar nicht schafft.
+
+00:59:45.801 --> 00:59:52.600
+<v timpritlove>Sprich, ich muss eigentlich immer davon ausgehen, dass Dinge unklar sind und klare Entscheidungen nicht zu fällen sind,
+
+00:59:52.601 --> 00:59:57.800
+<v timpritlove>sondern es geht eigentlich eher darum, sich a) selber überhaupt zu motivieren und Entscheidungen überhaupt zu fällen,
+
+00:59:57.801 --> 01:00:04.100
+<v timpritlove>weil, ich glaube, so gar keine Entscheidungen fällen ist dann nochmal so die allerschlechteste Option, weil da kommt man ja auch nirgendwo hin.
+
+01:00:04.101 --> 01:00:15.100
+<v timpritlove>Und ich muss für mich einen Weg finden, wie ich herausfinde, welche Gewichtung ich den Dingen, die ich meine zu sehen, gebe.
+
+01:00:15.101 --> 01:00:27.100
+<v timpritlove>Eben diese Heuristiken zu entwickeln, um dann eben eine für mich brauchbare Lösung zu finden, die dann eben auch mit Mut und damit auch mit Überwindung von Ängsten
+
+01:00:27.101 --> 01:00:40.300
+<v timpritlove>vor dem eigenen Scheitern oder eben auch Ängsten vor dem wahrgenommenen Scheitern durch andere sozusagen mich davor verstecke.
+
+01:00:40.301 --> 01:00:43.900
+<v timpritlove>Ist das so eine brauchbar Zusammenfassung?
+
+01:00:43.901 --> 01:00:45.000
+<v gerdgigerenzer>Halbwegs ja.
+
+01:00:45.001 --> 01:00:45.700
+<v timpritlove>Ja.
+
+01:00:45.701 --> 01:00:49.600
+<v gerdgigerenzer>Also klare Entscheidungen kann man treffen, auch in der Ungewissheit.
+
+01:00:49.601 --> 01:00:57.600
+<v gerdgigerenzer>Nur was dort nicht geht, ist die Idee, dass man optimale Entscheidungen treffen kann.
+
+01:00:57.601 --> 01:01:04.400
+<v gerdgigerenzer>Optimal kann man nur definieren, wenn man alle Umstände kennt.
+
+01:01:04.401 --> 01:01:14.600
+<v gerdgigerenzer>Das heißt, es geht darum, sozusagen zu erforschen, wie Menschen, auch Experten, Entscheidungen unter Ungewissheit treffen.
+
+01:01:14.601 --> 01:01:24.700
+<v gerdgigerenzer>Und das ist anders als die klassische Entscheidungstheorie sich das vorstellt unter den Gewichten aller Konsequenzen und aller Optionen.
+
+01:01:24.701 --> 01:01:36.500
+<v gerdgigerenzer>Und wir haben wir am Max-Planck-Institut eine systematische Studie und das ist wahrscheinlich weltweit der Ort, wo das am meisten fortgetrieben worden ist,
+
+01:01:36.501 --> 01:01:39.300
+<v gerdgigerenzer>von Entscheidungen unter Ungewissheit analysiert.
+
+01:01:39.301 --> 01:01:52.100
+<v gerdgigerenzer>Wir untersuchen, welche sozialen oder individuellen Heuristiken Menschen wählen, um mit Ungewissheit zurechtzukommen.
+
+01:01:52.101 --> 01:01:57.200
+<v gerdgigerenzer>Und zum zweitem, unter welchen Bedingungen funktioniert das auch.
+
+01:01:57.201 --> 01:02:09.200
+<v gerdgigerenzer>Also das heißt, eine einfache Regel kann rational sein und auch besser sein als sehr komplizierte Methoden.
+
+01:02:09.201 --> 01:02:21.000
+<v gerdgigerenzer>Und Beispiele schließen ein, dass man eben Dinge besser vorhersagen kann, wenn man wenige Informationen nimmt.
+
+01:02:21.001 --> 01:02:30.500
+<v gerdgigerenzer>Also die Beispiele, mit BigData kann man nicht unbedingt besser vorhersagen als mit ganz wenig Daten.
+
+01:02:30.501 --> 01:02:47.800
+<v gerdgigerenzer>Im Aktienmarkt kann man mit nobelpreisgekrönten Methoden wie zum Beispiel Markowitz Portfoliooptimierung oft schlechter abschneiden als mit ganz einfachen Heuristiken
+
+01:02:47.801 --> 01:02:57.500
+<v gerdgigerenzer>wie zum Beispiel investiere in die Optionen, die du hast, gleich, ohne überhaupt Gewichte zu berechnen.
+
+01:02:57.501 --> 01:03:09.000
+<v gerdgigerenzer>Und ich arbeite auch mit der Bank von England zusammen, wie man durch einfachere Regulierungen mehr Sicherheit in die Welt der Finanzen bringt.
+
+01:03:09.001 --> 01:03:09.800
+<v timpritlove>Regulierung von was?
+
+01:03:09.801 --> 01:03:14.500
+<v gerdgigerenzer>Bankenregulierung.
+
+01:03:14.501 --> 01:03:22.300
+<v gerdgigerenzer>Also das klassische bekannte Bankenregulierungssystem heißt Basel I, Basel II, Basel III
+
+01:03:22.301 --> 01:03:31.200
+<v gerdgigerenzer>Basel I war 30 Seiten lang, Basel II über 300, Basel III über 600.
+
+01:03:31.201 --> 01:03:38.200
+<v gerdgigerenzer>Sie sehen, die Idee, genau wie bei den Google Ingenieuren, über die wir vorher gesprochen haben, etwas scheint nicht zu funktionieren,
+
+01:03:38.201 --> 01:03:40.600
+<v gerdgigerenzer>was macht man, man macht es komplexer.
+
+01:03:40.601 --> 01:03:45.000
+<v gerdgigerenzer>Es funktioniert wieder nicht, man macht es wieder komplexer.
+
+01:03:45.001 --> 01:03:55.600
+<v gerdgigerenzer>Und ich habe im November auf einer Tagung an der Bank von England den Vertreter der Basel-Kommission gefragt, wie wird Basel4 aussehen?
+
+01:03:55.601 --> 01:04:06.900
+<v gerdgigerenzer>Wollt ihr es wieder komplexer machen oder ist die Einsicht da, man muss vielleicht untersuchen, wie kann man es vereinfachen, damit mehr Sicherheit entsteht?
+
+01:04:06.901 --> 01:04:20.500
+<v gerdgigerenzer>Um das mal zu veranschaulichen, angenommen Sie hätten eine große Bank, wie die Deutsche Bank, und die Deutsche Bank müsste den sogenannten Value At Risk berechnen.
+
+01:04:20.501 --> 01:04:27.300
+<v gerdgigerenzer>Das ist so etwa das Maß, was angibt, wieviel Kapital man halten muss.
+
+01:04:27.301 --> 01:04:35.200
+<v gerdgigerenzer>Um diesen Wert zu berechnen, muss man tausende von Risikofaktoren einschätzen, die alle in der Zukunft liegen
+
+01:04:35.201 --> 01:04:44.600
+<v gerdgigerenzer>und da die Risiken miteinander korreliert sind, eine Korrelationsmatrix in der Ordnung von Millionen von Faktoren.
+
+01:04:44.601 --> 01:04:45.000
+<v timpritlove>Die sich aber überhaupt nicht mehr überblicken lässt.
+
+01:04:45.001 --> 01:04:46.700
+<v gerdgigerenzer>Viel Glück.
+
+01:04:46.701 --> 01:04:49.800
+<v gerdgigerenzer>Das grenzt an Astrologie.
+
+01:04:49.801 --> 01:04:52.600
+<v timpritlove>Oder Alchemie.
+
+01:04:52.601 --> 01:04:54.400
+<v gerdgigerenzer>Was da passiert.
+
+01:04:54.401 --> 01:05:08.100
+<v gerdgigerenzer>Und das heißt, dass zum Beispiel die Bank von England selbst natürlich nicht überprüfen kann, wie sinnvoll diese geschätzten Risikofaktoren und deren Korrelationen sind,
+
+01:05:08.101 --> 01:05:11.900
+<v gerdgigerenzer>die die Banken auch mit ihren eigenen internen Modellen machen könnten.
+
+01:05:11.901 --> 01:05:15.100
+<v gerdgigerenzer>Und all das trägt nicht sehr zur Sicherheit bei.
+
+01:05:15.101 --> 01:05:27.600
+<v gerdgigerenzer>Und wir untersuchen systematisch zusammen mit dem Chefökonom, Andy Haldane, wie kann man einfachere und zwar Heuristiken entwickeln, die besser vorhersagen,
+
+01:05:27.601 --> 01:05:31.500
+<v gerdgigerenzer>einfacher sind und dadurch mehr Sicherheit bringen?
+
+01:05:31.501 --> 01:05:33.800
+<v timpritlove>Und besser überprüfbar sind, also im Nachhinein.
+
+01:05:33.801 --> 01:05:35.600
+<v gerdgigerenzer>Ja, und man versteht sie auch.
+
+01:05:35.601 --> 01:05:48.800
+<v gerdgigerenzer>Natürlich werden die Banken versuchen, diese einfachen Regeln zu gamen und man kann alles gamen, aber die Zentralbanken können einfacher sehen, wann gegamt wird.
+
+01:05:48.801 --> 01:05:56.600
+<v gerdgigerenzer>Das ist so gut wie unmöglich, wenn Sie Millionen von geschätzten Faktoren überprüfen müssen.
+
+01:05:56.601 --> 01:06:02.200
+<v timpritlove>Vielleicht sollten Sie mal mit dem Finanzausschuss im Bundestag reden, was so das Design unseres Steuersystems betrifft.
+
+01:06:02.201 --> 01:06:04.600
+<v timpritlove>Das scheint mir ganz ähnlich zu funktionieren.
+
+01:06:04.601 --> 01:06:14.100
+<v gerdgigerenzer>Es gibt viele solche Systeme, die ich für unnötig komplex halte und ich glaube auch, dass diese Komplexheit nicht dazu beiträgt,
+
+01:06:14.101 --> 01:06:21.900
+<v gerdgigerenzer>dass Bürger Vertrauen in das Steuersystem, in das Bankensystem oder andere Systeme haben.
+
+01:06:21.901 --> 01:06:41.200
+<v gerdgigerenzer>Und ich halte es auch für einen wichtigen Bestandteil einer Demokratie, dass die Bürger zumindest die Möglichkeit haben, Gesetze und solche wichtigen Regulierungen zu verstehen.
+
+01:06:41.201 --> 01:06:56.500
+<v timpritlove>Na ich denke, dass halt auch für die Akzeptanz immer eine extreme Bedeutung, dass Nachvollziehbarkeit ergeben ist.
+
+01:06:56.501 --> 01:07:07.600
+<v timpritlove>Bis hin zu Wahlsystemen zum Beispiel, auch da ist ja das Vertrauen am Ende sehr viel wichtiger, als vielleicht ein bis aufs Letzte mathematisch durchoptimierter,
+
+01:07:07.601 --> 01:07:15.800
+<v timpritlove>hochkomplexer Berechnungsprozess, denn dann aber am Ende keiner mehr so richtig nachfühlen kann.
+
+01:07:15.801 --> 01:07:22.300
+<v timpritlove>Ich wollte nochmal zurückkommen auf diesen Aspekt der Daten.
+
+01:07:22.301 --> 01:07:31.000
+<v timpritlove>Jetzt leben wir ja gerade in so einer Zeit, wo so das Buzzword der Stunde die künstliche Intelligenz ist, konkret bedeutet das ja im Wesentlichen Deep Learning,
+
+01:07:31.001 --> 01:07:41.400
+<v timpritlove>also Algorithmen, wo Maschinen in der Lage sind, durch große Datenbestände, die in irgendeiner Form Wahrheiten ausdrücken, die anzulernen,
+
+01:07:41.401 --> 01:07:54.500
+<v timpritlove>um dann eben von neuen Eingaben schnell eine Entscheidung auf Basis dieser bestehenden Wahrheiten zu treffen, um eben Dinge zu automatisieren
+
+01:07:54.501 --> 01:08:05.300
+<v timpritlove>oder vielleicht eben auch Informationen aus Quellen zu extrahieren, die so bisher noch nicht haben durchgeführt werden können,
+
+01:08:05.301 --> 01:08:14.900
+<v timpritlove>noch nicht herangezogen werden konnten oder die einfach schier so umfangreich sind, dass man sich da halt nie drauf gestürzt hat.
+
+01:08:14.901 --> 01:08:28.700
+<v timpritlove>Unzweifelhaft gibt es hier im Einzelnen bemerkenswerte Durchbrüche, also es zeigt sich, dass bestimmte Anwendungsfelder das Ganze wunderbar zusammenparst,
+
+01:08:28.701 --> 01:08:39.800
+<v timpritlove>aber ich habe schon so ein bisschen rausgehört, dass Sie an der Stelle sehr skeptisch sind, was die Anwendbarkeit von diesen BigData-Algorithmen betrifft.
+
+01:08:39.801 --> 01:08:43.500
+<v timpritlove>Wo parst es denn oder wo parst es nicht?
+
+01:08:43.501 --> 01:08:46.600
+<v gerdgigerenzer>Das ist genau die richtige Frage.
+
+01:08:46.601 --> 01:08:53.600
+<v gerdgigerenzer>Also ich bin oft auf BigData-Konferenzen und ich sehe mich meistens als so den einzigen, der die Frage stellt, was kann BigData, was kann es nicht?
+
+01:08:53.601 --> 01:08:56.500
+<v gerdgigerenzer>Die meisten anderen möchten etwas verkaufen.
+
+01:08:56.501 --> 01:09:08.300
+<v gerdgigerenzer>Sozusagen die allgemeinste Antwort auf das ist, wenn Sie eine Situation haben, die relativ stabil ist, wo die Zukunft so ist wie die Vergangenheit,
+
+01:09:08.301 --> 01:09:13.700
+<v gerdgigerenzer>dann sind künstliche Intelligenz und BigData wahrscheinlich erfolgreich.
+
+01:09:13.701 --> 01:09:22.200
+<v gerdgigerenzer>Und die besten Beispiele sind Systeme, wo ganz klare Regeln sind wie Schach und Go.
+
+01:09:22.201 --> 01:09:30.700
+<v gerdgigerenzer>Und was diese Systeme hier schaffen ist nicht, dass sie das besser verstehen als Menschen, sondern besser einfach vorausberechnen können
+
+01:09:30.701 --> 01:09:32.900
+<v gerdgigerenzer>und auch schneller lernen können.
+
+01:09:32.901 --> 01:09:43.900
+<v gerdgigerenzer>In anderen Bereichen, nämlich Bereiche, die man als Situationen von Ungewissheit bezeichnen kann, wo man nicht weiß, ob die Zukunft so ist wie die Vergangenheit
+
+01:09:43.901 --> 01:09:55.700
+<v gerdgigerenzer>und das ist in vielen Bereichen der Medizin, nicht nur bei der Vorhersage von Grippe oder Influenza, sondern auch in Bereichen der Investment,
+
+01:09:55.701 --> 01:10:05.800
+<v gerdgigerenzer>etwa in Banken, wo Überraschungen passieren können, da ist die Chance, dass diese Systeme Erfolg haben, deutlich kleiner.
+
+01:10:05.801 --> 01:10:25.500
+<v gerdgigerenzer>Wenn sie Erfolg haben, dann solange wie sich nichts ändert, aber wenn dann der Black Swan oder ein Problem auftritt, dann können die Systeme ja das gar nicht finden
+
+01:10:25.501 --> 01:10:28.900
+<v timpritlove>Also Black Swan so als Symbol des unerwarteten Datenpunktes quasi.
+
+01:10:28.901 --> 01:10:34.700
+<v gerdgigerenzer>Ja. Also das ist so eine erste auseinander…
+
+01:10:34.701 --> 01:10:38.000
+<v gerdgigerenzer>Und das ist also so eine erste Unterscheidung.
+
+01:10:38.001 --> 01:10:55.200
+<v gerdgigerenzer>Und in der Medizin etwa sind BigData-Systeme noch am besten bei der Erkennung von so X-Rays, bei bestimmten Hautkrebsen,
+
+01:10:55.201 --> 01:11:09.000
+<v gerdgigerenzer>da haben sie ungefähr in etwa die Qualität wie Ärzte, wobei natürlich ein Arzt viele andere Dinge gleichzeitig kann und ein typisches Programm immer nur eine Sache machen kann.
+
+01:11:09.001 --> 01:11:11.800
+<v gerdgigerenzer>Das wird oft vergessen.
+
+01:11:11.801 --> 01:11:24.900
+<v gerdgigerenzer>Und das Problem auf der anderen Seite von BigData sehe ich darin, dass einfach industriemotivierte Versprechen gemacht werden, die gar nicht einzuhalten sind.
+
+01:11:24.901 --> 01:11:32.700
+<v gerdgigerenzer>Also wenn Watson beispielsweise das Spiel Jeopardy gewann und das war eine beeindruckende Leistung.
+
+01:11:32.701 --> 01:11:40.300
+<v timpritlove>Also Watson ist dieses KI-System von IBM, was ja schon seit langer Zeit unter diesem Namen firmiert und jedes Jahrzehnt eine andere Disziplin repräsentiert.
+
+01:11:40.301 --> 01:11:54.200
+<v gerdgigerenzer>Ja. Nach diesem Erfolg hat die CEO von Watson sofort gesagt, our next moonshot is healthcare.
+
+01:11:54.201 --> 01:12:01.800
+<v gerdgigerenzer>Nicht unbedingt weil Watson sich nun ausgezeichnet hätte in Gesundheit, sondern weil es ein riesiger Markt ist.
+
+01:12:01.801 --> 01:12:09.000
+<v gerdgigerenzer>Und seitdem geistert Watson dort rum, er geistert auch im Bereich von Finanzen rum.
+
+01:12:09.001 --> 01:12:19.700
+<v gerdgigerenzer>Die Zusammenarbeit mit Watson hat NH Anderson, eines der größten Krebszentren in den USA beendet, nachdem sie herausgefunden haben,
+
+01:12:19.701 --> 01:12:29.000
+<v gerdgigerenzer>dass er nicht besser ist als auf jeden Fall die Versprechungen des PR-Departements von IBM nicht gehalten worden.
+
+01:12:29.001 --> 01:12:37.100
+<v gerdgigerenzer>Also man hat mir gesagt, die Ingenieure von IBM schämen sich für die Behauptungen der Werbeabteilungen.
+
+01:12:37.101 --> 01:12:44.000
+<v gerdgigerenzer>Und im Finanzbereich kenne ich auch keine Erfolge.
+
+01:12:44.001 --> 01:12:52.100
+<v gerdgigerenzer>Und schauen Sie, IBM ist unter großen finanziellen Problemen seit Jahren.
+
+01:12:52.101 --> 01:12:58.100
+<v gerdgigerenzer>Wenn Watson wirklich investieren könnte, dann wären die Probleme weg.
+
+01:12:58.101 --> 01:13:13.800
+<v gerdgigerenzer>Also hier werden sehr viele unnötige Versprechen gemacht, die dann Firmen viel Geld kosten, bis sie es verstehen
+
+01:13:13.801 --> 01:13:23.400
+<v gerdgigerenzer>und die aber auch jetzt gerade im Gesundheitsbereich die Investitionen wegnehmen von dort, wo man sie wirklich bräuchte.
+
+01:13:23.401 --> 01:13:35.400
+<v timpritlove>Ich weiß jetzt, dass Sie sich auch zum Beispiel im Bereich Verbraucherschutz auch mit Ihrem Thema engagiert haben, Sie sind da im Sachverständigenrat.
+
+01:13:35.401 --> 01:13:38.000
+<v timpritlove>Wo ist der angesiedelt?
+
+01:13:38.001 --> 01:13:41.900
+<v gerdgigerenzer>Am Ministerium für Justiz und Verbraucherschutz.
+
+01:13:41.901 --> 01:13:45.400
+<v timpritlove>Und da geht es dann um so Themen wie Scoring.
+
+01:13:45.401 --> 01:13:46.200
+<v gerdgigerenzer>Ja.
+
+01:13:46.201 --> 01:13:59.100
+<v timpritlove>Anderer Bereich, der mir jetzt so in dem Zusammenhang einfallen würde, wo ja auch gerade viel über diese Aussagekraft von Daten diskutiert wird, insbesondere die Vorhersagefähigkeit,
+
+01:13:59.101 --> 01:14:02.300
+<v timpritlove>so die Kriminalitätsbekämpfung.
+
+01:14:02.301 --> 01:14:13.400
+<v timpritlove>Das sind ja nun beides so Felder, wo es ja in gewisser Hinsicht kein Spiel mehr ist, wo es eben mit Freiheiten bzw. der Freiheit zur individuellen Entfaltung
+
+01:14:13.401 --> 01:14:19.400
+<v timpritlove>oder auch einfach nur der finanziellen eigenen Existenz geht.
+
+01:14:19.401 --> 01:14:24.500
+<v timpritlove>Was sehen Sie da für ein Spannungsfeld und wie sich das gerade entwickelt?
+
+01:14:24.501 --> 01:14:28.200
+<v timpritlove>Sind wir da gesellschaftlich auf dem richtigen Pfad?
+
+01:14:28.201 --> 01:14:37.000
+<v gerdgigerenzer>Also in diesen Bereichen oder sagen wir mal so, diese Bereiche zeichnen sich aus durch hochgradige Ungewissheit.
+
+01:14:37.001 --> 01:14:45.700
+<v gerdgigerenzer>Das heißt, man kann erwarten, dass die künstlichen Intelligenz-Systeme nicht besonders gut sein werden.
+
+01:14:45.701 --> 01:14:58.000
+<v gerdgigerenzer>Nehmen wir als Beispiel einen Algorithmus, der in den USA verwendet wird, um vorherzusagen, ob zum Beispiel ein Angeklagter in den nächsten Jahren wieder ein Verbrechen begehen würde.
+
+01:14:58.001 --> 01:15:04.300
+<v gerdgigerenzer>Und einer der bekanntesten Algorithmen ist COMPAS.
+
+01:15:04.301 --> 01:15:18.600
+<v gerdgigerenzer>Der Millionen von Richtern Wahrscheinlichkeiten gegeben hat, nämlich darüber, dass der Angeklagte zum Beispiel in den nächsten zwei Jahren wieder rückfällig wird.
+
+01:15:18.601 --> 01:15:29.000
+<v gerdgigerenzer>Wir wissen nicht, inwieweit die Richter das verwenden, aber wir können davon ausgehen, dass die meisten Richter nicht verstehen, wie dieser Wert zustandekommt
+
+01:15:29.001 --> 01:15:33.600
+<v gerdgigerenzer>und er ist auch geheim, wiederum der Algorithmus, niemand weiß das.
+
+01:15:33.601 --> 01:15:39.900
+<v timpritlove>Nicht mal die Entwickler, weil das ist ja auch so ein bisschen das Problem bei diesem DeepLearning, dass man hier eigentlich einen Mechanismus entwickelt,
+
+01:15:39.901 --> 01:15:47.400
+<v timpritlove>an dessen Ende zwar ein Datensatz steht, der Entscheidungen fällt, aber niemand genau sagen kann, was jetzt hier eigentlich die Entscheidungsstruktur ist,
+
+01:15:47.401 --> 01:15:48.700
+<v timpritlove>weil die sich nur in den Daten wiederfindet.
+
+01:15:48.701 --> 01:15:49.800
+<v gerdgigerenzer>Es ist nicht mal so komplex.
+
+01:15:49.801 --> 01:15:55.200
+<v gerdgigerenzer>Die meisten Scoring-Algorithmen sind einfache lineare Gleichungen, da ist nichts mit DeepLearning drin.
+
+01:15:55.201 --> 01:15:58.500
+<v timpritlove>Ach so ja, ich bezog mich jetzt nur auf da, wo DeepLearning eingesetzt wird.
+
+01:15:58.501 --> 01:16:11.600
+<v gerdgigerenzer>Das gilt auch für die Bonitätsscoring, das gilt für die Krankenhausscores, das ist wirklich, ich habe kaum etwas anderes gesehen als einen einfachen Algorithmus.
+
+01:16:11.601 --> 01:16:14.900
+<v gerdgigerenzer>Das ist auch GoogleFlu-Trends.
+
+01:16:14.901 --> 01:16:28.800
+<v gerdgigerenzer>Und hier muss man sich zwei Fragen stellen, ist das ethisch vertretbar, dass zum Beispiel der Angeklagte nicht versteht, warum er keine Bewährung bekommen hat,
+
+01:16:28.801 --> 01:16:31.400
+<v gerdgigerenzer>sondern ins Gefängnis kommt?
+
+01:16:31.401 --> 01:16:39.600
+<v gerdgigerenzer>Also wenn Sie als Richter da 80% Wahrscheinlichkeit haben, dass diese Person wieder etwas tut, und er auch der Richter nicht versteht, wo der Wert herkommt.
+
+01:16:39.601 --> 01:16:42.300
+<v timpritlove>Weil das Argument am Ende ist …
+
+01:16:42.301 --> 01:16:42.500
+<v gerdgigerenzer>Das sind richtige Konsequenzen.
+
+01:16:42.501 --> 01:16:45.900
+<v timpritlove>… ich finde Sie ja ganz nett, aber der Computer hat gesagt, nö.
+
+01:16:45.901 --> 01:16:58.300
+<v gerdgigerenzer>Und das zweite Argument ist, oder sagen wir so, die zweite Frage ist, wie gut ist denn das wirklich im Vergleich zum Menschen?
+
+01:16:58.301 --> 01:17:11.200
+<v gerdgigerenzer>Und im Fall von COMPAS gibt es Analysen, die zeigen, dass COMPAS also Vorurteile hat, wie Menschen halt auch, insbesondere rassistische Vorurteile
+
+01:17:11.201 --> 01:17:24.000
+<v gerdgigerenzer>und das noch spannendere finde ich, man hat eine Untersuchung gemacht, um die Qualität von COMPAS in der Vorhersage des Verhaltens verglichen mit Menschen,
+
+01:17:24.001 --> 01:17:33.000
+<v gerdgigerenzer>die die gleichen Daten bekamen und tatsächlich noch weniger davon und wirklich schlecht bezahlt wurden für ihre Vorhersagen.
+
+01:17:33.001 --> 01:17:41.400
+<v gerdgigerenzer>Das sind sogenannte Amazon Turk Arbeiter, die schnell so Probleme lösen, um ein paar Cents zu verdienen.
+
+01:17:41.401 --> 01:17:58.800
+<v gerdgigerenzer>Und das Ergebnis war, dass dieser in den USA vom Gericht eingesetzten Algorithmen nicht besser war als die Urteile, die ganz normale Menschen von der Straße,
+
+01:17:58.801 --> 01:18:03.900
+<v gerdgigerenzer>ohne ein einschlägiges Wissen produzieren konnten.
+
+01:18:03.901 --> 01:18:13.800
+<v gerdgigerenzer>Also das sind so Beispiele, die einem zeigen, in Situationen mit hochgradiger Ungewissheit seien Sie skeptisch vor solchen Algorithmen.
+
+01:18:13.801 --> 01:18:22.900
+<v gerdgigerenzer>Die Algorithmen werden wahrscheinlich funktionieren, wenn Sie eine relativ stabile und geregelte Welt haben.
+
+01:18:22.901 --> 01:18:34.900
+<v timpritlove>China ist ja jetzt auch dabei, so Socialscoring-Systeme zu implementieren, auch da ist ja unklar, was für Algorithmen da dahinterstehen.
+
+01:18:34.901 --> 01:18:43.500
+<v timpritlove>Sehen Sie irgendeine Welt, in der so eine Bewertung auf Datenbasis überhaupt positive Aspekte haben kann?
+
+01:18:43.501 --> 01:18:46.200
+<v gerdgigerenzer>Also Sie meinen jetzt das soziale Kreditsystem, das China aufbaut?
+
+01:18:46.201 --> 01:18:47.000
+<v timpritlove>Ja.
+
+01:18:47.001 --> 01:19:01.500
+<v gerdgigerenzer>Um das einzuordnen, damit so BigData-Systeme, wie was sie da benutzen, sind sehr erfolgreich im analysieren der Vergangenheit.
+
+01:19:01.501 --> 01:19:10.800
+<v gerdgigerenzer>Das ist jetzt was anderes als die Vorhersage, da sind sie gut, also sozusagen im Analysieren von Zusammenhängen von allen möglichen Daten.
+
+01:19:10.801 --> 01:19:16.800
+<v gerdgigerenzer>Und damit eignen sie sich auch sehr zu Spionage und Überwachung.
+
+01:19:16.801 --> 01:19:31.800
+<v gerdgigerenzer>China baut ein System auf im Moment, das sogenannte soziale Kreditsystem, wo jeder Bürger in den nächsten Jahren, hofft man, einen sozialen Kreditwert bekommt.
+
+01:19:31.801 --> 01:19:36.400
+<v gerdgigerenzer>Das könnte ein Wert zwischen 350 und 950 sein.
+
+01:19:36.401 --> 01:19:38.500
+<v gerdgigerenzer>Je höher desto besser.
+
+01:19:38.501 --> 01:19:54.000
+<v gerdgigerenzer>Darin fließt ein nicht nur wie bei finanzieller Kreditwürdigkeit, etwa Schufa in Deutschland, die ihr Zahlungsverhalten, sondern auch ihre ganze kriminelle Vergangenheit,
+
+01:19:54.001 --> 01:20:12.500
+<v gerdgigerenzer>einschließlich Parkverbottickets und ihr politisches, ihr soziales Verhalten, das Verhalten ihrer eigenen Freunde und Familie, also ihr gesamter digitaler Fingerabdruck.
+
+01:20:12.501 --> 01:20:21.900
+<v gerdgigerenzer>Es wird im Moment an etwa 40 Städten experimentell überprüft und hier macht China was interessantes, was man in Deutschland eher nicht machen würde,
+
+01:20:21.901 --> 01:20:32.000
+<v gerdgigerenzer>nämlich man gibt ein Ziel vor und lässt Städte experimentieren, statt die Sache vorzuschreiben.
+
+01:20:32.001 --> 01:20:43.800
+<v gerdgigerenzer>Und das Ziel ist dann, durch einen sozialen Kreditwert, der Konsequenzen hat, das moralische Verhalten der Menschen zu verbessern.
+
+01:20:43.801 --> 01:20:56.000
+<v gerdgigerenzer>Also China leidet wie andere Länder drunter, dass Menschen betrügen, lügen, stehlen, Korruptionen, dass Firmen entsprechend Menschen ausbeuten
+
+01:20:56.001 --> 01:21:01.300
+<v gerdgigerenzer>und Firmen haben auch einen sozialen Kreditscore.
+
+01:21:01.301 --> 01:21:11.000
+<v gerdgigerenzer>Das Mittel dazu ist ein altes psychologisches Mittel, man belohnt die Guten und man bestraft die mit einem geringen Score.
+
+01:21:11.001 --> 01:21:20.400
+<v gerdgigerenzer>Das kann man sich so vorstellen, die Belohnung funktioniert so wie ein Meilenprogramm bei der Lufthansa,
+
+01:21:20.401 --> 01:21:33.400
+<v gerdgigerenzer>also wenn Sie viele Meilen haben, dann kriegen Sie Goodies und auf der anderen Seite, wenn jemand wenig Kredit hat, also einen niedrigen Wert,
+
+01:21:33.401 --> 01:21:36.500
+<v gerdgigerenzer>dann werden massive Strafen eingesetzt.
+
+01:21:36.501 --> 01:21:47.600
+<v gerdgigerenzer>Zum Beispiel wissen wir, dass in den letzten Jahren hunderttausende von Chinesen mit niedrigem Wert nicht erlaubt wurde, ein Flugzeugticket zu buchen
+
+01:21:47.601 --> 01:21:54.100
+<v gerdgigerenzer>oder sie durften mit den schnellen Zügen nicht mehr fahren, also die Bewegungsfreiheit wird eingeschränkt.
+
+01:21:54.101 --> 01:22:07.300
+<v gerdgigerenzer>Es gibt Städte, die auch folgendes tun, dass Personen, die einen niedrigen Wert haben, dass deren Kinder nicht mehr auf die besten Schulen gehen dürfen.
+
+01:22:07.301 --> 01:22:18.900
+<v gerdgigerenzer>Und Sie können sich vorstellen, wenn Sie dann meinen, dass Sie sich nicht scheren um Ihren sozialen Kreditwert, Ihre Kinder werden Ihnen das austreiben, denn sie leiden unter Ihnen.
+
+01:22:18.901 --> 01:22:30.800
+<v gerdgigerenzer>Und ein solches System wird möglicherweise ein Selbstläufer werden, jeder beeinflusst den anderen, jeder möchte einen hohen Score haben,
+
+01:22:30.801 --> 01:22:38.300
+<v gerdgigerenzer>so wie auch bei vielen Internetspielen man bereit ist alles zu tun, nur um seinen Score zu erhöhen.
+
+01:22:38.301 --> 01:22:55.500
+<v gerdgigerenzer>Und es gibt Mitteilungen aus China, dass inzwischen in vielen Partnerschaftsanzeigen die Männer und Frauen nicht nur ihre Körpermaße und Körpergewicht und Alter angeben,
+
+01:22:55.501 --> 01:22:57.800
+<v gerdgigerenzer>sondern auch den sozialen Kreditscore.
+
+01:22:57.801 --> 01:23:10.800
+<v gerdgigerenzer>Und wenn Sie eine Anzeige schalten und Ihren sozialen Kreditscore nicht angeben, dann kann das schon gegen Sie ausgewertet werden.
+
+01:23:10.801 --> 01:23:21.800
+<v gerdgigerenzer>Die Vision ist eigentlich die, dass man mit Hilfe von, in der Psychologie nennt man das, Prinzipien des operanten Konditionierens,
+
+01:23:21.801 --> 01:23:32.300
+<v gerdgigerenzer>also gutes Verhalten zu belohnen, schlechtes zu bestrafen, also das ist Spinner, B. F. Skinner, nun eine ganze Gesellschaft lenkt
+
+01:23:32.301 --> 01:23:37.300
+<v gerdgigerenzer>und in einer Art und Weise wie man es früher nie konnte ohne digitale Medien.
+
+01:23:37.301 --> 01:23:45.700
+<v gerdgigerenzer>Und mit digitalen Medien kann man einen Menschen 24 Stunden an sieben Tagen in der Woche überwachen.
+
+01:23:45.701 --> 01:23:47.700
+<v gerdgigerenzer>Was wird die Zukunft sein?
+
+01:23:47.701 --> 01:23:53.300
+<v gerdgigerenzer>Nun, wahrscheinlich werden die Chinesen das Programm hinkriegen, würde ich meinen.
+
+01:23:53.301 --> 01:24:07.600
+<v gerdgigerenzer>Dann kommt eine zweite Phase, die schon begonnen hat, einige andere Länder, die ähnliche autoritäre oder Einparteiensysteme, sagen wir es mal neutral, haben oder haben möchten,
+
+01:24:07.601 --> 01:24:19.500
+<v gerdgigerenzer>werden das imitieren, also Sie können sich vorstellen, das können asiatische Länder wie Nordkorea, Thailand vielleicht auch Singapur sein,
+
+01:24:19.501 --> 01:24:26.000
+<v gerdgigerenzer>das können aber auch europäische Länder sein, die eine ähnliche Struktur haben, wie Ungarn, Polen oder die Türkei.
+
+01:24:26.001 --> 01:24:29.300
+<v timpritlove>Russland.
+
+01:24:29.301 --> 01:24:41.300
+<v gerdgigerenzer>Und sehen dann zum ersten Mal eine Alternative zur Demokratie, die wirklich effizient ist, wo man Bürger hat, die arbeiten an ihrem Score.
+
+01:24:41.301 --> 01:24:48.300
+<v gerdgigerenzer>Wo man Bürger hat, die nicht ihre Zeit verschwenden, die auch den Gesetzen folgen.
+
+01:24:48.301 --> 01:25:00.400
+<v gerdgigerenzer>Also China hat ungefähr 300.000 Überwachungskameras, wo man nicht mehr bei rot über die Ampel geht, weil man dann ein paar Punkte weg hat.
+
+01:25:00.401 --> 01:25:08.400
+<v gerdgigerenzer>Wo man seine alten Eltern öfter besucht, weil das gibt positive Punkte, was kann man dagegen sagen?
+
+01:25:08.401 --> 01:25:18.200
+<v gerdgigerenzer>Also die zweite Phase wäre eine Verbreitung des Systems, also China würde wahrscheinlich die Software und Hardware verkaufen an andere Länder.
+
+01:25:18.201 --> 01:25:21.000
+<v gerdgigerenzer>Was zum Teil auch schon passiert.
+
+01:25:21.001 --> 01:25:42.400
+<v gerdgigerenzer>Und in einer dritten Phase würden wir in den westlichen Demokratien vor der Frage stehen, können wir gegen ein solches effizientes digitales autokratisches System unsere Demokratie weiterhin bewahren?
+
+01:25:42.401 --> 01:25:49.600
+<v timpritlove>Was ja zunächst einmal die Frage ist, handelt es sich dabei um überhaupt ein gutes System?
+
+01:25:49.601 --> 01:25:53.000
+<v timpritlove>Also wie bewertet man das?
+
+01:25:53.001 --> 01:25:54.500
+<v timpritlove>Das sind ja eine ganze Menge Aspekte da drin.
+
+01:25:54.501 --> 01:26:07.400
+<v timpritlove>Das ist ein großes Land, hat viele Probleme und gut, erst mal ganz wertfrei könnte man sagen, okay die wählen sozusagen ein weiteres Mittel,
+
+01:26:07.401 --> 01:26:15.900
+<v timpritlove>was ja, wenn man es mal positiv betrachtet, ja immerhin sozusagen so ein präventives System ist, so wir wollen gar nicht erst, dass ihr in die Situation gebracht werden,
+
+01:26:15.901 --> 01:26:23.300
+<v timpritlove>in Kriminalität umzuschlagen, weil wir halt Incentives anbieten, dass ihr euch schon mal anders entwickelt.
+
+01:26:23.301 --> 01:26:32.700
+<v timpritlove>Andererseits wird natürlich hier auch ein moralisches Gerüst bereit gestellt, was so eben nicht unbedingt auf jeden passt und was vielleicht irgendwann auch einfach nicht mehr mit der Zeit geht,
+
+01:26:32.701 --> 01:26:36.700
+<v timpritlove>geschweige denn den individuellen Bedürfnissen des Einzelnen gerecht wird.
+
+01:26:36.701 --> 01:26:44.000
+<v timpritlove>Also das Beispiel mit, du besuchst deine Großeltern gerne, ja okay, das klingt natürlich auf dem Papier erst mal total super,
+
+01:26:44.001 --> 01:26:52.700
+<v timpritlove>aber wenn das halt irgendwie Großeltern sind, die irgendwie einen missbraucht oder sonst irgendwie in einer Form benachteiligt haben, wo hier Traumata existieren,
+
+01:26:52.701 --> 01:27:02.700
+<v timpritlove>ist ja diese Bewertung mit, dieser Besuch ist positiv, vielleicht gar nicht so angemessen, weil unter Umständen Menschen da ein mentaler Schaden zugefügt wird,
+
+01:27:02.701 --> 01:27:07.200
+<v timpritlove>um es nur jetzt in irgendeine Richtung zu ziehen
+
+01:27:07.201 --> 01:27:13.200
+<v gerdgigerenzer>Also die Frage, wie bewertet man das System, hängt natürlich davon ab, was man selber für Werte und Standpunkte hat.
+
+01:27:13.201 --> 01:27:17.900
+<v gerdgigerenzer>Meine chinesischen Freunde sind meistens dafür.
+
+01:27:17.901 --> 01:27:25.100
+<v gerdgigerenzer>Und die wenigen Umfragen, die es gibt, in China zeigen, dass die meisten Chinesen gar nichts wissen von dem System
+
+01:27:25.101 --> 01:27:34.500
+<v gerdgigerenzer>und dass diejenigen, die davon wissen, da sind etwa 80% ganz dafür, denn sie meinen, das schafft Gerechtigkeit.
+
+01:27:34.501 --> 01:27:40.800
+<v gerdgigerenzer>Die Guten werden belohnt, diejenigen, die die Gesetze verletzen, andere betrügen, werden bestraft.
+
+01:27:40.801 --> 01:27:48.600
+<v gerdgigerenzer>Und zum ersten Mal kann man sozusagen den Betrüger noch während seiner Tat ertappen.
+
+01:27:48.601 --> 01:28:02.000
+<v gerdgigerenzer>Wir haben eine Untersuchung in Deutschland durchgeführt gerade mit Ergo und die Frage gestellt, ob die Deutschen ein System möchten,
+
+01:28:02.001 --> 01:28:21.600
+<v gerdgigerenzer>wo man, ohne jetzt China zu nennen, wo man mit digitalen Mitteln einen Score für jede Person erhält über dein soziales, politisches, kriminelles Verhalten, den ganzen digitalen Fingerabdruck.
+
+01:28:21.601 --> 01:28:27.600
+<v gerdgigerenzer>20% der Deutschen sind inzwischen dafür.
+
+01:28:27.601 --> 01:28:33.700
+<v gerdgigerenzer>Wir hatten vor einem Jahr eine andere Untersuchung, da waren es noch weniger als 10%.
+
+01:28:33.701 --> 01:28:38.900
+<v gerdgigerenzer>Wenn man die vergleichen kann, wäre das auch in Deutschland ein Anstieg.
+
+01:28:38.901 --> 01:28:38.500
+<v timpritlove>Hundert Prozent.
+
+01:28:38.501 --> 01:28:47.500
+<v gerdgigerenzer>Richtig. Gut. Und auf der anderen Seite muss man sagen, was mich wirklich beunruhigt ist folgendes:
+
+01:28:47.501 --> 01:28:59.800
+<v gerdgigerenzer>dass wir, obwohl die meisten Deutschen eine Bauchreaktion dagegen haben, dennoch bereit sind, ihre eigenen Daten jetzt nicht dem Staat, aber Firmen zur Verfügung stellen,
+
+01:28:59.801 --> 01:29:02.600
+<v gerdgigerenzer>nur um kleine Vorteile zu bekommen.
+
+01:29:02.601 --> 01:29:09.700
+<v gerdgigerenzer>Das heißt, zum Beispiel nicht zu bezahlen für Facebook und nicht zu bezahlen für Google.
+
+01:29:09.701 --> 01:29:18.100
+<v gerdgigerenzer>Und wenig Ängste haben oder auch wirklich bereit sind, nichts zu bezahlen für ihre Privatheit.
+
+01:29:18.101 --> 01:29:28.600
+<v gerdgigerenzer>Und damit verhalten sie sich sehr sehr ähnlich wie all die Chinesen, die für dieses soziale Kreditsystem sind.
+
+01:29:28.601 --> 01:29:36.800
+<v gerdgigerenzer>Wobei man sogar noch sagen könnte, dass es bei uns im Wesentlichen um Bequemlichkeit und nicht zahlen wollen geht,
+
+01:29:36.801 --> 01:29:54.300
+<v gerdgigerenzer>während die meisten Chinesen hier größere Werte haben, nämlich die Moral einer Gesellschaft, Korruptionsbekämpfung und natürlich auch staatliche Kontrolle.
+
+01:29:54.301 --> 01:29:58.100
+<v timpritlove>Das wird sich zeigen.
+
+01:29:58.101 --> 01:30:04.600
+<v timpritlove>Ich meine, es gibt sicherlich auch eine Gegenbewegung, gerade was jetzt die Wahrnehmung von Privatsphäre, deren Bedeutung, betrifft,
+
+01:30:04.601 --> 01:30:15.500
+<v timpritlove>hier gibt es auch Leute, die mit der Schufa schon negative Begegnungen hatten und einen niedrigen Score erhalten haben, ohne dass in irgendeiner Form jemand erklären kann,
+
+01:30:15.501 --> 01:30:24.300
+<v timpritlove>warum denn das jetzt so ist, also weder die Person selbst noch die Schufa, die ja eben dann zur Dokumentation der Algorithmen eben auch nicht bereit ist.
+
+01:30:24.301 --> 01:30:29.600
+<v timpritlove>Ist auch die Frage, ob man überhaupt ein System akzeptieren sollte, in dem die Regeln nicht klar sind.
+
+01:30:29.601 --> 01:30:37.500
+<v timpritlove>Weil wenn die Regeln festgelegt werden von einem Algorithmus, dieser aber nicht erklärt wird, lebt man ja nach Regeln, die man nicht kennt.
+
+01:30:37.501 --> 01:30:47.200
+<v timpritlove>Das ist ja im Prinzip so eine kafkaeske Situation, wo einem immer irgendwie gesagt wird, das geht jetzt nicht und später, kann ich dir aber nicht erklären warum.
+
+01:30:47.201 --> 01:30:58.200
+<v timpritlove>Das ist ja so fast so eine Gefängnissituation, in der man irgendwie die ganze Zeit eine Beschränkung erhält, aber eigentlich überhaupt die Regeln gar nicht mehr kennt,
+
+01:30:58.201 --> 01:31:04.600
+<v timpritlove>nach denen man hier reglementiert wird.
+
+01:31:04.601 --> 01:31:12.000
+<v timpritlove>Und das entspricht zumindest jetzt nicht unbedingt meiner Vorstellung einer freien Gesellschaft.
+
+01:31:12.001 --> 01:31:20.100
+<v timpritlove>Und die andere Frage ist, würde man aber diese Regeln transparent machen, wären diese Algorithmen klar, wären die Kriterien vielleicht auch einfach und nachvollziehbar,
+
+01:31:20.101 --> 01:31:34.600
+<v timpritlove>wie Sie das vorhin ja gefordert haben, um irgendwie gute Entscheidungen fällen zu können, kann das System denn dann überhaupt dem Cheating des Systems sozusagen entgehen?
+
+01:31:34.601 --> 01:31:43.600
+<v timpritlove>Also kann ein offen dokumentiertes System überhaupt so resilient sein, dass es nicht die ganze Zeit von seinen Teilnehmern ausgetrickst wird?
+
+01:31:43.601 --> 01:31:44.600
+<v gerdgigerenzer>Ich glaube das Gegenteil.
+
+01:31:44.601 --> 01:32:03.500
+<v gerdgigerenzer>Wenn wir den Mut hätten, die großen Firmen dazu zu zwingen, transparent zu sein, dann hätten wir weniger Gefahr mit Überwachung und unbekannter Überwachung
+
+01:32:03.501 --> 01:32:04.500
+<v gerdgigerenzer>und ähnlichen Problemen.
+
+01:32:04.501 --> 01:32:17.000
+<v gerdgigerenzer>Hier sind zwei ganz konkrete Vorschläge, im Gutachten des Sachverständigenrats für Verbraucherfragen haben Gerd Wagner und ich die Meinung vertreten,
+
+01:32:17.001 --> 01:32:27.100
+<v gerdgigerenzer>dass alle Firmen, einschließlich Schufa, die sensitive Scores machen, also Gesundheit, Bonität und andere Dinge, die man in Deutschland noch nicht hat,
+
+01:32:27.101 --> 01:32:34.500
+<v gerdgigerenzer>aber auch kommen können, wie zum Beispiel diese Vorhersagen der Wahrscheinlichkeit, dass Sie ein Verbrechen begehen,
+
+01:32:34.501 --> 01:32:40.300
+<v gerdgigerenzer>dass alle diese ihre Algorithmen offen legen müssen.
+
+01:32:40.301 --> 01:32:49.300
+<v gerdgigerenzer>Das heißt, nicht den Sourcecode, den versteht Ottonormalverbraucher nicht, sondern die Variablen, die eingehen und ihre Gewichte.
+
+01:32:49.301 --> 01:32:55.200
+<v gerdgigerenzer>Das ist in Deutschland noch nicht umgesetzt worden.
+
+01:32:55.201 --> 01:32:56.000
+<v gerdgigerenzer>Das könnte man.
+
+01:32:56.001 --> 01:33:00.400
+<v gerdgigerenzer>Das Gegenargument ist, ja Geschäftsgeheimnis.
+
+01:33:00.401 --> 01:33:13.500
+<v gerdgigerenzer>Und mein Argument ist, hier muss der Staat auch den Mut haben, die Interessen der Bürger über diese Geschäftsgeheimnisse zu stellen.
+
+01:33:13.501 --> 01:33:21.000
+<v gerdgigerenzer>Und es gibt ja auch Scoring-Methoden wie zum Beispiel von den Krankenkassen, wo der Algorithmus vollkommen offengelegt wird.
+
+01:33:21.001 --> 01:33:29.900
+<v gerdgigerenzer>Genauso von den Telematikversicherern, von KfZ-Versicherungen, da weiß jeder, welche Merkmale da beachtet werden.
+
+01:33:29.901 --> 01:33:31.600
+<v timpritlove>Schadensfreiheitsklassen etc.
+
+01:33:31.601 --> 01:33:34.400
+<v gerdgigerenzer>Was die Gewichtung ist, ja.
+
+01:33:34.401 --> 01:33:41.500
+<v gerdgigerenzer>Und das ist überhaupt keine Gefahr für ein großartiges Geschäftsgeheimnisdenken.
+
+01:33:41.501 --> 01:33:47.300
+<v gerdgigerenzer>Das ist das eine und eine zweite Sache, die man auch hier umsetzen könnte, sin die allgemeinen Geschäftsbedingungen.
+
+01:33:47.301 --> 01:33:59.100
+<v gerdgigerenzer>Nun, wir wissen, dass die meisten Menschen nur noch anklicken, stimme zu, weil was sie erwarten können ist ein ewig langer vielleicht zehn Seiten Text,
+
+01:33:59.101 --> 01:34:08.100
+<v gerdgigerenzer>der zum Teil auch unverständlich ist und der nicht so geschrieben ist, dass der Bürger überhaupt verstehen kann.
+
+01:34:08.101 --> 01:34:19.700
+<v gerdgigerenzer>Und wenn sich der Bürger Zeit nimmt, dann kann man ausrechnen, dass Sie also Stunden jeden Tag verbringen müssten, um wirklich zu verstehen bei jeder allgemeinen Geschäftsbedingung,
+
+01:34:19.701 --> 01:34:25.000
+<v gerdgigerenzer>die jemand, der auf dem Internet sehr weit unterwegs ist, das durchzulesen und zu verstehen.
+
+01:34:25.001 --> 01:34:41.800
+<v gerdgigerenzer>Hier ist unser Vorschlag, der auch im Sachverständigenrat nachlesbar ist, dass alle allgemeinen Geschäftsbedingungen nicht länger als 500 Wörter sein dürfen, also eine DIN A4 Seite
+
+01:34:41.801 --> 01:34:52.300
+<v gerdgigerenzer>und in verständlichen, nicht nur transparent, sondern verständlichen Worten beschreiben, wo die Daten hingehen und wo sie verwertet werden.
+
+01:34:52.301 --> 01:34:57.100
+<v gerdgigerenzer>Auch das ist noch nicht umgesetzt worden, aber das sind Dinge, die wir angreifen könnten.
+
+01:34:57.101 --> 01:35:10.800
+<v gerdgigerenzer>Und wenn wir wirklich etwas tun möchten, um die Privatheit des Menschen hier in Europa oder in Deutschland zu schützen.
+
+01:35:10.801 --> 01:35:21.900
+<v timpritlove>Ja, Herr Gigerenzer, ich glaube, jetzt haben wir Ihr Feld der Risikoforschung zumindest im Ansatz ganz gut abgesteckt.
+
+01:35:21.901 --> 01:35:29.600
+<v timpritlove>Gibt es noch so eine Schlussfolgerung, die Sie dem noch nachstellen möchten?
+
+01:35:29.601 --> 01:35:40.900
+<v gerdgigerenzer>In einer Demokratie braucht man informierte Bürger, sonst wird es keine funktionierende Demokratie sein.
+
+01:35:40.901 --> 01:35:54.900
+<v gerdgigerenzer>Zu guter Information reicht es nicht aus zu wissen, was man im Internet suchen kann, sondern man muss denken, mitdenken und die Information bewerten.
+
+01:35:54.901 --> 01:36:06.300
+<v gerdgigerenzer>Und diese Fähigkeiten nenne ich Risikokompetenz, abschätzen was sind die Risiken, was sind die Möglichkeiten von den Technologien, mit denen wir es zu tun haben.
+
+01:36:06.301 --> 01:36:23.600
+<v gerdgigerenzer>Und wir sollten anfangen, das in der Schule zu lernen, also dass Kinder spielerisch lernen, mit den Risiken von Gesundheit, von Finanzen und auch von der digitalen Welt umzugehen.
+
+01:36:23.601 --> 01:36:37.500
+<v gerdgigerenzer>Und mit digitaler Risikokompetenz meine ich nicht die Fähigkeit ein Handy zu bedienen, sondern darüber zu wissen, was es mit einem macht.
+
+01:36:37.501 --> 01:36:46.700
+<v gerdgigerenzer>Und auch die Fähigkeit, die Kontrolle über ein digitales Medium wieder selber in die Hand zu bekommen und nicht durch das Medium kontrolliert zu werden.
+
+01:36:46.701 --> 01:37:02.100
+<v gerdgigerenzer>Und in diesem Sinne denke ich, dass die große Aufgabe der Zukunft ist, nicht nur bessere Algorithmen zu entwickeln, sondern in Menschen zu investieren,
+
+01:37:02.101 --> 01:37:08.600
+<v gerdgigerenzer>damit sei kompetent und entspannt mit den Risiken einer digitalen Welt lernen umzugehen.
+
+01:37:08.601 --> 01:37:11.900
+<v timpritlove>Und um die richtigen Entscheidungen für sich zu treffen.
+
+01:37:11.901 --> 01:37:15.000
+<v timpritlove>Herr Gigerenzer, vielen Dank für die Ausführungen.
+
+01:37:15.001 --> 01:37:17.300
+<v gerdgigerenzer>Es war mir eine Freude.
+
+01:37:17.301 --> 01:37:20.200
+<v timpritlove>Und vielen Dank fürs Zuhören hier bei Forschergeist.
+
+01:37:20.201 --> 01:37:23.500
+<v timpritlove>Das war es für heute, bald geht es wieder weiter.
+
+01:37:23.501 --> 01:37:26.300
+<v timpritlove>Ich sage, tschüss und bis bald.

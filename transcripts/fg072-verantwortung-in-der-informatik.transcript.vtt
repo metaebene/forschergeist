@@ -1,0 +1,2921 @@
+﻿WEBVTT
+
+00:00:43.101 --> 00:00:49.300
+<v timpritlove>Hallo und herzlich willkommen zu Forschergeist, dem Podcast des Stifterverbands für die deutsche Wissenschaft.
+
+00:00:49.301 --> 00:00:57.600
+<v timpritlove>Mein Name ist Tim Pritlove und ich begrüße alle zu Ausgabe Nummer 72 hier in unserer Gesprächsreihe rund um Wissenschaft,
+
+00:00:57.601 --> 00:01:04.300
+<v timpritlove>wissenschaftliche Fragen, manchmal geht es um Wissenschaft, manchmal geht es auch um die Metafragen der Wissenschaft.
+
+00:01:04.301 --> 00:01:08.100
+<v timpritlove>Und ein solches Thema erwartet uns heute.
+
+00:01:08.101 --> 00:01:17.000
+<v timpritlove>Dafür bin ich mal wieder ein wenig gereist, konkret bin ich nach Wien gefahren an die TU Wien.
+
+00:01:17.001 --> 00:01:26.400
+<v timpritlove>Dort sitze ich jetzt im Institut für Visual Computing and Human-Centered Technology und begrüße meinen Gesprächspartner, nämlich den Peter, Peter Purgathofer.
+
+00:01:26.401 --> 00:01:27.300
+<v timpritlove>Schönen guten Tag.
+
+00:01:27.301 --> 00:01:29.200
+<v peterpurgathofer>Hallo.
+
+00:01:29.201 --> 00:01:34.100
+<v timpritlove>Peter, wir kennen uns schon eine Weile, du bist schon ganz schön lange hier oder?
+
+00:01:34.101 --> 00:01:39.500
+<v peterpurgathofer>Ja, ich habe vor, glaube ich, zwei Jahren meine 25-jährige Jubiläumszahlung bekommen.
+
+00:01:39.501 --> 00:01:41.100
+<v timpritlove>Guck an.
+
+00:01:41.101 --> 00:01:45.000
+<v peterpurgathofer>Auch so eine Art Bookmark, die man im Leben seiner Tätigkeit hat.
+
+00:01:45.001 --> 00:01:50.500
+<v timpritlove>Ja. Und konkret bist du aber schon immer der Informatik zugehörig gewesen.
+
+00:01:50.501 --> 00:01:50.600
+<v peterpurgathofer>Immer.
+
+00:01:50.601 --> 00:01:52.400
+<v timpritlove>Immer.
+
+00:01:52.401 --> 00:01:58.700
+<v peterpurgathofer>Ja. Ich habe begonnen Mathematik zu studieren, nachdem ich in der Schule noch Mathematik Olympiade gemacht habe und so.
+
+00:01:58.701 --> 00:02:04.500
+<v peterpurgathofer>Und gedacht, Mathematik, aber irgendwie hat mich die Lust an der Mathematik mit dem Studium recht schnell verlassen.
+
+00:02:04.501 --> 00:02:08.700
+<v peterpurgathofer>Und die Informatik ist gekommen, hat gewinkt und hat gesagt, hey das hier machen.
+
+00:02:08.701 --> 00:02:10.200
+<v timpritlove>Ich bin viel interessanter.
+
+00:02:10.201 --> 00:02:10.600
+<v peterpurgathofer>Genau.
+
+00:02:10.601 --> 00:02:11.600
+<v timpritlove>Machen statt Denken?
+
+00:02:11.601 --> 00:02:14.800
+<v peterpurgathofer>Nein, Machen statt Zahlen.
+
+00:02:14.801 --> 00:02:15.600
+<v timpritlove>Machen statt Zahlen, ja stimmt.
+
+00:02:15.601 --> 00:02:18.100
+<v timpritlove>Das ist so ein Reiz der Informatik, denke ich.
+
+00:02:18.101 --> 00:02:20.300
+<v peterpurgathofer>Absolute ja.
+
+00:02:20.301 --> 00:02:26.600
+<v timpritlove>Und ja dann gab es hier so verschiedene Schwerpunkte über die Jahre?
+
+00:02:26.601 --> 00:02:29.400
+<v timpritlove>Aber immer sehr viel mit Mensch und Maschine Interaktion.
+
+00:02:29.401 --> 00:02:38.600
+<v peterpurgathofer>Genau. Ich habe hier die erste, damals hieß es User Interface Design, Lehrveranstaltung abgehalten und habe dieses Thema zusammen mit einem Kollegen,
+
+00:02:38.601 --> 00:02:46.700
+<v peterpurgathofer>der meine Diplomarbeit mit betreut hat, hier eingebracht und ultimativ dann auch im Studienplan verankert.
+
+00:02:46.701 --> 00:02:56.500
+<v peterpurgathofer>Und ich glaube, das hat mich mein akademisches Leben lang begleitet, also akademisch ist mein Schwerpunkt im Bereich Human-Computer Interaction.
+
+00:02:56.501 --> 00:03:07.100
+<v timpritlove>Aber du hast dir ja auch schon immer sehr viele Gedanken über die Informatik als solche gemacht bzw. die Auswirkungen von Computern,
+
+00:03:07.101 --> 00:03:17.300
+<v timpritlove>unter anderem gab es auch ein etwas umfangreicheres Engagement in der Frage des Einsatzes von Computer bei Wahlen.
+
+00:03:17.301 --> 00:03:17.500
+<v peterpurgathofer>Ja.
+
+00:03:17.501 --> 00:03:19.100
+<v timpritlove>Da hat dann schon ein wenig das Gewissen angeklopft.
+
+00:03:19.101 --> 00:03:24.700
+<v peterpurgathofer>Na, ich sehe das ja auch als eine Frage von Human Computer Interaktion, wo man Human und Computer ein bisschen größer versteht.
+
+00:03:24.701 --> 00:03:25.300
+<v timpritlove>Ja.
+
+00:03:25.301 --> 00:03:27.600
+<v peterpurgathofer>Wo man sagt, Humanity Technology Interaction.
+
+00:03:27.601 --> 00:03:31.700
+<v peterpurgathofer>Und eigentlich jetzt sind es dieselben Fragen, nur auf einer anderen Ebene.
+
+00:03:31.701 --> 00:03:37.900
+<v peterpurgathofer>Aber ja, das mit dem Gewissen stimmt auf jeden Fall und diese Geschichte mit dem e-Voting damals hat mich tatsächlich vor einer Woche wieder eingeholt,
+
+00:03:37.901 --> 00:03:47.800
+<v peterpurgathofer>wo eine Kollegin von einer Zeitung um einen Kommentar gebeten hat, contra e-Voting und das Gegenstück, also das ist eine Pro und Contra Kolumne
+
+00:03:47.801 --> 00:03:57.200
+<v peterpurgathofer>und das Gegenstück ist dieselbe Person, die vor sechs oder sieben Jahren, nein vor zehn Jahren war das, mit mir die ganze Zeit über e-Voting diskutiert hat.
+
+00:03:57.201 --> 00:03:58.100
+<v peterpurgathofer>Also man kann sagen, bei uns ist nichts weitergegangen, das Interesse existiert quasi nicht
+
+00:03:58.101 --> 00:04:01.700
+<v timpritlove>/lacht/
+
+00:04:01.701 --> 00:04:08.000
+<v peterpurgathofer>Wenn dieselben zwei Antagonisten irgendwie hier eingeladen werden, um Pro und Contra zu vertreten.
+
+00:04:08.001 --> 00:04:09.700
+<v timpritlove>Schon ein bisschen frustrierend oder?
+
+00:04:09.701 --> 00:04:21.800
+<v peterpurgathofer>Nein, eigentlich sehr befreiend, weil dieses Thema sollte wirklich nicht irgendwie viele Anhänger finden oder viele Fans, sagen wir, nicht Anhänger,
+
+00:04:21.801 --> 00:04:27.400
+<v peterpurgathofer>es sind eher diese fanatischen, wir müssen jetzt unbedingt Computer, warum wählen wir nicht mit dem Computer?
+
+00:04:27.401 --> 00:04:34.400
+<v peterpurgathofer>Und das ist genau dieser Punkt, wo ich sage, bitte lassen wir das, dumme Idee.
+
+00:04:34.401 --> 00:04:41.200
+<v peterpurgathofer>Und da bin ich eigentlich ganz froh, dass das Thema ganz weit weg ist vom Fenster und niemand danach fragt.
+
+00:04:41.201 --> 00:04:50.200
+<v timpritlove>Aber da sind wir auch schon ein bisschen beim Thema, weil so der Computer als Faszination der Vision der Zukunft.
+
+00:04:50.201 --> 00:05:06.500
+<v timpritlove>Also so die Fleisch gewordene Maschine, die so alle Wünsche transportiert, repräsentiert und irgendwie auch so eine universelle Machbarkeit von allem irgendwie zu versprechen scheint.
+
+00:05:06.501 --> 00:05:21.400
+<v timpritlove>Und teilweise ist es ja auch so, nur kriegt der Computer halt mittlerweile in Bereiche des Lebens, wo ihn viele vielleicht gar nicht so gesehen haben.
+
+00:05:21.401 --> 00:05:23.600
+<v timpritlove>Andere waren da vielleicht schon eher schon.
+
+00:05:23.601 --> 00:05:32.900
+<v peterpurgathofer>Ich glaube, wenn man jetzt so 20-25 Jahre zurückschauen sieht man schon, dass die Visionen von damals andere sind als das was heute daraus geworden ist.
+
+00:05:32.901 --> 00:05:42.000
+<v peterpurgathofer>Und dass es da viel gibt an Problemen, die sich eingeschlichen haben irgendwie im Schatten der Dinge, von denen wir fasziniert waren
+
+00:05:42.001 --> 00:05:47.900
+<v peterpurgathofer>und wo wir jetzt sagen, ola ola was ist da los, das kann ja wohl so nicht sein.
+
+00:05:47.901 --> 00:05:57.100
+<v peterpurgathofer>Und die sind so prominent und alltäglich geworden, dass man sagen kann, wenn man diese Themen in Lehrveranstaltungen berücksichtigt,
+
+00:05:57.101 --> 00:06:04.500
+<v peterpurgathofer>muss man diese Kurse jedes Jahr neu machen eigentlich, weil sich das so drastisch verschiebt und verändert von Jahr zu Jahr.
+
+00:06:04.501 --> 00:06:06.500
+<v timpritlove>Das ist so ein bisschen so ein Zauberlehrling-Syndrom auch.
+
+00:06:06.501 --> 00:06:07.900
+<v peterpurgathofer>Absolut.
+
+00:06:07.901 --> 00:06:19.000
+<v timpritlove>Ich meine, man sieht das ja jetzt auch gerade bei Mobilität, also vor 60 Jahren wurde noch von fliegenden Autos geträumt und dann war sozusagen so diese unbegrenzte Mobilität war so der totale Traum,
+
+00:06:19.001 --> 00:06:32.100
+<v timpritlove>auch das Versprechen der Zukunft an sich so und jetzt müssen Autofahrer schon langsam Angst bekommen, dass sie nicht irgendwie die Leute auf der Straße hinterher rennen rufend und mahnend.
+
+00:06:32.101 --> 00:06:34.100
+<v timpritlove>Die Dinge ändern sich.
+
+00:06:34.101 --> 00:06:37.000
+<v peterpurgathofer>Wobei es ja noch immer Wahnsinnige gibt, die noch immer an fliegenden Autos bauen.
+
+00:06:37.001 --> 00:06:38.300
+<v peterpurgathofer>Mir ist das ja ein vollkommenes Rätsel.
+
+00:06:38.301 --> 00:06:40.600
+<v timpritlove>Ja, Flugtaxi.
+
+00:06:40.601 --> 00:06:48.000
+<v peterpurgathofer>Da gibt es diese Ecken, wo wirklich noch Leute an fliegenden Fortbewegungsmitteln arbeiten und ich denke, jetzt haben wir gelernt,
+
+00:06:48.001 --> 00:06:52.400
+<v peterpurgathofer>dass wir uns eigentlich zu viel fortbewegen, das ist das eigentliche Problem hinter der ganzen Geschichte.
+
+00:06:52.401 --> 00:06:57.200
+<v peterpurgathofer>Wir wollen zu viel an Plätzen sein, wo wir nicht sind.
+
+00:06:57.201 --> 00:07:04.100
+<v peterpurgathofer>Und je mehr Energie wir für diesen Transport brauchen, umso schlechter, ganz generalisiert.
+
+00:07:04.101 --> 00:07:13.300
+<v peterpurgathofer>Und dass da Leute sich damit auseinandersetzen, wie man noch energieintensivere Fortbewegungsvarianten entwickeln kann, marktreif machen kann, ist mir ein Rätsel.
+
+00:07:13.301 --> 00:07:19.400
+<v timpritlove>Ja, aber bei den Computern ist es ja nicht anders. Also ich meine, da war ja auch der Traum immer, man kann jetzt alles speichern,
+
+00:07:19.401 --> 00:07:24.700
+<v timpritlove>man kann jetzt alles verfolgen, man kann alles ausrechnen und jetzt merkt man langsam so, mhm.
+
+00:07:24.701 --> 00:07:26.100
+<v peterpurgathofer>Es wird auch alles gespeichert.
+
+00:07:26.101 --> 00:07:29.000
+<v timpritlove>Ja ja. Jetzt machen das auch noch alle.
+
+00:07:29.001 --> 00:07:30.300
+<v peterpurgathofer>Genau.
+
+00:07:30.301 --> 00:07:33.100
+<v timpritlove>Was sind denn dann eigentlich die Konsequenzen daraus?
+
+00:07:33.101 --> 00:07:43.200
+<v timpritlove>Ich meine, jetzt hast du ja im Prinzip schon mehrere Generationen von Informatikstudenten hier durch die Universität durchmarschieren sehen,
+
+00:07:43.201 --> 00:07:51.500
+<v timpritlove>also quasi auch dann mehr oder weniger die vollständige Karriereentwicklung mitbekommen von so Frischlingen, die hier ankommen,
+
+00:07:51.501 --> 00:07:57.900
+<v timpritlove>vielleicht von Tuten und Blasen noch gar keine Ahnung haben, sie dann langsam irgendwie reifen, sich mit der Technik vertraut machen,
+
+00:07:57.901 --> 00:08:08.200
+<v timpritlove>aber dann eben auch irgendwann so diese Erkenntnisebenen erfahren von was das eigentlich wirklich bedeutet und dann später auch in die Gesellschaft gehen.
+
+00:08:08.201 --> 00:08:11.100
+<v timpritlove>Ist dir da irgendwas aufgefallen?
+
+00:08:11.101 --> 00:08:17.500
+<v peterpurgathofer>Absolut, also es gibt ein paar Dinge, die man unseren Erstsemestern jetzt einfach nicht mehr erzählen muss.
+
+00:08:17.501 --> 00:08:25.300
+<v peterpurgathofer>Dass Informatik einen gesellschaftlichen Bezug hat und dass es wichtig ist, sich mit diesem Beug auseinanderzusetzen, wenn man Technologie gestalten will,
+
+00:08:25.301 --> 00:08:29.300
+<v peterpurgathofer>das ist heute eine Selbstverständlichkeit.
+
+00:08:29.301 --> 00:08:34.800
+<v peterpurgathofer>Oder sagen wir, es ist etwas, wofür sie sehr offene Ohren haben, das ist vielleicht die bessere Formulierung.
+
+00:08:34.801 --> 00:08:42.900
+<v peterpurgathofer>Und sie hören zu, also die Zahl der aggressiv desinteressierten, der Anteil ist radikal geschrumpft.
+
+00:08:42.901 --> 00:08:52.100
+<v peterpurgathofer>Es ist noch immer dieser rechte Ecke, die eh lauter wird in den letzten Jahren, das ist ein zweiter Trend, die rechte Aufregerecke wird lauter,
+
+00:08:52.101 --> 00:09:00.800
+<v peterpurgathofer>und das sind die, die sagen, bitte hier geht es nur um Code und um nichts anderes, bitte können wir diesen ganzen politischen Kram rauslassen.
+
+00:09:00.801 --> 00:09:10.100
+<v peterpurgathofer>Und eine dritte Geschichte, die mir auffällt und das, nachdem das eins meiner Forschungsthemen ist, ist, dass man diese HCI-Fragen nicht mehr begründen muss.
+
+00:09:10.101 --> 00:09:10.800
+<v peterpurgathofer>Alle wissen, ...
+
+00:09:10.801 --> 00:09:14.300
+<v timpritlove>Also Human-Computer Interaction, HCI.
+
+00:09:14.301 --> 00:09:18.800
+<v peterpurgathofer>...dass gutes Design der Kern eines erfolgreichen Produkts ist, das wissen halt alle.
+
+00:09:18.801 --> 00:09:20.000
+<v peterpurgathofer>Das war früher überhaupt nicht so.
+
+00:09:20.001 --> 00:09:29.100
+<v peterpurgathofer>Früher war, es muss gut funktionieren, der Code muss elegant sein, es muss tolle Dinge machen und heute wissen alle, dass es ein gutes Design braucht,
+
+00:09:29.101 --> 00:09:31.600
+<v peterpurgathofer>damit Dinge erfolgreich sein können.
+
+00:09:31.601 --> 00:09:40.500
+<v peterpurgathofer>Manche verwenden auch immer so Begriffe wie Marketing, um das zu entwerten, um zu sagen, ja aber das ist nicht unsere Aufgabe,
+
+00:09:40.501 --> 00:09:43.500
+<v peterpurgathofer>aber eigentlich wissen alle, wie wichtig es ist.
+
+00:09:43.501 --> 00:09:48.700
+<v peterpurgathofer>Und wenn man jetzt davon redet, wie wichtig gutes Design ist, rennen wir offene Türen ein.
+
+00:09:48.701 --> 00:09:54.800
+<v peterpurgathofer>Also das sind ein paar Dinge, die sich, glaube ich, grundlegend geändert haben über diese 20 Jahre, die ich unterrichte hier oder 25.
+
+00:09:54.801 --> 00:10:05.400
+<v timpritlove>Trotzdem habe ich den Eindruck, dass gerade dieser moralische Aspekt in zunehmendem Maße eine Bedeutung erfährt, generell im Computerbereich.
+
+00:10:05.401 --> 00:10:07.400
+<v timpritlove>Dass man einfach mehr darauf schaut.
+
+00:10:07.401 --> 00:10:14.200
+<v timpritlove>Und die letzten Jahre waren ja im Prinzip sehr moralisch geprägte Diskussionen am Start.
+
+00:10:14.201 --> 00:10:25.000
+<v timpritlove>Also der Vormarsch der sozialen Netzwerke, deren Auswirkung auf das Miteinander in der Gesellschaft ist sicherlich jetzt keinem mehr entgangen,
+
+00:10:25.001 --> 00:10:28.300
+<v timpritlove>dass das alles Schwierigkeiten mit sich bringt.
+
+00:10:28.301 --> 00:10:34.000
+<v timpritlove>Teilweise sind es sicherlich auch Fragen von, haben wir gelernt damit umzugehen?
+
+00:10:34.001 --> 00:10:40.500
+<v timpritlove>Also etwas, was vielleicht auch in der Zukunft überkommen werden kann, indem sich die Gesellschaft entsprechend anpasst, sich quasi trainiert,
+
+00:10:40.501 --> 00:10:45.600
+<v timpritlove>lernt mit solchen Dingen umzugehen, so nach dem Motto, naja das Mobiltelefon haben wir ja auch überlebt.
+
+00:10:45.601 --> 00:10:52.100
+<v timpritlove>Am Anfang war das noch so störend und jeder wurde böse angeguckt, der irgendwie im Bus stand und mit der Luft geredet hat,
+
+00:10:52.101 --> 00:10:58.700
+<v timpritlove>so das nehmen wir heutzutage gar nicht mehr wahr, das ist so eingepreist, aber auch vom Verhalten her, von allen wieder so runtergefahren worden,
+
+00:10:58.701 --> 00:11:06.900
+<v timpritlove>dass man das irgendwie weiß, wann man das tun kann und wann man das nicht macht, so dass sich das sozusagen auch eingelebt hat.
+
+00:11:06.901 --> 00:11:16.900
+<v timpritlove>Aber jetzt bei den sozialen Netzwerken, wo wir permanent unsere Spuren hinterlassen, hat man auch diese Kontrolle gar nicht, dass in irgendeiner Form nivellieren zu können.
+
+00:11:16.901 --> 00:11:20.500
+<v timpritlove>Wie nimmst du diese Debatte wahr?
+
+00:11:20.501 --> 00:11:32.400
+<v peterpurgathofer>Ich glaube, dass die sozialen Netzwerke in dieser Debatte gern überbetont werden, das eigentliche Problem sind weniger die sozialen Netzwerke,
+
+00:11:32.401 --> 00:11:44.800
+<v peterpurgathofer>als die riesige Anzahl von Firmen und Unternehmen, die uns tracken, die Profile aufbauen und das sind die sozialen Netzwerkfirmen, ein kleiner Teil davon.
+
+00:11:44.801 --> 00:11:56.100
+<v peterpurgathofer>Aber da gibt es viele, viele, viele Firmen aus dem Werbebereich, also nicht die, die Werbung ins Netz stellen, sondern die diese Werbung denen geben, die sie ins Netz stellen,
+
+00:11:56.101 --> 00:12:04.400
+<v peterpurgathofer>die einen riesigen Schatz an Daten über uns aufbauen und das ist das, was ultimativ dazu verwendet wird, um uns zu manipulieren und uns zu ändern.
+
+00:12:04.401 --> 00:12:16.300
+<v peterpurgathofer>Und das führt dann zu so Dingen wie unerwartete politische Wahlergebnisse, eine Veränderung der Themen, über die diskutiert wird und solche Sachen.
+
+00:12:16.301 --> 00:12:27.600
+<v peterpurgathofer>Und ich glaube, das Problem ist hier vordergründig, dass wir immer sehen, was weiß ich, das soziale Netzwerk des Tages, welches gerade aktuell ist,
+
+00:12:27.601 --> 00:12:31.900
+<v peterpurgathofer>wahrscheinlich ist es gerade TicTalk oder Instagram oder so was.,
+
+00:12:31.901 --> 00:12:45.400
+<v peterpurgathofer>und die Effekte all den sichtbaren Netzwerken zuweisen, aber dahinter gibt es ein riesiges Netzwerk an Unternehmen, die für diese Veränderung noch wesentlich mehr Verantwortung tragen
+
+00:12:45.401 --> 00:12:47.300
+<v peterpurgathofer>als die sozialen Netzwerke.
+
+00:12:47.301 --> 00:12:56.600
+<v peterpurgathofer>Dass das dann zu einem guten Teil über Facebook wieder zurückkommt und über diese seltsame Struktur des Streams, den man dort sieht,
+
+00:12:56.601 --> 00:13:07.500
+<v peterpurgathofer>aus Inhalten von Leuten, mit denen ich befreundet bin und Inhalten, die hineinkommen, weil ich eine Zielgruppe bin und Werbung, die nicht als solche identifizierbar ist
+
+00:13:07.501 --> 00:13:13.100
+<v peterpurgathofer>und Werbung, die als solche identifizierbar ist und so weiter, eine andere Geschichte.
+
+00:13:13.101 --> 00:13:15.400
+<v peterpurgathofer>Also das kommt über jede andere Webseite auch herein.
+
+00:13:15.401 --> 00:13:25.500
+<v peterpurgathofer>Und ich glaube, dass diese Strukturen, die da im Hintergrund wirken, die richten enormen Schaden an, die machen unsere traditionellen Medienstrukturen kaputt
+
+00:13:25.501 --> 00:13:34.000
+<v peterpurgathofer>und schaffen Medienstrukturen, die nur dafür da sind, dass wir hinschauen und Clickbait und so weiter und gleichzeitig richten sie enormen gesellschaftlichen Schaden an.
+
+00:13:34.001 --> 00:13:38.500
+<v peterpurgathofer>Sind zu einem guten Teil für diese Spaltung der Gesellschaft, die wir wahrnehmen, verantwortlich.
+
+00:13:38.501 --> 00:13:47.800
+<v timpritlove>Ja, das haben wir ja jetzt schön gesehen, sowohl bei den Wahlen in den USA als eben auch bei dem Brexit Referendum in dem Vereinigten Königreich,
+
+00:13:47.801 --> 00:13:59.100
+<v timpritlove>dass hier eben diese Netzwerke, also ich wollte gar nicht jetzt so primär diese Netzwerke als einzigen Ort brandmarken, sondern als das, was halt einem persönlich am meisten gewahr wird,
+
+00:13:59.101 --> 00:14:05.400
+<v timpritlove>wo den Leuten bewusst ist, dass sie dort am meisten Interaktion mit Netzen eigentlich erfahren.
+
+00:14:05.401 --> 00:14:13.700
+<v peterpurgathofer>Da sage ich, da haben die meisten Leute auch etwas positives davon, von diesen Addtracking-Netzwerken haben die Leute nichts positives.
+
+00:14:13.701 --> 00:14:23.000
+<v peterpurgathofer>Das, was immer behauptet wird, nämlich dass die Medien sich nur finanzieren können über diese AddTech-Geschichten, stimmt in dem Maße auch nicht,
+
+00:14:23.001 --> 00:14:30.700
+<v peterpurgathofer>als diese AddTech-Geschichten inhärent Qualitätsmedien zerstören und Billigmedien fördern.
+
+00:14:30.701 --> 00:14:36.000
+<v peterpurgathofer>Ist eine ganz andere Geschichte, werden wir jetzt nicht lange drüber reden können, aber das ist das eigentliche Problem,
+
+00:14:36.001 --> 00:14:43.000
+<v peterpurgathofer>nicht, dass eine Struktur daherkommt, eine Technologie und sagt, wir sind euer einziger Retter, nur über uns könnt ihr euch erhalten Qualitätsmedien
+
+00:14:43.001 --> 00:14:44.500
+<v peterpurgathofer>und in Wirklichkeit …
+
+00:14:44.501 --> 00:14:51.100
+<v timpritlove>… werden die dazu gezwungen, sich dem zuzuwenden, was am meisten Aufmerksamkeit erzeugt, aber nicht tatsächlich am meisten Nachrichtenwert hat.
+
+00:14:51.101 --> 00:15:02.800
+<v peterpurgathofer>Ja, oder wie soll ich sagen, wenn ich ein Werbeschaltender bin, ich schalte Werbungen, dann werde ich versuchen, meine Kosten für die Eyeballs, die ich bekomme, zu minimieren.
+
+00:15:02.801 --> 00:15:10.700
+<v peterpurgathofer>Und genau das leistet AddTech, indem sie mir erzählen können, welche Leute in den Qualitätsmedien und in den billigen Medien unterwegs sind
+
+00:15:10.701 --> 00:15:16.500
+<v peterpurgathofer>und mit der Zeit brauche ich meine zielgerichteten Werbungen nur noch in den billigen Medien zu schalten und nicht mehr in den Qualitätsmedien,
+
+00:15:16.501 --> 00:15:19.000
+<v peterpurgathofer>weil ich weiß, dass das dieselben Leute sind.
+
+00:15:19.001 --> 00:15:28.400
+<v peterpurgathofer>Und damit ziehe ich Werbung ab, die angeblich unsere Qualitätsmedien finanziert und wir sehen eh, dass das eine Krise ist, die immer schlimmer wird.
+
+00:15:28.401 --> 00:15:38.200
+<v peterpurgathofer>Und bringt das Geld dorthin, wo es nur um Clicks geht und nur um die Empfehlungen, wo du weiterlesen könntest, das wäre doch spannend für dich und solche Sachen.
+
+00:15:38.201 --> 00:15:45.100
+<v timpritlove>Ja. Wobei das jetzt konkret erst mal natürlich die Zukunft dieser Medien betrifft.
+
+00:15:45.101 --> 00:15:50.300
+<v timpritlove>Bei den Wahlen, was ich gerade erwähnt hatte, hat sich ja im Prinzip der Kreis komplett geschlossen, dass also im Prinzip aus diesen Daten,
+
+00:15:50.301 --> 00:15:57.100
+<v timpritlove>die aus sozialen Netzwerken und anderen Quellen gewonnen wurden, diese Profile entstanden und darüber ein Wissen existierte,
+
+00:15:57.101 --> 00:16:03.400
+<v timpritlove>was dann aber genutzt wurde, nicht nur um mir was zu verkaufen, sondern halt quasi mir meine eigene Meinung zu verkaufen
+
+00:16:03.401 --> 00:16:11.400
+<v timpritlove>und zumindest soweit zu nutzen, um eine andere Meinung, in dem Fall halt eine Wahlentscheidung, herbeizuführen.
+
+00:16:11.401 --> 00:16:20.600
+<v timpritlove>Und ich weiß nicht, wie unsere Zukunft auf diese Zeitraum blicken wird, aber es hat schon so was von Sündenfall dieser Moment
+
+00:16:20.601 --> 00:16:29.800
+<v timpritlove>und ist natürlich auch wirklich so ein Punkt, wo man sich dann eben auch fragen muss, okay, wenn ich jetzt Teil dieser Welt bin, dieser informatischen Welt,
+
+00:16:29.801 --> 00:16:33.900
+<v timpritlove>was ist meine Rolle in diesem Spiel?
+
+00:16:33.901 --> 00:16:33.900
+<v timpritlove>Darüber habt ihr nachgedacht.
+
+00:16:33.901 --> 00:16:35.600
+<v peterpurgathofer>Absolut, ja.
+
+00:16:35.601 --> 00:16:45.900
+<v peterpurgathofer>Und ich glaube, etwa was wir versuchen den Studierenden hier mitzugeben, ist, dass sie sich intensiv mit ihrer Rolle auseinandersetzen müssen
+
+00:16:45.901 --> 00:16:56.100
+<v peterpurgathofer>und dass die Verantwortung, die sie dabei tragen, eine ist, die man nicht durch, ich war ja nur der Ingenieur und ich habe nur gemacht, was man mir gesagt hat,
+
+00:16:56.101 --> 00:17:00.300
+<v peterpurgathofer>abwursteln kann.
+
+00:17:00.301 --> 00:17:08.900
+<v peterpurgathofer>Wir bringen da auch gern dieses Beispiel von dem VW-Dieselskandal, wo ja tatsächlich ein Ingenieur, der nur gemacht hat, was ihm gesagt wurde,
+
+00:17:08.901 --> 00:17:11.900
+<v peterpurgathofer>einsitzt jetzt.
+
+00:17:11.901 --> 00:17:19.300
+<v timpritlove>Ja, die not my Departement-Problematik, ich führe hier nur aus, was andere sich ausgedacht haben, ich bewerte das eigentlich gar nicht.
+
+00:17:19.301 --> 00:17:21.600
+<v peterpurgathofer>Und wenn ich es nicht mache, dann macht es wer anderer.
+
+00:17:21.601 --> 00:17:21.900
+<v timpritlove>Genau.
+
+00:17:21.901 --> 00:17:30.000
+<v peterpurgathofer>Die Argumente, die wir alle kennen, seit hundert Jahren, also ich nur seit 56, aber seit hunderten Jahren in unserer Gesellschaft.
+
+00:17:30.001 --> 00:17:32.300
+<v timpritlove>Ja.
+
+00:17:32.301 --> 00:17:38.600
+<v peterpurgathofer>Jedesmal wenn es darum geht, irgendwas dreckiges zu machen, macht man es dann doch, weil man kriegt was dafür und sonst macht es ja eh wer anderer.
+
+00:17:38.601 --> 00:17:44.900
+<v timpritlove>Genau, und das wäre ja dann nur mein persönlicher Nachteil, letztlich würde sich ja gar nichts ändern, das ist so ein bisschen diese Mentalität.
+
+00:17:44.901 --> 00:17:50.800
+<v timpritlove>Stellt sich aber eigentlich immer wieder heraus, dass in dem Moment, wo man es halt doch nicht macht, man schon etwas verändert,
+
+00:17:50.801 --> 00:17:56.900
+<v timpritlove>weil ja allein der Widerstand dagegen auch immer schon so eine kleine Schwankung der Matrix verursacht.
+
+00:17:56.901 --> 00:18:03.700
+<v timpritlove>Vielleicht nicht alles zum Kippen bringt, aber in dem Moment, wo an verschiedenen Stellen gerüttelt wird, sieht es ja dann meistens gleich ganz anders aus.
+
+00:18:03.701 --> 00:18:13.100
+<v peterpurgathofer>Da haben wir ja auch miterlebt bei verschiedensten Firmen hier im IT-Bereich, wo Leute dann einfach, ich will nicht sagen, massenweise,
+
+00:18:13.101 --> 00:18:18.400
+<v peterpurgathofer>aber doch in Gruppen gekündigt haben und weggegangen sind, weil sie nicht mehr ein Teil davon sein wollten.
+
+00:18:18.401 --> 00:18:19.700
+<v timpritlove>Zum Beispiel?
+
+00:18:19.701 --> 00:18:31.400
+<v peterpurgathofer>Ich weiß nicht, gab es nicht so eine Austrittswelle bei Facebook, nicht von den Usern und Userinnen, sondern von Mitarbeiterinnen und Mitarbeitern vor ungefähr einem Jahr?
+
+00:18:31.401 --> 00:18:39.600
+<v timpritlove>Facebook weiß ich jetzt nicht ganz genau, aber bei Google war es halt relativ stark der interne Widerstand gegen die Beteiligung an den Drohnenprogrammen bei den Militärprojekten.
+
+00:18:39.601 --> 00:18:46.600
+<v peterpurgathofer>Google habe ich auch gehört, ja.
+
+00:18:46.601 --> 00:18:54.100
+<v peterpurgathofer>Und das kann ich sagen, das erzeugt auch ein anderes Bild dieser Firmen, zum Beispiel bei unseren Studierenden.
+
+00:18:54.101 --> 00:18:56.900
+<v peterpurgathofer>Wenn die davon hören.
+
+00:18:56.901 --> 00:19:04.400
+<v peterpurgathofer>Und wir versuchen ja auch, und da kommen wir jetzt langsam zu dem Thema, über das wir ja reden wollen, versuchen wir auch, diese Themen in die Lehre hineinzutragen
+
+00:19:04.401 --> 00:19:17.500
+<v peterpurgathofer>und tagesaktuelle Ereignisse, ich sage einmal, vor dem Hintergrund von Nachdenken und ein bisschen Theorie zu reflektieren für sie und mit ihnen,
+
+00:19:17.501 --> 00:19:21.700
+<v peterpurgathofer>um ihnen die Gelegenheit zu geben, das selber auch zu lernen.
+
+00:19:21.701 --> 00:19:34.600
+<v timpritlove>Ist ja auch eine interessante Zeit, so in den letzten Jahren hat sich ja mal eine komplett neue Technologie auch Raum verschafft im informatischen Bereich,
+
+00:19:34.601 --> 00:19:39.800
+<v timpritlove>durch das maschinelle Lernen oder wie man auch so schön sagt, die künstliche Intelligenz.
+
+00:19:39.801 --> 00:19:44.400
+<v timpritlove>Sicherlich ein noch nicht ganz angemessener Begriff.
+
+00:19:44.401 --> 00:19:58.300
+<v timpritlove>Aber durch das maschinelle Lernen ist man ja in der Lage Systeme zu schaffen, wo die eigentliche Entscheidung die Systeme betreffend im Prinzip vertagt wird
+
+00:19:58.301 --> 00:19:59.300
+<v timpritlove>in ein diffuses Lernen.
+
+00:19:59.301 --> 00:20:06.900
+<v timpritlove>Also Maschinen werden mit Kenntnis versorgt und sollen dann auf Basis dieser gesammelten Daten irgendwann Entscheidungen fällen,
+
+00:20:06.901 --> 00:20:14.100
+<v timpritlove>aber in dem Moment, wo die Entscheidung gefällt wird, wird sie nicht mehr aktiv durch ein Programm, sondern sozusagen nur durch gesammelte Daten getroffen.
+
+00:20:14.101 --> 00:20:24.100
+<v timpritlove>So dass man ja eigentlich auch als Akteur, als Programmierer, als Systemdesigner in gewisser Hinsicht die Entscheidung auch komplett aus der Hand gibt,
+
+00:20:24.101 --> 00:20:33.400
+<v timpritlove>was dann auch nochmal ein weiterer Schritt ist, wo man sich fragen muss, wo ist denn jetzt eigentlich meine Verantwortung für das, was ein System tut.
+
+00:20:33.401 --> 00:20:40.800
+<v timpritlove>Habe ich es dann wieder weiter delegiert und habe ich damit nichts zu tun oder muss ich mir eher noch mehr Gedanken darüber machen als vorher?
+
+00:20:40.801 --> 00:20:54.600
+<v peterpurgathofer>Die Frage kann man sich auch als Startrooper stellen, wie sehr man die Verantwortung mit trägt, die das Imperium eigentlich trägt für die Vernichtung der galaktischen Ordnung oder irgendwas.
+
+00:20:54.601 --> 00:21:05.300
+<v peterpurgathofer>Also wenn man immer nur das tut, was einem erzählt wird, das man tun soll und über Folgewirkungen, von denen man durchaus weiß, dass sie da sein werden,
+
+00:21:05.301 --> 00:21:15.900
+<v peterpurgathofer>dann nicht kritisch reflektiert und das nicht weitersagt, dann finde ich, trägt man durchaus eine Mitverantwortung, auch wenn die eigentliche Verantwortung
+
+00:21:15.901 --> 00:21:19.900
+<v peterpurgathofer>natürlich bei denen liegen, die die Entscheidungen treffen.
+
+00:21:19.901 --> 00:21:28.000
+<v peterpurgathofer>Ein schönes Beispiel dafür immer wieder ist dieser Challenger-Absturz vor, wann war das, 85/86, glaube ich.
+
+00:21:28.001 --> 00:21:30.100
+<v timpritlove>Schon eine Weile her, ja.
+
+00:21:30.101 --> 00:21:41.000
+<v peterpurgathofer>Wo die Ingenieure, denen war durchaus bewusst, dass das nicht funktionieren kann und sie haben auch versucht zu kommunizieren, dass dieser Start schiefgehen wird mit hoher Wahrscheinlichkeit,
+
+00:21:41.001 --> 00:21:45.800
+<v peterpurgathofer>aber die Führungsebene hat das nicht ernstgenommen.
+
+00:21:45.801 --> 00:21:56.300
+<v peterpurgathofer>Und ich gehe so weit, dass ich sage, wenn Ingenieure nicht in der Lage sind, ihre Erkenntnisse so zu kommunizieren, dass Entscheidungstragende die verstehen
+
+00:21:56.301 --> 00:22:02.700
+<v peterpurgathofer>und sagen, aha das bedeutet also, dann tragen sie einen Teil der Verantwortung.
+
+00:22:02.701 --> 00:22:13.200
+<v peterpurgathofer>Und das ist schon, also ich gestehe, das ist relativ anspruchsvoll, was ich da von den Leuten verlange, aber zu sagen, ich sitze irgendwo und mache nur das,
+
+00:22:13.201 --> 00:22:20.800
+<v peterpurgathofer>was mir gesagt wird und weiß, was dabei herauskommt, aber ich mache es, weil es mir gesagt wurde, ist ein paar Ebenen weniger anspruchsvoll
+
+00:22:20.801 --> 00:22:25.000
+<v peterpurgathofer>und das ist auf jeden Fall etwas, wo man sich nicht aus der Verantwortung winden kann.
+
+00:22:25.001 --> 00:22:35.800
+<v timpritlove>Ja, zumal selbst wenn man nicht in der Entscheidungsebene sitzt, man sitzt aber viel näher an der Bewertungsebene, weil man als Techniker natürlich sehr viel mehr daraus herauslesen kann,
+
+00:22:35.801 --> 00:22:43.200
+<v timpritlove>was ein System tut oder nicht tut, sodass einem in gewisser Hinsicht sogar noch sehr viel mehr Verantwortung zukommt.
+
+00:22:43.201 --> 00:22:50.800
+<v peterpurgathofer>Absolut, und ohne mich, wenn ich das bin, könnte das jetzt vorerst einmal nicht passieren.
+
+00:22:50.801 --> 00:22:57.300
+<v peterpurgathofer>Wenn ich dieses Projekt nicht umsetze, wenn ich diesen Code nicht schreibe oder wenn ich ihn schlecht schreibe meinetwegen,
+
+00:22:57.301 --> 00:23:05.500
+<v peterpurgathofer>dann wird das nicht passieren, dann werden diese Entscheidungen nicht automatisiert gefällt und potenziell …
+
+00:23:05.501 --> 00:23:09.900
+<v peterpurgathofer>Also wir kennen die Folgen von automatisierten Entscheidungen in vielen Bereichen, wo es um nicht technische Dinge geht.
+
+00:23:09.901 --> 00:23:20.600
+<v timpritlove>Boing 737Max, das Flugzeug, was jetzt auch so Entscheidungsfindungen herbeigeführt hat, die dann halt nicht ausreichend abgesichert waren.
+
+00:23:20.601 --> 00:23:28.200
+<v peterpurgathofer>Aber ich erinnere an das Buch von der Virginia Eubanks „Automating Inequality“, wo sie also Fall für Fall für Fall zeigt,
+
+00:23:28.201 --> 00:23:39.700
+<v peterpurgathofer>wo in sozialen Kontexten Entscheidungen automatisiert wird, wer bekommt Sozialhilfe, wer bekommt Gesundenunterstützung, weil man es sich selber nicht leisten kann und so weiter
+
+00:23:39.701 --> 00:23:48.600
+<v peterpurgathofer>und wo das alles immer zu systematischer Benachteiligung führt und jedesmal katastrophale gesellschaftliche Auswirkungen hat.
+
+00:23:48.601 --> 00:23:56.400
+<v peterpurgathofer>Weil wir auf dieser Ebene darauf angewiesen sind, dass vernünftige Entscheidungen getroffen werden und nicht aufgrund einer Datenlage die richtigen Entscheidungen.
+
+00:23:56.401 --> 00:23:58.400
+<v peterpurgathofer>Weil die Datenlagen unzuverlässig sind.
+
+00:23:58.401 --> 00:24:07.900
+<v peterpurgathofer>Wir führen gerade sowas ein bei uns, im Arbeitsmarkt Service wird ein Automatisierungssystem eingeführt, das darüber entscheiden soll,
+
+00:24:07.901 --> 00:24:18.700
+<v peterpurgathofer>welche Maßnahmen ein Arbeitssuchender, eine Arbeitssuchende zugeführt wird und das Ergebnis davon wird vorhersehbar diskriminierend
+
+00:24:18.701 --> 00:24:27.600
+<v peterpurgathofer>und zumindest persönlich verletzend sein, also immerhin ist das System noch so aufgebaut, dass die, die in die unterste Schublade fallen, nicht aus dem System rausfallen,
+
+00:24:27.601 --> 00:24:36.300
+<v peterpurgathofer>sondern besondere Maßnahmen, wie soll man sagen, zur Arbeitsmarktförderung zugänglich gemacht wird.
+
+00:24:36.301 --> 00:24:37.800
+<v peterpurgathofer>Also in die wird ganz besonders viel steckt.
+
+00:24:37.801 --> 00:24:46.600
+<v peterpurgathofer>Da kann man jetzt sagen, die schlimmste Diskriminierung, die passieren kann, ist, dass man dort hineingestuft wird und bei Programmen mitmachen muss,
+
+00:24:46.601 --> 00:24:57.800
+<v peterpurgathofer>mit absolut unvermittelteren anderen Teilnehmenden, wo ich mich gedemütigt fühle und das Gefühl habe, ich gehöre hier nicht her.
+
+00:24:57.801 --> 00:25:05.900
+<v peterpurgathofer>Aber wenigstens, wenn man dieses nochmal „Automating Inequality“-Buch hernimmt, da sind viele Systeme, wo diese Leute da ganz unten, die Unvermittelbaren,
+
+00:25:05.901 --> 00:25:11.400
+<v peterpurgathofer>einfach unten rausfallen und man sagt, was soll man mit dir machen, du bist unvermittelter.
+
+00:25:11.401 --> 00:25:22.500
+<v peterpurgathofer>Und das sind halt dann mehrheitlich welche, die Stereotypen entsprechen, mehr als dass Persönlichkeiten berücksichtigt werden.
+
+00:25:22.501 --> 00:25:28.800
+<v timpritlove>Tja, wahrscheinlich ist niemand auf die Idee gekommen, so ein System einfach mal mit Zufall auszustatten, was ja manchmal auch ganz gut funktioniert.
+
+00:25:28.801 --> 00:25:36.500
+<v peterpurgathofer>Apropos Zufall, ein anderes ähnlich geartetes System wird gerade in Schweden in Stockholm ausprobiert.
+
+00:25:36.501 --> 00:25:45.100
+<v peterpurgathofer>Da gibt es eine Tempo 30 Strecke und da wird Geschwindigkeit überwacht und jeder, der über 30 fährt, zahlt Strafe und wer unter 30 fährt nimmt an einer Verlosung teil,
+
+00:25:45.101 --> 00:25:47.800
+<v peterpurgathofer>wo dieses Geld, das reinkommt, verlost wird.
+
+00:25:47.801 --> 00:25:50.300
+<v timpritlove>/lacht/
+
+00:25:50.301 --> 00:25:59.800
+<v peterpurgathofer>Nicht schlecht, das ist mal ein Einsatz von der Technologie auf eine Art und Weise, wo wir zumindest lachen und sagen, hey so geht es vielleicht.
+
+00:25:59.801 --> 00:26:04.000
+<v timpritlove>Ja, das ist auch ein kreativer Ansatz, so was kann ja auch auf jeden Fall helfen.
+
+00:26:04.001 --> 00:26:13.700
+<v timpritlove>Ja, aber nichts desto trotz habt ihr euch hier entschlossen, die Informatikstudiengänge, gibt es ja sicherlich auch mehr als nur einen,
+
+00:26:13.701 --> 00:26:22.500
+<v timpritlove>habe ich mir jetzt gerade so genau nicht angeschaut, aber alle, die im Prinzip in den informatischen Bereich reingehen, mit so einer Einführungsveranstaltung zu begegnen,
+
+00:26:22.501 --> 00:26:28.800
+<v timpritlove>mit dem schönen Titel Ways of Thinking in Informatics, also ich weiß gar nicht, wie ich das am besten übersetzen soll.
+
+00:26:28.801 --> 00:26:30.200
+<v peterpurgathofer>Denkweisen in der Informatik ist der deutsche Titel.
+
+00:26:30.201 --> 00:26:34.200
+<v timpritlove>Denkweisen in der Informatik.
+
+00:26:34.201 --> 00:26:39.500
+<v timpritlove>Also es wird einem sozusagen gesagt, wie man hier denken soll, mal ganz blöd formuliert.
+
+00:26:39.501 --> 00:26:51.900
+<v timpritlove>Oder es werden verschiedene Aspekte vorgetragen, worüber man mal nachdenken sollte, so würde ich es mal formulieren, vielleicht trifft es das ganz gut.
+
+00:26:51.901 --> 00:27:02.700
+<v peterpurgathofer>Also vielleicht ganz kurz, passiert ist das Ganze, nachdem in den USA an einigen Unis neue Wege der Einführung in Computerscience, Informatik, was auch immer,
+
+00:27:02.701 --> 00:27:08.100
+<v peterpurgathofer>ausprobiert wurden, The Beauty and Joy of Computing in Berkley ist eins dieser Beispiele.
+
+00:27:08.101 --> 00:27:17.300
+<v peterpurgathofer>Da gibt es ein Paper, das beschreibt fünf dieser neuen Lehrveranstaltungen, weil man weiß, dass plötzlich ganz viele Studierende in diese Fächer hineindrängen,
+
+00:27:17.301 --> 00:27:27.400
+<v peterpurgathofer>im Wissen, dass sie eine andere Relevanz gesellschaftlich … oder sagen wir so, in der Erkenntnis, dass sie gesellschaftlich relevanter sind als man bisher geglaubt hat.
+
+00:27:27.401 --> 00:27:35.400
+<v peterpurgathofer>Also die Nerdigkeit, die diesem Fach viele Jahre und Jahrzehnte angehaftet hat, die fällt jetzt gerade so ein bisschen ab und man kommt drauf,
+
+00:27:35.401 --> 00:27:44.600
+<v peterpurgathofer>Informatik wird langsam zu so etwas wie, unser Dekan sagt immer, das Betriebssystem der Gesellschaft und da ist schon was dran.
+
+00:27:44.601 --> 00:27:55.600
+<v peterpurgathofer>Also ich glaube, dass Informatik so etwas wird wie die Universalerklärungswissenschaft, so wie es die Physik vor 100 Jahren waren, wird es heute Informatik.
+
+00:27:55.601 --> 00:28:02.000
+<v peterpurgathofer>Wir können die meisten Dinge mit Informatik erklären, mit Code, mit Simulationen.
+
+00:28:02.001 --> 00:28:03.700
+<v timpritlove>Erklären oder realisieren?
+
+00:28:03.701 --> 00:28:15.200
+<v peterpurgathofer>Erklären. Wir können viel von dem, was wir in der Gesellschaft beobachten zum Beispiel dadurch erklären, dass wir auf die Interaktion zwischen Technologie und Menschen schauen
+
+00:28:15.201 --> 00:28:18.500
+<v peterpurgathofer>und verstehen, was dort passiert.
+
+00:28:18.501 --> 00:28:23.800
+<v peterpurgathofer>Also ich sage nicht, dass wir die Gesellschaften dieser Welt über die gesamte Geschichte erklären, sondern das, was heute passiert.
+
+00:28:23.801 --> 00:28:25.300
+<v timpritlove>Zum Beispiel?
+
+00:28:25.301 --> 00:28:28.600
+<v peterpurgathofer>Dafür brauchen wir Informatik, um zu verstehen, was gerade passiert.
+
+00:28:28.601 --> 00:28:31.500
+<v timpritlove>Was kann man da zum Beispiel erklären?
+
+00:28:31.501 --> 00:28:41.100
+<v peterpurgathofer>Die vorhin angesprochenen Trackingnetzwerke, Big Data, Machine Learning, wie funktioniert dieser Mechanismus, der wieder zurückkommt und uns "nudged"
+
+00:28:41.101 --> 00:28:51.000
+<v peterpurgathofer>und dazu bringt, was weiß ich, wenn wir Labour-Ansichten haben, nicht zur Wahl zu gehen oder nicht zur Abstimmung zu gehen.
+
+00:28:51.001 --> 00:29:02.300
+<v timpritlove>Man erklärt es nicht mit Informatik, sondern man erklärt die Zusammenhänge, die hier existieren, die einfach erkennen, dass diese Informatik schon Präsenz hat bei unserer gesellschaftlichen Interaktion?
+
+00:29:02.301 --> 00:29:04.700
+<v peterpurgathofer>Ja.
+
+00:29:04.701 --> 00:29:17.900
+<v peterpurgathofer>Und wir haben eine Version dieser neuen Einführung in die Informatik in einer sehr, wie soll ich sagen, in der mitteleuropäischen Wissenstradition verankert,
+
+00:29:17.901 --> 00:29:35.100
+<v peterpurgathofer>wo die Reflexion sehr hoch gehalten wird, wo die Lektüre auch der Philosophie hochgehalten wird und haben es unter den Gesichtspunkt gestellt,
+
+00:29:35.101 --> 00:29:45.800
+<v peterpurgathofer>was sind denn die verschiedenen Problemlösungsbrillen, die wir in der Informatik aufsetzen, wenn wir irgendetwas sehen, was wir ändern wollen?
+
+00:29:45.801 --> 00:29:52.700
+<v peterpurgathofer>Was sind die Brillen der Problemlösung, mit denen wir unsere Probleme lösen?
+
+00:29:52.701 --> 00:29:59.600
+<v peterpurgathofer>Und natürlich ist coden eins dieser Brillen, aber nicht die einzige.
+
+00:29:59.601 --> 00:30:13.600
+<v peterpurgathofer>Mathematik ist eine andere dieser Brillen, Design ist eine weitere dieser Brillen und Wissenschaft, pure klassische empirische Wissenschaft ist eine weitere dieser Brillen.
+
+00:30:13.601 --> 00:30:22.400
+<v peterpurgathofer>Und ich glaube, man muss die unabhängig voneinander auch verstehen können und sehen als etwas, was jeweils bestimmte Kompetenzen
+
+00:30:22.401 --> 00:30:30.900
+<v peterpurgathofer>und bestimmte Stärken mit sich bringt, warum eignet sich diese Brille ganz besonders, um dieses Problem zu lösen?
+
+00:30:30.901 --> 00:30:44.900
+<v peterpurgathofer>Aber jeweils auch mit dunklen Stellen, mit schwarzen Flecken, mit blinden Flecken, mit Tunnel Vision, mit allen negativen Effekten von einer Brille, die ich mir aufsetze
+
+00:30:44.901 --> 00:30:49.200
+<v peterpurgathofer>und die mir etwas anderes zeigt wie eine andere Brille.
+
+00:30:49.201 --> 00:30:59.000
+<v timpritlove>In diesem Kurs wird jetzt quasi versprochen einerseits Probleme von Computersystemen von unterschiedlichen Aspekten aus zu betrachten
+
+00:30:59.001 --> 00:31:14.400
+<v timpritlove>und es wird auch betont, dass Computersysteme oder Computerscience an sich inhärent sozial sei und sich eigentlich gar keine sozialen Aspekte mehr davon trennen lassen.
+
+00:31:14.401 --> 00:31:22.600
+<v peterpurgathofer>Ich glaube auch, dass das einer der wesentlichen Erkenntnisse der letzten Jahre ist, dass es eigentlich nichts gibt in der Informatik, was wir machen können,
+
+00:31:22.601 --> 00:31:29.800
+<v peterpurgathofer>was nicht in irgendeiner Art und Weise früher oder später in der Gesellschaft landen wird.
+
+00:31:29.801 --> 00:31:42.200
+<v peterpurgathofer>Also auch die innersten Steuerungsroutinen von selbstfahrenden Autos werden durch die Tatsache, dass diese Autos selbst fahren, gesellschaftsverändernd
+
+00:31:42.201 --> 00:31:48.500
+<v peterpurgathofer>oder sagen wir, in Interaktion mit gesellschaftlicher Veränderung existieren.
+
+00:31:48.501 --> 00:31:59.900
+<v peterpurgathofer>Also wir haben keinen Bereich der Informatik mehr, in dem wir nicht auch drüber nachdenken sollten, was das denn für Konsequenzen hat.
+
+00:31:59.901 --> 00:32:03.500
+<v timpritlove>Ja, also jede Maschinensteuerung hat Auswirkungen auf Arbeitsplätze, wie man arbeitet etc..
+
+00:32:03.501 --> 00:32:05.300
+<v peterpurgathofer>Zum Beispiel, ja.
+
+00:32:05.301 --> 00:32:16.900
+<v peterpurgathofer>Aber vielleicht noch, jeder innerste Kern einer Steuerung hat Auswirkungen darauf, wie die äußeren Schichten dieser Steuerung von anderen Leuten programmiert werden.
+
+00:32:16.901 --> 00:32:25.100
+<v peterpurgathofer>Also wenn ich mir jetzt eine Steuerung in so Schichten vorstelle, dann gibt es so diesen innersten Kern und die bietet Schnittstellen an, mit denen ich programmieren kann,
+
+00:32:25.101 --> 00:32:30.100
+<v peterpurgathofer>und die können es erleichtern oder erschweren, eine sichere Lösung zum Beispiel zu machen.
+
+00:32:30.101 --> 00:32:35.800
+<v peterpurgathofer>Also es ist nicht einmal nur Gesellschaft in dem Sinn, wo wir sagen, wir schauen jetzt zum Fenster raus und das sind nicht mehr wir,
+
+00:32:35.801 --> 00:32:48.500
+<v peterpurgathofer>wir sind ein Teil der Gesellschaft und in diesem Sinne sind auch wir auf beiden Seiten dieser Waage zu finden, wir sind auf der technischen und der gesellschaftlichen Seite zu finden
+
+00:32:48.501 --> 00:32:53.800
+<v peterpurgathofer>und da hört es dann plötzlich auf, dass diese Unterscheidung einen Sinn ergibt.
+
+00:32:53.801 --> 00:33:00.200
+<v peterpurgathofer>Wir sind ein Amalgam aus Technologie und Gesellschaft geworden und wir müssen uns mit dem als solches auseinandersetzen.
+
+00:33:00.201 --> 00:33:15.200
+<v timpritlove>Genau, ihr wollt, dass die Studenten hier diese Problematiken kritisch reflektieren und es steht das Versprechen im Raum, dass intellektuelle Werkzeuge ausgebildet werden sollen,
+
+00:33:15.201 --> 00:33:19.300
+<v timpritlove>um alles als Teil von etwas größerem anzusehen.
+
+00:33:19.301 --> 00:33:28.500
+<v timpritlove>Was für intellektuelle Werkzeuge sollen denn hier geschaffen werden?
+
+00:33:28.501 --> 00:33:42.800
+<v peterpurgathofer>Naja, also beispielsweise ein Verständnis davon, was Wissenschaft denn wirklich ist, wo wir herkommen vor der Wissenschaft und wie Wissenschaft unsere Gesellschaft
+
+00:33:42.801 --> 00:33:52.300
+<v peterpurgathofer>aus einer vorwissenschaftlichen Zeit in eine Zeit, wo Wissenschaft das Instrument zur Schaffung von Erkenntnis war.
+
+00:33:52.301 --> 00:34:00.400
+<v peterpurgathofer>Aber auch wo diese wissenschaftlichen Herangehensweisen ihre Grenzen haben.
+
+00:34:00.401 --> 00:34:10.300
+<v peterpurgathofer>Also dass wir, was ein richtiges Cockpit für einen Piloten in einem Flugzeug ist, wenn du vorhin das Beispiel gebracht hast, nicht unbedingt nur wissenschaftlich ableiten können,
+
+00:34:10.301 --> 00:34:12.800
+<v peterpurgathofer>sondern dass da andere Fragen auch eine Rolle spielen.
+
+00:34:12.801 --> 00:34:28.100
+<v peterpurgathofer>Und ich glaube, dass, wenn wir diese, in diesem Sinn würde ich diese Brillen, die wir da vorstellen, als die Werkzeuge sehen, als die Denkwerkzeuge.
+
+00:34:28.101 --> 00:34:39.400
+<v peterpurgathofer>Wir setzen uns eine Brille auf, um die Welt wissenschaftlich zu betrachten und sind uns dessen bewusst, dass diese Sichtweise Grenzen und Einschränkungen hat.
+
+00:34:39.401 --> 00:34:53.400
+<v peterpurgathofer>Es ist nicht umsonst so, dass viele Naturwissenschaftler und auch die Physiker oder so enorme Probleme damit haben, den Wert von Sozialwissenschaften anzuerkennen.
+
+00:34:53.401 --> 00:35:00.900
+<v peterpurgathofer>Und ich glaube, dass das riesige Probleme schafft, nicht nur akademisch, sondern auch in der Welt.
+
+00:35:00.901 --> 00:35:14.000
+<v peterpurgathofer>Und wenn wir es schaffen, dass unsere Studierende verstehen, dass es zum Beispiel verschiedene Ausprägungen von Wissenschaft gibt, die eventuell vielleicht nicht aufeinander runterschauen sollten,
+
+00:35:14.001 --> 00:35:17.900
+<v peterpurgathofer>dann glaube ich, dass wir damit schon etwas bewirken können.
+
+00:35:17.901 --> 00:35:27.600
+<v timpritlove>Psychologie, Philosophie, alles solche Felder, die, glaube ich, bei der Bewertung dieser Faktoren ganz schön behilflich sein können.
+
+00:35:27.601 --> 00:35:40.300
+<v peterpurgathofer>Absolut, ja natürlich. Also ich glaube, wenn man in die Geschichte dieses Arbeitsbereichs, wo ich hier bin, schaut, dann findet man die breitest aufgestellte interdisziplinäre Zusammensetzung,
+
+00:35:40.301 --> 00:35:43.500
+<v peterpurgathofer>die es an der TU an einem Institut gibt.
+
+00:35:43.501 --> 00:35:47.300
+<v timpritlove>Wie drückt sich das konkret aus?
+
+00:35:47.301 --> 00:36:00.400
+<v peterpurgathofer>Eine Kollegin, die einen Doktor in Psychologie hat, ein ehemaliger Kollege, der letztes Jahr in Pension gegangen ist, der seinen Doktor in Politologie hatte.
+
+00:36:00.401 --> 00:36:06.100
+<v peterpurgathofer>Ein Kollege, der seinen Doktor in Soziologie und Kinderpsychologie hatte.
+
+00:36:06.101 --> 00:36:07.200
+<v timpritlove>Die alle hier in der Informatik dann angedockt sind?
+
+00:36:07.201 --> 00:36:10.800
+<v peterpurgathofer>Die alle hier in der Informatik gearbeitet haben.
+
+00:36:10.801 --> 00:36:21.600
+<v timpritlove>Und ist das jetzt nur innerhalb der Informatik oder gibt es auch konkret mit den anderen Fakultäten an dieser Uni oder an anderen Unis in Wien jetzt konkrete Zusammenarbeit auch?
+
+00:36:21.601 --> 00:36:30.000
+<v peterpurgathofer>Ja natürlich. Also nachdem einige der Leute, die bei uns arbeiten, eher fachfremd sind, finden die mehr Kontakte nach außen wie nach innen.
+
+00:36:30.001 --> 00:36:40.000
+<v peterpurgathofer>Aber ich glaube, das ist überhaupt eine der Absurditäten unseres heutigen akademischen Betriebs, dass der Kontakt zu Forschenden mit der Entfernung an Wert zunimmt.
+
+00:36:40.001 --> 00:36:47.600
+<v peterpurgathofer>Also wenn ich sagen kann, ich habe einen Kollegen in Stanford, mit dem ich ein Projekt mache, dann kriegen alle große Augen
+
+00:36:47.601 --> 00:36:57.300
+<v peterpurgathofer>und wenn jemand sagt, ich arbeite mit dem Kollegen eine Tür weiter zusammen an einem unglaublich tollen Projekt, dann gähnen sie.
+
+00:36:57.301 --> 00:36:59.400
+<v timpritlove>Obwohl das eigentlich viel reizvoller ist, weil es halt interdisziplinär ist.
+
+00:36:59.401 --> 00:37:04.800
+<v peterpurgathofer>Ja, also es gibt da so eine Art von Uncanny Valley innerhalb der Universität.
+
+00:37:04.801 --> 00:37:10.300
+<v peterpurgathofer>Das ist ein bisschen verpönt, hier zu viele Kooperationen zu machen.
+
+00:37:10.301 --> 00:37:12.600
+<v peterpurgathofer>Ich weiß auch nicht warum, es ist wirklich absurd.
+
+00:37:12.601 --> 00:37:17.500
+<v peterpurgathofer>Aber natürlich haben wir gute Kolleginnen und Kollegen an der Uni Wien.
+
+00:37:17.501 --> 00:37:27.200
+<v peterpurgathofer>Wir haben Leute an der Med-Uni, also wir haben Kooperationen quer durch die Disziplinen.
+
+00:37:27.201 --> 00:37:31.600
+<v timpritlove>Dieser Kurs ist jetzt aufgeteilt in so zehn Gruppen.
+
+00:37:31.601 --> 00:37:41.800
+<v timpritlove>Ich zähle das mal kurz auf, weil ich finde das allein von seiner Struktur her schon ganz bemerkenswert, also diese zehn Wege des Denkens, des Thinkings,
+
+00:37:41.801 --> 00:37:47.100
+<v timpritlove>ich habe jetzt hier nur die englische Liste, ich weiß gar nicht, wie es immer konkret eingedeutscht wurde.
+
+00:37:47.101 --> 00:37:47.900
+<v timpritlove>Pre-scientific Thinking haben wir schon kurz angerissen.
+
+00:37:47.901 --> 00:37:58.900
+<v timpritlove>Scientific Thinking, Mathematical Thinking, Computational Thinking, soweit klingt das alles noch sehr klassisch und informatisch,
+
+00:37:58.901 --> 00:38:10.700
+<v timpritlove>geht dann aber weiter mit Design Thinking, Critical Thinking, Creative Letteral Thinking, Responsable Thinking, Economical Thinking und Überraschung, Criminal Thinking.
+
+00:38:10.701 --> 00:38:19.400
+<v timpritlove>Vielleicht können wir da mal so durchmarschieren, weil mich würde mal das interessieren, was da eigentlich so dahintersteckt, auch vielleicht, also nicht nur in der Struktur,
+
+00:38:19.401 --> 00:38:23.200
+<v timpritlove>sondern auch in der Reihenfolge.
+
+00:38:23.201 --> 00:38:31.600
+<v timpritlove>Also es fängt mit dem Pre-scientific Thinking an, sprich, es wird zunächst einmal vermittelt, wie gedacht wurde, bevor es die wissenschaftliche Methode gab?
+
+00:38:31.601 --> 00:38:33.700
+<v peterpurgathofer>Also vielleicht Vorbemerkung.
+
+00:38:33.701 --> 00:38:34.400
+<v timpritlove>Ja.
+
+00:38:34.401 --> 00:38:42.700
+<v peterpurgathofer>Wir sagen immer, es ist neun plus eins, Pre-scientific Thinking ist nichts, das wir als ein aktives Werkzeug der Auseinandersetzung mit der Welt vermitteln wollen.
+
+00:38:42.701 --> 00:38:45.800
+<v timpritlove>Ja, aber man muss es ja mal kennenlernen, weil quasi Geschichte ist immer Teil davon.
+
+00:38:45.801 --> 00:38:55.800
+<v peterpurgathofer>Genau. Und man könnte es natürlich rechtfertigen als die ersten 15 Minuten Scientific Thinking, aber wenn man beginnt, sich damit auseinanderzusetzen,
+
+00:38:55.801 --> 00:39:02.400
+<v peterpurgathofer>dann findet man dort drinnen Dinge, die wirklich gewaltig an die heutige Zeit erinnern.
+
+00:39:02.401 --> 00:39:13.300
+<v peterpurgathofer>Also beispielsweise, also wir haben ja dieses populär kulturell vermittelte Bild von Alchemie als die Suche nach dem Stein der Weisen, der jedes Material in Gold verwandelt
+
+00:39:13.301 --> 00:39:27.500
+<v peterpurgathofer>oder meinetwegen Blei in Gold verwandelt, aber in Wirklichkeit war ein guter Teil der Alchimisten so was wie Pharmazeuten und Chemiker nur vor der Wissenschaft.
+
+00:39:27.501 --> 00:39:34.100
+<v peterpurgathofer>Und viele davon haben redlich und anständig gearbeitet und haben ganz erstaunliche Dinge hervorgebracht.
+
+00:39:34.101 --> 00:39:43.900
+<v peterpurgathofer>Porzellan ist eine Erfindung oder sagen wir eine Rekonstruktion einer asiatischen Erfindung aus der vorwissenschaftlichen Zeit.
+
+00:39:43.901 --> 00:39:54.000
+<v peterpurgathofer>Schießpulver ist aus der vorwissenschaftlichen Zeit, also da gab es Dinge, die hier passiert und entwickelt sind, ohne dass wir dieses ausgeklügelte System von
+
+00:39:54.001 --> 00:39:56.700
+<v peterpurgathofer>Standing on the Shoulders of Giants und all das hatten.
+
+00:39:56.701 --> 00:40:02.200
+<v peterpurgathofer>Kepler, Newton, die haben sich alle als Alchemisten verstanden.
+
+00:40:02.201 --> 00:40:14.000
+<v peterpurgathofer>Also wenn man die Beschreibung der Gravitationsgesetze durch Newton liest, dann findet man alchemische Beschreibungsstrukturen und -muster.
+
+00:40:14.001 --> 00:40:26.500
+<v peterpurgathofer>Also das war nicht alles nur Wahnsinn und Glauben an außerweltliche Einflüsse und Wesen oder so was, sondern da steckt schon Methode drin.
+
+00:40:26.501 --> 00:40:35.200
+<v peterpurgathofer>Aber warum haben die es nicht geschafft, diese Umwälzung des Wissens zu schaffen, die 100-150 Jahre später passiert ist?
+
+00:40:35.201 --> 00:40:40.000
+<v peterpurgathofer>Und ein wesentlicher Punkt war, dass es dieses Offenheitsgrundprinzip nicht gab.
+
+00:40:40.001 --> 00:40:41.700
+<v peterpurgathofer>Also man hat nicht darüber gesprochen.
+
+00:40:41.701 --> 00:40:51.900
+<v peterpurgathofer>Ein Alchemist hatte seine Adepten und die waren eingeschworen auf Geheimhaltung, sie waren ja auch bezahlt von Großbürgertum oder Adel
+
+00:40:51.901 --> 00:40:55.400
+<v peterpurgathofer>zu deren entweder Unterhaltung oder Bereicherung.
+
+00:40:55.401 --> 00:41:06.300
+<v peterpurgathofer>Also wenn man die Geschichte des Porzellans in Europa nachverfolgt, da hat der Edmund de Waal ein großartiges Buch geschrieben, der Titel fällt mir gerade nicht ein,
+
+00:41:06.301 --> 00:41:26.300
+<v peterpurgathofer>das heißt vielleicht "die weiße Straße", wo er das nachvollzieht, wie das passiert ist, dass dieses Porzellan hier als etwas, was als Artefakt aus Asien gekommen ist, nachgemacht wurde.
+
+00:41:26.301 --> 00:41:35.000
+<v peterpurgathofer>Und da haben sich die Adeligen gegenseitig die Alchemisten entführt und eingekerkert.
+
+00:41:35.001 --> 00:41:41.200
+<v peterpurgathofer>Und hier kommen wir schon dazu, dass man überraschende Parallelen finden kann, wenn man darüber nachdenkt, dass es gewisse Wissenschaftsfelder gibt,
+
+00:41:41.201 --> 00:41:50.500
+<v peterpurgathofer>wir haben über Machinelearning schon geredet oder AI, wo vielleicht nicht entführt und eingekerkert, aber abgeworben wird.
+
+00:41:50.501 --> 00:42:00.400
+<v peterpurgathofer>Und wir hatten schon Leute, die sich nach Academia beworben haben, weil sie gesagt haben, dort wo sie jetzt arbeiten dürfen sie nicht publizieren und sie finden das schrecklich.
+
+00:42:00.401 --> 00:42:09.700
+<v peterpurgathofer>Alles, was sie schreiben und publizieren, muss durch drei Abteilungen, die prüfen, ob hier Firmengeheimnisse oder Unique Proporsitions, was weiß ich, verraten werden.
+
+00:42:09.701 --> 00:42:13.800
+<v peterpurgathofer>Und das, was dann am Schluss als Paper rauskommt, ist eigentlich nicht mehr interessant.
+
+00:42:13.801 --> 00:42:24.500
+<v peterpurgathofer>Also wir haben eine Situation, wo sich in manchen Bereichen der Wissenschaft solche alchemischen Ecken der wechselseitigen Geheimhaltung ergeben haben
+
+00:42:24.501 --> 00:42:32.800
+<v peterpurgathofer>und wer weiß wie weit wir wären in der AI heute, wenn nicht zehn Firmen auf allen großen AI-Forschern der Welt sitzen würden.
+
+00:42:32.801 --> 00:42:42.400
+<v peterpurgathofer>Tatsächlich kann ich sagen, es ist enorm schwer geworden, in diesem Bereich jemand akademisch zu berufen, der wirkliche Qualitäten hat, weil die Firmen zahlen das zehnfache,
+
+00:42:42.401 --> 00:42:47.300
+<v peterpurgathofer>wenn man gut ist und der Versuchung ist schwer zu widerstehen.
+
+00:42:47.301 --> 00:42:56.500
+<v peterpurgathofer>Und da finde ich es spannend, wenn man sich ein bisschen in dieses alchemische Ding hineinversetzt, dann auch zu sehen, dass das bedeutet, dass alle dieselben Fehler immer wieder machen müssen.
+
+00:42:56.501 --> 00:43:00.000
+<v peterpurgathofer>Weil man nicht voneinander lernen kann.
+
+00:43:00.001 --> 00:43:05.100
+<v peterpurgathofer>Dass oft das Wissen in kodierter Form niedergeschrieben wurde.
+
+00:43:05.101 --> 00:43:12.500
+<v peterpurgathofer>Wir wissen alle, Leonardo hat seine Sachen in Geheimschrift, in Spiegelgeheimschrift aufgeschrieben und heute verschlüsseln wir unsere Festplatten, damit nur ja nichts.
+
+00:43:12.501 --> 00:43:20.900
+<v peterpurgathofer>Also da gibt es so viele Parallelen zwischen der kommerzialisierten Forschung und der zunehmend kommerzialisierten Forschung in manchen Bereichen der Informatik,
+
+00:43:20.901 --> 00:43:24.200
+<v peterpurgathofer>und der alchemischen Zeit, dass es geht scarry ist.
+
+00:43:24.201 --> 00:43:26.200
+<v peterpurgathofer>Der Schutz von Erfindungen durch Patent.
+
+00:43:26.201 --> 00:43:35.200
+<v peterpurgathofer>Ich finde, akademisches Patentieren gehört zu den schlimmsten Dingen, die uns an Universitäten je eingefallen sind und die der Staat je erlaubt hat.
+
+00:43:35.201 --> 00:43:48.400
+<v peterpurgathofer>Und patentieren ist eine Form des systematischen Geheimhaltens oder des systematischen Schutzes vor voneinander Lernen und daher ist es eine ganz schreckliche Idee.
+
+00:43:48.401 --> 00:43:54.700
+<v peterpurgathofer>Aber es ist irgendwie wie bei den Alchemisten.
+
+00:43:54.701 --> 00:44:03.600
+<v timpritlove>Kommen wir zu Teil zwei, was ja das Überkommen dieser Zeit repräsentieren soll, also das Scientific Thinking.
+
+00:44:03.601 --> 00:44:12.600
+<v timpritlove>Das lässt sich ja mehr oder weniger jetzt aus dem Gesagten auch schon ableiten, die wissenschaftliche Methode, aber es geht nicht darum, das zu glorifizieren, nehme ich mal an.
+
+00:44:12.601 --> 00:44:13.600
+<v peterpurgathofer>Überhaupt nicht.
+
+00:44:13.601 --> 00:44:19.200
+<v peterpurgathofer>Vielleicht sage ich jetzt zum Übergang dazu, wenn wir haben immer versucht kleine Brücken zu bauen zwischen den verschiedenen Kapiteln
+
+00:44:19.201 --> 00:44:25.500
+<v peterpurgathofer>und die Brücke zwischen vorwissenschaftlich und wissenschaftlichen Denken ist, dass man tatsächlich zeigen kann, dass die Spätalchemisten,
+
+00:44:25.501 --> 00:44:34.500
+<v peterpurgathofer>nennen wir sie mal so, sich gegen diesen Geheimhaltungsdrang gewehrt haben und gefordert haben, dass sie miteinander reden können.
+
+00:44:34.501 --> 00:44:38.100
+<v peterpurgathofer>Vielleicht sage ich noch ein ganz kleines Bonmot aus der Alchemie.
+
+00:44:38.101 --> 00:44:49.500
+<v peterpurgathofer>Die Tatsache, dass wir bis heute streiten, ob Newton oder Leibniz die Differenzialrechnung als erstes beschrieben hat, kommt genau deswegen, weil das alles geheim war.
+
+00:44:49.501 --> 00:44:57.300
+<v peterpurgathofer>Und der Leibniz war einer, der es hingeschrieben hat und der Newton war jemand, der es nur geheim hingeschrieben und ins Regal gelegt hat, damit es nur ja niemand sieht.
+
+00:44:57.301 --> 00:45:01.300
+<v peterpurgathofer>Und heute wird behauptet, Newton hat es zuerst aufgeschrieben und ins Regal gelegt.
+
+00:45:01.301 --> 00:45:14.300
+<v peterpurgathofer>Leibniz hat es später geschrieben und veröffentlicht, also der Konflikt kommt genau aus dieser idiotischen niemand darf wissen was ich mache.
+
+00:45:14.301 --> 00:45:27.700
+<v peterpurgathofer>Und jetzt kann man sehen, dass die ersten wissenschaftlichen Gesellschaften in England, in Frankreich fordern, dass die Wissenschaft, Wissenschaftstreibende
+
+00:45:27.701 --> 00:45:31.600
+<v peterpurgathofer>untereinander Austausch pflegen dürfen, weil sie wissen, dass sie dadurch weiterkommen.
+
+00:45:31.601 --> 00:45:38.300
+<v peterpurgathofer>Da kommt natürlich dazu, dass man dann plötzlich auch drauf kommt, was sind tragbare …
+
+00:45:38.301 --> 00:45:44.900
+<v peterpurgathofer>also dass, wenn man sich austauscht, dass man Methoden braucht, wo alle dasselbe machen können und dann kommt auch dasselbe heraus.
+
+00:45:44.901 --> 00:45:56.700
+<v peterpurgathofer>Weil wenn man darauf beruht, dass man das an diesem einen Teich macht wegen der Strahlung dort, dann ist das nichts nachvollziehbares,
+
+00:45:56.701 --> 00:46:04.300
+<v peterpurgathofer>aber es gibt eben Dinge, die nachvollziehbar sind und auf die Art und Weise kommt also aus diesem wir wollen miteinander reden folgt eigentlich alles andere logisch.
+
+00:46:04.301 --> 00:46:07.000
+<v timpritlove>Standards, Maßeinheiten.
+
+00:46:07.001 --> 00:46:19.300
+<v peterpurgathofer>Ja genau, Maßeinheiten, aber auch die Aberkennung des Subjektiven als etwas relevantes in der Wissenschaft.
+
+00:46:19.301 --> 00:46:27.100
+<v peterpurgathofer>Wenn ich etwas beobachte, dann heißt das gar nichts, das muss messbar sein, sonst ist es nicht da.
+
+00:46:27.101 --> 00:46:40.500
+<v peterpurgathofer>Aus dem heraus kann man dann zeigen, wie also Inquiry, ich sage es jetzt auch auf Englisch, als eine Form der Befragung der Welt sich als eine Methode herausstellt,
+
+00:46:40.501 --> 00:46:50.800
+<v peterpurgathofer>die also über das traditionelle, also die in der traditionellen Wissenschaft nicht Experiment mit der These und dem Experiment und dann Bestätigung oder Widerlegung drinnen,
+
+00:46:50.801 --> 00:46:59.100
+<v peterpurgathofer>ist aber auch in anderen Formen wissenschaftlichen Arbeitens vorkommt, zum Beispiel im Design-Based Research ist die Inquiry Genau so ein wichtiger Punkt,
+
+00:46:59.101 --> 00:47:05.300
+<v peterpurgathofer>nur unter anderen Rahmenbedingungen.
+
+00:47:05.301 --> 00:47:10.600
+<v timpritlove>Das ist der Übergang sozusagen zum Scientific Thinking.
+
+00:47:10.601 --> 00:47:18.000
+<v timpritlove>Also es geht letztlich natürlich darum, auch diese Methode mal zu verinnerlichen, weil ich denke, das ist jetzt auch nicht unbedingt jetzt jedem klar, der in die Informatik reimgeschwappt kommt.
+
+00:47:18.001 --> 00:47:30.500
+<v peterpurgathofer>Ja, und auch anzuerkennen, dass wissenschaftliche, also auch zu erkennen, dass wissenschaftliche Erkenntnisse nichts anderes sind als wissenschaftliche Erkenntnisse,
+
+00:47:30.501 --> 00:47:37.200
+<v peterpurgathofer>deswegen auch keine Wahrheiten, sondern etwas, von dem man jetzt eben meint, dass es so ist, bis es widerlegt ist.
+
+00:47:37.201 --> 00:47:44.200
+<v peterpurgathofer>Aber es gibt eben so viel Bestätigung, dass wir uns darauf geeinigt haben, dass es jetzt so ist.
+
+00:47:44.201 --> 00:48:00.400
+<v peterpurgathofer>Und dass auch diese wissenschaftliche Sichtweise auf die Welt nicht alle Aspekte unseres Daseins und unseres Lebens abdecken kann, weil es da Unbestimmtheit gibt,
+
+00:48:00.401 --> 00:48:09.900
+<v peterpurgathofer>weil es da Unsicherheiten gibt, die weit über das hinausgehen, was man durch diese traditionelle wissenschaftliche Sichtweise eingrenzen kann.
+
+00:48:09.901 --> 00:48:15.200
+<v timpritlove>Was ist dann die Brücke zum mathematischen Denken?
+
+00:48:15.201 --> 00:48:18.900
+<v timpritlove>Dem dritten Teil?
+
+00:48:18.901 --> 00:48:28.400
+<v peterpurgathofer>Der Woody Allen hat klassisch gesagt, ich möchte keinem Club angehören, der mich als Mitglied nimmt.
+
+00:48:28.401 --> 00:48:28.600
+<v timpritlove>/lacht/
+
+00:48:28.601 --> 00:48:31.200
+<v peterpurgathofer>Kennen wir alle.
+
+00:48:31.201 --> 00:48:31.900
+<v timpritlove>Ja.
+
+00:48:31.901 --> 00:48:43.100
+<v peterpurgathofer>Und wenn man in der Mathematik zurückschaut, dann findet man genau dieselbe Aussage mathematisch formuliert, es kann keine Menge geben, die alle Mengen beinhaltet,
+
+00:48:43.101 --> 00:48:50.200
+<v peterpurgathofer>die sich selber als Teilmengen haben oder so ähnlich.
+
+00:48:50.201 --> 00:48:54.000
+<v timpritlove>Das klang jetzt auf jeden Fall schlau genug.
+
+00:48:54.001 --> 00:49:06.100
+<v peterpurgathofer>Ja. Also das war so ungefähr die Geburtsstunde der modernen Mathematik, wer war denn das, jetzt kommt der Punkt, wo ich nicht mehr weiß, wer was gesagt hat,
+
+00:49:06.101 --> 00:49:14.500
+<v peterpurgathofer>Bertrand Russel, der hat das formuliert dieses Paradox einer Menge, die es nicht geben kann durch die Art wie sie definiert ist.
+
+00:49:14.501 --> 00:49:23.000
+<v peterpurgathofer>Und die Mathematik damals, die das Gefühl hatte, sie kann alles beschreiben, sie kann die gesamte Welt beschreibe.
+
+00:49:23.001 --> 00:49:29.100
+<v peterpurgathofer>Und wir werden an einem Punkt ankommen, wo wir eine Formel haben, die riesig und komplex ist, aber die alles beschreibt, was jemals passieren kann,
+
+00:49:29.101 --> 00:49:39.800
+<v peterpurgathofer>was ja dann auch sehr zum Unwohlsein vieler diese Frage der Unsicherheit und des freien Willens plötzlich gestellt hat.
+
+00:49:39.801 --> 00:49:55.800
+<v peterpurgathofer>Und dann ist Mathematik entstanden als etwas, was nicht dazu da war, rechnerisch zu Ergebnissen zu kommen, sondern sich mathematisch mit der Welt auseinanderzusetzen.
+
+00:49:55.801 --> 00:50:06.400
+<v peterpurgathofer>Und natürlich hat die Mathematik ihre eigenen Fragestellungen Probleme, die sich genau in diesem Paradox von Bertrand Russel schön sichtbar machen.
+
+00:50:06.401 --> 00:50:19.000
+<v peterpurgathofer>Aber als Werkzeug, als diese Brille, die wir der Mathematik aufsetzen, bekommen wir mit der Mathematik vor allem einen Benefit und das ist, dass wir beweisen können,
+
+00:50:19.001 --> 00:50:23.400
+<v peterpurgathofer>dass etwas tatsächlich stimmt.
+
+00:50:23.401 --> 00:50:30.200
+<v peterpurgathofer>Drum war es auch wichtig, in der Wissenschaft zu sehen, dass ein Experiment, das gelingt, kein Beweis ist dafür, dass etwas auf eine bestimmte Art ist,
+
+00:50:30.201 --> 00:50:35.200
+<v peterpurgathofer>sondern nur ein Experiment, das misslingt, ein Beweis dafür ist, dass es so nicht sein kann.
+
+00:50:35.201 --> 00:50:42.000
+<v peterpurgathofer>Aber wenn wir etwas mathematisch beschreiben, dann können wir unter Umständen bestimmte Dinge beweisen.
+
+00:50:42.001 --> 00:50:48.900
+<v peterpurgathofer>Wenn wir einen mathematischen Satz haben, können wir damit so lange herumspielen, bis unten drunter steht, der stimmt oder der ist falsch.
+
+00:50:48.901 --> 00:50:56.600
+<v peterpurgathofer>Und in der Verifizierung in der Informatik spielt das eine ganz große Rolle.
+
+00:50:56.601 --> 00:51:02.900
+<v peterpurgathofer>Die Verifizierung sind mathematische Methoden, wo wir zeigen wollen, dass ein Stück Code das tut, was behauptet wird, das es tut.
+
+00:51:02.901 --> 00:51:07.200
+<v peterpurgathofer>Und wenn man das gut macht, kann man das zeigen.
+
+00:51:07.201 --> 00:51:15.400
+<v peterpurgathofer>Wenn die technischen Informatiker bei uns kleine Schaltungen bauen, die bestimmte Steuerungsaufgaben übernehmen, dann ist es denen ganz wichtig, dass sie bewiesen haben,
+
+00:51:15.401 --> 00:51:19.400
+<v peterpurgathofer>dass diese Schaltung das auch tatsächlich tut.
+
+00:51:19.401 --> 00:51:23.100
+<v peterpurgathofer>Und es gibt kein anderes Werkzeug als die Mathematik, um etwas zu beweisen.
+
+00:51:23.101 --> 00:51:35.500
+<v peterpurgathofer>Der Preis, den man dafür bezahlt, ist, dass wir nur einen winzig kleinen Teil der Wirklichkeit tatsächlich mit Mathematik beschreiben können
+
+00:51:35.501 --> 00:51:38.800
+<v peterpurgathofer>und dass wir daher auch ganz winzige Teile der Welt nur beweisen können.
+
+00:51:38.801 --> 00:51:51.800
+<v peterpurgathofer>Also das war früher oder später dann die Einsicht, dass diese Vorstellung davon, dass wir die gesamte Welt mathematisch abbilden können und daher berechnen können, dass die nicht standhält.
+
+00:51:51.801 --> 00:52:03.200
+<v peterpurgathofer>Dass die Welt aus vielen Dingen besteht, die sich einer Berechnung entziehen, einer Berechenbarkeit entziehen und daher auch diesen schönen Vorteil der Mathematik etwas zu beweisen.
+
+00:52:03.201 --> 00:52:12.200
+<v timpritlove>Also die Moral der Geschichte hier ist sehr wertvoll, aber auch nicht das Mittel, um alles beweisen zu können.
+
+00:52:12.201 --> 00:52:25.800
+<v peterpurgathofer>Naja, wie schon jede dieser Brillen auch sein wird, ein wunderbares Werkzeug für einen bestimmten Teil, aber damit noch nicht das allumfassende richtige Werkzeug für alles.
+
+00:52:25.801 --> 00:52:37.800
+<v peterpurgathofer>Also es gibt Ecken in der Mathematik, wir verstehen unsere Lehrveranstaltung auch ein bisschen als eine Art von, wir helfen euch dabei, im Kopf Regale zu bauen,
+
+00:52:37.801 --> 00:52:43.200
+<v peterpurgathofer>wo ihr das, was später im Studium kommt, schon an die richtigen Stellen legen könnt.
+
+00:52:43.201 --> 00:52:49.600
+<v peterpurgathofer>Und diese Erklärung der Mathematik als diese eine …
+
+00:52:49.601 --> 00:52:58.200
+<v peterpurgathofer>Es gibt ja auch den Teil der Mathematik der Rechnen ist, diese ganzen Matrizengeschichten und in der grafischen Datenverarbeitung ganz wichtig und so,
+
+00:52:58.201 --> 00:53:03.400
+<v peterpurgathofer>aber es gibt einen großen Teil der Informatik, der die Mathematik genau wegen dieser Beweisbarkeit schätzt.
+
+00:53:03.401 --> 00:53:08.600
+<v peterpurgathofer>Und das ist der Grund dafür, warum wir so viel Algebra in der Mathematik im Studium haben.
+
+00:53:08.601 --> 00:53:21.300
+<v peterpurgathofer>Warum die Studierenden gerade am Beginn des Studiums Stunden und Stunden damit verbringen Beweise zu führen und Mathematik zu lernen für Prüfungen und Tests und so weiter.
+
+00:53:21.301 --> 00:53:24.400
+<v peterpurgathofer>Und dieser Teil soll das ein bisschen erklären, warum das wichtig ist.
+
+00:53:24.401 --> 00:53:29.200
+<v timpritlove>Und dabei helfen sozusagen, diese schwierige Phase auch zu übergehen.
+
+00:53:29.201 --> 00:53:37.500
+<v timpritlove>Weil ich kenne eine Menge Leute, deren Auseinandersetzung mit Informatik an der Stelle dann eigentlich auch schon beendet war, weil sie sich dachten, nein ich will eigentlich nur programmieren.
+
+00:53:37.501 --> 00:53:41.400
+<v peterpurgathofer>Ja genau, aber das ist wie mit dem Rechnen und der Mathematik.
+
+00:53:41.401 --> 00:53:44.400
+<v peterpurgathofer>Wenn jemand nur rechnen will, soll man nicht Mathematik studieren.
+
+00:53:44.401 --> 00:53:47.800
+<v peterpurgathofer>Wenn man nur programmieren will, ist Informatik auch nicht das richtige
+
+00:53:47.801 --> 00:53:48.600
+<v timpritlove>Braucht man das auch nicht.
+
+00:53:48.601 --> 00:53:56.400
+<v peterpurgathofer>Aber es ist ein bisschen sinnstiftend und ich glaube, dieses sinnstiftende Element ist das, was ich als dieses Regalbauen im Kopf bezeichne,
+
+00:53:56.401 --> 00:54:06.800
+<v peterpurgathofer>wo wir versuchen den Leuten Strukturen mitzugeben, die ihnen dann helfen selber etwas nachzuliefern, was die Lehre oft nicht kann, nämlich zu erklären, warum das da ist
+
+00:54:06.801 --> 00:54:10.600
+<v peterpurgathofer>und wo die Stärken und Grenzen davon sind.
+
+00:54:10.601 --> 00:54:23.600
+<v timpritlove>Das nächste Regal dürfte dann relativ groß sein, Computational Thinking scheint ja alles zu repräsentieren, wofür eigentlich die Informatik steht.
+
+00:54:23.601 --> 00:54:33.400
+<v peterpurgathofer>Das ist ja der Grund, warum das alles in Englisch ist, weil mit dem Computationalem Denken und diesem Stolperstein dem sprachlichen habe ich keine Lust mich ständig auseinanderzusetzen.
+
+00:54:33.401 --> 00:54:39.700
+<v peterpurgathofer>Und drum heißen auch in der deutschen Versionen alle Denkweisen mit ihrem englischen Namen, weil wir …
+
+00:54:39.701 --> 00:54:46.300
+<v peterpurgathofer>Wissenschaftliches Denken ist einfach, aber computationales Denken das tut ja dem Mikrofon schon fast weh, ich sehe, wie es ausschlägt.
+
+00:54:46.301 --> 00:54:50.900
+<v timpritlove>Auch mit rechnerisch oder so, dann ist man gleich wieder bei der Mathematik.
+
+00:54:50.901 --> 00:54:53.000
+<v peterpurgathofer>Nein, nein, das ist ja ein relativ neuer Begriff.
+
+00:54:53.001 --> 00:54:58.600
+<v peterpurgathofer>Die Jeannette Wing hat den vor, ich weiß nicht, 15 Jahren beschrieben oder so.
+
+00:54:58.601 --> 00:55:06.400
+<v peterpurgathofer>Und ich glaube aber, dass da etwas dahinter steckt, was man eigentlich schon … nein, wie soll ich sagen.
+
+00:55:06.401 --> 00:55:11.800
+<v peterpurgathofer>Was man sich intuitiv erarbeitet, aber noch nicht bewusst reflektiert hat, wenn man viel programmiert hat.
+
+00:55:11.801 --> 00:55:21.000
+<v peterpurgathofer>Und das ist das, weil man weiß, dass man einen Computer hat, um ein Problem zu lösen, dass man dann andere Lösungsmöglichkeiten sieht.
+
+00:55:21.001 --> 00:55:23.000
+<v timpritlove>Andere als was?
+
+00:55:23.001 --> 00:55:27.100
+<v peterpurgathofer>Andere als jemand, der keinen Computer zur Verfügung hat.
+
+00:55:27.101 --> 00:55:29.700
+<v peterpurgathofer>Nehmen wir die Gensequenzierung.
+
+00:55:29.701 --> 00:55:35.200
+<v peterpurgathofer>Irgendwann einmal hat jemand ein Gensequenzierungsverfahren entwickelt.
+
+00:55:35.201 --> 00:55:45.200
+<v peterpurgathofer>Also man kann Genstränge nur kurze Stücke sequenziellen, an irgendwelchen technischen Grenzen liegt das, an irgendwelchen Einschränkungen des Equipments,
+
+00:55:45.201 --> 00:55:52.400
+<v peterpurgathofer>und irgendjemand hat dann folgendes Verfahren entwickelt, man nimmt tausend Genstränge von dem was man sequenziellen will und man zerstückelt mal die in so kleine Stücke,
+
+00:55:52.401 --> 00:55:58.600
+<v peterpurgathofer>dass man die einzelnen Stücke sequenzieren kann, die sind alle ungleich lang, aber kurz.
+
+00:55:58.601 --> 00:56:03.200
+<v peterpurgathofer>Und dann hat man, was weiß ich, tausend Genstränge zu je tausend Stücke, es sind also eine Million Stücke und die sequenziert man dann.
+
+00:56:03.201 --> 00:56:07.900
+<v peterpurgathofer>Und dann hat man die Sequenzen von einer Million unterschiedlich langen Stücken.
+
+00:56:07.901 --> 00:56:15.300
+<v peterpurgathofer>Und wenn man jetzt anfängt die Überschneidungen zu finden rechnerisch, dann kann man rekonstruieren, wie das ursprüngliche Gen ausgeschaut hat.
+
+00:56:15.301 --> 00:56:24.700
+<v peterpurgathofer>Und diese Idee, das so zu machen, die hat man nicht, wenn man weiß, man muss das am Papier machen, sondern die hat man nur, wenn man weiß, das gebe ich dann in den Computer
+
+00:56:24.701 --> 00:56:31.400
+<v peterpurgathofer>und der schreibt mir da der Karl oder die Eva schreiben mir einen Code und die macht das dann und dann kommt man auf so eine Idee.
+
+00:56:31.401 --> 00:56:34.100
+<v peterpurgathofer>Und das ist Computational Thinking.
+
+00:56:34.101 --> 00:56:47.100
+<v peterpurgathofer>Und ich finde das eine herrliche Idee, weil das eine Idee ist, die zeigt, wie unser Denken oder das durch unsere Technologien vermittelt gemachte oder möglich gemachte Denken
+
+00:56:47.101 --> 00:56:50.000
+<v peterpurgathofer>in alle anderen Disziplinen gewandert ist und dort alles ändert.
+
+00:56:50.001 --> 00:57:00.200
+<v timpritlove>Fällt mir auch als Beispiel gerade die recht neue Geschichte der Beobachtung des schwarzen Loches, das erste Foto des schwarzen Loches, wo man sozusagen ein nicht sichtbares Bild sich errechnet hat
+
+00:57:00.201 --> 00:57:12.300
+<v timpritlove>und dann durch Computational Methods sozusagen alles ausprobiert hat, was jetzt hier noch wahrscheinlich sein kann, um letzten Endes ein Bild zu erzeugen, was so eigentlich erst mal aus den Daten gar nicht herauslesbar war.
+
+00:57:12.301 --> 00:57:18.000
+<v peterpurgathofer>Absolut ganz genau, also das ist Computational Thinking, wir haben Computer und plötzlich beginnen wir Probleme anders zu lösen.
+
+00:57:18.001 --> 00:57:24.000
+<v peterpurgathofer>Und das machen gerade alle überall in allen Wissenschaftsbereichen passieren zum Teil …
+
+00:57:24.001 --> 00:57:33.900
+<v peterpurgathofer>Zum Beispiel Astronomie, schwarzes Loch Bild, umwälzende Dinge, weil man beginnt zu verstehen, was man mit dem Computer so machen kann.
+
+00:57:33.901 --> 00:57:43.800
+<v peterpurgathofer>Und du nickst ganz bedächtig, und das ist genau der Punkt, wo man dann zu verstehen beginnt, was für eine zentrale Wissenschaft Informatik plötzlich wird
+
+00:57:43.801 --> 00:57:51.500
+<v peterpurgathofer>und warum es wichtig ist, dass wir zumindest selber verstehen, wie das mit dem Coden funktioniert, was wir ja überhaupt nicht tun.
+
+00:57:51.501 --> 00:57:55.800
+<v peterpurgathofer>Wir haben ja eigentlich keine Ahnung, wie man komplexe Systeme entwickelt.
+
+00:57:55.801 --> 00:58:12.400
+<v peterpurgathofer>Das ist ein anderer Aspekt von Computational Thinking, dass wir noch nirgendwo in der Nähe sind, wo wir auch annähernd nur komplexe Systeme wirklich systematisch und geordnet entwickeln können.
+
+00:58:12.401 --> 00:58:20.000
+<v peterpurgathofer>Die großen Herausforderungen, ich sage jetzt einmal, unseres Handwerks des Codens, sind irgendwie noch ungelöst.
+
+00:58:20.001 --> 00:58:23.000
+<v peterpurgathofer>Und das ist natürlich auch eine Frage an die Wissenschaft.
+
+00:58:23.001 --> 00:58:24.200
+<v timpritlove>Das Programmierens als solchem?
+
+00:58:24.201 --> 00:58:31.600
+<v peterpurgathofer>Genau, also nicht das kleine Programmieren, ich setze mich hin und schreibe ein Stück Code und dann verbessere ich es und dann irgendwann finde ich die letzten Fehler oder so,
+
+00:58:31.601 --> 00:58:42.300
+<v peterpurgathofer>von denen wir wissen, dass es sie nie gibt, sondern diese vier Millionen Lines of Code Systeme, wo wir absolut sicher sind und wissen, dass die nie fehlerfrei sein werden,
+
+00:58:42.301 --> 00:58:52.900
+<v peterpurgathofer>was zu einem guten Teil damit zusammenhängt, dass wir eigentlich nicht wissen, wie man systematisch und strukturiert an etwas herangeht, was am Schluss vier Millionen Lines of Code haben wird.
+
+00:58:52.901 --> 00:58:55.800
+<v peterpurgathofer>Da kommt dazu, wie lernen wir eigentlich programmieren?
+
+00:58:55.801 --> 00:59:09.900
+<v peterpurgathofer>Das ist für die erstsemestrigen immer ganz auch wieder so ein bisschen ein sinnstiftendes Ding, wenn man noch nicht programmieren kann, wie lernt man das denn eigentlich?
+
+00:59:09.901 --> 00:59:17.700
+<v peterpurgathofer>Da gibt es ein paar Leute, die sich da auf so kognitiv-psychologischer Ebene damit auseinandergesetzt haben.
+
+00:59:17.701 --> 00:59:27.700
+<v peterpurgathofer>Wenn du dich erinnerst an Logo, Seymour Papert und da gibt es Leute, die haben weiter gemacht und haben diese Cognitive Stages of Learning how to Program beschrieben,
+
+00:59:27.701 --> 00:59:40.300
+<v peterpurgathofer>das ist ein Teil von diesem Kapitel, um auch ein bisschen, wir finden ja riesig Unterschiede im Vorwissen bei unseren Erstsemestrigen.
+
+00:59:40.301 --> 00:59:51.000
+<v peterpurgathofer>Also wir haben Leute, die noch nie ernsthaft programmiert haben und wir haben Leute, die seit sie vier sind ernsthaft programmiert haben und nichts anderes mehr getan haben.
+
+00:59:51.001 --> 00:59:54.600
+<v peterpurgathofer>Das sind so die Ausläufer der Gauß-Kurve.
+
+00:59:54.601 --> 01:00:03.500
+<v peterpurgathofer>Und wir haben aber auch Leute, die, obwohl sie irrsinnig lang programmieren, dieselben Fehler noch immer machen.
+
+01:00:03.501 --> 01:00:12.900
+<v peterpurgathofer>Und wir haben auf der anderen Seite Leute, die jetzt ganz systematisch programmieren lernen und die Konzepte in ihrer Reinheit besser verstehen als die,
+
+01:00:12.901 --> 01:00:16.400
+<v peterpurgathofer>die schon lang mit dem Taschenfeitel programmiert haben quasi.
+
+01:00:16.401 --> 01:00:26.100
+<v timpritlove>Das erfordert so eine gewisse Intuition, diese Konzepte wirklich zu verinnerlichen, die man jetzt gar nicht mit Fleiß so ohne weiteres beantworten kann.
+
+01:00:26.101 --> 01:00:35.200
+<v peterpurgathofer>Ja, es erfordert auch zu wissen, dass man es ja am Anfang noch gar nicht verstehen kann, sondern dass man eben diese Cognitive Stages of Programming,
+
+01:00:35.201 --> 01:00:37.500
+<v peterpurgathofer>dass man zuerst einmal das und dann das und dann das versteht.
+
+01:00:37.501 --> 01:00:46.200
+<v peterpurgathofer>Und an irgendeinem Punkt, und da finde ich, dann kommen wir wieder zum Computational Thinking stärker, erkennt man dann, das Code mehr ist
+
+01:00:46.201 --> 01:00:52.000
+<v peterpurgathofer>als nur Anweisungen wie etwas auszuführen ist, sondern tatsächlich Repräsentation von Wissen.
+
+01:00:52.001 --> 01:01:00.600
+<v peterpurgathofer>Das ist etwas, was zum Beispiel die Open Source Community eigentlich schon lange weiß, codiert in die Licences, in die Lizenzen,
+
+01:01:00.601 --> 01:01:10.700
+<v peterpurgathofer>mit denen Open Source Code zur Verfügung steht, wo also klar formuliert ist, dass diese Lizenzen verhindern sollen, dass das in der Community aufgebaute Wissen
+
+01:01:10.701 --> 01:01:17.700
+<v peterpurgathofer>von jemand anderem monopolisiert oder eingesperrt wird oder missbraucht.
+
+01:01:17.701 --> 01:01:29.900
+<v peterpurgathofer>Also die Idee, dass Code ultimativ etwas ist, was Wissen repräsentiert, auf eine Art, wie wir es bisher noch nie konnten, ist irgendwie dann der Schlusspunkt des Computational Thinking.
+
+01:01:29.901 --> 01:01:42.800
+<v peterpurgathofer>Und ich glaube, auch deswegen ist die Informatik die neue Hauptwissenschaft geworden, weil es eine neue Form Wissen zu repräsentieren anbietet,
+
+01:01:42.801 --> 01:01:46.900
+<v peterpurgathofer>die die anderen nicht leisten können.
+
+01:01:46.901 --> 01:01:58.400
+<v timpritlove>Der fünfte Schritt ist dann Design Thinking und das ist ja, sagen wir mal, auch ein Trend in sich, es gibt ganze Studiengänge, die sich diesem Thema verschrieben haben,
+
+01:01:58.401 --> 01:02:08.900
+<v timpritlove>auch jenseits des informatischen, das verspricht ja auch schon immer ein wenig einen Ansatz zum Problemlösen zu sein.
+
+01:02:08.901 --> 01:02:13.400
+<v peterpurgathofer>Also die Brücke hier ist relativ leicht gebaut.
+
+01:02:13.401 --> 01:02:19.200
+<v peterpurgathofer>Man braucht nur mit Code kommen, der schlechte Lösungen anbietet.
+
+01:02:19.201 --> 01:02:23.900
+<v peterpurgathofer>Aber vielleicht ist es eigentlich, was wir hier versuchen ist so ein bisschen ein Wrap Up an der Stelle.
+
+01:02:23.901 --> 01:02:32.600
+<v peterpurgathofer>Zu sagen, wie schauen denn die generellen Problemlösungsstrategien in Wissenschaft, Mathematik und Informatik aus
+
+01:02:32.601 --> 01:02:45.300
+<v peterpurgathofer>oder in dieser Ingenieursinformatik, in diesem Computational Thinking aus und wie finden denn diese verschiedenen Denkweisen das Probleme ausschauen?
+
+01:02:45.301 --> 01:02:53.600
+<v peterpurgathofer>Die Mathematik weiß, dass Probleme, dass man eigentlich nur an mathematischen Modellen und nicht an der Wirklichkeit arbeitet
+
+01:02:53.601 --> 01:03:01.400
+<v peterpurgathofer>und dass diese mathematischen Modelle ganz viel weglassen müssen, damit sie überhaupt mathematische Modelle sein können.
+
+01:03:01.401 --> 01:03:11.500
+<v peterpurgathofer>Und die Informatik, die Ingenieursinformatik glaubt zu einem guten Teil, dass ein systematisches Herangehen an die Welt auch Wahrheiten über die Welt hervorbringt,
+
+01:03:11.501 --> 01:03:15.100
+<v peterpurgathofer>die man dazu verwenden kann, um Lösungen umzusetzen.
+
+01:03:15.101 --> 01:03:21.500
+<v peterpurgathofer>Aber in dem Moment, wo wir es mit Menschen zu tun haben, und da kommt dann der Begriff der Wicked Problems ins Spiel, wissen wir, dass wir Probleme haben,
+
+01:03:21.501 --> 01:03:30.800
+<v peterpurgathofer>die man systematisch nicht lösen kann, sondern nur Lösungen anbieten und dann schauen, welche von diesen Lösungen am meistens Resonanz hat,
+
+01:03:30.801 --> 01:03:31.100
+<v peterpurgathofer>am besten funktioniert.
+
+01:03:31.101 --> 01:03:34.100
+<v timpritlove>Was sind denn das für Probleme, die man da nicht lösen kann?
+
+01:03:34.101 --> 01:03:35.900
+<v peterpurgathofer>Probleme, die Widersprüche in sich tragen beispielsweise.
+
+01:03:35.901 --> 01:03:45.800
+<v peterpurgathofer>Also ich bringe als Beispiel immer auf der einen Seite das Kreuzworträtsel und auf der anderen Seite der Schulaufsatz.
+
+01:03:45.801 --> 01:03:53.600
+<v peterpurgathofer>Das Kreuzworträtsel ist ein Problem, das ich lösen kann, es ist vollständig spezifiziert und es gibt eine Lösung und ich kann ein Hakerl machen,
+
+01:03:53.601 --> 01:03:59.100
+<v peterpurgathofer>einen Haken, wie man bei euch sagt, wenn es richtig gelöst ist.
+
+01:03:59.101 --> 01:04:02.900
+<v peterpurgathofer>Der Schulaufsatz hat so etwas nicht.
+
+01:04:02.901 --> 01:04:10.000
+<v peterpurgathofer>Beim Schulaufsatz weiß ich, also meine Erinnerung an die Schulzeit ist, dass, wenn ich mit meinem Schulaufsatz fertig bin, ich hatte eine Stunde Zeit,
+
+01:04:10.001 --> 01:04:17.400
+<v peterpurgathofer>dass ich mindestens zwei Stunden noch drüber nachdenke, was ich nicht hätte alles anders machen müssen, um eigentlich wirklich gut zu machen.
+
+01:04:17.401 --> 01:04:21.800
+<v peterpurgathofer>Und wir wissen aber alle, den perfekten Schulaufsatz gibt es nicht, es gibt nicht den richtigen Schulaufsatz.
+
+01:04:21.801 --> 01:04:31.900
+<v peterpurgathofer>Also es sind Probleme, die keine klare Lösungsbedingung haben, die unterspezifiziert sind, und zwar nicht weil die Spezifikationen nicht alle hingeschrieben wurden,
+
+01:04:31.901 --> 01:04:42.700
+<v peterpurgathofer>sondern weil es nicht alle gibt, die Widersprüche in sich tragen, die von uns verlangen, dass wir unsere Meinungen oder die Meinungen anderer,
+
+01:04:42.701 --> 01:04:46.500
+<v peterpurgathofer>die Wünsche, die Sorgen, die Projektionen, die Hoffnungen berücksichtigen und so weiter.
+
+01:04:46.501 --> 01:04:52.800
+<v peterpurgathofer>Also alle Probleme, die mit Menschen zu tun haben, sind quasi per Definition eben Wicked Problems.
+
+01:04:52.801 --> 01:04:55.500
+<v timpritlove>Ja, weil sie sich auch nicht digital auflösen lassen.
+
+01:04:55.501 --> 01:05:04.500
+<v timpritlove>Also sie sind nicht wörtlich mit dem Finger zeigend, es gibt nicht hier diese Liste von möglichen Lösungen, sondern im Prinzip gibt es dazwischen immer noch beliebig viele andere Lösungen
+
+01:05:04.501 --> 01:05:08.100
+<v timpritlove>oder eben dann auch wiederum Fehlerwelten, auf die man stoßen kann.
+
+01:05:08.101 --> 01:05:12.800
+<v timpritlove>Also im Prinzip ist das so quasi, jetzt kommt der Mensch mit ins Spiel.
+
+01:05:12.801 --> 01:05:21.800
+<v timpritlove>Ja, also mal ganz unabhängig davon, wie man jetzt gesellschaftlich interagiert, dass einfach die Wahrheit nicht klar definiert ist.
+
+01:05:21.801 --> 01:05:29.400
+<v peterpurgathofer>Genau, und wir wissen, dass die Informatik jahrzehntelang, so alt ist sie nicht, die Physik hat Jahrhunderte lang geglaubt,
+
+01:05:29.401 --> 01:05:36.200
+<v peterpurgathofer>die Informatik hat gerade mal Jahrzehnte lang daran geglaubt, dass es möglich sein wird, Systeme so gut zu spezifizieren,
+
+01:05:36.201 --> 01:05:41.300
+<v peterpurgathofer>dass diese Spezifikation automatisiert in ein Produkt übergeführt werden kann.
+
+01:05:41.301 --> 01:05:52.300
+<v peterpurgathofer>Und heute wissen wir, das ist Blödsinn, das können wir nicht, das lässt sich in ganz klein definierten Problemdomänen, Robotersteuerung vielleicht,
+
+01:05:52.301 --> 01:05:58.400
+<v peterpurgathofer>lässt sich so was vielleicht machen, aber im Allgemeinen, wenn es darum geht, die nächste App für ein Smartphone zu schreiben,
+
+01:05:58.401 --> 01:06:00.800
+<v peterpurgathofer>dann wissen wir genau, dass das nicht geht.
+
+01:06:00.801 --> 01:06:06.900
+<v peterpurgathofer>Und ich versuche dort zu erklären oder wir versuchen dort zu erklären, warum es nicht geht, warum das systematisch nicht geht
+
+01:06:06.901 --> 01:06:19.300
+<v peterpurgathofer>und der Schlüsselbegriff dazu ist eben dieses Konzept der Wicked Problems und dahinterstehend die Theorien, wie man denn damit umgehen kann.
+
+01:06:19.301 --> 01:06:28.300
+<v peterpurgathofer>Donald Schön, Dewey die also beschreiben, wie eine Arbeit an Wicked Problems denn eigentlich ausschaut.
+
+01:06:28.301 --> 01:06:39.300
+<v peterpurgathofer>Da gibt es ein Schlüsselwerk, eine Dissertation eines dänischen Forschers, der leider ein paar Jahre nachher gestorben ist, Henrik Gedenryd, „How Designers Work“,
+
+01:06:39.301 --> 01:06:53.000
+<v peterpurgathofer>der diese ganze Geschichte des Missverständnisses, was Problemlösen eigentlich ist, aufarbeitet und erklärt, dass Problemlösung eigentlich nie so ist
+
+01:06:53.001 --> 01:07:00.600
+<v peterpurgathofer>wie uns die gesellschaftliche Law denn weismachen möchten, sondern dass Problemlösen immer ein iterativer Prozess ist,
+
+01:07:00.601 --> 01:07:15.700
+<v peterpurgathofer>ein Prozess, wo wir uns an eine Lösung herantasten, wo wir das Verstehen des Problems und das Lösen des Problems als gleichzeitig empfinden und auch machen,
+
+01:07:15.701 --> 01:07:24.500
+<v peterpurgathofer>und nicht zuerst das Problem verstehen und dann das Problem lösen, was diese altüberkommene Vorstellung davon ist wie man Probleme löst.
+
+01:07:24.501 --> 01:07:32.400
+<v timpritlove>Was sich ja auch mittlerweile so in der Arbeitsethik und Vorgehensweise ja auch zahlreich übersetzt, so die Idee des agilen Arbeitens,
+
+01:07:32.401 --> 01:07:39.500
+<v timpritlove>dass man sozusagen Probleme auch immer im Prozess bewertet und nicht als etwas versteht, was festgeschrieben ist
+
+01:07:39.501 --> 01:07:44.600
+<v timpritlove>und was man vielleicht auch überhaupt nur am Anfang schon komplett überblicken kann.
+
+01:07:44.601 --> 01:07:53.500
+<v peterpurgathofer>Ich muss vielleicht an der Stelle ganz kurz nur sagen, dass Design Thinking auch eine andere Bedeutung hat, nämlich das, was Stanford d.school sagt,
+
+01:07:53.501 --> 01:08:03.200
+<v peterpurgathofer>nämlich ein Verfahren mit sechs Schritten, das legen wir auf die Seite und sagen, ja da ist jemand gekommen und hat einen Begriff gekapert für seine Vorgehensweise,
+
+01:08:03.201 --> 01:08:12.600
+<v peterpurgathofer>für Marketingzwecke, aber Design Thinking ist eine Brille, durch die wir Probleme auf eine bestimmte Art sehen und an diese Probleme auf eine bestimmte Art herangehen.
+
+01:08:12.601 --> 01:08:19.600
+<v peterpurgathofer>Und diese Art ist nämlich im Gegensatz zu den anderen davor mal jetzt wirklich grundlegend anders.
+
+01:08:19.601 --> 01:08:27.500
+<v peterpurgathofer>Also mathematische Probleme ist wirklich, wir machen erst ein Modell und mit diesem Modell können wir dann was beweisen oder Zusammenhänge herstellen,
+
+01:08:27.501 --> 01:08:29.400
+<v peterpurgathofer>aber hier können wir das nicht.
+
+01:08:29.401 --> 01:08:35.200
+<v peterpurgathofer>Wir haben diese Gleichzeitigkeit von Problemverstehen und Problemlösen.
+
+01:08:35.201 --> 01:08:39.800
+<v peterpurgathofer>Wir haben dieses, was ist denn eigentlich das Problem, das wir lösen?
+
+01:08:39.801 --> 01:08:49.800
+<v peterpurgathofer>Also ich dekonstruiere dort auch sehr gründlich diesen Problembegriff, weil der eigentlich dieses, du gibst mir ein Problem und ich mach das dann,
+
+01:08:49.801 --> 01:08:55.000
+<v peterpurgathofer>impliziert und ich löse das dann.
+
+01:08:55.001 --> 01:09:03.800
+<v peterpurgathofer>Also wir sind eben nicht nur eine Problemlösungsdisziplin, wir sin durch eine Problemdefinitionsdisziplin, es geht nicht anders als ein Problem,
+
+01:09:03.801 --> 01:09:11.600
+<v peterpurgathofer>wenn du mir ein Problem gibst, zu lösen, dass ich all die Unbestimmtheiten dort drin festlegen und wir können uns dessen bewusst sein und sagen,
+
+01:09:11.601 --> 01:09:20.600
+<v peterpurgathofer>okay, also ich bin jetzt ein Co-Problemformulator während ich es löse mit dir und trete in Kontakt mit dir und kommuniziere darüber mit dir
+
+01:09:20.601 --> 01:09:29.200
+<v peterpurgathofer>oder ich ergänze das quasi, weil ich glaube, es gibt eh nur einen Weg wie du das gemeint haben könntest und löse dann das Problem
+
+01:09:29.201 --> 01:09:36.800
+<v peterpurgathofer>und wir alle kennen diese Projekte, die am Schluss herauskommen, wo das nicht das ist, was beauftragt wurde.
+
+01:09:36.801 --> 01:09:46.000
+<v peterpurgathofer>Also dieses Artefakt des Pflichtenhefts auch als die große Lüge bei uns in der Disziplin, dass es so was geben kann wie ein absolutes Pflichtenheft,
+
+01:09:46.001 --> 01:09:49.600
+<v peterpurgathofer>das an irgendeinem Punkt genau beschreibt, was ab hier passiert.
+
+01:09:49.601 --> 01:09:50.400
+<v timpritlove>Das funktioniert nicht.
+
+01:09:50.401 --> 01:09:56.900
+<v peterpurgathofer>Das ist die gefährliche Lüge der Informatik, der Praxis der Informatik.
+
+01:09:56.901 --> 01:10:04.200
+<v peterpurgathofer>Das wird hier dekonstruiert und wir machen es ein bisschen auch, was ist denn eigentlich Human-Computer Interaction?
+
+01:10:04.201 --> 01:10:07.400
+<v peterpurgathofer>Weil das ist die Disziplin zum Design Thinking.
+
+01:10:07.401 --> 01:10:13.100
+<v peterpurgathofer>Und was sind so die Rahmenbedingungen oder die Eckpunkte dieser Disziplin.
+
+01:10:13.101 --> 01:10:22.200
+<v timpritlove>Überhaupt habe ich das Gefühl, das Ganze, wie wir es bisher beschrieben haben diese Schritte, ist halt auch schon so ein bisschen eine Geschichtserzählung.
+
+01:10:22.201 --> 01:10:31.600
+<v timpritlove>Also klar ganz zu Anfang auf jeden Fall und kommt sozusagen aus der vorwissenschaftlichen in die wissenschaftliche Welt und Bedeutung der Mathematik wird abgelöst
+
+01:10:31.601 --> 01:10:44.100
+<v timpritlove>von der Bedeutung der Computer und jetzt kommen wir so langsam in diese Erkenntnisphase, wo sozusagen der Zauber der ersten Begeisterung langsam auch wieder abgelegt wird,
+
+01:10:44.101 --> 01:10:52.400
+<v timpritlove>weil man merkt, dass das eben nicht einfach ein ganz grader Pfad ins Nirvana ist, sondern ordentlich steinig ausgelegt ist.
+
+01:10:52.401 --> 01:10:55.600
+<v peterpurgathofer>Naja, es ist ein bisschen eine typische Posthoc-Geschichtserzählung.
+
+01:10:55.601 --> 01:11:03.100
+<v peterpurgathofer>Wenn du die Geschichte anschaust, ist das alles verschränkt ineinander und es gab in den 60er Jahren schon Leute, die genau das gesagt haben
+
+01:11:03.101 --> 01:11:06.800
+<v peterpurgathofer>und sich nicht durchgesetzt haben.
+
+01:11:06.801 --> 01:11:15.000
+<v peterpurgathofer>Aber natürlich kann man zurückblickend genau auch so erzählen als eine Art von die Leitideen, die jeweils in der Informatik drin waren,
+
+01:11:15.001 --> 01:11:24.600
+<v peterpurgathofer>das hat natürlich begonnen in der Wissenschaft, in die Mathematik gegangen, ist dann in dieses Computational und jetzt stärker in das Design Thinking hineingegangen.
+
+01:11:24.601 --> 01:11:31.700
+<v peterpurgathofer>Insofern ja, aber auch nein, weil wenn man es sich genauer anschaut, ist es differenzierter und du findest auf allen Ebenen immer alles.
+
+01:11:31.701 --> 01:11:36.900
+<v peterpurgathofer>Du findest noch immer Leute, die sagen, Informatik ist eigentlich eine Mathematik-Subdisziplin.
+
+01:11:36.901 --> 01:11:41.900
+<v timpritlove>Dem würde ich ja nicht zustimmen, aber man kann das ja so sehen.
+
+01:11:41.901 --> 01:11:45.400
+<v peterpurgathofer>Genau.
+
+01:11:45.401 --> 01:11:49.800
+<v timpritlove>Das sechste Denken, was angeführt wird, ist das kritische Denken.
+
+01:11:49.801 --> 01:11:53.800
+<v timpritlove>Jetzt kann man es mal ordentlich übersetzen, glaube ich, das trifft es dann auch im Deutschen ganz gut, Critical Thinking.
+
+01:11:53.801 --> 01:11:56.700
+<v timpritlove>Kommen wir jetzt auf die moralische Ebene langsam?
+
+01:11:56.701 --> 01:12:00.500
+<v peterpurgathofer>Kommen wir langsam, das Kapitel danach wird…
+
+01:12:00.501 --> 01:12:00.800
+<v timpritlove>… noch schlimmer?
+
+01:12:00.801 --> 01:12:03.800
+<v peterpurgathofer>… Responsible Thinking.
+
+01:12:03.801 --> 01:12:11.800
+<v peterpurgathofer>Da gibt es ein bisschen manchmal Unterschiede in der Reihenfolge, hier hinten stellen wir manchmal Sachen um, damit wir nicht zu viele ähnliche Dinge hintereinander haben.
+
+01:12:11.801 --> 01:12:20.900
+<v peterpurgathofer>Also in meinem Plan ist nach Critical Thinking zwischen Responsible Thinking, weil das die logischere Schrittfolge ist.
+
+01:12:20.901 --> 01:12:31.600
+<v peterpurgathofer>Also wenn man über Brillen, durch die man die Welt gedanklich anschaut und analytisch anschaut, wenn man über das reflektiert,
+
+01:12:31.601 --> 01:12:36.700
+<v peterpurgathofer>dann kommt man ganz schnell drauf, dass Critical Thinking einer der Skills ist, die wir heute am dringendsten brauchen.
+
+01:12:36.701 --> 01:12:47.400
+<v peterpurgathofer>Und insofern ist das ein relativ pragmatischer, sagen wir mal, Aussichtspunkt, auf den man sich stellt und sagt, so jetzt haben wir diese, so wie du sagst,
+
+01:12:47.401 --> 01:12:57.200
+<v peterpurgathofer>diese Ideengeschichte hier hinauf verfolgt und jetzt stellen wir uns mal hier oben hin und machen bisschen was anderes und setzen uns mit kritischem Denken auseinander.
+
+01:12:57.201 --> 01:13:10.300
+<v peterpurgathofer>Und damit schließen wir dann auch an das Computational Thinking wieder an, nicht nur was für Fehler im Denken und im logischen Schließen wir so machen,
+
+01:13:10.301 --> 01:13:13.400
+<v peterpurgathofer>sondern auch was Computer machen.
+
+01:13:13.401 --> 01:13:21.900
+<v peterpurgathofer>Also wir haben dort Bis als ein großes Thema im Critical Thinking und wir haben Logical Fallacy als ein großes Thema, also logische Fehlschlüsse.
+
+01:13:21.901 --> 01:13:23.700
+<v timpritlove>Und Voreingenommenheit.
+
+01:13:23.701 --> 01:13:28.000
+<v peterpurgathofer>Voreingenommenheit, ja, aber das ist er der Bias, so dieser Wahrnehmungs…
+
+01:13:28.001 --> 01:13:31.400
+<v timpritlove>Das meinte, also Bias als Voreingenommenheit und dazu die logischen Fehlschlüsse.
+
+01:13:31.401 --> 01:13:34.600
+<v peterpurgathofer>Ja. Und dazu die logischen Fehlschlüsse.
+
+01:13:34.601 --> 01:13:38.400
+<v peterpurgathofer>Und aber mit dem Bias im Menschen auch den Bias im Computer.
+
+01:13:38.401 --> 01:13:48.000
+<v peterpurgathofer>Also da diskutieren wir genau das, was wir vorhin besprochen haben, dass die Daten ein Bias in sich tragen können und der unschuldige Coder weiß gar nichts davon,
+
+01:13:48.001 --> 01:13:49.500
+<v peterpurgathofer>aber das System, das herauskommt ist dann rassistisch
+
+01:13:49.501 --> 01:13:59.400
+<v timpritlove>Ja, der automatische Handtrockner, der die Hände erkennen soll und als dann der erste mit dunkler Hautfarbe kommt, werden die Hände auf einmal nicht mehr erkannt,
+
+01:13:59.401 --> 01:14:02.900
+<v timpritlove>weil der Bias sozusagen war, Hände sind weiß.
+
+01:14:02.901 --> 01:14:04.900
+<v peterpurgathofer>Ja, was zurückgeht auf die Kamera.
+
+01:14:04.901 --> 01:14:16.300
+<v peterpurgathofer>Die ersten Codac-Kameras, diese Point-and-Shoot-Kamera sagt man heute, die waren einfach abstimmt auf weiße Haut.
+
+01:14:16.301 --> 01:14:17.400
+<v timpritlove>Die haben Autofokus.
+
+01:14:17.401 --> 01:14:24.300
+<v peterpurgathofer>Die haben schwarze nie vernünftig belichtet, sondern immer zweidimensionale Flächen dort gezeigt.
+
+01:14:24.301 --> 01:14:34.000
+<v peterpurgathofer>Und das sind wir erst jetzt losgeworden, vor drei Jahren oder vier Jahren haben Handykamerahersteller peinlicherweise für alle anderen Kamerahersteller begonnen Software zu machen,
+
+01:14:34.001 --> 01:14:42.500
+<v peterpurgathofer>die Gesichter von andersfarbigen Menschen, Gesichter von Menschen mit anderer Haut richtig belichtet.
+
+01:14:42.501 --> 01:14:46.600
+<v peterpurgathofer>Ich finde auch, da steckt ja auch trotzdem viel Hoffnung dann drin in unserer Branche.
+
+01:14:46.601 --> 01:14:56.100
+<v timpritlove>Jetzt kommt ja auch so ein anderer Aspekt von Diversity und wie wir sozusagen auch uns als Gesellschaft selbst wahrnehmen mit rein.
+
+01:14:56.101 --> 01:15:08.700
+<v peterpurgathofer>Also hier stoßen wir auch zum ersten Mal zum Teil auf sehr heftigen Widerstand bei den schon angesprochenen Gruppen, die ich als rechte Gruppen identifiziere,
+
+01:15:08.701 --> 01:15:18.300
+<v peterpurgathofer>als politisch rechtsaußenstehende Gruppen, die sich sehr lautstark zur Wehr setzen dagegen, dass wir hier etwas machen, was ja überhaupt nicht wissenschaftlich ist.
+
+01:15:18.301 --> 01:15:24.900
+<v peterpurgathofer>Ich meine, ich finde eine systematische Auseinandersetzung mit kognitiven Verzerrungen, diesem Cognitive Bias, ist durchaus wissenschaftlich,
+
+01:15:24.901 --> 01:15:34.900
+<v peterpurgathofer>auch Logical Fallacys zu beschreiben ist wissenschaftlich, auch Algorithmic Bias lässt sich ganz sachlich beschreiben.
+
+01:15:34.901 --> 01:15:49.400
+<v peterpurgathofer>Aber weil wir natürlich den Unterschied zwischen Stereotyp und Vorurteil ansprechen, kommen wir in Quirks mit Leuten, die dieses political correctness Schreckgespenst gerne an die Wand malen,
+
+01:15:49.401 --> 01:15:53.400
+<v peterpurgathofer>und das ist halt nunmal das, was ich jetzt dann als die neue Rechte bezeichne.
+
+01:15:53.401 --> 01:15:57.500
+<v timpritlove>So man kann es ja nicht allen recht machen, also machen wir es allen auch nicht recht.
+
+01:15:57.501 --> 01:16:06.500
+<v peterpurgathofer>Genau. Und wir haben ja drei Querschnittsthemen, haben wir noch gar nicht gesagt, wir haben drei Querschnittsthemen, die so ein bisschen die Geschichte der Informatik ist,
+
+01:16:06.501 --> 01:16:10.000
+<v peterpurgathofer>die wir immer dort einbauen, wo es Sinn macht.
+
+01:16:10.001 --> 01:16:18.600
+<v peterpurgathofer>Wir haben ein Informatik in Society als ein Querschnittsthema und wir haben Diversity als ein Querschnittsthema.
+
+01:16:18.601 --> 01:16:28.500
+<v peterpurgathofer>Und eigentlich wir alle sehen den Mangel an Diversität in jeder Hinsicht in der Informatik als ein Problem, der Mangel an Diversität ist eigentlich überall,
+
+01:16:28.501 --> 01:16:31.200
+<v peterpurgathofer>wo er aufzufinden ist, ein Problem.
+
+01:16:31.201 --> 01:16:33.200
+<v peterpurgathofer>Das kann man technisch begründen.
+
+01:16:33.201 --> 01:16:40.500
+<v peterpurgathofer>Wenn in einer Firma alle denselben Computer haben mit demselben Betriebssystem und derselben Software und dann tritt ein Fehler auf,
+
+01:16:40.501 --> 01:16:47.200
+<v peterpurgathofer>der genau dieses Modell oder dieses Betriebssystem betrifft, dann haben halt alle keinen Computer mehr.
+
+01:16:47.201 --> 01:16:54.200
+<v peterpurgathofer>Diversität würde hier Abhilfe schaffen, und den man aber auch gesellschaftlich in der Informatik als ein Problem sehen können,
+
+01:16:54.201 --> 01:17:05.800
+<v peterpurgathofer>Stichwort, da war ein wunderbarer Guardian-Artikel vor ungefähr fünf Jahren, warum Silicon Valley davon besessen ist, Produkte zu schaffen, die die Mutter ersetzt.
+
+01:17:05.801 --> 01:17:15.300
+<v peterpurgathofer>Und dann haben die zehn Start-ups beschrieben, die genau für die Nutzerinnen und Nutzer das macht, was die Mutter früher gemacht hat.
+
+01:17:15.301 --> 01:17:17.400
+<v timpritlove>Was denn zum Beispiel?
+
+01:17:17.401 --> 01:17:20.900
+<v peterpurgathofer>Die Wäsche waschen.
+
+01:17:20.901 --> 01:17:21.100
+<v timpritlove>Ach so auf der Ebene.
+
+01:17:21.101 --> 01:17:24.100
+<v peterpurgathofer>Ja, so im Leben.
+
+01:17:24.101 --> 01:17:26.600
+<v peterpurgathofer>So dieses, ich wohne zu Hause und meine Mutter macht das für mich.
+
+01:17:26.601 --> 01:17:32.300
+<v peterpurgathofer>Oder die Frau in meinem Leben, wenn man ein traditionelles Gesellschaftsbild hat, macht das für mich und jetzt macht es halt Technologie für mich.
+
+01:17:32.301 --> 01:17:38.200
+<v peterpurgathofer>Und diese Systeme entstehen dann, wenn vorwiegend Männer in der Branche sind.
+
+01:17:38.201 --> 01:17:49.300
+<v peterpurgathofer>Oder die Tatsache, du hast deine SmartWatch eines bestimmten Herstellers, das ist jetzt fünf Jahre alt das Zeug und zum ersten Mal gibt es frauenspezifische medizinische Trackingdaten da drin.
+
+01:17:49.301 --> 01:17:53.100
+<v peterpurgathofer>Das ist schon ganz erstaunlich.
+
+01:17:53.101 --> 01:18:02.800
+<v peterpurgathofer>Ich habe noch ein, weil das auch ein Thema ist, wo ich auch gelernt habe, dass man viel erklären muss, damit es ankommt, ein Beispiel aus der Medizin der Zwischenkriegszeit,
+
+01:18:02.801 --> 01:18:14.800
+<v peterpurgathofer>wo es eine Studie darüber gab, über die Risiken von Gebärmutterkrebs und alle Versuchspersonen waren männlich.
+
+01:18:14.801 --> 01:18:17.400
+<v timpritlove>/lacht/ Gut.
+
+01:18:17.401 --> 01:18:25.700
+<v peterpurgathofer>Die Absurdität dessen kommt zustande, weil man damals der Meinung war, Frauen sind eigentlich nur Männer mit mehr Hormonen, das macht es schwieriger
+
+01:18:25.701 --> 01:18:28.700
+<v peterpurgathofer>und drum nehmen wir Männer als Personen.
+
+01:18:28.701 --> 01:18:31.900
+<v timpritlove>Oh Gott.
+
+01:18:31.901 --> 01:18:40.400
+<v peterpurgathofer>Und das kommt natürlich aus einer Medizin, in der hauptsächlich Männer die Entscheidungen treffen oder fast ausschließlich in der medizinischen Forschung
+
+01:18:40.401 --> 01:18:46.800
+<v peterpurgathofer>und daher auch beschließen was das Modell ist, das zugrundezulegen ist.
+
+01:18:46.801 --> 01:18:54.800
+<v peterpurgathofer>Heute wissen wir, ups, wir haben vielleicht ein bisschen hier was übersehen, Frauen brauchen eine ganz andere Medizin.
+
+01:18:54.801 --> 01:18:59.900
+<v peterpurgathofer>Der männliche Herzinfarkt, der sich mit dem berühmten eingeschlafenen Arm äußert und dem Schmerz hier und dort und so,
+
+01:18:59.901 --> 01:19:04.100
+<v peterpurgathofer>und der Frauenherzinfarkt äußert sich ganz anders.
+
+01:19:04.101 --> 01:19:05.900
+<v peterpurgathofer>Und das weiß fast niemand.
+
+01:19:05.901 --> 01:19:13.800
+<v peterpurgathofer>Und jetzt langsam kommt man drauf, dass es da zu jedem beliebigen Ding eigentlich zwei Versionen braucht.
+
+01:19:13.801 --> 01:19:18.800
+<v timpritlove>Da muss ich dann gleich mal reintragen, wie sieht es denn mit der Diversität bei den Studenten aus?
+
+01:19:18.801 --> 01:19:23.900
+<v timpritlove>Also steigt denn der Frauenanteil, das ist ja eine Dauerkrankheit eigentlich im informatischen Bereich?
+
+01:19:23.901 --> 01:19:27.400
+<v peterpurgathofer>Naja, ich könnte jetzt sagen, bei den Studierenden, damit wir auch hier Diversität in der Sprache pflegen.
+
+01:19:27.401 --> 01:19:29.000
+<v timpritlove>Ja, natürlich.
+
+01:19:29.001 --> 01:19:36.600
+<v peterpurgathofer>Aber leider nicht wirklich, wobei wir auf das relativ wenig Einfluss haben.
+
+01:19:36.601 --> 01:19:41.200
+<v peterpurgathofer>Wir haben wenig Einfluss darauf, wer zu uns studieren kommt.
+
+01:19:41.201 --> 01:19:49.100
+<v peterpurgathofer>Worauf wir eine Menge Einfluss haben, ist, wer es bei uns schafft und man kann sich anschauen, wie wir in den letzten Jahren immer mehr Maßnahmen geschaffen haben,
+
+01:19:49.101 --> 01:20:01.700
+<v peterpurgathofer>um die systematische Ungleichbehandlung, die von der Minderheit Frauen, also bei uns Minderheit Frauen im Studium erfahren wurde, um die auszugleichen.
+
+01:20:01.701 --> 01:20:04.100
+<v peterpurgathofer>Du kannst dir natürlich vorstellen, dass es hier wieder …
+
+01:20:04.101 --> 01:20:05.200
+<v timpritlove>… Widerstände gibt.
+
+01:20:05.201 --> 01:20:14.200
+<v peterpurgathofer>… in dieser gleichen Ecke wie sonst auch Widerstände, weil die dann dasselbe für Männer fordern und nicht verstehen, warum das eine blöde Idee ist.
+
+01:20:14.201 --> 01:20:26.500
+<v peterpurgathofer>Aber ja, also wir haben Mentoring Angebote, wir haben spezifische Beratungsangebote, wir versuchen explizit, also es gibt jetzt Plakate,
+
+01:20:26.501 --> 01:20:35.400
+<v peterpurgathofer>die aufgehängt sind, mit Frauen aus der Informatik, damit es Identifikationsmöglichkeiten gibt, also alle die Dinge, die wir wissen, wo Defizite herrschen,
+
+01:20:35.401 --> 01:20:40.400
+<v peterpurgathofer>um die ein bisschen auszugleichen und etwas anzubieten.
+
+01:20:40.401 --> 01:20:50.700
+<v peterpurgathofer>Man braucht, wenn man sagt, zehn berühmte Menschen aus der Informatik, dann fallen den meisten zehn Männer ein.
+
+01:20:50.701 --> 01:20:58.900
+<v peterpurgathofer>Und das macht es leichter als Mann eine Vorstellung davon zu haben, wo man einmal hin möchte und daher kann man das ausgleichen,
+
+01:20:58.901 --> 01:21:01.700
+<v peterpurgathofer>indem man hier diverse Identifikationsangebote schafft.
+
+01:21:01.701 --> 01:21:02.900
+<v timpritlove>Und funktioniert es denn auch?
+
+01:21:02.901 --> 01:21:09.700
+<v peterpurgathofer>Eine interessante Frage, es passiert so seit drei-vier Jahren und es ist noch zu wenig, um zuverlässige Daten zu haben,
+
+01:21:09.701 --> 01:21:17.100
+<v peterpurgathofer>aber wir sehen zumindest in diesen drei-vier Jahren, dass der Anteil an Frauen, die ins Studium kommen, leicht nach unten geht,
+
+01:21:17.101 --> 01:21:22.000
+<v peterpurgathofer>aber der Anteil der Frau, die im Studium bleiben, leicht nach oben geht.
+
+01:21:22.001 --> 01:21:30.700
+<v peterpurgathofer>Und das ist ein Zeichen, dass diese Maßnahmen greifen, aber es unter Umständen noch besser gehen könnte, wenn es nicht gesamtgesellschaftlich einen Trend gäbe,
+
+01:21:30.701 --> 01:21:39.800
+<v peterpurgathofer>wo, wenn man als Mädchen zu Hause erzählt, dass man Informatik studiert, man große Blicke bekommt und so was wie, bist du sicher
+
+01:21:39.801 --> 01:21:44.100
+<v peterpurgathofer>und vielleicht doch eher Lehramt oder so was?
+
+01:21:44.101 --> 01:21:44.800
+<v timpritlove>Ja.
+
+01:21:44.801 --> 01:21:52.800
+<v peterpurgathofer>Die wirtschaftlichen Unsicherheiten unserer Zeit verstärken das eher, auch das weiß man.
+
+01:21:52.801 --> 01:22:01.600
+<v timpritlove>Wobei ja jetzt Informatik als Studiengang jetzt nicht unbedingt in dem Ruf steht, schlechtbezahlte Jobs einzuleiten.
+
+01:22:01.601 --> 01:22:05.000
+<v peterpurgathofer>Das stimmt auf alle Fälle, ja.
+
+01:22:05.001 --> 01:22:14.500
+<v timpritlove>Ja, wir sind ein bisschen abgebogen beim kritischen Denken, aber wir wollten ja ohnehin auch ein bisschen überleiten und das hängt ja auch damit zusammen,
+
+01:22:14.501 --> 01:22:23.600
+<v timpritlove>würde ich fast meinen, eben mit diesem Verantwortungsdenken, Responsible Thinking.
+
+01:22:23.601 --> 01:22:25.700
+<v timpritlove>Was wird hier?
+
+01:22:25.701 --> 01:22:35.400
+<v peterpurgathofer>Eines der Dinge, die wir den Studierenden am Ende inzwischen anbieten, ist, dass sie Meme zu den einzelnen Kapiteln der Veranstaltung machen,
+
+01:22:35.401 --> 01:22:39.300
+<v peterpurgathofer>weil sie machen eh die ganze Zeit Meme.
+
+01:22:39.301 --> 01:22:44.700
+<v peterpurgathofer>Sie können diesen Backchannels zuschauen, wie während den Vorlesungen Meme in Rekordgeschwindigkeit produziert werden.
+
+01:22:44.701 --> 01:22:46.700
+<v timpritlove>Aus was denn?
+
+01:22:46.701 --> 01:22:49.400
+<v peterpurgathofer>Naja mit diesem Meme-Generator.
+
+01:22:49.401 --> 01:22:52.600
+<v timpritlove>Ja gut, aber was wird da reingeworfen?
+
+01:22:52.601 --> 01:22:53.200
+<v timpritlove>Fotos der Professorinnen und Professoren?
+
+01:22:53.201 --> 01:22:56.800
+<v peterpurgathofer>Nein, durchaus das übliche Mem-Material, es ist der Text, der drauf kommt.
+
+01:22:56.801 --> 01:22:58.500
+<v timpritlove>Ach so okay.
+
+01:22:58.501 --> 01:23:00.200
+<v peterpurgathofer>So was wie …
+
+01:23:00.201 --> 01:23:05.300
+<v timpritlove>… one does not simply go into informatics.
+
+01:23:05.301 --> 01:23:16.200
+<v peterpurgathofer>Ja oder kennst du diese Zeichnung von dem Pferd, was ganz schön gezeichnet beginnt und dann am Schluss ist ein Gesicht drauf mit Strichmänneln und es wird immer schlechter?
+
+01:23:16.201 --> 01:23:16.900
+<v timpritlove>Ja.
+
+01:23:16.901 --> 01:23:24.100
+<v peterpurgathofer>Das wird gern verwendet als die Behandlung unserer Übungsaufgaben, die üblicherweise drei-vier Schritte haben,
+
+01:23:24.101 --> 01:23:30.000
+<v peterpurgathofer>so erster Schritt, zweiter Schritt, dritter Schritt, zehn Minuten vor der Abgabe Deadline.
+
+01:23:30.001 --> 01:23:31.400
+<v timpritlove>Okay, es wird aktiv gelebt.
+
+01:23:31.401 --> 01:23:41.200
+<v peterpurgathofer>Aber auch inhaltlich und drum komme ich auch gerade, da gibt es dieses Batman ohrfeigt Robin und da hat jemand gemacht, Robin sagt,
+
+01:23:41.201 --> 01:23:47.200
+<v peterpurgathofer>aber ich wollte doch nur und Batman gibt eine Ohrfeige und sagt, no be responsible.
+
+01:23:47.201 --> 01:23:58.400
+<v peterpurgathofer>Und dann wie soll ich sagen, wenn wir das als die zentrale Nachricht hinüberbringen und vielleicht diese große ironische Bedeutung der Phrase,
+
+01:23:58.401 --> 01:24:04.000
+<v peterpurgathofer>what could possibly go wrong, dann haben wir eigentlich schon Erfolg gehabt.
+
+01:24:04.001 --> 01:24:13.900
+<v peterpurgathofer>Natürlich ist Responsible Thinking ein Teil der substantieller vorgeht, wir behandeln also Moralphilosophie, verschiedene Vorstellungen von Ethik,
+
+01:24:13.901 --> 01:24:24.400
+<v peterpurgathofer>eine utilitaristische, wieder eins der Worte, wo man stolpert, utilitaristische Ethik, was in der anders als in einer anderen ethischen Betrachtungsweise?
+
+01:24:24.401 --> 01:24:34.400
+<v peterpurgathofer>Da wird natürlich so in diesem Trolley-Problem-Space herum unterrichtet oder diskutiert.
+
+01:24:34.401 --> 01:24:36.800
+<v timpritlove>Also wie stelle ich die Weichen, wer wird jetzt überfahren, einer oder viele, solche Fragen.
+
+01:24:36.801 --> 01:24:45.900
+<v peterpurgathofer>Genau, da kann man eben sagen, jetzt haben wir fünf verschiedene ethische Ansätze und die würden diese fünf Ergebnisse haben.
+
+01:24:45.901 --> 01:24:53.900
+<v peterpurgathofer>Beim einen Mal halte ich mir die Augen zu, beim anderen Mal laufe ich weg, beim dritten Mal lege ich die Weiche um, beim vierten Mal halte ich, dass niemand die Weiche umlegen kann, was auch immer.
+
+01:24:53.901 --> 01:25:00.900
+<v peterpurgathofer>Aber auch die Auseinandersetzung damit, dass zum Beispiel am MIT ein ganz schreckliches Forschungsprojekt durchgeführt wurde,
+
+01:25:00.901 --> 01:25:08.500
+<v peterpurgathofer>wo man genau solche Trolley-Problem-Fragen in einem Online-Fragebogen weltweit gestellt hat, dafür gesorgt hat,
+
+01:25:08.501 --> 01:25:19.200
+<v peterpurgathofer>dass viele viele Leute das ausfüllen, und dann verkündet, man hat das Trolley-Problem jetzt gelöst, nämlich je nachdem wie die Leute national oder in einer Region das ausfüllen,
+
+01:25:19.201 --> 01:25:22.000
+<v peterpurgathofer>so wird sich das Auto dann verhalten.
+
+01:25:22.001 --> 01:25:32.200
+<v peterpurgathofer>Das heißt, in Saudi-Arabien wird im Zweifelsfall die Frau über den Haufen geführt, in Japan eher junge als alte Leute, in Frankreich sicher nie die Frau und so weiter.
+
+01:25:32.201 --> 01:25:39.700
+<v peterpurgathofer>Genau und mit der Frage, was an dieser Studie eigentlich schrecklich ist und warum die falsch ist, warum das keine Lösung des Trolley-Problems ist,
+
+01:25:39.701 --> 01:25:41.800
+<v peterpurgathofer>auch damit beschäftigen wir uns.
+
+01:25:41.801 --> 01:25:51.600
+<v peterpurgathofer>Und im Endeffekt mit der Schlussfolgerung, dass man, wenn man im Technologiebereich arbeitet, so zentral an der Gestaltung dessen,
+
+01:25:51.601 --> 01:26:01.700
+<v peterpurgathofer>was Gesellschaft in der Zukunft sein wird und sein kann, mitarbeitet, dass es keine Unschuld mehr gibt.
+
+01:26:01.701 --> 01:26:11.200
+<v peterpurgathofer>Wir haben da so zwei zentrale Zitate, das eine ist, Kranzbergs Gesetz, Technology ist neither good nor bad nor is it neutral,
+
+01:26:11.201 --> 01:26:17.500
+<v peterpurgathofer>über das kann man lange nachdenken und drauf kommen, warum das gut und richtig ist, es so zu sehen.
+
+01:26:17.501 --> 01:26:22.200
+<v peterpurgathofer>Und das andere ist dieses, Engine of Realisation
+
+01:26:22.201 --> 01:26:29.800
+<v peterpurgathofer>Wann immer wir eine Technologie schaffen, entstehen in anderen Menschen Vorstellungen davon, wozu man diese Technologie verwenden kann.
+
+01:26:29.801 --> 01:26:37.900
+<v peterpurgathofer>Und wenn man das nicht mit bedenkt bei Machen von Technologien, dann denkt man zu kurz.
+
+01:26:37.901 --> 01:26:48.700
+<v peterpurgathofer>Also der Ryan Carlo hat das mal so formuliert, es ist nicht, wo ein Wille ist, ist ein Weg, sondern, wo ein Weg ist, ist ein Wille.
+
+01:26:48.701 --> 01:26:58.500
+<v peterpurgathofer>Um noch einen anderen zu zitieren, den Bruce Schneier, der gesagt hat, es ist schlechte Zivilhygiene, Systeme zu schaffen,
+
+01:26:58.501 --> 01:27:07.100
+<v peterpurgathofer>die einem Überwachungsstaat oder einem Polizeistaat weiterhelfen würden oder die ein Polizeistaat sich wünschen würde.
+
+01:27:07.101 --> 01:27:13.500
+<v peterpurgathofer>Weil man damit, dass man diese Technologien in die Gesellschaft bringt, einen Weg ebnet, der dort hineingeht.
+
+01:27:13.501 --> 01:27:21.800
+<v peterpurgathofer>Also das sind so ein bisschen ein paar der Positionen und Ideen, die wir dort zu vermitteln versuchen.
+
+01:27:21.801 --> 01:27:33.500
+<v timpritlove>Jetzt gibt es noch ein paar weitere Thinkings, die ich jetzt ein bisschen Schwierigkeiten habe zu gewichten, das werde ich dir mal überlassen.
+
+01:27:33.501 --> 01:27:37.800
+<v timpritlove>Kreatives Denken.
+
+01:27:37.801 --> 01:27:44.300
+<v peterpurgathofer>Zum Gewichten sage ich vielleicht ganz kurz, dass die Kapitel eh alle unterschiedlich gewichtet sind.
+
+01:27:44.301 --> 01:27:51.900
+<v peterpurgathofer>Also Scientific Thinking hat ein Gewicht von 1, mathematisches Denken auch, Computational Thinking hat ein Gewicht von 3, genauso wie Design Thinking.
+
+01:27:51.901 --> 01:27:56.500
+<v peterpurgathofer>Das sind eigentlich die beiden zentralen Kapitel.
+
+01:27:56.501 --> 01:28:03.200
+<v peterpurgathofer>Critical Thinking hat ein Gewicht von 2, genauso wie Responsible Thinking.
+
+01:28:03.201 --> 01:28:09.400
+<v peterpurgathofer>Und Creative Thinking, Economical Thinking und Criminal Thinking haben alle wieder ein Gewicht von 1.
+
+01:28:09.401 --> 01:28:09.900
+<v timpritlove>Das sind also Anmerkungen.
+
+01:28:09.901 --> 01:28:18.200
+<v peterpurgathofer>Genau, das kann man sich jetzt zusammenrechnen, wenn man es mitgeschrieben hat, aber das ist ungefähr die Zahl der Vorlesungseinheiten, die damit verbunden sind.
+
+01:28:18.201 --> 01:28:30.800
+<v peterpurgathofer>Creative Thinking, im Grunde geht es hier darum, dass kreatives Problemlösen und ein tolles Bild malen nicht so unterschiedlich sind.
+
+01:28:30.801 --> 01:28:33.700
+<v peterpurgathofer>Aber die Leute glauben, das sind zwei grundverschiedene Dinge.
+
+01:28:33.701 --> 01:28:38.800
+<v peterpurgathofer>Also unsere Studierenden glauben zu einem überwiegenden Teil, dass sie nicht kreativ sind.
+
+01:28:38.801 --> 01:28:48.800
+<v peterpurgathofer>Und Creative Thinking soll dazu da sein, ihnen zu zeigen, dass Kreativität sich nicht nur in dem, was wir gesellschaftlich oft, als Kreativität definieren,
+
+01:28:48.801 --> 01:28:57.400
+<v peterpurgathofer>entweder mit Buntstiften oder so äußert, sondern dass Kreativität etwas ist, das sich auf ganz vielen Ebenen und vor allem unter bestimmten Bedingungen äußern kann
+
+01:28:57.401 --> 01:28:58.700
+<v timpritlove>Ja ist auch so eine Branchenzuschreibung.
+
+01:28:58.701 --> 01:28:59.300
+<v peterpurgathofer>Ja.
+
+01:28:59.301 --> 01:29:03.000
+<v timpritlove>Ich arbeite in einem kreativen Beruf und du?
+
+01:29:03.001 --> 01:29:04.000
+<v timpritlove>Naja ich mach was mit Computern.
+
+01:29:04.001 --> 01:29:10.600
+<v timpritlove>Das passt ja eigentlich gar nicht zusammen, also gerade beim Programmieren muss man ja nun wirklich ausgesprochen kreativ sein.
+
+01:29:10.601 --> 01:29:14.200
+<v peterpurgathofer>Absolut, wir sagen die Kreativbranche, haha, das ist ein Unfug.
+
+01:29:14.201 --> 01:29:26.000
+<v peterpurgathofer>Also die Notwendigkeit, sich kreativ mit Problemen auseinanderzusetzen in ihrer Lösung, ist etwas ganz zentrales und wir versuchen ja hauptsächlich
+
+01:29:26.001 --> 01:29:32.700
+<v peterpurgathofer>den Leuten zu erklären, unter welchen Bedingungen Kreativität leidet und unter welchen sie sich entfalten kann.
+
+01:29:32.701 --> 01:29:36.400
+<v peterpurgathofer>Dass man unter Stress nicht kreativ ist.
+
+01:29:36.401 --> 01:29:47.400
+<v peterpurgathofer>Dass man, wenn man, sagen wir so, unter Stress ist Kreativität etwas ganz anderes als in einer stresslosen, in einer entspannten Umgebung.
+
+01:29:47.401 --> 01:29:51.300
+<v timpritlove>Also es muss nicht zwangsläufig weniger kreativ sein, aber sie drückt sich vielleicht anders aus.
+
+01:29:51.301 --> 01:29:58.500
+<v peterpurgathofer>Das ist dieser Stresstunnelblick und da will man raus aus dem Tunnel und da kann man dann sehr kreativ Probleme lösen, aber nur im Tunnel.
+
+01:29:58.501 --> 01:30:10.200
+<v timpritlove>Ja. Na gut, aber hier spielt ja eine der Ursuppen der Informatik ist natürlich auch die Hackerbewegung, die ja diese Kreativität schon immer für sich vollständig in Beschlag genommen hat.
+
+01:30:10.201 --> 01:30:15.400
+<v peterpurgathofer>Genau. Und wir kommen mit so Dingen wie dem Code Poetry Contest und so.
+
+01:30:15.401 --> 01:30:23.400
+<v peterpurgathofer>Also da gibt es viele Dinge, wo wir den Leuten eigentlich nur bewusst machen wollen, wie sehr Kreativität ein Teil von ihnen ist
+
+01:30:23.401 --> 01:30:27.700
+<v peterpurgathofer>und auch von dem, was sie mal machen werden und das war es dann auch schon.
+
+01:30:27.701 --> 01:30:34.800
+<v peterpurgathofer>Es gibt so ein bisschen was, das Ganze wird abgeschossen mit so Tools, mit denen man Kreativität entschlüsseln kann, wie diese Designcards zum Beispiel.
+
+01:30:34.801 --> 01:30:42.600
+<v peterpurgathofer>Designcards sind ein klassisches Kreativitätsentschlüsselungsinstrument.
+
+01:30:42.601 --> 01:30:42.200
+<v timpritlove>Was ist das?
+
+01:30:42.201 --> 01:30:48.600
+<v peterpurgathofer>Na Game Design Cards, da hat man so ein Deck mit Karten und zieht von jeder Kategorie eins und dann hat man da vier Begriffe liegen
+
+01:30:48.601 --> 01:30:51.900
+<v peterpurgathofer>und soll sich ein Spiel dafür überlegen.
+
+01:30:51.901 --> 01:31:03.300
+<v peterpurgathofer>Oder auch die berühmten, wie heißen sie denn, IDEO Design Karten, wo also typische Design Probleme und mögliche Lösungen beschrieben sind
+
+01:31:03.301 --> 01:31:11.500
+<v peterpurgathofer>oder Strukturen von guten Lösungen, die man auflegt und sagt, das trifft auf uns zu und das und das und dann allein durch diesen Prozess der Strukturierung
+
+01:31:11.501 --> 01:31:14.900
+<v peterpurgathofer>der eigenen Ideen entstehen schon wieder neue Ideen.
+
+01:31:14.901 --> 01:31:17.100
+<v timpritlove>Method Cards.
+
+01:31:17.101 --> 01:31:22.500
+<v peterpurgathofer>Ja genau. IDEO Method Cards ja.
+
+01:31:22.501 --> 01:31:26.500
+<v timpritlove>Das ökonomische Denken, das ist die vorletzte Haltestelle.
+
+01:31:26.501 --> 01:31:31.200
+<v peterpurgathofer>Ja, das ist ein bisschen das Stiefkind der ganzen Geschichte.
+
+01:31:31.201 --> 01:31:44.100
+<v peterpurgathofer>Wirklich, meine Hoffnung war immer, dass wir jemand guten finden, der in der Lage ist, dieser Wahnsinn, der durch die neuen Businessmodelle der Internetzeit
+
+01:31:44.101 --> 01:31:49.500
+<v peterpurgathofer>oder wie auch immer man das nennen mag, ich glaube, es gibt keinen Einheitsbegriff mehr dafür, entstanden ist.
+
+01:31:49.501 --> 01:31:59.500
+<v peterpurgathofer>Durch diese Geekeconomy, durch dieses Silicon Valley Group Sink, das eigentlich alles was ist, funktioniert schlecht und man kann das alles besser machen,
+
+01:31:59.501 --> 01:32:06.500
+<v peterpurgathofer>indem man es anders macht und dann kommt so was raus wie Uber oder AirBnB.
+
+01:32:06.501 --> 01:32:07.600
+<v timpritlove>Mit enormen sozialen Implikationen.
+
+01:32:07.601 --> 01:32:11.300
+<v peterpurgathofer>Mit enormen sozialen Implikationen, genau.
+
+01:32:11.301 --> 01:32:25.000
+<v peterpurgathofer>Also in jahrzehntelanger Arbeit erkämpfte Rechte von bestimmten Gruppen von Arbeitnehmern, einfach mit einem Samuraischwert umgeholzt werden.
+
+01:32:25.001 --> 01:32:24.700
+<v timpritlove>Oder auch Mietern.
+
+01:32:24.701 --> 01:32:27.200
+<v peterpurgathofer>als wären sie uninteressant
+
+01:32:27.201 --> 01:32:34.600
+<v peterpurgathofer>Oder auch die Rechte von Mitarbeitern im Hotelgewerbe, gerade die, die reinigen.
+
+01:32:34.601 --> 01:32:38.300
+<v peterpurgathofer>Also da passieren ganz wilde Dinge.
+
+01:32:38.301 --> 01:32:48.800
+<v peterpurgathofer>Und ich glaube, hier muss man vor allem entmythologisierend wirken bei unseren Studierenden, weil viele noch dran glauben, dass das was sie machen werden,
+
+01:32:48.801 --> 01:32:52.400
+<v peterpurgathofer>wenn sie mit dem Studium fertig sind, ein Startup ist, obwohl sich das ganz schnell ändert auch.
+
+01:32:52.401 --> 01:32:56.500
+<v peterpurgathofer>Also ich bin mir gar nicht mal so sicher, ob das heute noch so sein wird.
+
+01:32:56.501 --> 01:32:58.300
+<v timpritlove>Wirtschaftliches Denken kann ja auch volkswirtschaftliches Denken heißen.
+
+01:32:58.301 --> 01:33:07.000
+<v peterpurgathofer>Kann auch heißen und ich hätte so gern jemanden, der das irgendwie in den Kontext der Informatik bringt und habe aber niemanden.
+
+01:33:07.001 --> 01:33:08.800
+<v timpritlove>Das ist sozusagen jetzt eine Stellenausschreibung?
+
+01:33:08.801 --> 01:33:10.000
+<v peterpurgathofer>Vielleicht ist es das, ja.
+
+01:33:10.001 --> 01:33:18.900
+<v peterpurgathofer>Wenn sich bei mir meldet in Wien und der oder die der Meinung ist, diese Aspekte nachliefern zu können, dann bin ich offen dafür.
+
+01:33:18.901 --> 01:33:29.800
+<v peterpurgathofer>Ein bisschen, was ich jetzt so ersatzweise darin mache, ist, drüber zu reden, was Automatisierung mit dem Stellenmarkt eventuell tun wird
+
+01:33:29.801 --> 01:33:35.000
+<v peterpurgathofer>oder unter welchen Bedingungen man das vielleicht betrachten muss und welche Probleme Automatisierung mit sich bringt.
+
+01:33:35.001 --> 01:33:36.800
+<v timpritlove>Was wir ja eingangs schon angesprochen haben.
+
+01:33:36.801 --> 01:33:38.800
+<v peterpurgathofer>Genau.
+
+01:33:38.801 --> 01:33:45.500
+<v timpritlove>Ja und die letzte Haltestelle, da bin ich ja jetzt gespannt, Criminal Thinking.
+
+01:33:45.501 --> 01:33:53.600
+<v peterpurgathofer>Ja, also um die Spannung noch ein bisschen zu erhalten, wir haben von diesen neun plus ein Kapiteln gibt es zu sechs Kapiteln Übungsbeispiele.
+
+01:33:53.601 --> 01:33:56.400
+<v peterpurgathofer>Und zu vier Kapiteln nicht.
+
+01:33:56.401 --> 01:34:01.600
+<v peterpurgathofer>Und die Studierenden sind immer sehr enttäuscht, wenn wir dann sagen, dass es zu Criminal Thinking kein Übungsbeispiel gibt.
+
+01:34:01.601 --> 01:34:04.900
+<v timpritlove>/lacht/ Ich auch.
+
+01:34:04.901 --> 01:34:06.100
+<v peterpurgathofer>Aus nachvollziehbaren Gründen.
+
+01:34:06.101 --> 01:34:14.800
+<v peterpurgathofer>Nein, im Grunde ist das so ein bisschen so, wenn du dein Haus gegen Einbrecher sichern willst, musst du lernen wie ein Einbrecher zu denken,
+
+01:34:14.801 --> 01:34:17.300
+<v peterpurgathofer>das ist die Grundidee dahinter.
+
+01:34:17.301 --> 01:34:19.300
+<v peterpurgathofer>Zu sagen, wir müssen systematisch …
+
+01:34:19.301 --> 01:34:29.700
+<v peterpurgathofer>Also ich glaube, wenn es einen technisch strukturellen Punkt gibt, der in den letzten 20-30 Jahren einfach unterbelichtet wurde,
+
+01:34:29.701 --> 01:34:34.500
+<v peterpurgathofer>systematisch in allen Bereichen, dann ist es Security.
+
+01:34:34.501 --> 01:34:42.800
+<v peterpurgathofer>Und wir brauchen Studierende, die das an jedem Punkt ihres Studiums einfordern, dass die Probleme auch aus einer Sicherheitsperspektive betrachtet werden.
+
+01:34:42.801 --> 01:34:53.700
+<v peterpurgathofer>Und das ist das Ziel dieses Kapitels, zu verstehen wie wichtig Security heute ist, in was für eine unglaubliche Gülle wir uns hineingeritten haben mit dem,
+
+01:34:53.701 --> 01:35:04.900
+<v peterpurgathofer>was in den letzten 20-30 Jahren so passiert ist und einzufordern, dass das bitte jetzt anders zu geschehen hat.
+
+01:35:04.901 --> 01:35:07.300
+<v timpritlove>Ja, aber das betrifft ja auch viele Bereiche.
+
+01:35:07.301 --> 01:35:15.700
+<v timpritlove>Also es ist ja nicht nur kriminelles im Sinne von Ausnutzbarkeit, sondern das hat ja auch viel mit Codequalität zu tun, Nachlässigkeit, falsches Design,
+
+01:35:15.701 --> 01:35:20.200
+<v timpritlove>also im Prinzip eigentlich fast alle Bereiche, die wir vorher schon angeschnitten haben.
+
+01:35:20.201 --> 01:35:28.300
+<v timpritlove>Die Beweisbarkeit von Code, all das mündet ja im Prinzip letzten Endes in so eine Endbeurteilung rein, ist das jetzt sicher?
+
+01:35:28.301 --> 01:35:31.600
+<v timpritlove>Sicher muss man sich ja immer erstmal fragen, ja aus welcher Perspektive sicher?
+
+01:35:31.601 --> 01:35:41.500
+<v timpritlove>Sicher, dass es seinen eigenen Betrieb sicherstellen kann oder sicher, dass es eben einem Angriff von außen oder von innen auch heraus widerstehen kann.
+
+01:35:41.501 --> 01:35:51.400
+<v peterpurgathofer>Es hat sich dann in den letzten Jahren dann, auch wieder zu beobachten, eine Veränderung ergeben, während vor fünf Jahren das Ziel noch war,
+
+01:35:51.401 --> 01:35:59.300
+<v peterpurgathofer>mit dem eigenen Projekt in die Medien zu kommen, ist es heute eher zu sagen, ich hoffe, ich bin damit nicht morgen in der Zeitung.
+
+01:35:59.301 --> 01:36:06.200
+<v peterpurgathofer>Weil die Dinge, über die heute in der Zeitung berichtet werden, richtigerweise plötzlich die Security Bridges und die Hacks sind
+
+01:36:06.201 --> 01:36:09.600
+<v peterpurgathofer>und die eine Million Passwörter sind raus und was weiß ich was.
+
+01:36:09.601 --> 01:36:12.700
+<v timpritlove>No news is good news, mal ganz anders...
+
+01:36:12.701 --> 01:36:15.000
+<v peterpurgathofer>Ganz anders.
+
+01:36:15.001 --> 01:36:17.900
+<v peterpurgathofer>Ja, da muss man auch systematisch wieder drüber nachdenken.
+
+01:36:17.901 --> 01:36:21.600
+<v peterpurgathofer>Das Bild, das ich damit immer assoziiere, ist diese Internet Background Radiation.
+
+01:36:21.601 --> 01:36:31.700
+<v peterpurgathofer>Und das ist ein Begriff, wenn die Studierenden das mitnehmen, dass es im Internet dieses Grundrauschen an malicious Anfragen, an bösartigen Anfragen gibt,
+
+01:36:31.701 --> 01:36:33.600
+<v peterpurgathofer>die einfach immer existieren werden.
+
+01:36:33.601 --> 01:36:43.100
+<v peterpurgathofer>Und wann immer etwas am Internet hängt, wird es dem unmittelbar ausgesetzt sein, weil wir in den letzten 30 Jahren nicht darauf geachtet haben,
+
+01:36:43.101 --> 01:36:44.500
+<v peterpurgathofer>dass das nicht passieren soll.
+
+01:36:44.501 --> 01:36:52.400
+<v peterpurgathofer>Ja, also das ist die Gülle, von der ich vorhin gesprochen haben, ist zum Teil in diesem Internet Background Radiation Concept oder Phänomen drin.
+
+01:36:52.401 --> 01:36:54.700
+<v timpritlove>Ja, lässt sich ja ganz gut visualisieren.
+
+01:36:54.701 --> 01:37:00.900
+<v timpritlove>Man braucht ja heute nur einen nackten Computer mit dem Kabel ans Netz anschließen und zehn Minuten warten, dann kommen sie ja schon an,
+
+01:37:00.901 --> 01:37:05.500
+<v timpritlove>bevor man überhaupt nur mitgeteilt hat, dass man jetzt überhaupt auch bereit ist an dieser Welt teilzunehmen.
+
+01:37:05.501 --> 01:37:16.700
+<v peterpurgathofer>Eine Zeit gab es das Dilemma, wie schnell kann ich meinen Computer updaten, damit er nicht mehr verletzbar ist, wer ist schneller.
+
+01:37:16.701 --> 01:37:19.700
+<v peterpurgathofer>Ich mit meinem Update, weil das kommt über das Internet oder die Angriffe.
+
+01:37:19.701 --> 01:37:21.700
+<v timpritlove>Weil das neue System sozusagen per se erst mal unsicher ist.
+
+01:37:21.701 --> 01:37:25.300
+<v peterpurgathofer>Ja genau, weil ein System, was ich anschalte, einfach nicht sicher war.
+
+01:37:25.301 --> 01:37:33.000
+<v peterpurgathofer>Eine unglaubliche Vorstellung heute, dass ich mich in ein Auto setze und sage, so ich muss auf der Straße jetzt damit fahren,
+
+01:37:33.001 --> 01:37:37.600
+<v peterpurgathofer>aber die Wahrscheinlichkeit, dass ich einen Unfall baue, ist fünfmal so hoch wie normal oder hundertmal so hoch.
+
+01:37:37.601 --> 01:37:38.200
+<v timpritlove>Ich muss es erstmal zur Werkstatt schaffen.
+
+01:37:38.201 --> 01:37:46.200
+<v peterpurgathofer>Aber ich muss es einfach erst einmal zur Werkstatt schaffen, genau, damit die die Lenkung richtig einstellen.
+
+01:37:46.201 --> 01:37:57.800
+<v timpritlove>Ich mach mir jetzt schon die ganze Zeit so die Gedanken und denke mir, okay hier ist manches natürlich spezifisch auf Informatik gemünzt,
+
+01:37:57.801 --> 01:38:05.400
+<v timpritlove>aber so grundsätzlich sind es natürlich auch viele Fragen, die man sich ja auch in anderen wissenschaftlichen Bereichen fragen sollte
+
+01:38:05.401 --> 01:38:10.900
+<v timpritlove>Ist ja nicht so, dass man außerhalb der Informatik nicht solche sozialen Implikationen hat.
+
+01:38:10.901 --> 01:38:19.900
+<v timpritlove>Das betrifft die Volkswirtschaft, die Betriebswirtschaft und viele andere Dinge mehr ja auch.
+
+01:38:19.901 --> 01:38:29.700
+<v timpritlove>Und ich frage mich gerade, ob das hier nicht so einer Art Metacurriculum generell für Studierende ausgerichtet werden könnte.
+
+01:38:29.701 --> 01:38:31.900
+<v timpritlove>Es geht vielleicht jetzt einen Schritt zu weit, aber ist schon einiges drin.
+
+01:38:31.901 --> 01:38:45.000
+<v peterpurgathofer>Ich habe hier 1982 zu studieren begonnen und ich habe mir damals eigentlich gewünscht, dass das erste, was man, vielleicht 1984 nach zwei Semestern,
+
+01:38:45.001 --> 01:38:53.200
+<v peterpurgathofer>nach zwei Jahren Studium habe ich mir gedacht, eigentlich wäre es richtig, ein akademisches Studium mit Wissenschaftstheorie zu beginnen.
+
+01:38:53.201 --> 01:39:01.400
+<v peterpurgathofer>Also mit der Frage dessen, was wir hier eigentlich tun auf der Metaebene und dann erst kommen die Dinge.
+
+01:39:01.401 --> 01:39:03.900
+<v peterpurgathofer>Und die Studien waren immer andersherum angelegt.
+
+01:39:03.901 --> 01:39:14.500
+<v peterpurgathofer>Und ich glaube, dass die Denkweisen ein bisschen der Versuch sind, eine angewandte Wissensstrukturtheorie zu liefern, die den Studierenden vor allem helfen soll,
+
+01:39:14.501 --> 01:39:25.800
+<v peterpurgathofer>im eigenen Studium sich besser zurechtzufinden und im eigenen Studium navigieren, einordnen und auch Fragen stellen zu können.
+
+01:39:25.801 --> 01:39:38.500
+<v peterpurgathofer>Und insofern ja, aber jetzt sage ich, in unserer Ausführung ist es natürlich so, dass wir alle versuchen, alle unsere Beispiele aus der Informatik zu nehmen,
+
+01:39:38.501 --> 01:39:42.500
+<v peterpurgathofer>so dass die Studierenden einen Bezug dazu haben, dass das etwas ist, was sie einmal tun können.
+
+01:39:42.501 --> 01:39:50.900
+<v peterpurgathofer>Aber ich glaube, die Grundstruktur ist sicher genereller als nur für uns.
+
+01:39:50.901 --> 01:40:05.300
+<v timpritlove>Und was ich ja auch mich immer frage, die Feststellung, de du vorhin gemacht hast, mit, wir beschäftigen uns seit Jahrzehnten mit.
+
+01:40:05.301 --> 01:40:14.800
+<v timpritlove>Oder anders ausgedrückt, die Erkenntnis, dass die Informatik eigentlich noch eine extrem junge gerade teenagerhafte Wissenschaft eigentlich ist.
+
+01:40:14.801 --> 01:40:16.900
+<v peterpurgathofer>Ach gerade mal aus den Windeln.
+
+01:40:16.901 --> 01:40:21.300
+<v timpritlove>Je nachdem wie man drauf blicken möchte, befindet man sich in einem solchen und solchen Zustand.
+
+01:40:21.301 --> 01:40:30.600
+<v timpritlove>Ich meine, gemessen an den Leistungen und an dem Impact würde man ja schon eine gewisse Adoleszenz erkennen können,
+
+01:40:30.601 --> 01:40:36.500
+<v timpritlove>man hat nur das Gefühl, dass man halt gerade von Minderjährigen regiert wird so ein bisschen.
+
+01:40:36.501 --> 01:40:42.500
+<v timpritlove>Also das ist natürlich auch eine Diskrepanz, mit der das System da an der Stelle irgendwie leben muss.
+
+01:40:42.501 --> 01:40:54.200
+<v timpritlove>Was ist denn deine Einschätzung, geht denn dieser Reifeprozess mittlerweile schnell genug voran für den Grad an Einfluss, den die Informatik mittlerweile schon gewonnen hat?
+
+01:40:54.201 --> 01:41:04.100
+<v peterpurgathofer>Jetzt sage ich, man darf sich nicht zu viel selber loben, aber wir haben natürlich einen Startvorteil, weil wir das hier an der TU Informatik tatsächlich seit 25-30 Jahren machen.
+
+01:41:04.101 --> 01:41:13.700
+<v peterpurgathofer>Also wir haben vor, wie ich hier angefangen habe, gab es gerade zwei Jahre lang eine Professur für gesellschaftswissenschaftliche Grundlagen der Informatik
+
+01:41:13.701 --> 01:41:25.900
+<v peterpurgathofer>und hat damit diese interdisziplinäre Natur und die Reflexion dieser Zusammenhänge systematisch schon im Studium auch berücksichtigt.
+
+01:41:25.901 --> 01:41:28.400
+<v peterpurgathofer>Ungefähr vor 30 Jahren würde ich sagen.
+
+01:41:28.401 --> 01:41:40.400
+<v peterpurgathofer>Und insofern ist das, was wir heute machen, allem Gegenwind, den man mit so was immer hat, zum Trotz, glaube ich, relativ weit fortgeschritten.
+
+01:41:40.401 --> 01:41:53.200
+<v peterpurgathofer>Ich sehe aber auch in anderen Informatiken, dass zunehmend die Reflexion der Rolle der Technologie in der Gesellschaft, dass der Raum eingeräumt wird.
+
+01:41:53.201 --> 01:41:59.600
+<v peterpurgathofer>Und das folgt einer Periode von, ich glaube, zehn Jahren, wo das alles rausgekickt wurde.
+
+01:41:59.601 --> 01:42:00.900
+<v peterpurgathofer>In Deutschland gibt es das alles nicht mehr.
+
+01:42:00.901 --> 01:42:07.800
+<v peterpurgathofer>Wir haben uns damals an Deutschland orientiert, Bremen, Berlin, Hamburg hatten das und dann hatten wir das auch.
+
+01:42:07.801 --> 01:42:14.100
+<v peterpurgathofer>Und dann inzwischen ist das dort überall mehr oder weniger rausgekickt, aber ich glaube, es kommt jetzt wieder und ich sehe es auch wiederkommen.
+
+01:42:14.101 --> 01:42:25.400
+<v peterpurgathofer>Ich sehe also sogar hier bei uns an der TU, dass Professuren, mir hat letztens jemand hier, der ein ganz technisch ausgerichteter Professor ist,
+
+01:42:25.401 --> 01:42:33.000
+<v peterpurgathofer>der sich so mit Netzwerkzeug beschäftigt, der hat gesagt, warum habe ich das Gefühl, wir sind nur die Heinzelmännchen,
+
+01:42:33.001 --> 01:42:40.300
+<v peterpurgathofer>die irgendwelchen Idioten dazu verhelfen die Welt zu übernehmen und alles kaputt zu machen.
+
+01:42:40.301 --> 01:42:41.200
+<v peterpurgathofer>Und dann gruselt mir.
+
+01:42:41.201 --> 01:42:49.900
+<v peterpurgathofer>Und das ist erstaunlich, wenn so jemand so was sagt, in dessen Community das wissenschaftlich keinerlei Rolle spielen darf.
+
+01:42:49.901 --> 01:42:59.300
+<v peterpurgathofer>Und ich glaube, wenn das anfängt so, dann wird das auch zunehmend seinen Weg in die zumindest einmal Studien finden.
+
+01:42:59.301 --> 01:43:09.900
+<v peterpurgathofer>Wo ich das größere Problem sehe, ist, dass die wissenschaftlichen Publikationskanäle sich noch zu stark abgrenzen davon, dass das ein Thema für sie ist.
+
+01:43:09.901 --> 01:43:19.200
+<v peterpurgathofer>Also viele bei uns erzählen, dass, wenn sie diese Fragen auch stellen wollen, dann werden ihre Arbeiten abgelehnt und sie werden an uns verwiesen,
+
+01:43:19.201 --> 01:43:20.600
+<v peterpurgathofer>an Human-Computer Interaction.
+
+01:43:20.601 --> 01:43:24.100
+<v timpritlove>Wenn sie welche Fragen genau stellen wollen?
+
+01:43:24.101 --> 01:43:32.100
+<v peterpurgathofer>Die Fragen nach gesellschaftlicher Verantwortung, nach dem was damit passieren wird.
+
+01:43:32.101 --> 01:43:39.500
+<v peterpurgathofer>Wie es zum Beispiel, wenn wir jetzt bei dem Beispiel von Industrie 4.0 oder SmartCity bleibt, wie es dann den Menschen dann gehen wird in diesen Systemen
+
+01:43:39.501 --> 01:43:44.800
+<v peterpurgathofer>und wenn die darüber schreiben wollen, dann wird gesagt, schickt das bitte an irgendein HCI-Journal oder Konferenz.
+
+01:43:44.801 --> 01:43:50.000
+<v timpritlove>Weil man das als uninteressant ansieht oder weil das dann schon so Netzbeschmutzercharakter hat?
+
+01:43:50.001 --> 01:43:56.100
+<v peterpurgathofer>Also ich möchte gar keine Bewertung unterstellen.
+
+01:43:56.101 --> 01:44:01.500
+<v peterpurgathofer>Ich sage jetzt einmal, weil sie der Meinung sind, das ist nicht ihre Aufgabe.
+
+01:44:01.501 --> 01:44:08.500
+<v peterpurgathofer>Da gibt es natürlich welche, die sagen, geh bitte hörst, Nestbeschmutzer brauchen wir nicht, aber es gibt andere, die das ganz neutral sehen
+
+01:44:08.501 --> 01:44:14.600
+<v peterpurgathofer>und sagen, wir haben uns definiert als das, das ist nicht unsere Aufgabe, dafür gibt es eigene, dort macht das bitte.
+
+01:44:14.601 --> 01:44:27.600
+<v peterpurgathofer>Dass wir mit dieser Fragmentierung der Wissenswelt beginnend bei den Schulfächern bis hin zu diesen unglaublich dünnen Löchern, die von einem Journal zum Teil gebohrt werden wissenschaftlich,
+
+01:44:27.601 --> 01:44:34.100
+<v peterpurgathofer>dass wir uns damit ins eigene Bein geschossen haben, das kann man eh überall sehen.
+
+01:44:34.101 --> 01:44:42.200
+<v peterpurgathofer>Also Interdisziplinarität wird nicht umsonst überall und die ganze Zeit jetzt gefordert.
+
+01:44:42.201 --> 01:44:47.800
+<v peterpurgathofer>Aber es ist halt noch nicht angekommen bei den Gatekeepern der wissenschaftlichen Produktion.
+
+01:44:47.801 --> 01:45:00.000
+<v timpritlove>Ja. Na gut, aber ich meine, da sind wir ja wieder fast am Anfang des Gesprächs angekommen, so dieser Frage mit, wie sehr muss man einfach diese Verantwortung gleich mit reinarbeiten.
+
+01:45:00.001 --> 01:45:12.800
+<v timpritlove>Also dieses not my Department Syndrom, was ja Werner von Braun zugeschrieben wird dieses Zitat, nach dem Motto, was hatte ich denn hier mit den Auswirkungen des Nationalsozialismus zu tun,
+
+01:45:12.801 --> 01:45:17.200
+<v timpritlove>ich habe da nur an Raketen geforscht, das war ja alles nicht mein Bereich.
+
+01:45:17.201 --> 01:45:24.500
+<v timpritlove>Und ich denke, diese Verantwortungsfrage muss man sich in der Wissenschaft generell stellen, nicht nur in der Informatik.
+
+01:45:24.501 --> 01:45:30.000
+<v timpritlove>In der Informatik mag es wichtiger sein, dringender sein, weil es einerseits vielleicht noch zu wenig getan wurde,
+
+01:45:30.001 --> 01:45:38.700
+<v timpritlove>andererseits aber auch schon viel zu offensichtlich ist, wieviel Auswirkung es eben hat, eben in seiner neuen Rolle als Metawissenschaft.
+
+01:45:38.701 --> 01:45:49.800
+<v timpritlove>Was muss geschehen als nächstes, um diesen Trend noch weiter zu befördern?
+
+01:45:49.801 --> 01:46:02.700
+<v timpritlove>Passiert das von sich heraus oder ist hier auch ein gesellschaftlicher Umschwung über die Wissenschaft hinaus erforderlich oder findet der schon statt?
+
+01:46:02.701 --> 01:46:13.200
+<v peterpurgathofer>Also es gibt auf jeden Fall Impulse, die man wahrnimmt, im Sinne von, der findet schon statt.
+
+01:46:13.201 --> 01:46:25.700
+<v peterpurgathofer>Das eben angesprochene ständige Verlangen von nachinterdisziplinärer wissenschaftlicher Arbeit gehört da definitiv dazu.
+
+01:46:25.701 --> 01:46:36.000
+<v peterpurgathofer>Ich bin mir selber nicht schlüssig, wie weit das gekommen ist, ob wir knapp davor stehen, dass die zum Beispiel wissenschaftlichen Förderinstitutionen verstehen,
+
+01:46:36.001 --> 01:46:41.200
+<v peterpurgathofer>dass wissenschaftliche Forschung anders zu fördern ist, als wie sie jetzt Forschung fördern.
+
+01:46:41.201 --> 01:46:51.000
+<v peterpurgathofer>Weil, ich glaube, wenn die systematisch auf interdisziplinäre Forschung setzen würden, dann würde sich sehr schnell sehr viel ändern.
+
+01:46:51.001 --> 01:47:01.800
+<v peterpurgathofer>Am wissenschaftlichen Publikationsgeschäft sehe ich im Moment grundsätzlich interessanterweise überhaupt keine Änderung,
+
+01:47:01.801 --> 01:47:12.900
+<v peterpurgathofer>obwohl ich finde, dass dieser ganze – jetzt muss ich aufpassen, dass ich mich nicht unbeliebt mache – aber wenn man sich den Effekt der Digitalisierung auf die
+
+01:47:12.901 --> 01:47:20.800
+<v peterpurgathofer>meisten medienproduzierenden Systeme oder ökonomischen Systeme anschaut, dann entdeckt man irgendwann den Digitalisierungsbruch, den Umbruch,
+
+01:47:20.801 --> 01:47:24.600
+<v peterpurgathofer>wo alles anders geworden ist.
+
+01:47:24.601 --> 01:47:32.100
+<v peterpurgathofer>Und im Wissenschaftlichen ist der noch nicht passiert, also im Wissenschaftlichen wird weiter munter an dieser Verknappung des Guts verdient.
+
+01:47:32.101 --> 01:47:35.300
+<v timpritlove>Also Journale etc., das etablierte System.
+
+01:47:35.301 --> 01:47:40.700
+<v peterpurgathofer>Das Bezahlen für das Lesen wissenschaftlicher Artikel, die andere geschrieben haben.
+
+01:47:40.701 --> 01:47:53.900
+<v peterpurgathofer>Und ich halte das für, auch das ist ein Punkt, wo wir jetzt ganz an den Anfang zurückkommen, der also in die Richtung der vorwissenschaftlichen Produktion zurückgeht,
+
+01:47:53.901 --> 01:48:00.200
+<v peterpurgathofer>weil wir eigentlich verhindern, dass Wissen frei und offen austauschbar ist.
+
+01:48:00.201 --> 01:48:08.900
+<v peterpurgathofer>Und wenn wir uns jetzt besinnen auf diese ursprüngliche Forderung danach, dass wir als Wissenschaftlerinnen und Wissenschaftler eigentlich Wissen hauptsächlich austauschen
+
+01:48:08.901 --> 01:48:18.600
+<v peterpurgathofer>und kommunizieren wollen und darauf aufbauen, was andere gemacht haben, ohne dass unsere Institution mehrere tausend Euro für ein zwölfseitiges Paper zahlt,
+
+01:48:18.601 --> 01:48:19.800
+<v peterpurgathofer>dann könnten wir das jetzt.
+
+01:48:19.801 --> 01:48:29.300
+<v peterpurgathofer>Die Strukturen, die Infrastruktur, die technische Infrastruktur dafür ist da, wir schaffen es nur aufgrund von irgendeiner, ich weiß nicht,
+
+01:48:29.301 --> 01:48:39.600
+<v peterpurgathofer>von so einer Trägheit der Masse Effekt nicht, uns von diese wenigen extrem exploitativen wissenschaftlichen Publikationsverlagen zu lösen.
+
+01:48:39.601 --> 01:48:50.700
+<v peterpurgathofer>Wir könnten das, wir könnten auch mit diesem, wir fliegen alle jeder mehrmals pro Jahr um die Welt, um auf irgendwelchen Konferenzen dasselbe zu erzählen,
+
+01:48:50.701 --> 01:48:52.200
+<v peterpurgathofer>auch davon könnten wir uns lösen heute.
+
+01:48:52.201 --> 01:48:57.800
+<v peterpurgathofer>Das ist eine extrem nicht nachhaltige Einrichtung.
+
+01:48:57.801 --> 01:49:01.800
+<v timpritlove>Wenn mal nur jede Konferenz konsequent einfach nur aufgezeichnet würde.
+
+01:49:01.801 --> 01:49:09.800
+<v peterpurgathofer>Zum Beispiel, die nächste CHI, die Computer-Human Interaction, das ist die größte Konferenz in meinem Bereich, die ist in Hawaii.
+
+01:49:09.801 --> 01:49:14.100
+<v peterpurgathofer>Da will man natürlich hin, natürlich wollen alle nach Hawaii und auf eine Konferenz fahren.
+
+01:49:14.101 --> 01:49:15.400
+<v peterpurgathofer>Das ist super, wenn es bezahlt wird.
+
+01:49:15.401 --> 01:49:27.100
+<v peterpurgathofer>Aber es gab massive Diskussionen dessen, was da eigentlich passiert im Kontext von Klimawandel, Klimaveränderung, Klimanotstand,
+
+01:49:27.101 --> 01:49:35.400
+<v peterpurgathofer>wenn wir jetzt alle nach - 3000 Leute fahren dahin, 3500 Leute - und es gibt diesen Trend, dass jede CHI größer sein muss als die CHI davor.
+
+01:49:35.401 --> 01:49:39.200
+<v peterpurgathofer>Die letzte war 3800 Leute, glaube ich.
+
+01:49:39.201 --> 01:49:44.200
+<v peterpurgathofer>Also nur diese eine Konferenz wird 4000 Leute dazu bringen nach Hawaii und wieder zurück zu fliegen, that’s crazy.
+
+01:49:44.201 --> 01:49:54.800
+<v peterpurgathofer>Aber irgendwie schaffen wir es noch nicht, uns von diesen alten Formeln von Kommunikation und Austausch zu lösen, aber wir hätten alles, was wir dazu brauchen.
+
+01:49:54.801 --> 01:50:00.000
+<v peterpurgathofer>Und wenn du dir genau anschaust, was da passiert, wir machen ja auch schon alles.
+
+01:50:00.001 --> 01:50:05.000
+<v peterpurgathofer>Wir sind die, die den Double Blind Peer Review durchführen, nicht die Herausgeber der Journale.
+
+01:50:05.001 --> 01:50:08.300
+<v peterpurgathofer>Wir sind die, die das Editing inzwischen selber machen, nicht die Herausgeber der Journale.
+
+01:50:08.301 --> 01:50:14.700
+<v peterpurgathofer>Wir machen sämtliches Layout, bis es so weit ist, dass es genau ausschaut wie die Zeitung.
+
+01:50:14.701 --> 01:50:20.800
+<v peterpurgathofer>Die Zeitung tut das nur noch herausgeben und nicht mal mehr verschicken, weil es inzwischen alles heruntergeladen wird.
+
+01:50:20.801 --> 01:50:23.300
+<v peterpurgathofer>Also es ist verrückt.
+
+01:50:23.301 --> 01:50:30.900
+<v peterpurgathofer>Und wir kriegen alle nichts dafür, wir kriegen nichts für Double Blind Peer Reviewing, wir sind die Editoren dieser Zeitschriften,
+
+01:50:30.901 --> 01:50:33.700
+<v peterpurgathofer>und alles kassieren diese Verlage, das ist falsch.
+
+01:50:33.701 --> 01:50:43.500
+<v timpritlove>Der Widerstand ist ja zumindest in Bewegung, also gerade das Unternehmen Elsevier hat erhebliche Probleme, die alten Verträge so ohne weiteres fortzusetzen.
+
+01:50:43.501 --> 01:50:48.600
+<v timpritlove>Der Kampf ist, glaube ich, noch nicht ganz zu Ende gefochten, aber er ist zumindest wild im Gange.
+
+01:50:48.601 --> 01:50:55.000
+<v peterpurgathofer>Ja, ich glaube auch, dass es in den nächsten zehn Jahren alles zusammenbrechen wird wie ein Kartenhaus, aber das hätte ich dir vor zehn Jahren auch schon gesagt,
+
+01:50:55.001 --> 01:50:59.400
+<v peterpurgathofer>insofern bin ich da ein bisschen vorsichtig.
+
+01:50:59.401 --> 01:51:07.600
+<v peterpurgathofer>Aber ich glaube, dass das tatsächlich ein Schlüssel ist, wenn diese Strukturen zusammenbrechen, kann eine Wissenschaft entstehen, die interdisziplinärer ist.
+
+01:51:07.601 --> 01:51:11.500
+<v timpritlove>Wir haben ja zumindest vor vier Jahren diese Geschichte auch schon ausführlich dargelegt.
+
+01:51:11.501 --> 01:51:25.200
+<v timpritlove>Für mich die Gelegenheit mal kurz darauf zu verweisen, die Sendung über Open Science mit Nikolaus Kriegeskorte, wo viele dieser Argumente dann auch nochmal im Detail herausgebrochen werden.
+
+01:51:25.201 --> 01:51:35.900
+<v timpritlove>Ja Peter, ich denke, wir sind jetzt aber erst mal bei unseren Überlegungen über wie man denn einen Informatikstudiengang einzuleiten hat,
+
+01:51:35.901 --> 01:51:41.600
+<v timpritlove>um hier die richtige Wertevermittlung auch vorzubereiten, erst mal ans Ende gekommen.
+
+01:51:41.601 --> 01:51:45.600
+<v timpritlove>Gibt es noch eine Botschaft, die du uns am Ende noch mitgeben möchtest?
+
+01:51:45.601 --> 01:51:55.300
+<v peterpurgathofer>Es gibt eine Webseite, wo das ganze Konzept vielleicht nicht ganz so ausführlich, wie wir jetzt hier gesprochen haben, dargestellt ist,
+
+01:51:55.301 --> 01:51:58.500
+<v peterpurgathofer>aber doch immer mit ein-drei Seiten pro Kapitel.
+
+01:51:58.501 --> 01:52:00.500
+<v peterpurgathofer>Die wirst du wahrscheinlich verlinken.
+
+01:52:00.501 --> 01:52:01.800
+<v timpritlove>Bestimmt.
+
+01:52:01.801 --> 01:52:14.500
+<v peterpurgathofer>Die heißt wot.pubpup.org, das wunderschöne an dieser Geschichte ist, dass man dort ein Wort markieren oder einen Absatz oder einen Satz und kommentieren kann
+
+01:52:14.501 --> 01:52:23.300
+<v peterpurgathofer>und das wird dann dort angebracht, also das ist eine sehr diskursive Plattform und ich würde mich über jeden einzelnen Kommentar, der dort hinterlassen wird, freuen.
+
+01:52:23.301 --> 01:52:31.600
+<v timpritlove>Ja, und ich bedanke mich erst mal hier für die Ausführungen und bedanke mich natürlich auch wieder bei allen, die her zugehört haben bei Forschergeist.
+
+01:52:31.601 --> 01:52:37.100
+<v timpritlove>Hier geht es bald wieder weiter und ich sage, tschüss und bis bald.
+

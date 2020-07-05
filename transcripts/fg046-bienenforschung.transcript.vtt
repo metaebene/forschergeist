@@ -1,0 +1,772 @@
+﻿WEBVTT
+
+00:00:43.201 --> 00:01:19.900
+<v timpritlove>Hallo und herzlich willkommen zu Forschergeist, dem Podcast des Stifterverbands für die deutsche Wissenschaft. Mein Name ist Tim Pritlove und ich begrüße alle hier zu unserer 46. Ausgabe unserer Gesprächsreihe, wo einem bei den verschiedensten Themen, die wir hier schon immer gewählt haben, von Zeit zu Zeit sicherlich mal der Schädel brummt. Und heute ist das fast garantiert, denn heute werden wir uns über Bienen unterhalten. Und insbesondere auch die Bienenforschung und dazu begrüße ich meinen Gesprächspartner Jürgen Tautz, schönen guten Tag.
+
+00:01:19.901 --> 00:01:22.300
+<v jürgentautz>Hallo Herr Pritlove, ich grüße Sie.
+
+00:01:22.301 --> 00:01:40.200
+<v timpritlove>Wir befinden uns in Würzburg. Konkret an der Universität Würzburg, da sind Sie ja schon eine Weile tätig. Obwohl eigentlich sind Sie ja schon gar nicht mehr tätig oder? Also eigentlich ist die Karriere schon durch?
+
+00:01:40.201 --> 00:02:09.400
+<v jürgentautz>Ja also tätig bin ich noch kräftig, solange es die Gesundheit auch zulässt. Aber ich bin offiziell seit zwei Jahren im Ruhestand. Das heißt als sogenannter Seniorprofessor, schön klingender Titel, in dem glücklichen Zustand, dass ich meine Zeit jetzt wirklich völlig frei gestalten kann. Mit dem großen Nachteil, dass man eigentlich mehr im Einsatz ist als vorher. Also meine Frau sagte, es ist schlimmer, als es vorher gewesen ist.
+
+00:02:09.401 --> 00:02:11.200
+<v timpritlove>Das ist der sogenannte Unruhestand.
+
+00:02:11.201 --> 00:02:17.300
+<v jürgentautz>Der Unruhestand, weil man nur noch Dinge macht, die einem Spaß machen.
+
+00:02:17.301 --> 00:02:27.200
+<v timpritlove>Wie sind Sie denn dazu gekommen? Hat Sie so als Jugendlicher Forschung schon an sich immer interessiert?
+
+00:02:27.201 --> 00:03:27.500
+<v jürgentautz>Ja, also es hat familiäre Wurzeln, nicht beruflicher Natur, sondern ich hatte sehr naturverbundene Eltern, die viel Zeit mit uns Kindern, mit meiner Schwester und mir, zubrachten. Viele Spaziergänge draußen. Die Eltern haben keinen blauen Dunst von Natur gehabt, aber fanden das alles total spannend, total aufregend und haben uns Kinder immer auf alle möglichen Dinge aufmerksam gemacht. Einen Stein umgedreht und gesagt, guck mal was da drunter ist. Ein Stück Rinde umgedreht. Auf Schmetterlinge aufmerksam gemacht oder oder oder. Es war kein tiefer faktischer Wissenshintergrund dabei, aber alleine das Heranführen und das Interesse beibehalten. Also es heißt ja auch heute oft, dass das Interesse von Kindern an der Natur geweckt werden sollte. Das ist eigentlich gar nicht notwendig, das Interesse von Kindern ist vorhanden an der Natur.
+
+00:03:27.501 --> 00:04:28.800
+<v jürgentautz>Es ist nur sehr oft leider verschüttet. Nicht geweckt. Das war so die allererste Wurzel. Also ich habe sehr früh den Wunsch gehabt, Biologe zu werden als Beruf. Aber andere Menschen ebenfalls zu begeistern, also als Lehrer in die Schule zu gehen, war mein Berufswunsch, mein Berufsziel. Habe dann eben, wie man es so macht, Schulweg durchlaufen zu einer Zeit, wo es noch keinen Numerus Clausus gab, wo man also wirklich sehr frei in der Schule seine Neigungen entfalten konnte und auch die Nichtneigungen eher links liegen lassen konnte. Dann studiert in einem Zusammenhang, in dem man auch sich im Studium völlig frei entfalten konnte rein zeitlich und auch von den Gebieten, mit denen man sich beschäftigen konnte.
+
+00:04:28.801 --> 00:05:34.100
+<v jürgentautz>Also das reichte dann von der Biologie über die Geografie und Physik und Philosophie und Pädagogik und und und. Und am Ende hat dann mich ein von mir sehr bewunderter Forscher, der Herr Arkel, der leider verstorben ist, angesprochen und gemeint, also eigentlich taugen Sie für die Laufbahn eines Wissenschaftlers. Wollen wir mal eine Doktorarbeit versuchen? Und ich hatte es mir nicht lange überlegt, weil ich von der Persönlichkeit wirklich sehr überzeugt gewesen bin. Und ja das war dann der Einstieg in den Weg an der Hochschule. Wobei ich da dann als Jungwissenschaftler und ja bis mittelalter Wissenschaftler eigentlich einen thematisch inhaltlich bunten Flickenteppich zusammengestrickt hatte.
+
+00:05:34.101 --> 00:05:34.800
+<v timpritlove>Das war in Konstanz?
+
+00:05:34.801 --> 00:06:34.700
+<v jürgentautz>Das war zunächst noch in Darmstadt. War dann in Konstanz an der Universität mit den eigentlich üblichen Auslandsaufenthalten. An der Stanford University in Canberra, da bin ich eine Weile gewesen. Und eigentlich sehr sehr oft mein Arbeitsgebiet gewechselt. Weil Thematik gewechselt immer dann, wenn ich selbst was verstanden hatte, oder geglaubt habe, verstanden zu haben. Dann fand ich es langweilig. Und dann eben schnell was neues angefangen. Es ist nicht ganz einfach sozusagen, in einem strukturierten Wissenschaftsgebiet derart wild und sprunghaft vorzugehen. Wenn man häufig das Arbeitsgebiet wechselt, muss man sich immer wieder neu auch in einen neuen Kollegenkreis einfuchsen.
+
+00:06:34.701 --> 00:06:38.600
+<v jürgentautz>Der alte Kollegenkreis wundert sich, wo ist er denn geblieben? Was macht er jetzt plötzlich wieder.
+
+00:06:38.601 --> 00:06:42.600
+<v timpritlove>Und man ist am laufenden Meter wieder dieser Quereinsteiger?
+
+00:06:42.601 --> 00:07:38.500
+<v jürgentautz>Man ist eigentlich immer Quereinsteiger. Als mir das bewusst wurde, dass das nicht alle so machen und dann ein bisschen nachgedacht hatte, was es eigentlich für grundsätzliche Strategien gibt, da findet man eben im Grunde genommen die beiden Bereiche, die bei der Entdeckung eines jeden neuen Gebietes auch geografisch präsent sind. Das sind nämlich die Pfadfinder, die unterwegs sind, angucken, ob es irgendwas neues spannendes geben kann. Und das sind diejenigen, die dann das Feld wirklich tief bearbeiten und beackern. Und ich bewundere jeden Kollegen, der das Durchhaltevermögen hat, angefangen von seinem Diplomantenprojekt bis eben zum Ruhestand sich mit einer Frage zu beschäftigen, immer tiefergehend.
+
+00:07:38.501 --> 00:08:03.000
+<v jürgentautz>Enorm wichtig, dass wir wirklich diese ganzen Details sammeln können, die uns heute auch in vielen Bereichen weiterhelfen. Aber es ist eben denke ich auch notwendig, dass ein bestimmter Prozentsatz zumindest immer wieder ausbricht und neue, wie Sie sagen als Quereinsteiger, neue Gebiete für sich selbst erschließt.
+
+00:08:03.001 --> 00:08:21.900
+<v timpritlove>Ja weil man dadurch ja auch erst überhaupt erst neue Verknüpfungen zwischen diesem etablierten Wissen der Spezialexperten herstellen kann. So nach dem Motto, okay du hast dir diesen einen Teil super erschlossen. Guck mal da in diesem Bereich, da haben die gerade das rausgefunden und dadurch entstehen ja überhaupt erst solche Verbindungen.
+
+00:08:21.901 --> 00:08:58.400
+<v jürgentautz>Das ist der eine Punkt. Das Schaffen von Brücken. Und der andere ist, dass man ein Handwerkszeug gelernt hat, ein Rüstzeug gelernt hat, aber nicht in einer Denkschule aufgewachsen ist. Das heißt man geht im besten Sinne naiv an die Fragen heran, die man für interessant hält. Und kann dann eben eine Offenheit und Flexibilität praktizieren, die es leicht macht, neue Gedanken zu denken.
+
+00:08:58.401 --> 00:09:05.600
+<v timpritlove>Sie sind ja dann auch ein bisschen herumgereist. Ich glaube Sie hatten eine Weile den Lehrstuhl für Verhaltensbiologie auch?
+
+00:09:05.601 --> 00:09:06.300
+<v jürgentautz>Stellvertretend.
+
+00:09:06.301 --> 00:09:10.700
+<v timpritlove>Stellvertretend ausgefüllt. Wo war das nochmal?
+
+00:09:10.701 --> 00:09:12.300
+<v jürgentautz>Das war in der Universität Konstanz.
+
+00:09:12.301 --> 00:09:16.800
+<v timpritlove>Genau. Bis Sie dann nach Würzburg kamen, da hält es Sie aber schon eine Weile.
+
+00:09:16.801 --> 00:09:53.500
+<v jürgentautz>Ja. Das hat einmal beruflich Gründe, aber auch private Gründe. Familie fühlt sich hier sehr wohl. Die Kinder sind hier aufgewachsen, natürlich längst weg, aber wir Alten wollen hier bleiben sozusagen. Die Universität Würzburg bietet ein sehr gutes Umfeld, der Kollegenkreis hier ist sehr angenehm, sehr aufgeschlossen. Also es gibt eigentlich keinen Grund, oder es gab nie einen Grund, wegzugehen.
+
+00:09:53.501 --> 00:10:00.800
+<v timpritlove>Ja ist die Biologie hier besonders stark aufgestellt oder ist das eher breit gestreut?
+
+00:10:00.801 --> 00:10:33.700
+<v jürgentautz>Hängt sehr von den Persönlichkeiten ab, die hier die einzelnen Lehrstühle besetzen. Das wechselt sich, die Schwerpunkte ändern sich, die Möglichkeiten ändern sich. Und eigentlich immer sehr hoch angesiedelt. Also Kollegen sind im Zitationsindex, da stehen die weit oben. In der Einwerbung von Drittmitteln, von Forschungsmitteln stehen die weit oben. Also das ist gut.
+
+00:10:33.701 --> 00:11:13.300
+<v timpritlove>Ja jetzt in Ihrem Unruhestand begleiten Sie hier vor allem das Projekt Honey Bee Online Studies, kurz HOBOS. In dessen Wirkungszentrum wir uns jetzt auch gerade befinden. Da werden wir dann sicherlich gegen Ende der Sendung auch nochmal genauer drauf kommen, was es damit auf sich hat. Ich würde jetzt gern mal ein bisschen auf das eigentliche Thema gehen, was Sie ja dann irgendwann gefangen genommen hat. Also diese Spezialisierung hat ja dann doch irgendwann stattgefunden. Irgendwann kam die Biene ins Spiel. Warum?
+
+00:11:13.301 --> 00:12:27.400
+<v jürgentautz>Ja das war, wie ich später feststellen musste, ein sehr hinterlistiges Geschenk eines von mir sehr verehrten Kollegen, Martin Lindauer, ein Münchner Zoologe, der exponierteste Schüler des Nobelpreisträgers Karl von Frisch gewesen ist. Mit dem ich jahrelang eine Fahrgemeinschaft gebildet hatte. Er war damals im Ruhestand. Habe ihn viel zu Hause abgeholt und nach seinem Feierabend wieder nach Hause gebracht. Und in diesen gemeinsamen Fahrten haben wir sehr viel über Bienen geredet. Und ich fand das immer spannend, was Herr Lindauer da so erzählt hat. Habe dann auch angefangen, zu Hause mir Notizen zu machen. Dass ich viele Dinge nicht vergesse. Und dieser ganze Stapel an Notizzetteln existiert heute noch. Eines Tages sagte der Herr Lindauer, Sie arbeiten jetzt mit Krebsen, das war zu dem Zeitpunkt das aktuelle Forschungsgebiet.
+
+00:12:27.401 --> 00:12:29.400
+<v timpritlove>Krebse?
+
+00:12:29.401 --> 00:13:30.800
+<v jürgentautz>Neurobiologie an Krebsen ja. Und sagte, ja aber eigentlich sollten Sie sich mit Bienen beschäftigen. Es ist ein großer Fehler für einen Zoologen, sich nicht mit diesen spannenden Tieren auseinanderzusetzen. Und um mir keinen Fluchtweg zu lassen, hat er mir ein Bienenvolk geschenkt. Das war damals ein nahezu schockierendes Geschenk. Zu dem Zeitpunkt wusste ich zu Bienen, was eigentlich alle wissen. Erstens die machen Honig, das ist okay und die können stechen. Und zwar eben 50.000 Stachel in einem solchen Kasten. Ich habe Angst gehabt. Habe dann mit meiner Familie geredet und gesagt, was machen wir denn mit dem Geschenk von Herrn Lindauer? Wir wohnen in einem kleinen Dorf hier in der nähe von Würzburg. Da gab es die Möglichkeit, das Bienenvolk aufzustellen und das hat dann geklappt.
+
+00:13:30.801 --> 00:13:45.500
+<v jürgentautz>Es hat nicht lange gedauert, bis der Wunsch gewalkt ist, tatsächlich die Bienen jetzt zum neuen Forschungsobjekt zu machen. Das ging ziemlich rasant.
+
+00:13:45.501 --> 00:14:24.100
+<v timpritlove>Angefixt, wie man heute so schön sagt. Was wissen wir denn über die Biene? Also ich würde mal die These in den Raum stellen, dass die Biene so zu den am längsten genutzten Tieren des Menschen gehört? Ich weiß nicht, ob das stimmt. Ich meine es gibt ja viele andere Tiere, die dem Menschen sehr nahestehen, die Hunde und natürlich die Rinder etc., die Ziegen. Aber die Biene war eigentlich auch schon relativ früh dabei oder?
+
+00:14:24.101 --> 00:15:26.300
+<v jürgentautz>Ja also ich denke sogar, dass die Biene wahrscheinlich sogar tatsächlich das allererste Tier war, was vom Menschen gezielt worden ist, um genutzt zu werden. Man kann sich ja Gedanken darüber machen, woher es kommt, das Bienen einen derart hohen Sympathiefaktor besitzen. Also es gibt eigentlich niemanden, zumindest den ich kennen würde, der Bienen abstoßend oder ekelhaft findet. Wenn man sich mal vergegenwärtigt, welchen Tieren gegenüber der Mensch spontane Gefühle entwickelt, dann sind die bekanntesten negative Gefühle. Angst vor Spinnen, Angst vor Schlangen, also Ängste, die tief in unserem Erbgut verankert sind aus gutem Grunde. Das hat Sinn gemacht bei diesen Tieren.
+
+00:15:26.301 --> 00:15:31.700
+<v timpritlove>Wobei seit dem Internet sind natürlich Katzen ganz vorne.
+
+00:15:31.701 --> 00:16:28.100
+<v jürgentautz>Ja da kommt das Kindchenschema dazu, was unseren Pflegetrieb anspricht. Aber es ist schon … man könnte spekulieren. Das ist wildeste Fantasie, aber die Honigbienen sind geografisch in der gleichen Region entstanden, wie wir Menschen. Das ist im ostafrikanischen Hochland gewesen. Und unserer Vorvorvorvorvorvorgänger so etwa ein Meter hoch auf den Beinen aufrecht gehende Wesen, die haben gelebt von toten Tieren, die sie gefunden haben, Wurzeln, Käfern, also ein Speisezettel, den man nicht als besonders attraktiv empfinden würde. 
+
+00:16:28.101 --> 00:16:55.900
+<v jürgentautz>Und wenn die mal zufällig auf ein Bienennest, auf eine Honigfabrik gestoßen sind, das muss denen wir Nahrung von einem anderen Stern vorgekommen sein. Und man könnte sich wirklich denken, dass da die Wurzel sozusagen dieser hochgradig positiven Einstellung den Bienen gegenüber liegt.
+
+00:16:55.901 --> 00:17:29.600
+<v timpritlove>Na sicherlich nicht ohne Grund ist das Met so das Getränk der Götter, mit dem Honig und dem Alkohol natürlich auch. Also es zeigt ja schon eine gewisse Verehrung. Ich meine diese Süße und diese Reinheit von Honig, die ja sagen wir mal, Kinder dürften heute glauben, dass das halt so ein industrielles Produkt ist, wie alles andere halt so klar und so rein ist. Aber dass das halt einfach genauso in dieser Form direkt aus der Natur kommt, das ist natürlich auch schon eine besondere Erkenntnis.
+
+00:17:29.601 --> 00:18:09.400
+<v jürgentautz>Und wenn man sich anguckt, die ältesten Spuren einer Art Tierhaltung, die tatsächlich mit speziell angelegten Behausungen zusammenhängt, dann sind es auch wieder die Honigbienen, die vor 5-6000 Jahren in Ägypten und im heutigen Palästina in Tonröhren gehalten worden sind, wie es zum Teil heute noch passiert. Also man hat die Bienen dann auch tatsächlich versucht, von Beginn an zu kontrollieren.
+
+00:18:09.401 --> 00:18:46.000
+<v timpritlove>Die Biene hat ja irgendwie so eine herausragende Stellung auch im Insektenbereich. Ich meine Insekten gibt es viele und von nichts gibt es so viel wie von Insekten. Aber die Biene hat ja schon ein enormes Herausstellungsmerkmal in der Art und Weise wie sie mit ihrer Umgebung umgeht. Was weiß man denn über die Evolution dieser Tierart? Was das sozusagen ausgelöst hat. Also insbesondere diese Symbiose mit den Blumen. Wer war da zuerst?
+
+00:18:46.001 --> 00:19:50.800
+<v jürgentautz>Also das ist der Schlüssel sozusagen zum Verständnis der Entwicklung der Blütenwelt und der bestäubenden Insektenwelt, diese enge Verbindung zwischen diesen beiden Formen der Organisation. Pflanzen, die sich geschlechtlich fortpflanzen, sind sehr alt. Also in etwa 500 Millionen Jahre oder älter. Und das Zusammenbringen der Gameten, der Keimzellen, also männliche und weibliche Keimzellen, wurde dem Zufall überlassen. Mit Hilfsmedien wie dem Wind, dem Wasser, Regenwasser über die Mosel, diese Gameten zusammengebracht hat und und und. Das ist eine sehr ineffektive Art der Weitergabe der Gameten.
+
+00:19:50.801 --> 00:20:56.300
+<v jürgentautz>Eben weil es so unkalkulierbar ist, unberechenbar. Siehe Windbestäubung. Weht der Wind überhaupt, wie stark weht er, in welche Richtung weht er und und und? Und die Lösung des Ganzen, dieses Problempaket war in unglaubliche Mengen an diesen Gameten herzustellen. Ein paar werden es dann schon schaffen. Und wir erleben das heute noch, teilweise aus eher wenig begeistert, wenn Sie mal Ihr Auto und einer blühenden Kiefer parken haben, dann wissen Sie, wovon die Rede ist. Und es war eine geniale Erfindung der Natur, die Menge der notwendigen Gameten drastisch zu reduzieren, indem man Liebesboten einsetzt, Bestäuber. Es gab Zwischenschritte, das war nicht alles so perfekt, wie wir es heute finden.
+
+00:20:56.301 --> 00:21:44.600
+<v jürgentautz>Aber der Grundgedanke war, dass Insekten belohnt werden, indem sie Blüten besorgen, in den Blüten für sich etwas brauchbares finden und beim Blütenbesuch eben in geringerer Menge dann die eben notwendigen Pollen von Blüte zu Blüte weiter transportieren. Und wenn der Einstieg mal geschaffen ist in eine sogenannte Koevolution, also eine gemeinsame Voranentwicklung, treibt sich die Sache einfach unaufhaltsam. Die Blüten entwickeln Eigenschaften, die in dem Zusammenhang wichtig sind.
+
+00:21:44.601 --> 00:21:47.100
+<v timpritlove>Gerüche zum Beispiel.
+
+00:21:47.101 --> 00:22:56.200
+<v jürgentautz>Genau, die Düfte, die Blüten müssen erkennbar werden, müssen unterscheidbar werden. Es entstehen überhaupt attraktive Blüten, die ein Windbestäuber nicht benötigt. Also wenn Sie heute einen Blumenstrauß verschenken würden, der besteht aus Pflanzen vor der Erfindung der Bestäuberinsekten, dann würden Sie den vor die Füße geschmissen bekommen, weil er eben nicht schön ist. Tatsächlich grüne Stengel und ein paar eben dieser Gametenanlagen, die da ausgebildet sind. Auf der Seite der Bienen eben Entwicklungen und Erfindungen, die den Bienen es wieder leicht machen, mit den Blüten umzugehen. Es gibt viele viele viele Bestäuberinsekten, aber das besondere an den Bienen zum Beispiel, wie Sie gerade sagten, dass es nichts mehr gibt als Insekten, ist also biologisch sehr überraschend, dass es weniger Arten an Honigbienen gibt.
+
+00:22:56.201 --> 00:23:28.500
+<v jürgentautz>Weltweit sind neun Arten bekannt. Das ist verschwindend gering. Alleine in Deutschland haben wir etwa 4000 Arten an Käfern. Insekten gibt es unglaublich viele. Man schätzt etwa es könnten bis 20 Millionen Arten sogar sein. Die meisten noch unbekannt. Neun von diesen Honigbienen, das sind große Ausnahmen.
+
+00:23:28.501 --> 00:23:39.800
+<v timpritlove>Ist das eher ein Ergebnis einer internen Artenwettbewerbs innerhalb der Bienen, dass nicht mehr überlebt haben oder glauben Sie, dass sich gar nicht mehr entwickelt haben?
+
+00:23:39.801 --> 00:24:33.000
+<v jürgentautz>Also ich denke, dass diese neun derart erfolgreich sind, dass keine anderen mehr Platz haben neben ihnen. Also wenn wir nochmal auf dieses Verhältnis von bestäubenden Insekten und Blüten zu sprechen kommen. Das ist für Biologen weniger überraschend, wenn jede Art der Pflanze einen eigenen Bestäuber mitentwickelt hätte. Angepasst und spezialisiert. Gerade weil die Biene eben unangepasst, nicht spezialisiert ist, die können also alles sozusagen, hat sie es eben geschafft, als Monopolisierer und Globalisierer derart beherrschend zu werden, dass es anderen nahezu unmöglich ist, dann noch freie Nischen zu finden.
+
+00:24:33.001 --> 00:24:37.300
+<v timpritlove>So das Amazon der Bestäubung sozusagen.
+
+00:24:37.301 --> 00:24:39.700
+<v jürgentautz>Gutes Bild.
+
+00:24:39.701 --> 00:24:50.100
+<v timpritlove>Ja das zeigt ja auch gute Entwicklungen und Anpassungen an die Bedingungen. Aber diese neuen Arten, worin unterscheiden die sich dann noch?
+
+00:24:50.101 --> 00:24:54.600
+<v jürgentautz>Geografisch, die haben die Erde unterschiedlich aufgedröselt.
+
+00:24:54.601 --> 00:25:01.500
+<v timpritlove>Das ist also dann im Wesentlichen eine Anpassung an die Temperatur, Luftfeuchtigkeitsverhältnisse, Größe.
+
+00:25:01.501 --> 00:25:22.900
+<v jürgentautz>Ja. Die meisten sind in Asien. Da gibt es, wie die Ökologen sagen, sympathisch lebende, die in solchen Regionen beisammen gehen sich aus dem Wege. Also keine Konkurrenten, die sich gegenseitig Probleme bereiten würden.
+
+00:25:22.901 --> 00:26:05.200
+<v timpritlove>Interessant. Was macht denn nun die Biene aus? Also sie ist ja mit vielen anderen … es gibt ja auch Artverwandte, es gibt die Hummel, es gibt die Hornisse, also es gibt ja schon so bienenähnliche, die Wespe, was ist sozusagen der besondere Drive, den die Biene an der Stelle entwickelt hat, die ihre unmittelbaren Nachbarn so nicht draufhaben? Ich meine, die Hummel ist ja auch im Bestäubungsbusiness unterwegs eigentlich, aber spielt offenbar eine andere Rolle.
+
+00:26:05.201 --> 00:27:09.200
+<v jürgentautz>Also es gibt keine einfache Antwort, wie gerade so einige wenige der sogenannten Hautflügler, das ist die ganze Gruppe, zu der eben Wespen gehören, Bienen gehören, Hummeln gehören, Ameisen gehören. Das sind tatsächlich wenige der Bienen, die die Staatenbildung erfunden haben. Als Erklärung wird auf genetische Verhältnisse abgehoben. Die aber auch für andere Hautflügler gelten, die es nicht geschafft haben, staatenbildend zu werden. Das heißt es müssen bestimmte Voraussetzungen da sein im Erbgut, um überhaupt diese Bereitschaft mitzubringen, ein einziges fortpflanzungsfähiges Individuum in einem Volk einzusetzen.
+
+00:27:09.201 --> 00:27:09.700
+<v timpritlove>Also die Königin.
+
+00:27:09.701 --> 00:28:02.300
+<v jürgentautz>Die Königin genau. Und es müssen eben auch äußere Bedingungen da sein, die diese Entwicklung unterstützen. In einem Bienenvolk ist es unter den Weibchen eben nur die Königin, die selbst Nachkommen hervorbringt, dabei gewaltige Leistungen zustande bringt. Also ein Tag im Sommer bekommt eine Königin etwa 2000 Kinder jeden Tag. Und alle anderen Weibchen verzichten auf Nachkommen. Und das ist ein Punkt, der zum Beispiel den Evolutionsbiologen Charles Darwin enorm beschäftigt hat. Also Charles Darwin hatte richtig schlaflose Nächte wegen der Bienen.
+
+00:28:02.301 --> 00:28:11.400
+<v timpritlove>Weil normalerweise war immer große Durchmischung. Immer wieder neuer Genpool etc. und jetzt kommt auf einmal so ein Volk und meint, ach eins reicht ja, passt schon.
+
+00:28:11.401 --> 00:29:09.300
+<v jürgentautz>Absolut richtig. Der Darwin hat als die drei Säulen seiner Theorie aufgestellt, erstens es gibt mehr Nachkommen in jeder Generation als eigentlich notwendig ist. Zweitens die Selektion greift an, es werden diejenigen ausgelesen, die weniger gut angepasst sind und im Ergebnis tritt eben eine Fortentwicklung ein. Und die Tatsache, dass hier ein Organismus existiert, bei dem die meisten Weibchen keine Kinder haben und diese Anlagen sogar noch genetisch offenbar weitergegeben wird. Das hat einen Knoten ins Denken gemacht. Wie kann etwas weitergegeben werden, was eigentlich nicht weitergegeben wird?
+
+00:29:09.301 --> 00:30:07.900
+<v jürgentautz>Also diese Gedanken und die Probleme, die eben die staatenbildenden Insekten bereitet haben, dann denke ich mit einer Gründe dafür, warum er die Veröffentlichung seiner Artenentstehungsgedanken so lange hinausgezögert hat. Er sagte, wenn es an einem Punkt nicht stimmt, dann kann der ganze Rest eventuell auch zusammenfallen. Und er hat leider die Erklärung nicht mehr mitbekommen, die dann genetisch sozusagen zustande kam. Zu Darwins Zeiten existierte die Genetik ja de facto nicht, obwohl sie eigentlich schon hätte laufen können. Aber viele Dinge, wie die Entdeckung von Gregor Mendel war alles noch nicht so auf dem Tablett.
+
+00:30:07.901 --> 00:31:08.300
+<v jürgentautz>Und es hat dann gedauert bis zu zwei englischen Biologen, dem Herrn Hamilton und dem Herrn Dawkins, die eine Erklärung für diese Tatsache gegeben haben, dass eben tatsächlich Individuen oder dass tatsächlich Organismen entstehen können, die auf eigene Kinder verzichten und trotzdem genetische Vorteile haben. Und die beiden Grundgedanken kurz skizziert, der Richard Dawkins, der auch berühmt wurde für dieses Bonbon des egoistischen Genes, sagte, ja wir müssen uns eigentlich auf den Standpunkt eines Genes setzen.
+
+00:31:08.301 --> 00:32:19.200
+<v jürgentautz>Und sagen, aha ein Gen ist dann erfolgreich im Laufe der Evolution, wenn es sein Träger, den Besitzer dieses Genes dazu bringt, möglichst viele Kopien von sich selbst in die Welt zu setzen. Und das bezieht man, wenn man das zu hören bekommt, normalerweise auf die eigenen Nachkommen, in denen der eigene Genpool in einem gewissen Prozentsatz wieder auftaucht. Und der Herr Hamilton sagte dann, ja eigentlich müssen wir das weiterdenken, Kopien von Genen tauchen ja auch in Verwandten auf, die nicht meine Kinder sind. Also in Neffen, in Nichten und und und. Und dann ist das eine einfache Rechnung, dass zum Beispiel der genetische Gewinn für ein Individuum identisch ist, ob ich ein eigenes Kind großziehe oder ob ich zwei Neffen oder Nichten großziehe.
+
+00:32:19.201 --> 00:33:21.700
+<v jürgentautz>Das ist rein rechnerisch genau dasselbe. Und jetzt kommt der Punkt, der es erstaunlich macht, dass nur die Honigbienen oder die Wespen oder die Hummeln diesen Weg gewählt haben. Das ist die Art der Geschlechtsbestimmung bei den Hautflüglern. Wir Menschen, wie viele andere Tiere auch, haben eine Geschlechtsbestimmung, die wir im Chromosom läuft. Also wenn zwei X-Chromosomen zusammentreffen, dann entsteht ein Mädchen und wenn ein X- und ein Y-Chromosom zusammentreffen entsteht ein Junge. Und bei den Bienen ist es so, dass die Anzahl der Chromosomensätze, die haben kein Geschlechtschromosom, die Anzahl der Chromosomensätze bestimmt, ob es ein Männchen oder Weibchen wird.
+
+00:33:21.701 --> 00:33:25.600
+<v timpritlove>Ah, also mehr sind Weibchen?
+
+00:33:25.601 --> 00:34:28.600
+<v jürgentautz>Genau. Also wenn eine Eizelle unbefruchtet bleibt, dann entsteht ein Männchen. Wenn diese Eizelle befruchtet wird, dann entsteht ein Weibchen. Das ist eine tolle Geschichte. Also einmal von der Vorstellung von dieser Naturmechanik, dass ein Spermium durchgelassen werden kann zur Eizelle oder auch abgeblockt werden kann. Das ist wirklich genial. Die Tatsache, dass aus unbefruchteten Eiern Männchen entstehen, das gilt für alle Hautflügler, das hat ein schlesischer Pfarrer entdeckt, achtzehnhunderetwas, der Herr Dzierzon, der damit mit seinem Vorgesetzten große Probleme bekam. Der Herr Bischof war gar nicht so glücklich, zu hören, dass es neben der Jungfrau Maria noch andere weibliche Wesen gibt, die unbefruchtet intakte Nachkommen hervorbringen können.
+
+00:34:28.601 --> 00:34:35.700
+<v timpritlove>Und vor allem, dass dann die weibliche Variante sozusagen die Proversion ist. Wenn man das sozusagen verbessert, dann kommen Mädchen bei raus.
+
+00:34:35.701 --> 00:34:37.200
+<v jürgentautz>Richtig.
+
+00:34:37.201 --> 00:34:38.000
+<v timpritlove>Auch nicht so populär mit der Kirche.
+
+00:34:38.001 --> 00:35:37.900
+<v jürgentautz>Und diese komplexe Art der Geschlechtsbestimmung hat eine ganze Reihe von spannenden Konsequenzen. Eine zum Beispiel, dass die Männchen keine Väter haben. Wie gesagt, die entstehen ja aus unbefruchteten Eiern. Aber sie haben Großväter, weil ihre Mutter ja einen Vater hatte. Und was jetzt den Komplex, über den wir gerade reden, relevant ist, dass Schwestern untereinander mehr Gene gemeinsam haben, als ihre eigenen Kinder hätten. Kann man also Formeln herleiten, ist alles sehr gut ausgearbeitet in der Theorie. Also ich sage es nochmal, Schwestern untereinander haben mehr Gene gemeinsam, als sie mit ihren eigenen Kindern hätten.
+
+00:35:37.901 --> 00:35:58.400
+<v jürgentautz>Das heißt, wenn ein Bienenweibchen viel seine eigenen Gene in der Welt sehen möchte, dann sollte sie auf eigene Kinder verzichten und ihrer Mutter helfen, viele Schwestern zu bekommen.
+
+00:35:58.401 --> 00:36:04.500
+<v timpritlove>Das heißt diese Reproduktionsmethode der Bienen war eigentlich eher hilfreich darin, auch wirklich eine sehr starke Art zu entwickeln? Kann man das so festhalten?
+
+00:36:04.501 --> 00:36:37.300
+<v jürgentautz>Das war jetzt Voraussetzung. Ganz genau. Also diese Voraussetzungen haben auch viele andere Hautflügler, die nicht staatenbildend sind. Es müssen halt äußere ökologische Umstände dazukommen, diese wenigen Arten dann, diesen unumkehrbaren Weg in diesem Sozialstaat hat gehen lassen.
+
+00:36:37.301 --> 00:37:41.100
+<v timpritlove>Dann kommen wir doch mal auf diesen Sozialstaat, der sich jetzt im Bienenstock dort abbildet. Ich meine, Sie haben es auch gerade so schön hier auf dem Tisch liegen, so eine Honigwabe anschaut, also dann muss ich sagen, man hat das selten, dass man in der Natur etwas sieht, was irgendwie aussieht, wie so ein industrielles Produkt. Also diese hexagonale Struktur ist ja, stellenweise variiert es ein bisschen, aber an manchen Stellen ist die einfach so akkurat und so präzise, dass man sich das gar nicht anders vorstellen könnte, als dass das aus so einer metallischen Form herausgestanzt ist. Und das ist ja schonmal auch so ein weiterer Aspekt, der einen … also selbst so ein Termitenhaufen oder so ein Ameisenhügel oder so ist ja das pure Chaos. Sicherlich, da sind dann auch irgendwie geschickte Systeme angelegt und wie dann so diese einzelnen Röhren, aber das ist alles so für unser Auge diffus und so wie man es eigentlich erwarten würde.
+
+00:37:41.101 --> 00:38:06.400
+<v timpritlove>Und dann kommt diese Biene und sagt, nö hier klare Struktur zack zack, haben wir mal erfunden. Ist ja erstaunlich. Was ist nun drin in so einem Bienenstock? Was ist Tiel dieses Staates? Und was sind so die Erkenntnisse, wie sich das dann überhaupt so gefunden hat in dieser Komplexität?
+
+00:38:06.401 --> 00:39:05.400
+<v jürgentautz>Vielleicht verlieren wir noch einen Satz zu dieser Wabenstruktur, die Sie jetzt eben auch so beeindruckt. Ja der alte Astronom Johannes Kepler hat gemeint, Bienen müssen einen mathematischen Verstand besitzen, dass sie diese Exaktheit hinbekommen. Der französische Physiker Réaumur, der für eine Temparaturskala bekannt ist, die allerdings wenig genutzt wird, hat etwa um 1750 den Vorschlag gemacht, dass man das Chaos der Maßeinheiten auf den Wochenmärkten der Dörfer, also Elle, Speiche, Fuß und jeder hat eine andere Fußgröße gehabt und so weiter, auflösen sollte, indem man ein Einheitsmaß einführt.
+
+00:39:05.401 --> 00:39:15.000
+<v jürgentautz>Sein Vorschlag war, den Durchmesser der Zelle einer Bienenwabe dafür zu nehmen, eben wegen dieser hohen Genauigkeit.
+
+00:39:15.001 --> 00:39:20.700
+<v timpritlove>Ist das so? Also die Wabe hat immer eine feste Größe?
+
+00:39:20.701 --> 00:39:39.000
+<v jürgentautz>Es schwankt ein bisschen. Also im Detail, also auch dass die Waben, Zellen, in denen die Männchen, die Drohnen entstehen, haben etwas größeren Durchmesser, weil die etwas dicker sind. Also im Vergleich zu allen anderen Maßen, die damals existiert haben, ein gewaltiger Fortschritt gewesen.
+
+00:39:39.001 --> 00:39:47.100
+<v timpritlove>Das heißt es ist noch nicht mal nur die Form, die hier besonders ist, sondern es ist auch tatsächlich die Homogenität der Größe?
+
+00:39:47.101 --> 00:40:16.300
+<v jürgentautz>Richtig, absolut richtig. Und was eben verhindert hat, dass wir heute Längenangaben in Bienenzellen messen, ist, dass etwa zur gleichen Zeit der Überlegung des Herrn Réaumur die französische Nationalversammlung entschlossen hat, diesen Urmeter, diesen 100 Zentimeter langen Messingstab da als Referenz anzuführen. Historisch vielleicht ganz interessant dieser kleine Exkurs.
+
+00:40:16.301 --> 00:40:17.400
+<v timpritlove>Es hätte auch die Biene werden können?
+
+00:40:17.401 --> 00:41:15.200
+<v jürgentautz>Hätte die Biene werden können. Also das hält so ein Bienenvolk zusammen. Es ist vor allem die Tatsache, dass dieser Superorganismus, also alle zusammen, Leistungen hervorbringen können, die die Einzelbiene nicht schafft. Und das beginnt mit dem Bau der Wabe. Eine Biene kann es nicht, das müssen alle machen. Das geht über die Nestklimatisierung hin und und und. Man kann sich in Details verlieren. Aber man kann es auch auf den Punkt bringen, dass ein solcher Superorganismus, also diese Bienenkolonie insgesamt, alle aktuell notwendigen Dinge gleichzeitig erledigen kann. Ein Organismus kann nur sukzessive handeln.
+
+00:41:15.201 --> 00:41:30.700
+<v jürgentautz>Entweder sich fortpflanzen oder sich Nahrung beschaffen oder sich gegen Feinde zur Wehr setzen oder ein neues Nest bauen. Das geht alles eins nach dem anderen. Ein Bienenvolk schafft das alles gleichzeitig.
+
+00:41:30.701 --> 00:41:42.200
+<v timpritlove>Das ist ja auch ein hoher Grad an Spezialisierung, dass man einfach bestimmte organische Ausprägung, die Arbeiterbiene etc., schafft, um diese Funktion auch optimal vornehmen zu können.
+
+00:41:42.201 --> 00:42:27.100
+<v jürgentautz>Auch das ist ein gewaltiger Vorteil der Honigbienen oder ein großer Unterschied der Honigbienen anderen staatenbildenden Insekten gegenüber. Dass es in dieser Spezialisierung auch ausgedrückt im diesen Körperbau nicht gibt. Also bei Termiten finden Sie Tiere, die Soldaten sind, andere die im Innendienst tätig sind, die können nur das. Weil sie körperbaulich dafür ausgelegt sind. Jede Bienenarbeiterin kann alles machen. Alle Aufgaben, alle Tätigkeiten. Die sind ein Allzweckwerkzeug.
+
+00:42:27.101 --> 00:42:35.400
+<v timpritlove>Also es gibt keine Unterschiede sozusagen? Die Aufgabe im Bienenstock bedingt keine körperliche Anpassung?
+
+00:42:35.401 --> 00:43:21.600
+<v jürgentautz>Es ist richtig, aber auch wieder nicht richtig. Zum Beispiel wenn Wachs benötigt wird, um Waben zu errichten, dann wird dieses Wachs über Drüsenfelder von Bienen in einer bestimmten Altersklasse hergestellt. Aber jede andere Biene könnte das auch. Ich kann als experimenteller Biologe jede andere Biene auch dazu bringen, Wachs zu erzeugen. Aber in der Situation der biologischen Notwendigkeit machen das nur diejenigen, die gerade in dieser Altersklasse sind.
+
+00:43:21.601 --> 00:43:27.200
+<v timpritlove>Das heißt der Körper macht auch so eine Arbeitsanpassung über die Zeit sozusagen?
+
+00:43:27.201 --> 00:43:58.700
+<v jürgentautz>Ja und das spannende ist, dass dieser Zeitpfeil umgedreht werden kann. Ich kann Bienen einen Jungbrunnen durchlaufen lassen, dass alte Bienendrüsen entwickeln, das alte Bienen wieder zum Beispiel Futter für die Larven entwickeln können. Wenn ich diese Gruppe wegnehme, die es normalerweise tut. Bienen sind nicht festgelegt in ihrer Entwicklung.
+
+00:43:58.701 --> 00:44:03.700
+<v timpritlove>Das heißt Bienen haben auch mal soeben ewiges Leben erfunden oder?
+
+00:44:03.701 --> 00:44:27.900
+<v jürgentautz>Bienenvölker im Grunde schon. Ein Bienenvolk, wenn alles gut geht, ist eigentlich unkaputtbar. Das zerteilt sich höchstens mal zur Vermehrung. Ein Bienenvolk kann man wie die Bewohner einer Stadt betrachten. Die Bewohner wechseln.
+
+00:44:27.901 --> 00:44:32.100
+<v timpritlove>Aber eine einzelne individuelle Biene stirbt schon irgendwann?
+
+00:44:32.101 --> 00:45:00.400
+<v jürgentautz>Die sterben, die Lebensspannen sind sehr unterschiedlich. Die Königin kann bis zu fünf Jahren lang leben. Und Arbeiterinnen im Sommer 3-4 Wochen. Diejenigen, die den Winter überleben müssen, um im nächsten Frühjahr die neuen Arbeitskräfte zu stellen, 4-5 Monate. Die Lebenserwartung der Bienen ist enorm unterschiedlich.
+
+00:45:00.401 --> 00:45:06.200
+<v timpritlove>Aber jetzt auch nicht besonders lang?
+
+00:45:06.201 --> 00:45:59.000
+<v jürgentautz>Naja es kommt drauf an, woran Sie es messen wollen. In der Regel haben sie im Erwachsenenstadium kein langes Leben. Viele Insektenarten entwickeln sich als Larven jahrelang im Boden Eggerlinge, Käferlarven und leben dann auch nur ein paar Wochen im Sommer. Das ist nichts besonderes, das kurze Leben der Individuen. Also besonders ist das lange Leben des Volkes insgesamt. Und das unterscheidet auch wieder die Honigbienen von Wespen, Hornissen und Hummeln, dass das Volk den Sommer nicht übersteht. Wespenvölker, Hummelvölker sterben im Herbst ab, bis auf die neuen Königinnen, die im Frühjahr sowie jetzt neue Völker aufbauen müssen.
+
+00:45:59.001 --> 00:46:06.400
+<v timpritlove>Das heißt die Bienen sind auch als Staat extrem überlebensfähig. Aber ist das bei den Ameisen nicht ähnlich?
+
+00:46:06.401 --> 00:46:23.900
+<v jürgentautz>Ja, also Ameisen haben da vergleichbare Erfolgsbilanzen aufzuweisen. Haben aber andere Hintergründe und andere ökologische Zusammenhänge auch.
+
+00:46:23.901 --> 00:47:13.300
+<v timpritlove>Was mag denn nun diese, also auch der Bienenstock als solcher ist ganz offensichtlich auch so eine revolutionäre Entwicklung gewesen, die die Bienen erst überhaupt in diese Rolle gebracht hat. Weil dieses Überleben ja viel mit dem Vorrat zu tun hat, sprich mit dem Honig, der angelegt wird. Gibt es überhaupt ein anderes Lebewesen, zumindest im Insektenbereich, was eine vergleichbare Vorratshaltung aufweist? Ich meine auch die Eichhörnchen sammeln ihre Nüsse ein, also das ist ja nicht so, dass niemand einen Vorrat macht, aber so diese Destillation eines Überlebensstoffes aus Pflanzen gibt es das in ähnlicher Form?
+
+00:47:13.301 --> 00:48:19.000
+<v jürgentautz>Also die Tatsache, dass Bienen ihre eigene Welt schaffen, in Form dieses Nestes. Und auch alle relevanten Komponenten, zumindest die Endprodukte, selbst herstellen, das ist eine einmalige Geschichte. Es gibt klar andere staatenbildende Insekten, die sich um ihre Nahrung auf ganz spannende Weise kümmern. Die Blattschneiderameisen, die Landwirtschaft erfunden haben, indem sie Pilze züchten, die sie selbst dann wieder essen. Also die Tatsache, dass man diesen Baustoff Wachs herstellt, dass man den Honig als veredeltes Endprodukt aus dem Nektar herstellt und sich damit eben auch eine weitgehende Unabhängigkeit in einer unvorhersehbaren Umgebung schafft, ist wirklich etwas besonderes.
+
+00:48:19.001 --> 00:49:15.300
+<v jürgentautz>Und wenn man sich gedanklich in ein Bienenvolk hinein versetzt, dann kommt schnell die Vision einer Menschenkolonie auf einem Planeten in den Sinn, die eigentlich genauso wirtschaften muss, um in der feindlichen Umgebung zu überleben. Man schafft sich die eigene Welt, das ist der Bienenstock, der eigentlich nur verlassen werden muss in einer Notlage. Also Bienen fliegen jetzt nicht draußen von Blüte zu Blüte, weil sie die Blüten so schön finden, oder die Sonne so toll finden, sondern weil im Volk Not herrscht. Es muss Energie herangeschafft werden, es muss Nahrung herangeschafft werden und wenn das alles zusammen ist, dann gibt es eigentlich keinen Grund mehr, diese selbst geschaffene Welt zu verlassen.
+
+00:49:15.301 --> 00:49:20.900
+<v timpritlove>Also eigentlich die totalen Couchpotatoes die Biene?
+
+00:49:20.901 --> 00:50:00.300
+<v jürgentautz>In vielfacher Hinsicht, auch was den Aspekt des Bienenfleißes angeht, ist ja sprichwörtlich fleißig wie eine Biene, der Eindruck kommt natürlich schnell zustande, wenn ich mich vor ein Bienenvolk mal hinstelle und das ganze Gebrause und die vielen Bienen, die kommen und gehen, betrachte. Wenn ich mich aber auf eine einzelne Biene fokussieren kann, dann sehe ich, dass sich die Arbeitswut doch in Grenzen hält.
+
+00:50:00.301 --> 00:50:45.700
+<v timpritlove>Was ja auch so gefühlt in den letzten Jahrzehnten immer so ein Quell der Begeisterung war in Bezug auf Bienen, ist die Kommunikationsstruktur innerhalb dieses Bienenstocks, insbesondere eben die Kommunikation zum finden dieser Nahrungsquellen. Der Bienentanz wurde ja dann irgendwann ausgemacht als Kommunikationsprotokoll, um anderen Bienen mitzuteilen, wo denn was zu holen ist. Ich weiß nicht, ob das immer noch dieselbe Erkenntnis ist oder ist das schon wieder überholtes Wissen?
+
+00:50:45.701 --> 00:51:38.500
+<v jürgentautz>Ja also die Frage ist, wie genau wir das wissen und wie differenziert betrachte ich den Zusammenhang? Es ist sehr früh aufgefallen, schon dem alten Aristoteles, das an Nahrungsquellen, also an Blüten, an denen Bienen zufällig entdeckt worden sind, kurze Zeit später schon weitere Bienen aufgetaucht sind. Und Aristoteles meinte, ja die führen sich dorthin. Das ist schneller als der Zufall erlaubt, dass andere das auch finden.
+
+00:51:38.501 --> 00:52:44.400
+<v jürgentautz>Das hat dann fast zwei Jahrtausende gedauert, bis der österreichische Zoologe Karl von Frisch verstanden hat, dass die Form der Bewegung, die die erfahrenen Bienen, die diese Quelle entdeckt haben, im Stock aufführen, dass darin Information steckt. Also dass diese Bewegung nicht chaotisch ist, sondern dass bestimmte Aspekte dieser Bewegung mit der Lage der Futterstelle im Feld zusammenhängt. Und er hat sich dann natürlich überlegt, wie kann das helfen sozusagen, wie kann das helfen dem Rekruten, das Ziel zu finden. Er hat dann erste Experimente dazu gemacht. Sich sehr intensiv mit der Verständigung der Bienen im Feld beschäftigt.
+
+00:52:44.401 --> 00:53:44.400
+<v jürgentautz>Also sein allererster Gedanke war, dass Bienen sich auf irgendeine Weise im Feld auch helfen, dieses Ziel zu finden, also hat dazu sehr gute Experimente durchgeführt, die sind heute auch noch leicht nachzumachen, jedes Schulprojekt kann das angehen. Dieser Gedanke, dass Bienen sich im Feld auch helfen, ist dann leider ein bisschen in den Hintergrund gerückt durch diese sehr attraktive Idee, dass nur in diesem Tanz alle Information steckt, die einer Biene hilft, das Ziel punktgenau zu finden.
+
+00:53:44.401 --> 00:54:48.400
+<v jürgentautz>Und das ist genau das, was in Schulbüchern auch steht und das was jeder antwortet, wenn er gefragt wird, jetzt die Tanzsprache, dann ist die Antwort, im Tanz ist die Ortsangabe enthalten, über Richtung und Entfernung des Ziels und damit kommt ein Rekrut zurecht. Und wenn man es sich sehr genau anguckt, eigentlich die gesamte Bienenliteratur, die vor etwa 70-80 Jahren entstanden ist, stellt man fest, einmal, dass es sehr viele Unstimmigkeiten der Deutung der Daten gibt. Also alle Daten, die bekannt sind, sind sauber, das ist in Ordnung, die Sorge ist nur, wie betrachte ich die Daten und wie deute ich die?
+
+00:54:48.401 --> 00:55:20.700
+<v jürgentautz>Da ist eben der Ansatz, der der Datengegebenheit entspricht, der deckt alles ab. Wenn ich sage, der Tanz ist der Einstieg in eine lückenlose Verständigungskette zwischen den Bienen. Im Tanz steckt eine grobe Information über ein Gebiet sozusagen.
+
+00:55:20.701 --> 00:55:44.800
+<v timpritlove>Also im Prinzip ist es erst einmal der generelle Wegweiser, hier dahinten ist was zu holen, aber das letztlich ausfindig zu machen oder auch Neues zu entdecken, weil sonst würde man ja gar nichts Neues mehr finden, gibt es noch weitere Flugstrategien etc., die dann diese Informationen auch überhaupt erst einmal erzeugen müssen. Weil wenn es nur durch die Kommunikation mit dem Tanz ginge, wo kommt denn dann die Information eigentlich her?
+
+00:55:44.801 --> 00:56:16.700
+<v jürgentautz>Genau richtig. Es ist komplexer und das Bild wird wie gesagt deutlicher und umfasst eben alle mir bekannten Fakten sozusagen zur Bienenrekrutierung, wenn ich die erweitere und sage, die Bienen sind auch im Feld draußen soziale Insekten, die sich auch im Feld verständigen.
+
+00:56:16.701 --> 00:56:41.100
+<v timpritlove>Auch die Sensorik dieser Bienen scheint ziemlich abgefahren zu sein, weil man muss ja dann sozusagen diese Hinweise auch erst einmal umsetzen können. Man muss auch diese Richtung durchhalten, das ist ja wenn man durch Luft fliegt, die sich bewegt, nicht ganz einfach. Ist das richtig, dass die Polarisierung des Lichts an der Stelle auch von der Biene ausgewertet wird?
+
+00:56:41.101 --> 00:57:32.300
+<v jürgentautz>Ja. Also Bienen haben ein Sehsystem, das in der Lage ist, das Himmelslicht aufzuschlüsseln in Komponenten, die wir nicht wahrnehmen können. Also einmal können Bienen Lichtwellenlängen sehen, die sind kürzer, als die die wir sehen können. UV Licht, ultraviolettes Licht und eben das Ausmaß der Polarisierung des Lichtes, diese Tatsache hat auch Karl von Frisch entdeckt, übrigens mit der Original-Apparatur, die hier auf dem Tisch steht. Das ist also Karl von Frischs Polarisations…
+
+00:57:32.301 --> 00:57:40.000
+<v timpritlove>Wir sehen einen großen Polarisationsfilter, ordentlich in Aluminium eingearbeitet.
+
+00:57:40.001 --> 00:57:54.100
+<v jürgentautz>Ja, das war also der Einstieg darin. Und das ist den Bienen klar zur Orientierung der groben Himmelsrichtungen einzuhalten.
+
+00:57:54.101 --> 00:58:55.600
+<v timpritlove>Welche Rolle nehmen jetzt die Bienen ein in unserer derzeitigen Interpretation der gesamten Biodiversität? Es ist immer viel davon die Rede, wenn die Bienen sterben, stirbt der Mensch. So eine gängige Formulierung. Und dazu geht es ja noch einher mit der Warnung, ja übrigens sterben sie auch gerade, Bienenvölker gehen dahin. Man diskutiert verschiedenste Auslöser, die generelle Auswirkung der agrarindustriellen Bearbeitung der Landschaft in Verwendung von Chemikalien. Nur habe ich bisher immer so den Eindruck gewonnen, so ganz genau zu wissen, was derzeit so vorgeht, scheint man auch noch nicht so richtig. Wie sehen Sie das? Welche Rolle spielt die Biene in der Biodiversität und inwiefern arbeiten wir als Menschen derzeit der Existenz der Biene entgegen?
+
+00:58:55.601 --> 00:59:48.100
+<v jürgentautz>Also generell ist die Pflanzenwelt, die wir heute auf der Erde vorfinden, dominiert von Blütenpflanzen. Und diese Blütenpflanzen benötigen eben Bestäuber, von denen die Insekten generell den Großteil ausmachen. Innerhalb der Insekten ist es wiederum die Honigbiene, die die größte Einzelleistung bringt. Also ein Bienenvolk kann am Tag bis zu etwa 6 Millionen Blüten bestäuben. Wenn man die Honigbiene durch Hummeln ersetzen wollte, brauchen Sie für jedes Bienenvolk, was ausfällt, etwa 500 Hummelvölker, um die gleiche Bestäubungsleistung zu haben.
+
+00:59:48.101 --> 00:59:54.800
+<v timpritlove>Und wenn man jetzt mal alle Insekten nimmt, wie viel Prozent der Bestäubungsleistung wird von Bienen an sich übernommen? Kann man das irgendwie quantifizieren?
+
+00:59:54.801 --> 00:59:58.000
+<v jürgentautz>Ja um die 80 % wird angegeben.
+
+00:59:58.001 --> 01:00:00.300
+<v timpritlove>Okay vier Fünftel das ist ja schon einmal eine Ansage.
+
+01:00:00.301 --> 01:00:04.400
+<v jürgentautz>Das ist schon ordentlich.
+
+01:00:04.401 --> 01:00:05.800
+<v timpritlove>Von sechs Arten weltweit?
+
+01:00:05.801 --> 01:00:43.200
+<v jürgentautz>Neun Arten. Andere Bestäubungsinsekten, Bestäuberinsekten sind genauso wichtig. Fliegen, Wespen, Käfer, die Zufallsgäste an Blüten oder die systematischen Bestäuber, wie Solitärbienen, Honigbienen, übrigens auch sehr viele Arten, bei denen es sehr viele Arten gibt, allein in Deutschland über 500. Solitärbienen, einzellebende, die sich die Aufgabe mit den Honigbienen teilen können.
+
+01:00:43.201 --> 01:00:50.100
+<v timpritlove>Sozusagen die staatenbildenden Honigbienen, wo wir die neun Primärarten ausmachen können, die machen schon einmal 80%?
+
+01:00:50.101 --> 01:01:30.700
+<v jürgentautz>Die machen mit Abstand das meiste aus ja. In den Tropen gibt es noch andere Bienenarten, die nicht verwandt sind mit unserer Biene, stachellose Bienen, die keinen Giftstachel ausgebildet hat, die da die Bestäuberfunktion übernehmen in dem Naturhaushalt, der Ökologie. Und ja es ist spannend, sich zu überlegen, was passieren würde, wenn es diese Bestäuberinsekten generell nicht mehr gäbe. Oder wenn es speziell die Honigbiene nicht mehr geben würde.
+
+01:01:30.701 --> 01:01:33.900
+<v timpritlove>Fleurop könnte einpacken.
+
+01:01:33.901 --> 01:02:41.100
+<v jürgentautz>Das wären dramatische Folgen. Zu sprechen vom Bienensterben finde ich selbst ein bisschen unglücklich, weil es so klingt, als wenn wir unaufhaltsam auf einen Exitus hinlaufen. Probleme um Bienen, die bestehen, sind auch regional und unterschiedlich ausgeprägt. Wenn ich das ganze nicht differenziert betrachte, sondern nur unter dem Strich mir anschaue, welche Angaben zum Beispiel die Welternährungsorganisation macht, die Anzahl der Bienenvölker, dann ist ein kontinuierlicher Anstieg zu sehen. Also die Völker nehmen zu weltweit betrachtet. Wenn man das differenziert betrachtet, dann stellt man fest, dass es Regionen gibt in Westeuropa, den Vereinigten Staaten von Amerika, in denen es dann immer wieder diese Einbrüche gegeben hat in der Anzahl der Bienenvölker.
+
+01:02:41.101 --> 01:03:37.300
+<v jürgentautz>Und sehr unterschiedliche Ursachen hat. In Deutschland zum Beispiel hängt der stärkste Einbruch in der Anzahl der Bienenvölker mit der Wende zusammen. Also in der DDR ist Bienenhaltung stark subventioniert worden. Es hat sich gelohnt, viele Bienenvölker zu halten. Offenbar die Anzahl der Subventionberechnungsgrundlage die Anzahl der Bienenvölker gewesen ist. Und nach der Wende fiel das weg und es haben viele Imker in Ostdeutschland komplett aufgehört oder die Anzahl der Bienenvölker eben reduziert. Das ist eine der dramatischsten Knicks, die wir finden.
+
+01:03:37.301 --> 01:04:09.000
+<v jürgentautz>Es gibt andere Einbrüche, die einfach erklärbar sind, die auf Vergiftungen zurückzuführen sind oder oder oder. Die Problematiken und der Grund bei der Honigbiene sind sehr vielfältig. Es gibt keine einfache Antwort auf die Frage, sterben Bienenvölker deswegen? Weil es sehr unterschiedliche Ursachen gibt.
+
+01:04:09.001 --> 01:04:41.600
+<v timpritlove>Aber heißt das denn im Umkehrschluss, ich meine wenn so etwas wie die Wende dazu führt, dass auf einmal so wenig Bienenvölker da sind, heißt es, dass überhaupt nur so viele Bienenvölker da sind, weil es den Menschen gibt und die Existenz sozusagen unterstützt oder ist es nur ein Ausgleichsphänomen, es gibt weniger Bienen, weil die Biene generell in unserer vom Menschen so stark geprägte Natur gar nicht mehr den Raum findet, den es ursprünglich bräuchte? Also wenn der Mensch jetzt weg wäre, hätten wir dann mehr Bienen als jetzt oder weniger?
+
+01:04:41.601 --> 01:05:37.100
+<v jürgentautz>Es ist enorm schwierig zu beantworten. Man kann berechnen, dass auf dem Gebiet der heutigen Bundesrepublik Deutschland im Mittelalter, oder noch vor dem Mittelalter, als wir weitgehend bewaldet gewesen sind, es etwa 1 Million Bienenvölker Platz gefunden haben. Berechnungsgrundlage ist, Bienen leben in Abständen von 4-5 km voneinander etwa. Sie können sich ein Netz über Deutschland vorstellen, da passen 1 Million Völker rein. Gleich verteilt.
+
+01:05:37.101 --> 01:06:40.100
+<v jürgentautz>Es gibt heute ein bisschen weniger. Es ist nah an der Grenze von 1 Million etwa. Das heißt es ist keine Überbevölkerung vorhanden. Wir wissen nicht, und da haben wir gerade jetzt hier, da sind wir gerade dabei hier, aus unserem HOBOS-Team heraus ein Projekt zu starten, da es nicht sehr viele frei lebende Bienenvölker in Deutschland gibt. Dem Imker hat ja, bei tausenden von Schwärmen, die sich ihre eigene Behausung suchen in hohlen Bäumen, in Wäldern, keine Ahnung davon, wie viele es gibt und wo die zu finden sind. Ob es da geographische Schwerpunkte gibt oder oder oder. Und die Situation heute hier in Westeuropa ist die, dass die Bienen genauso auf uns Menschen angewiesen sind, wie umgekehrt.
+
+01:06:40.101 --> 01:07:03.800
+<v jürgentautz>Also wenn wir uns nicht um die Bienen kümmern würden, würden die Populationen dramatisch zusammenbrechen, bis auf einen kleinen Flaschenhals von Bienen, die robust genug sind, nicht betreut zu werden, das zu überstehen.
+
+01:07:03.801 --> 01:07:13.800
+<v timpritlove>Weil die jetzt schon genetisch so angepasst sind an die Situation oder weil einfach unsere urbanen Räume diese Möglichkeit gar nicht mehr bieten?
+
+01:07:13.801 --> 01:08:16.200
+<v jürgentautz>Beides. Also es geht um für solche viele Bienen natürlich Wohnmöglichkeiten, die sind einfach nicht mehr vorhanden. Und die Bienen, die wir hier halten, ist einmal eine Rasse, die nicht beheimatet gewesen ist, die kommt aus Kärnten, Krainer Biene, der Name sagt es - Apis mellifera carnica - die wird vom Imker bevorzugt eingesetzt wegen ihrer Sanftmut und ihres Fleißes. Ich überspringe jetzt mal die dunkle Biene, bei der sind diese Eigenschaften nicht derart ausgeprägt. Die ist also eher aggressiv und produziert geringe Mengen an Honig. Das sind beides Aspekte, die die Bienenhaltung für Imker nicht attraktiv machen.
+
+01:08:16.201 --> 01:08:17.300
+<v timpritlove>Aber die andere gibt es noch?
+
+01:08:17.301 --> 01:08:24.000
+<v jürgentautz>Die andere gibt es noch. Es gibt auch Bemühungen sie wieder hier zurückzubringen.
+
+01:08:24.001 --> 01:08:28.300
+<v timpritlove>Weil sie immerhin auf die Gegebenheiten eigentlich besser angepasst ist?
+
+01:08:28.301 --> 01:08:30.300
+<v jürgentautz>Ja.
+
+01:08:30.301 --> 01:08:39.200
+<v timpritlove>Das heißt so der Niedergang der Biene steht jetzt nicht unmittelbar bevor, trotz aller Probleme?
+
+01:08:39.201 --> 01:09:11.900
+<v jürgentautz>Nein, also das auf gar keinen Fall. Selbst wenn wir aufhören würden, uns um die Honigbiene zu kümmern, und gar nichts mehr machen, wird es einen gewaltigen Einbruch geben in der Population der Biene, aber der Zusammenbruch wird an einem Punkt enden, an dem dann die zufällig gut angepassten Bienen zu einem Neuaufbau führen würden.
+
+01:09:11.901 --> 01:09:44.600
+<v timpritlove>Jetzt würde ich ganz gern noch mal auf die konkrete Bienenforschung, die derzeit betrieben wird und noch mal ganz ganz konkret auf die Bienenforschung, die Sie hier betreiben, zurückkommen wollen. Ich hatte das ja eingangs schon erwähnt, hier befindet sich ein – ich weiß nicht, wie nennt man so etwas? - ein Institut HOBOS, hat das so den Rang eines Instituts oder eines Projektes? Oder ist es sogar eine richtige Abteilung?
+
+01:09:44.601 --> 01:09:49.900
+<v jürgentautz>Nein es ist eher ein Projekt.
+
+01:09:49.901 --> 01:10:15.500
+<v timpritlove>Honey Bee Online Studies, der Versuch, der Biene mittels Fernbeobachtung quasi auf die Spur zu kommen. Wenn ich das richtig sehe, gibt es verschiedenste speziell ausgerüstete Bienenstöcke. Ich weiß nicht, wie viele sind es?
+
+01:10:15.501 --> 01:10:19.600
+<v jürgentautz>Im Augenblick drei, ein vierter ist im stehen.
+
+01:10:19.601 --> 01:11:20.700
+<v timpritlove>Okay, die vollgepfropft sind mit Sensoren, Kameras und anderer Elektronik, um sozusagen dem Treiben in diesem Bienenstock möglichst permanent so den BigBrother beiwohnen zu lassen. Und damit nicht genug, das ist ja nicht ungewöhnlich, solche Techniken zum Einsatz zu bringen, um sich so ein bisschen mehr Einblick zu verschaffen. Das Ganze ist dann auch noch vernetzt, man kann aus der Ferne über das Netz, über das Internet all diese ganzen Sensordaten abrufen. Auch die historischen Sensorikdaten, man kann die Kameras sich live anschauen und den Bienen beim Krabbeln und ihrem sonstigen Treiben zuschauen. Und das ganze Projekt ist gedacht als Forschung, aber auch als Quelle für Lehrmaterialien in Schulen.
+
+01:11:20.701 --> 01:12:13.600
+<v timpritlove>An der Stelle muss ich auch noch einmal kurz einwerfen, dass Ihre Arbeit ja auch unter anderem vom Stifterverband mit ausgezeichnet wurde, im Zusammenhang mit der DFG wird ja der Kommunikatorpreis ausgegeben, 2012 ging der an Sie, gerade für diese Arbeit. Da Sie sich ja generell, das haben wir in diesem Gespräch ja auch schon gemerkt, sehr um die Biene bemühen und die Vermittlung. Ich bin hier umringt von interessanten Büchern, Hörbüchern auch. Wie sind Sie jetzt auf die Idee gekommen mit HOBOS, was ist quasi die Notwendigkeit? Oder ist das nur so eine verrückte Idee gewesen, müsste man mal machen, weil hat ja noch keiner gemacht? Was steckt dahinter, wie sehen Sie selber dieses Projekt?
+
+01:12:13.601 --> 01:13:15.400
+<v jürgentautz>Der Beginn sozusagen im Aufbau dieser Hightech-Bienenvölker war eine gewisse Beunruhigung in dem Sinne, dass wir als Verhaltensbiologen in einer sehr ähnlichen Lage sind, wie es die Kernphysiker für sich auch beanspruchen. Nämlich die Frage, inwieweit nehme ich eigentlich durch meine Anwesenheit, durch die Art und Weise, wie ich die Tiere beobachte, Einfluss auf das, was ich zu sehen bekomme? Das beginnt mit dem berühmten Schwänzeltanz, da muss der Bienenstock aufgemacht werden, da muss Licht hinein geschienen werden. Es wird immer eine unnatürliche Situation geschaffen, aber das was ich beobachte, als natürlich angenommen.
+
+01:13:15.401 --> 01:14:11.800
+<v jürgentautz>Und der Wunsch war eben, ob es nicht möglich wäre, Bienen, in dem Fall jetzt, zuzuschauen und etwas tiefer in das Innenleben des Superorganismus einzudringen, ohne sie zu stören. Ohne aktiv Einfluss zu nehmen. Dazu kommt die Tatsache, dass die modernen Möglichkeiten, die uns heute gegeben sind, die meßtechnischen Möglichkeiten, die Möglichkeiten der Datenverarbeitung, im eigenen Sinne deutlich erweitern können. Also in der Generation von Frisch war es möglich, fünf, acht, zehn Bienen gleichzeitig höchstens zu beobachten. Und was die anderen 50.000 machen kriegt man nicht so richtig mit. 
+
+01:14:11.801 --> 01:15:05.300
+<v jürgentautz>Diese modernen Methoden erlauben eben, dass diese ganzen inneren Vorgänge auch messtechnisch zu erfassen sind. Das Verhalten zu korrelieren mit der Umgebung, um mit der Biene zusammenzubringen. Also der Einstieg noch mal, der Wunsch zu Hause einen Bildschirm mit Daten und Verhalten zu studieren, das eben weit weg vom Beobachter stattfindet. Und die zweite Schiene sozusagen, naja es kommen mehr Stränge sogar zusammen.
+
+01:15:05.301 --> 01:16:08.700
+<v jürgentautz>Ein weiterer Strang war die Idee, das was wir hier beobachten oder sehen können einmal allen Interessenten zugänglich zu machen. Sogar alle Interessenten teilhaben zu lassen an den neuen Beobachtungen, weil es derart viel die Datenfülle, die mittlerweile auch in unserem Datenspeicher aufgelaufen ist, ist so gigantisch, dass wir das selbst nie und nimmer analysieren können. Und die Einladung an die breite Öffentlichkeit, sich selbst zu beteiligen, mit Fragen, Beobachtungen. In Einzelfällen hat das schon hervorragend geklappt, es gab einen Nutzer, der über Nacht sich an den Bildschirm gesetzt hat, hat eine neue Schlafhaltung der Bienen entdeckt, die vorher auch nicht bekannt gewesen ist. Also es kann jeder seine eigenen neuen Entdeckungen machen.
+
+01:16:08.701 --> 01:16:15.700
+<v timpritlove>Es hat sich wirklich jemand einfach vor den Livestream gesetzt und das so gesehen, also gar nicht mal die Daten ausgewertet, sondern einfach visuelle Beobachtung?
+
+01:16:15.701 --> 01:17:16.100
+<v jürgentautz>Nur hin geguckt. Hat geguckt, sich das Datum gemerkt, uns eine Mail geschickt, was ist da los? Wir haben uns das aus dem Datenspeicher dann wieder angeguckt. Daraus resultiert dann der nächste Schritt, dass man dieses HOBOS-Projekt auch hervorragend in der Lehre einsetzen kann. An Schulen, an Universitäten. Weil Bienen einen hohen Sympathiefaktor besitzen. Weil Bienenvölker in ihrer Komplexität für jedes Fachgebiet etwas abwerfen. Also nicht nur die Biologie, sondern auch die Mathematik, die Informatik. Wenn in der Schule große Datenmengen behandelt werden, dann greift man gerne auf Börsenkurse zurück, was die Kinder total spannend finden.
+
+01:17:16.101 --> 01:18:13.000
+<v jürgentautz>Und alternativ vielleicht Fußball Daten Tabellen, das finden die Jungs gut, die Mädels eher ätzend. Und Bienen bieten eben tatsächlich für jeden etwas. Und was uns bisher optimistisch stimmt, dass die Überlegung des HOBOS-Projekts ist, vielleicht sogar mehr oder weniger es verbindlich in den Schulunterricht zu verankern, ist zu finden in der Tatsache, dass ja auch sehr viele Investitionen im Augenblick getätigt werden, wie IT an Schulen. Und da sollten eigentlich Projekte, die nur so zu bearbeiten sind mit diesen modernen Methoden, durchaus Aufmerksamkeit und Interesse finden.
+
+01:18:13.001 --> 01:18:48.400
+<v jürgentautz>Weil wenn ich diese modernen Methoden einsetze, um das Schulbuch auf den Bildschirm zu bringen, dann auch interaktiv rede und die Frage mit Ja oder Nein beantwortet werden kann, dann ist es vielleicht ein bisschen überdimensioniert. Also wenn ich Völker habe, sie nur mit diesen Methoden bearbeitet werden können, der Einsatz dieser Daten des Bienenvolks, dann sollte es passen eigentlich.
+
+01:18:48.401 --> 01:18:59.200
+<v timpritlove>Das heißt diese Überlegungen haben eigentlich dann zusammengeführt, das zu machen. Also ist das in der Form noch gar nicht gemacht worden vorher?
+
+01:18:59.201 --> 01:19:31.900
+<v jürgentautz>Es gibt wenig vergleichbare Projekte. Eins, das mir bekannt ist, hat der amerikanische Friedensnobelpreisträger und Ex-Vizepräsident Al Gore ins Leben gerufen. Da geht es um Wetterdaten. Ein paar 1000 Schulen praktisch Wetterdaten aufnehmen, melden die an einen Zentralcomputer in Austin Texas und er sagt eine Weltkarte wird daraus. Und die Kinder haben sich toll dabei gefühlt, einen eigenen Beitrag geleistet zu haben.
+
+01:19:31.901 --> 01:19:33.900
+<v timpritlove>Also Klimaforschung an der Stelle?
+
+01:19:33.901 --> 01:20:34.900
+<v jürgentautz>Klimaforschung, wenn man so will ja. Den eigenen Beitrag, den Kinder dabei leisten können, auch wenn HOBOS eingesetzt wird, denke ich ist enorm motivierend. Wenn wir an den alten Konfuzius denken, der gesagt hat, erzähl mir etwas und ich vergesse es, zeige es mir, vielleicht erinnere ich mich, aber lass mich mitmachen und schon bin ich wirklich voll dahinter und voll dabei. Und es geht ja darin nicht nur jetzt um spannenden Schulunterricht, sondern es soll ja auch darum gehen, dass Erkenntnisse und Überlegungen gewonnen werden, die vielleicht sogar über das eigene Handeln nachdenken lassen. Und da helfen halt die Bienen in ihrer Bedeutung im Naturhaushalt und in der Ökonomie auch.
+
+01:20:34.901 --> 01:20:43.500
+<v jürgentautz>Ich sage ganz gerne, wenn es die Biene nicht gäbe, mit diesen vielfältigen Einsatzmöglichkeiten, müsste man sie erfinden.
+
+01:20:43.501 --> 01:21:21.600
+<v timpritlove>Wie sieht denn jetzt die Beteiligung an diesem Projekt konkret aus? Also wenn wir vielleicht mal auf die Forschung als solche gehen, wir hatten ja gerade eben schon dieses eine Beispiel, das einfach durch die visuelle Beobachtungsinformationen heraus gewonnen werden können. Aber was für eine Art Sensorik liefert hier Daten und was ist Ihre Erwartungshaltung an diese Datenströme, was man daraus vielleicht herauslesen kann? Also ist das nur so ein, wir machen mal so viel, wie geht und dann gucken wir mal, was dabei rauskommt? Oder haben Sie sich bei den Sensoren schon konkrete Dinge gedacht?
+
+01:21:21.601 --> 01:22:22.600
+<v jürgentautz>Ja es gibt eine endlos lange Liste an Fragen, an Fragenkomplexen, die man da behandeln könnte und die haben wir eine Zeit lang im Internet veröffentlicht, konkrete Vorschläge. Die Fülle an Möglichkeiten ist so riesig, die erschlägt einen zunächst mal. Und es geht am Ende darum, Korrelationen zu finden, Verbindungen zwischen äußeren Parametern, äußeren Veränderungen und der Reaktion der Bienen daraufhin, kurzfristig aber auch langfristig zum Thema Klimawandel. Wir haben jetzt mittlerweile einen kompletten Datensatz von viereinhalb Jahren Tag und Nacht, Sommer und Winter, ohne Lücken. Und an diese Datensätze kann man dann eben nachträglich herangehen mit Fragen.
+
+01:22:22.601 --> 01:22:32.500
+<v jürgentautz>Wie der Vergleich harter Winter, milder Winter oder oder. Also was einem da in den Sinn kommt.
+
+01:22:32.501 --> 01:22:35.800
+<v timpritlove>Was für Sensoren existieren jetzt in diesen Bienenstöcken?
+
+01:22:35.801 --> 01:23:16.200
+<v jürgentautz>Konkret wird folgendes bestimmt, wir messen in allen sogenannten Wabengassen, das sind die Räume zwischen den Waben, da messen wir Temperatur, wir messen die Luftfeuchte im Stock, wir messen den übertragenen Schall, man kann dann zu hören, wie es da zugeht in dem Bienenvolk. Wir zählen die Bienen, die kommen und gehen pro Minute, also die Flugaktivität, wir messen kontinuierlich das Gewicht des Bienenvolkes mit sehr empfindlichen Waagen.
+
+01:23:16.201 --> 01:23:17.600
+<v timpritlove>Das heißt der ganze Bienenstock wird die ganze Zeit gewogen?
+
+01:23:17.601 --> 01:23:24.000
+<v jürgentautz>Ständig ja, ein paar 100 Bienen machen da schon was aus, das kann man am Gewicht auch erkennen.
+
+01:23:24.001 --> 01:23:26.700
+<v timpritlove>Das heißt man weiß auch immer, wie viel Honig sozusagen gerade da ist?
+
+01:23:26.701 --> 01:23:29.500
+<v jürgentautz>Richtig genau.
+
+01:23:29.501 --> 01:23:34.000
+<v timpritlove>Praktisch. Ist ja auch was für Imker.
+
+01:23:34.001 --> 01:23:52.600
+<v jürgentautz>Klar. Und eben diese Kamerabeobachtung mit Endoskopen, und das betrifft den Punkt des Nichtstörens der Bienen, diese Endoskope laufen bei einer Lichtquellenlänge, die die nicht sehen können. Für die Bienen ist es stockdunkel in ihrer eigenen Umgebung.
+
+01:23:52.601 --> 01:23:55.700
+<v timpritlove>Was können Sie nicht sehen? Infrarot oder?
+
+01:23:55.701 --> 01:24:14.300
+<v jürgentautz>Es ist rot ja, also Rotlicht ja genau. Wärmekameras sind im Einsatz und alles was bezahlbar ist. Das ist ein Projekt, was von Sponsoren getragen wird.
+
+01:24:14.301 --> 01:24:22.000
+<v timpritlove>So und all diese Sensoren werden dann stündlich befragt oder häufiger?
+
+01:24:22.001 --> 01:24:22.100
+<v jürgentautz>Häufiger ja.
+
+01:24:22.101 --> 01:24:34.100
+<v timpritlove>Also Kameras liefern natürlich ein permanentes Videobild, aber die anderen Sensoren? Im Sekundentakt oder wie muss man sich das vorstellen den Datenstrom?
+
+01:24:34.101 --> 01:24:44.400
+<v jürgentautz>Ich habe es nicht ganz exakt im Kopf. Aber 1 Minute ist das längste sozusagen. Also kürzer als 1 Minute, ich weiß es nicht genau.
+
+01:24:44.401 --> 01:24:50.500
+<v timpritlove>Weiß man ja auch vorher nicht, wo man da besondere Effekte raus hat.
+
+01:24:50.501 --> 01:24:54.100
+<v jürgentautz>Das kommt dazu ja.
+
+01:24:54.101 --> 01:25:07.600
+<v timpritlove>Das hießt all diese ganzen Daten kann man quasi mit einer eigenen Software, die man entwickelt, könnte man aufnehmen. Kriegt man die sozusagen in Echtzeit geliefert diese Daten, wenn man möchte?
+
+01:25:07.601 --> 01:25:09.400
+<v jürgentautz>Ja genau.
+
+01:25:09.401 --> 01:25:19.200
+<v timpritlove>Okay, also es geht jetzt nicht nur so mit, ich lade mir mal einen Tag später die Daten herunter, sondern man kann im Prinzip in dem Moment, wo eine Messung vorgenommen worden ist, diese Daten auch sofort empfangen?
+
+01:25:19.201 --> 01:25:24.100
+<v jürgentautz>Richtig. Da kann man direkt zugucken.
+
+01:25:24.101 --> 01:25:25.800
+<v timpritlove>Das wird auch getan?
+
+01:25:25.801 --> 01:25:40.800
+<v jürgentautz>Ja. Und da hatten wir im letzten Jahr etwa anderthalb Millionen Zugriffe auf diese Daten. Wobei ich nicht genau weiß, wie viele Nutzer sich dahinter verbergen.
+
+01:25:40.801 --> 01:25:43.300
+<v timpritlove>Das heißt man muss sich nicht registrieren?
+
+01:25:43.301 --> 01:25:49.100
+<v jürgentautz>Am Anfang haben wir es mit Registrierung gemacht, jetzt ist es total offen.
+
+01:25:49.101 --> 01:25:58.100
+<v timpritlove>Aber Sie wissen ja sicherlich von ein paar Forschern, die vielleicht mit bestimmter Erwartungshaltung oder mit einem bestimmten Ziel, mit einem bestimmten Projektziel an diesen Daten jetzt kleben?
+
+01:25:58.101 --> 01:26:31.500
+<v jürgentautz>Ja, da keine Rückmeldungen erforderlich sind, wissen wir nicht, wer alles daran arbeitet. Es gibt Leute, klar, eine junge Kollegin in London, die sich mit dem Thema Klimawandel befasst, die auf unsere Daten zugreift. Also einzelne Fälle kennen wir, aber den kompletten Überblick haben wir nicht. Aber das ist auch Absicht, dass sich keiner da gehemmt fühlen muss, sich damit zu beschäftigen.
+
+01:26:31.501 --> 01:27:01.100
+<v timpritlove>Okay, aber Sie werden ja sicherlich das eine oder andere Feedback bekommen, wo Sie wissen, ah okay, da ist jetzt jemand der Sache auf der Spur. Die Webseite nennt ja auch bestimmte Projekte bezüglich der Forschung, also unter anderem die Rettung einer bestimmten Bienenrasse aus Ägypten. Das sind jetzt Ideen, die Sie geliefert haben oder das sind Projekte, die andere durchführen oder die Sie selber durchführen?
+
+01:27:01.101 --> 01:27:39.200
+<v jürgentautz>Die Projekte, die auf unserer Homepage präsentiert sind, sind eigene Projekte. Die machen wir alle selbst in Zusammenarbeit mit Partnern, da beginnt erst einmal die Konzeptentwicklung. Innerhalb einer Problemidentifizierung, in dem Fall der ägyptischen Honigbiene, deren Verschwinden kurz bevorstand. Dann eine Konzeptentwicklung, eine Suche nach dem Sponsor, dann kann es losgehen.
+
+01:27:39.201 --> 01:28:02.600
+<v timpritlove>Und was soll jetzt, also was ist alles noch nicht realisiert worden? Also wie sehr lassen sich diese Bienenstöcke jetzt noch mehr weiter aufrüsten? Gibt es noch irgendwelche Auffassungen, die derzeit noch gar nicht getan werden? Oder geht es eher darum, möglichst viele von diesen Bienenstöcken herzustellen und zu betreiben?
+
+01:28:02.601 --> 01:28:55.800
+<v jürgentautz>Ja, also genau, letzteres ist das nächste Ziel, dass ich gerne angehen möchte in dem Zusammenhang, dass möglichst viele, aber weniger aufwendige, das muss ja bezahlbar bleiben, in Stücke zerteilt werden, untereinander vernetzt werden. Im Augenblick haben wir wenige, die sehr viel Daten über punktuelle Ereignisse liefern. Also ein Ort. Aber wenn Sie sich für globale Entwicklungen interessieren, die dann vielleicht sogar entsprechend zu entsprechenden Entscheidungen führen können, ein Entgegensteuern ermöglichen, da muss ein Netzwerk aufgebaut werden.
+
+01:28:55.801 --> 01:28:57.700
+<v timpritlove>Wo stehen denn die Bienenstöcke?
+
+01:28:57.701 --> 01:29:05.100
+<v jürgentautz>Konkret haben wir alles hier in Würzburg, das ist das aller erste gewesen.
+
+01:29:05.101 --> 01:29:05.200
+<v timpritlove>Also hier auf dem Campus?
+
+01:29:05.201 --> 01:29:30.100
+<v jürgentautz>Auf dem Campus ja. Eins ist auf dem Werksgelände eines Ingolstädter Automobilherstellers. Und eines in Schwartau bei Lübeck. Und eines ist in Betrieb genommen worden in Bornemouthe in Südengland, an der englischen Südküste.
+
+01:29:30.101 --> 01:29:32.100
+<v timpritlove>Also es ist auch nicht auf Deutschland beschränkt?
+
+01:29:32.101 --> 01:29:52.500
+<v jürgentautz>Nein, auf gar keinen Fall. Gerade die Schulnetzwerke sind am weitesten fortgeschritten in Luxemburg, in Belgien gibt's einen Studiengang. In der Schweiz ist noch einiges aufzubauen. Und ja so läuft es.
+
+01:29:52.501 --> 01:30:09.100
+<v timpritlove>Ist es nicht eigentlich interessant, so einen Bienenstock möglichst in seiner „natürlichen Umgebung“ vorzuhalten? Also weiß nicht, wo würden denn Bienen primär Leben in Deutschland, eigentlich in Wäldern oder?
+
+01:30:09.101 --> 01:30:09.300
+<v jürgentautz>Ja.
+
+01:30:09.301 --> 01:30:30.700
+<v timpritlove>Würde man dann nicht am liebsten so einen Bienenstock einfach mitten in so einem mehr oder weniger naturbelassenen Wald aufstellen? Könnte ein bisschen schwierig werden mit dem Internetanschluss, könnte ich mir vorstellen. Also ist das ausgeschlossen, weil das logistisch wahrscheinlich nicht machbar ist? Oder ist das eigentlich sehr sehr sehr wünschenswert, und Sie suchen nach Wegen, wie es geht?
+
+01:30:30.701 --> 01:30:43.100
+<v jürgentautz>Wir gehen sogar einen Schritt weiter als iIhr Vorschlag. Wir machen diese Messungen in hohlen Bäumen an wild lebenden Bienenvölkern konkret.
+
+01:30:43.101 --> 01:30:44.000
+<v timpritlove>Okay.
+
+01:30:44.001 --> 01:31:14.500
+<v jürgentautz>Also hier in Deutschland an zwei Stellen im Augenblick und wir haben ein Projekt mit Kolleginnen in Südafrika begonnen, wo noch sehr viele Bienenvölker frei in hohlen Bäumen oder in Felsspalten leben, da Daten zu gewinnen. Die verglichen werden sollen mit Daten, die aus beimkerten Völkern stammen.
+
+01:31:14.501 --> 01:31:17.700
+<v timpritlove>Aber wiegen kann man die natürlich dann nicht oder?
+
+01:31:17.701 --> 01:31:21.800
+<v jürgentautz>Das ist richtig. Man kann nicht alles machen. Das fällt flach.
+
+01:31:21.801 --> 01:31:26.100
+<v timpritlove>Aber natürlich die ganze optische, akustische Begleitung und Temperatursensoren.
+
+01:31:26.101 --> 01:31:30.100
+<v jürgentautz>Klima und so weiter. Ja genau.
+
+01:31:30.101 --> 01:31:57.700
+<v timpritlove>Klingt ja so ein bisschen, wie auch so ein Objekt für die jetzt in so vielen Bereichen diskutierten Auswertungen durch künstliche Intelligenz. Dass man sozusagen diese ganzen Daten nimmt und abstrakt quasi durchforstet nach irgendwelchen Auffälligkeiten und sich darin abzeichnenden Strukturen. Ist das schon in irgendeiner Form auf der Agenda?
+
+01:31:57.701 --> 01:32:18.400
+<v jürgentautz>Ja. Das ist auch sehr erfreulich, dass hier in Würzburg Kollegen mit den entsprechenden Lehrstühlen sitzen, die sehr interessiert sind, zum Beispiel in neuronalen Netzwerken ähnliches anzusetzen.
+
+01:32:18.401 --> 01:32:24.400
+<v timpritlove>Das heißt an der Stelle ist man auch mit Informatik auf einmal verbunden, wo man das vielleicht so bisher noch gar nicht gewesen ist.
+
+01:32:24.401 --> 01:32:41.400
+<v jürgentautz>Ja sehr eng. Und wir sehen auch immer wieder, dass auch die Studierenden, die sich damit auseinandersetzen in Form von Bachelorarbeiten oder Masterarbeiten. Und ob sie von der Thematik her Bienen interessant finden.
+
+01:32:41.401 --> 01:33:19.100
+<v timpritlove>Und haben Sie irgendwelche Hoffnungen, was auf diesem Wege noch so entdeckt wird? Also gibt es konkrete Fragestellungen, wenn man derzeit noch gar nicht absehen kann, wie man die eigentlich lösen kann, weil es unter Umständen so viele Datenuntersuchungen erfordern würde? Also kann man irgendwie Auffälligkeiten in nächtlicher Aktivität, die sich so ohne weiteres aus so diffusen Daten nicht klar herauslesen lassen. Gibt es da Wünsche?
+
+01:33:19.101 --> 01:34:19.900
+<v jürgentautz>Aus den Dynamiken der Anpassung der Bienenvölker an äußere Gegebenheiten, die sehr langsam oder sehr schnell verlaufen können, messen wir interne Rückkopplungen verlangen. Innerhalb der Bienenvölker. Die meisten haben überhaupt keine Vorstellungen. Also zum Beispiel Bienen sind Organismen, die in der Praxis von diesem viel verwendeten Prinzip der Epigenetik Gebrauch machen. Aus der Genetik, aus der Erbanlage aufgebaut Umwelteinflüsse zu konkreten Ergebnissen führen. Und das ist altbekannt. Erbgut und Umwelt bestimmt die Ausprägung von Eigenschaften.
+
+01:34:19.901 --> 01:35:26.700
+<v jürgentautz>Und die Bienenvölker sind in der Lage, hier aktiv einzugreifen. Zum Beispiel über die Temperatur, die in einer bestimmten Entwicklungsphase der entstehenden Biene eingesetzt wird. Und dass am Ende immer alles richtig ist sozusagen. Diese internen Rückkopplungen verstehen wir noch überhaupt nicht. Also wir sehen nur das Ergebnis. Wir verstehen sie nicht, weil einmal das Untersuchen einer komplexen Struktur mit internen Rückkopplungen leider oft mit einer Störung dieser Rückkopplung verbunden ist. Sie können das sehen ..., dass da sehr viele parallel laufende Daten oder Interaktionen sind, die da stattfinden.
+
+01:35:26.701 --> 01:35:47.500
+<v jürgentautz>Deswegen ist ja dieser berühmte Schwänzeltanz so gründlich untersucht in seinen Bewegungsdetails, weil er auffallend ist und leicht zu sehen ist. Und alles andere, was da passiert, da ist ständig etwas los, das entgeht uns im Detail.
+
+01:35:47.501 --> 01:36:28.200
+<v timpritlove>Das heißt theoretisch wäre es vorstellbar, dass wenn man entsprechende Beobachtungen mit Algorithmen anlegt an die Videodaten, dass man vielleicht noch ganz andere Tanzformen auf einmal ausmacht, die man so bisher nicht gesehen hat, weil sie eben für uns nicht offensichtlich sind. Weil sie für uns nicht als solche erkennbar sind, sondern nur eine sehr niederwellige Bewegung ist, in einem größeren Block von Bienen, den wir so gar nicht unmittelbar wahrnehmen würden, die man aber dann durch solche maschinellen Beobachtungen aber vielleicht sehr wohl raus rechnen kann?
+
+01:36:28.201 --> 01:36:50.900
+<v jürgentautz>Ja das ist mit Sicherheit so. Wenn Sie sich mit einer Videokamera auf einen Bahnhofsvorplatz stellen und die Menschen sehen, die da durcheinander laufen, kommen Sie nie auf die Idee, dass da zwischen einzelnen es Wechselwirkungen gibt, sie kommen nie dahinter, wer gerade da ist, wer wo herkommt, und wo er hingehen will.
+
+01:36:50.901 --> 01:36:56.800
+<v timpritlove>Wer zu welcher Gruppe gehört, wer mit wem gerade eine Information ausgetauscht hat.
+
+01:36:56.801 --> 01:36:56.800
+<v jürgentautz>Exakt.
+
+01:36:56.801 --> 01:37:02.100
+<v timpritlove>So Dynamik in der Jugendgruppe zum Beispiel.
+
+01:37:02.101 --> 01:37:09.200
+<v jürgentautz>Das wäre natürlich ein Ziel sozusagen, da auch ein bisschen weiterzukommen.
+
+01:37:09.201 --> 01:37:14.500
+<v timpritlove>Wie lange läuft das Projekt jetzt schon?
+
+01:37:14.501 --> 01:37:22.000
+<v jürgentautz>Etwa zehn Jahre. Über den Daumen.
+
+01:37:22.001 --> 01:37:26.300
+<v timpritlove>Und hat so kontinuierliche Upgrades gesehen, da ja auch die Sensorik sehr viel besser geworden ist.
+
+01:37:26.301 --> 01:37:37.700
+<v jürgentautz>Genau. Hängt auch von den finanziellen Möglichkeiten ab, die sich so bieten. Weil Mitarbeiter bezahlt werden müssen.
+
+01:37:37.701 --> 01:37:45.500
+<v timpritlove>Und wenn es jetzt genug Geld geben würde, was wäre so der nächste Sensor, der hier noch seinen Raum finden müsste oder vielleicht verbessert werden müsste?
+
+01:37:45.501 --> 01:38:25.400
+<v jürgentautz>Was für den Imker enorm interessant ist, die Möglichkeit bestimmte Maßnahmen, die notwendig sind, in den betreuten Bienenvölkern, punktgenau durchführen zu können. Also Vorhersagen machen zu können, was im Bienenvolk passiert. Und da wäre es sehr hilfreich, bestimmte den zeitlichen Verlauf chemische Botenstoffe im Bienenstock messen zu können.
+
+01:38:25.401 --> 01:38:38.800
+<v timpritlove>Also so Pheromone etc. Diese dann unmittelbar abfüllen zu können über entsprechend chemische Sensoren. Die gibt es schon diese Sensoren? Oder müssen die noch entwickelt werden?
+
+01:38:38.801 --> 01:39:00.200
+<v jürgentautz>In der Weise nicht. Es gibt natürlich Analysemethoden, die die chemische Analyse zu bieten hat, also Gaschromatographie, Massenspektroskopie und sowas, aber der Traum wäre ein Sensorsystem, das eben bezahlbar und klein in ein Bienenvolk eingebaut werden kann.
+
+01:39:00.201 --> 01:39:07.900
+<v timpritlove>Sozusagen so ein Miniaturchromatograph?
+
+01:39:07.901 --> 01:39:09.600
+<v jürgentautz>Ja richtig.
+
+01:39:09.601 --> 01:39:38.600
+<v timpritlove>Mit Laserstrahlen. Jetzt der zweite Aspekt von HOBOS neben der Forschung, der sich ja vor allem an aktive Forscher wendet, Leute, die in etwa wissen, was sie tun, vielleicht auch nur in ihrem Feld, wie zum Beispiel der Informatik, und das vielleicht eher als Betätigungsfeld sehen. HOBOS wendet sich auch an Schulen und versteht sich ja auch selber als Lehrprojekt.
+
+01:39:38.601 --> 01:39:39.500
+<v jürgentautz>Ja.
+
+01:39:39.501 --> 01:39:56.400
+<v timpritlove>Da sind ja die Ziele sicherlich andere. Was läuft da an Kooperationen und warum denken Sie, dass es jetzt für Schulen und vergleichbare Institutionen interessant sein müsste?
+
+01:39:56.401 --> 01:40:30.800
+<v jürgentautz>Interessant aus zwei Gründen. Der eine Grund ist, dass die Bienen selbst schnell Interesse wecken bei Betrachtern. Und der zweite Grund ist, dass Bienen in der Art vielseitige Zugänge erlauben. Ich kann den Religionsunterricht an den Bienen hochziehen, genauso wie den Mathematikunterricht oder Kunst.
+
+01:40:30.801 --> 01:40:31.400
+<v timpritlove>Religionsunterricht?
+
+01:40:31.401 --> 01:40:50.800
+<v jürgentautz>Ja es gibt kein Schulfach, oder es ist egal, zu welchem Zielthema Sie wollen, wenn Sie bei den Bienen anfangen, brauchen Sie höchstens drei Schritte und dann sind Sie da. Können Sie ja mal ausprobieren.
+
+01:40:50.801 --> 01:40:54.800
+<v timpritlove>Gibt es da ein Beispiel?
+
+01:40:54.801 --> 01:41:28.700
+<v jürgentautz>Ich sage mal in der Physik sind wir schnell bei Regelsystemen zum Beispiel. Fangen wir an bei Temperatur im Bienennest, dann sind wir sofort bei Pflegesystemen, Sollwert, Stellgröße sonst was. In der Kunst die Wabenstruktur oder die darstellende Kunst, in der Soziologie.
+
+01:41:28.701 --> 01:41:29.100
+<v timpritlove>Architektur.
+
+01:41:29.101 --> 01:41:48.300
+<v jürgentautz>Soziologie, die Übertragung von Gesellschaftsmodellen aus dem Bienenvolk. Anarchie, Demokratie, Feminismus, egal was Sie wollen.
+
+01:41:48.301 --> 01:41:53.600
+<v timpritlove>Okay ein Füllhorn von Antworten für alle nur denkbaren Fragen.
+
+01:41:53.601 --> 01:42:59.700
+<v jürgentautz>Absolut. Und damit eben auch eine der Forderungen an modernen Unterricht erfüllt, dass man nicht mit dem Baukasten, mit dem Bauchladen unterwegs ist, sondern in einigen wenigen Fällen möglichst weitestgehend fächerübergreifenden Schulunterricht entwickeln kann. Und da ist die Biene perfekt geeignet. Und wenn wir es dann noch schaffen, Schulen zu vernetzen untereinander, in denen Kinder komplexe Probleme gemeinsam bearbeiten, auf eben der Spur der inneren Organisation der Bienen, dass alle gemeinsam mehr leisten können als einer alleine, könnte man ja sogar träumen und sagen, das könnte auch ein Fall sein, der interkulturelle Brücken zwischen Kindern, zwischen Jugendlichen bringt.
+
+01:42:59.701 --> 01:43:28.400
+<v jürgentautz>Weil eines der Quellen vieler Probleme unserer Welt ist ja die Sprachlosigkeit untereinander. Es wird nicht mehr miteinander geredet, es wird nur noch übereinander geredet. Wenn ich Projekte habe, die Schüler verbinden, die mehr sind als ein gegenseitiger Schulbesuch, wirklich gemeinsam arbeiten lassen, und das ist über das Internet ohne weiteres möglich, dann ist Biene perfekt geeignet. Sie hat in allen Kulturkreisen einen enorm hohen Stellenwert.
+
+01:43:28.401 --> 01:43:38.000
+<v timpritlove>So, dass sich auch Schulen untereinander vernetzen können, indem sie ihre eigenen Bienenstöcke beobachtbar machen und das bei Partnerschulen in anderen Ländern dann sozusagen auch noch mit einbringen?
+
+01:43:38.001 --> 01:43:41.000
+<v jürgentautz>Absolut so.
+
+01:43:41.001 --> 01:44:49.100
+<v timpritlove>Ich frage mich nur gerade, klar es gibt da viele Ideen, wie man das vielleicht in den Unterricht einbauen könnte. Nun wissen wir ja, dass Lehrer jetzt nicht unbedingt nach weiterer Arbeit schreien, es mag dann immer die einzelnen geben, die jetzt besondere Motivation haben und von allem nicht genug bekommen können. Die so was sehr dankbar auch bereit sind, in ihren Unterricht mit einzubauen. Wenn man jetzt allerdings das eher als Angebot sieht mit, ja kuck mal, wir haben hier quasi eine Plattform, mit der man solche Projekte machen kann. Aber schon fertige Lehrbeispiele, Aktivitätsbeispiele haben will, gibt es da irgendwelche Gruppen, die bei HOBOS so quasi als Vermittler andocken und sagen, wir können ein vielleicht nicht komplett fertiges Modell des Unterrichts, aber doch einen relativ konkret formulierten Beitrag für den Unterricht so anbieten? Gibt es da entsprechende Kooperationen?
+
+01:44:49.101 --> 01:45:22.200
+<v jürgentautz>Ja. Also im HOBOS-Team arbeiten Didaktiker und Pädagogen mit, die konkrete Unterrichtsblocks entwickeln. Für die unterschiedlichsten Schulfächer. Unterschiedliche Schultypen. Also das Endziel ist tatsächlich dann, dass ein Lehrer sagt, jeder hat eine Woche zu füllen, was bietet mir HOBOS an.
+
+01:45:22.201 --> 01:45:24.700
+<v timpritlove>Da haben Sie sozusagen gleich ein paar Antworten auf dem Tisch?
+
+01:45:24.701 --> 01:46:27.200
+<v jürgentautz>Ja es ist letztlich noch am Anfang. Es ist enorm aufwendig, in Deutschland wegen des Bildungsföderalismus, wir müssen an alle Bundesländer denken und an alle unterschiedlichen Lehrpläne, das macht es relativ schwierig. Die Vision ist, dass man also gerade auch, dass ein Lehrkörper in einer Art Zangenbewegung zugehen könnte. Einmal das Angebot attraktiv machen, von der Theorie her, aber auch von der Praxis her. Es wird für Kinder dann besonders spannend, wenn sie selber auch ein Bienenvolk halten können. Das hängt dann sehr von dem verfügbaren Personal ab, sage ich mal. Wenn es an der Schule keinen Lehrer gibt, der gerade zufällig Imker ist, dann lässt sich das leicht über örtliche Imkerverbände organisieren.
+
+01:46:27.201 --> 01:47:27.000
+<v jürgentautz>Es gibt keine Region der Erde, abgesehen von Grönland und Antarktis, in dem man nicht Imker finden kann. Und das sind nicht selten ältere Herrschaften, die mit großer Begeisterung Kindern ihr Wissen weitervermitteln. Also sozusagen eine Art Patenschaft an den Schulen übernehmen. Das ist alles wunderbar organisiert. Das ist die eine Zange. Und die andere wäre der Wunsch, die Hoffnung, dass der Kultusverantwortliche von den Möglichkeiten, die wir hier bieten, dass die erstens erkannt werden, und auch mehr oder weniger verbindlich in neu zu entwickelnde Lehrpläne eingebaut werden. Dass also eine Art leichter Druck auch entsteht, sich mit diesen Dingen zu beschäftigen.
+
+01:47:27.001 --> 01:47:41.100
+<v timpritlove>Und Sie taugen sicherlich auch als Anlaufstelle für Pädagogen, um genau solche Lehrprojekte vielleicht auch neu entwickeln zu können, neue Ideen zu finden. Wenn man die Biene in alle anderen möglichen Themen reinbringen kann.
+
+01:47:41.101 --> 01:47:51.000
+<v jürgentautz>Also wir sind begeistert über jeden, der sich in das Projekt einbringen will. Absolut begeistert.
+
+01:47:51.001 --> 01:48:14.700
+<v timpritlove>Ja ich bin auch begeistert. Ein sehr schönes Projekt und ich bedanke mich auch sehr für die umfangreiche Darstellung des Wesens der Biene. Über die es offenbar eine ganze Menge herauszubekommen gibt, aber auch schon eine ganze Menge klar ist, aber darüber haben wir jetzt eine Menge gehört. Ich sage vielen Dank Jürgen Tautz für die Ausführungen.
+
+01:48:14.701 --> 01:48:18.300
+<v jürgentautz>Gerne Herr Pritlove. War mir ein Vergnügen.
+
+01:48:18.301 --> 01:48:26.500
+<v timpritlove>Mir auch und ich hoffe, es war auch allen ein Vergnügen, hier wieder zuzuhören. Das war es, ich sage, tschüss und bis bald.

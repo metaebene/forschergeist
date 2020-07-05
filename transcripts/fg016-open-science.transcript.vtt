@@ -1,0 +1,725 @@
+WEBVTT
+
+00:00:45.801 --> 00:01:22.100
+<v timpritlove>Hallo und herzlich willkommen zu Forschergeist, dem Podcast des Stifterverbandes für die deutsche Wissenschaft. Mein Name ist Tim Pritlove und hier ist die 16. Ausgabe unserer Gesprächsserie, die mich heute ausnahmsweise mal nach England geführt hat. Genauer nach Cambridge und dort an die MRC Cognition and Brainsciences Unit. Über die wir gleich noch ein bisschen mehr erfahren werden, denn hier arbeitet auch mein Gesprächspartner für die heutige Ausgabe. Ich begrüße Nikolaus Griesgrotte. Hallo.
+
+00:01:22.101 --> 00:01:24.600
+<v nikolauskriegeskorte>Guten Tag.
+
+00:01:24.601 --> 00:01:31.500
+<v timpritlove>Vielleicht gleich mal vorweg MRC Cognition and Brainsciences Unit, wovon ist das die Unit?
+
+00:01:31.501 --> 00:02:07.400
+<v nikolauskriegeskorte>Ja MRC steht für Medical Research Council und das ist eine Funding Agency für Wissenschaft auf der einen Seite und die haben auch ein eigenes Wissenschaftsprogramm mit Instituten, so ähnlich wie die Max-Planck-Gesellschaft, aber fokussiert auf biomedizinische Forschung. Und die haben Institute über das ganze Land verteilt und unsere Unit ist eins dieser Institute und wir beschäftigen uns mit Kognitionswissenschaft.
+
+00:02:07.401 --> 00:02:09.800
+<v timpritlove>Also Neurowissenschaften, es geht ums Gehirn?
+
+00:02:09.801 --> 00:02:10.300
+<v nikolauskriegeskorte>Genau.
+
+00:02:10.301 --> 00:02:11.400
+<v timpritlove>Ums Lernen?
+
+00:02:11.401 --> 00:02:21.300
+<v nikolauskriegeskorte>Genau. Lernen ist ein Aspekt. Das Lernwahrnehmung, Schlüsse ziehen, motorische Kontrolle.
+
+00:02:21.301 --> 00:02:24.800
+<v timpritlove>Ist das dann eher schon biologisch orientiert?
+
+00:02:24.801 --> 00:02:57.300
+<v nikolauskriegeskorte>Das ist an der Schnittstelle zwischen Neurobiologie du Kognition. Das ist ein sehr interdisziplinäres Feld, wo viele Disziplinen zusammenkommen. Einerseits messen wir Gehirnaktivität, andererseits machen wir Verhaltensexperimente. Und wir versuchen zu verstehen, wie die Informationen, die wir über die Sinne aufnehmen, im Gehirn verarbeitet wird und wie die uns erlaubt, uns erfolgreich zu verhalten in der Welt.
+
+00:02:57.301 --> 00:03:05.200
+<v timpritlove>Vielleicht mal zu dir. Du bist jetzt hier als Forscher tätig. Wie lange schon?
+
+00:03:05.201 --> 00:03:43.700
+<v nikolauskriegeskorte>Seit fünf Jahren. Ich interessiere mich vor allem für das visuelle System. Also ich interessiere mich dafür, wie wir die Welt sehen und automatisch Schlüsse ziehen aus diesen extrem reichen Informationen. Wenn hier zum Beispiel die Tür aufgeht und ein Doktorand hier rein guckt in das Zimmer, dann wundert der sich zuerst mal, dass er hier nicht einen leeren Raum findet, wo er vielleicht in Ruhe einen Artikel lesen kann, sondern dass er da was sieht, was er normalerweise hier nicht finden wird, nämlich zwei Leute, die sich gegenüber sitzen und ein paar komische Apparate auf dem Tisch.
+
+00:03:43.701 --> 00:03:48.100
+<v timpritlove>Kabel und Drähte am Kopf. Das sollte ja nicht so ungewöhnlich sein hier.
+
+00:03:48.101 --> 00:04:57.100
+<v nikolauskriegeskorte>Drähte am Kopf nicht, aber diese Kopfhörer, die sind vielleicht doch unerwartet. Und dann ist ihm das vielleicht ein bisschen peinlich. Er macht die Tür wieder zu und geht wieder die Treppe runter. Und kann sich dann aber an ganz vieles erinnern. Er hat einen unmittelbaren sehr starken visuellen Eindruck dieser Szene. Und das ist nicht nur wie ein statisches Foto, sondern er hat vielleicht auch ein Wort unserer Unterhaltung wahrgenommen. Er hat Bewegungen wahrgenommen. Und er könnte jetzt sich hinsetzen und aufschreiben, alles was er da wahrgenommen hat und wahrscheinlich eine Stunde damit verbringen, diese Informationen aufzuzählen und das ist ein wahnsinnig spannender Prozess, der sich da in dieser Sekunde, die er einen Blick auf diese Szene geworfen hat, im Gehirn abspielt. Die uns erlaubt, halt die Objekte in der Szene zu erkennen. Aber nicht nur die Objekte zu erkennen, sondern auch darüber Schlüsse zu ziehen, darüber was da vor sich geht in dem Raum.
+
+00:04:57.101 --> 00:05:00.900
+<v timpritlove>Das ist sozusagen Mittelpunkt deiner Forschung hier.
+
+00:05:00.901 --> 00:05:58.900
+<v nikolauskriegeskorte>Ja das ist das, was mich fasziniert. Und das ist auch das schwere Problem der künstlichen Intelligenz. Die künstliche Intelligenz hat in den 60er Jahren angefangen, so klassische Aufgaben, die wir mit hoher Intelligenz assoziiert haben, um zu erforschen, wie zum Beispiel mathematische Theoreme beweisen oder Schachspielen. Und hat dann aber festgestellt, dass diese Probleme eigentlich nicht die schweren Probleme sind, diese Probleme sind eigentlich ganz gut gelöst, weil wir sie ja auf einer abstrakten Ebene ziemlich gut verstehen. Und so ist zum Beispiel Schach ein Spiel, wo Menschen nicht mehr wirklich mit Computern konkurrieren können. Aber der Prozess, den ich gerade beschrieben habe, der fällt in eine andere Klasse.
+
+00:05:58.901 --> 00:06:30.600
+<v nikolauskriegeskorte>Und ist viel schwerer mit Computern zu replizieren. Und wir leben in einer Zeit, wo sich gerade eine sehr spannende Wende vollzieht in der künstlichen Intelligenz, wo Computermodelle, die direkt inspiriert sind vom Gehirn, nämlich neuronale Netzwerke, langsam erfolgreich werden in diesen basalen Wahrnehmungsfähigkeiten, wie der Objekterkennung, mit der ich mich beschäftige.
+
+00:06:30.601 --> 00:06:35.200
+<v timpritlove>Ist ja eigentlich nichts neues diese neuronalen Netzwerke. Also hören tut man davon ja schon lange.
+
+00:06:35.201 --> 00:06:36.100
+<v nikolauskriegeskorte>Ja.
+
+00:06:36.101 --> 00:06:37.900
+<v timpritlove>Aber jetzt funktioniert sie auch langsam, oder wie?
+
+00:06:37.901 --> 00:07:32.100
+<v nikolauskriegeskorte>Die haben eine lange Geschichte. Die Geschichte der neuronalen Netze ist so lang, wie die Geschichte der modernen Computertechnologie. Also Alan Turing und John von Neumann, die Väter der modernen Computertechnologie, die hatten alle Ideen dazu, die vom Gehirn inspiriert waren. Die haben Diagramme gezeichnet mit künstlichen Neuronen und sich überlegt, wie die interagieren können. Und dann in den 40er Jahren gab es die Binary Threshold Unit von McCulloch and Pitts. Das war ein abstraktes mathematisches Modell eines Neurons, wo eine solche Unit, die kriegt ganz viele Eingabewerte. Das ist ein Muster von Eingabewerten. Das könnte ein Bild sein oder das könnte eine andere Sinneswahrnehmung sein.
+
+00:07:32.101 --> 00:08:30.000
+<v nikolauskriegeskorte>Und dann vergleicht sie diese Muster mit einem Referenzmuster und wenn die Ähnlichkeit groß genug ist, gibt sie eine 1 aus und sonst eine 0. Und das war eine riesige Inspiration für die Neurowissenschaft. Weil dieses Muster der vielen einlaufenden Signale und des einen auslaufenden Signals dem Funktionsprinzip eines Neurons ähnelt, wo man den Dendriten-Baum hat, kriegt ganz viele Eingaben und das Neuron feuert dann entweder oder feuert nicht und gleichzeitig ist dieses abstrakte mathematische Modell eine Annäherung an Kategorisierung und das ist so ein hoher kognitiver Prozess.
+
+00:08:30.001 --> 00:09:30.400
+<v nikolauskriegeskorte>Und die Tatsache, dass dieses Modell, diese Bücke baut zwischen dem Neuron, dem basalen Baustein des Gehirns und diesem hohen kognitiven Prozess der Kategorisierung das war eine wahnsinnige Inspiration für das Feld. Und dann haben Leute mit diesen Modellen gespielt und in den 60er Jahren haben sie gelernt, wie man komplexere Modelle mit vielen Neuronen und mit mehreren Lagen trainieren kann und das hat die Kognitionswissenschaft in den 80er Jahren revolutioniert. Allerdings funktionierten diese Modelle nicht wirklich als Wahrnehmungssysteme für die künstliche Intelligenz. Die waren nicht wirklich erfolgreich. Also wenn man denen dann reale Bilder zeigte und die sollen dann da die Objekte aufzählen, so wie wir in unserem Beispiel eben, wo der Doktorand hier rein guckt.
+
+00:09:30.401 --> 00:10:26.200
+<v nikolauskriegeskorte>Wenn man ein Foto machen würde von uns, und man würde jetzt aufzählen, zwei Menschen männlich, Laptop, Computer, Tisch, Kaffeetasse. Das war nicht möglich mit diesen Systemen. Und das hatte komplizierte Gründe und hat einige KI-Forscher und Informatiker dazu geführt, anzunehmen, dass das ganze Prinzip der gehirninspirierten künstlichen Intelligenz fehlgeleitet ist. Ich erinnere mich, als ich Informatikvorlesungen besucht habe in Köln, der Professor war überhaupt nicht überzeugt von neuronalen Netzen. Er hat das Thema behandelt, aber ziemlich abfällig. Also es war ganz klar, dass er nicht glaubt, dass das der richtige Weg ist. Und er hatte da gute Gründe für.
+
+00:10:26.201 --> 00:11:26.600
+<v nikolauskriegeskorte>Aber es gab in der Zwischenzeit eine kleinere Gruppe, also während die Informatik und die KI den neuronalen Netzen dann in den 90ern und Anfang des neuen Jahrhunderts den Rücken zugewandt hat, gab es eine kleinere Gruppe von Forschern, die da weitergemacht haben und seit 2006 sind die langsam erfolgreich geworden und im Moment vollzieht sich da gerade eine große Revolution, wo tiefe neuronale Netze mit neuen Lernalgorithmen verschiedene Bereiche der künstlichen Intelligenz revolutionieren. Und einer dieser Bereiche ist das Computersehen und das ist halt auch relevant für meinen Bereich. Weil wir wollen ja Computermodelle des biologischen visuellen Systems bauen und das heißt, wir brauchen dieselbe Technologie. Unsere Ziele sind andere Ziele.
+
+00:11:26.601 --> 00:11:42.100
+<v nikolauskriegeskorte>Wir wollen Systeme, die sowohl sehen können als auch Aktivitätsmuster in Gehirnen vorhersagen. Die also als Modelle für den Prozess im menschlichen Gehirn fungieren können.
+
+00:11:42.101 --> 00:11:44.200
+<v timpritlove>Und was sollen die dann machen?
+
+00:11:44.201 --> 00:12:35.700
+<v nikolauskriegeskorte>Ja die müssen in der Lage sein, wenn man ihnen Fotos zeigt, digitale Fotos, diese Fotos zu verarbeiten. Dann die Repräsentation im Gehirn in den verschiedenen visuellen Regionen vorherzusagen, und zwar für neue Fotos, für die man die Gehirnaktivität nicht gemessen hat. Das heißt das Modell soll tatsächlich für beliebige visuelle Bilder vorhersagen können, wie sie im Gehirn repräsentiert sind und dann auch aufzählen können, was da zu sehen ist in dem Bild. Das ist zum Beispiel ein Paradigma. Natürlich ist sehen, das ist nur der Anfang. Weil Sehen ist viel reicher als ein Aufzählen der Objekte, die in der Szene präsent sind.
+
+00:12:35.701 --> 00:13:00.100
+<v timpritlove>Wir wollen ja hier eigentlich noch auf ein anderes Thema hinaus, aber um das nochmal kurz noch zu hinterfragen, weil ich es so interessant finde, gerade diese Fotoerkennungssysteme, die kommen ja jetzt auch gerade im Netz neu auf, Wolfram Alpha, ich glaube auch Microsoft hat in diesem Jahr neue Systeme vorgestellt, wo man im Prinzip in Bildern suchen kann. Google glaube ich auch. Geht das schon in diese Richtung oder ist das nochmal was anderes?
+
+00:13:00.101 --> 00:13:25.900
+<v nikolauskriegeskorte>Diese Systeme benutzen diese Technologie immer stärker. Und Google ist da vorne mit dabei bei der Entwicklung auch. Und hat einen der Pioniere Jeff Hinton abgeworben, der jetzt halb für University of Toronto arbeitet und halb für Google.
+
+00:13:25.901 --> 00:14:22.100
+<v timpritlove>Ich finde das sehr interessant, hier auch nochmal ein bisschen in die Arbeit hier am MRC einzusteigen. Schwerpunkt dieser Sendung soll ja eigentlich noch ein anderes Feld sein, nämlich mehr dieses, was ist die Konsequenz aus dem ganzen Forschen? Wie publiziert man seine Ideen? Und wie vernetzen sich halt die Wissenschaftler auch untereinander? Das ist ja so ein Prozess, der hat man so den Eindruck, ich zumindest, der stark in die Kritik geraten ist in den letzten Jahren. Mit dem Aufkommen des Internets wirkt das traditionelle System auf einmal sehr alt.
+
+00:14:22.101 --> 00:14:54.300
+<v timpritlove>Das hatten wir ja schon ein paar mal im Netz, dass Dinge auf einmal unglaublich alt wirken und man so ein bisschen anfängt, so alles anzuzählen und bei manchen Sachen geht es dann auch relativ schnell, andere Sachen halten sich hartnäckig. Vielleicht mal vorweg, bei deiner Arbeit jetzt hier und in diesem Themenfeld, welche Rolle spielt das Publizieren von Ergebnissen in der wissenschaftlichen Arbeit an sich?
+
+00:14:54.301 --> 00:15:52.100
+<v nikolauskriegeskorte>Das ist ganz entscheidend. Einerseits wenn man die Wissenschaft idealistisch betrachtet als einen kollektiven Kognitionsprozess, dann ist es natürlich nicht genug, eine Einsicht zu haben oder einen wichtigen Schluss zu ziehen aus einem Experiment. Sondern man muss diesen Schluss dem kollektiven kognitiven Prozess zuführen. Man muss den teilen mit anderen, sonst hat der keinen Einfluss auf die Welt und auf den Gang der Wissenschaft. Und deshalb ist das Publizieren natürlich ein ganz integraler Bestandteil der wissenschaftlichen Arbeit. Und konkreter für den einzelnen Wissenschaftler, der jetzt im gegenwärtigen System arbeitet, ist es entscheidend für seine Karriere, Publikationen zu haben und vor allem prestigereiche Publikationen.
+
+00:15:52.101 --> 00:16:08.200
+<v nikolauskriegeskorte>Weil das Prestige des Journals, in dem die Arbeit publiziert wird, darüber entscheidet, wie viel Aufmerksamkeit die Arbeit bekommt und auch einen Einfluss darauf hat, wie oft die Arbeit dann zitiert wird.
+
+00:16:08.201 --> 00:16:22.200
+<v timpritlove>Welche Erfahrungen hast du da bisher damit gemacht? Also wo sind die Papers bisher alle hingegangen? Beschreibe mal einfach den Prozess, wie er so derzeit so ist.
+
+00:16:22.201 --> 00:16:29.300
+<v nikolauskriegeskorte>Ich beschreibe vielleicht mal, wie ich das erlebt habe, als ich in die Wissenschaft reingekommen bin als Doktorand. Da ist man sich im Klaren ...
+
+00:16:29.301 --> 00:16:31.800
+<v timpritlove>Wann war das?
+
+00:16:31.801 --> 00:17:34.100
+<v nikolauskriegeskorte>Das war, angefangen habe ich im Jahr 2000, 2000 war das erste Jahr meiner Doktorarbeit eigentlich. Und da kommt man also rein in die Wissenschaft. Man weiß, Veröffentlichungen sind wichtig, man weiß, jeder weitere Schritt und ob man die Möglichkeit hat, weiter Wissenschaft zu machen und für mich war das schon so der große Traum eigentlich. Mehr oder weniger seit der Kinderzeit. Hängt davon ab, wie erfolgreich man veröffentlicht und deshalb erlebt man da schon einen ziemlich starken Druck. Das klingt jetzt alles so ein bisschen negativ. Das will ich eigentlich nicht, weil das ist halt ein Aspekt der Arbeit als Wissenschaftler, dass man diesen Druck erlebt und dass man weiß, dass man dieses Spiel erfolgreich spielen muss.
+
+00:17:34.101 --> 00:17:37.100
+<v timpritlove>Druck in welcher Hinsicht?
+
+00:17:37.101 --> 00:18:36.700
+<v nikolauskriegeskorte>Druck, dass man halt, es ist glaube ich in jedem Bereich so, man bewegt sich in einem System, dass einen belohnt für bestimmte Verhaltensweisen. Und gleichzeitig hat man seine eigenen Ideale und seine eigenen Interessen, die man gerne umsetzen möchte und in diesem Spannungsbereich muss man seinen eigenen Weg finden. Und ich glaube, das ist die Herausforderung für uns alle und was mich besonders interessiert ist, wie man das System verändern kann, so dass die idealistischen Werte, die man eigentlich für sich angenommen hat konsistenter sind mit den Verhaltensweisen für die das System den einzelnen belohnt.
+
+00:18:36.701 --> 00:19:27.500
+<v nikolauskriegeskorte>Und im Ganzen ist es jetzt ein bisschen abstrakt. Also konkreter jetzt. Man macht Experimente und man analysiert die Daten und dann muss man einen Artikel darüber schreiben, wo man zusammenfasst, was man da gefunden hat. Und dann hängt davon ab, welche Behauptungen man da aufstellen kann, wie sichtbar der Artikel dann veröffentlicht wird. Und das ist dann unter Umständen entscheidend dafür, ob man eine Postdocstelle kriegt und auf der nächsten Ebene als Postdoc geht das Spiel dann weiter und man machte das gleiche wieder und ob man dann langfristig eine stelle kriegt in der Wissenschaft hängt davon ab, wie erfolgreich man da ist.
+
+00:19:27.501 --> 00:19:31.300
+<v timpritlove>Heißt das, dass dieser druck quasi auch schon die eigentliche Fragestellung beeinflusst?
+
+00:19:31.301 --> 00:19:58.200
+<v nikolauskriegeskorte>Der kann die Fragestellung beeinflussen, der kann die Analysen beeinflussen, der kann die Behauptung, normalerweise sind die Resultate kompliziert und ließen sich viele verschiedene Geschichten erzählen, aufgrund der Evidenz in den Daten, und da hat dann dieser druck schon Einfluss darauf, was da für Behauptungen dann nachher im Titel stehen zum Beispiel.
+
+00:19:58.201 --> 00:20:01.700
+<v timpritlove>Muss ja nicht zwangsläufig was schlechtes sein oder?
+
+00:20:01.701 --> 00:21:02.000
+<v nikolauskriegeskorte>Ja natürlich, man will schon, dass die Motivation für die Arbeit kommuniziert wird an eine breitere Öffentlichkeit. Also einerseits in der Wissenschaft, dass es nicht nur begrenzt ist auf ein ganz spezielles Resultat. Weil normalerweise die Motivation für ein Experiment ist allgemeiner als die Schlüsse, die dann die Ergebnisse tatsächlich erlauben und es ist wichtig, diese Motivation in diesem größeren rahmen zu verstehen und es ist wichtig auch, dass der einzelne Wissenschaftler da eine Entscheidung trifft, wie viel er sich traut zu behaupten. Das ist glaube ich im Prinzip ein gesunder Prozess.
+
+00:21:02.001 --> 00:21:14.200
+<v nikolauskriegeskorte>Und aber die Rahmenbedingungen für diesen Prozess die sind aus meiner Sicht nicht ideal und das hängt mit dem Veröffentlichungssystem zusammen.
+
+00:21:14.201 --> 00:21:30.400
+<v timpritlove>Bleiben wir doch mal bei diesem Beispiel dieses einen Experimentes, das wir jetzt nicht weiter benennen werden, aber was irgendwelche Zahlen bekommen hat, daraus entsteht dann ein Dokument und wo geht das hin?
+
+00:21:30.401 --> 00:22:28.400
+<v nikolauskriegeskorte>Das Dokument wird eingereicht bei einem Journal und bei welchem Journal das hängt davon ab, wie man sich da die Chancen ausrechnet. Also wenn man glaubt, dass das eine Chance hat bei einem sehr guten Journal, Nature Science, Nature New Science in meinem Bereich, Neuron, Proceedings of the National Academy of Sciences, das sind Prestigejournals. Und wenn man sich da eine Chance ausrechnet, selbst wenn die Chance relativ klein ist, wenn die Chance deutlich größer ist als 0, dann versucht man es wahrscheinlich erst einmal bei einem Prestigejournal und dann würde es da zuerst mal von den Herausgebern, den Editoren beurteilt, und wenn die das interessant genug finden, dann schicken sie es zu anderen Wissenschaftlern für den Peer-Review-Prozess.
+
+00:22:28.401 --> 00:22:54.400
+<v nikolauskriegeskorte>Und dieser Peer-Review-Prozess, der spielt sich dann hinter geschlossen Türen ab. Also die wählen dann 2-4 andere Wissenschaftler aus, schicken denen den Artikel, die lesen den Artikel und schreiben gutachten über den Artikel und bewerten den Artikel. Und dann entscheiden die Herausgeber des Journals, ob der Artikel veröffentlicht wird oder nicht.
+
+00:22:54.401 --> 00:23:06.200
+<v timpritlove>Landet denn jedes Paper zwangsläufig bei einem Journal? Oder gibt es auch welche, die man gar nicht erst einreicht. Ich meine, wenn da so eine gewisse Hürde ist, ist das sozusagen permanent wird jedes Paper irgendwo hingeschickt oder?
+
+00:23:06.201 --> 00:23:24.100
+<v nikolauskriegeskorte>Was normalerweise passiert ist, dass das erste Journal, wenn man sehr hoch angefangen hat, mit einem Journal mit sehr hohem Prestige, dann wird das Paper ein paar mal abgelehnt, selbst wenn es sehr gut ist und irgendwann findet es dann seinen Platz.
+
+00:23:24.101 --> 00:23:28.000
+<v timpritlove>Aus Erfahrung oder aus Prinzip?
+
+00:23:28.001 --> 00:24:33.100
+<v nikolauskriegeskorte>Weil selbst wenn die Chance nur 10% ist, dass das Journal das Paper annimmt, lohnt es sich, das zu versuchen. Wenn zum Beispiel ein Doktorand oder ein Postdoc ein Paper in Nature Neuro Science veröffentlicht, das ist einfach ein großes Ereignis karrieremäßig, weil ein Projekt dauert normalerweise mindestens ein Jahr, öfter mehrere Jahre, also das ist praktisch wirklich ein großes Ereignis auch für die Karriere. Und deshalb lohnt es sich da selbst bei geringer Wahrscheinlichkeit, dass es angenommen wird, es trotzdem zu versuchen. Und das ist im Moment der Prozess, wie Wissenschaft bewertet wird. Also das Paper wird dann vielleicht ein paar mal abgelehnt und irgendwo kommt es dann raus und oft passiert es vielleicht, dass es fünf mal abgelehnt wurde und dann kommt es wo raus und das ist immer noch ein sehr prestigereiches Journal und ein wichtiges Ereignis in der Karriere des jungen Wissenschaftlers.
+
+00:24:33.101 --> 00:24:34.900
+<v timpritlove>Also wir reden immer noch von demselben Paper sozusagen.
+
+00:24:34.901 --> 00:24:36.200
+<v nikolauskriegeskorte>Genau.
+
+00:24:36.201 --> 00:24:41.300
+<v timpritlove>Was bei der ersten Wahl abgelehnt wird und dann weitergereicht wird?
+
+00:24:41.301 --> 00:25:37.700
+<v nikolauskriegeskorte>Ja das kann also passieren, vielleicht wird es beim  ersten Journal von den Herausgebern abgelehnt, das geht dann relativ schnell, das dauert dann vielleicht nur ein paar Wochen oder einen Monat. Das ist also nicht so schmerzhaft. Schmerzhafter ist es, wenn die Herausgeber sagen, das ist interessant genug, aber jetzt wollen wir wissen, ob das auch verlässliche Ergebnisse sind, wir schicken es raus zu den Gutachtern. Dann kommen die Gutachter, aber die Gutachter sind kritisch, zu kritisch auf dieser sehr hohen ebene, da müssen die schon wahnsinnig enthusiastisch sein, und zwar normalerweise alle, damit das angenommen wird und wenn es dann abgelehnt wird, dann hat die ganze Sache mehrere Monate gedauert. Es kann auch sein, dass die Gutachter gespalten sind und die Herausgeber eine Revision einladen und dann arbeitet man nochmal dran. Dann muss man normalerweise zusätzliche Analysen machen.
+
+00:25:37.701 --> 00:26:12.400
+<v nikolauskriegeskorte>Unter Umständen zusätzliche Experimente machen. Also das kann auch schon nochmal sechs Monate dauern unter Umständen. Normalerweise vielleicht eher drei oder vier Monate und dann reicht man es wieder ein. Und wenn es dann abgelehnt wird, dann hat man sehr viel Zeit verloren und so normalerweise für ein ambitioniertes Projekt in meinem Bereich dauert es etwa ein Jahr bis es tatsächlich rauskommt. Das heißt das gegenwärtige System verzögert die tatsächliche Publikation von Ergebnissen um etwa ein Jahr.
+
+00:26:12.401 --> 00:26:22.800
+<v timpritlove>Wie läuft denn da die Kommunikation? Also wenn man jetzt dieses Paper submittet, erfährt man denn überhaupt in der Regel, dass überhaupt gutachten eingefordert werden? Ist das so ein Statusreport, den man auch erhält?
+
+00:26:22.801 --> 00:26:32.500
+<v nikolauskriegeskorte>Genau, da melden sich dann die Herausgeber, die schreiben eine E-Mail, die sagen, wir haben entschieden, das ist interessant genug und das ist jetzt im Reviewprozess.
+
+00:26:32.501 --> 00:26:39.500
+<v timpritlove>Okay, das ist ja im Prinzip schon mal so ein Gütesiegel mit, dieses Paper ist nicht total uninteressant.
+
+00:26:39.501 --> 00:26:46.700
+<v nikolauskriegeskorte>Ja. Normalerweise eine Entscheidung von Nichtwissenschaftlern.
+
+00:26:46.701 --> 00:26:47.600
+<v timpritlove>Die bei den Journals arbeiten?
+
+00:26:47.601 --> 00:26:57.100
+<v nikolauskriegeskorte>Ja normalerweise haben die eine wissenschaftliche Ausbildung, aber haben sich entschieden, dann mit der Wissenschaft aufzuhören, und stattdessen für Journals zu arbeiten.
+
+00:26:57.101 --> 00:27:11.000
+<v timpritlove>Wissenschaft zu publizieren. Das heißt man findet dort als Wissenschaftler nicht unbedingt immer das Counterpart, das Gegenstück, was man gerne vorfinden würde?
+
+00:27:11.001 --> 00:27:30.800
+<v nikolauskriegeskorte>Ja es bedeutet, dass man den Titel und die Zusammenfassung mit den Herausgebern für die Herausgeber schreibt in gewisser Hinsicht, wenn man die Chancen erhöhen will, dass die das zum Review raus schicken.
+
+00:27:30.801 --> 00:27:38.700
+<v timpritlove>Das heißt man orientiert sich nicht unbedingt primär jetzt an den Ergebnissen der eigenen Arbeit, sondern mehr an der Wirkung in der Öffentlichkeit?
+
+00:27:38.701 --> 00:28:40.900
+<v nikolauskriegeskorte>Sagen wir mal, das ist der druck dem man da ausgesetzt ist, das heißt nicht, dass man dem nicht erfolgreich widersteht. Also die Wissenschaft und ich will jetzt mal das positive betonen, die Wissenschaft ist wahrscheinlich mehr als andere Bereiche voll von idealistischen Menschen, denen das sehr wichtig ist, nach ihren eigenen Wertvorstellungen zu leben. Und die trotz teilweise perverser anreize durch das System doch häufig erstaunlich objektiv handeln in Bezug auf ihre eigene Arbeit, aber auch in Bezug auf die Bewertung der Arbeit von anderen, mit denen sie oft in Wettbewerb stehen. Aber dennoch sollten wir natürlich die anreize, die das System bietet, unseren werten anpassen.
+
+00:28:40.901 --> 00:28:55.600
+<v timpritlove>Was ist denn die rolle der Gutachter in diesem Reviewsystem der Journals? Ich meine, wie werden die von diesen Journals angesprochen, was ist die Motivation eines Wissenschaftlers., ein solches Paper auch zu reviewen?
+
+
+00:29:53.901 --> 00:29:56.900
+<v timpritlove>Oder nie.
+
+00:29:56.901 --> 00:30:53.300
+<v nikolauskriegeskorte>Normalerweise wenn man sehr ambitionierte Artikel, die erscheinen dann schon irgendwo. Aber vielleicht nicht in einem spezialisierten Journal. Erscheinen dann ein Jahr später irgendwo. Das heißt wenn das Paper extrem interessant ist, dann gibt es eine starke intrinsische Motivation, das Paper zu lesen. Obwohl es natürlich sehr viel Arbeit ist, da dann ein gutachten drüber zu schreiben. Und wenn das Paper tatsächlich weniger interessant ist, dann gibt es keine sehr starke unmittelbare Motivation, aber trotzdem sind Wissenschaftler bereit, das zu machen, als eine Art Leistung für die Allgemeinheit, weil jeder versteht, dass Artikel begutachtet werden müssen. Das ist ja ein wichtiger teil des wissenschaftlichen Prozesses.
+
+00:30:53.301 --> 00:30:54.900
+<v timpritlove>Aber es ist jetzt nicht so, dass man dafür bezahlt wird?
+
+00:30:54.901 --> 00:31:41.500
+<v nikolauskriegeskorte>Nein man wird da nicht für bezahlt. Man verbringt da viele stunden mit, das dauert also je nachdem wie gründlich man das dann auch macht, man kann das natürlich schnell machen, aber wenn man es gut machen will, dann dauert es also für mich dauert es ziemlich lange, weil man kommt da vom Hölzchen aufs Stöckchen. Muss dann da Details checken, vielleicht noch andere Artikel aufrufen, um den Hintergrund besser zu verstehen und zu überprüfen, ob alles korrekt ist. Und das heißt das ist dann unter Umständen mindestens ein Nachmittag, wenn nicht ein voller Tag Arbeit. Und in der Zeit kann man natürlich nicht an seiner eigenen Forschung arbeiten.
+
+00:31:41.501 --> 00:31:41.700
+<v timpritlove>Ja.
+
+00:31:41.701 --> 00:31:49.100
+<v nikolauskriegeskorte>Das heißt da ist eine menge Idealismus dabei von Seiten der Wissenschaftler, dass wir das tun.
+
+00:31:49.101 --> 00:31:51.700
+<v timpritlove>Und teilen auch alle diesen Idealismus?
+
+00:31:51.701 --> 00:32:58.600
+<v nikolauskriegeskorte>Ja also das funktioniert schon im Großen und Ganzen. Das interessante ist, dass wir das tun für private Herausgeber, die wahnsinnige mengen Geld verdienen an diesem Prozess. Und im Prinzip sowohl die Artikel umsonst bekommen als auch die Gutachterbeiträge. Und der Rest des Prozesses ist das Layout der Artikel. Das ist halt in den letzten 20 Jahren durch die Technologie weitgehend automatisiert worden, das heißt deren Kosten haben sich sehr stark reduziert, aber die preise haben sich sehr stark erhöht in der gleichen Zeit. Und so bezahlt zum Beispiel bezahlen viele Universitäten in England über eine Million an Elsevier allein, nur damit die den zugriff anschalten zu diesen Journals mit wissenschaftlichen Artikeln.
+
+00:32:58.601 --> 00:33:02.700
+<v timpritlove>Eine Million Pfund pro Universität?
+
+00:33:02.701 --> 00:33:03.700
+<v nikolauskriegeskorte>Ja.
+
+
+00:33:03.301 --> 00:33:11.600
+<v nikolauskriegeskorte>Es kommt auf die Uni an und auf den Vertrag, ich weiß die Details jetzt nicht, aber das sind sehr hohe Beträge.
+
+00:33:11.601 --> 00:33:15.600
+<v timpritlove>Und was ist die Rechtfertigung für die Beträge.?
+
+00:33:15.601 --> 00:34:14.400
+<v nikolauskriegeskorte>Ja bevor es die moderne Internettechnologie gab war es nicht so einfach, Artikel zu drucken und zu verteilen. Und da war tatsächlich gab es eine wichtige rolle für Verlage. Die mussten halt die Artikel in den druck bringen. Auch den Peer-Review-Prozess natürlich organisieren, wie sie es immer noch tun. Das ist jetzt der Hauptbeitrag heute. Und die Artikel setzen lassen und drucken lassen und verteilen physisch, das kommt alles aus einer Zeit, wo wir noch nicht das Internet hatten und da hat das alles Sinn gemacht und jetzt mit der neuen Technologie macht das keinen Sinn mehr, außer natürlich für die Verlage., die sehr viel Geld daran verdienen auf kosten der Allgemeinheit.
+
+00:34:14.401 --> 00:34:21.500
+<v timpritlove>Jetzt hast du ja gesagt, Journals die Prestige haben. Woraus leitet sich denn das Prestige dann ab?
+
+00:34:21.501 --> 00:35:28.000
+<v nikolauskriegeskorte>Ja das ist eine ganz spannende Geschichte der selbsterfüllenden Prophezeiung. Wenn ein Journal hohes Prestige hat, dann zieht es Artikel an, die eingereicht werden, die von hoher Qualität sind und dann kann es sehr selektiv sein mit dem Auswahlprozess und das unterstützt dann wieder das Prestige. Das heißt wenn man einmal auf hohem Prestige ist, dann ist das so eine Art Selbstläuferprozess. Einerseits kriegt man tatsächlich einfach bessere Artikel zugeschickt, weil diese Hierarchie halt dazu führt, dass Wissenschaftler dann das Journal als erst wählen und das ist sozusagen ein zirkulärer Prozess, der tatsächlich dazu führt, dass die prestigereichen Journals tendenziell im durchschnitt bessere Papers veröffentlichen.
+
+00:35:28.001 --> 00:35:38.600
+<v timpritlove>Im Prinzip genauso wie dieser Netzwerkeffekt, wie man ihn auch zum Beispiel bei social Networks erlebt, man geht halt auf ein social Network, weil da alle anderen auch schon sind, was wiederum den wert des Netzwerks selber erhöht?
+
+00:35:38.601 --> 00:36:28.900
+<v nikolauskriegeskorte>Genau, das ist diese Art von Prozess. Und andererseits, das ist also sozusagen ein Prozess, der dazu führt, dass diese Journallabels, die so wichtig sind für die Wissenschaftler, dass man sagen kann, mein Artikel ist jetzt in diesem berühmten Journal erschienen. Diese Journallabels die sind das Medium für die Bewertung von Wissenschaftlern, von wissenschaftlichen Artikeln. und dann auch von den Autoren der Artikel. Und das ist halt diese Bewertung brauchen wir und deshalb sind wir jetzt .. können wir das Journalsystem nicht so ganz leicht hinter uns lassen.
+
+00:36:28.901 --> 00:37:09.100
+<v timpritlove>Also kurz gesagt, wir haben quasi ein System, was aus traditionellen Publikationszwängen heraus, sich auf wenige Verlage. verteilt. Und die eigentliche Wertschätzung, die einem Paper entgegengebracht wird, drückt sich primär dadurch aus, dass über diesen engen Kanal eine Veröffentlichung stattgefunden hat. Aber gibt es denn auch eine quantitative Bewertung eines solchen Papers, die jetzt sozusagen über diesen eigentlichen Erscheinungsort hinaus geht? Also werden zum Beispiel die beteiligten Gutachter in irgendeiner Form genannt und kommen die dort auch zu Wort?
+
+00:37:09.101 --> 00:38:13.800
+<v nikolauskriegeskorte>Traditionell nicht. Und in den meisten Journals nicht. Manche neuen Journals experimentieren damit, die Gutachter zu nennen oder die Gutachten zu veröffentlichen. Aber ein Problem mit dem gegenwärtigen System ist, dass das Hauptsignal für die Qualität eines neuen Artikels ist das Prestige des Journals. Und die ganzen detaillierten Informationen, die im Prozess der Bewertung des Peer-Reviews produziert werden, zum Beispiel die gutachten, das sind ja Expertengutachten, wo sehr viel Zeit und Arbeit rein fließt, die bleiben alle geheim. Und das System führt zu so einer geheimniskrämerischen Kultur, wo die Wissenschaftler sich hinter ihrem rücken anonym gegenseitig abschießen unter Umständen häufig. Oder unterstützen, vielleicht banden bilden manchmal.
+
+00:38:13.801 --> 00:39:17.800
+<v nikolauskriegeskorte>Und gleichzeitig versuchen natürlich die meisten Wissenschaftler, da objektiv zu bleiben, aber der Anreiz ist ganz klar, je weniger objektiv und je eigennütziger man da handelt, desto größer ist der eigene Einfluss und desto weniger Zeit verschwendet man auf diesen Evaluationsprozess. Und das ist ein sehr ungesunder Anreiz. Das bedeutet für den einzelnen jetzt, dass er da ständig in so einem, also entweder hat er da gar kein Problem mit und hat das System sozusagen für sich angenommen oder wenn er idealistischer ist, dann leidet er darunter in der einen oder anderen Form. Also für mich bedeutet es zum Beispiel wenn ich einen Artikel für Nature oder Science beurteilen muss, dass ist eine Herausforderung, weil das ist sozusagen eine Entscheidung, die ist sehr wichtig für die Karriere dieses Menschen.
+
+00:39:17.801 --> 00:39:56.000
+<v nikolauskriegeskorte>Und gleichzeitig eine unmögliche Entscheidung, notwendigerweise subjektive Entscheidung, weil es praktisch drum geht, ob der Artikel nicht nur sehr gut ist, sondern ob er erderschütternde Konsequenzen hat für die Zukunft dieses Feldes. und das zu beurteilen erfordert eine Abschätzung der Richtung, in die das Feld sich bewegen wird und ist deshalb notwendigerweise subjektiv. Das heißt ich habe da eine Macht, die ich einfach nicht haben sollte eigentlich.
+
+00:39:56.001 --> 00:39:56.400
+<v timpritlove>Also Gutachter?
+
+00:39:56.401 --> 00:40:19.300
+<v nikolauskriegeskorte>Als Gutachter genau. Das ist eine Entscheidung, die können einfach 2-4 Gutachter nicht treffen. Und die Prätention des Systems ist aber, dass das möglich ist und dass die Artikel, die in Nature und Science erscheinen zum Beispiel tatsächlich die Artikel sind, die am wichtigsten sind.
+
+00:40:19.301 --> 00:40:34.300
+<v timpritlove>Werden denn die gutachten unter voller Kenntnis des eigentlichen Autors gemacht oder sind die vorgelegten Paper auch teilweise anonymisiert. Also ich könnte mir vorstellen, dass es auch einen Einfluss macht, wen man da jetzt gerade bewertet.
+
+00:40:34.301 --> 00:41:34.300
+<v nikolauskriegeskorte>Ja, normalerweise es gibt Journals, die damit experimentieren, die Autoren zu anonymisieren, aber die meisten Journals tun das nicht. Also normalerweise weiß man das. Das ist praktisch nicht leicht, die Autoren zu anonymisieren. Weil wenn die Autoren bekannt sein wollen, dann können sie das natürlich ganz leicht, in dem sie zum Beispiel von ihrer Arbeit sprechen zum Beispiel auf Konferenzen, was normalerweise der normale gang der dinge ist, dass eine Studie auf einer Konferenz vorgestellt wird und dann weiß das Feld eh, wer daran beteiligt ist. Außerdem ist die Anonymisierung der Autoren aus meiner Sicht keine gute Strategie, um den Prozess objektiver zu machen, weil es normalerweise nicht persönliche Animositäten sind, sondern Animositäten gegen Theorien.
+
+00:41:34.301 --> 00:41:45.000
+<v nikolauskriegeskorte>Ich hasse das Paper nicht, weil ich den Autor hasse, sondern ich hasse das Paper, weil die Theorie nicht meiner Sicht der dinge entspricht.
+
+00:41:45.001 --> 00:42:17.300
+<v timpritlove>Verstehe. Jetzt fragt sich natürlich, also ich meine, jetzt könnte man ja sagen, okay, alles klar, das ist jetzt so der Status quo ist halt so oder wir fliegen trotzdem zum Mond und zum Mars und haben Mobiltelefone, kann ja so schlimm alles nicht sein. Also mag jetzt vielleicht so auf den ersten blick etwas anachronistischer Prozess sein, aber irgendwie läuft es ja trotzdem irgendwie ab.
+
+00:42:17.301 --> 00:43:21.500
+<v nikolauskriegeskorte>Das stimmt und es ist auch nicht alles negativ, also ich muss sagen, die gutachten, die ich zum Beispiel gekriegt habe als Doktorand und Postdoc und auch jetzt, die sind fast immer von sehr intelligenten anderen Wissenschaftlern geschrieben, die tatsächlich Experten sind auf ihrem Gebiet und wo ganz klar zu erkennen ist, dass sie sich bemühen, objektiv zu sein. Und dann gibt es halt diesen rahmen der Subjektivität, vor allem in dem high Impact, high Prestige Spiel der Wissenschaft und da ist dann schwerer zu sagen, was Objektivität überhaupt bedeutet, aber generell ist es schon oft ein konstruktiver Prozess und wenn man auf die gutachten reagiert und dann die Verbesserungen macht, also in meiner persönlichen Erfahrung führt das häufig dazu, dass der Artikel sich verbessert dadurch.
+
+00:43:21.501 --> 00:43:37.000
+<v timpritlove>Aber ich habe trotzdem von so Fällen gehört, wo mal so testweise ein Paper, was eigentlich schon mal irgendwo auch angenommen wurde, nochmal unter anderem Namen zum Beispiel woanders eingereicht wurde und was dann irgendwie nicht so gut abgeschnitten hat.
+
+00:43:37.001 --> 00:44:35.100
+<v nikolauskriegeskorte>Ja natürlich, also dieser Prozess der Bewertung der Wissenschaft ist extrem verrauscht, wie wir sagen, da ist ein großes Zufallselement dabei und das hängt damit zusammen, dass das Durchschnittsurteil von 2-4 Gutachtern einfach nicht ausreicht, um den wert eines Artikels zu bestimmen. Und das ist also auch Problem mit dem gegenwärtigen System, wir schicken den Artikel an 2-3 Experten und auf dieser Basis, wenn das dann ein sehr hohes Journal ist, entscheiden wir, ob wir die ganze Welt informieren. Da gibt es dann halt immer wieder die Fälle, wo die Medien in der ganzen Welt berichten über Ergebnisse und dann stellt sich heraus, dass diese Ergebnisse nicht verlässlich waren, wie in der Stammzellenaffäre zum Beispiel.
+
+00:44:35.101 --> 00:44:42.000
+<v nikolauskriegeskorte>Und dann wundern sich alle und dann gibt es diese aus der Perspektive eines Wissenschaftlers -
+
+00:44:42.001 --> 00:44:45.100
+<v timpritlove>Was war das für eine Affäre? Diese Stammzellenaffäre?
+
+00:44:45.101 --> 00:45:50.800
+<v nikolauskriegeskorte>Die Obokata Geschichte, ein Artikel in Nature erschien und dann kurz danach klar wurde, dass das keine verlässlichen Ergebnisse waren. Und dann wundern sich alle, weil die Grundannahme ist, dass ein wissenschaftlicher Artikel, der durch den Peer-review gegangen ist, die Wahrheit ist. Und das ist aus der Sicht jedes Wissenschaftlers eine vollkommen naive Annahme und das Problem besteht darin, dass wir nicht aufgrund der Urteile von 2-4 Leuten entscheiden können, die ganze Welt zu benachrichtigen. Sondern der Artikel muss zuerst erscheinen und dann muss er innerhalb des Feldes diskutiert werden und dann müssen da ganz viele Wissenschaftler da ihre Meinung zu sagen und wenn dieser Prozess konvergiert und wenn dieser Prozess konvergiert in die Richtung, dass das tatsächlich eine sehr wichtige Sache war, dann vielleicht ein Jahr später kann man dann die ganze Welt benachrichtigen.
+
+00:45:50.801 --> 00:46:23.600
+<v nikolauskriegeskorte>Und dafür haben wir jetzt im Moment zwar die Technologie und wir haben die Ideen, also wir sammeln da Ideen zu, wie so ein System funktionieren könnte, aber wir haben dazu noch nicht die wissenschaftliche Kultur und wir haben das gegenwärtige Publikationssystem, was solche Prozesse nicht unterstützt. Und auch aktiv natürlich zu verhindern versucht, weil da starke finanzielle Interessen im Spiel sind.
+
+00:46:23.601 --> 00:46:32.800
+<v timpritlove>Ja Strukturen wehren sich ja in der Regel dagegen, geändert zu werden. Wer ist wir in dem Zusammenhang? Also wer macht sich da Gedanken?
+
+00:46:32.801 --> 00:47:42.700
+<v nikolauskriegeskorte>Mich hat das angefangen zu interessieren, als ich Postdoc war in den national Institutes of Health in Bethesda in Amerika und obwohl ich sehr beschäftigt war wurde mir plötzlich klar, dass das System anders funktionieren muss und ich war dann davon besessen ein paar Monate, habe darüber nachgedacht und meine andere Arbeit schleifen lassen und habe in der Zeit ein Blog angefangen zu diesen Themen und seitdem hat mich dieses Thema weiter beschäftigt. Und nachdem ich dann nach Cambridge gezogen bin, habe ich eine Sammlung von Artikeln herausgegeben mit Visionen für die Zukunft des wissenschaftlichen Publikationssystems und im besonderen dazu, wie wir über Open Access, über den freien zugriff auf Artikel, der natürlich eine wichtige Voraussetzung ist, hinausgehen können und eine Open Evaluation Bewegung starten.
+
+00:47:42.701 --> 00:48:09.300
+<v nikolauskriegeskorte>Wo es so um die offene Evaluation, um die Öffnung des Peer-review-Prozesses geht. Wo es darum geht, die gutachten alle zu Publikationen zu machen. So dass sobald ein gutachten eingereicht wird, alle auch das gutachten auch begutachten können und idealerweise die gutachten auch, die Autoren der gutachten auch offen angegeben werden.
+
+00:48:09.301 --> 00:48:34.800
+<v timpritlove>Was ja auch nochmal eine ganz andere einerseits Motivation für Gutachter wäre, überhaupt ein gutachten zu erstellen, aber auf der anderen Seite auch ein ganz neuer Aspekt in der Tätigkeit als Gutachter, dass man ja weiß, das lesen sich am Ende auch mehr als zwei Leute durch und vielleicht sogar auch Wissenschaftler, was ja derzeit in der Regel so nicht der Fall ist.
+
+00:48:34.801 --> 00:49:41.400
+<v nikolauskriegeskorte>Genau und diese Transparenz, Transparenz ist das geGegenmittel gegen Korruption in vielen Bereichen und auch in diesem Bereich, gleichzeitig ändern sich die anreize total. Jedes gutachten ist dann eine Art Miniveröffentlichung und dadurch will der Gutachter dann auch auf der richtigen Seite der Geschichte stehen in seinem Urteil über den Artikel. Der will jetzt zum Beispiel nicht, da aus möglicherweise eigennützigen gründen jetzt den Artikel negativ beurteilen, wenn er vermutet, dass langfristig der Artikel hoch bewertet werden wird. Da würde er dann ja schlecht aussehen. Das heißt das ist wirklich wie eine Zauberformel dafür, dass wir die Gutachter dazu kriegen, dass sie sich wirklich fragen, was wird das langfristige Schicksal dieses Artikels sein. Da will man dann auf der richtigen Seite der Geschichte stehen.
+
+00:49:41.401 --> 00:50:04.200
+<v timpritlove>In dem Moment, wo man als Gutachter jetzt für eine Redaktion arbeitet oder ein Journal, da ist ja sozusagen die aussage am Ende im wesentlichen die, ja ist wertvoll publiziert zu werden oder nicht. Also im Prinzip ist ja die Antwort, die man liefert, ist so mehr so ein binäres Argument, 01 soll erscheinen, soll nicht erscheinen.
+
+00:50:04.201 --> 00:50:07.100
+<v nikolauskriegeskorte>Nicht nur.
+
+00:50:07.101 --> 00:50:10.100
+<v timpritlove>Wie diversifiziert ist denn sozusagen die aussage die man trifft?
+
+00:50:10.101 --> 00:51:04.600
+<v nikolauskriegeskorte>Gutachten, die gutachten in der Länge können die von einem abschnitt über eine Seite bis zu zehn Seiten lang sein. Also typische Länge wäre vielleicht 1-2 Seiten und das ist schon detailliertes Argument normalerweise über das Paper und normalerweise konstruktiv. Das fängt oft mit einer allgemeinen Einschätzung an und geht dann in die Details dessen, was verbessert werden soll. Und als junger Reviewer war das für mich, habe ich da versucht, die Argumente für und wider zu betonen, um diesem binären Urteil, was mir subjektiv und unter Umständen nicht gerechtfertigt erschien aus dem Weg zu gehen.
+
+00:51:04.601 --> 00:52:01.600
+<v nikolauskriegeskorte>Allerdings lernt man in diesem Prozess, dass das dazu führt, dass selbst Artikel, wo die Probleme sehr groß sind, tatsächlich nicht abgelehnt werden. Und dann kriegt man den Artikel wieder und dann haben die Autoren da nochmal sechs Monate dran gearbeitet und dann fällt es schwer, den in dieser Phase dann noch abzulehnen. Und wenn er wirklich nicht gut ist, wenn man wirklich nicht glaubt, dass sich da was retten lässt, dann lernt man als erfahrener Gutachter, doch zu diesem eher binären Urteil zu kommen. Es ist trotzdem ein detailliertes Argument und soll auch ein Argument sein, was konstruktiv ist und was den Autoren hilft, in der nächsten Phase, wenn sie es dann bei anderen Journals versuchen, dann da einen besseren Artikel einzureichen.
+
+00:52:01.601 --> 00:52:27.300
+<v nikolauskriegeskorte>Aber trotzdem ist oft gutachten auf dieser hohen ebene so ein binäres Urteil implizit und es geht schon darum, zu entscheiden, die Editoren, die entscheiden das natürlich, formell die Gutachter entscheiden das nicht, aber tatsächlich ist es oft sehr klar, was die Gutachter, ob die Gutachter finden, dass der Artikel in dieses Journal gehört oder nicht.
+
+00:52:27.301 --> 00:52:34.000
+<v timpritlove>Kann es denn eigentlich auch passieren, dass man quasi als Gutachter für zwei verschiedene Journals dasselbe Paper vorgelegt bekommt?
+
+00:52:34.001 --> 00:52:35.500
+<v nikolauskriegeskorte>Das kann passieren.
+
+00:52:35.501 --> 00:52:42.500
+<v timpritlove>Und entscheidet man dann in Abhängigkeit vom Prestige? Sozusagen mal dafür, mal dagegen?
+
+00:52:42.501 --> 00:52:51.700
+<v nikolauskriegeskorte>Das kann passieren. Also wenn auf hoher ebene ist die Latte höher gehängt natürlich. Das heißt der Anspruch einfach höher.
+
+00:52:51.701 --> 00:53:01.800
+<v timpritlove>Okay, das heißt aber, dass im Prinzip schon, dass das Journal selbst quasi die Einheit der Quantifizierung der Qualität ist?
+
+00:53:01.801 --> 00:54:05.000
+<v nikolauskriegeskorte>Ja genau, und das ist das Problem. Weil das ist tatsächlich kein gutes Signal für die Qualität eines Artikels. Also erst mal ist die Veröffentlichung zu stark verzögert um etwa ein Jahr sehr häufig bei ambitionierten Arbeiten. Zweitens ist das Qualitätssignal, was man dann hat nach einem Jahr, das Prestige des Journals, kein verlässliches Signal über die Qualität des Artikels. Und drittens ist der Prozess der Bewertung nicht transparent und schafft sehr ungesunde anreize für Wissenschaftler und perpetuiert eine geheimniskrämerische Wissenschaftskultur, die einfach lächerlich ist. Und deshalb ist die Herausforderung aus meiner Sicht für die Wissenschaft und die Wissenschaftler, eine neue Wissenschaftskultur zu erfinden.
+
+00:54:05.001 --> 00:54:22.700
+<v nikolauskriegeskorte>Und dazu brauchen wir ein neues System für die Bewertung wissenschaftlicher Artikel, was vollkommen transparent ist. Und das Internet gibt uns dafür schon die Technologie. Das heißt in gewisser Hinsicht kann man damit einfach sofort anfangen.
+
+00:54:22.701 --> 00:54:33.900
+<v timpritlove>Welche Technologie? Jetzt das Internet als solches, um überhaupt erst mal die offene Kommunikation zu betreiben? Aber das löst ja noch nicht das Problem der Quantifizierung selbst der Qualität?
+
+00:54:33.901 --> 00:54:56.300
+<v nikolauskriegeskorte>Also ich habe das über die Jahre viel diskutiert, auch in Vorträgen, und die meisten Wissenschaftler stimmen da zu, aber finden es dann schwierig, sich vorzustellen, wie es tatsächlich funktionieren könnte und sind selbst durch ihre Gewohnheiten, auch ich selbst durch meine Gewohnheiten, in dem gegenwärtigen System gefangen.
+
+00:54:56.301 --> 00:55:00.100
+<v timpritlove>Auch wenn es so unwissenschaftlich ist.
+
+00:55:00.101 --> 00:56:00.500
+<v nikolauskriegeskorte>Ja. Also man muss halt Wege finden, mit den alten Gewohnheiten zu brechen und man muss darüber nachdenken. Man hat eh schon viel zu tun und jetzt soll man plötzlich alles ganz anders machen und wenn man dann damit anfängt, dann sind damit Kosten verbunden. Einfach mal ganz konkret aus meiner Sicht, ich sage zum Beispiel, alle gutachten sollen öffentlich sein. Ich schreibe ja selbst gutachten. Also ein schritt, den man tun kann ist, seine gutachten alle zu unterschreiben, das mache ich jetzt. Aber das ist natürlich mit einem gewissen Risiko verbunden, weil ich will ja nicht immer nur Positivgutachten und wenn ich dann Artikel ablehne und dann unterschreibe, dann sind die Autoren da ganz bestimmt nicht glücklich drüber.
+
+00:56:00.501 --> 00:56:58.100
+<v nikolauskriegeskorte>Und da besteht die Gefahr, dass man sich da Feinde macht. Das ist jetzt zum Beispiel eine unmittelbare Herausforderung da. Der zweite Aspekt ist, wir wollen die gutachten veröffentlichen. Jetzt gibt es die Internettechnologie. Ich habe ja ein Blog, da kann ich auf meinem Blog im Prinzip meine gutachten veröffentlichen und das ist mein plan. Aber das fällt mir sehr schwer, weil ich eh viel zu tun habe und jetzt im Moment meine gutachten ja noch in dem alten System schreibe. Also das Journal wendet sich an mich, ich schreibe das gutachten und das gutachten ist ja auch geheim und die Ergebnisse sind offiziell geheim, obwohl vielleicht schon bei Konferenzen vorgestellt. Und deshalb kann ich mein gutachten nicht in dem Moment veröffentlichen, wo ich das gutachten schreibe.
+
+00:56:58.101 --> 00:57:04.700
+<v timpritlove>Also weil man sich auch vertraglich entsprechend bindet mit dem Journal?
+
+00:57:04.701 --> 00:58:01.300
+<v nikolauskriegeskorte>Ja das wäre schon problematisch. Ich weiß nicht, was die legale Lage da ist. Aber ich würde sozusagen die Ergebnisse verraten vorher. Obwohl das auch ein bisschen natürlich eine Farce ist, weil die meisten Journals akzeptieren, dass Autoren ihre Artikel auf sogenannten Preprintservers veröffentlichen, lange vor der Veröffentlichung in dem Journal. Also praktisch alle, die meisten Wissenschaftler wissen das überhaupt nicht, das ist erstaunlich. Praktisch alle Journals akzeptieren, dass man seinen Artikel tatsächlich veröffentlicht auf einem sogenannten Preprintserver, wo jeder den herunterladen kann und dann kann man ihn trotzdem noch im Journal einreichen und der kann dann später, nachdem er evaluiert worden ist, in dem Journal veröffentlicht werden.
+
+00:58:01.301 --> 00:58:43.200
+<v nikolauskriegeskorte>Das heißt der Artikel in dem Fall ist dann schon veröffentlicht, ein Jahr bevor er rauskommt oder dergleichen. Trotzdem gilt diese Information offiziell als geheim. Und wenn das dann ein sehr prestigereiches Journal ist, dann gibt es zum Beispiel ein Presseimbargo und dann in den sechs tagen vor der offiziellen Veröffentlichung darf dann keiner darüber sprechen, was die Ergebnisse sind oder Interviews dazu geben, obwohl die Ergebnisse alle schon seit über einem Jahr im Netz stehen.
+
+00:58:43.201 --> 00:58:45.600
+<v timpritlove>Seit wann gibt es diese Preprintserver? Und ist das schon Teil von Open Access?
+
+00:58:45.601 --> 00:58:57.000
+<v nikolauskriegeskorte>Diese Preprintserver gibt es schon sehr lange. Also der einflussreiche ist Arxiv, wo -
+
+00:58:57.001 --> 00:58:58.500
+<v timpritlove>Arxiv. Nicht zu verwechseln mit Archive.org.
+
+00:58:58.501 --> 01:00:03.000
+<v nikolauskriegeskorte>Ja genau. Arxiv. Das ist ein sehr einflussreicher Preprintserver, wo Physiker und Mathematiker und Informatiker zunehmend und auch schon lange ihre Artikel veröffentlichen. Die sind da der biomedizinischen Forschung weit voraus in Bezug auf die Nutzung des Internets. Also im Prinzip haben wir die Technologie, um unsere Arbeiten sofort zu veröffentlichen, und zwar auf sogenannten Preprintservern, die heißen Preprint, weil die Sachen vor dem Print erscheinen. Und Preprintserver ist natürlich keine sehr gute Wahl für einen Namen, weil Print ist möglicherweise eh nicht erforderlich.
+
+01:00:03.001 --> 01:00:27.800
+<v nikolauskriegeskorte>Und Preprint lässt es so klingen als sei es keine richtige Veröffentlichung, aber ich würde argumentieren, dass das tatsächlich die Veröffentlichung ist, weil das ist der Punkt, wo der Artikel öffentlich zugreifbar ist. Und wenn er in einem Prestigejournal erscheint, ist er tatsächlich nicht öffentlich zugreifbar, weil man bezahlen muss dafür für den zugriff.
+
+01:00:27.801 --> 01:00:31.100
+<v timpritlove>Verbleibt denn der Artikel dann auf dem Preprintserver?
+
+01:00:31.101 --> 01:00:47.700
+<v nikolauskriegeskorte>Ja der Artikel kann auf dem Preprintserver bleiben und von den Preprintservern, bei den Wissenschaftlern, die dieses System nutzen, kann man zum Beispiel in der Informatik und in der Physik geht man generell davon aus, dass die neueste Version die Version ist, die man auf dem Preprintserver findet.
+
+01:00:47.701 --> 01:01:03.400
+<v timpritlove>Okay jetzt müssen wir das vielleicht nochmal ein bisschen aufrollen. Also wir stellen erst mal fest, die Bewegung Open Access ist nicht wirklich neu, sollte aber jetzt an dieser stelle auch nochmal explizit erwähnt werden. Ich weiß nicht, diese Debatte geht seit 10-15 Jahren vermutlich schon voran.
+
+01:01:03.401 --> 01:01:48.500
+<v nikolauskriegeskorte>Genau, da geht es drum, dass die Forschung von öffentlichen Geldern bezahlt wird und soll deshalb öffentlich zugreifbar sein und im Prinzip gibt es da, das mögen natürlich die Verleger nicht so gerne, aber da gibt es einfach eine so starke Bewegung dafür, dass das unaufhaltsam voranschreitet und die Verleger haben die Möglichkeit gefunden, das dann auch wieder finanziell auszunutzen. Also zum Beispiel Elsevier lässt sich dann 3000 Dollar bezahlen für die Veröffentlichung eines Artikels, dafür dass der Open Access veröffentlicht wird.
+
+01:01:48.501 --> 01:01:49.500
+<v timpritlove>Von wem bezahlen?
+
+01:01:49.501 --> 01:02:10.100
+<v nikolauskriegeskorte>Der Medical Research Council hat entschieden, dass die finanzierten Arbeiten alle öffentlich zugreifbar sein müssen und deshalb bezahlen wir dann den Verlegern im Vorhinein 3000 Dollar extra für die Veröffentlichung des Artikels.
+
+01:02:10.101 --> 01:02:19.200
+<v timpritlove>Also die Wissenschaftler, die das Paper selber zur Verfügung stellen kriegen nicht nur kein Geld, sondern zahlen Geld dafür, dass -
+
+01:02:19.201 --> 01:02:57.800
+<v nikolauskriegeskorte>Ja das ist ja eh so. also die Wissenschaftler werden von der Allgemeinheit bezahlt dafür, dass sie Forschung machen und das ist sehr teuer, dann schreiben sie den Artikel dafür, dann schicken sie den Artikel an das Journal, müssen da manchmal eine Gebühr bezahlen, damit der überhaupt verarbeitet wird und dann werden sie gebeten, einen vertrag zu unterschreiben, in dem sie das Copyright für ihren eigenen Artikel an den Verleger übergeben. Das sogenannte Copyright Transfer Agreement. Das ist eine einzige Farce, das ist unglaublich, das kann man keinem erzählen.
+
+01:02:57.801 --> 01:03:01.500
+<v timpritlove>Wir machen das jetzt aber mal.
+
+01:03:01.501 --> 01:03:30.900
+<v nikolauskriegeskorte>Aber im historischen Rückblick wird das ganz unglaublich erscheinen, dass die Wissenschaftler da wirklich wie Schafe ihr Copyright an ihren eigenen Artikeln den Verlegern schenken, um dann im nächsten Moment ihre eigenen Artikel von den Verlegern zurückzukaufen und zwar für unglaubliche preise.
+
+01:03:30.901 --> 01:03:34.700
+<v timpritlove>In Form des Abos des Journals.
+
+01:03:34.701 --> 01:04:42.600
+<v nikolauskriegeskorte>Genau, ja. Und also jetzt zum Beispiel mit Elsevier ist es so, dass wenn ich  also ich bin aktiv in der Organisation for Human Brainmapping und da gibt es ein Journal, das ist assoziiert mit dieser Organisation, das ist Neuro Image, und das wird geführt von Elsevier, von einem der Hauptverleger wissenschaftlicher Artikel. Und wenn ich da veröffentliche, dann muss ich, weil ich für das Medical Research Council arbeite, muss das Open Access sein und das ist auch richtig so natürlich. Und dafür bezahlen wir dann 3000 Dollar extra, aber natürlich gleichzeitig bezahlen wir auch nochmal für die Subscription Fee für Neuro Image, weil nicht alle Artikel in Neuro Image Open Access sind. Und um zugriff zu haben auf alle Artikel, müssen wir Elsevier bezahlen. Das heißt die Open Access Bewegung die ist natürlich wichtig, und der offene zugriff ist wichtig, aber die Verleger haben da Wege gefunden, weiterhin die Allgemeinheit -
+
+01:04:42.601 --> 01:04:43.200
+<v timpritlove>Melken.
+
+01:04:43.201 --> 01:04:44.200
+<v nikolauskriegeskorte>Zu melken. Genau.
+
+01:04:44.201 --> 01:04:47.200
+<v timpritlove>Warum dann nicht einfach sein lassen?
+
+01:04:47.201 --> 01:05:44.800
+<v nikolauskriegeskorte>Genau, das ist genau der Punkt. Die Frage ist, was ist der Mehrwert, den die Verleger beisteuern? Was verkaufen die uns eigentlich? Das ist immer eine interessante Frage, ich erinnere mich an einen Dokumentarfilm, den ich in den 90er Jahren gesehen habe, der heißt Manufactoring Concent und da wurde Noam Chomsky interviewt und wenn ich mich richtig erinnere, sprach er darüber, was die New York Times verkauft und ich glaube sein Argument war, die New York Times verkauft nicht etwa Zeitungen, sondern die New York Times verkauft Leserschaften an Werber. Und das hängt einfach damit zusammen, wie viel Geld die halt durch Werbung kriegen und wie viel Geld durch den verkauf von Zeitschriften.
+
+01:05:44.801 --> 01:06:51.300
+<v nikolauskriegeskorte>Das ist natürlich sehr wichtig, zu wissen, um die Motivation zu verstehen. Und nachdem ich dann in Amerika gelebt habe und immer die New York Times gelesen habe, weil die ja eine wahnsinnig tolle Zeitung ist, wahnsinnig gut geschrieben und unterhaltsam. Aber gleichzeitig würde ich schon sagen, dass man das merkt, was die finanziellen Motivationen sind dahinter. Und was dabei rauskommt ist halt so eine Art Schlaflied für das Leben in Amerika, auf sehr hohem Niveau. Und bei den wissenschaftlichen Verlegern müssen wir auch fragen, was ist es eigentlich, was die uns verkaufen? Und was die uns jetzt noch verkaufen, wenn sie Open Access, wenn sie den zugriff nicht mehr verkaufen können, das wird immer schwieriger für sie, wegen der Open Access Bewegung, den zugriff auf wissenschaftliche Artikel zu verkaufen.
+
+01:06:51.301 --> 01:07:50.500
+<v nikolauskriegeskorte>Aber was sie uns weiterhin verkaufen ist ihr Evaluationsprozess. Die Prestigelabels der Journals, die wahnsinnig wichtig sind für die Wissenschaft, um die Literatur zu priorisieren und damit wir auswählen können, was wir lesen, und damit wir uns selbst profilieren können und das ist halt für unsere Karriere wichtig. Und das heißt was auch immer das Publikationssystem ist, es muss diese beiden Hauptfunktionen erfüllen, den zugriff und die Evaluation. Wir brauchen den zugriff, damit wir alles lesen können, was veröffentlicht wird und wir brauchen die Evaluation, damit wir nicht alles lesen müssen, damit wir die Spreu vom Weizen unterscheiden können und auswählen können, was wir lesen.
+
+01:07:50.501 --> 01:07:57.300
+<v timpritlove>Und man braucht ein Äquivalent zu dem Prestige.
+
+01:07:57.301 --> 01:08:12.000
+<v nikolauskriegeskorte>Ja wir brauchen ein evaluatives Signal. Und das sollte meiner Einschätzung nach darin bestehen, dass wir unsere gutachten veröffentlichen und dass wir auch numerische Ratings veröffentlichen mit den Gutachten.
+
+01:08:12.001 --> 01:08:17.500
+<v timpritlove>Also die Quantifizierung, die wir vorhin schon angesprochen haben, die von einem gutachten dann ausgehen muss.
+
+01:08:17.501 --> 01:08:19.100
+<v nikolauskriegeskorte>Genau.
+
+01:08:19.101 --> 01:08:20.400
+<v timpritlove>Was könnte das sein? Wie könnte so was aufgebaut sein?
+
+01:08:20.401 --> 01:09:07.200
+<v nikolauskriegeskorte>Das könnten Ratings, numerische Ratings auf verschiedenen Skalen sein. Zum Beispiel zu Signifikanz oder Wichtigkeit des Ergebnisses, zur Verlässlichkeit des Ergebnisses, zur methodischen Qualität. Und wenn man zum Beispiel für ein neues Paper ein dutzend Ratings hätte, von einem dutzend Experten, die idealerweise zu ihrem Urteil stehen, dann wäre das evaluative Signal, was man da hätte für das Paper, von wesentlicher höherer Qualität als das Signal, was wir jetzt im Moment haben, nämlich das Prestige des Journals.
+
+01:09:07.201 --> 01:09:24.500
+<v timpritlove>Was wären so die Kriterien für diese Quantifizierung? Also was für unterschiedliche Aspekte müsste man quasi als Gutachter einzeln bewerten und was wäre die Bewertung? Wäre die dann auch wieder nur binär ja/nein oder gibt man dann Sterne?
+
+01:09:24.501 --> 01:10:12.800
+<v nikolauskriegeskorte>Ja, das ist genau, dazu haben wir halt diese 18 verschiedenen Visionen gesammelt, wie sich das organisieren lässt im einzelnen. Und es müsste auf jeden Fall multidimensional sein und kontinuierlich und nicht binär. Und es gibt ja viele Bewertungssysteme im Internet für Produkte zum Beispiel, für Filme, aber für die Wissenschaft sind die Anforderungen glaube ich höher und deshalb ist es wichtig, sehr genau darüber nachzudenken, wie wir dieses Spiel der Bewertung definieren wollen. Was für Regeln soll dieses Spiel haben, so dass wir den Ergebnissen trauen können.
+
+01:10:12.801 --> 01:10:15.300
+<v timpritlove>Gibt es da schon Ansätze oder Vorschläge?
+
+01:10:15.301 --> 01:10:16.900
+<v nikolauskriegeskorte>Ja da gibt es.
+
+01:10:16.901 --> 01:10:17.700
+<v timpritlove>So ein Bewertungssystem durchzuführen?
+
+01:10:17.701 --> 01:10:30.900
+<v nikolauskriegeskorte>Ja, da gibt es also zum Beispiel in unserer Sammlung von Visionen sind 18 verschiedene Visionen, wo sich Wissenschaftler vorstellen, wie das funktionieren könnte.
+
+01:10:30.901 --> 01:10:32.100
+<v timpritlove>Ein Beispiel?
+
+01:10:32.101 --> 01:11:33.600
+<v nikolauskriegeskorte>Dann ein neuer Artikel erscheint, dann wird der normalerweise, wenn er von einer wichtigen Gruppe ist oder wenn er als wichtig erscheint aufgrund seines Titels und des Abstracts, dann wird er diskutiert in Labs in der ganzen Welt. Also vielleicht erst mal in den Labs, die an sehr ähnlichen Fragen arbeiten. Also gibt es vielleicht dann 20-100 Labs über die Welt verteilt, die den Artikel lesen und diskutieren und da kommen ja sehr detaillierte Urteile bei raus und das Problem im Moment ist, dass diese Urteile dann in dem Raum bleiben und der Artikel hat schon seinen Stempel durch das Prestige des Journals, in dem er erschienen ist. Und ich stelle mir das so vor, dass in Zukunft wird der Artikel einfach ein Jahr früher erscheinen und zwar unbewertet.
+
+01:11:33.601 --> 01:12:07.200
+<v nikolauskriegeskorte>damit die ganze Gemeinschaft den Artikel lesen kann und damit die Wissenschaftler, die am meisten davon verstehen und sich deshalb auch am meisten dafür interessieren, dann sich die Details angucken können und den Artikel bewerten können. Und das würde dann daran bestehen, dass anstatt den einfach nur zu diskutieren in dem Lab, dass dann nachher ein gutachten drüber geschrieben wird und Bewertungen veröffentlicht werden.
+
+01:12:07.201 --> 01:13:00.600
+<v timpritlove>Also wenn ich mir das jetzt mal so zusammen addiere und mir denke, wir machen jetzt einfach mal neue Welt, morgen geht es los, alle spielen mit. Ich bin jetzt ein toller neuer aufstrebender Wissenschaftler und habe mir da irgendwie ein cooles Feld ausgeguckt und habe auch Plan und tolle Experimente aufgebaut und jetzt rasseln schon so die Erkenntnisse durch mein Hirn, die ich dann halt in so ein Paper gieße und anstatt jetzt bei irgendeinem Journal anzuklopfen, weil das ist ja irgendwie die alte Welt, schiebe ich das Ding erst mal auf irgend so einen Server. Ist  natürlich schon mal die Frage, gibt es den Server? Oder gibt es viele Server? Unterscheiden sich die Server in irgendeiner Form? Gibt es welche für diesen Forschungsbereich oder sind die eh alle miteinander vernetzt und es ist eigentlich egal, wo ich es rein tue, weil es so ein Netzwerk ist? Das wäre jetzt so erst mal meine erste Frage? Was könnte man da nehmen?
+
+01:13:00.601 --> 01:13:45.600
+<v nikolauskriegeskorte>Also im Moment gibt es schon eine Reihe von Servern. Wir haben Arxiv erwähnt, es gibt einen neuen, der heißt BioRxiv, das ist das "Arxiv" für biomedizinische Forschung, wo wir jetzt alle unsere Artikel veröffentlichen zusätzlich zu der normalen Veröffentlichung. Also diese Server kann man eigentlich sofort verwenden. Möglicherweise braucht man auch zusätzliche Systeme, wenn das ganze um sich greift und für die ganze Wissenschaft verwendet werden soll, dann würde man wahrscheinlich zusätzliche Ressourcen brauchen dafür.
+
+01:13:45.601 --> 01:14:06.100
+<v timpritlove>Aber was sich jetzt schon abzeichnet, es würde sich wahrscheinlich eine Struktur entwickeln oder es entwickelt sich bereits eine Struktur, die einfach forschungsthemenspezifisch ist? Das heißt wenn ich den Bereich Neurowissenschaft habe, dann gibt es vermutlich einen Ort, wo ich primär hin publizieren würde, weil alle anderen da auch sind?
+
+01:14:06.101 --> 01:15:05.600
+<v nikolauskriegeskorte>Man kann sich vorstellen, dass es ein allgemeines System für die gesamte Wissenschaft geben könnte. Das wichtige ist, dass die Internettechnologie mit Blogs zum Beispiel, man kann seine Artikel nicht auf Blogs veröffentlichen, weil Blogs sind nicht zitierbar und man kann sich nicht darauf verlassen, dass die Artikel dann da für immer abrufbar sind. Das heißt ein wichtiger Aspekt, der sich unterscheidet von der Kultur im Internet ist, dass die Veröffentlichung ein Akt sein muss, den man nicht zurücknehmen kann. Man kann zwar Revisionen einreichen, die dann zuerst sichtbar sind, aber die ursprünglichen Versionen die müssen für immer abrufbar sein. So dass der Akt des Publizierens schon so ein wichtiger Schritt ist für einen Wissenschaftler, den man sich auch zweimal überlegt.
+
+01:15:05.601 --> 01:15:18.100
+<v nikolauskriegeskorte>Weil obwohl man es, natürlich kann man Fehler eingestehen und man kann Verbesserungen machen, aber man kann nichts zurücknehmen und alles muss für immer zitierbar und abrufbar sein.
+
+01:15:18.101 --> 01:16:22.700
+<v timpritlove>Das heißt in dem Moment, wo ich einmal veröffentlicht habe, bleibt es auch in der Welt, aber es ist eben auch ab dem Moment beliebig referenzierbar. So jetzt liegt natürlich das Paper erst einmal rum und hat noch kein Prestige, weil das hat sich auch noch keiner angeschaut und niemand hat irgendeine Aussage darüber gemacht. Jetzt weil es halt irgendwie in einer Kategorie geführt wird, entweder in diesem globalen System oder in so einem themenspezifischen Server, weil es dort eben auftaucht, weckt es das Interesse anderer Wissenschaftler. Deren Motivation, sich das anzuschauen, ist einerseits, ich schaue mir sowieso alles an, was in meinem Feld neu ist, weil man lernt ja immer mit. Aber ich habe hier auch die Möglichkeit, meinen Senf offiziell abzugeben und auch darüber mich selber zu profilieren. Weil man ja damit auch dokumentiert, ich habe soviel Plan, ich kann sogar die Arbeit von anderen Leuten bewerten. In dem Moment, wo ich das tue, tue ich das auch auf dem System und hinterlasse genauso unlöschbar meine Unterschrift dadrunter?
+
+01:16:22.701 --> 01:16:25.100
+<v nikolauskriegeskorte>Genau das ist eine sehr gute Beschreibung.
+
+01:16:25.101 --> 01:17:23.400
+<v timpritlove>Und dadurch, dass ich auch eine Methodik verwende in diesem Gutachtenprozess, der so eine definierte Quantifizierung verschiedener Aspekte hat, Relevanz, technisches was weiß ich, Fertigkeiten, die hier gezeigt wurde, deswegen fragte ich vorhin so nach Kriterien. Also man müsste wahrscheinlich so 4-6 verschiedene Grundkriterien mindestens betrachten und vielleicht noch ein paar optionale haben, die man je nach Thema vielleicht dann noch mit dazu nimmt. Die dann aber auch eine genormte Skala der Bewertung haben. Da sind wir jetzt wieder bei diesen Sternchen. Ich finde ja Sternchen. funktionieren nicht so gut im Internet, aber sagen wir mal, wenn man eben ganz klar abgegrenzte schritte hat, wo man sagt, von vollkommen irrelevant bis besser geht es nicht, aber nicht so ein gut, besser, sondern dass man eben immer so stufen hat, mit hier wurde genug nachgeschaut, hier wurde genug überprüft.
+
+01:17:23.401 --> 01:17:39.200
+<v timpritlove>Hier sind sagen wir mal die Anforderungen an die Überprüfbarkeit der Ergebnisse entsprechend einem bestimmten Standard etc., wenn man das halt so quantifiziert rein gibt, dann schafft man ja auch noch eine automatisierte Vergleichbarkeit von Papers.
+
+01:17:39.201 --> 01:17:42.600
+<v nikolauskriegeskorte>Genau, das ist extrem wichtig.
+
+01:17:42.601 --> 01:17:54.200
+<v timpritlove>Kann aus so einer automatisierten Vergleichbarkeit bereits eine generelle Bewertung erfolgen und kann das auch die Basis für Prestige sein?
+
+01:17:54.201 --> 01:18:48.200
+<v nikolauskriegeskorte>Ja, eine ganz einfache Variante wäre, dass man diese Bewertungen vielleicht auf einer Skala von 0-99 und dann die erste Skala wäre vielleicht die Signifikanz oder Wichtigkeit des Artikels und die zweite Skala die Verlässlichkeit der Titelbehauptung. Wenn man einfach diese Bewertungen mittelt, dann hat man ein Profil der Bewertung, was schon sehr nützlich wäre und was, wenn mindestens ein dutzend Bewertungen da eingeflossen wären und wenn man diesen Bewertungen trauen kann, insofern als dass die Bewerter zu ihren Bewertungen stehen und unterschreiben, dann wäre das ein viel verlässlicheres Signal, als wie wir es bisher haben.
+
+01:18:48.201 --> 01:19:49.600
+<v nikolauskriegeskorte>Und zusätzlich zu dem Mittelwert hätte man dann auch die Verteilung der Bewertungen, also wie konsistent die Bewertungen sind über die verschiedenen Bewerter hinweg und das würde uns in die Lage versetzen halt statistische Inferenz zu betreiben und zu fragen, ob wenn ein Artikel eine höhere Bewertung hat als ein anderer Artikel, ob das tatsächlich ein signifikanter unterschied ist oder ob das im Bereich der Zufallsvariationen sich bewegt. Also das wäre sozusagen ein naives System dafür, diese Bewertungen zu kombinieren, um dann die gesamte Literatur zu priorisieren. Tatsächlich kann man sich natürlich ganz viele verschiedene Systeme vorstellen dafür. Wie man zum Beispiel die verschiedenen Skalen dann gewichtet, um dann eine einzige Rangfolge der Literatur zu erzeugen.
+
+01:19:49.601 --> 01:20:49.600
+<v nikolauskriegeskorte>Und da gibt es ganz viele Entscheidungen zu treffen, zum Beispiel soll es hauptsächlich drum gehen, wie interessant oder inspirierend der Artikel ist oder soll es darum gehen, wie verlässlich die Behauptungen sind. Wenn es nur das letztere ist, dann werden die erfolgreichsten Artikel vielleicht ganz langweilige Artikel, die extrem verlässlich sind. Tatsächlich brauchen wir all diese Skalen und es muss möglich sein, die ganze Literatur halt nach all diesen Kriterien zu ordnen oder auch die Urteile in verschiedener Weise miteinander zu kombinieren. Zum Beispiel mit verschiedenen Gewichtungen dieser Kriterien. Und aus meiner Sicht, was wir da brauchen ist eine Art Gewaltenteilung zwischen dem System, was diese Urteile sammelt, sowohl die gutachten und das ist Text und Argumente, die jeder lesen kann, wenn er will.
+
+01:20:49.601 --> 01:21:38.300
+<v nikolauskriegeskorte>Als auch die numerischen Bewertungen. Das ist die eine Gewalt. Das ist das System, das Open Evaluation System, was die Urteile sammelt. Und dann auf der anderen Seite brauchen wir Systeme, die diese Urteile kombinieren, um die Literatur zu priorisieren und den zugriff zu vereinfachen. Und das wäre dann zum Beispiel, es gäbe dann so Webportals, die würden die Funktion von Journals erfüllen. Die sich auf einen bestimmten Inhaltsbereich konzentrieren, um als Interface zu fungieren für eine bestimmte Gruppe, zum Beispiel Neurowissenschaftler.
+
+01:21:38.301 --> 01:21:45.100
+<v timpritlove>Und die vielleicht nicht komplett automatisiert ist, sondern auch eine gewisse humane Kurration auch noch beinhaltet?
+
+01:21:45.101 --> 01:22:48.300
+<v nikolauskriegeskorte>Könnte, ja genau. Und so ein Webportal würde dann halt die neuen Artikel zeigen und die Artikel, die höhere Bewertungen haben, nach einer Formel, die dieses Webportal definiert, die werden dann sichtbarer auf der Website. Allerdings kann jeder seine eigene Formel erfinden und die Basis, die Evidenz, die Urteile auf den diese Formeln beruhen, sind alle öffentlich zugreifbar. Das heißt der gesamte Prozess ist total transparent und wenn man sagt zum Beispiel, mir gefällt die Auswahl nicht, die Society for Neuroscience zum Beispiel hat ihr Webportal, wo sie die Literatur priorisiert und mir gefällt das aber nicht, weil ich festgestellt habe, dass ich da häufig wichtige Artikel verpasse zum Beispiel.
+
+01:22:48.301 --> 01:23:47.100
+<v nikolauskriegeskorte>Dann kann ich auch meine eigene Formel definieren und kann zum Beispiel sagen, Bewertungen von etablierten Wissenschaftlern will ich nicht berücksichtigen, ich verlasse mich auf die Urteile von Doktoranden und Postdocs zum Beispiel oder umgekehrt, vielleicht finde ich, dass Doktoranden nicht erfahren genug sind und schließe die aus aus meinen Bewertungen für meine Rangfolge. Oder ich möchte Wissenschaftler, die in bestimmten Bereichen arbeiten, die relevanter sind für mich, deren Urteile höher gewichten. Man hätte da die Möglichkeit, halt jede beliebige Formel zu verwenden. Und die Tatsache, dass es so eine Pluralität gäbe von Bewertungsformeln würde auch dazu führen, dass es sehr schwer wird, das System zu gamen.
+
+01:23:47.101 --> 01:24:42.300
+<v nikolauskriegeskorte>Also irgendwie seine eigenen Artikel da zu pushen, weil es eben diese Pluralität gibt von Bewertungssystemen. Also zum Beispiel Bewertungen müssten möglich sein, die man unterschreibt, aber auch anonyme Bewertungen müssen möglich sein, das ist sehr wichtig, weil man Argumente abgreifen will aus der wissenschaftlichen Gemeinschaft, deren Autoren vielleicht soziale Folgen fürchten. Also stellt sich zum Beispiel vor, dass ein junger Doktorand ein Problem sieht in einem Artikel von einem sehr berühmten Lab und vielleicht ist das ein brillantes Argument, was nachweist, dass dieser Artikel vollkommen falsch ist, aber der Doktorand traut sich nicht, da seinen Namen drunter zu setzen.
+
+01:24:42.301 --> 01:25:07.700
+<v nikolauskriegeskorte>Dann muss er die Möglichkeit haben, das auch anonym zu dem Prozess beizutragen. Und so werden wir dann anonyme und unterschriebene Urteile und gutachten in dem System haben. Und wir werden einen Weg finden müssen, die zu gewichten und verschiedene Webportals mögen das verschieden lösen.
+
+01:25:07.701 --> 01:25:25.900
+<v timpritlove>Ja da sehe ich natürlich gleich ein paar Probleme auf uns zukommen, wenn wir jetzt sozusagen anonyme Bewertungen ermöglichen, die nicht auf jemanden zurückgeführt werden können, weil da kann ja, salopp gesprochen, kann ja jeder kommen und sich irgendwas einfallen lassen, um sozusagen nur etwas herunterzuspielen, was vielleicht diese Meinung gar nicht verdient hat.
+
+01:25:25.901 --> 01:26:24.900
+<v nikolauskriegeskorte>Genau. Das da kann ja jeder kommen, das ist ja genau das was wir wollen, wir wollen ja, dass da jeder kommen kann. Nur das Problem ist, dass jeder kommen kann. Und deshalb wollen wir diese ganze Evidenz sammeln, aber wenn sich dann herausstellt, dass das missbraucht wird oder dass da zu viele Urteile von niedriger Qualität anonym vorkommen, dann wird das einfach dazu führen, dass die in den Evaluationsformeln geringeres Gewicht haben oder kein Gewicht haben. Das ist aber trotzdem nützlich, dass die da sind, weil die sind sozusagen wie das Unterbewusstsein der Wissenschaft, wo die Freiheit besteht, ohne irgendwelche Konsequenzen, alle arten von Argumenten beizusteuern zu dem Prozess.
+
+01:26:24.901 --> 01:27:21.600
+<v timpritlove>Da ich ja auch selber so einen Computerhintergrund habe, und sagen wir mal nicht identische, aber zumindest vergleichbare Prozesse ja auch sehe, in der Veröffentlichung von Computercode. So Phänomene wie Github, wo ja auch Unmengen an Sourcecode sichtbar ist und Bewertungen also nicht unbedingt eine primäre rolle spielen, weil Software und Wissenschaft ist dann schon nochmal zwei verschiedene Felder. Aber wo man auf jeden Fall gesehen hat, wie unglaublich positiv dieser öffentliche Umgang mit Code sich auf die komplette Szene ausgewirkt hat. Also welchen unheimlichen Schub das Softwareengineering an sich bekommen hat durch so eine öffentliche Plattform. Nicht nur Github, aber vor allem Github, also überhaupt das Veröffentlichen von Software und auch der Umgang mit Änderungen.
+
+01:27:21.601 --> 01:28:21.200
+<v timpritlove> Also dass man mit verteilten Versionssystemen explizit tracken kann, wurde dieser Code hat sich auf diese oder jene Art verwendet. Person XY hat zu dem Zeitpunkt die und die Änderung vorgenommen. Die einfach auch eine ganz andere Verlässlichkeit schafft. Auch ein ganz anderes Verständnis fördert für die Programmierleistung. Wenn ich mir das selbe jetzt eben vorstelle für ein Paper, was zu einem Zeitpunkt einfach mal veröffentlicht wurde. Nach dem Motto, ja wir haben jetzt hier mal 20 Testreihen gemacht lalala, das war jetzt der erste Zustand und dann sieht man in so einer Historie für dieses Paper, oh da wurde so ein interessanter Gong angeschlagen, da kamen sie dann gleich alle angelaufen und haben gesagt, das wollen wir uns aber mal genauer anschauen. Dann sieht man so 10-20 vielleicht auch schon bekannte Reviewer oder Gutachter, die halt sozusagen auch schon einen Namen haben als Reviewer. Vielleicht deren Hauptarbeit schon gar nicht mehr so darin liegt, selber die ganze Zeit Papers zu produzieren.
+
+01:28:21.201 --> 01:29:04.500
+<v timpritlove>Die aber irgendwie eine Gabe entwickeln, die Fehler in anderen Papers zu finden, die sich vielleicht viel mehr auf Methodiken und Fehlerfindungen usw. spezialisiert haben. Dadurch wird hier Interesse geschaffen. Dann sehe ich, oh jetzt sind die aber nochmal beigegangen, weil sie gesehen haben, ihre aussagen waren missverständlich oder hätte man nochmal beigehen können etc., dann wurde dieses Paper aktualisiert. Also über die Zeit sieht man ja dann nicht nur einen einzigen Zeitpunkt, zu dem mal irgendeine Erkenntnis geliefert wurde, sondern man sieht im Prinzip die vollständige Historie und vollständige wissenschaftliche Aktivität um dieses Thema herum, durch diese endlose Vergangenheit.
+
+01:29:04.501 --> 01:29:57.800
+<v nikolauskriegeskorte>Ja, das ist wahnsinnig inspirierend, was da im Open Source Bereich passiert, also als Modell für Kollaboration. Und das öffnet noch eine größere Debatte, und zwar um Open Science. Das ist also noch eine Entwicklung, die über das hinausgeht, was wir vorher beschrieben haben, nämlich, dass nicht nur die Bewertung von Artikeln, nachdem sie im Prinzip fertig sind, sondern den ganzen Prozess der Wissenschaft. Und da gibt es halt auch eine Bewegung, die Open Science Bewegung, wo Wissenschaftler den ganzen Prozess öffnen wollen. Also alle Ergebnisse sofort veröffentlichen, zum Beispiel auf ihren Blogs, so dass es dann freie Zusammenarbeit geben kann. Und da gibt es ein Präzedenzfälle.
+
+01:29:57.801 --> 01:30:40.800
+<v nikolauskriegeskorte>Ich glaube in der Mathematik, ein Beweis eines Theorems, was da ganz wahnsinnig schnell kollaborativ im Netz zustande gekommen ist interaktiv, wo ganz viele Leute einfach über das selbe Problem nachgedacht haben und dann immer sofort ihre Teillösungen veröffentlicht haben und das ist im Moment, das ist sozusagen weit davon weg, Mainstream zu sein, aber das ist eine wahnsinnig inspirierende Vision für die Zukunft der Wissenschaft, wo der ganze Prozess transparent ist und das passt gut in diesen rahmen und geht noch weiter.
+
+01:30:40.801 --> 01:31:29.600
+<v timpritlove>Also Open Science ist ja sozusagen nochmal eine klammer da drüber. Also wir haben jetzt über Open Access, also die Möglichkeit, auf alle Ergebnisse zugreifen zu können, auf alle Papers zugreifen zu können und den offenen Peer-Review-Prozess, also diese Evaluation, gesprochen. Open Science ist ja dann sozusagen auch noch die vollkommene Verfügbarkeit von Daten, Sourcecode. Heutzutage ist ja auch ein Problem, zum Beispiel bei der Nachvollziehbarkeit von Experimenten, dass teilweise die Computer gar nicht mehr existieren oder eben der Sourcecode. auch nicht mehr so ohne weiteres zum laufen gebracht werden kann, um überhaupt ein Experiment nachvollziehen zu können nach 10-15 Jahren. Und das alles sozusagen zusammen gebündelt als eine Idee einer neuen Art und Weise Wissenschaft zu machen.
+
+01:31:29.601 --> 01:31:31.500
+<v nikolauskriegeskorte>Ja.
+
+01:31:31.501 --> 01:31:32.700
+<v timpritlove>Was spricht denn dagegen?
+
+01:31:32.701 --> 01:31:50.700
+<v nikolauskriegeskorte>Also eine große Sache, die im Moment dagegen spricht, ist die Anreizstruktur des Veröffentlichungssystems. Weil natürlich in dem Moment, wo man seine Ideen preisgibt, dann ist man im Nachteil den anderen Wettbewerbern gegenüber, die an ähnlichen dingen arbeiten.
+
+01:31:50.701 --> 01:31:55.700
+<v timpritlove>Aber wie groß ist dieser Nachteil wirklich?
+
+01:31:55.701 --> 01:32:51.800
+<v nikolauskriegeskorte>Das ist schwer einzuschätzen. Aber in dem Gefühl der meisten Wissenschaftler ist der schon groß. Und jeder hat irgendwie Geschichten erlebt, wo natürlich in Bereichen, die sehr heiß sind, da gibt es verschiedene Labs, die an sehr ähnlichen Fragen arbeiten und da ist es dann schon entscheidend, wer da zuerst eine bestimmte Behauptung überzeugend stützen kann und dann dafür zitiert wird. Und dieses System schafft einen starken Anreiz dafür, Dinge geheim zu halten bis zu dem Punkt, wo man sie dann wirklich veröffentlicht und dann auch dafür die Lorbeeren fordert.
+
+01:32:51.801 --> 01:33:33.800
+<v timpritlove>Zwischen dem, ich veröffentliche alles selbst und das liegt in Datenbanken und ist immer abrufbar und dem anderen Extrem der Geheimwirtschaft eines Wissenschaftsverlages. Dazwischen gibt es ja auch noch ein paar andere Abstufungen. Was ist denn zum Beispiel die rolle, die Konferenzen an der stelle einnehmen? Also ich meine auch bei einer Konferenz muss ich ja ein Paper einreichen, damit es irgendwie angenommen wird, dann darf ich darüber sprechen und das trägt ja sozusagen zur Reputation bei und auch Konferenzen sind natürlich mit unterschiedlichem Prestige angereichert? Inwiefern bewegen sich denn auch diese Konferenzen mehr in die eine oder andere Richtung?
+
+01:33:33.801 --> 01:34:21.300
+<v nikolauskriegeskorte>Ja Konferenzen sind sozusagen wie eine Abstufung von Veröffentlichungen. Sozusagen eine schwächere Form von Veröffentlichung. Und das hängt vom Bereich ab, wie sich das verhält zu den Journals. Also zum Beispiel im Bereich Machine-learning, in der Informatik gibt es viele Konferenzen, wo man tatsächlich ein kurzes Paper einreicht und das Paper ist zitierbar für immer. Also praktisch der Konferenzbeitrag ist ein echter zitierbarer Beitrag und möglicherweise gibt es keine andere Veröffentlichung zu diesem Konferenzpaper und das ist der Artikel praktisch.
+
+01:34:21.301 --> 01:35:30.100
+<v nikolauskriegeskorte>In meinem Bereich ist das nicht so, in meinem Bereich sind Konferenzen zwar Veröffentlichungen. für die eigene Gemeinschaft der anderen Wissenschaftler, die an der Konferenz teilnehmen, aber das einzige was da im Netz verfügbar ist ist ein Abstract, eine Kurzzusammenfassung und die gilt nicht als volle Veröffentlichung. Also wenn ich zum Beispiel was brillantes mache und ich habe die Ergebnisse und ich stelle das auf einer Konferenz dar und da gibt es ein Abstract und jeder sieht den Abstract und den Titel im Netz von der Konferenz, aber dann brauche ich noch ein Jahr, um das zu veröffentlichen und in der Zwischenzeit veröffentlicht jemand anderes etwas ähnliches, dann ist die historische Realität, dass die andere Gruppe das zuerst gemacht hat. Und das hängt damit zusammen, dass halt Artikel, da ist es halt wirklich, weil mit so einem Abstract kann man nicht beurteilen, behauptet der das nur oder ist da tatsächlich die Datenbasis gegeben?
+
+01:35:30.101 --> 01:35:51.200
+<v timpritlove>Aber wie ist denn der Umgang mit Konferenzen im Bezug auf Open Data? Also wenn ich jetzt als Wissenschaftler dahingehe und sage, hier liegt schon längst auf dem Server., da soll es auch immer bleiben, ich werde auch nie mein Copyright abtreten, ich will aber jetzt hier trotzdem mal sprechen, ist das für manche Konferenzen ein Problem?
+
+01:35:51.201 --> 01:35:59.700
+<v nikolauskriegeskorte>Nein, das ist die Wahl, das kann man machen. Die Frage ist, ob man das Risiko eingehen will. Wie man sich dabei fühlt, dieses Risiko einzugehen.
+
+01:35:59.701 --> 01:36:01.100
+<v timpritlove>Das Risiko jetzt inwiefern?
+
+01:36:01.101 --> 01:36:18.000
+<v nikolauskriegeskorte>Das Risiko, dass die Idee übernommen wird oder die Idee andere beeinflusst oder einfach nur, dass andere, die schon sehr nah am selben Ergebnis dran sind, dann sich ganz besonders beeilen, weil ihnen klar wird, dass man selbst kurz davor steht.
+
+01:36:18.001 --> 01:36:25.200
+<v timpritlove>Na gut, aber wenn ich jetzt mein Paper eh schon auf dem Server. habe, was kann mir denn dann noch passieren?
+
+01:36:25.201 --> 01:36:56.300
+<v nikolauskriegeskorte>Da ist halt die entscheidende Frage, was die wirkliche akzeptierte Form der Veröffentlichung ist. Ist das die Veröffentlichung in einem Journal, in einem traditionellen Journal und mit der könnte man dann den kürzeren ziehen. Oder ist die offizielle Veröffentlichung die Veröffentlichung auf einem Preprintserver? Und in dem Moment, wo das akzeptiert wird, da ändern sich dann die anreize natürlich.
+
+01:36:56.301 --> 01:36:57.700
+<v timpritlove>Ja aber ist das nicht schon so?
+
+01:36:57.701 --> 01:37:55.300
+<v nikolauskriegeskorte>Da sind wir gerade in einer ganz interessanten Phase, weil sich das gerade verändert. Also ich zitiere zum Beispiel in meinen Artikeln Preprints. Und das heißt ich zitiere Artikel, die tatsächlich noch nicht durch den Peer-review-Prozess gegangen sind und noch nicht in traditionellen Journals veröffentlicht worden sind. Das tue ich bei Artikeln, die ich trotzdem für wichtig halte, weil ich sie selbst evaluiert habe, ich habe sie selbst gelesen und das ist ein sehr interessanter Prozess. Wir hatten zum Beispiel so einen Fall mit meinem letzten Doktoranden, der jetzt Postdoc am MIT ist, wo wir zwei Artikel zitiert haben von einer Gruppe am MIT, die nur auf Preprintservern verfügbar waren und die so ähnliche Ergebnisse hatten, wie wir selbst auch.
+
+01:37:55.301 --> 01:38:49.000
+<v nikolauskriegeskorte>Und de facto haben wir unseren Artikel zuerst in einem offiziellen Journal, nämlich PLOS Public Library of Science Computational Biology veröffentlicht, aber wir zitieren zwei Artikeln, die nur auf Preprintservern sind und zwei Monate später kam dann ein Artikel raus in dem selben Journal, PLOS Computational Biology, der einem dieser früheren Artikeln entsprach, also das war die offizielle Version, der unseren Artikel nicht zitierte. Also das war ein interessanter Fall und mein Doktorand war dann ganz traurig und sagte, ja jetzt waren wir zuerst in dem klassischen System und wir zitieren die, weil wir großzügig sind, wir müssen sie nicht zitieren, weil das ist ja nur ein Preprintserver, das ist ja sozusagen nicht die Realität.
+
+01:38:49.001 --> 01:38:51.000
+<v timpritlove>Das würde man dann auch nicht vorgeworfen bekommen?
+
+01:38:51.001 --> 01:39:34.600
+<v nikolauskriegeskorte>Tendenziell werden Preprints in meinem Feld nicht unbedingt zitiert und wenn wir das nicht zitiert hätten, hätte uns niemand einen Vorwurf draus gemacht. De facto wussten wir schon lange von der Arbeit und es wäre irgendwie unwissenschaftlich und seltsam gewesen, die nicht zu erwähnen oder nicht in dem selben Kontext auch zu diskutieren. Wir haben das gemacht, obwohl wir nach den alten Regeln zuerst waren, waren wir nach den neuen Regeln nicht zuerst und aus meiner Sicht ist das die Richtung, in die sich die Dinge entwickeln und das finde ich auch sehr positiv.
+
+01:39:34.601 --> 01:40:17.000
+<v timpritlove>Kommt mir jetzt gerade noch die Diskussion um Plagiate in wissenschaftlichen Arbeiten hoch, das ist ja sozusagen ein Aspekt, der dann jetzt hier auch nochmal mit rein spielt. Also ich plagiiere ja in dem Moment, wo ich etwas übernehme sozusagen aus einem Artikel, der naja schon da ist, der schon akzeptiert ist, das müsste sich ja im Prinzip auch in dem Moment auf einen Preprintartikel dann auch erweitern? Aber derzeit gelten die noch nicht sozusagen als vorwertig, noch nicht unbedingt als veröffentlicht und von daher würde das dann noch durchgehen?
+
+01:40:17.001 --> 01:40:25.100
+<v nikolauskriegeskorte>Ja deshalb nennen die sich ja Preprint. Also jeder weiß, dass die genau den Artikeln in den Journals entsprechen bis auf vielleicht kleine Sachen.
+
+01:40:25.101 --> 01:41:06.500
+<v timpritlove>Das heißt das würde einem dann schon auch auf die Füße fallen, wenn man das macht? Aber diese Zitierpflicht. Also wenn ich das Beispiel gerade richtig verstanden habe, dann ist es ja sozusagen in dem Moment, wo etwas nur auf dem Preprintserver ist, hat es noch nicht diesen Stellenwert mit, muss man zitieren, wenn man da schon drüber redet, sonst würde einem das ja vorgehalten werden. Ja hier ihr forscht da und hier da gab es doch das Ergebnis, warum habt ihr denn das nicht zitiert? Dann wäre das ja sozusagen so ein implizierter Vorwurf, schlechter wissenschaftlicher Arbeit. Weil es aber nur Preprint. ist und nicht richtig publiziert ist, ist dem noch nicht so. das ist ja quasi so ein Wertewandel, der sich jetzt noch vollziehen muss.
+
+01:41:06.501 --> 01:41:08.800
+<v nikolauskriegeskorte>Ja.
+
+01:41:08.801 --> 01:42:15.200
+<v timpritlove>Vielleicht zum Abschluss würde ich gern nochmal so das womit wir eingestiegen sind, nämlich diese ganze Forschung ums Gehirn, um die künstliche Intelligenz und diese Idee einer mehr oder weniger automatisierten Bewertung der offenen Wissenschaft nochmal hinterfragen wollen. Weil ich könnte mir vorstellen, dass das hier auch schon mal ein Thema gewesen ist, weil wenn man jetzt all diese Kriterien heranzieht für eine Bewertung, über die wir gesprochen haben, alle wissenschaftlichen Ergebnisse sowieso im zugriff sind, auch die Personennetzwerke, die sich daraus ergeben, ja dann auch bewertbar sind und man quasi am laufenden Meter immer mehr Verflechtungen und immer mehr Daten gewinnt, wie sich das eine auf das andere bezieht, nicht nur die Zitate, die es ja im Prinzip heute schon gibt, sondern eben auch die ganzen Aussagen über bestimmte Aspekte, was wäre denn absehbar, wie automatisiert eine wissenschaftliche Bewertung des Fortschritts ablaufen könnte?
+
+01:42:15.201 --> 01:43:12.600
+<v nikolauskriegeskorte>Also die größere Frage ist, wie wir unsere Urteile nicht nur in der Wissenschaft, sondern auch über die Wissenschaft hinaus, zum Beispiel im Journalismus und in anderen Bereichen der Gesellschaft unsere Urteile teilen und unsere Urteile zusammenfließen lassen zu einem kollektiven Kognitionsprozess. Und wenn wir da Computertechnologie und Internettechnologie. dazu verwenden, dann bedeutet das natürlich auch, dass dann künstliche Intelligenztechnologien da relevant werden für die Integration all dieser Urteile. Und ich finde das wahnsinnig spannend, darüber nachzudenken, einerseits wie man diese Interaktionen gestalten will durch Webtechnologie, so dass der kollektive Prozess so effizient wie möglich ist in Bezug auf die Destillierung der Wahrheit.
+
+01:43:12.601 --> 01:44:15.700
+<v nikolauskriegeskorte>Und wie man die KI da mit einbeziehen kann. Und ich stelle mir vor, dass in ein paar Jahren der Gebrauch des Internets. eine andere Qualität haben wird, insofern als wir da nicht passiv nur abrufen werden. Also es ist natürlich auch jetzt schon interaktiv, insofern als wir wählen, was wir sehen und wir klicken durch Hyperlinks. Aber insofern ist es aktiver als zum Beispiel fernsehen gucken, wo man vielleicht nur umschalten kann oder zwischen 30 Programmen wählen. Das ist einfach eine Auswahl, die sehr viel simpler ist. Aber in Zukunft im Internet wird die Information auch in die andere Richtung laufen stärker. Das heißt, in dem wir lesen, werden wir gleichzeitig urteilen. Und urteilen nicht, was wir jetzt schon tun ist, worauf wir klicken, das wird wahrgenommen vom Internet zum Beispiel von google und hilft dabei, die Suchergebnisse in die richtige Rangfolge zu bringen.
+
+01:44:15.701 --> 01:45:26.400
+<v nikolauskriegeskorte>Aber in Zukunft werden da explizite Kommentare und Bewertungen hinzukommen. Es gibt da Versuche, Technologie zu entwickeln, um das web zu annotieren. Also wenn man was liest im web, dann kann man eine Behauptung zum Beispiel in der New York Times oder in der deutschen Zeit, die könnte man dann da markieren und dann rechts klicken und dann eine Bewertung hinterlassen, dieser Behauptung. Und wenn wir eine solche Technologie hätten, das könnte dazu führen, wenn die Technologie richtig gestaltet ist und wenn die Kultur dieses Urteilens, dieser Interaktion im web mit solchen Systemen sich positiv entwickelt, dazu führen, dass die Behauptungen, die aufgestellt werden im Internet viel verlässlicher sind. Weil wenn man zum Beispiel was veröffentlicht, was tatsächlich keine Basis hat, dann würde das einfach sofort debunked, sofort.
+
+01:45:26.401 --> 01:45:46.100
+<v timpritlove>Also wir reden ja nicht so sehr von der Zukunft jetzt, weil tatsächlich ja Google erst vor kurzem angekündigt und so weit ich weiß auch teilweise schon umgesetzt hat, genau solche Wahrheitsaussagen auf Webseiten etc. mit in die Webseite mit einzubeziehen. Was natürlich eine interessante Fragestellung aufwirft, nämlich, wer definiert denn jetzt eigentlich die Wahrheit?
+
+01:45:46.101 --> 01:45:48.000
+<v nikolauskriegeskorte>Wer definiert die Wahrheit genau ja.
+
+01:45:48.001 --> 01:46:45.000
+<v timpritlove>Das ist ja ohnehin die Frage schon immer gewesen und wird es auch bleiben und was kann sozusagen als verlässlich angesehen werden. Da ging es auch in dem Zusammenhang viel um die Debatte um den Klimawandel mit vielen Leuten, die das Gegenteil behaupten und durch ihre schiere Publikationswut auch sozusagen eine Sichtbarkeit erzeugen und es besteht wohl der Wunsch bei den Suchmaschinen, dem sozusagen eine gewisse wahrheitsgetränkte aussagen entgegenhalten zu wollen und hier stellt sich natürlich die Frage, ist das überhaupt möglich? Was bedeutet das für uns, wenn wir sozusagen Maschinen haben, die die Wahrheit definieren und versuchen aus irgendwas abzulesen. Also an der Stelle entstehen ja Algorithmen, die für uns auch sehr schwer nachvollziehbar sind.
+
+01:46:45.001 --> 01:46:45.400
+<v nikolauskriegeskorte>Genau.
+
+01:46:45.401 --> 01:46:55.300
+<v timpritlove>Ob sie denn sozusagen das richtige tun und die selbe Fragestellung würde sich natürlich auch bei der Betrachtung von Open Science und den daraus sich ableitenden Wahrheiten stellen.
+
+01:46:55.301 --> 01:47:50.600
+<v nikolauskriegeskorte>Ja das ist wahnsinnig spannend. Also zum Beispiel die Algorithmen, die google verwendet, die kann man ja nicht einsehen. Also vielleicht wenn man darüber lesen würde, könnte man schon Sachen dazu finden, aber generell verstehen wir nicht genau, wie das funktioniert. Einerseits ist es unvermeidlich, wenn man in einer komplexen Kultur arbeitet, dann kann man nicht erwarten, alles zu verstehen, worauf sich andere spezialisiert haben und das muss man einfach akzeptieren und das ist ja auch nichts neues. Das hat nichts mit dem Internet zu tun, sondern mit komplexen Kulturen, wo es Arbeitsteilung gibt und wo sich Menschen spezialisieren. Aber eine große Herausforderung ist, diese Prozesse so transparent wie möglich zu gestalten und die Prozesse, die zu einem bestimmten Urteil führen, vollständig zu veröffentlichen.
+
+01:47:50.601 --> 01:48:48.000
+<v nikolauskriegeskorte>Also wenn ich zum Beispiel eine Aussage, eine Behauptung sehe, die eine hohe Bewertung hat in diesem System, dann muss es möglich sein, für mich das zu hinterfragen und den gesamten Strang von Urteilen, Argumenten und Diskussionen zu dieser Aussage zu sehen. So dass der gesamte Prozess, der zu dieser hohen Bewertung führt dann transparent ist für mich. Und es muss möglich sein, dass es da einen Pluralismus gibt von Systemen, die diese ganze Evidenz, diese ganze evaluative Evidenz, die ganzen Urteile von Menschen in einer anderen Weise integrieren und möglicherweise zu anderen Ergebnissen kommen. Und das finde ich wahnsinnig spannend. Ich stelle mir vor, dass das extrem gut funktionieren wird.
+
+01:48:48.001 --> 01:49:16.600
+<v nikolauskriegeskorte>So ähnlich wie wir, wenn wir von einem Ereignis in den Nachrichten hören, dann sind wir vielleicht skeptisch, was die Auswahl der Informationen angeht. Aber wenn da zum Beispiel berichtet wird, dass es eine große Explosion gab irgendwo, dann sind wir ziemlich sicher, dass das tatsächlich passiert ist. Und ich glaube, so ähnlich wird das dann auch mit dem Internet sein.
+
+01:49:16.601 --> 01:49:17.900
+<v timpritlove>Zumindest wenn es die quellen gibt.
+
+01:49:17.901 --> 01:50:11.300
+<v nikolauskriegeskorte>Ja ist ja jetzt schon mit dem Internet so, dass zum Beispiel Wikipedia sehr vertrauenswürdig ist, was Lehrbuchwissen angeht. Wo es schwieriger ist, ist wenn wir uns in Bereiche der Wissenschaft bewegen, wo die Ergebnisse ganz neu sind und wo es noch Debatten gibt, da ist es schwieriger und da brauchen wir diesen Prozess, der die Wahrheit destilliert und der unsere kollektiven, tiefsten Intuitionen explizit macht. So dass wir schon früher in dem Prozess, der wissenschaftliche Ergebnisse zu allgemein akzeptierten Lehrbuchwissen macht, mit größerer Sicherheit sagen können, was wir vertrauen können, welchen Ergebnissen wir vertrauen können.
+
+01:50:11.301 --> 01:50:45.900
+<v nikolauskriegeskorte>Und das lässt sich auch anwenden natürlich auf Nachrichten letztlich. Nachrichten, da gibt es das selbe Problem, da geht es um eine kleinere Zeitskala, nicht um Naturgesetze, sondern um Ereignisse in der Welt. Und da ist sehr viel Potenzial dafür, dass wir tatsächlich unsere eigenen Konfusionen überwinden und auf einer höheren ebene da agieren können als Gesellschaften.
+
+01:50:45.901 --> 01:51:02.900
+<v timpritlove>Mindestens könnte es einen öffentlichen Wissenschaftsprozess aktiv begleiten. Auch vielleicht dort schon früh auf interessante Ergebnisse hinweisen, sozusagen als Frühwarnsystem auch für die gesamte wissenschaftliche Gemeinschaft fungieren.
+
+01:51:02.901 --> 01:51:05.900
+<v nikolauskriegeskorte>Ja.
+
+01:51:05.901 --> 01:51:12.600
+<v timpritlove>Ja und ich denke, das bringt uns jetzt hier ans Ende des Gesprächs.
+
+01:51:12.601 --> 01:51:13.600
+<v nikolauskriegeskorte>Das hat mich sehr gefreut.
+
+01:51:13.601 --> 01:51:30.200
+<v timpritlove>Ja mich auch. Das war ein sehr interessanter Streifzug hier über den Status quo des wissenschaftlichen Arbeitens und auch der Ausblicke, wie dieses Arbeiten vielleicht in Zukunft sich auch noch gestalten könnte. Ich denke, da ist eine ganze menge zu holen.
+
+01:51:30.201 --> 01:51:32.400
+<v nikolauskriegeskorte>Spannende Fragen.
+
+01:51:32.401 --> 01:51:55.800
+<v timpritlove>Genau. Ich sage vielen Dank Nikolaus Griesgrotte. Das war es hier. 16. Ausgabe von Forschergeist. Bald geht es weiter und wir werden auch weiter ähnliche Themen und auch ganz andere hier neu aufwerfen, bis dahin wünsche ich erst mal noch eine schöne Zeit. Tschüss und bis bald.
+
+

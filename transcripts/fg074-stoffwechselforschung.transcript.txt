@@ -1,0 +1,674 @@
+[00:00:00-0 @intro]
+[00:00:43-5 @timpritlove] Hallo und herzlich willkommen zu Forschergeist, dem Podcast des Stifterverbandes für die deutsche Wissenschaft.
+[00:00:48-4 @timpritlove] Mein Name ist Tim Pritlove und ich begrüße alle hier zur Ausgabe 74 von Forschergeist,
+[00:00:54-6 @timpritlove] wo wir viel über Wissenschaft sprechen und auch viel über Forschung und genau darum soll es auch heute mal wieder gehen.
+[00:01:01-8 @timpritlove] Konkret Erkenntnisse und ein Blick in den Stand der Wissenschaft in einem Bereich, den wir hier ehrlich gesagt noch nicht so oft behandelt haben, die Medizin.
+[00:01:12-4 @timpritlove] Ganz konkret wollen wir über Stoffwechselforschung sprechen und dazu begrüße ich zunächst einmal meinen Gesprächspartner, nämlich Jens Claus Brüning, schönen guten Tag.
+[00:01:21-6 @jensclausbrüning] Schönen guten Tag.
+[00:01:23-6 @timpritlove] Herr Brüning, wir sind in Köln, hier am Max-Planck-Institut für Stoffwechselforschung.
+[00:01:29-8 @timpritlove] Ist das der volle Name?
+[00:01:31-0 @jensclausbrüning] Das ist der volle Name, perfekt korrekt.
+[00:01:31-9 @timpritlove] Das ist der volle Name.
+[00:01:33-4 @timpritlove] Super.
+[00:01:35-1 @timpritlove] Im Gesamtklinikumgebiet der Universität Köln.
+[00:01:40-1 @timpritlove] Ich weiß gar nicht, was hier noch alles ist, ein riesiger Campus hier mitten in der Stadt.
+[00:01:43-4 @jensclausbrüning] Genau, das ist der Vorteil halt, dass wir genau als eins der wenigen Max-Planck-Institute direkt mitten auf dem Campus der Uniklinik sind
+[00:01:51-7 @jensclausbrüning] und damit auch sehr nah bei den Patienten.
+[00:01:54-5 @timpritlove] Ja.
+[00:01:55-6 @timpritlove] Vielleicht mal zunächst zu Ihnen.
+[00:02:00-7 @timpritlove] Sie sind ja Molekularbiologe?
+[00:02:04-1 @timpritlove] Nein?
+[00:02:05-0 @jensclausbrüning] Nein, leider nicht.
+[00:02:06-6 @timpritlove] Sind Sie nicht.
+[00:02:08-0 @jensclausbrüning] Also ich bin von Haus aus Mediziner, habe selber Medizin studiert hier in Köln.
+[00:02:11-4 @timpritlove] Ja.
+[00:02:12-0 @jensclausbrüning] Und habe dann zunächst angefangen meine Facharztausbildung zu machen und weil mich dann Forschung interessiert hat,
+[00:02:16-6 @jensclausbrüning] habe ich einen längeren Auslandsaufenthalt in den USA verbracht und habe dann vier Jahre Grundlagenforschung gemacht.
+[00:02:22-8 @jensclausbrüning] Und bin dann zurückgekommen und habe das dann wieder verbunden mit meiner klinischen Tätigkeit.
+[00:02:27-3 @jensclausbrüning] Und bin dann irgendwann berufen worden auf eine Professur in der Biologie, also so quasi als Quereinsteiger aus der Medizin in die Biologie gewechselt.
+[00:02:37-4 @jensclausbrüning] Und dann 2011 wieder zurück gegangen auch an die Klinik und als Leiter des Max-Planck-Institutes.
+[00:02:43-5 @jensclausbrüning] Und verbinde momentan beides, also Patientenversorgung und Grundlagenforschung.
+[00:02:49-7 @timpritlove] Und das war schon immer Ihr Ding, so Medizin?
+[00:02:50-9 @jensclausbrüning] Also Medizin war immer mein Ding.
+[00:02:53-8 @jensclausbrüning] Und während dieser Zeit in den USA habe ich dann wirklich meine Leidenschaft auch für Grundlagenforschung entdeckt und habe dann halt versucht,
+[00:03:00-3 @jensclausbrüning] beides in verschiedener Gewichtung entweder parallel zu machen oder mal mehr Klinik oder mehr Grundlagenforschung und habe das dann zu unterschiedlichen Anteilen jeweils gemacht.
+[00:03:11-7 @timpritlove] Was war da anders in den USA als hier?
+[00:03:16-4 @jensclausbrüning] Also was mich erst mal beeindruckt hat, das war 1992, als ich rüber gegangen bin in die USA, war einmal die Kultur in der Wissenschaft da.
+[00:03:24-4 @jensclausbrüning] Ich war in einem Labor bei Ronald Kahn in Boston.
+[00:03:28-1 @jensclausbrüning] Und einfach die Kultur einer sehr offenen Laboratmosphäre, also dass auch, ich sage mal, ein herausragend bekannter Wissenschaftler immer ein offenes Ohr hatte,
+[00:03:39-9 @jensclausbrüning] immer eine offene Tür Politik hatte und dass man im Grunde sehr sehr eng mit ihm im Austausch war und wie gesagt, seine Tür immer offen stand,
+[00:03:47-3 @jensclausbrüning] wenn man irgendeine Idee und ein Problem hatte, dass man einfach reinlaufen konnte und das besprechen konnte, also dass es eine sehr flache Hierarchie war.
+[00:03:54-6 @jensclausbrüning] Und das hat mich beeindruckend und das war auch was, was mich geprägt hat und von dem ich hoffe, dass auch hier mit zurückgebracht zu haben.
+[00:04:01-2 @timpritlove] Denken Sie, ist das so eine kulturelle Eigenschaft der USA oder eine spezielle Eigenschaft dieses Standortes gewesen?
+[00:04:06-8 @jensclausbrüning] Nein, ich glaube schon, dass das mehr so eine generelle Kultur ist in der Wissenschaft in den USA und jetzt auch inzwischen in Deutschland sicher auch.
+[00:04:16-4 @jensclausbrüning] Aber ich glaube, dass früher die, ich sage mal, die Strukturen in Deutschland doch eher traditioneller und hierarchischer strukturiert war.
+[00:04:23-1 @timpritlove] Und was hat das dann verhindert in Deutschland?
+[00:04:26-9 @jensclausbrüning] Schwer zu sagen, was es verhindert hat.
+[00:04:28-4 @jensclausbrüning] Es gab schon immer gute Wissenschaft in Deutschland, auch über Jahrhunderte Tradition, aber ich denke, die Atmosphäre ist einfach angenehmer,
+[00:04:34-4 @jensclausbrüning] wenn man unter solchen Bedingungen arbeiten kann und wenn man auch als junger Wissenschaftler oder Wissenschaftlerin ja halt offener kommunizieren kann
+[00:04:43-4 @jensclausbrüning] und auch seine Ideen offener einbringen kann.
+[00:04:45-6 @jensclausbrüning] Und ich denke, am Ende profitiert das System dadurch, dass man einen kreativeren Umgang pflegt und gestaltet.
+[00:04:51-4 @timpritlove] Und was genau hat Sie jetzt sozusagen dann an die Grundlagenforschung herangebracht?
+[00:04:55-7 @timpritlove] Also die offene Atmosphäre hätte Sie ja an alles mögliche heranbringen können.
+[00:05:00-4 @jensclausbrüning] Nein, also was mich prinzipiell interessiert hat, also wie gesagt, ich habe angefangen dann nach meinem Medizinstudium hier in Köln in der Endokrinologie, in der Stoffwechselmedizin zu arbeiten
+[00:05:07-5 @jensclausbrüning] und was mich auch besonders interessiert hat waren halt so die Grundlagen von Alterszucker, Typ II Diabetes.
+[00:05:15-9 @jensclausbrüning] Und da wollte ich halt lernen, also ein wichtiges Hormon in diesem Kontext ist halt das Insulin, das normalerweise den Blutzuckerstoffwechsel reguliert
+[00:05:25-0 @jensclausbrüning] und die Regulation funktioniert bei der Erkrankung nicht mehr und ich denke, wenn man verstehe will, wie so eine Erkrankung zustandekommt,
+[00:05:31-2 @jensclausbrüning] muss man erst mal verstehen, wie das System überhaupt fundamental funktioniert und das war so das Interesse, wie ich da reingekommen bin.
+[00:05:39-0 @jensclausbrüning] Also dass mich einfach interessiert hat, was da beim Vorliegen dieser Erkrankung schiefläuft.
+[00:05:44-1 @timpritlove] Wie muss man denn drauf blicken auf das Wissen, was wir uns, sagen wir mal, in den letzten 100 Jahren darüber angeeignet haben?
+[00:05:56-0 @timpritlove] Ich meine, man würde ja vermuten, dass alles das, was so mit Medizin zu tun hat und auch so viele Leute betrifft, in irgendeiner Form schon früh erforscht wurde,
+[00:06:04-9 @timpritlove] manchmal stellt sich raus, ist gar nicht so, zu dem Zeitpunkt, als Sie sich damit beschäftigt haben,
+[00:06:11-5 @timpritlove] ich höre jetzt raus, Anfang der 90er Jahre, war das dann schon in etwa so der Kenntnisstand, den wir heute hatten oder hat sich da nennenswert was getan?
+[00:06:20-6 @jensclausbrüning] Nein, überhaupt nicht, also da hat sich eine ganze Menge getan.
+[00:06:23-2 @jensclausbrüning] Also wenn man sich das Ganze historisch anguckt, dann ist in den 20er Jahren Insulin als das Haupt den Zuckerstoffwechsel regulierende Hormon zum ersten Mal überhaupt identifiziert und charakterisiert worden.
+[00:06:35-8 @jensclausbrüning] Und dann hat man halt sehr schnell festgestellt, dass es eine spezifische Gruppe von Patienten gibt,
+[00:06:40-4 @jensclausbrüning] das sind die sogenannten Typ I Diabetiker oder die an so einem jugendlichen Diabetes leiden.
+[00:06:45-3 @jensclausbrüning] Bei denen produziert der Körper kein Insulin mehr und das war damals, als Insulin identifiziert wurde, quasi eine tödliche Erkrankung, weil Insulin fehlte,
+[00:06:56-4 @jensclausbrüning] und dann gab es halt zum ersten Mal die Möglichkeit, diesen Patienten dann künstliches Insulin oder gereinigtes Insulin zurückzuführen,
+[00:07:05-0 @jensclausbrüning] so dass da halt so eine, ich sage mal, per se tödliche Erkrankung in eine chronische Erkrankung überführt wurde.
+[00:07:14-0 @jensclausbrüning] Aber was man halt weiß, ist, dass die größte Zahl der Patienten von dem sogenannten Altersdiabetes betroffen ist
+[00:07:20-0 @jensclausbrüning] und bei dem produziert der Körper noch Insulin, aber es funktioniert nicht mehr richtig.
+[00:07:25-2 @jensclausbrüning] Und das ist halt häufig assoziiert und geht Hand in Hand mit einem Übergewicht.
+[00:07:31-5 @jensclausbrüning] Und überhaupt dieses ganze molekulare Verständnis, wie Insulin normalerweise wirkt, wie es nicht mehr wirkt, das sind alles Erkenntnisse,
+[00:07:39-7 @jensclausbrüning] würde ich sagen, die wir in den letzten 20-30 Jahren zunehmend detaillierter verstanden haben.
+[00:07:45-1 @jensclausbrüning] Also zum Teil immer noch nicht richtig verstanden haben, auf jeden Fall gibt es ein riesiges Forschungsfeld über die letzten 20 Jahre,
+[00:07:55-7 @jensclausbrüning] das zunehmend detaillierter uns verstehen lässt, wie dieses Hormon normalerweise funktioniert.
+[00:08:00-8 @timpritlove] Das heißt, erst zur Jahrtausendwende kamen hier neue Erkenntnisse und vorher hat man so 80 Jahre lang zwar in etwa gewusst, woran es liegt, aber was hat gefehlt?
+[00:08:10-7 @jensclausbrüning] Ja, was gefehlt hat, waren zum Beispiel die ganzen Werkzeuge der modernen Molekulargenetik, dass man zum Beispiel wusste, Insulin wird von der Bauchspeicheldrüse freigesetzt,
+[00:08:21-7 @jensclausbrüning] wenn der Zucker steigt und wirkt dann auf Muskel, Leber und Fett, um den Zuckerstoffwechsel zu regulieren.
+[00:08:29-4 @jensclausbrüning] Und dann war erst mal überhaupt nicht klar, wie das Hormon Insulin an diese Zielzellen bindet und wirkt, also die Frage, man spricht da von sogenannten Rezeptor,
+[00:08:39-7 @jensclausbrüning] der wurde erst 1982 identifiziert überhaupt und dass man dann halt über die folgenden 10 Jahre im Detail entschlüsselt hat, wie Insulin quasi in der Zelle,
+[00:08:51-5 @jensclausbrüning] in der Muskelzelle, Leberzelle, Fettzelle dann seine Wirkung entfaltet, um letztendlich zum Beispiel dazu zu führen, dass der Muskel oder das Fettgewebe mehr Zucker aufnimmt aus dem Blut
+[00:09:01-8 @jensclausbrüning] oder die Leber aufhört, Zucker neu zu bilden.
+[00:09:05-5 @jensclausbrüning] Und das sind alles Erkenntnisse, die halt wirklich progressiv über die letzten 30 Jahre zunehmen.
+[00:09:13-1 @timpritlove] In der Grundlagenforschung wird ja immer viel geklagt, dass man sich zu wenig auf sie konzentriert.
+[00:09:18-6 @timpritlove] Ich meine, letztlich klagt jeder Bereich und hätte gerne mehr Aufmerksamkeit, aber ist ja nicht unbedingt immer klar oder nicht unbedingt immer so ohne weiteres vermittelbar,
+[00:09:33-2 @timpritlove] dass es eben Grundlagenforschung ist, die betrieben werden muss, um in einem bestimmten Segment weiterzukommen, wenn man irgendwie Mittel zu verteilen hat.
+[00:09:41-4 @timpritlove] Wie war denn das aufgestellt so in den 90er Jahren, bevor es dann die größeren Änderungen gab?
+[00:09:48-8 @jensclausbrüning] Man muss sagen, dass die Grundlagenforschung auch schon damals sicher gut gefördert worden ist in diesen Bereichen.
+[00:09:56-7 @jensclausbrüning] Also das ist jetzt nichts, was, ich sage mal, aufgrund fehlender Mittel gelitten hätte.
+[00:10:01-3 @jensclausbrüning] Man kann jetzt immer sagen, mit mehr Mitteln könnte man noch mehr machen, aber ich glaube schon, dass die medizinische Grundlagenforschung,
+[00:10:07-5 @jensclausbrüning] zumindest in den USA und auch in Deutschland, eigentlich sehr gut gefördert ist und nach wie vor in Deutschland auch sehr gut gefördert ist.
+[00:10:15-8 @jensclausbrüning] Und ich glaube, dass es auch gerade in Deutschland traditionell eigentlich eine sehr ausgewogene Förderunterstützung gibt, in sowohl Grundlagenforschung
+[00:10:23-4 @jensclausbrüning] als auch eher klinisch-translationaler Forschung, so dass wir uns da, glaube ich, also prinzipiell gar nicht groß beklagen können.
+[00:10:30-6 @timpritlove] Ja, na gut es hat ja nicht unbedingt immer was mit Mitteln und Geld zu tun, sondern eben auch sozusagen mit der Dynamik innerhalb der Wissenschaft selber, wohin man sich selber orientieren soll.
+[00:10:40-9 @timpritlove] Jetzt sagten Sie ja, Sie hätten sich dann interessiert für Grundlagenforschung, was war so der treibende Faktor, dass Sie sagen, ich muss mehr in den Bereich gehen?
+[00:10:48-0 @timpritlove] Hätten ja auch Arzt werden können.
+[00:10:49-3 @jensclausbrüning] Ich bin ja auch Arzt geworden.
+[00:10:50-0 @timpritlove] Also auch praktizierender Arzt.
+[00:10:52-0 @jensclausbrüning] Habe ich auch gemacht.
+[00:10:54-2 @timpritlove] Okay.
+[00:10:53-7 @jensclausbrüning] Nein, aber ich denke, wenn man Patienten behandelt, dass man auch getrieben ist von dem Verständnis, wirklich im Detail verstehen zu wollen, wodurch diese Erkrankung zustande kommt.
+[00:11:05-0 @jensclausbrüning] Und klar kann man sagen, okay wir haben ein paar Medikamente, die funktionieren besser oder schlechter und wir geben uns damit zufrieden oder zu sagen,
+[00:11:11-8 @jensclausbrüning] vielleicht können wir auch bessere Medikamente entwickeln oder dazu beitragen sie zu entwickeln, wenn wir überhaupt erst mal richtig verstehen,
+[00:11:19-2 @jensclausbrüning] was diesen Erkrankungen zugrunde liegt.
+[00:11:20-8 @jensclausbrüning] Man muss ganz klar sagen, dass viele Medikamente, die auch routinemäßig bei solchen Erkrankungen, wie zum Beispiel Diabetes, eingesetzt werden,
+[00:11:30-4 @jensclausbrüning] ja quasi Zufallsentdeckungen waren, die sehr gut funktionieren, aber die man auch über Jahrzehnte fast angewendet hat, ohne wirklich zu verstehen,
+[00:11:40-3 @jensclausbrüning] wie sie genau funktionieren.
+[00:11:41-6 @jensclausbrüning] Und ich denke, da kann man jetzt sagen …
+[00:11:44-2 @timpritlove] Was denn zum Beispiel?
+[00:11:45-7 @jensclausbrüning] Es gibt ein Medikament, der Wirkstoff heißt Metformin, das ist ein hervorragendes Diabetesmedikament, das gibt es seit Ende der 50er.
+[00:11:54-0 @jensclausbrüning] Und ganz ganz lange Zeit wusste man einfach nicht, wie das wirklich funktioniert so richtig im Detail.
+[00:11:59-6 @jensclausbrüning] Ehrlich gesagt weiß man es bis heute nicht.
+[00:12:02-3 @jensclausbrüning] Aber wir wissen auf jeden Fall schon deutlich besser, warum es funktioniert.
+[00:12:04-9 @timpritlove] Ja.
+[00:12:05-5 @jensclausbrüning] Und ich hatte es eben angedeutet, also das Hauptproblem bei diesem Alterszucker, der überwiegenden Form von Diabetes ist es, dass Insulin zwar vom Körper gebildet wird,
+[00:12:16-0 @jensclausbrüning] aber dass die normalen Zielgewebe nicht richtig darauf ansprechen.
+[00:12:20-8 @jensclausbrüning] Also wir reden dann von einer sogenannten Insulinresistenz.
+[00:12:22-6 @jensclausbrüning] Das Hormon wird gemacht, entfaltet seine Wirkung aber nicht richtig.
+[00:12:26-9 @jensclausbrüning] Und da ist Metformin eines der ersten Medikamente gewesen, das so die Insulinsensitivität, -empflindlichkeit wieder gesteigert hat und ist damit eigentlich genau das, was man gerne hätte.
+[00:12:37-0 @jensclausbrüning] Und wie gesagt, molekular war das bis in die letzten 20 Jahre nicht richtig verstanden und wir verstehen immer mehr, wie dieses Medikament seine Wirkung entfaltet
+[00:12:47-3 @jensclausbrüning] und lernen darüber auch wieder mehr darüber, wie die Krankheit überhaupt entsteht, welche Mechanismen dabei eine Rolle spielen, insofern finde ich es einfach spannend.
+[00:12:54-8 @timpritlove] War das eine Frage der Technologie oder des Wissens, der erst mal dazu geführt hat, dass man so ein mehr oder weniger zufällig entdecktes Medikament wirklich beobachtet kann, was es tut?
+[00:13:09-5 @jensclausbrüning] Also ich glaube schon, dass viele Erkenntnisse in der Wissenschaft auch durch technologischen Fortschritt ganz klar katalysiert werden.
+[00:13:18-3 @jensclausbrüning] Also wenn man sich überlegt, dass zum Beispiel die ganze Revolution, dass wir, ich sage mal, unser Genmaterial besser verstehen, DNA sequenzieren können,
+[00:13:28-0 @jensclausbrüning] dass wir überhaupt unsere Erbinformation verstehen, komplett neue Erkenntnisse in die normale Regulation des Körpers eröffnet hat.
+[00:13:35-7 @jensclausbrüning] Und dann gab es halt immer wieder technologische Durchbrüche, die einem erlaubt haben, bestimmte Sachen besser zu verstehen.
+[00:13:41-4 @jensclausbrüning] Und insofern ist das, glaube ich, dann ein sich ständig weiter entwickelnder Prozess, der aber an bestimmten Schnittstellen auch immer wieder durch echte technologische Durchbrüche
+[00:13:51-0 @jensclausbrüning] quasi dann erleichtert wird, wenn auf einmal es möglich wird, noch tiefer in eine Zelle zu gucken, noch besser zu verstehen, dass viele Zellen,
+[00:14:00-0 @jensclausbrüning] von denen wir bisher dachten, dass sie gleich oder ähnlich wären, doch unterschiedlicher sind.
+[00:14:04-1 @jensclausbrüning] Also ich glaube, dass wir immer mehr verstehen über die Komplexität unseres Körpers und wie gesagt immer wieder unterstützt auch durch komplett neue technische Ansätze.
+[00:14:13-1 @timpritlove] Vielleicht erst mal von dem Hauptthema Diabetes noch ein bisschen zurückstellen
+[00:14:22-1 @timpritlove] und einfach mal schauen, was wissen wir denn über oder wie gut kennen wir den Stoffwechsel des Menschen, wie er denn eigentlich abläuft?
+[00:14:33-0 @timpritlove] Sind wir denn da, hat man denn das Gefühl, nur mit einer Taschenlampe in so eine Höhle reinzuleuchten oder ist so schon beleuchtet?
+[00:14:44-6 @jensclausbrüning] Nein, ich glaube schon, dass wir eigentlich in einen Raum reingucken, wo eine ganz gute Beleuchtung herrscht,
+[00:14:50-0 @jensclausbrüning] und dass wir eigentlich auch viele Sachen sehr gut kennen.
+[00:14:52-4 @jensclausbrüning] Man muss auch sagen, es gibt, also gerade im Bereich der Stoffwechselforschung, gibt es ja auch schon sehr lange sehr gute klinische Forschung,
+[00:15:02-2 @jensclausbrüning] wo halt viele Phänomene auch beim Menschen sehr gut untersucht worden sind.
+[00:15:05-9 @jensclausbrüning] Also wo dann halt vielleicht das letztendlich molekulare Verständnis nicht so ausgeprägt war, aber so diese fundamentalen Regelprinzipien,
+[00:15:16-1 @jensclausbrüning] wie Nahrungsaufnahme funktioniert, wie die Leber ihren Stoffwechsel ans Essen anpasst, das sind alles Sachen, die werden auf sehr hohem Niveau seit bestimmt mehr als 100 Jahren untersucht,
+[00:15:29-7 @jensclausbrüning] und da gibt es halt bekannte Physiologen, die schon Ende des 19. Jahrhunderts angefangen haben, das ganz ganz systematisch zu erfassen, zu beschreiben.
+[00:15:38-9 @jensclausbrüning] Insofern ist das jetzt sicher nicht so eine ganz ganz dunkle Blackbox, von der wir keine Ahnung haben oder gerade mal reinleuchten.
+[00:15:47-2 @jensclausbrüning] Aber was ich halt faszinierend finde am Stoffwechsel ist halt, dass im Grunde das ein Zusammenspiel des gesamten Organismus ist.
+[00:15:54-1 @jensclausbrüning] Das heißt, das, was in der Fettzelle passiert, muss mit der Leberzelle abgesprochen werden, das Ganze wird am Ende vielleicht, das ist unser Forschungsfeld,
+[00:16:03-0 @jensclausbrüning] auch vom Gehirn sozusagen orchestriert.
+[00:16:06-6 @jensclausbrüning] Und man muss einfach Stoffwechsel als sehr sehr komplexes Geschehen sehen, wo man eigentlich viele Prozesse, die in einzelnen Organen ablaufen,
+[00:16:15-0 @jensclausbrüning] gut aufeinander abstimmen muss, damit der Körper gut funktioniert.
+[00:16:19-7 @jensclausbrüning] Und ich glaube, das ist so ein bisschen, was ich auf der einen Seite sehr sehr faszinierend finde, aber ist natürlich auch ein irrsinniges Komplexitätsproblem,
+[00:16:30-5 @jensclausbrüning] wenn Sie sagen, wir wollen jetzt nicht nur verstehen, was passiert in der Leberzelle, wenn da Insulin draufkommt,
+[00:16:35-7 @jensclausbrüning] sondern wie verhält sich die Leberzelle, wenn wir gerade was gegessen haben, was sind die anderen zehn Hormone, die auf diese Leberzelle gleichzeitig einwirken
+[00:16:45-1 @jensclausbrüning] und wie integriert so eine Zelle diese ganze Information, die sie bekommt, von der Muskulatur, von dem Fettgewebe, vom Gehirn,
+[00:16:52-3 @jensclausbrüning] um dann letztendlich eine Stoffwechselentscheidung zu treffen.
+[00:16:56-4 @jensclausbrüning] Und das finde ich halt besonders spannend.
+[00:16:58-6 @timpritlove] Ich auch, weil wenn ich so drüber nachdenke, ist das ja, ich meine, Biologie ist an sich schon ein komplexes Feld, aber hier sprechen wir ja im Prinzip erst mal von einem sowieso der komplexesten Organismen,
+[00:17:10-9 @timpritlove] glaube ich, die so die Welt hervorgebracht hat, mit dem Menschen, der dann quasi eigentlich nochmal so eine Metaebene darüber agiert,
+[00:17:19-6 @timpritlove] indem er sozusagen sein gesamtes Verhalten, wenn ich es richtig verstanden habe, mit dem Gehirn selbst quasi nochmal orchestriert.
+[00:17:29-6 @jensclausbrüning] Genau.
+[00:17:30-6 @timpritlove] Das heißt, es handelt sich nicht immer nur so um normale Aktion-Reaktion-Mechanismen, alles passiert irgendwie chemisch,
+[00:17:37-6 @timpritlove] sondern wir sind in der Lage, über das Gehirn diesen Vorgang unseren Bedürfnissen anzupassen?
+[00:17:44-7 @timpritlove] Kann man das so sagen?
+[00:17:46-4 @jensclausbrüning] Das wäre die Idee.
+[00:17:46-9 @jensclausbrüning] Also ich denke, was dem Ganzen nochmal mehr Komplexität gibt, ist natürlich auch, dass wir ja auch nicht im luftleeren Raum existieren.
+[00:17:54-9 @jensclausbrüning] Also es ist jetzt nicht so, dass unser Körper seine eigenen Signale von innen verarbeitet, sondern dass wir uns natürlich auch in einer Umwelt bewegen.
+[00:18:01-8 @timpritlove] Temperatur.
+[00:18:03-3 @jensclausbrüning] Temperatur, Nahrungsverfügbarkeit von außen, Stimmung, Umgebung, soziale Interaktion.
+[00:18:12-4 @jensclausbrüning] Und all das muss ja im Grunde auch, ich sage mal, quasi verarbeitet werden als Signale, dass der Körper nicht nur auf Sachen reagiert, die sich ändern,
+[00:18:21-0 @jensclausbrüning] um das dann zum Beispiel wieder in so einen Regelkreislauf zu bringen, sondern idealerweise vielleicht auch schon vorhersehen zu können, was wird passieren,
+[00:18:29-5 @jensclausbrüning] welchen Einfluss wird das auf meinen Stoffwechsel haben, um vielleicht schon die Stellschrauben in die Richtung zu drehen,
+[00:18:36-5 @jensclausbrüning] um den Körper darauf vorzubereiten, was mit sehr hoher Wahrscheinlichkeit passieren wird.
+[00:18:40-9 @jensclausbrüning] Also zum Beispiel eine Sache, an der wir im Moment arbeiten, ist halt, wie der Organismus sich quasi vorbereitet, wenn man alleine schon Essen sieht oder riecht
+[00:18:53-6 @jensclausbrüning] und das wir denken, dass das bereits im Gehirn verarbeitet wird, dass dann zum Beispiel Signale bereits an die Leber gesendet werden in dem Moment,
+[00:19:00-8 @jensclausbrüning] wo man Essen riecht und sieht, den Stoffwechsel auch biochemisch schon darauf vorzubereiten, dass, wenn jetzt die Nahrung in zehn Minuten in den Körper kommt,
+[00:19:11-8 @jensclausbrüning] dass die Leber halt nicht unvorbereitet getroffen wird aus dem Blinden raus, sondern dass im Grunde schon die biochemischen Prozesse zumindest in die Richtung so ein bisschen vorgetunet sind,
+[00:19:23-6 @jensclausbrüning] und dann effektiver mit den Kalorien umgehen zu können.
+[00:19:25-7 @timpritlove] Wenn einem das Wasser im Munde zusammenläuft sozusagen?
+[00:19:28-2 @jensclausbrüning] Genau, im Grunde ist das nichts anderes als so klassische pawlowsche Konditionierung, also alles das, was vor 200 Jahren an Hunden beschrieben worden ist,
+[00:19:37-8 @jensclausbrüning] dass natürlich auch schon bestimmte physiologische Reize alleine durch die Erwartung und durch die Konditionierung von zum Beispiel Nahrungsreizen ausgelöst werden.
+[00:19:45-9 @timpritlove] Da gehört ja dann sicherlich auch so ein bisschen der Winterspeck dazu.
+[00:19:49-9 @timpritlove] Also sozusagen die langfristige Vorhersage darüber, was man denn vielleicht irgendwann mal gebrauchen könnte.
+[00:19:57-8 @timpritlove] Inwiefern, also ich meine, wir haben ja, und wenn ich das richtig sehe, findet man das im Medizinischen an vielen Stellen, so ein bisschen das Problem,
+[00:20:07-4 @timpritlove] dass wir jetzt so über Jahrtausende in einem bestimmten Lebenswandel und in eine bestimmte Umwelt geboren und hinein revolutioniert wurden,
+[00:20:17-9 @timpritlove] sich dieses Umfeld aber durch die Industrialisierung und unsere moderne Zivilisation und Technisierung eigentlich extrem schnell ändert und der Körper und die Evolution teilweise vielleicht sogar ausgesetzt wird
+[00:20:32-8 @timpritlove] und man sich fragen muss, sind wir eigentlich für die von uns selbst geschaffene Welt überhaupt noch gedacht?
+[00:20:41-4 @jensclausbrüning] Sie treffen im Grunde den perfekten Punkt.
+[00:20:43-0 @jensclausbrüning] Also ich denke gerade, also woran wir auch arbeiten, ist halt die Frage, warum explodiert gerade Übergewicht so dermaßen?
+[00:20:51-3 @timpritlove] Ja.
+[00:20:51-7 @jensclausbrüning] Und da muss man genau das, was Sie ansprechen, ist, dass im Grunde unser Organismus über Jahrtausende optimiert wurde zu überleben unter Bedingungen,
+[00:21:03-6 @jensclausbrüning] wo Nahrungsverfügbarkeit limitierend ist.
+[00:21:07-3 @jensclausbrüning] Das heißt, unser Gehirn als Steuerzentrale ist perfektioniert darauf sozusagen, sicherzustellen, wenn sich eine Kalorie vor ihnen zeigt, dass sie die aufnehmen
+[00:21:20-3 @jensclausbrüning] und effektiv abspeichern in einem Organismus, der halt unter über, wie gesagt, Jahrtausende optimiert wurde, unter, ich sage mal, feindlichen Bedingungen zu überleben.
+[00:21:33-6 @jensclausbrüning] Und wenn man zurückschaut, im Grunde ist das in unserer Umwelt ja gerade mal in den letzten 50 Jahren komplett außer Kraft gesetzt worden.
+[00:21:45-9 @jensclausbrüning] Also das heißt, dieser Organismus, der dahingehend optimiert wurde, findet sich jetzt in einer Umwelt, wo in unserer Gesellschaft Nahrung an sieben Tagen 24 Stunden verfügbar ist.
+[00:21:56-0 @jensclausbrüning] Und deshalb ist auch quasi unsere Physiologie gar nicht optimiert darauf, ja Nahrungsaufnahme zu unterdrücken, sondern diese Rahmenbedingungen treffen auf einen Organismus,
+[00:22:13-0 @jensclausbrüning] der das entsprechend verstoffwechselt und speichert und damit dann natürlich auch zu entsprechenden Konsequenzen führt.
+[00:22:20-6 @timpritlove] Das heißt, eigentlich müsste sich unser Gehirn einem Schnellkurs Evolution unterziehen lassen oder ihn selber einleiten in irgendeiner Form,
+[00:22:34-9 @timpritlove] um damit wiederum das Überleben zu sichern, wobei wir ja auch so ein bisschen das Problem haben, dadurch dass wir so eine gute medizinische Versorgung haben,
+[00:22:43-8 @timpritlove] wir ja auch die Selektion, die nun über Jahrtausende das mehr oder weniger befördert hat oder eingeleitet hat, so auch gar nicht mehr haben.
+[00:22:52-3 @jensclausbrüning] Ja, man muss ganz klar sagen, im Grunde gibt es ja auch kein – das klingt jetzt hart – aber es gibt ja keinen Selektionsdruck gegen Übergewicht.
+[00:23:00-4 @jensclausbrüning] Also im Prinzip, wenn Sie sich evolutionär angucken, was sind die entscheidenden Kräfte, die eine Evolution bedingen,
+[00:23:05-5 @jensclausbrüning] dann heißt das, Sie müssen sicherstellen, dass sich halt eine Spezies, Maus, Mensch, wer auch immer gut reproduziert
+[00:23:17-2 @jensclausbrüning] und dass sie damit im Prinzip aus evolutionärer Perspektive quasi der Job auch schon erledigt ist.
+[00:23:24-0 @timpritlove] Und schnell vorm Bären weglaufen.
+[00:23:25-8 @jensclausbrüning] Zum Beispiel.
+[00:23:28-3 @jensclausbrüning] Und dass jetzt eine Krankheit, die sich manifestiert in den 50er/60er Lebensjahren oder auch in den 40ern von mir aus, ja jetzt gar nicht mehr so einen echten Selektionsdruck ausübt.
+[00:23:41-8 @jensclausbrüning] Und dass es eher zu unserem … dass es einfach eine Sache ist, mit der unsere Gesellschaft leben muss, dass wir natürlich auch für jeden eine möglichst hohe Lebensqualität zu jedem Alter sicherstellen wollen
+[00:23:56-3 @jensclausbrüning] und dass es da keinen echten Evolutionsdruck drauf gibt, halt da jetzt Mechanismen zu selektionieren, die einen gesünder 80 Jahre alt werden lassen.
+[00:24:08-7 @timpritlove] Ja, und man hat sich zu dem Zeitpunkt auch schon wahrscheinlich ausreichend reproduziert, also selbst wenn man da betroffen ist.
+[00:24:13-5 @jensclausbrüning] Genau, ich meine, das ist eine simplifizierte Erklärung, aber…
+[00:24:17-6 @timpritlove] Ja, aber das scheint schon Teil des Problems zu sein.
+[00:24:17-6 @jensclausbrüning] … im Prinzip geht es ja darum, wie ist die Physiologie unseres Körpers optimiert worden und die ist sicher in der Richtung optimiert worden,
+[00:24:26-3 @jensclausbrüning] und insofern unsere Gene haben sich jetzt auch nicht in den letzten 50 Jahren verändert oder dass wir uns einfach von unserem Bauplan irgendwie so verändert haben,
+[00:24:34-2 @jensclausbrüning] sondern das, was sich definitiv verändert hat, sind unsere Lebensbedingungen.
+[00:24:37-0 @jensclausbrüning] Als diese quasi unlimitierte Verfügbarkeit von Nahrungsmitteln.
+[00:24:42-0 @jensclausbrüning] Aber was sich sicher auch verändert hat, was wir auch lernen, ist zum Beispiel, dass unser Organismus eigentlich sehr gut adaptiert ist an einen Tag-Nacht-Zyklus,
+[00:24:53-6 @jensclausbrüning] nur um ein Beispiel zu geben.
+[00:24:56-3 @jensclausbrüning] Wir nehmen Mäuse jetzt, die sind nachtaktiv, laufen nachts rum und schlafen tagsüber.
+[00:25:03-3 @jensclausbrüning] Und die essen natürlich auch nachts, wenn sie aktiv sind.
+[00:25:06-0 @jensclausbrüning] Und wenn man denen die gleichen Kalorien, wenn sie die nachts essen, über den Tag verteilt gibt, ohne mehr Kalorien zuzuführen, werden die an Gewicht zunehmen.
+[00:25:18-5 @jensclausbrüning] Das heißt, wenn man einfach nur die Kalorien zur falschen Zeit des Tages gibt, führt das zu einer Gewichtszunahme, weil einfach während der nicht natürlichen Essenszeit
+[00:25:29-6 @jensclausbrüning] die Stoffwechselwege nicht so effizient ablaufen.
+[00:25:33-1 @jensclausbrüning] Und wenn Sie sich unsere Lebensbedingungen angucken, dann haben die sich halt auch fundamental geändert.
+[00:25:38-2 @jensclausbrüning] Es gibt Schichtarbeit, es gibt komplett veränderte Art Tage und Nächte zu verbringen und gegebenenfalls halt auch zu Zeiten zu essen,
+[00:25:50-1 @jensclausbrüning] die nicht die natürlichen Zeiten gewesen wären, für die unser Körper optimiert worden ist.
+[00:25:54-6 @jensclausbrüning] Und insofern gibt es ganz ganz viele Umwelteinflüsse, die sich einfach in unserem derzeitigen täglichen Leben so verändert haben,
+[00:26:02-8 @jensclausbrüning] und dann für uns nachteilig werden können, gerade was die Entwicklung von Stoffwechselerkrankung angehen kann.
+[00:26:09-3 @timpritlove] Und denken Sie, dass der Körper in gewisser Hinsicht eine Fähigkeit hat oder haben könnte, hier so eine Art Lokalevolution einzuführen,
+[00:26:19-3 @timpritlove] also dass wir in der Lage sind, uns daran anzupassen?
+[00:26:25-5 @jensclausbrüning] Ich glaube ehrlich gesagt nicht.
+[00:26:26-0 @jensclausbrüning] Also ich wäre da ziemlich verhalten in dem Optimismus.
+[00:26:29-7 @jensclausbrüning] Wie gesagt, da gibt es ja auch keinen echten Druck für den Körper, das so zu machen.
+[00:26:36-1 @jensclausbrüning] Also ich meine, wenn die Konsequenzen, die unsere Lebensart für unseren Körper hat, die manifestiert sich zwar immer früher, das heißt, wir sehen jetzt auch übergewichtige Kinder zunehmend,
+[00:26:48-6 @jensclausbrüning] die dann auch Erkrankungen entwickeln, die wir eigentlich eher bei älteren Erwachsenen gewesen haben,
+[00:26:55-3 @jensclausbrüning] aber nichts desto trotz ist im Prinzip, ich sage mal, der Druck auf das System sich zu ändern insofern minimal.
+[00:27:04-1 @jensclausbrüning] Also ich glaube, wir müssen lernen, entweder unsere Lebensbedingungen eigentlich wieder in die Richtung zu bringen, wie sie für unseren Körper besser wären
+[00:27:14-5 @jensclausbrüning] oder gegebenenfalls halt neue Therapieformen zu entwickeln, mit diese Lebensbedingungen zurechtzukommen.
+[00:27:22-3 @timpritlove] Wie hat sich denn dieses Problem verstärkt?
+[00:27:26-5 @timpritlove] Also gibt es ja sicherlich auch passende Zahlen und Untersuchungen darüber.
+[00:27:31-0 @timpritlove] Dass Übergewicht an sich ein Thema ist, da muss man, glaube ich, gar keine Zahlen herbeiholen, da muss man sich nur im Supermarkt umschauen.
+[00:27:39-1 @timpritlove] Wie dramatisch ist es denn?
+[00:27:42-3 @jensclausbrüning] Man muss ganz klar sagen, dass im Moment, also die besten Zahlen gibt es aus den USA, aber inzwischen auch aus Deutschland, man muss ganz klar sagen,
+[00:27:50-0 @jensclausbrüning] dass sich das Übergewicht in den USA zurzeit ungefähr die Hälfte der Bevölkerung betrifft und dass knapp 30 Prozent nicht nur übergewichtig,
+[00:28:00-2 @jensclausbrüning] sondern also klinisch manifest fettleibig sind.
+[00:28:03-7 @jensclausbrüning] Und dann mit allen Konsequenzen, die sich daraus entwickeln, dass es halt zum gehäuften Auftreten von Diabetes kommt, Diabetes betrifft im Moment ungefähr zehn Prozent der Bevölkerung,
+[00:28:13-5 @jensclausbrüning] sowohl in den USA als auch in Deutschland und das sind natürlich irrsinnige Zahlen.
+[00:28:19-3 @jensclausbrüning] Wir wissen, dass bestimmte Krebserkrankungen mit Übergewicht assoziiert sind, die dann häufiger auftreten, Leberverfettungen jetzt häufiger auftreten,
+[00:28:28-9 @jensclausbrüning] dass wahrscheinlich als Folge dessen sich bestimmte Formen von Lebertumoren häufiger entwickeln werden und die Entwicklung ist im Prinzip hervorragend dokumentiert.
+[00:28:39-1 @jensclausbrüning] Herz-Kreislauf-Erkrankungen häufiger auftreten, also das ist jetzt keine düstere Projektion in die Zukunft, sondern das ist das, was wir über die letzten 20 Jahre statisch sehr gut dokumentiert sehen.
+[00:28:50-0 @jensclausbrüning] Also wie gesagt, dass der Anteil Übergewichtiger von unter 20 Prozent auf 50 Prozent der Bevölkerung angestiegen ist über einen Zeitraum von 30 Jahren.
+[00:28:59-3 @timpritlove] Aber ist ja im wesentlichen ein persönliches Problem, kann man sagen, also abgesehen von den vielleicht daraus entstehenden Kosten für die Gesellschaft,
+[00:29:08-7 @timpritlove] damit dann Herr zu werden, andererseits wenn die Krankheiten immer früher einsetzen und Krebsrisiken erhöht werden,
+[00:29:17-0 @timpritlove] hat das dann auch schon wieder einen evolutionären Druck, der irgendeine Auswirkung haben kann?
+[00:29:20-1 @jensclausbrüning] Nö, glaube ich nicht, ehrlich gesagt.
+[00:29:21-9 @jensclausbrüning] Also ich meine, das sind typischerweise Krebserkrankungen, die relativ spät auftreten, also was zum Beispiel mit Übergewicht assoziiert ist, ist ein gesteigertes Risiko von Frauen, an Brustkrebs zu erkranken.
+[00:29:32-2 @jensclausbrüning] Von beiden Geschlechtern, an Darmkrebs zu erkranken, aber das sind jetzt alle keine Sachen, die Sie normalerweise in den 20ern ereilen, sondern das sind Risiken,
+[00:29:45-0 @jensclausbrüning] die kommen dann zum Tragen vielleicht in Ihren 40er, 50er, 60er Lebensjahren und insofern ist das jetzt kein echter Evolutionsdruck.
+[00:29:52-2 @jensclausbrüning] Aber man muss auch sagen, das sind natürlich auch chronische Erkrankungen.
+[00:29:54-4 @jensclausbrüning] Selbst wenn Sie sagen, so eine Tumorerkrankung, das sind auch oftmals Tumorerkrankungen, die die individuell betroffenen Patienten extrem einschränken körperlich, psychisch
+[00:30:07-3 @jensclausbrüning] und die dann aber auch sehr lange Behandlungen hinter sich herziehen.
+[00:30:13-0 @jensclausbrüning] Also ich weiß nicht, ob Sie darauf anspielen wollen, dass es dann vielleicht billig wird, wenn man schnell stirbt, aber ich denke, das ist jetzt keine Projektion, die Sie daraus entwickeln können.
+[00:30:20-8 @timpritlove] Nein, das wollte ich gar nicht.
+[00:30:24-4 @jensclausbrüning] Es klang jetzt so ein bisschen so.
+[00:30:26-0 @timpritlove] Ja, es ist ein bisschen schwierig, hier die richtigen Worte zu finden.
+[00:30:30-8 @timpritlove] Ich meine, es gibt das individuelle Schicksal, wie man damit umgeht und die ethischen Auswirkungen davon,
+[00:30:37-2 @timpritlove] aber solange man das sozusagen als Gesamtproblem sieht, weil ich immer noch so ein bisschen über diese Möglichkeit oder die Unmöglichkeit des menschlichen Organismus selber nachdenke,
+[00:30:48-6 @timpritlove] sich eben an solche Vorgänge vielleicht auch anzupassen.
+[00:30:52-3 @timpritlove] Und wenn das Hirn hier auch beteiligt ist und das Hirn auch für einen selber plant, wäre es ja vielleicht auch zu denken, dass wir uns so quasi also kultureller Organismus in irgendeiner Form das Rüstzeug zulegen,
+[00:31:10-5 @timpritlove] hier eine entsprechende Gegenbewegung zu machen.
+[00:31:12-6 @timpritlove] Ich meine, gibt es ja in Teilen.
+[00:31:14-2 @timpritlove] Dieses, man will eigentlich nicht dick sein, dass es immer noch so ein gewisser kultureller Malus ist, wobei sich wahrscheinlich dann das, was als dick angesehen wird, auch schon etwas verschoben hat.
+[00:31:25-8 @timpritlove] Die eigene Leistungsfähigkeit, die da dran hängt, die ja auch in unseren Beziehungen dann irgendwie eine Rolle spielt,
+[00:31:33-9 @timpritlove] wie sehr man in der Arbeit etc. dort gefordert ist und leistungsfähig ist.
+[00:31:39-5 @timpritlove] Wir sind ja auch so leistungsfanat.
+[00:31:42-5 @timpritlove] Dass das dann sozusagen so eine Rückwirkung haben kann, dass irgendwann so ein Tippingpoint ist, der stärker ist als der eingebaute,
+[00:31:51-1 @timpritlove] ich muss jetzt nicht mehr vor dem Bären weglaufen, habe gerade Zeit, lass mal alles essen, was hier gerade rumliegt, dass man dem etwas entgegensetzen kann.
+[00:31:59-4 @jensclausbrüning] Ja, aber was Sie da, also ich glaube, was ganz ganz wichtig ist, um das nochmal ganz klar auszusprechen, ist, dass Übergewicht nichts zu tun hat mit Willensschwäche.
+[00:32:10-8 @jensclausbrüning] Ich glaube, das ist eine Sache, die muss man auch mal ganz deutlich aussprechen.
+[00:32:14-0 @jensclausbrüning] Das ist ja oft was, was so stigmatisiert quasi wahrgenommen wird, dass einer, der übergewichtig ist, dass das einfach fehlende Willensstärke ist, das jetzt nicht zu essen.
+[00:32:24-7 @jensclausbrüning] Sondern wir haben einfach gelernt und das sind keine lang zurückliegenden Erkenntnisse, dass unser Gehirn auch letztendlich ein Organ ist.
+[00:32:36-1 @jensclausbrüning] Also das heißt, wir haben ein Netzwerk von Nervenzellen, die optimiert darauf sind, Nahrungsaufnahme sicherzustellen.
+[00:32:45-9 @jensclausbrüning] Und wir können jetzt nicht einfach davon ausgehen, dass wir so wunderbar weit entwickelte Organismen sind, die jetzt einfach, wenn sie nur genug wollen,
+[00:32:57-0 @jensclausbrüning] sämtliche Prozesse per Gehirn übersteuern können, sondern man muss einfach sagen, das Gehirn ist entscheidender Teil des Problems,
+[00:33:04-8 @jensclausbrüning] und zwar dass die Signale aus dem Körper zusammenlaufen im Gehirn und dann letztendlich da die Verschaltung stattfindet und dann findet die Entscheidung statt,
+[00:33:15-1 @jensclausbrüning] esse ich, esse ich nicht?
+[00:33:16-7 @jensclausbrüning] Und diese Gehirnschaltkreise, die sind genauso evolutionär optimiert worden und das System ist halt darauf hin ausgerichtet, diese Nahrungsaufnahme sicherzustellen.
+[00:33:28-8 @jensclausbrüning] Und wir wissen auch, wenn man jetzt zum Beispiel mehr isst, aufgrund von Umwelteinflüssen, wenn einem das einfach zur Verfügung steht, dass diese normalen Schaltkreise dann nicht mehr richtig funktionieren,
+[00:33:42-1 @jensclausbrüning] also dass die Signale, auf die das Gehirn normalerweise aus dem Körper anspricht, das ist ein Hormon, das sogenannte Leptin zum Beispiel,
+[00:33:51-3 @jensclausbrüning] das wird normalerweise vom Fettgewebe freigesetzt, wenn der Körper genug Energie hat und das wirkt dann zurück aufs Gehirn und hemmt die Nahrungsaufnahme.
+[00:33:59-3 @jensclausbrüning] Und man weiß, dass das Leptin, wenn man erst mal übergewichtig geworden ist, so ähnlich wie Insulinresistenz eine gewisse Leptinresistenz vorliegt.
+[00:34:09-6 @jensclausbrüning] Also das Fettgewebe sendet das Signal aus, es gibt genug Fett, aber das Gehirn spricht nicht mehr richtig darauf an und übersteuert quasi dieses Sättigungsgefühl
+[00:34:19-3 @jensclausbrüning] und das sind molekulare Defekte, also wenn wir das so beschreiben möchten.
+[00:34:24-1 @jensclausbrüning] Also das ist jetzt nicht so, dass derjenige, der dann betroffen ist, ja wenn er nur stark genug möchte, dieses Problem übersteuern kann, sondern das ist so tief verankert in dieser Netzwerkstruktur,
+[00:34:38-7 @jensclausbrüning] dass das keine Willensschwäche ist, sondern dass das letztendlich ein organisches Problem ist, genauso wie ein Herzinfarkt,
+[00:34:47-8 @jensclausbrüning] wenn der Herzmuskel nicht genug Sauerstoff bekommt, dass diese Nervenzellsignale nicht adäquat weiterverschaltet werden.
+[00:34:54-2 @timpritlove] Aber das geht ja sicherlich nicht nur in die eine Richtung.
+[00:34:55-5 @jensclausbrüning] Nein, es geht auch in die andere Richtung.
+[00:34:56-4 @timpritlove] Magersucht.
+[00:34:58-9 @jensclausbrüning] Magersucht und das sind fundamentale Erkrankungen, von denen wir einfach bisher nicht gut genug wissen wie sie zustandekommen, um dann eventuell auch neuere besser Therapien dafür entwickeln zu können.
+[00:35:12-5 @jensclausbrüning] Aber ich glaube, was mir ganz ganz wichtig ist auch in so einem Forum zum Ausdruck zu bringen, dass diese Stigmatisierung von Übergewicht, dass wir die fallenlassen,
+[00:35:23-3 @jensclausbrüning] sondern dass das keine Schuld ist von einem, der betroffen ist, oder einer Patienten, die betroffen ist, sondern dass das genauso ein organisches Leiden ist wie ein Herzinfarkt zu bekommen
+[00:35:33-9 @jensclausbrüning] oder welche Erkrankung Sie immer wählen.
+[00:35:37-7 @jensclausbrüning] Zum Beispiel ganz ganz selten gibt es Patienten, denen fehlt dieses Hormon, dieses Leptin, also ganz rar, da gibt es vielleicht 50 Patienten auf der Welt.
+[00:35:47-1 @jensclausbrüning] Und wenn man sich die anguckt, das sind oft Kinder, die sind dann direkt betroffen von Übergewicht mit 3-4-5 Jahren werden die massiv übergewichtig.
+[00:35:55-8 @jensclausbrüning] Wenn Sie die vor ein Testbuffet setzen, dann werden die zum Frühstück 3000 Kalorien essen und die hören erst auf, wenn Sie das wegnehmen.
+[00:36:06-8 @jensclausbrüning] Das heißt, so stark ist diese Verankerung dieses Hormonsystems und das ist einfach ein organisches Problem und jetzt nicht einfach mangelnde Willensschwäche /Gemeint Stärke/.
+[00:36:17-7 @timpritlove] Es gibt einfach nur Gaspedal und keine Bremse.
+[00:36:18-8 @jensclausbrüning] Ohne Bremsung ja.
+[00:36:20-0 @timpritlove] Ja. Und dann geht es einfach ab die wilde Fahrt.
+[00:36:23-6 @jensclausbrüning] Richtig.
+[00:36:27-5 @timpritlove] Aber es gibt ja sicherlich auch noch so den Punkt dazwischen, wo nicht unbedingt eine akute Erkrankung vorliegt und es in gewisser Hinsicht auch noch eigene Steuerungsmöglichkeiten geben kann.
+[00:36:44-5 @timpritlove] Hören wir da die Singale nicht, die es gibt?
+[00:36:48-3 @timpritlove] Ist das Hirn in der Lage, hier irgendetwas auszublenden?
+[00:36:53-3 @timpritlove] Oder hat es was damit zu tun, wie man selber über sich nachdenkt?
+[00:36:58-7 @jensclausbrüning] Nein, gar nicht mal so unbedingt.
+[00:36:59-1 @jensclausbrüning] Also ich glaube, das ist nicht so dieser kognitive Aspekt, den Sie so im Vordergrund haben, sondern im Gehirn passiert ganz ganz viel, ohne dass Sie drüber bewusst nachdenken.
+[00:37:10-8 @jensclausbrüning] Sondern es werden einfach, quasi es laufen reflexartige Regulationsmechanismen ab, Ihr Gehirn bekommt ein Signal aus dem Körper, wieviel Energie verfügbar ist
+[00:37:21-7 @jensclausbrüning] und schaltet das direkt um in eine Handlung, essen, nicht essen, Energie zu verbrennen, nicht zu verbrennen.
+[00:37:28-7 @jensclausbrüning] Und viele dieser Entscheidungen sind keine bewussten Entscheidungen, sondern das ist wie so eine Art ganz ganz tief gesteuerter Reflex.
+[00:37:36-7 @jensclausbrüning] Und wenn diese Reflexverschaltungen einfach nicht mehr richtig funktionieren, dann ignoriert Ihr Gehirn nicht weil Sie das bewusst machen,
+[00:37:46-3 @jensclausbrüning] sondern diese Nervenzellkreise ignorieren oder werden in gewissem Maße blind für die Information, die aus dem Körper kommt
+[00:37:55-3 @jensclausbrüning] und dann entkoppelt sich Ihr Verhalten oder Ihre Stoffwechselregulation von Ihrem echten aktuellen Bedarf.
+[00:38:00-7 @jensclausbrüning] Aber es ist jetzt nicht so, dass Sie da nicht hinreichend drüber nachdenken, sondern dass einfach basale biochemische Prinzipen in diesen Nervenzellen nicht mehr richtig funktionieren
+[00:38:11-2 @jensclausbrüning] und das ist halt genau das, was wir versuchen wollen zu verstehen, wie unter unseren derzeitigen Lebensbedingungen wie es kommt, dass diese Signale nicht mehr richtig verschaltet werden
+[00:38:20-9 @jensclausbrüning] und wie man das vielleicht wieder, dass man die Nervenzellen wieder sensibilisieren kann auf diese Signale adäquat zu reagieren.
+[00:38:27-8 @timpritlove] Ja das meine ich.
+[00:38:28-8 @timpritlove] Also gibt es schon einen Weg?
+[00:38:30-6 @timpritlove] Also haben Sie da schon Ansätze, wie das vonstatten gehen kann?
+[00:38:35-6 @jensclausbrüning] Wie gesagt, das ist ein sehr sehr weiter Weg, bis das letztendlich in der Therapie der Patienten ankommt.
+[00:38:45-7 @jensclausbrüning] Aber es gibt zum Beispiel in Tierversuchen bestimmte Mechanismen, von denen man beginnt zu verstehen, warum bei übergewichtigen Tieren zum Beispiel dieses Hormon Leptin nicht mehr richtig funktioniert,
+[00:39:03-0 @jensclausbrüning] es zu einem Auftreten dieser Leptinresistenz kommt und insofern ist es natürlich ein weites Forschungsfeld zu versuchen, Medikamente zu entwickeln,
+[00:39:11-2 @jensclausbrüning] die halt diese Leptinsensitivität wieder steigern.
+[00:39:14-7 @jensclausbrüning] Und wie gesagt, das sind im Moment noch präklinischen Studien oder Studien, die jetzt gerade so an der Grenze zu sogenannten Phase 1 Studien sind,
+[00:39:23-0 @jensclausbrüning] also dass man versucht, das am Menschen zu testen.
+[00:39:24-7 @timpritlove] Das wäre so ein bisschen der ultimative Appetitzügler dann?
+[00:39:26-8 @jensclausbrüning] Genau.
+[00:39:28-9 @timpritlove] Da ist ja aber auch heute schon so einiges, also es gab ja schon verschiedene Kandidaten, sind auch ein paar schöne Drogen bei gefunden worden.
+[00:39:38-5 @jensclausbrüning] Genau.
+[00:39:39-3 @timpritlove] Das waren dann so die Nebeneffekte, die man vielleicht am Anfang nicht ganz so auf dem Plan hatte.
+[00:39:45-5 @timpritlove] Ist das jetzt alles vergebene Liebesmühe oder haben wir da schon irgendwie auch ein Besteck, ein pharmakologisches Besteck, mit dem man schon sagen kann, wir kriegen das vielleicht in den Griff?
+[00:39:57-2 @jensclausbrüning] Nein, da muss man ganz klar sagen, dass wir im Moment ein extrem limitiertes Besteck haben.
+[00:40:02-1 @jensclausbrüning] Also wenn man das jetzt mit anderen chronischen Erkrankungen vergleicht, wie zum Beispiel Bluthochdruck, wo es eine ganze Palette von Medikamenten gibt,
+[00:40:09-1 @jensclausbrüning] die sehr sehr gut funktionieren und die man auch gemeinsam kombinieren kann und da haben wir im Moment, was das Übergewicht angeht, sehr begrenzte Möglichkeiten,
+[00:40:22-2 @jensclausbrüning] aber ich glaube, das ist wie gesagt ein junges Forschungsfeld.
+[00:40:24-7 @jensclausbrüning] Dieses Leptin ist erst 1993 entdeckt worden und damit hat man ja zum ersten Mal überhaupt so den Eingangspunkt, ein echtes molekulares Ansatzpunktkorrelat für diese Erkrankung zu finden
+[00:40:41-2 @jensclausbrüning] und insofern reden wir jetzt gerade mal über 20-25 Jahre Forschung, also all das, was bei Bluthochdruck vor 50-60 Jahren begonnen hat
+[00:40:48-9 @jensclausbrüning] und ich denke, da entstehen jetzt, kommen immer mehr einzelne Substanzen in klinische Testungen, insofern ist schon die Hoffnung,
+[00:40:57-4 @jensclausbrüning] dass wir vielleicht in 10-20 Jahren dann ein besseres Repertoire haben vergleichbar mit anderen chorischen Erkrankungen,
+[00:41:04-2 @jensclausbrüning] aber wie gesagt, dass das noch eine Forschung ist, die verglichen mit diesen anderen Bereichen eher jünger ist.
+[00:41:10-8 @timpritlove] Als ich hier reinkam in Ihr Institut, führte mich der Weg erst mal durch 30 Meter Labor.
+[00:41:18-1 @timpritlove] Da wurde viel geschüttelt und gerührt.
+[00:41:22-3 @timpritlove] Wie gehen Sie denn vor in diesem Forschungssegment?
+[00:41:30-8 @timpritlove] Verstehe ich das richtig, dass dieses Leptin gerade auch so ein Fokuspunkt ist in der Forschung?
+[00:41:34-7 @timpritlove] Oder ist das nur so ein Aspekt unter vielen?
+[00:41:38-3 @jensclausbrüning] Das ist ein Aspekt.
+[00:41:40-1 @jensclausbrüning] Also man muss ganz klar sagen, was das Leptin uns erlaubt hat, war, dass wir im Grunde jetzt neurowissenschaftliche Werkzeuge nutzen können.
+[00:41:50-4 @jensclausbrüning] Wo im Gehirn wirkt denn überhaupt Leptin?
+[00:41:53-0 @jensclausbrüning] Wenn Leptin jetzt das Signal ist, das aus der Körperperipherie kommt, dann wollen wir doch erst mal rausfinden, welche Nervenzellen,
+[00:42:01-6 @jensclausbrüning] welche Gebiet im Gehirn werden dadurch angesteuert?
+[00:42:06-1 @jensclausbrüning] Was sind das für Zellen, die quasi die Energiesensoren unseres Gehirns sind?
+[00:42:12-2 @jensclausbrüning] Wie verarbeiten die dann diese Signale?
+[00:42:15-3 @jensclausbrüning] Wie wird das dann weiter verschaltet im Gehirn?
+[00:42:19-5 @jensclausbrüning] Im Grunde muss man sich ja ein Gehirn vorstellen als ein Netzwerk …
+[00:42:22-0 @timpritlove] Netzwerk
+[00:42:24-0 @jensclausbrüning] von Signalen.
+[00:42:26-2 @jensclausbrüning] Und wenn wir jetzt sagen, okay es gibt eine Zelle, die darauf spezialisiert ist, diesen Energiezustand kommuniziert zu bekommen,
+[00:42:33-3 @jensclausbrüning] wie ist die dann weiter verschaltet?
+[00:42:35-4 @jensclausbrüning] Nämlich letztendlich bis man dann eine Gabel in die Hand nimmt und was ist, sind ja ganz ganz viele Schritte, die dann wieder koordiniert werden müssen.
+[00:42:41-9 @jensclausbrüning] Und da muss man auch sagen, das hat auch erst mal 10 Jahre gedauert, bis wir dann wirklich diese ganz ganz basalen Zellen beschreiben konnten,
+[00:42:50-8 @jensclausbrüning] die diesen Energiezustand des Körpers wahrnehmen.
+[00:42:55-4 @jensclausbrüning] Und das sind zum Beispiel Arbeiten, da haben wir 2005 zeigen können, dass es eine ganz umschrieben Gruppe von Zellen gibt.
+[00:43:04-4 @jensclausbrüning] Das sind vielleicht unter den Milliarden Nervenzellen 3000-5000, die wirklich diesen primären Ziele von Leptinwirkung sind, in so einer ganz tiefen Gehirnregion,
+[00:43:18-4 @jensclausbrüning] sozusagen ganz alten Hypothalamus ist die genannt.
+[00:43:20-8 @jensclausbrüning] Und wenn wird diese Nervenzellen, diese 5000 Nervenzellen zum Beispiel in Mäusen in ihrer Aktivität hemmen oder die ganz spezifisch entfernen aus dem Gehirn,
+[00:43:33-1 @jensclausbrüning] dann hören die Tiere komplett auf zu essen und das ist ja schon mal überhaupt ein Verständnis
+[00:43:38-7 @jensclausbrüning] und das ist aber auf der anderen Seite auch nur der erste Schritt, wenn wir überhaupt erst mal die Zellen definiert haben, dieses Signal aus dem Körper empfangen.
+[00:43:46-1 @jensclausbrüning] Und jetzt ist halt die Frage, mit welchen anderen Nervenzellen sprechen die?
+[00:43:49-6 @jensclausbrüning] Wie wird diese Kommunikation normalerweise reguliert?
+[00:43:53-2 @jensclausbrüning] Und was läuft an dieser Kommunikation schief, wenn wir nicht mehr in der Lage sind, unser Körpergewicht adäquat aufrechtzuerhalten?
+[00:44:01-2 @jensclausbrüning] Und das ist so ein bisschen die Forschungsphilosophie, die wir verfolgen.
+[00:44:04-7 @jensclausbrüning] Also ganz, wirklich ganz ganz fundamentale Grundlagenforschung, wie ist das System überhaupt normalerweise aufgebaut?
+[00:44:12-2 @jensclausbrüning] Wie funktioniert es normalerweise?
+[00:44:14-4 @jensclausbrüning] Was sind die Signale, die zusammenkommen?
+[00:44:16-1 @jensclausbrüning] Wie sin die miteinander verschaltet?
+[00:44:18-1 @jensclausbrüning] Wie kommunizieren die miteinander?
+[00:44:21-4 @jensclausbrüning] Und dann im nächsten Schritt zu verstehen, was läuft schief, wenn wir zum Beispiel sehr sehr viel fett essen, warum werden diese Signale dann nicht mehr adäquat weiterverarbeitet?
+[00:44:30-8 @timpritlove] Das klingt für mich jetzt nicht mehr so nach reiner Kernendokrinologie, sondern nach einer extrem interdisziplinären Forschung.
+[00:44:40-4 @timpritlove] Das mündet ja im Prinzip schon in die Hirnforschung mit rein.
+[00:44:43-3 @timpritlove] Wie interdisziplinär ist denn Ihr Institut hier aufgestellt hier in dieser Hinsicht?
+[00:44:47-4 @jensclausbrüning] Extrem.
+[00:44:47-2 @jensclausbrüning] Also man muss ganz klar sagen, dass wir auch, also ich sage mal, meine eigene Arbeitsgruppe, ich bin wie gesagt Endokrinologe,
+[00:44:52-5 @jensclausbrüning] habe das Ganze angefangen 1992 und habe damals auch sehr viel Forschung gemacht in diesen klassischen Insulinzielgeweben, Leber-, Muskel-, Fettgewebe
+[00:45:04-2 @jensclausbrüning] und irgendwann so am Ende der 90er hat uns halt dieses Feld begonnen zu interessieren, wie kommunizieren diese Organe mit dem Gehirn?
+[00:45:12-5 @timpritlove] Wie sind Sie darauf gekommen?
+[00:45:14-0 @jensclausbrüning] Weil uns interessiert hat, also in diesem klassischen Bild, wie reguliert Insulin den Zuckerstoffwechsel, wenn Sie da ein Biochemietextbuch 1990 aufgeschlagen haben,
+[00:45:26-1 @jensclausbrüning] dann stand da genau das drin, was ich Ihnen gesagt habe, nämlich dass Insulin von der Bauchspeicheldrüse gebildet wird, wirkt auf Leber, Muskel und Fett
+[00:45:35-3 @jensclausbrüning] und das reguliert den Zuckerstoffwechsel.
+[00:45:37-3 @jensclausbrüning] Und was in Ende der 90er gemacht haben, da haben wir uns überhaupt erst mal angeguckt, dieser Insulinrezeptor als Vermittlungsmolekül der Insulinwirkung findet sich aber nicht nur in diesen drei Organen,
+[00:45:49-2 @jensclausbrüning] sondern in allen Zellen des Körpers und auch in sehr hoher Dichte im Gehirn.
+[00:45:55-9 @jensclausbrüning] Und dann haben wir uns gefragt, was könnte denn die Bedeutung der Insulinwirkung im Gehirn sein?
+[00:45:59-3 @jensclausbrüning] Und das haben wir angefangen Ende der 90er Jahre das zu bearbeiten.
+[00:46:03-0 @jensclausbrüning] Und konnten dann zeigen, dass Insulin auch übers Gehirn wirkt, um den Zuckerstoffwechsel zu regulieren und sind dann auf diese Nervenzellen gestoßen, die die Nahrungsaufnahme regulieren,
+[00:46:11-7 @jensclausbrüning] die aber gleichzeitig dann auch den Zuckerstoffwechsel mit regulieren.
+[00:46:16-7 @jensclausbrüning] Und darüber hat sich quasi unsere Forschung über die letzten 20 Jahre immer mehr zur wirklich fundamentaler Neurowissenschaft entwickelt,
+[00:46:24-6 @jensclausbrüning] in dem Verständnis, halt diese Nervenzellennetzwerke zu verstehen.
+[00:46:29-7 @jensclausbrüning] Und da sehen Sie halt auch so eine eigene Evolution, wie man mit einer bestimmten Frage anfängt vor 30 Jahren und dann immer weiter im Grund getrieben wird,
+[00:46:37-0 @jensclausbrüning] auch durch die Erkenntnisse, die man trifft in zum Teil ganz andere Forschungsbereiche als die, mit denen man vor 30 Jahren gestartet ist.
+[00:46:43-3 @timpritlove] Und das heißt, dass jetzt hier Mediziner aller Bauart unterwegs sind?
+[00:46:49-8 @jensclausbrüning] Mediziner zum einen, aber auch sehr sehr viele Biologen, echte Neurowissenschaftler.
+[00:46:55-5 @jensclausbrüning] Wir versuchen das auch hier am Institut, wenn wir jetzt zum Beispiel in Mäusen neue Nervenzellnetzwerke identifizieren, von denen wir glauben,
+[00:47:05-9 @jensclausbrüning] dass sie an der Nahrungsaufnahme beteiligt sind, haben wir auch eine Gruppe am Institut, die sich dann mit dem Versuch beschäftigt, das im Menschen zu untersuchen.
+[00:47:16-8 @jensclausbrüning] Also das ist natürlich schwer jetzt ins Gehirn zu schauen beim Menschen, aber was wir zum Beispiel machen können, ist, über Kernspintomographie Gehirnaktivierung anzuschauen
+[00:47:28-3 @jensclausbrüning] und wir haben auch einen eigenen Kernspintomographen und versuchen dann halt im Grunde die Erkenntnisse, wenn wir so meinen,
+[00:47:36-1 @jensclausbrüning] ein Regulationsprinzip in Mäusen identifiziert zu haben, nachzuschauen, können wir diese Regulation auch beim Menschen finden?
+[00:47:43-5 @jensclausbrüning] Einmal beim normalen gesunden Menschen, in Abhängigkeit der Stoffwechselregulation und wie sieht es mit diesen Netzwerken dann auch bei Übergewichtigen aus?
+[00:47:52-9 @jensclausbrüning] Insofern ist der Bogen wirklich ganz weit von der ganz ganz fundamentalen Forschung bis hin zum Versuch, dass dann in die Klinik zu führen.
+[00:48:01-6 @timpritlove] Kommt da auch diese funktionelle Magnetresonanztherapie?
+[00:48:03-9 @jensclausbrüning] Genau, das ist funktionelle.
+[00:48:05-2 @timpritlove] Nicht nur Bilder, sondern Filme sozusagen?
+[00:48:08-7 @jensclausbrüning] Ja, im Prinzip bleiben es noch Bilder, aber es geht darum zu gucken, wie ändert sich die Aktivierung auf einen bestimmten Stimulus.
+[00:48:17-2 @jensclausbrüning] Zum Beispiel wenn wir einem Probanden Milchshake in den Mund träufeln, wie ändert sich dann die Durchblutung im Gehirn als Maß der Nervenzellaktivität?
+[00:48:24-6 @jensclausbrüning] Welche Regionen werden da angesteuert?
+[00:48:26-6 @jensclausbrüning] Wie werden die angesteuert bei einem Schlanken, wie werden die angesteuert bei einem Übergewichtigen?
+[00:48:31-9 @jensclausbrüning] Wie werden die angesteuert bei jemandem, der eine genetische Prädisposition hat, übergewichtig zu werden?
+[00:48:37-5 @jensclausbrüning] Und das sind so die Sachen, wo wir halt versuchen, diese fundamentalen Prinzipien in die Klinik zu bringen.
+[00:48:43-2 @timpritlove] Wie groß ist das Team, was sich hier um diesen Bereich kümmert?
+[00:48:46-4 @jensclausbrüning] Also wir sind ein relativ kleines Max-Planck-Institut, sind das kleinste Max-Planck-Institut, aber hier arbeiten im Moment 120 Mitarbeiter.
+[00:48:57-4 @timpritlove] Und das reicht oder hätten Sie gerne noch mehr?
+[00:48:59-1 @jensclausbrüning] Nein, alles gut.
+[00:49:01-4 @jensclausbrüning] Was wirklich schön ist, ist, ich glaube, was wir über die letzten Jahre aufgebaut haben, ist wirklich diese ergänzende Expertise
+[00:49:10-5 @jensclausbrüning] und die wirklich von ganz ganz fundamentalen Neurowissenschaftlern, die sich wirklich damit beschäftigen, wie kommuniziert eine Nervenzelle mit der anderen molekular
+[00:49:21-1 @jensclausbrüning] über sogenannte Synapsen, also diese Nervenzellverbindungen?
+[00:49:25-9 @jensclausbrüning] Bis hin zu mehr so systematischen Neurowissenschaften, wie funktionieren diese Netzwerk?
+[00:49:31-5 @jensclausbrüning] Und dann letztendlich der Schritt auch vom experimentellen Modell hin zum Menschen und zur Klinik.
+[00:49:38-0 @jensclausbrüning] Ich glaube, das ist, was für mich die Arbeit hier sehr sehr spannend macht, dass wir wirklich die Gelegenheit haben, dieses ganze Spektrum abzugreifen und zu beeinflussen, zu nutzen,
+[00:49:48-9 @jensclausbrüning] um Forschung zu machen, weil es in vielen Bereichen, es gibt viele Institutionen, die das auf der Welt machen, aber die halt normalerweise fokussieren, die auf den einen oder anderen spezifischen Aspekt.
+[00:50:00-0 @jensclausbrüning] Und ich glaube, was hier wirklich charmant ist, was wir zusammengebracht haben, ist wirklich diese Interdisziplinarität,
+[00:50:05-2 @jensclausbrüning] aber wirklich von sehr sehr molekularen bis hin zum Menschenforschung letztendlich.
+[00:50:11-3 @timpritlove] Welche klaren Erkenntnisse konnten Sie denn aus dieser Tätigkeit dann in den letzten 20 Jahren so hervorholen?
+[00:50:20-8 @timpritlove] Und inwiefern arbeitet man dann auch zum Beispiel mit der Pharmakologie zusammen?
+[00:50:29-1 @timpritlove] Oder decken Sie das auch noch ab?
+[00:50:30-6 @timpritlove] Irgendwann muss es ja auch mal nach außen dringen und Leute erreichen, die jetzt hier nicht zum Team gehören.
+[00:50:38-2 @jensclausbrüning] Absolut.
+[00:50:37-6 @jensclausbrüning] Wir sind da auch sehr offen.
+[00:50:39-3 @jensclausbrüning] Man muss auch ganz klar seine Grenzen erkennen.
+[00:50:42-2 @jensclausbrüning] Also ich denke, wenn man so zurückschaut, was haben wir beschrieben?
+[00:50:44-5 @jensclausbrüning] Ich glaube, was wir wirklich fundamental als Prinzip beschrieben haben, war, dass Insulin nicht nur quasi unterhalb des Kopfes arbeitet, sondern auch im Kopf.
+[00:50:53-2 @jensclausbrüning] Und das ist eine Sache, die ist eigentlich weltweit inzwischen akzeptiert, da sind viele Gruppen, auch in unterschiedlichen Aspekten, haben sich diesen Fragestellungen angenommen
+[00:51:04-7 @jensclausbrüning] und haben das Feld viel viel weiter entwickelt.
+[00:51:07-6 @jensclausbrüning] Das geht soweit, dass man zum Beispiel, dass es jetzt klinische Studien gibt, wenn man sagt, okay Insulin funktioniert vielleicht im Gehirn auch nicht mehr so gut
+[00:51:17-4 @jensclausbrüning] wie es in der Peripherie funktioniert, dass es bestimmte klinische Studiengruppen gibt, die Insulin intranasal als Spray applizieren,
+[00:51:27-8 @jensclausbrüning] also jetzt nicht als klinische Routine, sondern im Rahmen von klinischen Studien, und dann wirkt das Insulin vor allem im Gehirn.
+[00:51:35-6 @jensclausbrüning] Dann wird das nicht in die Körperperipherie ausgespült, sondern kann halt über den Riechnerven ins Gehirn gehen
+[00:51:41-0 @jensclausbrüning] und dann kann man die Insulinwirkung im Gehirn modulieren.
+[00:51:43-6 @jensclausbrüning] Also das sind so, ich sage mal, Auswirkungen der Forschungen, die wir angestoßen, beschrieben haben.
+[00:51:50-6 @jensclausbrüning] Und dass das halt auch bis in Bereiche geht wie neurodegenerative Erkrankungen, also Alzheimer, auch da gibt es Hinweise darauf,
+[00:51:58-9 @jensclausbrüning] dass da Insulinwirkung im Gehirn möglicherweise eine Rolle spielen könnte.
+[00:52:03-0 @jensclausbrüning] Und da gibt es in den USA große klinische Studien, die jetzt zum Beispiel versuchen, dieses intranasale Insulinspray bei neurodegenerativen Erkrankungen anzuwenden.
+[00:52:10-8 @jensclausbrüning] Also das ist so ein Beispiel der Translation.
+[00:52:14-0 @jensclausbrüning] Wir haben selber auch andere Mechanismen beschrieben, wie zum Beispiel Übergewicht zu Insulinresistenz führen kann.
+[00:52:25-7 @jensclausbrüning] Also warum zum Beispiel eine Leberzelle nicht mehr so gut beim Übergewichtigen auf Insulin anspricht wie beim Normalgewichtigen.
+[00:52:33-1 @jensclausbrüning] Und da scheint eine wichtige Rolle bei zu spielen, dass beim Übergewichtigen sich vermehrt Fette in der Leber ablagern
+[00:52:42-8 @jensclausbrüning] und dass diese Fettablagerungen, Leberverfettung im eigentlichen Sinne, dann zu einer eingeschränkten Insulinwirkung führt,
+[00:52:50-3 @jensclausbrüning] also dass dann Insulin nicht mehr so gut die Zuckerneubildung unterdrücken kann.
+[00:52:54-2 @timpritlove] Das ist so ein kleiner Teufelskreis.
+[00:52:56-0 @jensclausbrüning] Das ist dann natürlich ein Teufelskreis.
+[00:52:57-1 @jensclausbrüning] Dann werden sie insulinresistent diabetisch und dann schaukelt sich das immer weiter hoch.
+[00:53:00-9 @jensclausbrüning] Und dass wir da halt Moleküle identifizieren konnten, die da eine wichtige Rolle spielen und da arbeiten wir auch mit Pharmafirmen konkret zusammen,
+[00:53:08-2 @jensclausbrüning] die dann Hemmer dieser Enzyme als neue Ansatzpunkte für Diabetes versuchen zu entwickeln.
+[00:53:16-8 @timpritlove] Was wir jetzt, glaube ich, noch gar nicht so angesprochen haben, ist, inwiefern die Gentische Disposition, also was man einfach quasi ab Geburt schon so mitgegeben bekommt,
+[00:53:29-5 @timpritlove] hier für eine Rolle spielt.
+[00:53:33-0 @timpritlove] Ist das auch etwas, was Sie hier beobachten?
+[00:53:36-3 @jensclausbrüning] Daran arbeiten wir ehrlich gesagt selber gar nicht.
+[00:53:37-8 @jensclausbrüning] Man weiß ganz klar, diese Erkrankungen haben eine starke genetische Komponente.
+[00:53:43-2 @jensclausbrüning] Also gerade für Übergewicht gibt es halt jetzt inzwischen bestimmte Gene, die sind ja gehäuft assoziiert mit Übergewicht.
+[00:53:51-8 @jensclausbrüning] Und da haben wir auch an einem gearbeitet, das ist das sogenannte FDO-Gen, also das ist ein Gen, da gibt es bestimmte Varianten,
+[00:53:59-1 @jensclausbrüning] die gehäuft bei Übergewichtigen nachzuweisen sind.
+[00:54:03-5 @jensclausbrüning] Und da hat uns auch interessiert, wie beeinflusst das denn das Gehirn?
+[00:54:08-7 @jensclausbrüning] Also dieses Genprodukt, das bei Übergewichtigen dann verändert ist, das sind schon Sachen, die uns interessieren,
+[00:54:16-5 @jensclausbrüning] aber das ist jetzt nicht unser primärer Fokus, da gibt es andere Arbeitsgruppen, die sich sehr sehr stark spezifisch auf die Genetik von Diabetes und Übergewicht fokussieren.
+[00:54:25-2 @jensclausbrüning] Weil das ist auch extrem, ich sage mal, ressourcenaufwendig.
+[00:54:29-8 @jensclausbrüning] Sei brauchen viele Probanden, das sind inzwischen alles Konsortien, die das abdecken.
+[00:54:33-2 @jensclausbrüning] Das heißt, es reicht nicht, wenn Sie da 20 Diabetiker und 20 Gesunde oder 20 Übergewichtige und 20 Normalgewichtige vergleichen,
+[00:54:42-7 @jensclausbrüning] sondern um diese Assoziation von Genvariabilität mit so einem Phänotyp mit so einer Ausprägung einer Krankheit oder einer Veränderung zu finden,
+[00:54:52-6 @jensclausbrüning] da müssen Sie im Grunde tausende, zehntausende Probanden untersuchen.
+[00:54:57-8 @jensclausbrüning] Und das findet meistens anhand von großen Konsortien europaweit, zum Teil auch weltweit statt.
+[00:55:02-7 @timpritlove] Aber findet statt?
+[00:55:03-9 @jensclausbrüning] Findet auf jeden Fall statt, ist auch extrem spannend, aber ist halt nicht so unser Fokus.
+[00:55:08-6 @jensclausbrüning] Was ich persönlich noch spannend finde ist ein anderer Aspekt, und zwar was uns auch interessiert, aber eher so von den fundamentalen Prinzipien her,
+[00:55:21-0 @jensclausbrüning] ist nicht nur die rein genetische Prädisposition, mit der Sie ins Leben geschickt werden, sondern was man auch gelernt hat über die letzten Jahrzehnte ist,
+[00:55:28-6 @jensclausbrüning] dass der mütterliche Stoffwechsel während der Schwangerschaft eine erhebliche Auswirkung haben kann auf das, ich sage mal, Stoffwechselschicksal der Nachkommen den Rest des Lebens.
+[00:55:39-4 @jensclausbrüning] Also um das ein bisschen klarer auszudrücken, es gibt zum Beispiel eine bestimmte Art von Zuckererkrankung, das ist der sogenannte Gestationsdiabetes,
+[00:55:48-4 @jensclausbrüning] also den entwickeln Mütter während der Schwangerschaft.
+[00:55:52-6 @jensclausbrüning] Und dann weiß man, dass Kinder, die von Müttern mit Gestationsdiabetes, also von deren Blutzuckerstoffwechsel während der Schwangerschaft entgleist ist,
+[00:56:01-6 @jensclausbrüning] dass die Nachkommen dann gesteigertes Risiko haben, später selber wieder übergewichtig und diabetisch zu werden, jetzt unabhängig von den Genen, die sie mit auf den Weg bekommen haben.
+[00:56:11-8 @jensclausbrüning] Und da interessiert uns halt, was passiert da während der Schwangerschaft, dass halt dieses veränderte Stoffwechselmilieu vom Embryo wahrgenommen wird
+[00:56:22-6 @jensclausbrüning] und vielleicht dann sogar diese zentralnervöse Steuereinheiten so verändert, dass man quasi mit dem schwächsten Regelsystem ins Leben startet,
+[00:56:33-9 @jensclausbrüning] dass einem dann 10 Jahre, 20 Jahre später Probleme bereitet, selber seine Nahrungsaufnahme entsprechend adaptieren zu können.
+[00:56:42-2 @timpritlove] Wäre jetzt sowieso meine nächste Frage gewesen, inwiefern man sozusagen jetzt zur Zeit der Schwangerschaft, jetzt haben Sie ja gesagt, die Mütter entwickeln das,
+[00:56:50-8 @timpritlove] das machen sie natürlich nicht absichtlich, wodurch, also ist das Zufall oder geschieht das durch irgendwelche Einflüsse, weiß man das noch nicht,
+[00:56:58-3 @timpritlove] es passiert einfach und man schaut gerade noch drauf, was der Grund dafür sein kann oder gibt es da auch schon erste Erkenntnisse?
+[00:57:03-9 @jensclausbrüning] Im Prinzip schaut man da auch immer noch drauf.
+[00:57:07-5 @jensclausbrüning] Man muss ganz klar sagen, die ursprünglichen Erkenntnisse, die gehen eigentlich zurück, ich sage mal, fast Naturkatastrophe, oder gar nicht Naturkatastrophe,
+[00:57:16-8 @jensclausbrüning] sondern auch menschliche Katastrophen.
+[00:57:19-1 @jensclausbrüning] Es gab zum Beispiel während des zweiten Weltkrieges in Holland eine grauenvolle Nahrungsknappheit unter deutscher Besatzung
+[00:57:30-3 @jensclausbrüning] und das ist der sogenannte holländische Hungerwinter.
+[00:57:36-2 @jensclausbrüning] Da hat man gelernt, dass Mütter, die während dieser Zeit schwanger waren, dass die Kinder geboren wurden, die dann selber ein Risiko hatten, später metabolische Erkrankungen zu entwickeln.
+[00:57:47-8 @jensclausbrüning] Und das weiß man inzwischen, dass das in beide Richtungen geht.
+[00:57:50-1 @jensclausbrüning] Also dass sowohl eine Unterernährung der Mutter, wie an dem Beispiel festzumachen, oder aber auch eine Überernährung zu solchen langanhaltenden Effekten in den Nachkommen führen können.
+[00:58:03-0 @jensclausbrüning] Und ich denke, das, was die Schwangerschaften betrifft, ist wahrscheinlich genau das gleiche, worüber wir eben gesprochen haben, dass genauso wie, ich sage mal alle, übergewichtiger werden,
+[00:58:14-0 @jensclausbrüning] auch Schwangere einfach übergewichtiger werden in unserer heutigen Welt, da gibt es auch gute Zahlen zu, dass im Prinzip auch über 30 Prozent der Schwangeren mehr Gewicht zunehmen
+[00:58:25-7 @jensclausbrüning] als das den gängigen Empfehlungen entspricht.
+[00:58:29-2 @jensclausbrüning] Und dass damit auch solche Erkrankungen wie Gestationsdiabetes, mütterliches Übergewicht einfach gehäuft auftreten.
+[00:58:37-0 @timpritlove] Könnte es auch sein oder weiß man vielleicht auch, dass noch andere Umwelteinflüsse, die wir erst so in den letzten 100 Jahren entwickelt haben,
+[00:58:48-2 @timpritlove] Luftverschmutzung, Dinge im Wasser, auch einen Einfluss haben können in diesem Bereich oder schon haben?
+[00:58:59-1 @jensclausbrüning] Im Prinzip gibt es solche Hinweise, aber ich muss ehrlich sagen, das ist jetzt nicht mein Spezialgebiet und ich kann Ihnen da auch keine richtig fundierten Aussagen geben,
+[00:59:07-5 @jensclausbrüning] aber es gibt sicher Forscher oder Forscherinnen, die sich genau mit diesen Fragen befassen.
+[00:59:16-4 @jensclausbrüning] Also ich meine, es gibt eine ganze Reihe von Forschungsfeldern zum Beispiel zu so Phytoöstrogenen, also hormonartigen Substanzen,
+[00:59:23-7 @jensclausbrüning] die wir aus unserer Nahrung aufnehmen, die zum Teil auch in Plastik, Weichmachern, die dann wieder hormonelle Wirkungen entfalten können,
+[00:59:33-9 @jensclausbrüning] aber das ist jetzt nicht unser Spezialgebiet, da arbeiten wir auch nicht mit, aber ich denke, das ist sicher ein Feld, das zunehmend auch an Bedeutung gewinnen wird,
+[00:59:42-4 @jensclausbrüning] wie quasi die Umwelt, wie wir sie gestalten, auf unsere Hormonregulation einwirkt und ob da nicht auch chemische Substanzen mit im Spiel sind,
+[00:59:51-0 @jensclausbrüning] die dann in solche Regelkreise eingreifen, ohne dass wir richtig verstehen, wie das funktioniert.
+[00:59:55-4 @timpritlove] Also ist schon ein endokrinologisches Thema, nur gerade nicht Ihr Thema?
+[00:59:58-9 @jensclausbrüning] Nicht unser Thema.
+[01:00:01-5 @timpritlove] Irgendwo muss man sich ja auch mal ein bisschen beschränken.
+[01:00:02-8 @timpritlove] Weil ich habe schon den Eindruck, dass das eben alles schon sehr weit geht.
+[01:00:10-1 @timpritlove] Ja, ich finde es ehrlich gesagt faszinierend, dass man jetzt in zunehmendem Maße jetzt eben auch das Hirn sich genauer anschaut.
+[01:00:20-1 @timpritlove] Die Hirnforschung an sich ist ja eigentlich auch erst so in den letzten 20-30 Jahren so richtig in Schwung gekommen, auch eben teilweise durch gesteigertes Interesse,
+[01:00:31-2 @timpritlove] aber eben auch durch den technologischen Fortschritt.
+[01:00:33-3 @timpritlove] Also ich glaube, die funktionale MRT, die wir schon angesprochen haben, ist da so einer der Faktoren, sicherlich nicht der einzige.
+[01:00:41-6 @timpritlove] Was ist denn so Ihre Erwartungshaltung, wenn man sich jetzt die Geschwindigkeit in der medizinischen Forschung an sich, gepaart eben auch mit der technologischen Entwicklung,
+[01:00:54-2 @timpritlove] anschaut, wie sich dieses Feld entwickeln könnte, sage ich mal?
+[01:00:59-8 @jensclausbrüning] Also ich denke, da muss man gar nicht mal so sehr Prophet spielen, sondern einfach, wenn man nur zurück guckt auf die letzten 25 Jahre,
+[01:01:09-2 @jensclausbrüning] ich würde sagen, Leptin, also das ist das Beispiel, an dem wir arbeiten, also das ist 1994 entdeckt worden und dann hat man angefangen zu gucken,
+[01:01:17-5 @jensclausbrüning] wo wirkt das?
+[01:01:20-0 @jensclausbrüning] Dann sind, ich sage mal, 10-15 Jahre vergangen, da hat man verstanden, wie ist die Signaltransduktion von Leptin auf einer Nervenzelle,
+[01:01:26-2 @jensclausbrüning] was sind so die prinzipiellen …
+[01:01:28-2 @timpritlove] Die Signal was?
+[01:01:31-5 @jensclausbrüning] Die Signalvermittlung, also wo bindet, also an was für ein Molekül bindet Leptin?
+[01:01:36-6 @jensclausbrüning] Das ist der Leptinrezeptor.
+[01:01:37-2 @jensclausbrüning] Was für Signale werden innerhalb der Nervenzellen angeschaltet auf biochemischer Ebene, um dann letztendlich zu dieser Nervenzellenkommunikation zu führen.
+[01:01:46-5 @jensclausbrüning] Und was wirklich in den letzten 10 Jahren wirklich explodiert ist, ist die Möglichkeit Nervenzellennetzwerke funktionell zu untersuchen.
+[01:01:55-7 @jensclausbrüning] Also gar nicht so sehr bei Menschen jetzt auf die FMRI-Untersuchung abzielend, sondern dass man in Modellorganismen, zum Beispiel Mäusen oder Ratten,
+[01:02:06-1 @jensclausbrüning] eine echte quasi eine Revolution an Werkzeugen an die Hand bekommen hat, die einem erlaubt haben, funktionell Nervenzellnetzwerke zu untersuchen
+[01:02:18-4 @jensclausbrüning] und da hat sich sehr sehr viel getan.
+[01:02:20-7 @timpritlove] Was sind das für Werkzeuge?
+[01:02:22-3 @jensclausbrüning] Also was man zum Beispiel machen kann, ist, dass man, wenn wir jetzt zum Beispiel sagen, okay es gibt 5000 Zellen, von denen wir glauben, dass sie Nahrungsaufnahme stimulieren,
+[01:02:31-6 @jensclausbrüning] dann kann man heute …
+[01:02:31-9 @timpritlove] Also 5000 einzelne Zellen oder 5000 Arten von Zellen?
+[01:02:36-4 @jensclausbrüning] Eine Zellart, 5000 individuelle Zellen.
+[01:02:40-6 @timpritlove] Die alle an einem Ort sind oder?
+[01:02:41-8 @jensclausbrüning] Die an einem Ort sitzen.
+[01:02:42-6 @timpritlove] Okay.
+[01:02:43-5 @jensclausbrüning] Und wenn wir denken, das ist jetzt eine wichtige Steuerungszentrale, dann können wir durch transgene Technologien zum Beispiel in diese Zellen Rezeptoren einbringen
+[01:02:56-1 @jensclausbrüning] oder Kanäle einbringen, die durch Licht aktivierbar sind.
+[01:03:02-3 @timpritlove] Kanäle einbringen im Sinne von Kabel oder?
+[01:03:05-6 @jensclausbrüning] Nein, also man kann zum Beispiel eine Maus gentechnisch verändern, dass sie in diesen 5000 Nervenzellen einen Kanal ausprägt, der Nervenzellerregung erlaubt,
+[01:03:19-5 @jensclausbrüning] wenn mit Licht beleuchtet wird.
+[01:03:21-7 @timpritlove] Ah okay.
+[01:03:22-8 @jensclausbrüning] Das heißt, wir können im Prinzip diese 5000 Nervenzellen, von denen wir glauben, dass sie wichtig sind für Nahrungsaufnahme, lichtempfindlich machen,
+[01:03:30-9 @jensclausbrüning] die dann mit Licht in einer Maus bescheinen und können gucken, fängt die dann mehr an zu essen oder nicht?
+[01:03:36-6 @jensclausbrüning] Dann können wir gucken, welche Nervenzellen werden als Folge dessen aktiviert?
+[01:03:39-4 @jensclausbrüning] Und dann kann man im Prinzip anfangen, durch die Nutzung dieser ganzen – und da gibt es noch sehr sehr viele mehr Techniken,
+[01:03:47-2 @jensclausbrüning] die uns das jetzt erlauben – wirklich die Landkarte von Nervenzellaktivierung in einer Auflösung zu entschlüsseln, wie das bis vor 10 Jahren nicht möglich war.
+[01:03:59-9 @jensclausbrüning] Und deshalb glaube ich, dass wir vor einer echten Revolution stehen im Verständnis des Schalt- und Bauplans unseres Gehirns,
+[01:04:07-1 @jensclausbrüning] also gerade was so fundamental reflexartige Steuerungen wie Nahrungsaufnahme und so was angeht.
+[01:04:14-7 @timpritlove] Ist diese, wie nennt man diese Technologie?
+[01:04:16-4 @jensclausbrüning] Optogenetik heißt das.
+[01:04:18-5 @timpritlove] Optogenetik.
+[01:04:20-1 @timpritlove] Ist das generell anwendbar?
+[01:04:22-2 @timpritlove] Also lassen sich quasi alle Nervenzellen optisch aktivieren?
+[01:04:24-9 @jensclausbrüning] Ja, im Prinzip ja.
+[01:04:26-4 @timpritlove] Das heißt, wenn man nur weiß, wo man hingucken muss, dann kann man wie auf so einer Klaviatur im Prinzip es überall mal quietschen lassen?
+[01:04:34-2 @jensclausbrüning] Wobei der Punkt ist, man will es jetzt nicht überall quietschen lassen, sondern dann gibt es halt auch wieder Techniken, die einen dazu führen,
+[01:04:40-2 @jensclausbrüning] dass man zum Beispiel die molekulare Identität von bestimmten Nervenzellen charakterisieren kann.
+[01:04:45-0 @jensclausbrüning] Dass man dann Marker von Zellen identifizieren kann auf molekularer Ebene, die quasi wie eine Unterschrift sind eines hungerabhängig aktivierten Neurons, einer Hirnzelle.
+[01:04:58-3 @timpritlove] Ja.
+[01:04:58-4 @jensclausbrüning] Und dann kann man sagen, okay was ist so quasi deren Signatur, deren Unterschrift, und dass man dann gezielt nur die Nervenzellen ansteuert, die diese molekulare Unterschrift tragen
+[01:05:10-7 @jensclausbrüning] und guckt, beeinflusst das Nahrungsaufnahme, steigert das die Nahrungsaufnahme, hemmt das die Nahrungsaufnahme?
+[01:05:20-0 @jensclausbrüning] Mit welchen anderen Zellen einer bestimmten Unterschrift kommunizieren die, in welcher Gehirnregion
+[01:05:24-0 @jensclausbrüning] und dass man quasi wirklich so eine Landkarte entwickelt der Nervenzellverschaltung in der Regulation Hunger, Zuckerstoffwechsel und so.
+[01:05:31-5 @timpritlove] Zum Verständnis, also diese Lichtaktivierung ist ja quasi so ein Schreibzugriff, um mal ganz computertechnisch ausgedrückt, wenn ich es so richtig verstehe,
+[01:05:38-6 @timpritlove] Marker ist eigentlich mehr so ein Auslesen.
+[01:05:41-4 @jensclausbrüning] Genau.
+[01:05:42-4 @timpritlove] Wie kann man das lesen, auch wieder optisch?
+[01:05:43-3 @jensclausbrüning] Das ist extrem schwer.
+[01:05:44-0 @jensclausbrüning] Nein, überhaupt nicht optisch, sondern molekular, dass man, ich sage mal, Molekularzellen markieren kann, die in einem bestimmten Zustand, auf einen bestimmten Reiz hin aktiviert werden.
+[01:06:01-2 @jensclausbrüning] Angenommen wir haben jetzt ein Gehirn vor uns, eine Gehirnregion, von der wir glauben, dass die wichtig ist für die Hungerregulation.
+[01:06:07-7 @jensclausbrüning] Dann sind da Millionen Nervenzellen drin.
+[01:06:09-9 @jensclausbrüning] Aber nur ein paar tausend werden auf den Stimulus Nahrungsaufnahme angeschaltet.
+[01:06:16-2 @jensclausbrüning] Und die können wir jetzt quasi … ja die molekulare Signatur dieser Zellen können wir auslesen.
+[01:06:26-2 @timpritlove] Womit?
+[01:06:27-7 @jensclausbrüning] Durch molekulare Methoden, dass wir gezielt nur …
+[01:06:35-2 @timpritlove] Man braucht schon das Hirn eines Test…
+[01:06:38-2 @jensclausbrüning] …säugetiers.
+[01:06:40-9 @timpritlove] ... nehmen und anschauen sozusagen?
+[01:06:41-3 @jensclausbrüning] Nicht nur anschauen, aber wir sind dann in der Lage, dass man nicht genau wissen muss, wie die Zelle aussieht, wo sie liegt,
+[01:06:49-8 @jensclausbrüning] die durch Nahrungsaufnahme stimuliert wird, sondern wir nehmen dann die ganze Gehirnregion raus, können dann wieder durch einen molekularen Trick die molekularen Maschinen dieser Zellen isolieren
+[01:07:01-8 @jensclausbrüning] und dann auslesen, welche RNA als ablesendes Erbgut, das in diese Zellen aktiv ist, und bekommen damit so eine Art molekulare Unterschrift der 5000 Zellen innerhalb dieser Million,
+[01:07:16-8 @jensclausbrüning] die durch diesen Stimulus Nahrungsaufnahme, Temperaturänderung, Durst, Trinken aktiviert wird.
+[01:07:23-4 @jensclausbrüning] Und dass man dann im Grunde Nervenzellennetzwerke auf molekularer Identität malen kann, die durch bestimmte Stimuli aktiviert werden
+[01:07:33-8 @jensclausbrüning] und dann kann man die funktionell wieder testen, indem man die Zellen, die diese Signatur tragen, optogenetisch aktiviert.
+[01:07:39-1 @jensclausbrüning] Guckt, was hat das für eine Konsequenz auf Nahrungsaufnahme, auf Durst, auf Temperatur und kann dann letztendlich auch die Interaktion dieser Nervenzellnetzwerke fragen,
+[01:07:48-3 @jensclausbrüning] wie ist Temperaturregulation verschaltet mit Nahrungsaufnahmeregulation, wie kommunizieren diese Nervenzellen
+[01:07:55-8 @jensclausbrüning] und das ist wirklich eine Sache, die in den letzten 10 Jahren exponentiell …
+[01:08:01-9 @timpritlove] Also man bedient sich quasi desselben Mechanismus, mit dem die Genetik an sich eben ihre Information ausliest.
+[01:08:07-7 @jensclausbrüning] Aber sehr spezifisch auf das Gehirn.
+[01:08:08-6 @timpritlove] Und kann dann im Prinzip auf derselben Ebene, auf der niedrigstmöglichen Ebene im Prinzip das Gehirn lesen in Anführungsstrichen?
+[01:08:18-3 @jensclausbrüning] Genau.
+[01:08:19-1 @timpritlove] Erstaunlich.
+[01:08:21-5 @jensclausbrüning] Ist spannend.
+[01:08:21-3 @timpritlove] Geht ja richtig was ab.
+[01:08:24-6 @timpritlove] Das heißt, wenn ich mir das so durch den Kopf gehen lasse, müsste das ja eigentlich noch eine ganze Menge an Erkenntnisbeschleunigung bringen können.
+[01:08:36-1 @timpritlove] Also ist natürlich auch mal wieder sehr viel mehr Daten, die muss man ja dann auch erst mal prozessiert bekommen.
+[01:08:44-0 @jensclausbrüning] Man muss halt noch sinnvolle Regelkreise identifizieren können.
+[01:08:47-5 @jensclausbrüning] Das bringt ja jetzt nichts, alles in endloser Komplexität weiter, also ich glaube, wo dann auch wieder, der nächste Schritt wird dann sein,
+[01:08:55-2 @jensclausbrüning] diese Modelle, auch so was unter Nutzung künstlicher Intelligenz, in verstehbare Modelle zu fassen
+[01:09:02-4 @jensclausbrüning] und dann zu fragen, wie ist der Regelkreis all dieser Netzwerke?
+[01:09:08-7 @jensclausbrüning] Und wo ist vielleicht der Schalter, den wir umlegen müssen, um dann wieder, obwohl ein Hamburger vor uns steht, dazu zu führen, dass wir den nicht essen wollen.
+[01:09:19-6 @timpritlove] 5000 oder 3000 Nervenzellen, die für irgendetwas zuständig sind.
+[01:09:25-5 @timpritlove] Wie groß ist das?
+[01:09:25-8 @jensclausbrüning] Klein, mikroskopisch klein.
+[01:09:28-7 @timpritlove] Mikroskopisch.
+[01:09:29-0 @jensclausbrüning] Also die befinden sich in einer Gehirnregion, die ist so groß wie ein halber Millimeter.
+[01:09:37-6 @timpritlove] Und da muss man irgendwo rein.
+[01:09:39-6 @jensclausbrüning] Da muss man irgendwo rein.
+[01:09:40-9 @timpritlove] Im Prinzip, wenn man sich so eine Weltstadt vorstellt, sucht man sozusagen die richtige Wohnung, in der gerade irgendetwas geplant wird.
+[01:09:48-8 @jensclausbrüning] Und die richtigen Kabel verlegt werden.
+[01:09:51-5 @timpritlove] Ja.
+[01:09:54-8 @timpritlove] Schöner Einblick.
+[01:10:00-6 @timpritlove] Was können denn andere Forschungsbereiche vielleicht so aus Ihrer Arbeit lernen?
+[01:10:11-6 @timpritlove] Gibt es andere, die sich bei Ihnen schon irgendetwas abgeschaut haben, um das dann auf Ihre Forschungsbereiche zu übertragen?
+[01:10:19-9 @timpritlove] Ist gerade so diese spezifische Neuroforschung, ist das jetzt was, was generell allgemein überall so gemacht wird oder schon eher sehr spezifisch?
+[01:10:26-0 @jensclausbrüning] Nein, das ist nicht, also da muss man ganz klar sagen, das haben wir nicht erfunden, sondern da bedienen wir uns echter Grundlagenforschung.
+[01:10:34-5 @timpritlove] Also auch in der Vorgehensweise?
+[01:10:35-2 @jensclausbrüning] In der Vorgehensweise.
+[01:10:36-7 @jensclausbrüning] Also ich sage mal, diese Techniken haben wir nicht erfunden, sondern die wenden wir auf unsere Fragestellung an.
+[01:10:44-6 @jensclausbrüning] Ich nutze das auch mal wieder als Votum für Grundlagenforschung, dass man oft, ich sage mal, wir hatten eben drüber gesprochen, dass bestimmte Erkenntnisse erst durch eine neue Technologie möglich werden,
+[01:10:56-5 @jensclausbrüning] und die Frage ist, ist das geplante Wissenschaft in dem Sinne gewesen, diese Technologie zu ermöglichen?
+[01:11:02-9 @jensclausbrüning] Und die Antwort ist zum Beispiel für diese Optogenetik, nein, sondern da sind Forscher aktiv gewesen, die hat interessiert, wie schwimmen Algen zum Licht?
+[01:11:15-9 @jensclausbrüning] Da können Sie natürlich jetzt sagen, in so einer großen politischen Frage, was sollen wir als Forschung unterstützen, wo ist der Sinn von solcher Forschung?
+[01:11:25-7 @timpritlove] Wen interessieren schon Algen.
+[01:11:27-1 @jensclausbrüning] Nein, aber das könnte man ja so fragen.
+[01:11:28-7 @timpritlove] Ja.
+[01:11:29-4 @jensclausbrüning] Und dann muss man ganz klar sagen, dass diese lichtabhängigen Kanäle genau in diesen Lagen identifiziert worden sind,
+[01:11:36-1 @jensclausbrüning] die den Algen halt erlauben, ihre Nervenzellen anzufeuern in Abhängigkeit vom Licht und dass das den Algen erlaubt, dann zum Licht zu schwimmen.
+[01:11:44-5 @jensclausbrüning] Und dann hat man diese Kanäle identifiziert, hat die gebracht in zum Beispiel eine Mausgehirnzelle und konnte die dann auf einmal ferngesteuert steuern.
+[01:11:56-5 @jensclausbrüning] Und insofern wäre diese Forschung in der Alge nicht finanziert worden, forschungspolitisch vor 20 Jahren.
+[01:12:02-8 @timpritlove] Hätten wir dieses Werkzeug nicht.
+[01:12:04-3 @jensclausbrüning] Hätten wir dieses Werkzeug nicht und würden vielleicht in 20 Jahren nur einen Bruchteil dessen über unser Gehirn wissen, was wir vielleicht in 20 Jahren oder auch heute schon darüber wissen.
+[01:12:12-8 @jensclausbrüning] Und das, glaube ich, ist einfach so eine ganz wichtige fundamentale Bereitschaft, die, ich glaube, eine Gesellschaft den Anspruch hat, Innovation und Wissen vorwärts zu treiben,
+[01:12:27-9 @jensclausbrüning] dass die sich auch Forschung erlauben muss, die nicht den Nutzen direkt rechtfertigen kann.
+[01:12:35-7 @timpritlove] Wo nicht groß drauf steht, das ist Weg X.
+[01:12:36-9 @jensclausbrüning] Wo draufsteht, das heilt Diabetes, heilt Übergewicht, sondern auch dass es weite Bereiche der Forschung, da wird auch vielleicht bei vielen Sachen nichts nutzbares rauskommen,
+[01:12:45-8 @jensclausbrüning] aber ich denke, das wichtigste ist ja erst mal, dass wir überhaupt die Welt verstehen, in der wir uns bewegen.
+[01:12:51-0 @jensclausbrüning] Und dann wird, glaube ich, oft aus, ich sage mal, aus einer überraschenden Ecke ein Fortschritt in einen ganz anderen Bereich der Wissenschaft ermöglicht,
+[01:12:59-4 @jensclausbrüning] den man so nicht hätte planen können und ich glaube, das ist ganz wichtig, wenn man Forschungspolitik macht und ich glaube, da sind wir in Deutschland auch wirklich so aufgestellt,
+[01:13:07-7 @jensclausbrüning] dass wir breite Bereiche fördern.
+[01:13:10-1 @jensclausbrüning] Und ich glaube, das ist ein ganz gutes Beispiel, dass einem mal zeigt, dass man aus einem eher unerwarteten Bereich einen echten Durchbruch in einen ganz anderen Bereich erzielen kann.
+[01:13:21-6 @timpritlove] Da gibt es im Englischen dieses schöne Wort Serendipity.
+[01:13:26-0 @jensclausbrüning] Genau.
+[01:13:27-0 @timpritlove] So dieser Zufallsfund, den man einfach nicht planen kann, aber der eigentlich nur dann entsteht, wenn man eben die entsprechende Aktivität …
+[01:13:33-0 @jensclausbrüning] ... breit sucht, genau
+[01:13:34-9 @timpritlove] Wenn man einfach erst mal anfängt zu suchen.
+[01:13:39-0 @timpritlove] Hier wird fleißig geforscht, viel gesucht, ich hoffe, es wird auch noch einiges gefunden, Herr Brüning.
+[01:13:44-8 @timpritlove] Vielen Dank, sage ich mal, für die Ausführungen über Ihre Forschungen.
+[01:13:50-6 @timpritlove] Haben Sie noch irgendeine Botschaft, die jetzt uns allen hilft, trotz unserer schwierigen evolutionären Anpassung, trotzdem hier schon etwas für einen selbst herauszufinden?
+[01:14:06-4 @jensclausbrüning] Nein.
+[01:14:07-1 @jensclausbrüning] Es gibt eigentlich nur triviale Sachen, die ich Ihnen empfehlen kann, Sport zu machen, sich zu bewegen, all das, was immer empfohlen wird.
+[01:14:15-5 @jensclausbrüning] Und wie gesagt, mit offenen Augen durch unsere spannende Welt zu gehen.
+[01:14:18-8 @timpritlove] Machen wir.
+[01:14:20-2 @timpritlove] Vielen Dank.
+[01:14:20-7 @jensclausbrüning] Vielen Dank für das angenehme Gespräch.
+[01:14:22-0 @timpritlove] Und vielen Dank an alle hier fürs Zuhören.
+[01:14:25-0 @timpritlove] Wie immer, ich sage, tschüss und bis bald.
+[01:14:30-4 @outro]

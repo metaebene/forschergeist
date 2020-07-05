@@ -1,0 +1,2068 @@
+﻿WEBVTT
+
+00:00:30.601 --> 00:00:35.100
+<v timpritlove>Hallo und herzlich willkommen zu Forschergeist dem Podcast des Stifterverbands für die deutsche Wissenschaft.
+
+00:00:35.101 --> 00:00:41.000
+<v timpritlove>Mein Name ist Tim Pritlove und ich begrüße alle hier zu einer neuen Runde Forschergeist,
+
+00:00:41.001 --> 00:00:48.300
+<v timpritlove>wo wir uns über Wissenschaft unterhalten wollen und über wissenschaftliche Ziele und auch Fragestellungen,
+
+00:00:48.301 --> 00:00:53.700
+<v timpritlove>was denn so die Wissenschaft der Gesellschaft noch alles zugute kommen lassen kann.
+
+00:00:53.701 --> 00:00:58.900
+<v timpritlove>Und das steht heute auch besonders im Fokus, das ist zumindest meine Erwartung.
+
+00:00:58.901 --> 00:01:09.100
+<v timpritlove>Wir möchten uns ein bisschen über die Frage der Nachhaltigkeit und insbesondere die Frage der Nachhaltigkeit und unseren Städten widmen.
+
+00:01:09.101 --> 00:01:14.600
+<v timpritlove>Und dazu bin ich nach Karlsruhe gefahren und begrüße meinen Gesprächspartner, nämlich Oliver Parodi.
+
+00:01:14.601 --> 00:01:16.000
+<v timpritlove>Hallo, schönen guten Tag.
+
+00:01:16.001 --> 00:01:17.300
+<v oliverparodi>Hallo Herr Pritlove.
+
+00:01:17.301 --> 00:01:29.000
+<v timpritlove>Ja, wir sind im Karlsruher Institut für Technologie, dem KIT, aber ganz konkret sind wir im Institut für Technikfolgenabschätzung und Systemanalyse.
+
+00:01:29.001 --> 00:01:31.600
+<v timpritlove>That’s quiet something.
+
+00:01:31.601 --> 00:01:39.800
+<v timpritlove>Dem ITAS, was ist denn das für ein Institut und wie reiht sich das in die Arbeit des KIT so ein?
+
+00:01:39.801 --> 00:01:53.700
+<v oliverparodi>Also fangen wir oben an, das KIT, das Karlsruher Institut für Technologie, ist eine Forschungsuniversität, eine der größten in Europa, ein großer Laden mit nahezu 10.000 Beschäftigten hier.
+
+00:01:53.701 --> 00:02:04.500
+<v oliverparodi>Und ja da geht es viel um Technik, Technikforschung, Technikentwicklung, das steht klar im Fokus, wo aber auch Geistes- und Sozialwissenschaften eine Rolle spielen,
+
+00:02:04.501 --> 00:02:06.600
+<v oliverparodi>also ist eine Volluniversität.
+
+00:02:06.601 --> 00:02:14.300
+<v oliverparodi>Genau und das ITAS, das Institut für Technikfolgenabschätzung und Sysetmanalyse ist wiederum ein Institut des KIT.
+
+00:02:14.301 --> 00:02:19.700
+<v oliverparodi>Also ein Institut im Institut.
+
+00:02:19.701 --> 00:02:29.300
+<v oliverparodi>Ja und hat auch 100-120 Mitarbeiter, hier ist auch nicht ganz klein, macht Forschung und Beratung.
+
+00:02:29.301 --> 00:02:42.100
+<v oliverparodi>Also wir hier am Institut kriegen die Themen, die gerade so aktuell sind oder akut werden auf den Tisch, was jetzt technische und soziotechnische,
+
+00:02:42.101 --> 00:02:45.300
+<v oliverparodi>also auch gesellschaftliche Entwicklungen anbelangt.
+
+00:02:45.301 --> 00:02:53.100
+<v oliverparodi>Wie Digitalisierung, Nanotechnologie, Nachhaltigkeitsthemen, künstliche Intelligenz und so weiter.
+
+00:02:53.101 --> 00:03:04.600
+<v oliverparodi>Das landet sozusagen hier alles auf den Schreibtischen, das ist ein sehr interdisziplinäres Team hier am ITAS, ja quasi quer durch alle Disziplinen,
+
+00:03:04.601 --> 00:03:15.000
+<v oliverparodi>von den hardcore Naturwissenschaftlern über Ingenieure bis viele sozialwissenschaftlich geschulte Wissenschaftlerinnen und Philosophie ist auch dabei und so weiter.
+
+00:03:15.001 --> 00:03:18.500
+<v timpritlove>Wer wird denn da beraten?
+
+00:03:18.501 --> 00:03:22.800
+<v oliverparodi>Also ganz unterschiedliche Akteure.
+
+00:03:22.801 --> 00:03:32.600
+<v oliverparodi>Prominent sind vielleicht der Deutsche Bundestag und das Europäische Parlament, die werden beraten über, also der Deutsche Bundestag,
+
+00:03:32.601 --> 00:03:39.800
+<v oliverparodi>über ein richtiges Büro für Technikfolgenabschätzung am Bundestag.
+
+00:03:39.801 --> 00:03:40.400
+<v oliverparodi>Dort wird quasi …
+
+00:03:40.401 --> 00:03:43.700
+<v timpritlove>Also ein Büro des ITAS beim Bundestag oder?
+
+00:03:43.701 --> 00:03:51.000
+<v oliverparodi>Ja, es ist ein von ITAS geführtes Büro, also es wird immer wieder ausgeschrieben, es können sich auch andere Einrichtungen darauf bewerben,
+
+00:03:51.001 --> 00:04:03.000
+<v oliverparodi>aber ITAS ist seit langem da alleine oder federführend quasi für dieses Büro für Technikfolgenabschätzung, eben in Berlin sitzen die Kolleginnen und Kollegen.
+
+00:04:03.001 --> 00:04:11.400
+<v oliverparodi>Und ja dort gibt es quasi über den Bundestag erteilte Aufträge zur Erforschung von Themen.
+
+00:04:11.401 --> 00:04:13.700
+<v timpritlove>Läuft das dann über den wissenschaftlichen Dienst des Bundestages?
+
+00:04:13.701 --> 00:04:23.400
+<v oliverparodi>Es gibt einen Ausschuss dort, einen Ausschuss, der sich quasi auch dieser Technikfolgenabschätzung widmet und direkt von dem, also von den Parlamentariern,
+
+00:04:23.401 --> 00:04:32.300
+<v oliverparodi>werden dann die Aufträge an das Büro gegeben, die dort dann wissenschaftlich bearbeitet werden und dann wieder zurück in den Bundestag gespielt.
+
+00:04:32.301 --> 00:04:44.400
+<v oliverparodi>So, also dort werden Optionen aufgezeigt, sozusagen Wahrheiten erzählt, was die Politik dann damit macht, ist sozusagen Sache des Bundestags.
+
+00:04:44.401 --> 00:04:51.200
+<v timpritlove>Okay, ich sehe gerade, das ist dann der Ausschuss für Bildung, Forschung und Technikfolgenabschätzung, genau.
+
+00:04:51.201 --> 00:05:01.000
+<v timpritlove>Und das heißt, das sind im Wesentlichen öffentliche Organisationen, Politik etc., die beraten werden oder gibt es da auch einen Link in die Wirtschaft?
+
+00:05:01.001 --> 00:05:06.200
+<v oliverparodi>Also es gibt immer wieder Links in die Wirtschaft.
+
+00:05:06.201 --> 00:05:11.100
+<v oliverparodi>Die meisten Aufträge sind von der öffentlichen Hand, würde ich mal sagen.
+
+00:05:11.101 --> 00:05:21.400
+<v oliverparodi>Es gibt auch andere Einrichtungen, das Forschungsministerium lässt sich beraten zum Beispiel oder im Zweifelsfall auch mal eine Kommune,
+
+00:05:21.401 --> 00:05:26.000
+<v oliverparodi>aber allermeistens sind es öffentliche Einrichtungen, die sich beraten lassen.
+
+00:05:26.001 --> 00:05:37.600
+<v oliverparodi>Die Wirtschaft ist auch hier vertreten mit Projekten bzw. ITAS an Projekten beteiligt, die in der freien Wirtschaft federführend durchgeführt werden.
+
+00:05:37.601 --> 00:05:51.400
+<v oliverparodi>Allerdings ist da würde ich mal sagen, da gibt es auch Interessenskonflikte, also die Wirtschaft möchte ihre Produkte verkaufen sozusagen
+
+00:05:51.401 --> 00:05:56.800
+<v oliverparodi>und die Technikfolgenabschätzung schaut eher von oben drauf und guckt, was hat das eben für Folgen?
+
+00:05:56.801 --> 00:06:07.600
+<v oliverparodi>Und wenn es jetzt ja nicht nur positive, sondern teilweise auch erheblich negative Folgen gibt oder sogar Folgen drohen, dann ist die Wirtschaft da oft auch nicht so wirklich dran interessiert,
+
+00:06:07.601 --> 00:06:10.400
+<v oliverparodi>die wahrzunehmen, sondern ignoriert die lieber.
+
+00:06:10.401 --> 00:06:19.000
+<v timpritlove>Das führt mich ein bisschen zu Ihnen, Sie sind ja eigentlich als Bauingenieur gestartet, wenn ich das richtig sehe,
+
+00:06:19.001 --> 00:06:29.600
+<v timpritlove>haben das studiert und auch in dem Feld gearbeitet eine Weile, aber dabei ist es ja dann nicht geblieben, sondern es kam auch noch ein Studium der Kulturwissenschaften dazu,
+
+00:06:29.601 --> 00:06:32.700
+<v timpritlove>angewandte Kulturwissenschaft glaube ich.
+
+00:06:32.701 --> 00:06:33.400
+<v oliverparodi>Ja.
+
+00:06:33.401 --> 00:06:35.500
+<v timpritlove>Warum?
+
+00:06:35.501 --> 00:06:40.700
+<v oliverparodi>Ja, ich bin ein bisschen auf die schiefe Bahn geraten.
+
+00:06:40.701 --> 00:06:41.700
+<v timpritlove>Oha.
+
+00:06:41.701 --> 00:06:49.100
+<v oliverparodi>Mein Leben war schon als Sohn eines Bauunternehmers quasi bestimmt, in die elterlichen Fußstapfen zu treten.
+
+00:06:49.101 --> 00:06:58.300
+<v oliverparodi>Ich habe Bauingenieur studiert, habe mich dann dem Wasserbau gewidmet, bin da so ein Stück weit tiefer in die Naturwissenschaften auch eingestiegen
+
+00:06:58.301 --> 00:07:09.200
+<v oliverparodi>mit dem Thema Wasser, was ein sehr spannendes Thema ist, weil es einfach so lebensnah und auch so vielseitig ist.
+
+00:07:09.201 --> 00:07:19.200
+<v oliverparodi>Und da bin ich so ein bisschen auf die schiefe Bahn geraten und dann war während des Studiums für mich, da gab es immer mehr Fragen.
+
+00:07:19.201 --> 00:07:30.200
+<v oliverparodi>Also mir haben diese ingenieurtechnischen Fragen sehr viel Spaß gemacht, ich habe aber vermisst sozusagen den weiteren Horizont,
+
+00:07:30.201 --> 00:07:39.100
+<v oliverparodi>also warum betreiben wir Wasserbau, wieso, für wen, wozu bauen wir Staudämme und warum bauen wir sie so, wie wir sie jetzt bauen?
+
+00:07:39.101 --> 00:07:49.800
+<v oliverparodi>Also all diese Fragen konnte mir mein ingenieurtechnisches Studium nicht beantworten und dann habe ich mich quasi selber auf die Socken gemacht noch nebenher
+
+00:07:49.801 --> 00:07:57.900
+<v oliverparodi>und dann später mit Promotion Kulturwissenschaften und Philosophie dann noch mir anzueignen.
+
+00:07:57.901 --> 00:08:03.700
+<v timpritlove>Wieso kann denn ein Bauingenieurwesenstudium nicht beantworten, warum man das tut, was man tut?
+
+00:08:03.701 --> 00:08:11.400
+<v oliverparodi>Diese Warum-Frage lässt sich natürlich auf unterschiedlichen Ebenen oder in unterschiedlichen Tiefen beantworten.
+
+00:08:11.401 --> 00:08:22.300
+<v oliverparodi>Natürlich gibt es einfache Antworten, wie wir brauchen eine Wasserversorgung oder wir brauchen mehr Energie, aber alles weitere,
+
+00:08:22.301 --> 00:08:29.700
+<v oliverparodi>dann sozusagen der gesellschaftliche Impact und woher jetzt, also auch ein bisschen technikgeschichtlich,
+
+00:08:29.701 --> 00:08:39.500
+<v oliverparodi>woher das Ganze kommt, das kann einfach ein ingenieurtechnisches Studium, zumindest so eins, wie es unter heutigen oder auch damaligen Bedingungen
+
+00:08:39.501 --> 00:08:42.900
+<v oliverparodi>hier in Deutschland aufgesetzt ist, einfach nicht leisten.
+
+00:08:42.901 --> 00:08:45.500
+<v timpritlove>Aber sollte das nicht so sein?
+
+00:08:45.501 --> 00:08:55.500
+<v oliverparodi>Ja. Am Ende meines Studiums habe ich Briefe an sämtliche Dekane der Universität Karlsruhe, damals war die Universität noch nicht KIT,
+
+00:08:55.501 --> 00:09:07.100
+<v oliverparodi>sondern Universität Karlsruhe, geschrieben und so was wie ein Studium Generale letztlich gefordert für alle Absolventen, die die Universität durchlaufen.
+
+00:09:07.101 --> 00:09:12.400
+<v oliverparodi>Also meines Erachtens sollte es so sein, aber die Praxis sieht anders aus.
+
+00:09:12.401 --> 00:09:22.500
+<v timpritlove>Was bringt das jetzt, wenn man so beide Seiten gesehen hat, also was gewinnt man da für eine Einstellung zu der eigenen Arbeit?
+
+00:09:22.501 --> 00:09:32.900
+<v oliverparodi>Also zunächst mal ist es immer eine Gratwanderung, weil man bei der einen Community nicht wirklich dazu gehört und bei der anderen auch nicht.
+
+00:09:32.901 --> 00:09:40.400
+<v oliverparodi>Also für die Geistes- und Sozialwissenschaften ist man immer noch der Ingenieur und für die Ingenieure ist man der Philosoph so.
+
+00:09:40.401 --> 00:09:52.300
+<v oliverparodi>Und damit hat man naja zwar einen schweren Stand, aber auch einen guten, weil man eben mit zwei Beinen wissenschaftlich in der Welt steht.
+
+00:09:52.301 --> 00:10:03.100
+<v oliverparodi>Also für meine Arbeit hier ist, ich bin jetzt nicht mehr ingenieurisch tätig, ich bin jetzt eher so in der Philosophie oder sozialwissenschaftlich
+
+00:10:03.101 --> 00:10:11.300
+<v oliverparodi>oder eben auch darüber hinaus Transformationsforschung tätig, aber nicht mehr im ingenieurwissenschaftlichen Bereich,
+
+00:10:11.301 --> 00:10:18.300
+<v oliverparodi>aber was ich doch durch mein Ausbildung auch mitbekommen habe, ist ein sehr gutes Verständnis für Technik, technische Dinge,
+
+00:10:18.301 --> 00:10:26.600
+<v oliverparodi>wie Technik funktioniert, was Technik ausmacht, im konkreten wie im Allgemeinen Sinne.
+
+00:10:26.601 --> 00:10:34.200
+<v oliverparodi>Und das lässt sich doch immer gut gebrauchen, allein weil unsere heutige Welt sehr technisch geprägt ist.
+
+00:10:34.201 --> 00:10:36.600
+<v oliverparodi>Also da bin ich sehr froh um meine technische Ausbildung auch.
+
+00:10:36.601 --> 00:10:43.100
+<v timpritlove>Und ändert sich da vielleicht, also wenn Sie sagen, da wird man immer ein bisschen komisch angeschaut,
+
+00:10:43.101 --> 00:10:44.600
+<v timpritlove>also war das so oder ist das noch so?
+
+00:10:44.601 --> 00:10:48.300
+<v timpritlove>Ändert sich das vielleicht?
+
+00:10:48.301 --> 00:11:00.700
+<v oliverparodi>Also es gab sicher schon immer sozusagen aufgeschlossenere Wissenschaftler oder Communities, die so einen weiteren Blick auch gutgeheißen haben.
+
+00:11:00.701 --> 00:11:10.100
+<v oliverparodi>Es ändert sich ein bisschen was in der Wissenschaft, also diese Interdisziplinarität wird schon mehr gefordert.
+
+00:11:10.101 --> 00:11:18.100
+<v oliverparodi>Es ändert sich auch was sozusagen aus einem gesellschaftlichen Blickwinkel.
+
+00:11:18.101 --> 00:11:29.200
+<v oliverparodi>Also diese reinen Fachlösungen werden weniger gefragt oder andersrum, gesellschaftliche Aspekte von Technik spielen eine immer größere Rolle in Forschungsprojekten
+
+00:11:29.201 --> 00:11:39.000
+<v oliverparodi>in Entwicklungsprojekten, also da merkt man schon, dass dieser weitere Horizont langsam auch ins Tun der Ingenieurtechnik einsickert.
+
+00:11:39.001 --> 00:11:43.700
+<v timpritlove>Das heißt, es müssten eigentlich die Studiengänge mal angepasst werden?
+
+00:11:43.701 --> 00:11:44.400
+<v oliverparodi>Ja unbedingt.
+
+00:11:44.401 --> 00:11:46.400
+<v timpritlove>Ja?
+
+00:11:46.401 --> 00:11:49.100
+<v timpritlove>Und wie könnte man das konkret tun?
+
+00:11:49.101 --> 00:12:00.600
+<v oliverparodi>Naja, also es gibt eine klassische universitäre Ausbildung, die sich zunächst mal im angelsächsischen Bereich von der Philosophie ausgehend
+
+00:12:00.601 --> 00:12:11.300
+<v oliverparodi>dann ganz breit in die einzelnen Fachdisziplinen erst erstreckt, also dass man so einen breiten Überblick vorneweg kriegt und erst sich im Laufe der Zeit spezialisiert.
+
+00:12:11.301 --> 00:12:23.700
+<v oliverparodi>So das ist natürlich hochgradig politisch und auch brisant, weil dann sozusagen die Fachleute, die Vertreter der Fachdisziplinen sagen,
+
+00:12:23.701 --> 00:12:35.800
+<v oliverparodi>ja dann geht uns die fachliche Tiefe verloren und das ist in einer hochdifferenzierten technischen Welt, wie wir sie heute haben, natürlich einerseits fatal,
+
+00:12:35.801 --> 00:12:48.800
+<v oliverparodi>andererseits ist es eben auch fatal, diese Denk- und Handlungsräume, die sich über die Disziplinen erstrecken und immer enger und spezialisierter werden,
+
+00:12:48.801 --> 00:12:57.200
+<v oliverparodi>diese vereinzelt stehen zu lassen, ist im Grunde auf fatal, weil man sich damit natürlich immer weiter von dem größeren Zusammenhang entfernt.
+
+00:12:57.201 --> 00:13:03.200
+<v oliverparodi>Also da ist so ein bisschen dann auch Abwägen angesagt.
+
+00:13:03.201 --> 00:13:09.300
+<v timpritlove>Dann kommen wir doch vielleicht mal auf die konkrete Arbeit, die Sie jetzt hier begonnen haben.
+
+00:13:09.301 --> 00:13:11.200
+<v timpritlove>Seit wann sind Sie hier?
+
+00:13:11.201 --> 00:13:15.600
+<v oliverparodi>2002, 17 Jahre bald.
+
+00:13:15.601 --> 00:13:19.900
+<v timpritlove>17 Jahre, das ist ja schon was.
+
+00:13:19.901 --> 00:13:26.500
+<v timpritlove>Womit haben Sie denn angefangen hier, also was war sozusagen das Ziel?
+
+00:13:26.501 --> 00:13:32.400
+<v timpritlove>Ist man jetzt sozusagen nur von diesen ganzen Beratungsanfragen getrieben oder ist das dann erst mal …
+
+00:13:32.401 --> 00:13:36.900
+<v timpritlove>Also wie verteilt sich quasi dieser Anteil Forschung und Beratung, was wir am Anfang gehört haben?
+
+00:13:36.901 --> 00:13:42.300
+<v timpritlove>Also ist man dann erst mal die ganze Zeit am Forschen oder ist man die ganze Zeit eigentlich nur am Beraten?
+
+00:13:42.301 --> 00:13:43.200
+<v timpritlove>Wie ergibt sich das?
+
+00:13:43.201 --> 00:13:47.900
+<v oliverparodi>Ja, also das sind beide Ecken, die werden bedient hier.
+
+00:13:47.901 --> 00:13:48.700
+<v oliverparodi>Man kann das eine mehr oder weniger machen.
+
+00:13:48.701 --> 00:13:56.800
+<v oliverparodi>Also bei mir war der Einstieg tatsächlich über eine Promotion, also ich habe hier eine Doktorarbeit geschrieben und da habe ich quasi nur geforscht.
+
+00:13:56.801 --> 00:14:09.300
+<v oliverparodi>Genau, und zwar auch zu Wasserbauthemen, also Massivwasserbau, naturnaher Wasserbau, zu Weltbildern, zu kulturellen Motiven und zu ethischen Aspekten,
+
+00:14:09.301 --> 00:14:13.200
+<v oliverparodi>also das war wirklich reine Forschung.
+
+00:14:13.201 --> 00:14:24.300
+<v oliverparodi>Naja, wenn ich es jetzt mal an meinem Werdegang hier weitermache, an dem Institut wird man dann auch ein Stück weit vom Spezialist zum Generalist,
+
+00:14:24.301 --> 00:14:35.700
+<v oliverparodi>also ich habe mich dann in der weiteren Arbeit auch um ganz andere Themen gekümmert, wie Creative Industries oder Umwelttechnologien,
+
+00:14:35.701 --> 00:14:40.200
+<v oliverparodi>also bei Projekten mitgearbeitet, die diesen Fokus hatten.
+
+00:14:40.201 --> 00:14:45.500
+<v oliverparodi>Das waren dann sowohl Forschungs- als auch Beratungsprojekte.
+
+00:14:45.501 --> 00:14:47.500
+<v timpritlove>Was heißt Creative Industries?
+
+00:14:47.501 --> 00:14:52.000
+<v oliverparodi>Vielleicht das was Sie hier machen?
+
+00:14:52.001 --> 00:14:51.900
+<v timpritlove>Podcasting so so.
+
+00:14:51.901 --> 00:14:54.400
+<v oliverparodi>Ja, zum Beispiel.
+
+00:14:54.401 --> 00:15:08.900
+<v oliverparodi>Also wie die Medien und die kreativen Berufsgruppen über dann die Digitalisierung auch ein ganz neue Formate und ganz neues Handlungsfeld sich erschließt
+
+00:15:08.901 --> 00:15:14.700
+<v oliverparodi>und was damit passiert dann, also das ist so ein bisschen.
+
+00:15:14.701 --> 00:15:18.000
+<v timpritlove>Klingt jetzt ein bisschen abstrakt, würde mich aber mal interessieren, wie greift man denn so ein Thema?
+
+00:15:18.001 --> 00:15:23.500
+<v oliverparodi>Oh, da muss ich weit zurückdenken, das war mein Einstieg hier.
+
+00:15:23.501 --> 00:15:27.000
+<v timpritlove>Also ist ja nicht so, dass das Thema nicht noch aktuell wäre.
+
+00:15:27.001 --> 00:15:31.100
+<v oliverparodi>Nein, ich versuche mich mal zu erinnern.
+
+00:15:31.101 --> 00:15:45.500
+<v oliverparodi>Das war ein EU-Projekt und die Aufgabenstellung lautete, was passiert sozusagen über die Digitalisierung mit der kreativen Branche,
+
+00:15:45.501 --> 00:15:56.700
+<v oliverparodi>also Musik, auch Zeitung, wie auch immer, also mögliche Medien, was verändert sich dadurch und wie kann man es auch ein Stück weit in gute Bahnen lenken?
+
+00:15:56.701 --> 00:16:09.500
+<v oliverparodi>Also damit Arbeitsverhältnisse erhalten bleiben können, damit auch sozusagen die Kreativen ein Stück weit geschützt sind mit ihren Inhalten.
+
+00:16:09.501 --> 00:16:17.900
+<v oliverparodi>Das waren Nehmen, die liegen schon 15 Jahre zurück, da weiß ich nicht mehr genau, was dabei rauskam.
+
+00:16:17.901 --> 00:16:33.600
+<v oliverparodi>Aber da war auch die, vielleicht das ist noch spannend, da war diese ganze Debatte über Lizenzen, über vertragliche, über Rechteangelegenheiten von Nutzerinnen und Nutzern von Internet
+
+00:16:33.601 --> 00:16:41.900
+<v oliverparodi>und den produzierten Inhalten war noch nicht wirklich in der öffentlichen Debatte, also das ist so ein Beispiel, wo wir sagen, das schlägt im Zweifelsfall zunächst bei uns auf
+
+00:16:41.901 --> 00:16:44.500
+<v oliverparodi>und wird dann quasi groß in der Öffentlichkeit.
+
+00:16:44.501 --> 00:16:46.700
+<v timpritlove>Also Zukunftsthemen.
+
+00:16:46.701 --> 00:16:47.800
+<v oliverparodi>Ja.
+
+00:16:47.801 --> 00:16:54.100
+<v timpritlove>Und das heißt, der Wasserbau hat dann erst mal keine Rolle gespielt?
+
+00:16:54.101 --> 00:17:01.800
+<v oliverparodi>Genau, denn das passiert dann, dass man sich dann hier am Institut von den eigentlichen Themen wegbewegt.
+
+00:17:01.801 --> 00:17:08.500
+<v oliverparodi>Ich habe schon weitergemacht auch mit Wasser und wasserbaulichen Themen, aber dann am Rande halt eher.
+
+00:17:08.501 --> 00:17:18.300
+<v oliverparodi>Genau, und bin dann ja schon mit meinem Einstieg hier mit dem Thema Nachhaltigkeit in Berührung gekommen, also auch beruflich.
+
+00:17:18.301 --> 00:17:25.400
+<v oliverparodi>Und habe mich dann da reingekniet und da reinvertieft, das war dann so mein weitere persönlicher Weg hier durch das ITAS.
+
+00:17:25.401 --> 00:17:32.100
+<v timpritlove>Schauen wir doch mal auf das Thema, was heißt das denn überhaupt Nachhaltigkeit?
+
+00:17:32.101 --> 00:17:38.700
+<v oliverparodi>Ja, da gibt es natürlich viele Antworten darauf.
+
+00:17:38.701 --> 00:17:47.300
+<v oliverparodi>Ich habe mal nach 15 Jahren Nachhaltigkeitsforschung versucht, das auf so einen allgemeinverständlichen Satz, der nicht allzu verkürzt ist, runterzubrechen
+
+00:17:47.301 --> 00:18:00.300
+<v oliverparodi>und bin so bei dem Satz gelandet, nachhaltige Entwicklung bedeutet, heute gut leben und dabei auf die Mitwelt, Umwelt und Nachwelt achten.
+
+00:18:00.301 --> 00:18:06.900
+<v oliverparodi>Damit ist man schon nicht schlecht unterwegs, wobei das natürlich noch relativ abstrakt ist.
+
+00:18:06.901 --> 00:18:22.600
+<v oliverparodi>Letztlich geht das Thema auf die Sustainable Development Debatten zurück, die Ende des letzten Jahrtausend, sagen wir mal konkret seit den 1970er Jahren,
+
+00:18:22.601 --> 00:18:33.100
+<v oliverparodi>dann auch auf Ebene der Vereinten Nationen groß wurden, dann eben Sustainable Development als Programm, als Leitbild.
+
+00:18:33.101 --> 00:18:41.000
+<v oliverparodi>Da gibt es immer noch einen sehr breiten wissenschaftlichen Diskurs dazu, der sich darum kümmert.
+
+00:18:41.001 --> 00:18:54.200
+<v oliverparodi>Es gab einen Bericht in den 80er Jahren, der sogenannte Brundtland-Bericht, wo diese globalen Problematiken zunächst mal zusammengefasst wurden
+
+00:18:54.201 --> 00:19:02.900
+<v oliverparodi>und der dann auch so ein bisschen die Definition oder so ein bisschen die Begriffserläuterung geliefert hat, wo es darum geht,
+
+00:19:02.901 --> 00:19:10.100
+<v oliverparodi>dass man genau heute so lebt, dass eben die nachfolgenden Generationen auch noch gut leben können.
+
+00:19:10.101 --> 00:19:12.600
+<v oliverparodi>So also das geht es zentral um Gerechtigkeit.
+
+00:19:12.601 --> 00:19:21.200
+<v oliverparodi>Genau, dieser Brundtland-Bericht war so ein bisschen Ausgangspunkt dann für viele wissenschaftliche und dann letztlich auch politische Debatten natürlich
+
+00:19:21.201 --> 00:19:31.700
+<v oliverparodi>und daran orientiert habe ich mich und hier auch am Institut nähert man sich diesem Thema nachhaltige Entwicklung.
+
+00:19:31.701 --> 00:19:37.700
+<v timpritlove>Und wem sagt man das jetzt?
+
+00:19:37.701 --> 00:19:42.600
+<v timpritlove>Also ich meine, jetzt wäre die Frage, Forschung oder Beratung?
+
+00:19:42.601 --> 00:19:47.300
+<v timpritlove>Ich denke, am Anfang kommt halt erst mal keiner und will kaum was wissen, das heißt, man macht das so ein bisschen aus dem eigenen Antrieb.
+
+00:19:47.301 --> 00:19:59.000
+<v timpritlove>Jetzt leben wir ja gerade 2019 in einer wilden Zeit, die Fridays for Future Bewegung macht sozusagen von den Kindern her schon mal Alarm,
+
+00:19:59.001 --> 00:20:06.900
+<v timpritlove>zeigt auch schon so eine gewisse Verunsicherung in der Politik, also das merkt man ja daran, wie schwer eben das Feld ist, um damit irgendwie umzugehen.
+
+00:20:06.901 --> 00:20:19.700
+<v timpritlove>Es gibt ja auch schon neue Blüten Extinction Rebellion etc., also es macht gerade so den Eindruck, als ob man auf so einen Tipping Point in der öffentlichen Diskussion hinläuft so.
+
+00:20:19.701 --> 00:20:27.500
+<v timpritlove>Der ist vielleicht noch ein paar Monate weg, aber in zunehmendem Maße kriegt das eine gewisse Beschleunigung und ist ja auch gut so,
+
+00:20:27.501 --> 00:20:30.500
+<v timpritlove>weil mit der Nachhaltigkeit haben wir es ja jetzt nicht so.
+
+00:20:30.501 --> 00:20:39.700
+<v timpritlove>Jetzt kann man natürlich Nachhaltigkeit sowohl jetzt im Großen denken, also was braucht die Welt etc., was müssen wir sozusagen insgesamt tun,
+
+00:20:39.701 --> 00:20:46.300
+<v timpritlove>das wollen wir ja hier gar nicht so sehr betrachten, aber natürlich eben auch immer die Frage, was kann man im Kleinen tun.
+
+00:20:46.301 --> 00:20:49.600
+<v timpritlove>Also konkret, was kann man in der Stadt tun?
+
+00:20:49.601 --> 00:20:52.500
+<v timpritlove>Und ich denke, das war hier ein Fokus oder?
+
+00:20:52.501 --> 00:20:59.000
+<v oliverparodi>Ja, also zunächst geht es schon darum, diese globale Perspektive einzunehmen.
+
+00:20:59.001 --> 00:21:07.300
+<v timpritlove>Also Nachhaltigkeit lebt davon, dass sie im Hintergrund diese globale Perspektive hat, also dass es nicht darum geht,
+
+00:21:07.301 --> 00:21:13.100
+<v oliverparodi>kurzfristige Interessen, seien sie jetzt von Unternehmen, aber auch von Städten, in den Blick zu nehmen,
+
+00:21:13.101 --> 00:21:17.600
+<v oliverparodi>sondern das Ganze widerspiegelt an einer Zukunft der Menschheit.
+
+00:21:17.601 --> 00:21:25.400
+<v oliverparodi>Also das ist schon ein wesentlicher Teil der Nachhaltigkeit, deshalb kann man das eine eigentlich nicht ganz ohne das andere machen.
+
+00:21:25.401 --> 00:21:35.800
+<v oliverparodi>Also sozusagen jetzt, wir machen Nachhaltigkeit weltvergessen nur in der Stadt oder nur im Unternehmen oder hier in unserer Institution, das funktioniert sozusagen per Definition nicht.
+
+00:21:35.801 --> 00:21:48.700
+<v oliverparodi>Deshalb muss man den großen Horizont immer mitdenken, allerdings, und dahin geht auch der Slogan der 90er Jahre, global denken, lokal handeln,
+
+00:21:48.701 --> 00:22:03.300
+<v oliverparodi>hier ist es natürlich dann tatsächlich wichtig, auch diese Erkenntnisse, die sich auf der globalen Ebene ja ziehen lassen,
+
+00:22:03.301 --> 00:22:10.300
+<v oliverparodi>dann auch in das ganz persönliche, individuelle, organisatorische, wie auch immer, in das Stadthandeln zu integrieren.
+
+00:22:10.301 --> 00:22:15.100
+<v oliverparodi>Also da ist die Umsetzung ein zentraler Punkt dann.
+
+00:22:15.101 --> 00:22:23.100
+<v timpritlove>Was wird denn jetzt konkret erforscht?
+
+00:22:23.101 --> 00:22:30.600
+<v timpritlove>Also es gibt ja hier verschiedene Projekte, verschiedene Ansätze, die jetzt in diesem Rahmen hier zum Ausdruck gekommen sind.
+
+00:22:30.601 --> 00:22:35.400
+<v timpritlove>Ich weiß nicht, ob wir da schon drauf eingehen sollen zu Beginn.
+
+00:22:35.401 --> 00:22:40.000
+<v timpritlove>Also mich würde nochmal interessieren, wie nähert man sich jetzt sozusagen dieser Fragestellung?
+
+00:22:40.001 --> 00:22:45.000
+<v timpritlove>Also was kann man jetzt sozusagen als Institut hier beitragen, wer triggert das?
+
+00:22:45.001 --> 00:22:47.600
+<v timpritlove>Ist das eine Entscheidung von innen heraus gewesen?
+
+00:22:47.601 --> 00:22:52.500
+<v timpritlove>Sitzt man da so beim Kaffee und denkt sich, ach wir könnten einfach mal über Nachhaltigkeit reden?
+
+00:22:52.501 --> 00:22:58.700
+<v timpritlove>Oder sieht man, was so an Anfragen von außen kommt oder was in der politischen Debatte ist oder was man gerne mal machen würde?
+
+00:22:58.701 --> 00:23:02.800
+<v timpritlove>Wie kommt das zusammen und wie geht man dann vor?
+
+00:23:02.801 --> 00:23:07.400
+<v oliverparodi>Ja, also ich mach es mal konkret an meiner Person fest.
+
+00:23:07.401 --> 00:23:09.100
+<v timpritlove>Ja klar.
+
+00:23:09.101 --> 00:23:15.800
+<v oliverparodi>Ich habe mich lange Zeit, sagen wir mal, theoretisch konzeptionell mit dem Thema nachhaltige Entwicklung beschäftigt.
+
+00:23:15.801 --> 00:23:22.000
+<v oliverparodi>Auf einem hohen wissenschaftlichen philosophischen Niveau.
+
+00:23:22.001 --> 00:23:30.500
+<v oliverparodi>Man verfolgt natürlich gleichzeitig auch die politischen Debatten darüber.
+
+00:23:30.501 --> 00:23:35.400
+<v oliverparodi>Man macht sich als Privatperson Gedanken um seine Kinder, wie werden die in Zukunft leben.
+
+00:23:35.401 --> 00:23:45.300
+<v oliverparodi>Und aus der Gemengelage war es bei mir dann so, dass ich irgendwann gesagt hatte, ich weiß jetzt eigentlich genug über diese sozusagen philosophischen Hintergründe
+
+00:23:45.301 --> 00:23:49.700
+<v oliverparodi>und auch die politischen und die wissenschaftlichen zum Thema Nachhaltigkeit.
+
+00:23:49.701 --> 00:23:54.800
+<v oliverparodi>Es geht darum, auch was mit dem Wissen anzustellen und hier konkret was zu verändern.
+
+00:23:54.801 --> 00:24:03.800
+<v oliverparodi>Also bei mir war das tatsächlich aus der Person raus geboren zu sagen, ich möchte da ein Stück weit auch vom Wissen ins Handeln kommen.
+
+00:24:03.801 --> 00:24:14.800
+<v oliverparodi>Und damit dann habe ich zum Beispiel dieses Reallaborprojekt Quartier Zukunft Labor Stadt ins Leben gerufen, wo wir vielleicht später noch drauf eingehen.
+
+00:24:14.801 --> 00:24:19.100
+<v timpritlove>Mhm (bejahend), dann gehen wir doch mal drauf ein.
+
+00:24:19.101 --> 00:24:23.200
+<v timpritlove>Also was ist da der Ansatz gewesen?
+
+00:24:23.201 --> 00:24:37.800
+<v oliverparodi>Der Ansatz war jener, wir stehen hier vor massiven globalen Problemen, die spiegeln sich auch in der Stadt und in unserem persönlichen Leben wider.
+
+00:24:37.801 --> 00:24:40.700
+<v oliverparodi>Die betreffen uns.
+
+00:24:40.701 --> 00:24:52.500
+<v oliverparodi>Und wir versuchen, diese Nachhaltigkeitsthemen runterzubrechen, zu konkretisieren und dann in der Stadt mit unterschiedlichen Akteuren anzusprechen.
+
+00:24:52.501 --> 00:25:02.600
+<v oliverparodi>Sprich, unser Ansatz war, wir versuchen ganz konkret, einen Stadtteil von Karlsruhe mal rauszunehmen, die Karlsruher Oststadt
+
+00:25:02.601 --> 00:25:10.300
+<v oliverparodi>und versuchen, von dort aus in Richtung Nachhaltigkeit zu gehen, und zwar in enger Kooperation von Wissenschaft,
+
+00:25:10.301 --> 00:25:19.400
+<v oliverparodi>also wir liefern hier quasi wissenschaftliches Knowhow und auch Arbeitskraft und Stadtgesellschaft.
+
+00:25:19.401 --> 00:25:27.600
+<v oliverparodi>Und dort wieder unterschiedliche Akteure mitzunehmen, die Stadtverwaltung, die Stadtpolitik wäre sozusagen ein wichtiger,
+
+00:25:27.601 --> 00:25:37.800
+<v oliverparodi>die Bürgerschaft ein anderer wichtiger großer oder vielleicht sogar der zentrale, weil was ist eine Stadt ohne seine Bürger und Bürgerinnen.
+
+00:25:37.801 --> 00:25:46.600
+<v oliverparodi>Genau, das heißt, hier wollten wir dann konkret werden und sagen, wir haben Probleme global gesehen, aber auch ganz lokal in Karlsruhe
+
+00:25:46.601 --> 00:25:56.600
+<v oliverparodi>und wir möchten unsere Stadt, unseren Stadtteil einfach zukunftsgerecht, zukunftsfest machen, macht mit, wir versuchen das zusammen anzuschieben.
+
+00:25:56.601 --> 00:26:10.900
+<v oliverparodi>Und zwar eher sozusagen von unten raus, also mit Graswurzeln, aber von der Straße aus, wie jetzt von oben über die Stadtverwaltung
+
+00:26:10.901 --> 00:26:18.500
+<v oliverparodi>und große politische Instrumente, sondern eher sozusagen partizipativ mit Bürgerinnen und Bürgern, mit anderen Akteuren zu sagen, was können wir tun,
+
+00:26:18.501 --> 00:26:21.200
+<v oliverparodi>damit Karlsruhe nachhaltiger wird?
+
+00:26:21.201 --> 00:26:24.800
+<v timpritlove>Karlsruhe Oststadt, wie groß muss man sich den Bereich vorstellen?
+
+00:26:24.801 --> 00:26:29.700
+<v oliverparodi>20.000 Einwohner, also so eine kleine mittlere Stadt ist das.
+
+00:26:29.701 --> 00:26:33.400
+<v timpritlove>Und was sind das dann so für Interessengruppen?
+
+00:26:33.401 --> 00:26:34.100
+<v timpritlove>Also wie spricht man die an?
+
+00:26:34.101 --> 00:26:40.500
+<v timpritlove>Also benennen wir es nochmal, Reallabor 131, gehört das dazu oder?
+
+00:26:40.501 --> 00:26:52.000
+<v oliverparodi>Das war das Tochterprojekt quasi, das Quartier Zukunft, Labor Stadt war das Mutterschiff und das Reallabor 131, KIT findet Stadt ist so was wie ein Unterprojekt davon letztlich.
+
+00:26:52.001 --> 00:26:54.100
+<v timpritlove>Wofür steht das 131?
+
+00:26:54.101 --> 00:26:57.800
+<v oliverparodi>Für die Postleitzahl der Karlsruher Oststadt, 76131.
+
+00:26:57.801 --> 00:26:58.100
+<v timpritlove>Alles klar.
+
+00:26:58.101 --> 00:27:03.000
+<v oliverparodi>Und es ging so ein bisschen um Identitätsstiftung.
+
+00:27:03.001 --> 00:27:06.500
+<v timpritlove>Wie geht man da vor, also welche Interessensgruppen?
+
+00:27:06.501 --> 00:27:11.000
+<v timpritlove>Sucht man die sich, kommen die zu einem?
+
+00:27:11.001 --> 00:27:14.500
+<v timpritlove>Man muss da ja überhaupt erst mal eine Öffentlichkeit dafür schaffen, um da eine Beteiligung zu finden.
+
+00:27:14.501 --> 00:27:17.200
+<v oliverparodi>Ja, genau so war es auch.
+
+00:27:17.201 --> 00:27:23.900
+<v oliverparodi>Also die Öffentlichkeit haben wir geschaffen, indem wir bei der Stadtverwaltung und der Stadtpolitik uns bekannt gemacht haben.
+
+00:27:23.901 --> 00:27:32.000
+<v oliverparodi>Wir sind durch die gesamte Oststadt, haben jeden Briefkasten händisch mit einem Flyer von uns versorgt, was wir sind, was wir machen möchten
+
+00:27:32.001 --> 00:27:33.500
+<v oliverparodi>und gleich zum Mitmachen aufgerufen.
+
+00:27:33.501 --> 00:27:40.400
+<v oliverparodi>Also wir haben versucht, breit hier uns bekannt zu machen.
+
+00:27:40.401 --> 00:27:47.100
+<v oliverparodi>Und dann ging es darum, die Themen zu finden, also wir haben jetzt immer noch nicht über Themen gesprochen.
+
+00:27:47.101 --> 00:27:54.200
+<v oliverparodi>Das kommt auch daher, dass wir diese Themen nicht jetzt aus der Wissenschaft nur vorgegeben haben,
+
+00:27:54.201 --> 00:28:00.700
+<v oliverparodi>sondern dass wir die eigentlich immer versuchen, im Dialog zu finden.
+
+00:28:00.701 --> 00:28:07.000
+<v timpritlove>Das heißt die Frage ist sozusagen, guten Tag, wir sind nette Leute, wir möchten gerne mit Ihnen über Nachhaltigkeit sprechen,
+
+00:28:07.001 --> 00:28:10.100
+<v timpritlove>aber worüber wir genau sprechen, darüber wollen wir erst mal sprechen.
+
+00:28:10.101 --> 00:28:13.900
+<v oliverparodi>So ungefähr ja, das ist ein relativ offener Ansatz.
+
+00:28:13.901 --> 00:28:24.100
+<v oliverparodi>Also wir sind jetzt da nicht mit großen Zukunftsvisionen, wir bauen die grüne Stadt oder die Fußgängerstadt, wie auch immer, in die Bürgerschaft gegangen
+
+00:28:24.101 --> 00:28:34.000
+<v oliverparodi>oder in die Stadt raus, sondern haben gesagt, es gibt nachhaltige Entwicklung, es gibt sehr viele globale Problemlagen, es gibt lokale Problemlagen,
+
+00:28:34.001 --> 00:28:39.400
+<v oliverparodi>viele davon treffen sich auch, also die haben einen Zusammenhang.
+
+00:28:39.401 --> 00:28:53.200
+<v oliverparodi>Was sollen wir tun, wo sind die Entwicklungswünsche, Entwicklungspfade, die jetzt hier Karlsruhe Oststadt gehen möchte,
+
+00:28:53.201 --> 00:28:58.500
+<v oliverparodi>so vor dem Hintergrund oder ich will mal sagen vor den Leitplanken einer nachhaltigen Entwicklung.
+
+00:28:58.501 --> 00:29:01.100
+<v timpritlove>Was für ein soziales Gefüge findet sich denn da in der Oststadt?
+
+00:29:01.101 --> 00:29:06.400
+<v timpritlove>Ist das eher so ein Durchschnittsstadtteil oder tendiert das in irgendeine Richtung?
+
+00:29:06.401 --> 00:29:12.100
+<v oliverparodi>Also wir haben uns zunächst mal viele Gedanken gemacht, welchen Stadtteil wir auswählen.
+
+00:29:12.101 --> 00:29:21.500
+<v oliverparodi>Die Entscheidung ist auch auf die Oststadt gefallen, weil es ein Stück weit ein sehr gemischter Stadtteil ist,
+
+00:29:21.501 --> 00:29:29.300
+<v oliverparodi>also ist jetzt nicht weit weg von dem durchschnittlichen Stadtteil einer deutschen Stadt, würde ich mal sagen.
+
+00:29:29.301 --> 00:29:34.300
+<v timpritlove>Gemessen an welchen Faktoren, Geld, Ausländeranteil
+
+00:29:34.301 --> 00:29:39.500
+<v oliverparodi>Genau, es ist alles vorhanden, es gibt Gewerbe, also es ist ein bisschen eine Kleinstadt in der Großstadt auch.
+
+00:29:39.501 --> 00:29:54.100
+<v oliverparodi>Also es gibt Gewerbe, es gibt viel Wohnen, von den Bürgerinnen, die das bewohnen, ist ein relativ hoher Migrantenanteil, aber jetzt auch nicht überbordend.
+
+00:29:54.101 --> 00:30:06.100
+<v oliverparodi>Es gibt jetzt nicht die riesigen sozialen Probleme, es ist ein relativ durchschnittliches mitteleuropäisches Quartier.
+
+00:30:06.101 --> 00:30:08.200
+<v timpritlove>Wie urban ist das?
+
+00:30:08.201 --> 00:30:10.200
+<v oliverparodi>Urban, es ist wirklich sehr urban.
+
+00:30:10.201 --> 00:30:13.500
+<v timpritlove>Also keine großen Parks, keine angeschlossenen Wälder?
+
+00:30:13.501 --> 00:30:18.000
+<v oliverparodi>Ja, es gibt einen größeren Park, aber das würde ich jetzt mal sagen …
+
+00:30:18.001 --> 00:30:27.300
+<v oliverparodi>Naja, die größte Grünfläche im Stadtgebiet ist der Hauptfriedhof der Karlsruher, also es gibt schon noch deutliche grüne Flecken,
+
+00:30:27.301 --> 00:30:35.600
+<v oliverparodi>aber es ist durchaus mit einer vorwiegend Gründerzeitbebauung städtisch mehrgeschossig dicht.
+
+00:30:35.601 --> 00:30:40.200
+<v timpritlove>Okay, und wieviele Leute haben dann darauf reagiert?
+
+00:30:40.201 --> 00:30:51.600
+<v oliverparodi>Naja, also zunächst wollten wir uns nochmal bekannt machen und dann sind wir mit konkreten Formaten wieder in die Stadt gegangen. Also dann gab es Workshops,
+
+00:30:51.601 --> 00:31:05.000
+<v oliverparodi>Infoveranstaltungen, Vorträge zu bestimmten Themen, andere Aktionen, mit denen wir uns dann quasi so nach und nach ins Stadtgefüge eingefügt haben.
+
+00:31:05.001 --> 00:31:09.800
+<v timpritlove>Wer meldet sich das, also wer kam da so als erstes aus dem Loch?
+
+00:31:09.801 --> 00:31:10.500
+<v oliverparodi>/lacht/
+
+00:31:10.501 --> 00:31:20.100
+<v timpritlove>Ja, ich meine, sind das jetzt einfach normale Bürger oder sind das mehr so Initiativen oder Organisationen, Firmen, also was passiert dann?
+
+00:31:20.101 --> 00:31:26.300
+<v oliverparodi>Also zunächst kommen die engagierten, die sozusagen schon auf dem …
+
+00:31:26.301 --> 00:31:28.200
+<v timpritlove>Das Thema eh schon auf dem Zettel haben.
+
+00:31:28.201 --> 00:31:32.400
+<v oliverparodi>Genau, die persönlich ein starkes persönliches Interesse haben.
+
+00:31:32.401 --> 00:31:34.000
+<v timpritlove>Ja gut, die will man ja auch auf jeden Fall dabei haben.
+
+00:31:34.001 --> 00:31:41.700
+<v oliverparodi>Genau, also die kommen dann zunächst, die sind dann da, sind uns auch geblieben sozusagen, also das ist sehr schön, mit denen zusammenzuarbeiten.
+
+00:31:41.701 --> 00:31:59.800
+<v oliverparodi>Da sind es wiederum einzelne Personen wie auch Organisationen, also kleinere zivilgesellschaftliche Einheiten, vom Lastenradverleih Initiative,
+
+00:31:59.801 --> 00:32:12.700
+<v oliverparodi>dem Menschenrechtszentrum, also da gibt es, wir haben 30 solche Initiativen, die immer wieder mit uns zusammenarbeiten, dann eben zu Themen,
+
+00:32:12.701 --> 00:32:17.600
+<v oliverparodi>die auch für sie einfach spannend sind.
+
+00:32:17.601 --> 00:32:22.800
+<v timpritlove>Und was macht man dann mit denen?
+
+00:32:22.801 --> 00:32:33.300
+<v timpritlove>Also Reallabor ist ja schon, da schwingt ja schon so einiges mit, so Labor, so da wird dann irgendwie alles unter den Prüfstein gelegt und genaue Analysen gemacht.
+
+00:32:33.301 --> 00:32:39.300
+<v timpritlove>Da muss man ja auch einen Ansatz haben, wie man jetzt quasi da misst.
+
+00:32:39.301 --> 00:32:51.700
+<v timpritlove>Also fängt man dann erst mal an, eine Bestandsaufnahme zu machen oder kümmert man sich erst mal nur um Probleme, mit denen die Leute als erstes angekommen sind?
+
+00:32:51.701 --> 00:32:55.600
+<v timpritlove>Also setzt man da so einen Masterplan auf oder verfolgt man die Sachen unabhängig voneinander?
+
+00:32:55.601 --> 00:32:58.700
+<v oliverparodi>Also es gibt so unterschiedliche Ebenen.
+
+00:32:58.701 --> 00:33:06.700
+<v oliverparodi>Also auf einer Ebene machen wir Forschung im klassischen Sinne, dass wir so was wie eine Bestandsaufnahme machen.
+
+00:33:06.701 --> 00:33:09.600
+<v oliverparodi>Wie nachhaltig ist denn die Karlsruher Oststadt?
+
+00:33:09.601 --> 00:33:13.800
+<v oliverparodi>Wie steht es um den Gebäudebestnad?
+
+00:33:13.801 --> 00:33:23.800
+<v oliverparodi>Was muss dabei energetisch saniert werden, damit wir in Zukunft einigermaßen im Energie…
+
+00:33:23.801 --> 00:33:28.200
+<v oliverparodi>oder erneuerbarer energetisch und energieeffizient dort leben können?
+
+00:33:28.201 --> 00:33:33.400
+<v oliverparodi>Also da gibt es so grundständige wissenschaftliche Aufgaben, die erfüllt man.
+
+00:33:33.401 --> 00:33:37.200
+<v oliverparodi>Wie steht es um Akteursnetze?
+
+00:33:37.201 --> 00:33:42.600
+<v oliverparodi>Welche Personen sind Schlüsselpersonen im Sprengel, im Quartier?
+
+00:33:42.601 --> 00:33:51.300
+<v oliverparodi>Also solche klassischen von technischen bis sozialwissenschaftlichen Fragestellungen, die laufen quasi durch.
+
+00:33:51.301 --> 00:33:56.800
+<v oliverparodi>Also auch mit unserer Bestandsaufnahme, wie nachhaltig ist denn die Karlsruher Oststadt, sind wir immer noch nicht fertig so.
+
+00:33:56.801 --> 00:34:02.100
+<v oliverparodi>Also das ist auch sozusagen eine Daueraufgabe.
+
+00:34:02.101 --> 00:34:08.800
+<v oliverparodi>Dann gibt es aber eine andere Ebene, wo anders vorgegangen wird.
+
+00:34:08.801 --> 00:34:13.200
+<v oliverparodi>Und zwar hatte ich schon angesprochen, wir versuchen diese Themen dialogisch zu entwickeln.
+
+00:34:13.201 --> 00:34:19.900
+<v oliverparodi>Das heißt, wir gehen raus, wo sind die Themen, die euch ansprechen?
+
+00:34:19.901 --> 00:34:32.100
+<v oliverparodi>Da haben wir zum Beispiel zwei große Bürgerversammlungen durchgeführt, wo 200 und das andere mal 300 Personen teilgenommen haben aus dem Quartier,
+
+00:34:32.101 --> 00:34:41.900
+<v oliverparodi>wo es dann darum ging ganz konkret auch, wo sind denn im Themenfeld nachhaltige Mobilität, wo drückt da der Schuh, wo soll es hingehen?
+
+00:34:41.901 --> 00:34:56.000
+<v oliverparodi>Oder in anderen Themenfeldern, wo dann sozusagen zunächst mal von den Beteiligten, von den Bürgerinnen und Bürgern die Themen erarbeitet wurde.
+
+00:34:56.001 --> 00:35:03.900
+<v oliverparodi>Sozusagen da waren wir nur moderierend tätig, aber die Themensetzung kam dann zunächst dort raus.
+
+00:35:03.901 --> 00:35:16.000
+<v oliverparodi>Und wir haben dann auf Basis dieses Quartier Zukunft Projektes diese Themen dann zum einen weiter verfolgt in die Politik und in die Stadtverwaltung rein.
+
+00:35:16.001 --> 00:35:23.700
+<v oliverparodi>Quasi dort sozusagen dann auch als Scharnier fungiert zwischen Bürgerschaft und Stadtpolitik, Stadtverwaltung
+
+00:35:23.701 --> 00:35:37.800
+<v oliverparodi>und andererseits aber auch diese Themen dann wissenschaftlich aufgegriffen und versucht in wissenschaftliche Projekte zu übersetzen, bzw. in transdisziplinäre Projekte.
+
+00:35:37.801 --> 00:35:45.900
+<v oliverparodi>Wir haben dann immer auch versucht, gleich diese Bearbeitung der Projekte an Bürgerinnen und Bürger, dann waren es die engagierten,
+
+00:35:45.901 --> 00:35:50.800
+<v oliverparodi>die auch längerfristig an diesem Thema dran bleiben wollten, dann weiter zu verfolgen.
+
+00:35:50.801 --> 00:35:52.300
+<v timpritlove>Aber was heißt denn das jetzt konkret?
+
+00:35:52.301 --> 00:36:00.200
+<v timpritlove>Also was wurde denn sozusagen aus diesem Prozess heraus gewonnen und was wurde dann auch konkret geändert?
+
+00:36:00.201 --> 00:36:10.800
+<v timpritlove>Also hat das eine nachhaltige Änderung oder überhaupt eine Änderung in der Realität dieses Stadtteils gegeben oder ist das jetzt alles nur Papier?
+
+00:36:10.801 --> 00:36:22.500
+<v oliverparodi>Nein, es ist nicht nur Papier, allerdings muss ich sagen, wir arbeiten auf so einem, ich sage mal, auf einem kulturellen Level.
+
+00:36:22.501 --> 00:36:31.400
+<v oliverparodi>Also uns geht es jetzt nicht darum, dass wir jetzt die energieeffizienten Gebäude in den nächsten zehn Jahren, oder weniger darum, sicherstellen,
+
+00:36:31.401 --> 00:36:41.800
+<v oliverparodi>sondern uns geht es darum, wir haben so ein bisschen auch einen Bildungsauftrag, also so ein bisschen das Thema Nachhaltigkeit eben in den Alltag reinzubringen.
+
+00:36:41.801 --> 00:36:49.100
+<v oliverparodi>Und da sind dann eher so Verhaltensänderungen vielleicht passiert.
+
+00:36:49.101 --> 00:36:57.400
+<v oliverparodi>Also ein konkretes Beispiel, wir haben ein Reparaturcafé in Karlsruhe angestoßen vor einigen Jahren.
+
+00:36:57.401 --> 00:37:03.200
+<v oliverparodi>Die Idee kam damals von uns, so wir machen jetzt auch in Karlsruhe ein Reparaturcafé, das Konzept gab es schon,
+
+00:37:03.201 --> 00:37:06.500
+<v oliverparodi>es gab auch schon in anderen Städten Reparaturcafés, aber in Karlsruhe nicht.
+
+00:37:06.501 --> 00:37:19.200
+<v oliverparodi>Und wir so, das ist was, was sozusagen mit dem Nachhaltigkeitsgedanken übereinstimmt, Ressourcenschonung, Wiederverwertung, Lebenszeit erhöhen von Produkten und so weiter.
+
+00:37:19.201 --> 00:37:24.200
+<v oliverparodi>Also da konnten wir dann sagen, das ist was sinnvolles, wir haben das dann initiiert.
+
+00:37:24.201 --> 00:37:34.800
+<v oliverparodi>Dazu brauchten wir dann aber quasi auch die Reparateure, da haben sich dann spontan 30 Reparateure in Karlsruhe gefunden aus der Bürgerschaft,
+
+00:37:34.801 --> 00:37:42.000
+<v oliverparodi>die sagen, ja klar, Reparaturcafé wollten wir eigentlich schon immer machen, aber jetzt machen wir es mit euch zusammen.
+
+00:37:42.001 --> 00:37:46.600
+<v oliverparodi>Das haben wir dann quasi organisiert angeschoben und das hat sich auch etabliert.
+
+00:37:46.601 --> 00:37:56.800
+<v oliverparodi>Also das ist jetzt seit Jahren unterwegs, da gibt es regelmäßige Reparaturcafés in Karlsruhe, wo man hingehen kann und seine Sachen reparieren lassen kann.
+
+00:37:56.801 --> 00:38:03.700
+<v oliverparodi>Da ist inzwischen ein Verein draus entstanden, der sich jetzt selbstständig drum kümmert, wir haben uns ein Stück weit zurückgezogen,
+
+00:38:03.701 --> 00:38:10.300
+<v oliverparodi>zumindest aus dem Organisatorischen und haben das aber von Anfang an quasi wissenschaftlich begleitet.
+
+00:38:10.301 --> 00:38:18.100
+<v oliverparodi>Also wir haben Fragebögen ausgelegt, wir haben Interviews gemacht, um sozusagen auch Erkenntnisse dann wiederum in die Wissenschaft zurück zu spielen.
+
+00:38:18.101 --> 00:38:29.300
+<v oliverparodi>Also es gibt jetzt eben beides, es gibt sozusagen die Erkenntnisse zu diesem Reparaturcafé und zu denjenigen, die es nutzen
+
+00:38:29.301 --> 00:38:35.000
+<v oliverparodi>und es gibt das Reparaturcafé als Verein, das beständig einfach in Karlsruhe dann vor sich hin arbeitet.
+
+00:38:35.001 --> 00:38:51.000
+<v oliverparodi>Und sozusagen auf dieser Ebene sind viele Sachen entstanden, wo es um Kleidertausch geht, Pflanzentausch, regionale Ernährung,
+
+00:38:51.001 --> 00:39:00.900
+<v oliverparodi>da wurden Sachen angestoßen und die haben sich quasi so im Stadtgefüge dann institutionalisiert und wir begleiten sie wissenschaftlich
+
+00:39:00.901 --> 00:39:07.300
+<v oliverparodi>oder hören vielleicht irgendwann dann auch auf damit, wenn sozusagen der Wissenschaft genüge getan ist.
+
+00:39:07.301 --> 00:39:16.300
+<v timpritlove>Sind Sei denn zufrieden mit den Ergebnissen oder ist das so im Rückblick, da weiß man ja immer besser, was man vielleicht noch hätte erreichen können?
+
+00:39:16.301 --> 00:39:20.800
+<v timpritlove>Also es ist ja immer die Frage, wie hoch steckt man sich denn jetzt so seine Ziele, wo will man denn jetzt eigentlich hin?
+
+00:39:20.801 --> 00:39:26.100
+<v timpritlove>Oder geht man da komplett erwartungsfrei ran und schaut einfach mal was passiert?
+
+00:39:26.101 --> 00:39:27.900
+<v timpritlove>Also sind das beides legitime Ansätze?
+
+00:39:27.901 --> 00:39:28.800
+<v oliverparodi>Ja.
+
+00:39:28.801 --> 00:39:37.300
+<v timpritlove>Was könnte man so anderen, die versuchen sich vielleicht in eine ähnliche Richtung zu strukturieren da mit auf den Weg geben?
+
+00:39:37.301 --> 00:39:46.200
+<v oliverparodi>Also wir haben es uns selber ein Stück weit schwergemacht, dadurch dass wir dieses Thema nachhaltige Entwicklung ernst nehmen
+
+00:39:46.201 --> 00:39:51.800
+<v oliverparodi>und in seiner vollen Breite und Tiefe eigentlich hier ins Stadtgefüge bringen möchten so.
+
+00:39:51.801 --> 00:40:03.200
+<v oliverparodi>Da kann man es sich einfacher machen, sozusagen indem man diesen Nachhaltigkeitsbegriff einfach nur sehr oberflächlich interpretiert, dann wird es sehr viel einfacher.
+
+00:40:03.201 --> 00:40:15.000
+<v oliverparodi>Wir haben es uns insofern schwer gemacht, es ist aber auch unsere Überzeugung, dass dieses Thema, nachhaltige Entwicklung, kein leichtes ist
+
+00:40:15.001 --> 00:40:17.800
+<v oliverparodi>und einfach ein dickes Brett zu bohren.
+
+00:40:17.801 --> 00:40:32.300
+<v oliverparodi>Also unsere Gesellschaft ist einfach nicht nachhaltig aufgestellt und der Schwenk dahin ist eine Transformation, die fundamental sein muss, wenn es gelingen soll.
+
+00:40:32.301 --> 00:40:43.800
+<v oliverparodi>Das heißt, wir stehen da nicht vor einem kleinen Problem hier in Karlsruhe oder in Deutschland, sondern von einem wirklichen fundamentalen Kulturwandel
+
+00:40:43.801 --> 00:40:51.300
+<v oliverparodi>und der lässt sich natürlich nicht so einfach und nicht so schnell herstellen oder wie auch immer und auch nicht beobachten, muss man auch sagen.
+
+00:40:51.301 --> 00:41:01.000
+<v oliverparodi>Also von dem her, wenn Sie jetzt mit fragen, bin ich zufrieden mit dem, was wir erreicht haben, dann sage ich auf der anderen Seite, ja, soweit wir,
+
+00:41:01.001 --> 00:41:07.400
+<v oliverparodi>wir haben vieles erreicht, vieles angeschoben, viele Erkenntnisse rausgezogen.
+
+00:41:07.401 --> 00:41:16.300
+<v oliverparodi>Ich kann Ihnen aber mit genauso gutem Gewissen sagen, nein, wir sind nicht zufrieden, weil letztlich eigentlich noch viel mehr in der Richtung passieren müsste, so.
+
+00:41:16.301 --> 00:41:24.200
+<v oliverparodi>Also von dem her werden wir auch weitermachen, also wir machen auch weiter hier mit den Themen, mit der Stadt, mit Nachhaltigkeit
+
+00:41:24.201 --> 00:41:29.800
+<v oliverparodi>und ich empfehle es dringend, jeden anderen willigen das auch zu tun.
+
+00:41:29.801 --> 00:41:41.200
+<v oliverparodi>Es gibt dann natürlich schon aus unserer Erfahrung raus Punkte, wo man drauf achten kann, also wir können hier ja auch sozusagen beratend tätig werden,
+
+00:41:41.201 --> 00:41:44.700
+<v oliverparodi>auf was man achten kann, was nicht funktioniert.
+
+00:41:44.701 --> 00:41:46.500
+<v oliverparodi>Wir haben das aus der …
+
+00:41:46.501 --> 00:41:49.600
+<v timpritlove>Was funktioniert denn zum Beispiel nicht?
+
+00:41:49.601 --> 00:41:58.500
+<v oliverparodi>Also mit wissenschaftlichem Sprech in die Bürgerschaft zu gehen, funktioniert nicht, man wird nicht verstanden.
+
+00:41:58.501 --> 00:42:06.700
+<v oliverparodi>Mit abstrakten wissenschaftlichen Forschungsprojekten an eine Stadtverwaltung heranzutreten, auch die möchten es konkret haben.
+
+00:42:06.701 --> 00:42:15.100
+<v oliverparodi>Und es funktioniert auch leider nicht, das Thema Nachhaltigkeit in die Breite zu kommunizieren.
+
+00:42:15.101 --> 00:42:17.500
+<v timpritlove>Aber jetzt nicht unter dem Begriff.
+
+00:42:17.501 --> 00:42:30.000
+<v oliverparodi>Nicht unter dem Begriff und da Nachhaltigkeit quasi alle Lebensbereiche, alle Sektoren betrifft, ist es so ein großes Thema, das letztlich, also jetzt außer vielleicht ein paar Forschern,
+
+00:42:30.001 --> 00:42:36.700
+<v oliverparodi>die sich damit beschäftigen, niemand was in der Gänze damit anfangen kann, also im praktischen Leben zumindest nicht.
+
+00:42:36.701 --> 00:42:47.100
+<v oliverparodi>Das heißt, man muss dann immer auch die Themen wieder runterbrechen auf Mobilität, Energie, wie auch immer, Soziales, Bildung, um dann anschlussfähig zu werden.
+
+00:42:47.101 --> 00:42:54.000
+<v oliverparodi>Und dabei ist dann für uns die Schwierigkeit, den Rest, den man quasi abschneidet, nicht ganz zu vergessen.
+
+00:42:54.001 --> 00:42:58.800
+<v oliverparodi>Aber ohne diese Anschlussfähigkeit kommt man nicht in die Gesellschaft rein.
+
+00:42:58.801 --> 00:43:05.700
+<v timpritlove>Kann es sein, dass diese Anschlussfähigkeit auch darunter leidet, dass viele Leute unter Nachhaltigkeit dann auch erst mal so dieses Bedrohungsszenario Verzicht sehen?
+
+00:43:05.701 --> 00:43:09.100
+<v timpritlove>Weil man kommt ja im Prinzip so mit dem Wunsch her, ja wir müssen ja was ändern.
+
+00:43:09.101 --> 00:43:19.500
+<v timpritlove>Änderung ist ja generell immer so, alle wollen es, bloß nicht bei einem selbst, weil können ja die anderen machen.
+
+00:43:19.501 --> 00:43:25.700
+<v timpritlove>Das haben wir natürlich in der Politik etc. ohnehin und das ist einfach so eine Trägheit, die, glaube ich, so in der Gesellschaft auch schlicht innewohnt, das heißt,
+
+00:43:25.701 --> 00:43:29.500
+<v timpritlove>die muss man natürlich dann in seinem Ansatz auch einpreisen.
+
+00:43:29.501 --> 00:43:41.200
+<v timpritlove>Aber wenn die Sprache da hilft, dann sollte man vielleicht wegkommen von den wissenschaftlichen, rein wissenschaftlichen Wünschen, sage ich mal,
+
+00:43:41.201 --> 00:43:49.200
+<v timpritlove>einer Nachhaltigkeit als Ziel und dass man irgendwie quasi die Ziele aufbricht in das, was letzten Endes ja alle davon haben.
+
+00:43:49.201 --> 00:44:01.400
+<v timpritlove>Also wenn ich sage, du sollst weniger Auto fahren, dann ist das erst mal eine andere Ansage als, wir wollen eine leisere Stadt haben.
+
+00:44:01.401 --> 00:44:02.200
+<v oliverparodi>Ja.
+
+00:44:02.201 --> 00:44:05.200
+<v timpritlove>Gibt es vielleicht ja auch positive Beispiele, ich weiß nicht.
+
+00:44:05.201 --> 00:44:22.300
+<v oliverparodi>Ja. Also ich gehe nochmal auf Ihren ersten Teil der Frage ein, das Thema Verzicht ist natürlich eins, das in einer wohlhabenden Wohlstandsgesellschaft ungern thematisiert wird.
+
+00:44:22.301 --> 00:44:33.000
+<v oliverparodi>Ich frage mich da immer nur so ein bisschen, oder wir versuchen auch, da ein bisschen einen Kontrapunkt zu setzen und zu sagen, also für viele von uns heute ist Verzicht nicht etwas,
+
+00:44:33.001 --> 00:44:35.300
+<v oliverparodi>das irgendwie beschränkt, sondern es befreit.
+
+00:44:35.301 --> 00:44:49.800
+<v oliverparodi>Also in einer überbordenden total gestressten Gesellschaft mit auch relativ wohlhabenden oder großen wohlhabenden Anteil, wenn man es jetzt zumindest mal an der Weltbevölkerung spiegelt,
+
+00:44:49.801 --> 00:44:54.100
+<v oliverparodi>da ist Verzicht teilweise auch ein Befreiungsschlag.
+
+00:44:54.101 --> 00:45:01.200
+<v oliverparodi>Und da ging es dann eher, um wieder auf die Sprache zu kommen, da geht es dann tatsächlich darum, sozusagen das in den Vordergrund zu stellen.
+
+00:45:01.201 --> 00:45:11.300
+<v oliverparodi>Also was man durch Verzicht auch gewinnen kann so ein Stück weit und wie man auch anders gut leben kann, jetzt ohne diesen überbordenden materiellen Wohlstand.
+
+00:45:11.301 --> 00:45:31.000
+<v oliverparodi>Also was da eine Rolle spielt, ist, warum dieses Nachhaltigkeitsthema oft nicht gut ankommt, ist, weil es eben zunächst mal ganz festen Interessen widerspricht.
+
+00:45:31.001 --> 00:45:43.000
+<v oliverparodi>Also eine Automobilindustrie hat einfach die Produktion von Autos sozusagen als Ziel sich eingeschrieben und beharrt da so ein Stück weit auf drauf.
+
+00:45:43.001 --> 00:45:53.900
+<v oliverparodi>Also es wären Interessen betroffen, die teilweise dann die beteiligten auch vor große Änderungen stellen.
+
+00:45:53.901 --> 00:46:03.900
+<v oliverparodi>Und insgesamt, also dieses Thema Nachhaltigkeit, wenn man es ernst nimmt und in der Tiefe sozusagen durchdenkt und angehen möchte,
+
+00:46:03.901 --> 00:46:14.700
+<v oliverparodi>dann ist eben dieser Kulturwandel am Ende und da werden ganz fundamentale Gewissheiten auch von uns selber infrage gestellt, also letztlich wer bin ich?
+
+00:46:14.701 --> 00:46:22.800
+<v oliverparodi>Bin ich noch jemand, wenn ich ein Grundeinkommen habe und kein Auto mehr besitze?
+
+00:46:22.801 --> 00:46:33.600
+<v oliverparodi>Oder noch viel mehr, bin ich noch jemand als Wissenschaftler, wenn ich sehe, dass mein wissenschaftliches Weltbild auch nur ein Teilaspekt oder eine Perspektive auf die Welt ist?
+
+00:46:33.601 --> 00:46:44.200
+<v oliverparodi>Also mit dem wird übrigens allein nicht den Wandel in eine nachhaltige Gesellschaft leisten können.
+
+00:46:44.201 --> 00:46:57.000
+<v oliverparodi>Also dieser Kulturwandel ruft dann oft auch wirklich Ängste hervor, teilweise auch Existenzängste, was dann wiederum so eine Abwehrreaktion produziert,
+
+00:46:57.001 --> 00:47:02.100
+<v oliverparodi>dass man eben sich mit diesem Thema vielleicht dann doch lieber nicht auseinandersetzt.
+
+00:47:02.101 --> 00:47:07.200
+<v timpritlove>Aber jetzt kommen ja auch die anderen Existenzängste langsam auf die Agenda nicht wahr?
+
+00:47:07.201 --> 00:47:19.500
+<v timpritlove>Also dass man, wenn man so weitermacht, wie man das bisher macht, dann auch nicht mehr so viel Spaß in seinem eigenen Auto hat, weil gerade die Straße in einem Lavastrom vorbeigetragen wird.
+
+00:47:19.501 --> 00:47:27.400
+<v timpritlove>Ich übertreibe jetzt bewusst, aber ich denke manchmal ist es auch schon erforderlich nicht unbedingt jetzt Bedrohungsszenarien aufzurufen,
+
+00:47:27.401 --> 00:47:31.700
+<v timpritlove>aber dann eben auch mal so ein bisschen einen Appell an die Realität zu richten.
+
+00:47:31.701 --> 00:47:32.700
+<v oliverparodi>Ja, ist so.
+
+00:47:32.701 --> 00:47:36.300
+<v oliverparodi>Und ich meine, da kann die Wissenschaft in dem Punkt wirklich helfen.
+
+00:47:36.301 --> 00:47:50.000
+<v oliverparodi>Also weil die Wissenschaft sieht die globalen Problemlagen, die lassen sich wissenschaftlich eindeutig belegen, auch wenn jetzt ein amerikanisches Staatsoberhaupt immer noch den Klimawandel negiert,
+
+00:47:50.001 --> 00:47:58.800
+<v oliverparodi>lassen sich wissenschaftliche Fakten, Erkenntnisse gewinnen, die einfach die globale Lage darstellen und an denen kommt man wissenschaftlich nicht vorbei,
+
+00:47:58.801 --> 00:48:06.200
+<v oliverparodi>gesellschaftlich allerdings kann man entweder die Augen zu machen und weiter in die Richtung rennen oder man kann eben umsteuern und auch was ändern.
+
+00:48:06.201 --> 00:48:11.300
+<v oliverparodi>Aber das tut dann eben im Zweifelsfall vielleicht nicht mal weh, aber es macht Angst.
+
+00:48:11.301 --> 00:48:17.300
+<v oliverparodi>Also man muss sich da, man weiß nicht genau wohin man rennt, wie es dann gehen kann in Zukunft.
+
+00:48:17.301 --> 00:48:27.700
+<v oliverparodi>Können unsere Städte dann ohne Autoverkehr oder mit einem sehr drastisch reduzierten Autoverkehr funktionieren?
+
+00:48:27.701 --> 00:48:30.100
+<v oliverparodi>Kriege ich dann noch gutes Essen?
+
+00:48:30.101 --> 00:48:31.700
+<v oliverparodi>Kann ich mir das noch leisten?
+
+00:48:31.701 --> 00:48:45.900
+<v oliverparodi>Wie auch immer, also letztlich kommen dann auch ganz persönliche oder ganz alltägliche Dinge in die Kritik oder wo man auch seinen eigenen Lebensstil überdenken muss,
+
+00:48:45.901 --> 00:48:52.200
+<v oliverparodi>wo man dann vielleicht auch lieber wegschaut, bevor man was ändert.
+
+00:48:52.201 --> 00:49:01.000
+<v timpritlove>Das Projekt Reallabor ist ja, wenn ich das richtig in Erinnerung habe, auch mit dem Forschungspreis ausgestattete worden.
+
+00:49:01.001 --> 00:49:09.700
+<v timpritlove>Forschungspreis transformative Wissenschaft, der verliehen wird einerseits von der Zempelin-Stiftung, dem Stiftverband, aber auch dem Wuppertal Institut.
+
+00:49:09.701 --> 00:49:22.400
+<v timpritlove>Mit Professor Schneidewind hatte ich ja hier auch schon ein Gespräch über transformative Wissenschaft, Forschergeist Nummer 25 für die, die vielleicht die Sendung noch nicht gehört haben.
+
+00:49:22.401 --> 00:49:34.200
+<v timpritlove>Kann ich auf jeden Fall auch sehr empfehlen, da sind ja auch die Reallabore schon angesprochen worden, die ja in dem Umfeld an vielen Orten entstanden sind.
+
+00:49:34.201 --> 00:49:39.900
+<v timpritlove>Transformative Prozesse das spielt hier auch eine Rolle.
+
+00:49:39.901 --> 00:49:46.400
+<v oliverparodi>Ja genau, also wir haben sie indirekt schon die ganze Zeit benannt.
+
+00:49:46.401 --> 00:49:55.400
+<v oliverparodi>Also während Uwe Schneidewind den Diskurs über Reallabore eröffnet hat, haben wir quasi gleichzeitig unser Quartier Zukunft hier auf die Straße gebracht
+
+00:49:55.401 --> 00:50:04.200
+<v oliverparodi>und das Ganze in der Praxis, sozusagen von der Praxis her, uns dem genähert.
+
+00:50:04.201 --> 00:50:17.600
+<v oliverparodi>Und transformativ bedeutet jetzt von der Wissenschaft aus gesehen, dass man Dinge nicht nur beforscht, sondern auch Dinge verändert, Impulse setzt, also gesellschaftlich wirksam wird.
+
+00:50:17.601 --> 00:50:29.600
+<v oliverparodi>Und da vielleicht kleine Nebenbemerkung schon mal, es ist allen, die vorhaben, ein Reallabor zu erstellen und es auch ernst meinen, damit gesellschaftlich wirksam zu werden,
+
+00:50:29.601 --> 00:50:38.300
+<v oliverparodi>geraten, im Vorfeld sich im Klaren zu sein, dass sie damit keine neutrale Wissenschaft mehr machen, das heißt, das können sie auch, aber im Stadtgefüge
+
+00:50:38.301 --> 00:50:41.400
+<v oliverparodi>oder wo sie auch wirken, wirken diese Reallabore einfach politisch.
+
+00:50:41.401 --> 00:50:49.800
+<v oliverparodi>Also die sind in einem Machtgefüge unterwegs, die wollen gestalten, das heißt, sie sind entweder von vornherein politisch oder sie werden politisiert.
+
+00:50:49.801 --> 00:50:55.000
+<v oliverparodi>Also man kommt sozusagen nicht drumherum.
+
+00:50:55.001 --> 00:51:07.100
+<v oliverparodi>Und transformativ von Seiten der Wissenschaft bedeutet jetzt eben quasi einzugreifen, selber aktiv zu werden und, und das ist auch wichtig, in Richtung einer nachhaltigen Entwicklung zu wirken.
+
+00:51:07.101 --> 00:51:18.000
+<v oliverparodi>Also diese Transformation ist nicht eine beliebige, zumindest in diesem Sinne transformative Wissenschaft, sondern es ist eine, die uns in eine nachhaltige Zukunft trägt.
+
+00:51:18.001 --> 00:51:30.300
+<v oliverparodi>Und das ist wiederum eine andere Postion für Forscherinnen und Forscher, die oftmals einfach nur auf Die Welt gucken und aufschreiben, was dort passiert.
+
+00:51:30.301 --> 00:51:38.900
+<v oliverparodi>Und im Zuge einer transformativen Wissenschaft gehen sie rein in die Welt und gestalten auch wirklich mit.
+
+00:51:38.901 --> 00:51:48.400
+<v timpritlove>Jetzt gibt es ja dann auch das passende Projekt hier dazu, wenn ich das richtig sehe, das Karlsruher Transformationszentrum für nachhaltige Zukünfte und Kulturwandel.
+
+00:51:48.401 --> 00:51:53.700
+<v timpritlove>Und weil das mal wieder viel zu lang und zu kompliziert war, heißt es einfach KAT, also zum KIT gibt es hier quasi auch noch ein KAT.
+
+00:51:53.701 --> 00:51:56.400
+<v timpritlove>Schöner Witz.
+
+00:51:56.401 --> 00:51:59.200
+<v timpritlove>Bewegt sich das in diesem Bereich?
+
+00:51:59.201 --> 00:51:59.500
+<v oliverparodi>Ja, in der Tat.
+
+00:51:59.501 --> 00:52:03.800
+<v oliverparodi>Das ist sozusagen Reallabor 2.0.
+
+00:52:03.801 --> 00:52:13.100
+<v oliverparodi>Wir haben mit dem Quartier Zukunft 2012 begonnen und haben da auch viele Erkenntnisse, aber auch viele Lehren draus gezogen, auch Lehrgeld gezahlt.
+
+00:52:13.101 --> 00:52:23.800
+<v oliverparodi>Und wir versuchen jetzt, diesen Reallaborgedanken nochmal eine Ebene höher zu denken bzw. zu institutionalisieren.
+
+00:52:23.801 --> 00:52:33.900
+<v oliverparodi>Und einiges, was mit den Reallaboren, wie sie die letzten Jahre hier auch in Baden-Württemberg erfolgreich als Reallaborprojekte durchgeführt wurden,
+
+00:52:33.901 --> 00:52:38.800
+<v oliverparodi>da nochmal ein Stück weit Dinge anders zu machen.
+
+00:52:38.801 --> 00:52:40.700
+<v timpritlove>Was denn?
+
+00:52:40.701 --> 00:52:41.900
+<v timpritlove>Die Frage musste jetzt kommen.
+
+00:52:41.901 --> 00:52:46.700
+<v oliverparodi>Ja, genau, vielen Dank für die Steilvorlage.
+
+00:52:46.701 --> 00:52:51.900
+<v oliverparodi>Genau, also zweierlei ist wichtig oder fundamental.
+
+00:52:51.901 --> 00:53:02.500
+<v oliverparodi>Das eine ist, hatte ich auch schon angekratzt, diese Reallabore, wie sie die letzten Jahre hier tatsächlich auch wie Pilze aus dem Boden geschossen sind,
+
+00:53:02.501 --> 00:53:17.400
+<v oliverparodi>also der Begriff hat dann Konjunktur, der hat wirklich eingeschlagen, also es machen jetzt viele oder aus unterschiedlichen Ecken Reallabore, das ist gerade sehr in Mode.
+
+00:53:17.401 --> 00:53:21.300
+<v oliverparodi>Allerdings quasi alle als Projekte.
+
+00:53:21.301 --> 00:53:24.100
+<v oliverparodi>Sprich, mit einer endlichen und kurzen Laufzeit.
+
+00:53:24.101 --> 00:53:33.300
+<v oliverparodi>Das meiste sind irgendwie wissenschaftliche Projekte oder Stadtentwicklungsprojekte, die sozusagen von Dauer von, ich sage mal, drei bis fünf Jahren sind.
+
+00:53:33.301 --> 00:53:37.500
+<v timpritlove>Das heißt, die Forschung der Nachhaltigkeit ist aber selber nicht besonders nachhaltig aufgestellt?
+
+00:53:37.501 --> 00:53:51.300
+<v oliverparodi>Genau, ja, so ist es, also auch da folgt die Logik einer nicht nachhaltigen Wissenschaftsförderung bzw. transformativen Wissenschaftsförderung.
+
+00:53:51.301 --> 00:53:55.200
+<v oliverparodi>Das heißt, die sind in drei bis fünf Jahren ausgelaufen, damit hat man mehrere Probleme.
+
+00:53:55.201 --> 00:54:05.600
+<v oliverparodi>Zum einen, wenn man wirklich zum Wandel beitragen möchte, passiert der eben oft nicht so schnell, sondern nur behäbig oder langfristig.
+
+00:54:05.601 --> 00:54:15.600
+<v oliverparodi>Das heißt, man kann den weder begleiten, noch kann man ihn dann ex post, also sozusagen in die Vergangenheit gucken und bewerten, was dann wirklich passiert ist.
+
+00:54:15.601 --> 00:54:28.500
+<v oliverparodi>Also dazu braucht man lange Zeiten, also longitudinal Studien, langfristige Forschungsprogramme dann, ich verwende den Projektbegriff nicht,
+
+00:54:28.501 --> 00:54:31.700
+<v oliverparodi>weil er eben auf so kurzfristige ist.
+
+00:54:31.701 --> 00:54:38.300
+<v oliverparodi>Das heißt, man bräuchte da Laufzeiten von dutzenden von Jahren, nicht von Jahren, sondern von dutzenden von Jahren.
+
+00:54:38.301 --> 00:54:48.400
+<v oliverparodi>Und das liegt eigentlich schon in dem Begriff drin, aber das hat lange Zeit niemand erkannt, wir haben das relativ früh in die Debatte eingeworfen.
+
+00:54:48.401 --> 00:54:56.100
+<v oliverparodi>Dieses Labor gibt es ja eben in den naturwissenschaftlichen und auch in den technischen Fächern schon lange, da gibt es Labore.
+
+00:54:56.101 --> 00:55:11.500
+<v oliverparodi>Und die sind aber wiederum oft Jahrzehnte, teilweise auch über hundert Jahre tätig, also die Labore stehen dann dutzende Jahre und darin werden Experimente gefahren.
+
+00:55:11.501 --> 00:55:23.400
+<v oliverparodi>Und dieses Setting sozusagen das Labor zu institutionalisieren und dann auch zeitlich befristete Experimente darin zu fahren, die gibt es momentan noch nicht wirklich.
+
+00:55:23.401 --> 00:55:31.500
+<v oliverparodi>Und wir möchten mit unserem Karlsruher Transformationszentrum sagen, wir machen ein Reallabor auf Dauer und haben damit die Möglichkeit,
+
+00:55:31.501 --> 00:55:38.100
+<v oliverparodi>Experimente reinzufahren und auch einen Wandel langfristig zu begleiten und auch zu bewerten letztlich.
+
+00:55:38.101 --> 00:55:41.300
+<v timpritlove>Auch projektübergreifend dann über längere Zeit.
+
+00:55:41.301 --> 00:55:44.300
+<v oliverparodi>Genau, ja. Also da gibt es noch viele andere Vorteile.
+
+00:55:44.301 --> 00:55:53.000
+<v oliverparodi>Ich nenne noch, also viele wissenschaftliche Vorteile, wenn man so ein Labor hat, also das sind vielfach die Vorteile, die andere Laboren eben haben,
+
+00:55:53.001 --> 00:55:56.100
+<v oliverparodi>deshalb gibt es sie auf der Welt, weil sie ja einen Sinn machen.
+
+00:55:56.101 --> 00:56:05.800
+<v oliverparodi>Es gibt aber noch einen anderen Grund, warum diese Institutionalisierung Sinn macht oder mindestens einen.
+
+00:56:05.801 --> 00:56:16.200
+<v oliverparodi>Vielfach reicht diese Zeit nur, um Dinge anzuschieben, man braucht ein gewisses Vertrauen, man braucht viel Kommunikation,
+
+00:56:16.201 --> 00:56:24.000
+<v oliverparodi>bis man solche Realexperimente, auch Reallaborexperimente dann mit Bürgerinnen und Bürgern, mit der Stadtverwaltung, mit anderen Akteuren,
+
+00:56:24.001 --> 00:56:29.100
+<v oliverparodi>mit Unternehmen durchführen kann, da braucht man schon einen gewissen Vorlauf.
+
+00:56:29.101 --> 00:56:31.400
+<v oliverparodi>Und man kann auch mal was anschieben und dann ist aber die Zeit schon wieder vorbei.
+
+00:56:31.401 --> 00:56:40.700
+<v oliverparodi>Dann kann man noch ein bisschen wissenschaftliche Artikel veröffentlichen und was aber auf der Strecke bleibt, ist das, was man quasi aufgebaut hat.
+
+00:56:40.701 --> 00:56:50.200
+<v oliverparodi>Also dann hat man gerade vielleicht Strukturen in der Stadt aufgebaut, die tragen und muss dann aber gleich wieder gehen.
+
+00:56:50.201 --> 00:57:01.900
+<v oliverparodi>Und vielfach wird damit dann die Initiative dann zunichte gemacht wieder und es wird auch im Zweifelsfall verbrannte Erde hinterlassen.
+
+00:57:01.901 --> 00:57:10.000
+<v oliverparodi>Also das Vertrauen, was man in Wissenschaft gesetzt hat von der Stadtgesellschaft aus wird dann zerstört.
+
+00:57:10.001 --> 00:57:10.200
+<v timpritlove>Weil es einfach weg ist.
+
+00:57:10.201 --> 00:57:18.000
+<v oliverparodi>Genau, jetzt sind die wieder weg, die haben jetzt schön publiziert, aber was ist jetzt für uns, was passiert jetzt mit uns sozusagen?
+
+00:57:18.001 --> 00:57:28.700
+<v oliverparodi>Und da ist schon auch eine Schieflage, die man eben mit so einem langfristigen Labor dann, also man kann entstehende Probleme abmildern
+
+00:57:28.701 --> 00:57:34.000
+<v oliverparodi>und man kann einfach auch Sachen besser institutionalisieren in der Gesellschaft.
+
+00:57:34.001 --> 00:57:39.700
+<v timpritlove>Das hat jetzt das Land, also Baden-Württemberg dann auch verstanden und fördert dann dieses Projekt noch?
+
+00:57:39.701 --> 00:57:48.100
+<v oliverparodi>Naja, also wir sind aufgerufen, wir haben Geld bekommen, dieses Karlsruher Transformationszentrum zu konzipieren und anzuschieben.
+
+00:57:48.101 --> 00:57:56.400
+<v oliverparodi>Wir sind aber noch auf der Suche nach sozusagen langfristigen Investoren, Geldgebern, die sagen, wir möchten so ein Reallabor,
+
+00:57:56.401 --> 00:58:02.100
+<v oliverparodi>wo es um nachhaltige Entwicklung, um unsere Zukunft geht, auch dauerhaft zu finanzieren.
+
+00:58:02.101 --> 00:58:07.800
+<v timpritlove>Wer sollte denn daran ein Interesse haben?
+
+00:58:07.801 --> 00:58:11.300
+<v oliverparodi>Ja alle, ganz platt gesprochen.
+
+00:58:11.301 --> 00:58:19.800
+<v oliverparodi>Ich meine, es geht um unser aller Zukunft und dann kann man es sozusagen nochmal ausdifferenzieren.
+
+00:58:19.801 --> 00:58:26.200
+<v timpritlove>Ich meine, welche Organisation oder welcher Teil des Staates sollte so viel Interesse daran haben, um auch dann deutlich konkret zur Tat zu schreiten?
+
+00:58:26.201 --> 00:58:29.100
+<v oliverparodi>Ja, also ist schon klar, aber da könnten wir …
+
+00:58:29.101 --> 00:58:32.000
+<v oliverparodi>Also letztlich kann man sämtliche Ministerien rauf und runter beten.
+
+00:58:32.001 --> 00:58:36.900
+<v oliverparodi>Also das Wissenschaftsministerium würde ich jetzt mal in dem Bezug ausklammern, weil das macht schon.
+
+00:58:36.901 --> 00:58:45.000
+<v oliverparodi>Das hat diese Reallaboridee in die Welt gesetzt und fördert es auch, aber sozusagen das Umweltministerium, Wirtschaftsministerium, Ernährung.
+
+00:58:45.001 --> 00:58:45.700
+<v timpritlove>Stadtentwicklung etc.
+
+00:58:45.701 --> 00:58:55.700
+<v oliverparodi>Genau, Bauen, das sind alles sozusagen, also sämtliche öffentliche Aufgaben könnten sich daran beteiligen und sagen, ja wir fördern so eine Institution …
+
+00:58:55.701 --> 00:59:03.300
+<v timpritlove>… weil wir wollen eine permanente wissenschaftliche Auswertung der Fortschritte und der weiteren Möglichkeiten von Anwendungen von nachhaltigen Konzepten haben.
+
+00:59:03.301 --> 00:59:06.600
+<v oliverparodi>Ja und wir wollen Experimentierräume, also es geht schon auch ums Ausprobieren.
+
+00:59:06.601 --> 00:59:07.000
+<v timpritlove>Okay, ja.
+
+00:59:07.001 --> 00:59:14.800
+<v oliverparodi>Also soweit trägt auch die Labormetapher noch, dass man sagt, wir haben hier neuere Ansätze, lass uns die mal ausprobieren.
+
+00:59:14.801 --> 00:59:23.700
+<v oliverparodi>Noch nicht jetzt weltweit oder in Deutschland, aber jetzt mal in der Karlsruher Oststadt oder sonstwo, einfach mal räumlich begrenzt dann auch mal ausprobieren, was passiert dann?
+
+00:59:23.701 --> 00:59:26.400
+<v oliverparodi>So ein bisschen Experimentierräume schaffen.
+
+00:59:26.401 --> 00:59:36.000
+<v oliverparodi>Und das sind auch nicht staatliche Einrichtungen, also noch nicht staatliche Einrichtungen aufgefordert.
+
+00:59:36.001 --> 00:59:44.800
+<v oliverparodi>Also ich könnte mir auch vorstellen, dass andere Vereinigungen, die Kirchen zum Beispiel, hierfür auch Interesse hätten.
+
+00:59:44.801 --> 00:59:55.900
+<v oliverparodi>Dann nicht aus der Wissenschaft kommend, aber sozusagen in Kooperation mit der Wissenschaft, gerade die christlichen Kirchen haben ein ausgefeiltes Nachhaltigkeitsverständnis,
+
+00:59:55.901 --> 01:00:08.500
+<v oliverparodi>teilweise auch viele Aktivitäten in der Richtung, also auch da könnte sich jemand finden, der sagt, wir unterstützen so ein Transformationszentrum mit einem Gebäude oder mit Geld,
+
+01:00:08.501 --> 01:00:14.700
+<v oliverparodi>mit Personal, wie auch immer, also das kann ja dann ganz verschieden aussehen.
+
+01:00:14.701 --> 01:00:18.400
+<v timpritlove>Wie interdisziplinär wäre denn so ein Labor aufgestellt?
+
+01:00:18.401 --> 01:00:32.500
+<v timpritlove>Also wir haben ja eingangs schon Ihre Geschichte schon gesehen, aber auch, sagen wir mal, diese ganzen Felder, die betrachtet werden, sind ja jetzt nicht zugeschnitten auf einen einzigen Wissenschaftsbereich.
+
+01:00:32.501 --> 01:00:41.200
+<v oliverparodi>Nein, also diese Labore sollten interdisziplinär und auch breit interdisziplinär aufgestellt sein.
+
+01:00:41.201 --> 01:00:51.300
+<v oliverparodi>Was nicht heißt, dass es auch mal dann sozusagen Experimente darin geben kann, die jetzt von einem Ökonomen oder ökonomischen Team alleine durchgeführt werden,
+
+01:00:51.301 --> 01:01:04.600
+<v oliverparodi>aber sozusagen den Betrieb des Labors, da braucht es zwingend Generalisten, die sozusagen diesen Nachhaltigkeitsgedanken, der dann in den Experimenten eben konkret wird
+
+01:01:04.601 --> 01:01:11.800
+<v oliverparodi>und auch dann ja disziplinär zumindest fokussiert durchgeführt wird, die dann wieder zusammenbauen.
+
+01:01:11.801 --> 01:01:16.000
+<v oliverparodi>Also da braucht es ein interdisziplinäres Team.
+
+01:01:16.001 --> 01:01:29.300
+<v oliverparodi>Ich kann hier von unserem Quartier Zukunft Team, das wiederum dieses Karlsruher Transformationszentrum aufbaut, berichten, da sind wir Geoökologen, Umweltwissenschaftler, Philosophen,
+
+01:01:29.301 --> 01:01:39.200
+<v oliverparodi>Sozialwissenschaftler, Architekten, also da gibt es auch in unserem Team eine sehr breite Basis.
+
+01:01:39.201 --> 01:01:45.600
+<v timpritlove>Und das sind jetzt nicht nur Leute, die jetzt in ihrem Feld keinen Job gefunden haben, sondern das ist die Expertise, die sie jetzt hier in die Planung auch mit einbringen.
+
+01:01:45.601 --> 01:01:50.300
+<v oliverparodi>Ja. Ich nehme mal an, sie haben gewollt keinen Job in ihrem Feld gesucht.
+
+01:01:50.301 --> 01:02:00.300
+<v oliverparodi>Also es ist so, die sind aktiv zu uns dazugestoßen alle, ja, die wollten da hin, wo sie jetzt sind.
+
+01:02:00.301 --> 01:02:15.100
+<v timpritlove>Jetzt gibt es ja hier noch so einen Teil, wieder schöner Name, Karlsruher Schule der Nachhaltigkeit, auch da fungieren Sie, glaube ich, als Leiter, wenn ich das richtig sehe.
+
+01:02:15.101 --> 01:02:19.100
+<v oliverparodi>Ja. Co-Leitung mit meinem Kollegen Richard Beecroft zusammen.
+
+01:02:19.101 --> 01:02:20.100
+<v timpritlove>Okay.
+
+01:02:20.101 --> 01:02:21.500
+<v oliverparodi>Ja.
+
+01:02:21.501 --> 01:02:30.300
+<v timpritlove>Wer geht auf diese Schule und was wird da mitgeteilt?
+
+01:02:30.301 --> 01:02:53.000
+<v oliverparodi>Ja, das war sozusagen der Bildungsast unserer Nachhaltigkeitsaktivitäten hier am KIT, dass wir gesagt haben, also global in Deutschland und aber auch am KIT ist das Thema nachhaltige Entwicklung in der Lehre,
+
+01:02:53.001 --> 01:03:06.100
+<v oliverparodi>zunächst mal in der universitären Lehre, viel zu wenig verankert, das heißt, wir sind hier losgezogen, haben auch mit viel, würde ich sagen, bürgerschaftlichem Engagement versucht,
+
+01:03:06.101 --> 01:03:15.100
+<v oliverparodi>Bildung für nachhaltige Entwicklung am KIT zu etablieren, durchgeführt auch mit sehr spannenden Formaten, und machen das immer noch.
+
+01:03:15.101 --> 01:03:17.300
+<v oliverparodi>Und wer geht dahin?
+
+01:03:17.301 --> 01:03:21.900
+<v oliverparodi>Also zunächst mal ist es für Studierende.
+
+01:03:21.901 --> 01:03:34.200
+<v oliverparodi>Wir haben aus der Karlsruher Schule Nachhaltigkeit kommend ein Begleitstudium nachhaltige Entwicklung hier aufgesetzt am KIT, wo allen Studierenden offensteht,
+
+01:03:34.201 --> 01:03:47.800
+<v oliverparodi>wo sozusagen während ihrer Studienzeit hier ihres Fachstudiums dieses Begleitstudium begleitend durchgeführt werden kann und man hinter ein extra Zertifikat erhält,
+
+01:03:47.801 --> 01:03:58.700
+<v oliverparodi>also mit ECTS hinterlegt und mit einem Zertifikat, das vom Präsidenten unterschrieben wird vom KIT, also das auch was zählt sozusagen.
+
+01:03:58.701 --> 01:04:00.700
+<v timpritlove>Was ist ECTS?
+
+01:04:00.701 --> 01:04:08.800
+<v oliverparodi>Die Bepunktung von Lehrinhalten sozusagen, die Währung der Bildung.
+
+01:04:08.801 --> 01:04:11.500
+<v timpritlove>Das European Credit Transfer System.
+
+01:04:11.501 --> 01:04:17.200
+<v oliverparodi>Genau ja, also um die Sache vergleichbar zu machen, die Ökonomisierung der Bildung ist das.
+
+01:04:17.201 --> 01:04:24.800
+<v timpritlove>Und an welche Studierende richtet sich das, also welche Studiengänge können da quasi noch sich zusätzlich begleiten lassen?
+
+01:04:24.801 --> 01:04:41.100
+<v oliverparodi>Alle. Also es steht allen Studierenden offen, das heißt, wir haben da auch Studierende aus der Mathematik, dem Bauingenieurwesen, dem Wirtschaftsingenieurwesen, der Philosophie,
+
+01:04:41.101 --> 01:04:45.300
+<v oliverparodi>die sind bunt gemischt, je nach Gusto schlagen die bei uns auf.
+
+01:04:45.301 --> 01:04:48.700
+<v timpritlove>Und was wird dann da vermittelt konkret?
+
+01:04:48.701 --> 01:04:51.300
+<v timpritlove>Ich will es ja immer konkret.
+
+01:04:51.301 --> 01:04:56.700
+<v oliverparodi>Ja. Also ich glaube, ich weich da immer so aus, weil es so viel ist.
+
+01:04:56.701 --> 01:04:57.700
+<v timpritlove>Naja.
+
+01:04:57.701 --> 01:04:58.000
+<v oliverparodi>Und ich oft noch gar nicht so den Überblick habe.
+
+01:04:58.001 --> 01:05:05.800
+<v timpritlove>Es muss ja nicht vollständig sein, aber damit man mal so ein Gefühl dafür bekommt, mit welchen Fragen man sich dort auseinandersetzen muss oder kann.
+
+01:05:05.801 --> 01:05:18.700
+<v oliverparodi>Also zum Beispiel mit nachhaltiger Stadtentwicklung, mit Fragen des Immobilienmanagements sozusagen, dass dann schon wieder relativ fachlich ist.
+
+01:05:18.701 --> 01:05:22.800
+<v timpritlove>Also dass man auch versteht, wie sozusagen die Prozesse in der Stadt ablaufen.
+
+01:05:22.801 --> 01:05:30.800
+<v timpritlove>Also was bedeutet es, Häuser zu kaufen, zu betreiben, zu vermieten, etc. an ein Stadtnetz anzuschließen, solche Fragen?
+
+01:05:30.801 --> 01:05:39.400
+<v oliverparodi>Genau, da wird so ein bisschen die Grundlagen der Immobilienwirtschaft gekoppelt dann mit Nachhaltigkeitsaspekten.
+
+01:05:39.401 --> 01:05:41.300
+<v timpritlove>Das ist ja auch total wichtig.
+
+01:05:41.301 --> 01:05:53.300
+<v timpritlove>Ich meine, wie soll man denn Häuserbesitzern, Vermietern Angebote machen, wenn man deren Probleme auch nicht benennen kann oder deren Vorgehensweise.
+
+01:05:53.301 --> 01:05:59.900
+<v timpritlove>Ich weiß nicht, man hat das ja oft in der Poltischen Debatte auch, dass irgendwelchen Gruppen halt angetragen wird, ja warum macht ihr nicht das?
+
+01:05:59.901 --> 01:06:04.700
+<v timpritlove>Worauf die dann einfach nur sagen, ja das liegt gar nicht in unserer Zuständigkeit, wovon redet ihr überhaupt?
+
+01:06:04.701 --> 01:06:13.400
+<v timpritlove>Also wenn man sozusagen diese Systematik, wie die Gesellschaft an sich funktioniert, nicht begreift, dann läuft man ja einfach automatisch gegen Wände.
+
+01:06:13.401 --> 01:06:14.800
+<v oliverparodi>Ja genau.
+
+01:06:14.801 --> 01:06:27.200
+<v oliverparodi>Also ist so, das heißt, es geht da schon auch darum, sozusagen die Voraussetzungen zu schaffen für eine nachhaltige Entwicklung jetzt im Immobilienbereich zum Beispiel.
+
+01:06:27.201 --> 01:06:38.800
+<v oliverparodi>Wir haben andere Lehrinhalte, es ist wirklich sehr breit gestreut von der Technikgeschichte kommen, die auch mal ein bisschen in die Vergangenheit gucken, was gab es denn da an Nachhaltigkeitslösungen
+
+01:06:38.801 --> 01:06:45.600
+<v oliverparodi>oder was gab es auch schon an Nachhaltigkeitsproblemen letztlich, die damals noch nicht so benannt wurden, aber im Laufe der Kulturgeschichte so.
+
+01:06:45.601 --> 01:06:49.700
+<v oliverparodi>Also solche Formate gibt es, im Energiebereich.
+
+01:06:49.701 --> 01:06:51.400
+<v timpritlove>Da im Wasserbau.
+
+01:06:51.401 --> 01:07:00.000
+<v oliverparodi>Ja, im Wasser, das ist ein sehr spannendes Thema, da kann ich Ihnen „Technik am Fluss“ ein Buch von mir empfehlen.
+
+01:07:00.001 --> 01:07:13.900
+<v oliverparodi>Genau, also ja, oder im KIT gibt es viel Energieforschung, auch viel, was sozusagen Bildung in dem Bereich auf dem energetischen Sektor anbelangt, also Lehrveranstaltungen
+
+01:07:13.901 --> 01:07:28.300
+<v oliverparodi>und dort mal nachhaltige Energieversorgung durchzudiskutieren mit Studierenden, auch ein bisschen im breiteren Horizont, wie sie das hier ansonsten machen würden, das ist ein weiteres Thema.
+
+01:07:28.301 --> 01:07:45.700
+<v oliverparodi>Ein spezielles Format ist auch, wir haben transdisziplinäre Forschungsseminare, wo dann die Studierenden gemeinsam mit Wissenschaftlerinnen und Praxisakteuren Themen bearbeiten.
+
+01:07:45.701 --> 01:07:57.300
+<v oliverparodi>Und dann eben ganz konkret draußen im Alltag, so wie wir das mit dem Quartier Zukunft quasi ohne Studierende machen, machen wir es im kleinen Rahmen dann mit Studierenden und sagen,
+
+01:07:57.301 --> 01:08:04.400
+<v oliverparodi>macht mit ein Semester, ein Jahr lang, ein Projekt mit einem Praxisakteur.
+
+01:08:04.401 --> 01:08:15.600
+<v oliverparodi>Da hatten wir welche, die Karlsruher Tafel zum Beispiel oder die Gemeinwohlökonomie, auch das Reparaturcafé, der Verein war mal Praxispartner.
+
+01:08:15.601 --> 01:08:20.900
+<v oliverparodi>Wo es dann darum geht, mit den Studierenden hier Lösungen zu erarbeiten.
+
+01:08:20.901 --> 01:08:30.600
+<v oliverparodi>Die bringen dann quasi ihr Fachwissen aus ihren Studiengängen, die sie eigentlich studieren, mit ein und können dann sozusagen Projekte mit den Praxisakteuren machen,
+
+01:08:30.601 --> 01:08:40.800
+<v oliverparodi>wo dann letztlich die Studierenden was lernen und die Praxisakteure aber auch was davon haben.
+
+01:08:40.801 --> 01:08:51.500
+<v oliverparodi>Also bei der Gemeinwohlöknomie, bei diesem transdisziplinären Seminar ist dann zum Beispiel ein Begleitvideo oder ein Erklärvideo zur Gemeinwohlökonomie entstanden,
+
+01:08:51.501 --> 01:08:55.200
+<v oliverparodi>das jetzt auch in den Gemeinwohlökonomiekreisen kursiert und so weiter.
+
+01:08:55.201 --> 01:09:00.400
+<v oliverparodi>Also da kommen auch so kleine Produkte raus bei diesen Seminaren.
+
+01:09:00.401 --> 01:09:01.800
+<v timpritlove>Klingt ja eigentlich ganz unterhaltsam.
+
+01:09:01.801 --> 01:09:04.400
+<v timpritlove>Wie wird das angenommen von den Studierenden?
+
+01:09:04.401 --> 01:09:10.100
+<v oliverparodi>Gut, dieses Begleitstudium wird gut angenommen.
+
+01:09:10.101 --> 01:09:22.400
+<v oliverparodi>Dazu muss man wissen, dass Studieren heute auch kein Zuckerschlecken mehr ist, das ist durchgetaktet nach Bologna, da wurden die Daumenschrauben angezogen, das sah bei mir noch anders aus,
+
+01:09:22.401 --> 01:09:32.600
+<v oliverparodi>da habe ich heute irgendwie den Eindruck, die Studierenden haben da einen anderen Druck auch von außen, was ihre Studienleistung anbelangt.
+
+01:09:32.601 --> 01:09:46.900
+<v oliverparodi>Dafür wird es sehr gut angenommen und gerade diese, ich sage mal, praxisnahen Formate werden gut angenommen, für eine Universität eher ungewöhnlich.
+
+01:09:46.901 --> 01:09:50.200
+<v oliverparodi>Und diese Horizontweitung kommt auch gut an.
+
+01:09:50.201 --> 01:10:01.900
+<v oliverparodi>Also viele Studierende merken dann schon, dass da eigentlich zum echten Leben noch was fehlt von ihrer Fachdisziplin aus.
+
+01:10:01.901 --> 01:10:13.200
+<v oliverparodi>Und die schauen dann tatsächlich auch gerne bei uns vorbei und gucken mal, wie das dann so eingebettet ist ein einen weiteren Horizont und in eine nachhaltige Entwicklung Richtung Zukunft.
+
+01:10:13.201 --> 01:10:17.100
+<v timpritlove>Praxisnahe Angebote sind ungewöhnlich für eine Universität?
+
+01:10:17.101 --> 01:10:18.600
+<v oliverparodi>Ja schon.
+
+01:10:18.601 --> 01:10:23.800
+<v timpritlove>Klingt ja erst mal bisschen widersprüchlich.
+
+01:10:23.801 --> 01:10:30.300
+<v timpritlove>Ich meine, man soll sich mit großen Fragen beschäftigen, aber am Ende muss man es ja auch praktisch zur Anwendung bringen.
+
+01:10:30.301 --> 01:10:45.400
+<v oliverparodi>Ja, also was natürlich passiert, vieles passiert also auch an der Forschung und auch in der Bildung wird dann an Unternehmen oder Unternehmenstätigkeit sozusagen rückgekoppelt.
+
+01:10:45.401 --> 01:10:52.300
+<v oliverparodi>Diese Verbindung gibt es, also in der Forschung sowieso, in der Bildung auch, da kommt die Praxis natürlich schon ins Spiel.
+
+01:10:52.301 --> 01:10:58.100
+<v oliverparodi>Da muss man sagen, da gibt es auch einiges und auch schöne Sachen, darüber hinaus aber ist es selten.
+
+01:10:58.101 --> 01:11:13.300
+<v oliverparodi>Also dass sich jemand in seinem Studium dann mit praktischen Fragen des zukünftigen Lebens in Städten auseinandersetzt, das ist weniger der Fall.
+
+01:11:13.301 --> 01:11:17.500
+<v timpritlove>Na wenn es sonst keiner macht, muss sich die Wissenschaft da halt auch noch drum kümmern.
+
+01:11:17.501 --> 01:11:27.000
+<v oliverparodi>Ja, also der Unterschied ist vielleicht, nochmal zur Verdeutlichung, diese Fragen, die hier in Bildung und Forschung behandelt werden, sind natürlich schon praxisrelevant
+
+01:11:27.001 --> 01:11:30.100
+<v oliverparodi>oder nehmen die Praxis zum Anlass.
+
+01:11:30.101 --> 01:11:40.200
+<v oliverparodi>Aber sozusagen wirklich bei der Praxis mitwirken, das ist sozusagen der Schritt, der dann bei diesen transdisziplinären Seminaren passiert, dass dann während dem Seminar wirklich auch was erarbeitet wird,
+
+01:11:40.201 --> 01:11:49.300
+<v oliverparodi>was dann draußen in der Welt auch Bestand hat oder funktioniert, das ist relativ selten für Universitäten.
+
+01:11:49.301 --> 01:12:01.500
+<v timpritlove>Vielleicht mal so zum Abschuss müssen wir den Bogen nochmal ein bisschen größer aufspannen, so jenseits der konkreten Anwendung in der Forschung und in der Bildung.
+
+01:12:01.501 --> 01:12:14.000
+<v timpritlove>Wenn man jetzt mal so auf die Stadt schaut und eben all diese ganzen Probleme, die jetzt hier in diesen Projekten angegangen werden und die sich auch aus diesen Reallaboren sozusagen herausgestellt haben,
+
+01:12:14.001 --> 01:12:24.800
+<v timpritlove>was lässt sich denn sozusagen aus Ihrer Position heraus ablesen, wohin die Entwicklung der Städte gehen müsste?
+
+01:12:24.801 --> 01:12:42.400
+<v timpritlove>Also was sind denn so die Hotspots, wo man das Gefühl hat, also klar man könnte überall rangehen, aber hier und da zeigen sich sowohl Dinge, die sich entweder relativ leicht ändern ließen
+
+01:12:42.401 --> 01:12:54.900
+<v timpritlove>und einen sinnvollen Output haben oder die halt vielleicht auch schwieriger sind, die aber so dringend und schwer sind, weil sie vielleicht viele andere Prozesse auch aufhalten,
+
+01:12:54.901 --> 01:12:58.100
+<v timpritlove>dass man da auf jeden Fall ran muss?
+
+01:12:58.101 --> 01:13:05.800
+<v timpritlove>Also wie sollten wir sozusagen über das Thema Nachhaltigkeit insbesondere in Bezug auf Städte nachdenken?
+
+01:13:05.801 --> 01:13:18.500
+<v oliverparodi>Also ich bin ein bisschen skeptisch, was sozusagen die Stellschrauben anbelangt, die man so einfach bedienen kann, wo sich nur so schnell was initiieren und lösen lässt,
+
+01:13:18.501 --> 01:13:23.900
+<v oliverparodi>da, naja da glaube ich nicht so richtig dran, dann hätte schon lang jemand mal an dieser Schraube gedreht.
+
+01:13:23.901 --> 01:13:27.200
+<v oliverparodi>Oder andersrum, viele wurden auch schon gedreht.
+
+01:13:27.201 --> 01:13:38.300
+<v oliverparodi>Also in den Städten hat sich auch viel in Richtung Nachhaltigkeit getan schon in den letzten Jahren, da darf man nicht den Eindruck erwecken, dass da nichts passieren würde.
+
+01:13:38.301 --> 01:13:49.900
+<v oliverparodi>Aber es sind natürlich noch fundamentale Probleme und also letztlich können Sie die alle, nein nicht alle, aber viel der Presse entnehmen, das Artensterben, der Klimawandel,
+
+01:13:49.901 --> 01:14:04.900
+<v oliverparodi>das sind Dinge, wo Städte betroffen sind und auch sozusagen Verursacher ganz oft, also wenn es um Mobilität geht, Stadtverkehr, Luftverschmutzung und so weiter.
+
+01:14:04.901 --> 01:14:16.800
+<v oliverparodi>Also da lässt sich quasi die gesamte Bandbreite der gerade akuten Themen, die so im politisch gesellschaftlichen Diskurs sind, auf die Stadt runterbrechen und dort anpacken.
+
+01:14:16.801 --> 01:14:23.500
+<v oliverparodi>Das geschieht viel zu wenig, also die erneuerbaren Energien spielen in den Städten eine viel zu geringe Rolle.
+
+01:14:23.501 --> 01:14:34.900
+<v oliverparodi>Der öffentliche Nahverkehr ließe sich ausbauen und so weiter, also da ist sozusagen alle die Themen, der Klimawandel ist für Städte insbesondere ein Problem.
+
+01:14:34.901 --> 01:14:42.900
+<v oliverparodi>Erstens sind sie Verursacher und zweitens auch die ersten Leidtragenden, weil in den Städten oft die Temperatur schon zwei Grad höher ist.
+
+01:14:42.901 --> 01:14:44.100
+<v timpritlove>Sowieso schon höher ist.
+
+01:14:44.101 --> 01:14:52.500
+<v oliverparodi>Also da wird es nochmal besonders brisant, auch für Karlsruhe, eine der heißesten Städte in Deutschland.
+
+01:14:52.501 --> 01:14:54.500
+<v oliverparodi>Also da lässt sich alles runterbeten.
+
+01:14:54.501 --> 01:15:08.200
+<v oliverparodi>Wir haben so ein bisschen, wir haben auch mal versucht, nochmal ein Stück tiefer in die Stadtgesellschaft einzudringen und zwei grundlegende Problematiken,
+
+01:15:08.201 --> 01:15:24.000
+<v oliverparodi>die jetzt nicht so als solche auf dem Schirm sind, anzupacken und das sind die Themen Gemeinschaft, also Gemeinschaftlichkeit und Entschleunigung.
+
+01:15:24.001 --> 01:15:32.900
+<v oliverparodi>Also zwei Themen, die sozusagen vielem zugrundeliegen, die aber jetzt noch nicht so in der öffentlichen Debatte sind.
+
+01:15:32.901 --> 01:15:41.500
+<v oliverparodi>Also vielleicht zum Thema Gemeinschaft, das Gegenteil wäre die Isolation.
+
+01:15:41.501 --> 01:15:53.200
+<v oliverparodi>In Großbritannien ist gerade ein Ministerium umbenannt worden und hat quasi die Vereinsamung mit in den Titel aufgenommen, also da ist es wirklich ein großes gesellschaftliches Problem,
+
+01:15:53.201 --> 01:16:02.900
+<v oliverparodi>dass Menschen vereinsamen, das ist jetzt in Deutschland noch nicht ganz so prekär, in den Städten allerdings wiederum prekärer wie vielleicht auf dem Land.
+
+01:16:02.901 --> 01:16:11.300
+<v oliverparodi>Also solche Themen, ein funktionierendes Gemeinschaftsgefüge zu haben, ist letztlich auch eine Voraussetzung für eine nachhaltige Entwicklung.
+
+01:16:11.301 --> 01:16:13.700
+<v oliverparodi>Also das wäre so ein Thema.
+
+01:16:13.701 --> 01:16:16.100
+<v timpritlove>Ja, da gibt es ja auch interessante Ansätze.
+
+01:16:16.101 --> 01:16:25.400
+<v timpritlove>Also ich habe zum Beispiel gehört, dass auch so bei den Leuten, die sich in der Verkehrsplanung sich über den Parkraum, also den bereitgestellten Parkraum Gedanken machen,
+
+01:16:25.401 --> 01:16:35.900
+<v timpritlove>auch so die Erkenntnis gewonnen wurde, dass zugestellte Straßen, also mit Autos zugestellte Straßen erheblich dazu beitragen, dass die Leute nicht miteinander in Kommunikation treten,
+
+01:16:35.901 --> 01:16:46.800
+<v timpritlove>während in dem Moment, wo man die Parkplätze entfernt und quasi eine autofreie Straße hat, automatisch eben dieser Bürgerkontakt oder der Nachbarschaftskontakt deutlich zunimmt.
+
+01:16:46.801 --> 01:16:48.400
+<v oliverparodi>Ja ist so.
+
+01:16:48.401 --> 01:16:54.600
+<v oliverparodi>Also wir machen mit beim Parking Day zum Beispiel, soll ich kurz erklären, was das ist?
+
+01:16:54.601 --> 01:16:55.100
+<v timpritlove>Ja gerne.
+
+01:16:55.101 --> 01:17:09.200
+<v oliverparodi>Also Parking Day ist ein weltweiter Aktionstag, wo es darum geht, die Parkplätze für einen Tag im Stadtraum zu besetzen und wie auch immer zu bespielen, aber nicht mit Autos vollzustellen.
+
+01:17:09.201 --> 01:17:20.200
+<v oliverparodi>Damit man zunächst mal sieht, was räumlich diese Autos für eine Präsenz haben und auch für eine Dominanz.
+
+01:17:20.201 --> 01:17:30.000
+<v oliverparodi>Wenn man dann mal diese Parkplätze nutzt und da Tischtennis spielt, Musik macht, ein Café eröffnet, wie auch immer, ein Diskussionsforum durchführt,
+
+01:17:30.001 --> 01:17:35.400
+<v oliverparodi>dann merkt man mal, wieviel Platz eigentlich da ist, wenn die Autos nicht in der Stadt parken würden.
+
+01:17:35.401 --> 01:17:39.500
+<v oliverparodi>Also da geht es tatsächlich nur um Parkraum.
+
+01:17:39.501 --> 01:17:52.600
+<v oliverparodi>Ein anderes Projekt, nein eine andere Aktion, die wir durchgeführt haben, war Freiluftwohnzimmer, wo wir sozusagen aufgerufen haben, hier in der Karlsruher Oststadt,
+
+01:17:52.601 --> 01:18:02.700
+<v oliverparodi>stellt einen Stuhl, einen Tisch auf den Bürgersteig, setzt euch raus, kommt mit euren Nachbarn ins Gespräch, mit denen, die vorbeilaufen und redet, wenn es gut läuft, bei einer Tasse Kaffee
+
+01:18:02.701 --> 01:18:05.400
+<v oliverparodi>auch noch über das Thema Nachhaltigkeit.
+
+01:18:05.401 --> 01:18:18.600
+<v oliverparodi>Aber einfach dieser Impuls, den öffentlichen Raum auch sozusagen zu nutzen und zur Agora, also zum gemeinschaftlichen Feld, aber auch zum politischen Feld zu machen,
+
+01:18:18.601 --> 01:18:33.200
+<v oliverparodi>das ist was, wo ja weitgehend oder verloren geht, und je moderner die Städte, das Stadtantlitz ausgestattet ist, desto weniger findet das statt.
+
+01:18:33.201 --> 01:18:38.600
+<v oliverparodi>Also da ist auch so ein Ansatzpunkt.
+
+01:18:38.601 --> 01:18:44.500
+<v timpritlove>Parking Day, dritter Freitag im September, also dieses Jahr am 20. September.
+
+01:18:44.501 --> 01:18:47.200
+<v timpritlove>Kann man sich ja schon mal was einfallen lassen, ein bisschen Vorlauf haben wir ja jetzt hier noch.
+
+01:18:47.201 --> 01:18:49.000
+<v oliverparodi>Ja, macht total Spaß.
+
+01:18:49.001 --> 01:18:51.800
+<v timpritlove>Kann ich mir vorstellen.
+
+01:18:51.801 --> 01:18:59.900
+<v timpritlove>Ja, also ich denke, das ist ja so ein gutes Beispiel, finde ich, für eine aktuelle Debatte, wo ich so den Eindruck habe, die kommt gerade hoch.
+
+01:18:59.901 --> 01:19:12.700
+<v timpritlove>Dass man sich so darüber im Klaren ist, okay, alle beklagen die ganze Zeit, wieviel Platz nicht da ist, Grünflächen, Wohnflächen, Flächen eigentlich für alles andere, auch für Kreative,
+
+01:19:12.701 --> 01:19:22.600
+<v timpritlove>es gibt da Verdrängung, der Wohnungsbau wiederum nimmt dann die Freiflächen für die kulturellen Aktivitäten, was natürlich die Städte dann auch gleich wieder ärmer macht etc..
+
+01:19:22.601 --> 01:19:35.400
+<v timpritlove>Und dann stellt man irgendwie fest, dass gefühlt irgendwie 10-20 Prozent der öffentlichen Fläche, die einfach da ist, schlicht und ergreifend dafür verwendet wird, dass Privatleute dort ihre Autos abstellen.
+
+01:19:35.401 --> 01:19:43.100
+<v timpritlove>Also wenn man sich mal hochrechnet, was man für einen Quadratmeter Wohnraum bezahlt, im Vergleich zu einem Quadratmeter Parkraum, der einem ja dann sozusagen auch noch gebaut worden ist,
+
+01:19:43.101 --> 01:19:48.100
+<v timpritlove>kann man sich nicht vorstellen, dass das eben mit einer Autosteuer alleine schon abgeglichen ist.
+
+01:19:48.101 --> 01:19:59.500
+<v timpritlove>Und ich denke, das ist eben auch so ein Gedankenprozess, der vielleicht überhaupt erst mal in die Öffentlichkeit reinwirken muss, aus dem sich dann sehr viel anderes dann auch in der Konsequenz ableiten lässt.
+
+01:19:59.501 --> 01:20:04.700
+<v timpritlove>So ja okay, wie ist denn das eigentlich mit dem ganzen Raum, könnten wir ja mal für was anderes verwenden?
+
+01:20:04.701 --> 01:20:06.100
+<v timpritlove>Ja, was machen wir denn dann mit dem Auto?
+
+01:20:06.101 --> 01:20:11.900
+<v timpritlove>Ja, vielleicht sollten wir dann a) weniger Bedarf haben, was machen wir dann da für Angebote?
+
+01:20:11.901 --> 01:20:14.400
+<v timpritlove>Das hat dann wieder Auswirkungen auf den Nahverkehr.
+
+01:20:14.401 --> 01:20:21.300
+<v timpritlove>Ja, aber ich brauche ja mein Auto, weil behindert, Familie, warum auch immer, es gibt ja auch gute Gründe dafür, so ist es jetzt auch nicht.
+
+01:20:21.301 --> 01:20:27.600
+<v timpritlove>Dann könnte man ja wiederum auch sagen, okay dann bauen wir vielleicht mal ein Parkhaus anstatt eines Wohnhauses, aber dafür ist der öffentliche Raum wieder da.
+
+01:20:27.601 --> 01:20:34.700
+<v timpritlove>Also da kommt so eine ganze Kaskade von Ideen auf einmal so in Bewegung, wenn man das über die Schiene überhaupt erst mal anstößt.
+
+01:20:34.701 --> 01:20:41.700
+<v oliverparodi>Ja. In der Tat, also naja da gäbe es jetzt aber viel dazu zu sagen.
+
+01:20:41.701 --> 01:20:57.800
+<v oliverparodi>Vielleicht nochmal zu dem Parkraum oder sozusagen zu der Dominanz von Autos im Stadtbild, ich meine, prägend für unsere Besiedlungen sind die Gebäude und dann die Verkehrsflächen so vielfach.
+
+01:20:57.801 --> 01:21:08.100
+<v oliverparodi>Also dann gibt es auch Grünflächen so, aber die gibt es nur punktuell, aber so strukturbildend ist natürlich diese Verkehrsfläche und inklusive dem Parkraum nimmt einen hohen Anteil ein
+
+01:21:08.101 --> 01:21:15.000
+<v oliverparodi>und ist auch sehr vom Eindruck her sehr präsent, wenn man draußen sich bewegt, dann sieht man überall Autos.
+
+01:21:15.001 --> 01:21:27.300
+<v oliverparodi>Und da hilft es dann aber auch mal, nochmal so quasi den Blick in die Vergangenheit zu richten und zu gucken, also vor den Autos gab es doch auch Städte und da waren die nicht zugeparkt.
+
+01:21:27.301 --> 01:21:36.300
+<v oliverparodi>Also es gibt auf jeden Fall ein anderes menschliches Leben auch ohne Auto, es ist zumindest mal möglich, also es war mal möglich, und vielleicht ist es ja auch in Zukunft möglich.
+
+01:21:36.301 --> 01:21:42.100
+<v oliverparodi>Oder mit einem sehr reduzierten Individualverkehr mit Automobilen.
+
+01:21:42.101 --> 01:21:51.400
+<v oliverparodi>Also von daher, da hilft schon mal so ein bisschen, so ein Gedankenspiel zu machen und dann helfen aber die Experimente eben auch, also mit diesem Parking Day,
+
+01:21:51.401 --> 01:22:02.500
+<v oliverparodi>wenn man dann mal hundert Meter freiräumt von diesem Blech und dann guckt, wie sich das Stadtbild da ändert und was es da für Möglichkeitsräume gibt, das ist schon eindrücklich.
+
+01:22:02.501 --> 01:22:11.500
+<v oliverparodi>Und so was auch ganz konkret hier mit jüngeren Bürgern hier durchzuspielen und in der Stadt mal kenntlich zu machen, das hat enorme Effekte.
+
+01:22:11.501 --> 01:22:25.400
+<v oliverparodi>Also da gibt es gerade in den Niederlanden und in Belgien Städte, die das noch auf größerem Niveau machen, die wirklich ganze Straßenzüge dann mal temporär freigeräumt haben für einen Monat,
+
+01:22:25.401 --> 01:22:31.900
+<v oliverparodi>die ganzen Autos verbannt haben, da Kunstrasen ausgelegt, damit man mal sieht, was da noch passieren könnte.
+
+01:22:31.901 --> 01:22:46.200
+<v oliverparodi>Und das ist wichtig, solche Experimente durchzuführen und eben auch ein Stück weit zu irritieren und auch so Denk- und Wahrnehmungsmuster zu brechen.
+
+01:22:46.201 --> 01:22:59.600
+<v timpritlove>Ja, das war ein schöner Ritt hier durch den Ansatz hier am Institut Nachhaltigkeit zu vermitteln auf allen Ebenen, sowohl in die Öffentlichkeit als auch in die Bildung selbst hinein,
+
+01:22:59.601 --> 01:23:11.500
+<v timpritlove>also damit sozusagen auch künftige Generationen von Wissenschaftlern entsprechend mit dem Rüstzeug auszustatten, die eigene Forschung etwas nachhaltiger vielleicht zu planen,
+
+01:23:11.501 --> 01:23:13.900
+<v timpritlove>also vielleicht auch ganz konkret.
+
+01:23:13.901 --> 01:23:18.600
+<v timpritlove>Gibt es noch ein letztes Wort, was wir mitgeben sollten?
+
+01:23:18.601 --> 01:23:22.600
+<v oliverparodi>Wenn Sie mich fragen.
+
+01:23:22.601 --> 01:23:23.400
+<v timpritlove>Ja.
+
+01:23:23.401 --> 01:23:44.200
+<v oliverparodi>Also es gäbe noch einen Hinweis auf ein Feld, Sie haben die Karlsruher Schule der Nachhaltigkeit genannt, wir haben da einen Arbeitstitel erarbeitet, nennt sich personale Nachhaltigkeit.
+
+01:23:44.201 --> 01:23:54.300
+<v oliverparodi>Das heißt, da ist der Fokus auf das Individuum und auf die Person und auf den Leib, auf das Subjekt gerichtet, nicht wie sonst üblich eher so nach draußen gesellschaftliche Belange,
+
+01:23:54.301 --> 01:24:00.400
+<v oliverparodi>sondern dann wirklich mal selbstreflexiv bzw. das Eigene betreffend.
+
+01:24:00.401 --> 01:24:11.700
+<v oliverparodi>Genau, das ist ein Feld, wo ich glaube, wo noch viel zu wenig im Blick ist, wo noch viel passieren kann und auch sollte.
+
+01:24:11.701 --> 01:24:21.900
+<v oliverparodi>Was aber allerdings auch ein heikles Feld ist und wo die Wissenschaft aber ihre Grenzen hat, also da stoßen wir dann quasi an prinzipielle Grenzen der Wissenschaft,
+
+01:24:21.901 --> 01:24:32.900
+<v oliverparodi>da müssen wir dann auch außerhalb der Wissenschaft einfach weitergehen, um eine nachhaltige Entwicklung dann auch sozusagen über die individuelle Sphäre zu verwirklichen.
+
+01:24:32.901 --> 01:24:42.200
+<v timpritlove>Also heißt das, wie ich jetzt mein Leben für mich nachhaltig gestalten kann oder was ich an mir ändern muss, um es für alle nachhaltig zu gestalten?
+
+01:24:42.201 --> 01:24:44.300
+<v oliverparodi>Ja, ein Stück weit beides.
+
+01:24:44.301 --> 01:24:50.800
+<v oliverparodi>Also es geht zunächst mal darum, den einzelnen mit an Bord zu nehmen.
+
+01:24:50.801 --> 01:25:00.800
+<v oliverparodi>Also dass man Nachhaltigkeit nicht nur als Thema behandelt, dass sich da draußen in der Welt, in der Welt der Politik, der Technik, in der Stadt abspielt,
+
+01:25:00.801 --> 01:25:09.400
+<v oliverparodi>sondern als ein Thema auch, das sozusagen auch mich betrifft und das sich auch sozusagen in mir fortsetzt.
+
+01:25:09.401 --> 01:25:23.900
+<v oliverparodi>Also das ist zunächst mal der erste Schritt, dieses Thema zu sich zu holen und dann kann man anfangen bei Lebensstilfragen, soll ich Bio, Regio oder Fair einkaufen oder alles zusammen?
+
+01:25:23.901 --> 01:25:27.800
+<v oliverparodi>WAs mach ich mit meinem Auto und kann ich es nicht mit jemand anders teilen?
+
+01:25:27.801 --> 01:25:30.500
+<v oliverparodi>Also solche Fragen kommen dann an der Oberfläche.
+
+01:25:30.501 --> 01:25:45.100
+<v oliverparodi>Und es geht dann aber auch schon noch tiefer sozusagen auch in die eigene psychische Struktur, was denke ich, wie nehme ich wahr, wie gehe ich auf die Welt zu?
+
+01:25:45.101 --> 01:25:49.600
+<v oliverparodi>Was habe ich für Beziehungen zu meiner Umwelt, Mitwelt und Nachwelt?
+
+01:25:49.601 --> 01:25:59.600
+<v oliverparodi>Und da mal genauer hinzugucken und was das wiederum sozusagen für eine Rolle spielt in einem nicht nachhaltigen oder für ein nachhaltiges Verhalten, das sind sehr spannende Fragen,
+
+01:25:59.601 --> 01:26:14.700
+<v oliverparodi>die in der Psychologie noch völlig unterbelichtet sind, da gibt es noch ganz ganz wenig dazu, die aber auch weit über die Psychologie hinaus noch sozusagen Relevanz haben
+
+01:26:14.701 --> 01:26:18.000
+<v oliverparodi>und wo wir uns damit beschäftigen müssen.
+
+01:26:18.001 --> 01:26:30.100
+<v oliverparodi>Allerdings hier geht es ja um Wissenschaft, da dann der Hinweis auch, dass da irgendwann die Wissenschaft sagen muss, da ist Schluss für uns bzw. so wie wir Wissenschaft heute betreiben,
+
+01:26:30.101 --> 01:26:36.400
+<v oliverparodi>kann es zwar Forschung sein, aber es ist nicht mehr Wissenschaft.
+
+01:26:36.401 --> 01:26:41.100
+<v timpritlove>Ja, dann sage ich vielen Dank für die Ausführungen hier.
+
+01:26:41.101 --> 01:26:42.200
+<v oliverparodi>Gerne.
+
+01:26:42.201 --> 01:26:47.700
+<v timpritlove>Und vielen Dank an alle Zuhörer wieder einmal, fürs Zuhören bei Forschergeist.
+
+01:26:47.701 --> 01:26:54.200
+<v timpritlove>Bald gibt es wieder neue schöne Themen und deswegen sage ich, tschüss und bis bald.

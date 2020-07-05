@@ -1,0 +1,699 @@
+﻿[00:00:00-0 @Intro]
+[00:00:42-7 @timpritlove] Hallo und herzlich willkommen zu Forschergeist, dem Podcast des Stifterverbands für die Deutsche Wissenschaft.
+[00:00:48-7 @timpritlove] Mein Name ist Tim Pritlove und ich begrüße alle zur 73. Ausgabe unserer Gesprächsreihe rund um Wissenschaft,
+[00:00:58-5 @timpritlove] wo es manchmal um die Metaebene der Wissenschaft geht, manchmal um die Organisation derselben
+[00:01:05-2 @timpritlove] und oft und immer öfter auch um konkrete Forschung und das in letzter Zeit auch in zunehmendem Maße, wen überrascht es,
+[00:01:13-7 @timpritlove] mit einem Schwerpunkt rund um den Klimawandel und so soll es auch heute sein.
+[00:01:19-9 @timpritlove] Und heute wollen wir einen ganz spezifischen Blick richten auf ein bestimmtes Ökosystem, nämlich den Binnensee.
+[00:01:27-2 @timpritlove] Auch der gehört erforscht und er wird auch erforscht unter anderem von meiner Gesprächspartnerin heute, nämlich Rita Adrian.
+[00:01:35-0 @timpritlove] Schönen guten Tag Frau Adrian.
+[00:01:36-2 @ritaadrian] Schönen guten Tag.
+[00:01:37-8 @timpritlove] Frau Adrian wir sind jetzt hier in Köpenick, im schönen Friedrichshagen, direkt in Spuckweite quasi vom Müggelsee.
+[00:01:49-0 @timpritlove] Ich merke immer wieder so, dass die ganzen Forschungsinstitute, die sich mit Wasser beschäftige, die haben immer so den Vorteil,
+[00:01:53-8 @timpritlove] dass sie immer sehr schön gelegen sind.
+[00:01:56-8 @timpritlove] Und zwar sind wir hier am Berliner Leibniz-Institut für Gewässerökologie und Binnenfischerei.
+[00:02:04-4 @timpritlove] Dazu könnten Sie mir vielleicht mal was sagen.
+[00:02:06-8 @timpritlove] Was ist das für ein Institut und wie ist das universitär aufgehängt, wenn überhaupt?
+[00:02:13-1 @ritaadrian] Ja, wir sind der Leibniz-Gemeinschaft zugeordnet und erforschen die Binnengewässer im weitesten Sinne.
+[00:02:23-2 @ritaadrian] Wir sind das größte deutsche Institut in dem Bereich.
+[00:02:27-7 @ritaadrian] Wir sind aufgeteilt in so, große Institute brauchen ja eine Substruktur, wir haben sechs Abteilungen.
+[00:02:36-1 @ritaadrian] Das geht von der Hydrologie, Einzugsgebietsmanagement, Stofftransporte in Gewässer über Flüsse in Seen.
+[00:02:46-1 @ritaadrian] Dann zwei Abteilungen, die sich im weitesten Sinne mit Seeökologie einmal mehr auf experimenteller Ebene und auf experimenteller Largescale-Ebene befassen.
+[00:03:00-9 @ritaadrian] Und unsere Abteilung, meine Abteilung, die ich führe, ist Ecosystem Research, wir gucken, dass Ökosystem als ganzes an.
+[00:03:09-5 @ritaadrian] Von Foodweb, also Nahrungsnetz, Interaktionen, Rolle von Makrophyten in Systemen, Nährstoffzyklen, Problematik von Blaualgenblüten.
+[00:03:26-0 @ritaadrian] Und ich persönlich jetzt Klimafolgenforschung.
+[00:03:28-6 @ritaadrian] Wir machen aber auch Management, entwickeln Management-Konzepte.
+[00:03:33-3 @ritaadrian] Dann haben wir Fischabteilungen, die sich mit Schwarmbildung befassen, ganz auch interessante Forschungsbereiche, Aquakultur.
+[00:03:42-4 @ritaadrian] Und wir haben ein zentrales Chemielabor, was die ganze chemische Analytik betreibt für uns für das ganze Institut.
+[00:03:54-3 @ritaadrian] Das heißt, es sichert einfach Qualitätsstandards.
+[00:03:57-3 @ritaadrian] Und die haben so eine Zwitterfunktion, machen Service für das ganze Institut, aber machen auch Forschung in der Biogeochemie.
+[00:04:11-6 @ritaadrian] Das ist so der breite Rahmen.
+[00:04:13-3 @ritaadrian] Wir sind sehr stark international vernetzt und wir haben einen sehr starken Fokus auf Ausbildung.
+[00:04:20-4 @ritaadrian] Wir bilden sehr viele Masterstudenten aus, aber überwiegend dann Doktoranden und haben eine große Anzahl von Postdocs,
+[00:04:28-6 @ritaadrian] also jungen Wissenschaftlern, die von außen reinkommen aus aller Welt, sehr international aufgestellt.
+[00:04:38-5 @ritaadrian] Und Mitglied des Instituts sind an Universitäten im Berliner Raum angegliedert.
+[00:04:46-3 @ritaadrian] Ich bin an der freien Universität angegliedert.
+[00:04:50-3 @ritaadrian] Es gibt Leute, die an der TU, Humboldt sind viele angegliedert, das ist aus der Geschichte, Historie des Instituts auch ist da ein Schwerpunkt,
+[00:04:59-5 @ritaadrian] aber auch Potsdam, es gibt auch Professuren in Potsdam.
+[00:05:03-7 @ritaadrian] Also wir decken eigentlich den Berlin-Brandburger Raum in der Lehre auch ab.
+[00:05:09-6 @ritaadrian] Das heißt, wir bringen unser Wissen dann auch in die Universitäten rein.
+[00:05:15-5 @timpritlove] Ja, ist so quasi so ein Kompetenzzentrum für eine ganze Reihe von Universitäten.
+[00:05:21-3 @ritaadrian] Ja und zunehmend macht Leibniz ja auch Initiativen, das Leibniz goes Campus, dass da eine starke, auch von der Ebene auf Leibniz-Gemeinschaft Initiativen bestehen,
+[00:05:38-4 @ritaadrian] dass man gemeinsame Infrastrukturen nutzt und wir bauen zurzeit ein Institut, wo verschiedene Leibniz-Institute am FU Campus dann mit FU Mitarbeitern in einem Gebäude sein werden.
+[00:05:56-9 @ritaadrian] Und das ist ein Schwerpunkt zur Biodiversität.
+[00:06:00-3 @timpritlove] Also nicht nur Gewässer, sondern alles was sozusagen dazugehört.
+[00:06:01-5 @ritaadrian] Nein, das ist dann alles.
+[00:06:02-6 @ritaadrian] Also das ist natürlich eine Initiation oder ein Bestreben von Leibniz oder Helmholtz, alle möglichen außeruniversitären Institutionen auch mit den Universitäten zusammenzuarbeiten.
+[00:06:19-0 @ritaadrian] Schwerpunkt ist wirklich auch die Lehre, da finde ich, und die Ausbildung von Doktoranden, da sind wir schon auch sehr stark.
+[00:06:29-8 @ritaadrian] Da haben wir gute Programme auch für Doktoranden.
+[00:06:34-9 @ritaadrian] Das geht von Statistik über wie schreibe ich ein Manuskript über wie präsentiere ich gut.
+[00:06:42-1 @ritaadrian] Da gibt es ganz viele Angebote, die wir bieten neben der wissenschaftlichen Arbeit alleine.
+[00:06:51-7 @timpritlove] Vielleicht dann nochmal einen Blick so auf Ihren Werdegang.
+[00:06:55-2 @timpritlove] Sie sind ja Diplombiologin, wenn ich das richtig erinnere.
+[00:07:01-4 @timpritlove] War das auch so eine Selbstverständlichkeit so einen wissenschaftlichen Weg einzuschreiten für Sie oder verstehen Sie sich selber so als Quereinsteiger
+[00:07:10-6 @timpritlove] und eigentlich wollten Sie was mit Holz machen?
+[00:07:13-0 @ritaadrian] Nein, als Quereinsteigerin sehe ich mich eigentlich nicht.
+[00:07:17-9 @ritaadrian] Also ich habe schon aus Interesse Biologie studiert, aber natürlich in der Zeit war das auch nicht so, da waren wir einfach nicht so im Fokus,
+[00:07:29-5 @ritaadrian] dass das mal das ist, womit man sein Geld verdient.
+[00:07:32-7 @ritaadrian] Das hat man irgendwie, da war man insgesamt naiver oder offener oder auch nicht so fokussiert auf den Job danach, wie das heute manchmal doch stärker ist.
+[00:07:44-3 @ritaadrian] Also insofern bin ich da eigentlich sehr froh, dass ich in einer anderen Zeit in die Wissenschaft reingekommen bin, wo das aus Interesse passiert ist.
+[00:07:52-3 @timpritlove] Welche Zeit war diese andere Zeit?
+[00:07:54-3 @ritaadrian] Uh das ist lange her.
+[00:07:56-7 @ritaadrian] Das sind die führen 80er Jahre.
+[00:08:00-4 @ritaadrian] Und das war ein kleines Zeitfenster, wo die Universitäten geöffnet wurden für Leute auch aus nicht akademischen Haushalten.
+[00:08:14-4 @ritaadrian] Und ich habe dann Biologie an sich studiert, ohne dass ich jetzt wusste, ich interessiere mich besonders für dieses oder jenes.
+[00:08:22-5 @ritaadrian] Habe dann eine Diplomarbeit gemacht, was schon was mit Seen zu tun hat, dem Phosphorkreislauf von Seen.
+[00:08:29-4 @ritaadrian] Habe mich dann sehr bewusst für eine Promotion entschieden, habe da schon überlegt, ob ich in der Wissenschaft dann auch bleiben will
+[00:08:40-8 @ritaadrian] und das war dann eigentlich ziemlich schnell klar, dass ich das möchte.
+[00:08:45-6 @ritaadrian] Habe dann eine Doktorarbeit gemacht.
+[00:08:47-5 @ritaadrian] Damals war ich eine der ersten NAFÖG Stipendiaten.
+[00:08:51-7 @timpritlove] NAFÖG?
+[00:08:53-1 @ritaadrian] Das ist ein Nachwuchsförderungsgesetz, da war ich eine der ersten, die das gekriegt haben.
+[00:08:58-9 @timpritlove] Ja.
+[00:08:59-6 @ritaadrian] Das waren damals zwei Jahre und da war ich ganz dankbar, dass ich zwei Jahre Promotionsunterstützung hatte.
+[00:09:07-7 @ritaadrian] Ja und dann hat man promoviert über Nahrungsnetzinteraktion von Kopopoden, so Krebse, ziemlich abgehoben.
+[00:09:17-7 @ritaadrian] In der Zeit haben alle mit Daphnien gearbeitet und da habe ich gedacht, nein da kannst du eigentlich nicht mitschwimmen, da musst du was anderes machen.
+[00:09:26-6 @ritaadrian] Und dann ganz klassisch, danach war es eigentlich wirklich klar, dass ich determiniert für die Wissenschaft brenne
+[00:09:32-2 @ritaadrian] und habe dann ganz klassisch zwei Jahre Postdoc gemacht in den USA über die DFG finanziert, Deutsche Forschungsgemeinschaft
+[00:09:41-1 @ritaadrian] und das war ein Sprungbrett wirklich, das war enorm wichtig für die Sicht auf die Wissenschaft für meinen auch zukünftigen Weg.
+[00:09:54-1 @timpritlove] Was hat sich da an der Sicht denn geändert?
+[00:09:56-1 @ritaadrian] Das ist erst mal, dass man ein anderes System kennenlernt, dass man mal rausgegangen ist.
+[00:10:04-7 @ritaadrian] Auch dass es ein Zeitraum von zwei Jahren war.
+[00:10:08-0 @ritaadrian] Und ich habe unheimlich ein gutes Netzwerk dort aufbauen können.
+[00:10:13-6 @ritaadrian] Also ich war auch in einem sehr guten Institut, das war in Madison das Center for Limnology, ist heute auch noch ein wirklich top Institut,
+[00:10:23-6 @ritaadrian] was sich mit Seen und im weitesten Sinne Süßwasserökologie befasst.
+[00:10:28-9 @ritaadrian] Das waren vier Seniors, war ein relativ überschaubares Institut, eine gute Struktur von Postdocs.
+[00:10:38-0 @ritaadrian] Ich hatte vorher mir über die USA verteilt fünf-sechs Stationen angeguckt, und habe mich dann für Madison entschieden, auch unter anderem, weil die eine gute Postdoc-Struktur hatten.
+[00:10:50-1 @ritaadrian] Da dachte ich, da kannst du, auf der Ebene ist die Interaktion groß und wenn da gute Leute sitzen, da kann man dann…
+[00:11:00-9 @timpritlove] Was heißt denn, die Struktur war anders?
+[00:11:02-7 @ritaadrian] Nein, die Struktur, da waren eben, das waren vier Profs.
+[00:11:09-1 @timpritlove] Also reden wir jetzt von der individuellen Qualität dieser Postdocs, die dort waren oder wie das organisiert war?
+[00:11:14-2 @ritaadrian] Beides, dass da an der Universität war manchmal oder die Institute, die ich angeguckt habe, da war eine starke Doktorandenebene,
+[00:11:23-2 @ritaadrian] aber da dachte ich, gut da bist du ja jetzt irgendwie ein bisschen raus.
+[00:11:28-2 @ritaadrian] Das ist ja nicht so, dass man von denen nichts lernen kann, aber diese Ebene, die starke Ebene, wo ich dann selber auch agiert habe, dass die stark war in Anzahl,
+[00:11:39-9 @ritaadrian] aber auch in wissenschaftlichem Potenzial, das hat sich da manifestiert, dass man morgens da reingekommen ist und sofort in ein wissenschaftliches Gespräch verwickelt war.
+[00:11:53-0 @ritaadrian] Und das ist eine Kultur, die die Amerikaner ganz stark haben und die mir am Anfang Herzklopfen verursacht hat, und ich dachte,
+[00:12:04-8 @ritaadrian] lass mich erst mal in mein Büro gehen.
+[00:12:07-1 @timpritlove] Erst mal Kaffee trinken.
+[00:12:07-4 @ritaadrian] Erst mal Kaffee trinken und dann kann ich vielleicht irgendwann mal über Wissenschaft.
+[00:12:11-6 @ritaadrian] Aber dieses Mitteilen des Talk Science, das habe ich da erlebt und kennengelernt und das ist wirklich ein kultureller Unterschied, der heute auch immer noch ist,
+[00:12:27-7 @ritaadrian] dass wir das in Deutschland nicht so in der Form machen.
+[00:12:31-0 @timpritlove] Und wie läuft es hier?
+[00:12:33-5 @ritaadrian] Hier am Institut, ja das ist, also die Kommunikation mit Kollegen ist natürlich gegeben, das kann man natürlich machen,
+[00:12:46-3 @ritaadrian] die Kaffeemaschine, die berühmte Kaffeemaschine ist ganz außergewöhnlich wichtig, dass man sich da auch ganz ohne Plan trifft.
+[00:12:56-8 @ritaadrian] Hier ist es sehr, dass die einzelnen Gruppen Gruppenseminare haben, Gruppenmeetings wöchentlich, zweiwöchentlich.
+[00:13:08-1 @ritaadrian] Ich mache das wöchentlich mit meiner Gruppe.
+[00:13:09-6 @ritaadrian] Und da findet der intensive wissenschaftliche Austausch in diesen Gruppensitzungen statt.
+[00:13:17-0 @ritaadrian] Über die Disziplinen hinaus, ja ist auch eine Zeitfrage, wir haben aber ein jährliches Wissenschafts-Retreat, wo alle Wissenschaftler des Instituts eingeladen werden,
+[00:13:32-2 @ritaadrian] wo wir anderthalb Tage, in diesem Jahr ist es im November in Zeuten, in ein großes Hotel gehen und da uns Themen vornehmen
+[00:13:41-4 @ritaadrian] und da praktisch den Input zu strategischen Fragen, was auch immer, den Input von allen dann auch bekommen wollen.
+[00:13:56-2 @ritaadrian] Und dann aber auch ein Forum, das ist eben ein Forum, wo ich auch mal mit den Fischern oder den Mikrobiologen oder den Hydrologen auch mal unkompliziert spreche.
+[00:14:06-9 @ritaadrian] Man läuft sich nämlich nicht immer jeden Tag über den Weg.
+[00:14:12-2 @timpritlove] Gut. Dann leiten wir doch mal ein bisschen über zu dem, womit Sie sich jetzt hier auch konkret beschäftigen.
+[00:14:21-6 @timpritlove] Und ich habe es ja eingangs schon erwähnt und kommt ja jetzt hier auch deutlich heraus, der Binnensee liegt hier im Fokus,
+[00:14:28-0 @timpritlove] nicht nur weil er hier direkt vor der Tür liegt, sondern weil das halt einfach hier das zentrale Thema ist für Sie.
+[00:14:36-3 @timpritlove] Ich denke so, man hat so bestenfalls eine romantische Vorstellung davon, wie so ein See funktioniert.
+[00:14:43-8 @timpritlove] Ein See liegt halt vor allem, das ist das, was man weiß und da hört es dann meistens auch schon auf und man macht sich noch vielleicht über die Badequalität Gedanken,
+[00:14:54-9 @timpritlove] aber den See als eigenes Ökosystem wahrzunehmen, gelingt sicherlich den wenigsten.
+[00:15:01-7 @timpritlove] Was sollte man denn verstanden haben von dem Ökosystem Binnensee bzw. was weiß man denn jetzt überhaupt vielleicht erst seit kürzerem darüber,
+[00:15:12-6 @timpritlove] wie so ein See funktioniert über das Jahr und was er für eine Rolle spielt auch für uns?
+[00:15:19-2 @ritaadrian] Ja.
+[00:15:22-3 @ritaadrian] Gewünscht ist natürlich erst mal, dass man ein möglicherweise als Qualitäten einen klaren See vor sich hat.
+[00:15:30-9 @ritaadrian] Und das heißt, klarer See heißt erst mal, dass er nicht so sehr stark nährstoffbelastet ist.
+[00:15:37-8 @ritaadrian] Und unsere Seen sind ja sehr stark anthropogen überformt durch einen Träger von Nährstoffen aus der Landwirtschaft.
+[00:15:46-7 @ritaadrian] Und die Quelle von Nährstoffen ist überwiegend Landnutzungsveränderung.
+[00:15:52-4 @ritaadrian] Generell der saisonale, die Seen machen ja wie in der terrestrischen Umwelt eine saisonale Entwicklung durch.
+[00:16:02-2 @ritaadrian] Im Winter hat man kalte Wassertemperaturen, Eis und da kommen wir dann auch für den Klimawandel nochmal drauf,
+[00:16:11-8 @ritaadrian] dass das wirklich sich verändert hat.
+[00:16:15-3 @ritaadrian] Dann geht es los mit der Frühjahrsentwicklung, da entwickelt sich eine erste Algenblüte, die reagiert auf den starken Temperaturanstieg
+[00:16:27-2 @ritaadrian] und die starken Veränderung in der Tageslänge und der Lichtmenge.
+[00:16:34-5 @ritaadrian] Und dann geht es in das klassische Klarwasserstadium.
+[00:16:39-9 @ritaadrian] Algenbiomasse wird aufgebaut, Zooplankta entwickeln sich, wird runter gefressen, der See wird für zwei-drei Wochen klar
+[00:16:48-2 @ritaadrian] und dann geht es wieder los in die Sommerentwicklung.
+[00:16:50-0 @ritaadrian] Und diese typischen saisonalen Muster, die treten eigentlich in einem See jedes Jahr auf, mehr oder weniger ausgeprägt
+[00:17:03-6 @ritaadrian] und das hat sich auch nicht sehr groß verändert.
+[00:17:09-3 @ritaadrian] Nur die Zeitpunkte, wann was losgeht und wie lang was andauert, das ändert sich mit dem Klimawandel, da können wir auch nachher nochmal spezieller.
+[00:17:20-2 @timpritlove] Verstehe ich Sie richtig, diese Vorstellung, wenn ein See klar ist, ist das gut, das bestätigen Sie sozusagen oder?
+[00:17:28-2 @ritaadrian] Ja, würde ich erst mal, kann man bestätigen.
+[00:17:31-6 @timpritlove] Also heißt, dass so vor 500 Jahren alle Seen klar waren?
+[00:17:35-6 @ritaadrian] Ja, die meisten waren klar.
+[00:17:38-5 @ritaadrian] Aber zum Beispiel der Müggelsee, es gibt natürlich auch Seen, die von Natur aus produktiver sind.
+[00:17:44-3 @ritaadrian] Die sind in einem Einzugsgebiet, was insgesamt schon nährstoffreicher ist.
+[00:17:48-3 @ritaadrian] Der Müggelsee ist so einer, der ist auch schon von Natur aus immer …
+[00:17:53-7 @timpritlove] Hat das was mit großen Zuflüssen zu tun?
+[00:17:55-7 @ritaadrian] Ja und das Einzugsgebiet, wie das beschaffen ist.
+[00:18:02-3 @ritaadrian] Ob das von Wald umgeben ist, wenn das von Wald umgeben ist, dann ist das eher nährstoffärmer das Einzugsgebiet und dann sind die Stoffeinträge auch weniger.
+[00:18:11-2 @ritaadrian] Dann sind so Systeme einfach von Natur aus weniger nährstoffreich.
+[00:18:16-9 @ritaadrian] Für die Produktivität ist ganz ausschlagend die Größe.
+[00:18:21-7 @ritaadrian] Je größer ein See ist, desto länger braucht es natürlich den zu eutrophieren.
+[00:18:26-7 @timpritlove] Das heißt, eutrophieren?
+[00:18:28-9 @ritaadrian] Eutrophieren heißt, so mit Nährstoffen von außen zu belasten, dass es sich wirklich sehr stark in der Produktivität, in der Entwicklung von Algenblüten auswirkt.
+[00:18:39-1 @ritaadrian] Also tiefe große Seen sind in der Regel nicht sehr produktiv.
+[00:18:46-0 @timpritlove] Also auch eher länger klar.
+[00:18:47-8 @ritaadrian] Ja.
+[00:18:48-0 @timpritlove] Selbst wenn man ihm zusetzt.
+[00:18:49-2 @ritaadrian] Länger klar, ja.
+[00:18:52-4 @ritaadrian] Also ich meine, der Müggelsee ist ja auch ein toller See.
+[00:18:59-7 @ritaadrian] Bildet Algenblüten aus, und das heißt aber nicht, dass er jetzt nicht auch für Freizeitgestaltung genutzt werden kann und er wird ja auch genutzt.
+[00:19:10-3 @ritaadrian] Also das ist ja auch immer so ein bisschen relativ, was man gewöhnt ist.
+[00:19:14-6 @ritaadrian] Ich habe vor einiger Zeit ein Sabbatjahr gemacht am Lake Tahoe 2000 Meter hoch und das ist ein klarer See.
+[00:19:24-3 @ritaadrian] Das ist, nach allen Maßstäben haben wir so was in Europa fast nicht mehr.
+[00:19:29-6 @timpritlove] Also in Nevada?
+[00:19:32-1 @ritaadrian] In Nevada, ist Nevada ja.
+[00:19:34-5 @ritaadrian] Also insofern ist das auch immer von dem Betrachter der Öffentlichkeit oder dem Nutzer natürlich auch relativ.
+[00:19:44-7 @timpritlove] Der See spielt natürlich auch noch nicht nur jetzt weil man Boote drauf fahren kann für die Menschen eine Rolle,
+[00:19:50-4 @timpritlove] sondern trägt ja auch zum lokalen urbanen Klima bei, insofern es sich jetzt um einen See handelt, der relativ nah …
+[00:19:59-8 @timpritlove] Also Köpenick ist ja nun ein sehr grüner Bezirk Berlins, nichts desto trotz urban geprägt, von daher dürfte ja der See hier auch eine große Rolle dabei spielen,
+[00:20:11-2 @timpritlove] wie sich so die Temperaturen auch in der Stadt verhalten.
+[00:20:15-1 @timpritlove] Also ich nehme an, der kühlt quasi mit, sonst hat man ja so in der City von Berlin natürlich so nicht.
+[00:20:22-5 @timpritlove] Und wird sicherlich auch für die Trinkwasserversorgung eine Rolle spielen oder?
+[00:20:26-2 @ritaadrian] Ja, der Müggelsee ist hier für diesen, wir haben ja hier das Wasserwerk ganz nah bei.
+[00:20:32-2 @ritaadrian] Am Ufer des Sees sind Trinkwasserbrunnen, da wird Trinkwasser abgezogen.
+[00:20:37-6 @ritaadrian] Also der spielt eine ganz wichtige Rolle für die Trinkwasserversorgung hier im Berliner Raum, ja.
+[00:20:45-6 @timpritlove] Das heißt, alleine deshalb ist es schon ganz wertvoll, mal ganz genau hinzuschauen, wie es denn eigentlich jetzt um diesen See steht.
+[00:20:52-2 @timpritlove] Seit wann beobachtet denn das Institut diesen See?
+[00:20:56-7 @ritaadrian] Das Vorgängerinstitut noch vor der Wende hat Zeitreihen angefangen in den frühen 70er Jahren.
+[00:21:06-1 @ritaadrian] Das heißt, wir blicken jetzt zurück auf fast 40 Jahre Zeitreihe.
+[00:21:13-6 @ritaadrian] Und das ist für ein Seeökosystem ein enormer Zeitraum, weil wir auch auf sehr kleinskaligen zeitlichen Skalen Proben nehmen, wöchentlich.
+[00:21:29-5 @ritaadrian] Das ist eine der besten Zeitreihen in der ganzen Welt.
+[00:21:34-3 @ritaadrian] Und wir machen das Phytoplankton, das Zooplankton untersuchen wir, den ganzen Chemismus, die Nährstoffe und Temperatur, Sauerstoff.
+[00:21:47-6 @ritaadrian] Also das ist, was man so einen Datenschatz nennen kann, mit dem wir jetzt arbeiten und statische Modellierung betreiben.
+[00:21:57-8 @ritaadrian] Und diese langen Zeitreihen, die Langzeitforschung ist ein großer Schwerpunkt im Institut, wo ich auch verantwortlich für zeichne unter anderem.
+[00:22:08-1 @ritaadrian] Wir haben ja auch nicht nur den Müggelsee im Programm, sondern auch den Stechlinsee.
+[00:22:13-0 @ritaadrian] Das ist zum Beispiel ein viel nährstoffärmerer See als der Müggelsee.
+[00:22:18-0 @ritaadrian] Insofern haben wir da schon Vergleichsmöglichkeiten.
+[00:22:23-9 @ritaadrian] Und diese Langzeitforschung das ist natürlich der einzige Weg, Trends zu bestimmen.
+[00:22:32-0 @ritaadrian] Denn die Langzeitforschung ist das Ergebnis von, was man misst, ist das Ergebnis der komplexen Zusammenhänge im System, die wir ja manchmal gar nicht verstehen,
+[00:22:43-8 @ritaadrian] das ist das, was wir heute messen oder auch in der Vergangenheit gemessen haben.
+[00:22:51-3 @ritaadrian] Und was Temperatur anbelangt sehen wir jetzt, dass die Seen wärmer geworden sind, global 0,34 Grad Celsius in die Sommertemperaturen.
+[00:23:01-6 @ritaadrian] Das ist enorm, der Müggelsee hat einen Wärmungstrend der letzten 40 ungefähr Jahre von 2 Grad Celsius.
+[00:23:10-5 @timpritlove] Vielleicht nochmal, also es wird jetzt wöchentlich gemessen.
+[00:23:12-4 @ritaadrian] Ja.
+[00:23:13-3 @timpritlove] Was wird gemessen?
+[00:23:14-0 @timpritlove] Es wird gemessen die Temperatur, aber sicherlich nicht auch nur an einer einzigen Stelle.
+[00:23:18-2 @ritaadrian] Nein.
+[00:23:19-6 @ritaadrian] Also das Beprobungsprogramm ist, dass wir fünf Stellen im See wöchentlich anfahren, die beproben, über die Tiefe integriert
+[00:23:32-9 @ritaadrian] und diese fünf Stellen dann nochmal zu einer Probe integrieren.
+[00:23:37-8 @ritaadrian] Das heißt, wir haben …
+[00:23:39-1 @timpritlove] Das sind jetzt nicht nur Uferstellen, aber auch.
+[00:23:42-1 @ritaadrian] Ja.
+[00:23:42-6 @timpritlove] Also Ufer, im See.
+[00:23:43-1 @ritaadrian] Ufer, Mitte, Spreenähe.
+[00:23:45-4 @timpritlove] Und was heißt auf die Tiefe integriert?
+[00:23:48-2 @ritaadrian] Dass man von null von der Oberfläche beprobt bis in Meterstufen oder Halbmeterstufen bis zum Boden.
+[00:23:55-6 @timpritlove] Okay, also es sind nicht nur für Proben, sondern erst mal fünf Orte, an denen dann eine Vielzahl von Proben genommen wird in so tief wie es geht.
+[00:24:01-3 @ritaadrian] Genau, die ganze Wassersäule praktisch abbildet.
+[00:24:03-5 @timpritlove] Okay, wie tief ist der See?
+[00:24:06-9 @ritaadrian] Der ist an der tiefsten Stelle acht Meter, ist ein Flachsee und hat eine mittlere Tiefe von gut vier Meter.
+[00:24:12-1 @ritaadrian] Das heißt, es ist ein typischer windexponierter Flachsee.
+[00:24:17-3 @ritaadrian] Und diese fünf verschiedenen Probeentnahmestellen da will man jetzt, weil das ist ja nicht immer gleich verteilt,
+[00:24:26-1 @ritaadrian] selbst in so einem kleinen Gewässer wie dem Müggelsee gibt es da durchaus Unterschiede, die nicht immer groß sind,
+[00:24:33-2 @ritaadrian] aber die sind gegeben und das gleicht man damit aus.
+[00:24:36-9 @ritaadrian] Das ist in großen Seen natürlich viel ausgeprägter.
+[00:24:45-1 @timpritlove] Ja, also kleiner See, Müggelsee, also klein ist der ja gerade nicht so, 7,5 Quadratkilometer.
+[00:24:51-4 @ritaadrian] Ja, aber …
+[00:24:52-2 @timpritlove] Ist kein Bodensee.
+[00:24:53-6 @ritaadrian] Für den ist es schon eher auch ein kleiner See.
+[00:24:57-2 @ritaadrian] Ja, was messen wir?
+[00:24:57-9 @ritaadrian] Wir messen mal von unten angefangen die Temperatur, Sauerstoff, Nährstoffe.
+[00:25:05-0 @ritaadrian] Und Nährstoffe heißt: Phosphor, Stickstoff, Kohlenstoff, Silizium für die ??? als ein wesentlicher Nährstoff.
+[00:25:16-1 @ritaadrian] Dann gehen wir in die biologische Ebene, das Phytoplankton, die Algen, das Zooplankton, die Hauptprädatoren des Phytoplanktons.
+[00:25:24-4 @timpritlove] Was heißt das Prädatoren?
+[00:25:26-1 @ritaadrian] Fraßfeinde.
+[00:25:33-0 @ritaadrian] Und wir kartieren die Makrophyten, das machen wir einmal alle zwei Jahre.
+[00:25:42-7 @timpritlove] Da muss ich auch nochmal nachfragen, was die Makrophyten sind.
+[00:25:46-6 @ritaadrian] Die Makrophyten, sorry.
+[00:25:47-3 @timpritlove] Kein Problem.
+[00:25:47-4 @ritaadrian] Das ist der Uferbewuchs von Pflanzen, also Schilfgürtel, aber auch Pflanzen, die nach außen wachsen und Makrophyten, die jetzt unterhalb der Wasserfläche bleiben,
+[00:26:02-5 @ritaadrian] aber im Uferbereich sind.
+[00:26:05-5 @ritaadrian] Und ein guter Makrophytengürtel ist auch ein Qualitäts…. Sie hatten mich ja anfangs nach Qualität, was ein guter See, ein guter See hat eigentlich auch eine gut strukturierte Uferzone,
+[00:26:20-2 @ritaadrian] die Habitat oder Lebensraum für viele Fische oder für …
+[00:26:27-1 @timpritlove] Vögel auch.
+[00:26:28-8 @ritaadrian] Ja, bietet.
+[00:26:30-9 @ritaadrian] Und wir haben eine automatische Messstation.
+[00:26:35-1 @ritaadrian] Seit vielen Jahren betreiben wir die, wo wir im See, das ist so 400 Meter im See vom Ufer entfernt, von dem anderen Grundstück,
+[00:26:45-8 @ritaadrian] und da messen wir im Minutentakt, also High Frequenzy Temperatur, Sauerstoff, pH, Leitfähigkeit, Fluoreszenz als Marker für Algenbiomasse.
+[00:27:01-2 @ritaadrian] Und das erlaubt uns diese zeitlich hoch aufgelösten Daten so Dynamik auf wirklich kleinskalige Dynamik anzugucken.
+[00:27:13-8 @ritaadrian] Also was ist zum Beispiel, welchen Effekt hat ein Sturm auf ein System, der nicht eine Woche dauert.
+[00:27:21-8 @ritaadrian] Der kann mitten in unserer wöchentlichen Probenahme stattfinden und den würden wir dann verpassen.
+[00:27:27-9 @ritaadrian] Und mit diesen kontinuierlichen Messreihen können wir selbst so episodische Ereignisse, die nur so eine Stunde oder vier Stunden oder einen Tag andauern, erfassen.
+[00:27:41-8 @ritaadrian] Und diese Station ist Teil eines globalen Netzwerkes, das Heißt GLEON, das steht für Global Lake Ecological Observatory Network.
+[00:27:55-0 @ritaadrian] Und GLEON das ist ein Zusammenschluss von Stationen, das ist in Amerika initiiert worden in einer Gruppe von amerikanischen Wissenschaftlern,
+[00:28:11-5 @ritaadrian] die gesagt haben, wir brauchen mehr von diesen Stationen, die sind im Vergleich zu Phytoplanktonanalysen, das ist sehr kostspielig,
+[00:28:24-7 @ritaadrian] da braucht man taxonomische Kenntnisse, da braucht man viel Personal, das ist sehr sehr zeitaufwendig und teuer.
+[00:28:31-9 @ritaadrian] Also das Langzeitprogramm, was wir hier stemmen, das ist teuer.
+[00:28:37-1 @ritaadrian] Und diese Stationen sind natürlich, die brauchen auch Personal, aber das ist doch nicht so personalintensiv.
+[00:28:49-0 @ritaadrian] Und weltweit Institutionen wie Universitäten, Forschungsinstitute, wie wir das sind, betreiben mittlerweile diese Stationen.
+[00:28:57-0 @ritaadrian] Wo eben insito über Temperatur, Sauerstoff, pH, Fluoreszenz gemessen wird.
+[00:29:04-2 @timpritlove] Ist das eine schwimmende Insel oder ist die irgendwie anders?
+[00:29:08-3 @ritaadrian] Ja, das ist schade, das können Sie auch gern mal bei anderer Gelegenheit sich mal angucken.
+[00:29:15-4 @timpritlove] Ja.
+[00:29:16-1 @ritaadrian] Das ist eine Plattform, das ist wie ein Katamaran bei uns und darauf ist eine kleine Hütte und da haben wir auch eine Wetterstation drauf,
+[00:29:28-1 @ritaadrian] die Wind, Temperatur, Niederschläge, Windrichtung, Sonnenscheindauer, also die klassischen meteorologischen Parameter erfasst.
+[00:29:43-5 @ritaadrian] Ja und die ist halt da positioniert und bietet auch Möglichkeiten, weil ein kleiner Container drauf ist, für Experimente, wenn man da mal …
+[00:29:55-7 @ritaadrian] Wir hatten mal ein großes EU-Projekt, wo wir an diese Station große experimentelle Anlagen angekoppelt haben.
+[00:30:07-6 @ritaadrian] Also die bietet uns viel Raum auch für experimentelle Ansätze, wenn wir da die Finanzierung oder auch Projekte dafür haben.
+[00:30:17-6 @timpritlove] Wenn ich das richtig verstanden habe, an fünf Orten wird einmal die Woche abgenommen und wenn ich das mal hochrechne, sind das so irgendwie 25-30 Proben,
+[00:30:27-2 @timpritlove] die dann dabei abfallen, die dann quasi in der Folge alle hier im Labor auf die entsprechend genannten Dinge hin untersucht werden,
+[00:30:36-6 @timpritlove] also abgesehen von Temperatur, die man natürlich nicht hier reintragen kann, aber dann halt so Sauerstoff, Nährstoffe etc., das wird dann halt hier alles kartiert.
+[00:30:43-0 @timpritlove] Wenn schlechtes Wetter gibt, fährt man dann mal einen Tag später raus oder wird hier bei Wind und Wetter immer durchgehalten
+[00:30:48-7 @timpritlove] und es muss wirklich immer genau am Montag sein?
+[00:30:52-3 @ritaadrian] Nein, wir haben ja auch Feiertage, die dann mal auf einen Montag fallen, dann wird auch dienstags rausgefahren.
+[00:30:59-6 @ritaadrian] Und bei Wind und Wetter passen wir natürlich auch auf, wir hatten das gerade jetzt, da war das der letzte, ich glaube, der vorletzte Montag war zu stürmisch,
+[00:31:08-1 @ritaadrian] dann ist dienstags rausgefahren.
+[00:31:08-9 @timpritlove] Okay, also ist jetzt für so eine Langzeitreihe jetzt nicht so dramatisch, wenn man da mal einen Tag später kommt?
+[00:31:14-3 @ritaadrian] Ja, man will natürlich immer was man so equidistante Abstände haben, also gleiche Abstände, ist für die statistische Modellierung wichtig, aber das …
+[00:31:29-2 @timpritlove] Über 40 Jahre tritt sich das dann fest...
+[00:31:30-3 @ritaadrian] Ja, das ist jetzt nicht so.
+[00:31:33-8 @timpritlove] Genau, und das automatisierte System nimmt dann halt minütlich Daten und nochmal ganz andere Daten zusätzlich.
+[00:31:40-7 @timpritlove] Abgesehen davon, dass man jetzt vielleicht dadurch ein besseres Verständnis hat für, was passiert in Extremsituationen,
+[00:31:45-4 @timpritlove] hat das auch zu einem besseren Verständnis für den normalen Zyklus des Sees geführt oder sind im Prinzip alle Vorgänge so träge,
+[00:31:52-7 @timpritlove] wie man sich das vielleicht jetzt auch vorstellen mag, dass dann so eine minütliche Aufschlüsselung von Daten jetzt auch erst mal keinen Erkenntnisgewinn bringt?
+[00:32:01-0 @ritaadrian] Ich meine, die ursprüngliche Motivation jetzt der Langzeitforschung war ja nicht unbedingt Klimafolgenforschung, sondern wirklich …
+[00:32:09-8 @timpritlove] … zu verstehen, wie funktioniert der See.
+[00:32:11-9 @ritaadrian] … wie funktioniert so ein Ökosystem und auch, welchen Einfluss hat so ein Gedächtnis, wie pflanzen sich Situationen von einem Jahr zum anderen fort.
+[00:32:23-8 @ritaadrian] Also das ist ganz generell von Interesse.
+[00:32:27-8 @ritaadrian] Wir machen auch mit den Daten nicht nur Klimafolgenforschung, sondern wir machen Nahrungsnetzmodellierung, Biodiversitätsforschung.
+[00:32:37-8 @ritaadrian] Diese zeitlich hoch aufgelösten Daten helfen uns schon, die Dynamik besser zu verstehen.
+[00:32:45-1 @ritaadrian] Ich hatte ja anfangs gesagt, die großen saisonalen Muster, also Eis, Frühjahrsentwicklung, Sommerentwicklung, Herbstentwicklung, dann wieder in die Winter,
+[00:32:54-0 @ritaadrian] diese Muster treten eigentlich immer wieder auf.
+[00:32:58-3 @ritaadrian] Und die erfassen wir auch mit unserer wöchentlichen Auflösung ganz gut, aber die Dynamik dazwischen ist enorm.
+[00:33:06-9 @ritaadrian] Innerhalb eines Tages.
+[00:33:10-7 @ritaadrian] Die höchsten Unterschiede in der Wassertemperatur haben wir auf unter einem Tag-Niveau.
+[00:33:22-6 @ritaadrian] Also das sind dann keine großen Unterschiede, aber das können manchmal, weil so ein See ist ja jetzt erst mal durchmischt,
+[00:33:31-3 @ritaadrian] aber da bewegen sich natürlich auch Wasserkörper von einem Ufer zum anderen und in die Tiefe.
+[00:33:36-6 @ritaadrian] Das heißt, an einer Stelle, wenn man misst, wenn man einen Wasserkörper, einen tieferen Wasserkörper misst, kann man in einem Punkt einen Unterschied von mehreren Grad Celsius haben.
+[00:33:50-4 @ritaadrian] Wo man anfangs denkt, oh, das ist ein Messfehler, nein, aber das sind dann schon so Wasserbewegungen, das hat auch einen Fachbegriff,
+[00:33:58-5 @ritaadrian] internal ???, wenn so Wasserkörper sich bewegen.
+[00:34:03-2 @ritaadrian] Ich habe ein interessantes Beispiel dafür, dass man als Limnologen denkt man immer, man muss immer an derselben Stelle, das war früher so ein Dogma,
+[00:34:13-5 @ritaadrian] man muss immer an derselben Stelle messen, aber man misst natürlich an derselben Stelle immer einen anderen Wasserkörper.
+[00:34:20-8 @ritaadrian] Das ist natürlich auch ein Grund, warum wir nicht nur an einer Stelle beproben, sondern den gesamten Wasserkörper über den See verteilt versuchen zu integrieren.
+[00:34:31-4 @timpritlove] Ich meine, ist ja wenig überraschend eigentlich, wenn man sich mal überlegt, so ein strahlender Sommertag, dann kommt da morgens so die Sonne hochgeschossen
+[00:34:37-1 @timpritlove] und man kennt das ja selber, wenn man am Strand rumhängt und dann so, boah ist das heiß, dass das jetzt keine Auswirkung auf so einen See hat, kann man sich ja eigentlich gar nicht vorstellen.
+[00:34:45-6 @timpritlove] Und da muss ja auch der See quasi mit umgehen bzw. könnte man ja erwarten, dass das dann eben ab einer bestimmten Intensität dann unter Umständen halt auch so eine Kettenreaktion auslöst,
+[00:34:56-1 @timpritlove] die was weiß ich für Effekte hat.
+[00:34:59-3 @ritaadrian] Ja, was wir in den jetzigen heißen Sommern wirklich erlebt haben, dass wir unsere Messtechnik anpassen mussten.
+[00:35:10-1 @ritaadrian] Unser Thermometer ging bis 30 Grad.
+[00:35:14-0 @ritaadrian] Und irgendwann hatten wir eine flache Linie und haben gesehen, oh wir müssen die Skala verändern.
+[00:35:22-9 @ritaadrian] Und das tritt dann kurzfristig auf, aber es tritt auf und das ist neu.
+[00:35:29-5 @ritaadrian] Das ist dann auch ein ganz klares Signal, dass der Klimawandel eingeschlagen hat, es wird wärmer und wir sehen das.
+[00:35:35-4 @timpritlove] Man hat jetzt auf einmal so ein Clipping sozusagen in den Kurven.
+[00:35:38-6 @ritaadrian] Genau, wir reagieren auch mit unsrer Messtechnik da drauf.
+[00:35:42-3 @timpritlove] Das ist ja auch im Audiobereich das schlimmste, was passieren kann, muss man vorbereitet sein.
+[00:35:50-3 @timpritlove] Dann richten wir unseren Blick doch nochmal jetzt auf diese Erkenntnisse, die Sie hier gewonnen haben.
+[00:35:55-6 @timpritlove] 40, was war das jetzt, Anfang der 70er Jahre, da sind wir ja schon fast bei 50 Jahren.
+[00:36:06-2 @timpritlove] Wenn man jetzt mal so auf den Müggelsee schaut und diese Daten, was kann man da rauslesen, was tut sich, was verändert sich?
+[00:36:14-8 @ritaadrian] Also was für den Müggelsee gilt, aber auch für Seen weltweit, ist, erst mal dieser Erwärmungstrend, den ich schon angesprochen habe.
+[00:36:24-1 @ritaadrian] Und ganz eng daran gekoppelt ist die Veränderung in der thermischen Struktur.
+[00:36:32-0 @ritaadrian] So Seen schichten sich jetzt länger.
+[00:36:34-2 @ritaadrian] Das heißt, im Frühjahr wird es warm, Lufttemperatur steigt, Strahlung steigt, der obere Wasserkörper erwärmt sich schneller als der untere.
+[00:36:42-4 @ritaadrian] Das heißt, warmes Wasser schwimmt oberhalb von dem tieferen kalten Wasser und das führt zu einem Trennen dieser beiden Wasserkörper.
+[00:36:54-5 @ritaadrian] Und diese Schichtung setzt früher ein, weil die Frühjahre wärmer geworden sind.
+[00:37:04-0 @ritaadrian] Und die hält im Spätsommer/Herbst länger an.
+[00:37:09-3 @ritaadrian] Das heißt, der Zeitraum, wo zwei Wasserkörper getrennt sind, verlängert sich.
+[00:37:17-4 @ritaadrian] Und das hat enorme Auswirkungen für den Stofftransport.
+[00:37:23-3 @ritaadrian] In einem produktiven See wie den Müggelsee führt das zu anaeroben Bedingungen im tiefen Wasser.
+[00:37:26-9 @timpritlove] Also wenig Sauerstoff.
+[00:37:28-1 @ritaadrian] Weil kein Sauerstoff, der über Photosynthese oben gebildet wird, mehr nach unten gelangt.
+[00:37:36-9 @ritaadrian] Und anaerobe Bedingungen sind erst mal als Lebensraum für viele Organismen dann nicht mehr geeignet.
+[00:37:45-7 @ritaadrian] Und sauerstofffreie Bedingungen in Sedimentnähe führt zu einer Rücklösung von im Sediment vorher gebundenen Nährstoffen
+[00:37:54-1 @ritaadrian] Das heißt, der Klimawandel, die Verlängerung dieser Phase, ist praktisch eine interne Düngung von Systemen.
+[00:38:01-4 @ritaadrian] Da wird Phosphor, der vorher fest gebunden ist, weil es anaerob wird, freigesetzt.
+[00:38:07-8 @ritaadrian] Der bleibt natürlich erst mal in dem tiefen Wasser, aber sobald der See sich wieder mischt …
+[00:38:16-4 @timpritlove] … wird das quasi aufgewühlt.
+[00:38:17-3 @ritaadrian] … wird das nach oben und ist dann wieder für die Algen als Nährstoff verfügbar.
+[00:38:23-7 @ritaadrian] Das ist das Szenario in einem produktiven See, der so produktiv ist.
+[00:38:32-6 @ritaadrian] Warum werden die Seen im tiefen Wasser anoxisch, das liegt daran, dass organische Substanz, die oben gebildet wird, auch absedimentiert
+[00:38:41-3 @ritaadrian] und diese organische Substanz wird von Bakterien abgebaut und die verbrauchen den Sauerstoff, die machen das nur unter Sauerstoffbedingungen.
+[00:38:48-9 @ritaadrian] Das heißt, das ist der Mechanismus, der zur Sauerstofffreiheit führt.
+[00:38:55-6 @ritaadrian] In einem tiefen See, wie dem Bodensee oder Lake Tahoe, wir hatten den schon erwähnt, da haben wir dasselbe Phänomen,
+[00:39:04-6 @ritaadrian] die schichten sich im Sommer auch länger, also die Trennung von einem oberen Wasserkörper und einem tieferen Wasserkörper ist genauso, wie das in einem kleineren flacheren See ist.
+[00:39:16-5 @ritaadrian] In diesem nährstoffarmen See bedeutet das aber, dass die noch nährstofflimitierter werden.
+[00:39:26-1 @ritaadrian] Und das liegt daran, dass das untere Wasser, der untere kalte Wasserbereich, das ist in diesen tiefen Seen oftmals die einzige Nährstoffquelle.
+[00:39:39-7 @ritaadrian] Das heißt, wenn so ein See sich länger schichtet und diese Bereiche getrennt sind, dann sind die mit der Verlängerung der thermischen Schichtung länger von ihrem Nährstoffdepot aus der Tiefe getrennt.
+[00:39:52-0 @ritaadrian] Das heißt, diese Seen werden noch stärker nährstofflimitierend sein mit dem Klimawandel.
+[00:39:59-5 @ritaadrian] Also wir haben so eine Studie, die wir jetzt gerade veröffentlicht haben, gar nicht lange her, so ein schöner englischer Slogan „Blue lakes get blueer and green lakes get greener“.
+[00:40:15-7 @ritaadrian] Also wenn man schon produktiv ist, dann wird man produktiver, wenn ein See, der schon nährstofflimitiert ist, der kann praktisch noch stärker auch Nährstoffe …
+[00:40:24-8 @timpritlove] Also die grünen sind sozusagen die nährstofflimitierten?
+[00:40:27-0 @ritaadrian] Genau, das wäre so ein grüner Müggelsee, der wird noch produktiver und wir sehen ja auch für diese Seen die Zunahme von Cyanobakterien, das ist genauso dieser Kontext,
+[00:40:42-1 @ritaadrian] dass Cyanobakterien in diesen flacheren produktiveren Systemen zunehmen werden, weil die an hohe Temperaturen angepasst sind,
+[00:40:50-4 @ritaadrian] weil die, die diese Schichtungen mögen, an stabile Bedingungen angepasst sind.
+[00:40:57-1 @timpritlove] Die Cyanobakterien, da man im Volksmund als Blaualgen kennt?
+[00:41:01-5 @ritaadrian] Genau.
+[00:41:02-1 @timpritlove] Obwohl es keine Algen in dem Sinne sind.
+[00:41:05-7 @ritaadrian] Es sind Bakterien, die aber Photosynthese machen, deswegen werden sie eben auch als Blaualgen bezeichnet.
+[00:41:12-6 @ritaadrian] Und ja diese Wirkungskette ist halt ein indirekter Temperatureffekt über die Veränderung in der thermischen Struktur von Systemen.
+[00:41:25-5 @timpritlove] Nur dass ich das richtig verstehe, also ein gut funktionierender See zeichnet sich vor allem dadurch aus, dass eben der Austausch der Wasserschichten irgendwann zumindest gut in Wallung kommt über das Jahr?
+[00:41:39-5 @ritaadrian] Ja.
+[00:41:40-1 @timpritlove] Das ist wichtig, weil oben die ganze Photosynthese stattfindet durch die Algen primär.
+[00:41:49-0 @ritaadrian] Ja.
+[00:41:50-0 @timpritlove] Und damit halt Sauerstoff gebildet wird, der dann in Wasser gebunden ist, aber der natürlich auch woanders noch hinkommen muss und dazu muss es absinken.
+[00:41:55-9 @timpritlove] Und was genau hindert jetzt dieses Wasser mit dem Sauerstoff daran, so abzusinken wie es sein soll?
+[00:42:04-9 @ritaadrian] Diese thermische Schichtung, das ist ein Temperaturgradient, der da entsteht, zum Beispiel in 20, sagen wir mal, ein See ist 50 Meter tief,
+[00:42:20-9 @ritaadrian] in 20 Metern hat man einen Temperaturgradient von mehreren Grad Celsius, ein bis zwei oder drei Grad Celsius.
+[00:42:28-8 @ritaadrian] Und das bedeutet einen enormen Dichteunterschied.
+[00:42:31-2 @ritaadrian] Warmes Wasser ist weniger dicht, das schwimmt dann oben und das kalte Wasser ist dichter, schwimmt unten.
+[00:42:37-5 @ritaadrian] Und dieser Temperaturgradient ist wie eine Barriere, da findet kaum mehr Stofftransport dazwischen statt.
+[00:42:46-5 @timpritlove] Aber dieser Temperaturunterschied existiert doch immer, also es ist immer unten kälter.
+[00:42:49-7 @ritaadrian] Ja, das ist ein völlig normaler Prozess, nur der ist jetzt durch die Erwärmung hält dieser Zustand länger an.
+[00:42:59-5 @ritaadrian] Der setzt früher ein.
+[00:43:01-6 @timpritlove] Aber was bringt denn in einem gesunden See sozusagen den Austausch überhaupt noch in Gang, wenn die Temperaturunterschiede ja ohnehin immer so sind?
+[00:43:09-9 @timpritlove] Also wodurch wird das durchbrochen?
+[00:43:12-7 @timpritlove] Wodurch findet denn dieser Austausch trotzdem statt?
+[00:43:13-9 @ritaadrian] Innerhalb der Sommerstagnation, wenn er stabil geschichtet ist, nicht, dann bleibt das so.
+[00:43:18-5 @ritaadrian] Dann ist auch eine Nährstofflimitation in dem oberen Wasserkörper eigentlich in der Regel da irgendwann.
+[00:43:29-1 @ritaadrian] Nur wie gesagt, diese Situation wird durch den Klimawandel einfach verlängert.
+[00:43:34-9 @timpritlove] Okay, also das heißt, im Herbst und im Winter setzt es dann halt zwangsläufig irgendwann ein, weil es sich oben eben abkühlt.
+[00:43:39-4 @ritaadrian] Ja.
+[00:43:40-3 @timpritlove] Dann sind die Unterschiede nicht mehr so stark, und dann wird quasi der See mehr oder weniger über den Winter neu durchgerührt.
+[00:43:45-8 @ritaadrian] Ja, und Extremereignisse, die können eben auch dazu führen, dass diese Schichtung aufgebrochen wird und dann kriegt man so episodische Nährstoffpulse.
+[00:43:58-5 @ritaadrian] Und da haben wir im Stechlinsee ein schönes Beispiel dafür und im Müggelsee, das ist jetzt ein See, der sich nicht den ganzen Sommer über stabil schichtet,
+[00:44:10-9 @ritaadrian] das ist ein Sonderfall, der ist polymiktisch, der Fachbegriff dafür, das heißt, der schichtet sich mal, dann wird der wieder durchmischt, dann schichtet er sich wieder.
+[00:44:21-0 @ritaadrian] Und das hängt sehr von den Wetterbedingungen ab, bei ruhigem heißen Wetter ist der geschichtet, und wenn dann die Temperaturen kühler werden oder ein Wind dazu kommt,
+[00:44:31-0 @ritaadrian] dann aufgrund der Flachheit durchmischt der sich auch.
+[00:44:33-7 @ritaadrian] Und solche Systeme sind extrem anfällig für den Klimawandel, weil die viel häufiger diese Nährstoffpulse dann bekommen.
+[00:44:44-4 @timpritlove] Das sind genau diese Effekte, die Sie mit Ihrem automatischen Messsystem mit der Minutenauflösung dann auch sehr gut beobachten können?
+[00:44:48-5 @ritaadrian] Ja, die kriegen wir aber auch, die Nährstoffe können wir ja nicht automatisch messen.
+[00:44:55-2 @ritaadrian] Aber mit diesen automatischen Messungen können wir sehr kleinskalig die Schichtungslängen bestimmen.
+[00:45:03-2 @ritaadrian] Und Schichtungslängen treten innerhalb von 24 Stunden, kleiner 24 Stunden, auf, die Effekte dann auf den Nährstoffhaushalt,
+[00:45:18-4 @ritaadrian] das ist natürlich auch interessant, das wissen wir im Einzelnen nicht, das wissen wir auf so einer wöchentlichen Ebene, aber natürlich so ein System,
+[00:45:29-9 @ritaadrian] der Sauerstoff in diesem System geht ziemlich schnell gegen Null.
+[00:45:34-9 @timpritlove] Wieviele von diesen Messstation-Katamaranen hätten Sie denn gerne, wenn Sie jetzt mal einfach, wenn mal Geld keine Rolle spielt?
+[00:45:42-4 @timpritlove] Ich meine, wäre ja sicherlich mal ganz interessant, so in 10 Meter Abstand den ganzen See voll zu stellen und mal ein Jahr zu beobachten.
+[00:45:50-2 @timpritlove] Ich meine, das wird sich sicherlich mit der sonstigen Nutzung des Sees so nicht vertragen lassen, 10 Meter ist jetzt vielleicht auch ein bisschen übertrieben,
+[00:45:58-1 @timpritlove] aber so mehrere solche Orte zu haben, da hätte man ja sozusagen die Chance, auch diese Wasser – wie sagten Sie – diese Wasserblöcke,
+[00:46:05-2 @timpritlove] die sich halt durchbewegen, diese Wassermassen, quasi beim Durchmarschieren durch den See zu beobachten.
+[00:46:11-0 @ritaadrian] Ja, also wir behelfen uns natürlich, dass wir so Messkampagnen auch machen.
+[00:46:15-7 @ritaadrian] Wir haben ja nicht nur die Stationen, sondern auch dieselbe Messtechnik mobil.
+[00:46:23-4 @ritaadrian] Das wird schon auch gemacht, aber das haben wir jetzt gerade sogar diskutiert, mehrere Stationen, mobilere Stationen anzuschaffen
+[00:46:33-9 @ritaadrian] und wir haben auch ein paar angeschafft
+[00:46:37-4 @ritaadrian] Unsere Messstation ist ja fix und die sind bestimmt mit, das sind so Bojen, die sind bestückt mit derselben Messtechnik und die kann man dann auch mal hin und her transportieren,
+[00:46:46-1 @ritaadrian] also das machen wir schon, das machen wir schon.
+[00:46:48-6 @timpritlove] Okay.
+[00:46:50-0 @ritaadrian] Das ist, also mehrere Stationen jetzt kontinuierlich zu betreiben, das ist kostspielig.
+[00:46:59-9 @ritaadrian] Wir haben jetzt einen, wir sind in der wirklich tollen Lage, dass wir einen Messtechniker haben, der Verantwortung für die Stationen hat.
+[00:47:10-4 @ritaadrian] Der programmiert alles, der wartet, der fährt dahin.
+[00:47:16-3 @ritaadrian] Wenn der im Urlaub ist, guckt der, das ist übers Internet einzusehen.
+[00:47:22-1 @ritaadrian] Dann kriegen wir einen Anruf oder eine Mail, dass wir mal schleunigst da hinfahren müssen, weil irgendwas nicht funktioniert.
+[00:47:28-2 @ritaadrian] Also man braucht wirklich Leute, das muss permanent gewartet werden, sonst generiert man da ziemlich schnell auch Datenfriedhöfe.
+[00:47:39-9 @timpritlove] Oder halt auch noch vollkommen fehlgeleitete Informationen, die man noch als die richtigen ansieht.
+[00:47:43-4 @ritaadrian] Ja, also das ist schon, und die Messstation ist auch für den lokalen, hier in Friedrichshagen ist die bekannt.
+[00:47:54-3 @ritaadrian] Wir kriegen auch sofort, wenn wir da mal Wartungsarbeiten machen und die Station mal einen Tag offline geht, dann kriege ich sofort anrufe, was denn wäre.
+[00:48:05-6 @timpritlove] Von wem?
+[00:48:05-7 @ritaadrian] Von Bürgern, die da jeden Tag gucken.
+[00:48:08-7 @timpritlove] Ach so, weil Sie diese Information auch immer auf der Webseite veröffentlichen?
+[00:48:10-8 @ritaadrian] Ja, die ist öffentlich zugänglich, das können Sie ja mal auch drauf schauen, da sind die ganzen Messwerte für den Tag, für die Woche und für den Monat zusammengefasst.
+[00:48:23-7 @ritaadrian] Also kann man eigentlich immer schön verfolgen und es ist immer schön zu sehen, dass das auch von der Öffentlichkeit genutzt wird, das wollen wir ja auch.
+[00:48:32-4 @timpritlove] So soll es sein.
+[00:48:35-4 @timpritlove] Okay, jetzt haben Sie sich also diese Messreihen angeschaut oder schauen Sie sich natürlich am laufenden Meter an
+[00:48:42-1 @timpritlove] und es zeichnet sich ab, Dinge ändern sich.
+[00:48:46-9 @timpritlove] Temperatur, also wenn ich es richtig verstanden habe, die Durchschnittstemperatur des Sees steigt an übers Jahr?
+[00:48:52-7 @ritaadrian] Ja.
+[00:48:54-3 @timpritlove] Was war da nochmal die Zahl?
+[00:48:56-1 @ritaadrian] 0,3 Grad pro Dekade weltweit, der Müggelsee ist ein bisschen, der Erwärmungstrend ist 0,5 Grad per Dekade in den letzten Dekaden.
+[00:49:10-4 @ritaadrian] Der ist als Flachsee, diese 0,3 Grad pro Dekade ist ein weltweites Mittel.
+[00:49:17-6 @timpritlove] Was ist denn die Durchschnittstemperatur derzeit?
+[00:49:21-2 @ritaadrian] Jahresdurchschnitt liegt hier ungefähr bei 9-10 Grad.
+[00:49:28-0 @timpritlove] Das schlägt dann im Sommer wie weit aus?
+[00:49:30-0 @timpritlove] Also wir haben schon gehört, mehr als 30 Grad.
+[00:49:31-3 @ritaadrian] Ja, das ist selten, aber 20-25 Grad, 26 Grad und im Winter halt diese unter 0 Grad, 4 Grad, 2-4 Grad.
+[00:49:45-5 @timpritlove] Das heißt, diese 0,3 Grad gilt für alle Seen, die auch an diesem Messprogramm an diesem GLEON zum Beispiel beteiligt sind?
+[00:49:52-9 @ritaadrian] Ja, das ist eine Studie.
+[00:49:54-2 @ritaadrian] Das sind unter anderem GLEON-Seen, da wurde über lange Zeitreihen dieser Mittelwert global festgestellt.
+[00:50:05-1 @timpritlove] Das heißt, 0,3 ist eine Menge oder?
+[00:50:08-3 @ritaadrian] Ja, ist eine Menge, ist eine Menge.
+[00:50:09-3 @ritaadrian] Wenn man jetzt mal pro Dekade das nimmt, dann sind wir ziemlich schon beim Müggelsee eigentlich haben wir die 2-Grad-Grenze,
+[00:50:18-4 @ritaadrian] die die Klimatologen als Grenze festgeschrieben wissen wollen für die Lufttemperatur, haben wir die schon erreicht.
+[00:50:27-8 @timpritlove] Wobei das sich ja vielleicht im Wasser jetzt nochmal anders auswirkt als in der Luft oder kann man das dann auch miteinander vergleichen?
+[00:50:32-9 @ritaadrian] Ja, ich meine, die Wärmekapazität von so einem Wasser, so ein Wasserkörper hält die Wärme natürlich viel länger.
+[00:50:40-9 @ritaadrian] Wasser hat nicht diese großen Fluktuationen über den Tag und die Nacht wie das in der Lufttemperatur Gang und Gebe ist.
+[00:50:51-5 @ritaadrian] Man kann heute 10 Grad haben und morgen 30 Grad, das ist natürlich im Wasser nicht möglich.
+[00:50:55-7 @ritaadrian] Aber das ist ein enormer Erwärmungstrend, der da ist.
+[00:51:02-5 @ritaadrian] Und wir sehen ja auch die Reaktionen, das ist, was wir noch nicht erwähnt haben, eine ganz klassische Veränderung ist Eisentwicklung.
+[00:51:14-2 @ritaadrian] Da gibt es jetzt auch schöne Prognosen, dass die Eisdauer um mehr als zwei Wochen global in der nördlichen Hemisphäre abgenommen hat.
+[00:51:27-4 @ritaadrian] Die Seen frieren später zu und tauen früher auf.
+[00:51:32-7 @ritaadrian] Und wenn man jetzt nochmal den Müggelsee beguckt, dann haben wir zunehmend Jahre, die eisfrei sind, wo gar kein Eis mehr gebildet wird.
+[00:51:41-1 @ritaadrian] Oder zunehmend Jahre, wo intermittierend Eis gebildet und dann wieder Auftauphasen, wieder Eisbildung.
+[00:51:49-9 @ritaadrian] Und dieses Intermittierende, als Aufbau von Eis und wieder Abbau von Eis, das breitet sich nach Norden aus.
+[00:52:02-6 @ritaadrian] Also Südschweden hat jetzt auch viel stärker Jahre, wo die Seen nicht mehr permanent zufrieren.
+[00:52:10-6 @timpritlove] Was hat das für eine Auswirkung für einen See, wenn diese Zufrierphasen wegfallen oder kürzer werden?
+[00:52:15-1 @timpritlove] Ich meine, es gibt ja auch eine biologische Funktion.
+[00:52:18-5 @ritaadrian] Ja, also im Grunde genommen für einen See ist das für den Sauerstoffhaushalt gut, weil der wird dann in den Auftauphasen,
+[00:52:31-2 @ritaadrian] in den offenen Phasen findet Produktion wieder statt und Sauerstoff kann eingetragen werden aus der Luft auch.
+[00:52:42-8 @ritaadrian] Also die Sauerstoffverhältnisse verbessern sich.
+[00:52:46-2 @timpritlove] Aus der Luft, der See nimmt auch Sauerstoff aus der Luft ab?
+[00:52:48-5 @ritaadrian] Ja, durch Diffusion.
+[00:52:50-8 @timpritlove] Okay.
+[00:52:51-7 @ritaadrian] Und unter Eis ist eigentlich dasselbe, was wir im Sommer mit der thermischen Schichtung haben.
+[00:52:58-6 @ritaadrian] Unter Eis sinkt der Sauerstoff sehr stark.
+[00:53:02-4 @ritaadrian] Das sind diese berühmten "winter fish kills", wenn über lange Zeit Eis da ist, dann kann man auch in Sauerstoffbereiche reingehen,
+[00:53:13-3 @ritaadrian] wo das dann nachteilig für Fische ist.
+[00:53:20-2 @timpritlove] Dann kann man doch sagen, alles super irgendwie, weniger Eis, mehr Sauerstoff.
+[00:53:22-2 @ritaadrian] Ja, ich meine, da ist jetzt für die Seen, da kann man jetzt nicht sagen, das ist gut oder schlecht.
+[00:53:32-2 @ritaadrian] Die Zusammensetzung von Lebensgemeinschaften verändert sich.
+[00:53:39-1 @ritaadrian] Das sieht man jetzt als jemand, der da drauf guckt, da kann man jetzt kein Gütesiegel dran kleben.
+[00:53:47-5 @ritaadrian] Also ob das jetzt besser oder schlechter ist.
+[00:53:50-0 @ritaadrian] Aber das verändert sich einfach.
+[00:53:53-1 @timpritlove] Okay. Und was ist jetzt zu erwarten, wenn das so weitergeht?
+[00:54:00-6 @timpritlove] Also wenn jetzt der Müggelsee 0,5 oder 0,54 Grad sind es, glaube ich, sogar, jedes Jahrzehnt wärmer wird,
+[00:54:11-8 @timpritlove] kann man dann irgendwann seine Eier drin kochen oder?
+[00:54:16-2 @ritaadrian] Ja ich hoffe ja, dass es nicht …
+[00:54:16-8 @timpritlove] Was erwartet Sie, was passiert, gibt es da einen Kollaps?
+[00:54:19-4 @ritaadrian] Ich hoffe ja, dass das wirklich nicht eintritt.
+[00:54:21-9 @ritaadrian] Also diese interne Düngung, die über die verlängerte Stagnationsphase eintritt, die ist natürlich irgendwann auch,
+[00:54:31-7 @ritaadrian] da ist das Sediment vielleicht so nährstoffarm, dass das dann die interne …
+[00:54:37-4 @timpritlove] Da einfach nichts mehr ist.
+[00:54:38-9 @ritaadrian] … dass die interne Düngung dann auch Grenzen hat.
+[00:54:42-6 @ritaadrian] Es kommt natürlich, wenn man mal diese …
+[00:54:50-5 @ritaadrian] hier ist so eine Wirkungskette.
+[00:54:53-4 @ritaadrian] Die höheren Lufttemperaturen, höherer Wassertemperaturen, mehr thermische Schichtung, mehr Sauerstofffreiheit
+[00:55:00-5 @ritaadrian] und dann diese interne Nährstoffdüngung und die kommt über …
+[00:55:02-9 @timpritlove] Das müssen wir natürlich jetzt den Hörern hier erklären, worauf wir hier gerade gucken, sonst versteht das keiner mehr.
+[00:55:07-0 @ritaadrian] Ja, aber das ist für ein Szenario jetzt in der Zukunft, höhere im Einzugsgebiet, bedeuten höhere Lufttemperaturen in der Regel
+[00:55:18-8 @ritaadrian] in unserer Breite mehr Niederschläge, auch mehr im Winter mehr als Schnee.
+[00:55:23-8 @timpritlove] Ja.
+[00:55:24-4 @ritaadrian] Und das bedeutet mehr Abfluss und das bedeutet auch wieder mehr Stoffeinträge.
+[00:55:28-6 @ritaadrian] Also wir würden dann über einen bestimmten Zeitraum mehr externe und interne Nährstoffzufuhr erwarten.
+[00:55:40-8 @ritaadrian] Also für so einen Nährstoffzustand, Produktivität erwarte ich eine Zunahme von Produktivität.
+[00:55:49-0 @timpritlove] Wobei das klingt ja immer so toll, wenn ein See produktiv ist, wird man das ja erst mal toll finden.
+[00:55:54-0 @ritaadrian] Ja, ist aber für einen Ökologen …
+[00:55:56-5 @timpritlove] … eher ein Horrorszenario.
+[00:55:58-8 @ritaadrian] Ja.
+[00:55:59-6 @timpritlove] Okay.
+[00:56:01-4 @ritaadrian] Nicht so schön.
+[00:56:02-1 @timpritlove] Das heißt, was kann jetzt im schlimmsten Fall passieren?
+[00:56:03-6 @timpritlove] Kippt dann der ganze See um?
+[00:56:06-2 @timpritlove] Man sagt das immer so schön, der See kippt.
+[00:56:07-5 @ritaadrian] Ja, das weiß ich immer gar nicht was das ist.
+[00:56:09-5 @timpritlove] Ich auch nicht.
+[00:56:12-1 @timpritlove] So was gibt es nicht?
+[00:56:12-7 @ritaadrian] Ja, eigentlich nicht.
+[00:56:14-4 @timpritlove] Okay.
+[00:56:14-5 @ritaadrian] Mit Umkippen meint man eigentlich in der Regel …
+[00:56:19-4 @timpritlove] Fischsterben.
+[00:56:21-5 @ritaadrian] Ja, dass eben Sauerstoffkalamitäten entstehen.
+[00:56:24-7 @ritaadrian] Und dieser Wirkmechanismus, den ich gerade erklärt habe, dass auch mit Starkregen, mehr Extremereignisse, mehr Starkregenereignisse,
+[00:56:37-4 @ritaadrian] die führen dazu, dass mehr organische Substanz aus dem umliegenden Festland in Gewässer eingetragen werden.
+[00:56:47-9 @ritaadrian] Organische Substanz heißt wieder, bakterieller Abbau unter Sauerstoffverbrauch.
+[00:56:54-6 @ritaadrian] Das führt dann immer zu diese Sauerstoffkalamitäten und gefolgt von Fischsterben, wie wir es in dem vorletzten Jahr hatten.
+[00:57:04-5 @timpritlove] Das heißt, die Binnenseen sind jetzt nicht nur den Temperaturschwankungen unterlegen,
+[00:57:12-7 @timpritlove] sondern genauso ein großes Problem ist generell diese Nährstoffzuführung und dort spielt ja auch die Landwirtschaft eine gewisse Rolle,
+[00:57:22-1 @timpritlove] weil einfach zur Düngung eine ganze Menge dieser Nährstoffe eingebracht werden, die dann natürlich nicht alle in Pflanzen hineinziehen,
+[00:57:28-0 @timpritlove] sondern dann über das Grundwasser abmarschieren.
+[00:57:32-3 @timpritlove] Hat sich denn da irgendwas verbessert oder ist das etwas, was auch so einen schlechten Trend aufweist?
+[00:57:38-0 @ritaadrian] Also das ist ja, eigentlich müsste es da viel stärkere, größerer Handlungsbedarf.
+[00:57:43-5 @ritaadrian] Die Landwirtschaft hat aus meiner Sicht eine immer noch sehr starke Lobby auch in den Ministerien.
+[00:57:53-2 @ritaadrian] Und es gibt eigentlich, und da gibt es gute Konzepte, wie man Nährstoffeinträge minimieren kann durch Uferrandstreifen.
+[00:58:02-7 @ritaadrian] Dass man einfach bestimmte Flächen nicht beackert.
+[00:58:05-7 @ritaadrian] Das ist ja nicht nur gut für die Gewässer, sondern auch für Insekten.
+[00:58:12-7 @timpritlove] Kleintiere.
+[00:58:13-6 @ritaadrian] In größeren Rahmen.
+[00:58:15-4 @ritaadrian] Also es gibt da eigentlich gute Konzepte, die auch in Stufen sofort umsetzbar, schwieriger umsetzbar.
+[00:58:25-9 @ritaadrian] Es ist natürlich immer die Frage, lokal handeln, regionaler, die Skalen, was brauchen wir, lokal an dieser Stelle, was braucht man denn regionaler
+[00:58:37-7 @ritaadrian] und was brauchen wir globaler.
+[00:58:39-8 @ritaadrian] Aber intensive Landwirtschaft ist ein großes Problem, aber natürlich der erste Faktor ist auch Bevölkerungsdichte.
+[00:58:48-5 @ritaadrian] Also wir tragen natürlich enorm dazu bei, auch Gewässer zu eutrophieren.
+[00:58:56-4 @timpritlove] Ja.
+[00:58:57-1 @ritaadrian] Das geht Hand in Hand.
+[00:59:01-0 @ritaadrian] Und es gibt sehr sehr gute Konzepte auch, wo Politik angreifen kann.
+[00:59:11-7 @ritaadrian] Und Wissenschaft steht ja durchaus auch im Austausch mit der Politik, aber es könnte aus meiner Sicht auch natürlich mehr gemacht werden.
+[00:59:19-5 @ritaadrian] Und dann CO2-Reduktion, das sagt ja kein Mensch mehr oder das wird immer gesagt, aber das müssen wir auch machen.
+[00:59:29-2 @ritaadrian] Und es ist auch naiv zu glauben, dass das kein Geld kostet und dass das nicht auch für uns als Bürger auch was bedeutet,
+[00:59:36-5 @ritaadrian] dass wir so nicht weitermachen können und dass wir unser Verhalten auch ändern müssen.
+[00:59:44-4 @ritaadrian] Und dass das auch Geld kostet.
+[00:59:45-6 @ritaadrian] Und ich glaube, die Bevölkerung ist auch bereit dazu.
+[00:59:48-3 @ritaadrian] Das muss man natürlich auch vermitteln.
+[00:59:51-3 @ritaadrian] Da bin ich nicht so pessimistisch, wenn der politische Wille dann auch da ist, dann glaube ich, dass auch die Bewegungen,
+[01:00:04-8 @ritaadrian] die wir jetzt gerade sehen, dass doch speziell jetzt vielleicht die jungen Leute aufgerüttelt sind und aktiv werden.
+[01:00:14-3 @timpritlove] Im Bereich der Einflussnahme auf die Politik durch die Wissenschaft sind Sie ja auch engagiert im Rahmen des IPCC, des Klimarats.
+[01:00:26-9 @ritaadrian] Ja.
+[01:00:27-6 @timpritlove] Was ist da Ihre Rolle und was für Tätigkeiten erwachsen daraus für Sie?
+[01:00:32-4 @ritaadrian] Ja, das ist natürlich eine schöne Sache für uns als Wissenschaftler, unsere Erkenntnisse da einzubringen.
+[01:00:41-4 @ritaadrian] Also nochmal kurz zurück, der IPCC, Intergovernmental Panel of Climate Change, das ist eine Institution der Vereinigten Nationen,
+[01:00:52-5 @ritaadrian] die Wissenschaftler und Wissenschaftler in Auftrag geben, genau diese Einflüsse von Klimaveränderungen, erst mal Klimaveränderung selbst
+[01:01:02-8 @ritaadrian] und dann aber auch die Einflüsse von Klimaveränderungen auf Ökosysteme zu beschreiben, aufgrund des wissenschaftlichen Kenntnisstandes.
+[01:01:11-7 @ritaadrian] Und das ist ganz ausschlaggebend, also wir berufen uns nur auf wirklich fundierte Peer reviewed, also durch Wissenschaftler auch begutachtete Publikationen und tragen das zusammen.
+[01:01:32-6 @ritaadrian] Und ich bin selber in einem Kapitel drin, Terrestrial und Fresh Water, also wo die Terrestrik und das Süßwasser gemeinsam behandelt wird.
+[01:01:44-7 @ritaadrian] Und das ist ein internationales Zusammenstellen von Lead Autoren, so Kapitel sind immer so, man hat zwei oder drei koordinierende Autoren
+[01:01:57-0 @ritaadrian] und dann eine Reihe von Lead Autoren, die Expertise in den verschiedenen Bereichen abdecken.
+[01:02:08-0 @ritaadrian] Und dann trifft man sich über einen langen Zeitraum, über drei Jahre ungefähr vom Anfang bis zum Ende und schreibt einen ersten Draft, Entwurf, einen zweiten
+[01:02:23-0 @ritaadrian] und dann geht das in einen Review-Prozess, wieder ein Gutachterprozess an Wissenschaftler und dann verbessert man das wieder
+[01:02:35-5 @ritaadrian] und dann kommt man irgendwann zu einem finalen.
+[01:02:41-2 @timpritlove] Was sind so Ihre Erfahrungen mit dem IPCC?
+[01:02:42-8 @ritaadrian] Also ich war schon mal in dem vorherigen Contributing Author, wo ich beigetragen habe, aber nicht an den Treffen teilgenommen habe.
+[01:02:57-2 @ritaadrian] Es ist ein enorm interessanter Prozess.
+[01:03:00-1 @ritaadrian] Die Treffen sind, man trifft Leute aus ganz verschiedenen Ländern, ganz verschiedenen Expertisen und man muss wirklich aus seiner Komfortzone raus.
+[01:03:11-0 @ritaadrian] Also ich kann da nicht nur über Seen, das was wir heute besprochen haben.
+[01:03:17-1 @ritaadrian] Das mache ich so ein bisschen ungern fast, weil man eben da auch dann manchmal nicht so sicher ist.
+[01:03:26-2 @ritaadrian] Aber ich habe mich da ja auch für entschieden das zu machen und habe in der Zeit jetzt auch total viel gelernt, weil ich sehr sehr viel gelesen habe über die Seen,
+[01:03:37-4 @ritaadrian] in die Flüsse rein, über wie gesagt die Problematik der Biodiversität stärker mal angeguckt.
+[01:03:48-6 @ritaadrian] Die Problematik von Krankheiten, also das ist Metabolismus, das sind Kohlenstoffquelle oder Seen als Quelle oder Falle von CO2.
+[01:04:10-7 @ritaadrian] Das ist nun auch, da fühle ich mich sicher, weil das ist ein Teil unserer Forschung.
+[01:04:17-4 @ritaadrian] Ja man kriegt einen anderen Blick auf die Dinge und es geht dann nicht nur so um diese grundsätzlichen wissenschaftlichen Fragen,
+[01:04:28-8 @ritaadrian] sondern sehr stark auch eine Bewertung dessen.
+[01:04:33-6 @ritaadrian] Die Fragen, die Sie auch gestellt haben, was bedeutet das jetzt für die Gesellschaft?
+[01:04:37-4 @timpritlove] Was folgt daraus.
+[01:04:39-6 @ritaadrian] Für Nahrungsmittel, für Trinkwasser, für diese ganzen Bereiche, was man Ecosystem Service, also der Service, den auch Natur für uns bietet,
+[01:04:52-2 @ritaadrian] vom Trinkwasser über Food, Nahrung, über auch Freizeit.
+[01:05:04-0 @timpritlove] Und natürlich auch die wirtschaftliche Nutzung.
+[01:05:04-3 @ritaadrian] Genau.
+[01:05:06-9 @ritaadrian] Und da gibt es ja ganz viel Kapitel, da verliert man auch so ein bisschen die Übersicht.
+[01:05:14-4 @ritaadrian] Aber es ist für mich eine tolle Erfahrung, auf jeden Fall.
+[01:05:20-4 @ritaadrian] Und es ist auch eine Möglichkeit, das Wissen auch da rein zu bringen, das sehe ich auch so als Verantwortung dann der Gesellschaft gegenüber,
+[01:05:32-2 @ritaadrian] finde ich das auch eine schöne Arbeit, die man da leistet.
+[01:05:36-2 @timpritlove] Jetzt ist ja die Sichtbarkeit des IPCC enorm angewachsen in den letzten Jahren.
+[01:05:46-6 @timpritlove] Ich bin mir sicher, manchen ist das auch immer noch nicht Sichtbarkeit genug bzw. beklagen, dass Sichtbarkeit alleine jetzt erst mal keine Qualität ist, weil solange einem keiner zuhört
+[01:05:54-2 @timpritlove] bzw. selbst wenn zugehört wird, daraus ja keine Handlungsanweisungen erwachsen, dann ist das ja auch alles so ein bisschen für die Katz.
+[01:06:02-7 @timpritlove] Was ist so Ihre Wahrnehmung, wie die Abstrahlung des IPCC sich verändert hat und welche Bedeutung und welche Auswirkungen dieses Gremium jetzt tatsächlich hat?
+[01:06:11-7 @timpritlove] Weil das ja in gewisser Hinsicht eigentlich das sichtbarste und derzeit am meisten beachtete Wissenschaftsgremium weltweit zu sein scheint.
+[01:06:24-6 @timpritlove] Ich weiß nicht, ob ich jetzt irgendwas gerade ganz offensichtliches vergesse.
+[01:06:28-5 @ritaadrian] Also ich finde, den Klimarat, den IPCC muss man als Erfolgsgeschichte schreiben.
+[01:06:37-3 @ritaadrian] Der erste Bericht ist wann raus, 1990 ist der erste Bericht erschienen und der erscheint in vier-Jahres-Zyklen und dazwischen werden ja viel noch special reports.
+[01:06:53-5 @ritaadrian] Jetzt kam ja für die Marine Science auch ein Special Report, die kommen dann immer noch so dazwischen, über Biodiversität oder Landnutzung oder irgendwas anderes.
+[01:07:05-1 @ritaadrian] Also insgesamt ist das ein Erfolgsrezept.
+[01:07:10-2 @ritaadrian] Weil das ist jetzt auch für Politik gedacht, da werden Empfehlungen, das ist eine Zusammenfassung für die Politik.
+[01:07:23-1 @ritaadrian] Wir machen da jetzt keine Handlungsempfehlungen, das muss die Politik dann schon selber machen.
+[01:07:27-8 @ritaadrian] Aber ich denke mir, die ganzen Initiativen, die jetzt entstanden sind, man kann natürlich viel Frust haben, weil zu wenig gemacht wird und das ist ja auch so,
+[01:07:37-6 @ritaadrian] aber die Bewegung zum Beispiel, die momentan läuft, auch ausgehend von Greta Thunberg und junge Leute, die jetzt aktiv werden,
+[01:07:47-9 @ritaadrian] die berufen sich ja auch auf die IPCC.
+[01:07:53-4 @ritaadrian] Die sagen ja ganz klar, Mensch hört zu, hört auf Wissenschaftler.
+[01:07:59-0 @ritaadrian] Es ist interessant, dass wir gerade, die IPCC-Schreiber, einen Brief von auch Greta bekommen haben.
+[01:08:05-7 @ritaadrian] Handschriftlich und da wird das auch nochmal deutlich.
+[01:08:10-6 @ritaadrian] Ich meine, diese Bewegung kann man ja auch bewerten wie man möchte, das ist ja auch nicht, das ist ein bisschen aus meiner Sicht zu viel Druck auf so eine junge Frau gelegt,
+[01:08:24-4 @ritaadrian] aber insgesamt ruht das natürlich auch auf dem, was Leute in den letzten 20 Jahren Wissenschaft auch in den letzten 20 Jahren beigetragen hat oder 30 Jahren.
+[01:08:36-6 @ritaadrian] Also insofern finde ich den IPCC kann man nur als Erfolgsrezept sehen, das finde ich.
+[01:08:48-1 @ritaadrian] Weil das ist wirklich unsere.
+[01:08:50-7 @ritaadrian] Erst mal sind wir ja auch von, das ist ja von Regierungen, wir sind ja von Regierungen beauftragt.
+[01:08:57-2 @ritaadrian] Das ist ja von der Seite her gefragt und dann müssen sie dann auch umsezten und das ist natürlich nicht in unserer Hand.
+[01:09:05-7 @ritaadrian] Die Umsetzung findet auf einer anderen Ebene, das ist eben Politik, das ist Wahl, das ist ein gesellschaftliches Problem.
+[01:09:15-5 @ritaadrian] Und wir tragen aber durchaus dazu bei, dass die Gesellschaft möglicherweise auch mobilisiert wird, da neben anderen, der IPCC-Bericht an sich ist natürlich auch sehr für Experten
+[01:09:30-0 @ritaadrian] und weniger für die Allgemeinheit geschrieben, aber der trägt schon sehr dazu bei, dass sich so ein Gesamtverständnis ändert.
+[01:09:38-3 @timpritlove] Ausbildet.
+[01:09:40-5 @ritaadrian] Ja.
+[01:09:41-2 @timpritlove] Ich überlege gerade, in gewisser Hinsicht kann man sagen, die ganze Wissenschaft, wenn man sich die Wissenschaftsgeschichte anschaut,
+[01:09:45-1 @timpritlove] so die moderne Wissenschaft ist ja nun so alt nicht.
+[01:09:49-5 @timpritlove] Je nachdem wo man jetzt ansetzen möchte, könnte man sagen, 100 vielleicht 200 Jahre und davor haben wir dann doch schon eher so ein bisschen so eine Phase,
+[01:09:56-7 @timpritlove] die definitiv jetzt mit dem Verständnis der modernen Wissenschaft so jetzt nicht unmittelbar mehr was zu tun hat.
+[01:10:03-8 @timpritlove] Sprich, das Ganze entwickelt sich extrem schnell, nicht nur von den Ergebnissen her, sondern eben auch wie diese ganze Kommunikation angelegt ist,
+[01:10:10-3 @timpritlove] wie man publiziert, wie das Peer Review durchgeführt wird, das hatten wir hier auch schon häufiger diskutiert im Forschergeist,
+[01:10:18-7 @timpritlove] wie sich eben auch durch das Internet ein ganz anderes Verständnis von offener Forschung hier eben auch dieser althergebrachte, der so althergebracht ja nun auch wieder nicht ist,
+[01:10:28-5 @timpritlove] dieser ganze Prozess sich eben anpasst und wenn ich auf diesen Klimarat und dessen Auswirkungen schaue, gewinne ich so ein bisschen den Eindruck,
+[01:10:35-8 @timpritlove] dass sich hier das wissenschaftliche System und damit natürlich auch so die wissenschaftliche Methode im Prinzip noch mal um einen weiteren Bereich erweitert,
+[01:10:43-9 @timpritlove] dass man eben auch so diese Kommunikation in die Gesellschaft, die Politik auch als Teil des Prozesses versteht, und nicht nur sehr als einmalige Notglocke,
+[01:10:52-4 @timpritlove] die jetzt hier geläutet wird, weil es mal komplett aus dem Ruder läuft und danach geht man wieder zurück in sein Kämmerlein und forscht mal ganz still und leise vor sich hin.
+[01:11:03-3 @timpritlove] Da gibt es ja in dem Sinne gar kein Zurück mehr.
+[01:11:05-5 @ritaadrian] Nein unbedingt, also das leistet Wissenschaft und das ist ja auch mehr oder weniger ehrenamtlich.
+[01:11:14-7 @ritaadrian] Das ist eine unserer vornehmsten Aufgaben, das zu machen, aber es ist ja nicht so, das machen wir ja obendrauf und das machen wir auch gerne.
+[01:11:24-1 @ritaadrian] Also das ist gar keine Frage.
+[01:11:28-0 @ritaadrian] Aber wir brauchen natürlich diese Grundlagenforschung, das ist die Basis von allem, die muss stattfinden und die muss auch frei stattfinden, die darf nicht reglementiert werden,
+[01:11:40-2 @ritaadrian] da bin ich eine ganz große Verfechterin davon, denn das hat letztendlich auch zu der Erkenntnis geführt, worauf wir uns berufen können jetzt als IPCC
+[01:11:53-1 @ritaadrian] oder insgesamt als Wissenschaftler, die regional oder überregional in Politik oder Management sich engagieren.
+[01:12:07-1 @timpritlove] Wie geht es dann also weiter jetzt mit der Forschung?
+[01:12:11-8 @timpritlove] Großes Problem ist ja auch gerade mit diesem ganzen Datensammeln, was hier so betrieben wird, so jeder muckelt so ein bisschen vor sich
+[01:12:20-7 @timpritlove] und man merkt ja, dass jetzt in zunehmenden Maße so eine globale Vergleichbarkeit auch immer wichtiger wird.
+[01:12:28-5 @timpritlove] Man kann jetzt nicht einfach nur in seinem eigenen See rumgeraten, sondern, nicht wahr, mit so einem Projekt wie GLEON haben wir ja schon erwähnt.
+[01:12:37-1 @timpritlove] Was sind da so für Herausforderungen, die da jetzt für die Forschung kommen und wie wird dem begegnet?
+[01:12:47-1 @ritaadrian] Ja, eine große Herausforderung ist Datenmanagement.
+[01:12:50-2 @ritaadrian] Wir generieren ja sehr sehr viele Daten, die entsprechend aufgearbeitet werden müssen und in Datenbanksysteme gespeichert werden
+[01:13:02-1 @ritaadrian] und nachhaltig gesichert werden.
+[01:13:05-9 @ritaadrian] Die nachhaltige Sicherung ist eigentlich nicht unbedingt ein gelöstes Problem.
+[01:13:12-9 @timpritlove] Ja.
+[01:13:13-6 @ritaadrian] Und da gibt es seit langen Jahren jetzt auch Initiativen, das zu verbessern.
+[01:13:21-5 @ritaadrian] Die DFG hat schon vor Jahren Programme, Deutsche Forschungsgemeinschaft, Programme aufgelegt, wo Datenmanagement gefördert worden ist.
+[01:13:30-8 @ritaadrian] Wo Daten jetzt als Infrastruktur gesehen wird und die Schutz bedarf.
+[01:13:39-5 @ritaadrian] Und eine Datenbank aufzubauen, die Daten gut zu beschreiben, die berühmten Metadaten, also ein Datenmesspunkt alleine ist wertlos, wenn er nicht mit einer Beschreibung verbunden ist,
+[01:13:55-9 @ritaadrian] wo ist gemessen worden, wie ist gemessen worden, in welchem Zeitraum ist gemessen worden etc.
+[01:14:01-8 @timpritlove] Wie war das Wetter drum herum, all das.
+[01:14:03-3 @ritaadrian] Ja. Oder ganz ganz kritisch diese taxonomischen Untersuchungen, Phytoplanktonspezies, wie sicher ist diese Bestimmung der Spezies?
+[01:14:15-9 @ritaadrian] Wie häufig sind da Personenwechsel, haben Personenwechsel stattgefunden, also das muss alles sauber beschrieben werden, um zu garantieren,
+[01:14:25-0 @ritaadrian] dass ich einschätzen kann als Nutzer der Daten, kann ich dem trauen?
+[01:14:32-7 @ritaadrian] Und das ist ganz häufig auch in der Form nicht gegeben.
+[01:14:37-8 @ritaadrian] Also viele Daten liegen vor, die diese ganz klassischen Beschreibungen nicht aufweisen.
+[01:14:47-1 @ritaadrian] Und wir haben mal angefangen vor ein paar Jahren, auch über die Deutsche Forschungsgemeinschaft finanziert, das ist ein Projekt, das hieß Lake Base,
+[01:14:55-4 @ritaadrian] wo wir lange Zeit Seen in Deutschland in eine Datenbankstruktur gebracht haben, und zwar unsere Struktur, die wir hier im IGB aufgebaut haben.
+[01:15:05-6 @ritaadrian] Und die dann sauber von den Datenerhebern sauber beschrieben haben.
+[01:15:13-6 @ritaadrian] Also das ist jetzt eine Datenbank, die nutzbar ist.
+[01:15:16-4 @ritaadrian] Und davon gibt es weltweit viele andere Beispiele.
+[01:15:21-8 @ritaadrian] Ein anderes Problem ist dann, diese Verknüpfung herzustellen, die findbar zu machen, dass man darauf wirklich zugreifen kann.
+[01:15:34-8 @ritaadrian] Open Access ist ein genereller …
+[01:15:37-9 @timpritlove] … Thema.
+[01:15:40-5 @ritaadrian] Und dass sie qualitätsgeprüft sind.
+[01:15:42-6 @ritaadrian] Und da hat jetzt eine ganz neue Initiative, das ist die sogenannten NFDI Initiative der Deutschen Forschungsgemeinschaft, nationale Forschungsdateninfrastruktur Initiative.
+[01:15:58-2 @ritaadrian] Da waren jetzt gerade im Oktober die erste Runde für Anträge, Einreichung von Anträgen.
+[01:16:05-3 @ritaadrian] Da geht es genau darum, zum Beispiel ich bin in dem NFDI for Earth drin, da geht es genau darum, aus terrestrischen, aquatischen, aus verschiedenen Ökosystemen vorhandene Daten in eine Struktur zu bringen.
+[01:16:21-0 @ritaadrian] Unter anderem um dann die Nutzbarkeit zu erhöhen, die Verwendbarkeit, die Zugriffsmöglichkeiten für die Wissenschaftsgemeinschaft und die Wiederverwertung von Daten auch zu garantieren.
+[01:16:36-4 @ritaadrian] Das ist ein enorm schwieriges, schwieriges Feld, aber es ist mittlerweile in den Finanzgebern, also auch bei der Deutschen Forschungsgemeinschaft angekommen,
+[01:16:52-1 @ritaadrian] dass da ein unheimlicher Bedarf ist.
+[01:16:55-8 @ritaadrian] Denn wenn wir die Daten, die wir haben, nicht wissen, welche Qualität die haben und wenn sie auch nicht zugänglich sind, dann ist das auch wertlos.
+[01:17:07-1 @timpritlove] Und wenn sie auch nicht gesichert sind.
+[01:17:07-2 @timpritlove] Ich meine, da kann man jahrelang forschen und Ergebnisse haben und dann sind sie auf einmal weg, weil die Festplatte abgestürzt ist,
+[01:17:13-0 @timpritlove] das ist ja nun auch nicht unbedingt jetzt das, was man sich wünscht.
+[01:17:16-9 @timpritlove] Nationale Daten, Entschuldigung, nationale Forschungsdateninfrastruktur heißt, hier geht es mitnichten jetzt nur um biologische naturorientierte Daten,
+[01:17:27-6 @timpritlove] sondern das ist sozusagen ein Programm, was sich generell der Forschung an sich öffnet?
+[01:17:32-4 @ritaadrian] Ja, das geht über Astronomie, über Literaturwissenschaften, über Geisteswissenschaften, über Medizin, das ist breit.
+[01:17:41-6 @ritaadrian] Wir sind hier vom IGB in NFDI for Earth, also Erdsysteme und Biodiversität ist auch ein großes.
+[01:17:51-4 @ritaadrian] Und das ist natürlich disziplinübergreifend.
+[01:17:53-3 @ritaadrian] Und das ist auch genau das, was gefordert ist, dass man wirklich die Grenzen in den Disziplinen, also in der Ökologie speziell,
+[01:18:05-0 @ritaadrian] dass man das System Erde anguckt.
+[01:18:07-2 @timpritlove] Dass man halt nicht nur in seinem eigenen Feld rumforscht, sondern mit der ein oder anderen Studie mal was korreliert, dass man generell eine Vergleichbarkeit hat,
+[01:18:13-9 @timpritlove] weil die Taxonomien klar sind, weil man weiß, okay dieses Metadatum bedeutet exakt genau das und das ist so und so definiert und so in dem Format steht es da drin.
+[01:18:21-2 @ritaadrian] Ja.
+[01:18:21-9 @timpritlove] Jetzt kann ich das quasi einfach direkt in meine Berechnung mit reinschmeißen.
+[01:18:24-7 @ritaadrian] Ja. Und ich meine, die Gewässerökosysteme sind sehr stark von dem terrestrischen Umland beeinflusst, aber auch umgekehrt.
+[01:18:33-0 @ritaadrian] Und da gibt es jetzt auch viel mehr Studien, die diese Links, das ist jetzt auch nicht neu, aber da wird sehr viel mehr Wert drauf gelegt, so einen gesamtheitlichen Ansatz auch zu fahren.
+[01:18:45-7 @ritaadrian] In Raum und Zeit.
+[01:18:46-1 @timpritlove] Ja.
+[01:18:47-2 @ritaadrian] Und diese Initiativen helfen erst mal so eine Infrastruktur darzustellen.
+[01:18:56-8 @ritaadrian] Also wir haben jetzt hier eine kleine Datenbank, aber da sind zum Beispiel Daten vom Bodensee, Talsperren in Sachsen, Seidenbach, Bautzen Talsperre, Stechlinsee, der Müggelsee.
+[01:19:09-8 @ritaadrian] Also da haben wir uns schon als Kriterium gesetzt, deutsche Seen, die lange Zeitreihen haben, also Länge war ein Kriterium, aber auch hohe taxonomische Auflösung.
+[01:19:21-0 @ritaadrian] Und das ist schon mal eigentlich ein erster kleiner Schritt, aber diese Strukturen können dann angekoppelt werden an andere Strukturen.
+[01:19:28-6 @ritaadrian] Das heißt, jeder kann schon seine eigene Datenbank haben, muss nicht alles in eine Datenbank, sondern diese Interoperabilität dann herzustellen, die Vernetzung zwischen bestehenden Strukturen,
+[01:19:42-7 @ritaadrian] das ist die Herausforderung.
+[01:19:44-7 @timpritlove] Ja, das wäre jetzt auch so mein erster Kritikpunkt, wenn ich so lese, nationale Forschungsdateninfrastruktur, warum ist das keine internationale Forschungsdatenstruktur?
+[01:19:54-1 @timpritlove] Weil Binnenseen gibt es ja auch in der Schweiz und warum muss das jetzt an der deutschen Grenze halt machen.
+[01:19:58-7 @ritaadrian] Nein, das ist halt der Name, weil es von der DFG finanziert ist, aber nein, es ist international gedacht.
+[01:20:07-4 @timpritlove] Wie international ist es gedacht?
+[01:20:08-1 @ritaadrian] Also wir bringen zum Beispiel, wir haben eine international GLEON, diese Daten sind da mit.
+[01:20:17-8 @timpritlove] Folgen schon mal diesem Modell hier.
+[01:20:17-9 @ritaadrian] Folgen dem, sind da auch mit angedacht.
+[01:20:23-1 @ritaadrian] Dann haben wir eine große Datenbank zusammengetragen von Phytoplanktondaten weltweit von Seen, 30-40 Seen, die gut qualitätsgeprüft sind schon.
+[01:20:34-7 @ritaadrian] Unterschiedliche Level.
+[01:20:37-3 @ritaadrian] Und so eine Infrastruktur bringen wir natürlich in diese Initiative mit ein, also das endet nicht an der deutschen Grenze, auf keinen Fall, das wäre ja absurd, wenn man das …
+[01:20:49-4 @ritaadrian] Das ist halt dieser …
+[01:20:52-8 @ritaadrian] Ich meine, andere Länder, was Datenmanagement anbelangt, sind wir ja nicht die Vorreiter, da sind ja andere Länder, also die USA ist da schon ein bisschen weiter.
+[01:21:03-1 @ritaadrian] Da ist auch viel viel länger schon einfach Standard, dass man Daten, die man publiziert, irgendwo hinterlegt und zugreifbar macht.
+[01:21:13-7 @timpritlove] Und das heißt, man orientiert sich dann auch an diesen Datenformaten, die schon existieren?
+[01:21:17-3 @ritaadrian] Ja, das ist natürlich, muss man ja, aber da kenne ich mich jetzt nicht so extrem gut aus.
+[01:21:26-8 @ritaadrian] Da werden schon auch neue Sachen entwickelt.
+[01:21:31-2 @ritaadrian] Aber diese bestehenden Systeme so zu gestalten, dass die miteinander kommunizieren können, das ist, glaube ich, die Herausforderung.
+[01:21:43-5 @ritaadrian] Also das ist eine der Herausforderungen, soweit ich das Problem …
+[01:21:47-2 @timpritlove] Ist immer die Herausforderung bei Computern.
+[01:21:50-8 @ritaadrian] Ja, eben ermessen kann.
+[01:21:52-0 @ritaadrian] Ich bin hier so ein bisschen, dadurch dass man mit vielen Daten umgeht, da auch interessiert worden und da auch reingezogen worden,
+[01:22:00-6 @ritaadrian] aber ich bin jetzt weit davon entfernt, Datenmanagement gut zu begreifen.
+[01:22:08-5 @timpritlove] Genau, denn Ihre Spezialität ist und soll ja auch bleiben der Binnensee.
+[01:22:13-4 @timpritlove] Ich bedanke mich für die Ausführung Frau Adrian.
+[01:22:15-7 @ritaadrian] Ein Vergnügen, vielen Dank.
+[01:22:17-3 @timpritlove] Ja, und tja vielen Dank fürs Zuhören bei Forschergeist.
+[01:22:22-9 @timpritlove] Wie immer, ich sage, tschüss und bis bald.
+[01:22:26-6 @Outro]

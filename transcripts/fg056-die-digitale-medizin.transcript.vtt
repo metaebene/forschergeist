@@ -1,0 +1,2770 @@
+﻿WEBVTT
+
+00:00:43.001 --> 00:00:48.100
+<v timpritlove>Hallo und herzlich willkommen zu Forschergeist, dem Podcast des Stifterverbandes für die deutsche Wissenschaft.
+
+00:00:48.101 --> 00:00:54.100
+<v timpritlove>Mein Name ist Tim Pritlove und ich begrüße alle zur Ausgabe 56 unserer Gesprächsreihe,
+
+00:00:54.101 --> 00:01:00.400
+<v timpritlove>wo wir uns unterhalten über Wissenschaft, über Bildung und auch über die Digitalisierung.
+
+00:01:00.401 --> 00:01:05.100
+<v timpritlove>Und gerade die letzten beiden Punkte werden heute ein wenig mehr im Mittelpunkt stehen.
+
+00:01:05.101 --> 00:01:14.700
+<v timpritlove>Ich bin nach Mainz gefahren und befinde mich hier an der Universitätsmedizin der Johannes-Gutenberg-Universität in Mainz.
+
+00:01:14.701 --> 00:01:18.500
+<v timpritlove>Und begrüße meinen Gesprächspartner, nämlich Sebastian Kuhn, schönen guten Tag.
+
+00:01:18.501 --> 00:01:20.000
+<v sebastiankuhn>Guten Tag Herr Pritlove.
+
+00:01:20.001 --> 00:01:22.000
+<v timpritlove>Ja, worüber wollen wir uns unterhalten?
+
+00:01:22.001 --> 00:01:28.000
+<v timpritlove>Wir wollen uns unterhalten über die Digitalisierung in der Medizin.
+
+00:01:28.001 --> 00:01:30.900
+<v timpritlove>Das ist erst mal eine große Klammer.
+
+00:01:30.901 --> 00:01:43.400
+<v timpritlove>Wie viele andere Bereiche auch, ist natürlich gerade auch so eine technologielastige Domäne, wie die Medizin, extrem von der technischen Entwicklung betroffen.
+
+00:01:43.401 --> 00:01:44.400
+<v timpritlove>Schon immer gewesen.
+
+00:01:44.401 --> 00:01:52.400
+<v timpritlove>Und ich würde auch sagen, hat  auch ihre gesamte Ausrichtung und ihre gesamte Effizienz so vor allem halt einfach dem wissenschaftlichen Fortschritt zu verdanken.
+
+00:01:52.401 --> 00:02:01.100
+<v timpritlove>Und die Digitalisierung bringt jetzt hier natürlich ein paar ganz neue Aspekte auf, die vielleicht bisher noch nicht so im Mittelpunkt standen.
+
+00:02:01.101 --> 00:02:11.500
+<v timpritlove>Aber bevor wir das mal so inAngriff nehmen, würde mich natürlich erst mal interessieren, wie Sie so Ihren Weg in die Medizin überhaupt selbst gefunden haben?
+
+00:02:11.501 --> 00:02:13.100
+<v timpritlove>War das schon so ein Kindheitstraum?
+
+00:02:13.101 --> 00:02:17.800
+<v timpritlove>Immer schon so mit dem Arztkittel zum Fasching gelaufen?
+
+00:02:17.801 --> 00:02:18.900
+<v timpritlove>Karneval heißt das hier, Entschuldigung.
+
+00:02:18.901 --> 00:02:25.500
+<v sebastiankuhn>Ja es kommt immer darauf an, also Fastnacht, Karneval oder Fasching, hier in der Region wechselt sich das relativ schnell ab.
+
+00:02:25.501 --> 00:02:26.100
+<v timpritlove>Ja.
+
+00:02:26.101 --> 00:02:31.900
+<v sebastiankuhn>Nein ich war als Kind, muss ich sagen, war  ich nicht in Richtung Arzt  orientiert.
+
+00:02:31.901 --> 00:02:37.400
+<v sebastiankuhn>Das ist eigentlich eher so im Laufe der späten Mittelstufe/Oberstufe dann gekommen.
+
+00:02:37.401 --> 00:02:40.300
+<v sebastiankuhn>Ich bin damals ganz gut gelaufen.
+
+00:02:40.301 --> 00:02:44.600
+<v sebastiankuhn>Und war einfach fasziniert von der Sportmedizin damals.
+
+00:02:44.601 --> 00:02:50.000
+<v sebastiankuhn>Ich musste so in vierteljährigen Abständen zur sportmedizinischen Untersuchung.
+
+00:02:50.001 --> 00:02:57.700
+<v sebastiankuhn>Und war einfach fasziniert, wenn das Herz untersucht wurde und der Arzt sehen konnte, wie die Herzwände pumpen,
+
+00:02:57.701 --> 00:03:02.400
+<v sebastiankuhn>wie der Blutdruck sich verändert, wie die Sauerstoffaufnahme im Körper ist.
+
+00:03:02.401 --> 00:03:08.500
+<v sebastiankuhn>Und ich muss sagen, die Medizin war zunächst für mich eigentlich eine Faszination am Körper und wie der Körper funktioniert.
+
+00:03:08.501 --> 00:03:20.300
+<v sebastiankuhn>Und erst darüber habe ich dann eigentlich mir vorstellen können, Medizin zu studieren und habe dann zwischen Abitur und Beginn vom Studium im Rettungsdienst noch gearbeitet.
+
+00:03:20.301 --> 00:03:22.500
+<v sebastiankuhn>Eine Ausbildung als Rettungssanitäter gemacht.
+
+00:03:22.501 --> 00:03:31.300
+<v sebastiankuhn>Und da wirklich dann halt einfach die Notfallmedizin, die Unfälle der Patienten, die von Gebäuden stürzen oder einen Verkehrsunfall erleiden,
+
+00:03:31.301 --> 00:03:33.100
+<v sebastiankuhn>einfach kennengelernt.
+
+00:03:33.101 --> 00:03:40.300
+<v sebastiankuhn>Patienten, die einen Herzinfarkt erleiden, die einen Schlaganfall erleiden, und da bin ich eigentlich mit der richtigen Breite der Medizin in Kontakt getreten
+
+00:03:40.301 --> 00:03:44.800
+<v sebastiankuhn>und habe gemerkt, ja das möchte ich studieren, das möchte ich später als Arzt tätig sein.
+
+00:03:44.801 --> 00:03:48.100
+<v timpritlove>Ich finde das ja immer faszinierend, wenn sich Leute für so einen Weg entscheiden.
+
+00:03:48.101 --> 00:03:58.100
+<v timpritlove>Ich bin da so ein kleiner Schisser, der irgendwie gar nicht ans Thema denken möchte, auch nur mir vorzustellen, verletzt zu sein.
+
+00:03:58.101 --> 00:04:06.200
+<v timpritlove>Wie ist denn das, wenn man … also was geht denn da so in einem vor, denn man damit konfrontiert wird?
+
+00:04:06.201 --> 00:04:11.600
+<v timpritlove>Ich meine man kriegt ja eigentlich die ganze Zeit immer nur das Elend und das Pech der anderen Leute präsentiert.
+
+00:04:11.601 --> 00:04:19.100
+<v sebastiankuhn>Ja oder auch natürlich, dass man jemanden in einem relativ schlimmen Moment kennenlernt und dass es ab dann bergauf geht.
+
+00:04:19.101 --> 00:04:19.800
+<v sebastiankuhn>Im guten  Fall.
+
+00:04:19.801 --> 00:04:21.100
+<v timpritlove>Eigentlich wird immer alles besser sozusagen?
+
+00:04:21.101 --> 00:04:21.900
+<v sebastiankuhn>Eigentlich wird immer alles besser.
+
+00:04:21.901 --> 00:04:30.500
+<v sebastiankuhn>Also viele Familienangehörigen, Freunde sagen dann auch immer, oh Gott, Unfallchirurgie, das muss aber ganz hart sein.
+
+00:04:30.501 --> 00:04:33.300
+<v sebastiankuhn>Das ist ja das schlimmste sozusagen in der Medizin.
+
+00:04:33.301 --> 00:04:34.600
+<v sebastiankuhn>Das sehe ich eigentlich gar nicht so.
+
+00:04:34.601 --> 00:04:40.200
+<v sebastiankuhn>Also wir haben natürlich viele Patienten, die einen schweren Unfall erleiden, eine schwere Verletzung erleiden,
+
+00:04:40.201 --> 00:04:42.800
+<v sebastiankuhn>aber in aller Regel können wir diesen Patienten helfen.
+
+00:04:42.801 --> 00:04:50.300
+<v sebastiankuhn>Und im Rahmen der medizinischen Behandlung, während des stationären Aufenthaltes in der Klinik oder auch später in Ambulanzen, in den Praxen,
+
+00:04:50.301 --> 00:04:51.600
+<v sebastiankuhn>geht es Schritt für Schritt bergauf.
+
+00:04:51.601 --> 00:04:55.500
+<v sebastiankuhn>Und wir sehen diese Patienten häufig nach 1-3 Monaten wieder
+
+00:04:55.501 --> 00:04:57.900
+<v sebastiankuhn>und die finden ihren Weg zurück in den Alltag.
+
+00:04:57.901 --> 00:05:02.100
+<v sebastiankuhn>Und das ist ein ganz toller Weg, den man gemeinsam mit dem Patienten gehen kann.
+
+00:05:02.101 --> 00:05:06.800
+<v timpritlove>Und welche Rolle hat dann Technologie zu dem Zeitpunkt schon gespielt?
+
+00:05:06.801 --> 00:05:11.900
+<v sebastiankuhn>Also Technologie in der Medizin hat schon immer eine riesige Bedeutung.
+
+00:05:11.901 --> 00:05:20.400
+<v sebastiankuhn>Also egal ob das die Erfindung vom Stethoskop vor über 200 Jahren war oder ob es bildgebende Verfahren waren,
+
+00:05:20.401 --> 00:05:24.700
+<v sebastiankuhn>die vielleicht in den 70/80er Jahren eine große Rolle gespielt haben
+
+00:05:24.701 --> 00:05:29.900
+<v sebastiankuhn>oder auch digitale Technologien, die sind ja jetzt auch nicht seit gestern vorhanden.
+
+00:05:29.901 --> 00:05:33.100
+<v sebastiankuhn>Also wir können besser kommunizieren, wir können Bilddaten übertragen.
+
+00:05:33.101 --> 00:05:37.200
+<v sebastiankuhn>Das ist jetzt auch schon eine Entwicklung, die knapp 20 Jahre zurückliegt.
+
+00:05:37.201 --> 00:05:40.700
+<v sebastiankuhn>Und das hat unglaublich die Medizin vorangetrieben.
+
+00:05:40.701 --> 00:05:45.500
+<v sebastiankuhn>Oder auch der Bereich, in dem ich tätig bin, also die Behandlung von schwerverletzten Menschen.
+
+00:05:45.501 --> 00:05:50.000
+<v sebastiankuhn>Das ist eine Entwicklung, die nicht erst seit 1-2 Jahren vorhanden ist.
+
+00:05:50.001 --> 00:05:54.300
+<v sebastiankuhn>Aber die Technologie ist eigentlich immer kombiniert mit Menschen.
+
+00:05:54.301 --> 00:06:02.400
+<v sebastiankuhn>Also nicht nur Ärzten, auch Pflegekräften, Fachkräfte im Gesundheitssystem, MTAs, also Radiologieassistenten.
+
+00:06:02.401 --> 00:06:07.600
+<v sebastiankuhn>Und ich denke, erst die Kombination aus Mensch und Technologie macht wirklich den Fortschritt aus.
+
+00:06:07.601 --> 00:06:11.100
+<v sebastiankuhn>Und da ist die Medizin ein Paradebeispiel dafür.
+
+00:06:11.101 --> 00:06:16.800
+<v timpritlove>Aber was ist denn jetzt anders?
+
+00:06:16.801 --> 00:06:22.600
+<v timpritlove>Also man könnte jetzt sagen, okay super, Technik gibt es, macht alles einfacher, fertig, aus, vorbei.
+
+00:06:22.601 --> 00:06:24.700
+<v timpritlove>Also vielleicht mal hole ich ein bisschen aus.
+
+00:06:24.701 --> 00:06:31.000
+<v timpritlove>Es gibt ja auch so einen kleinen Anlass, um nicht Grund zu sagen, warum ich jetzt hier bin.
+
+00:06:31.001 --> 00:06:38.100
+<v timpritlove>Der Stifterverband hat so ein Förderprogramm unter dem Titel Curriculum 4.0 ausgeschrieben.
+
+00:06:38.101 --> 00:06:45.600
+<v timpritlove>Darin werden verschiedene Projekte gefördert, unter anderem halt auch ein Projekt „Medizin im digitalen Zeitalter“.
+
+00:06:45.601 --> 00:06:47.600
+<v timpritlove>Das ist Ihres, hier an der Uni Mainz.
+
+00:06:47.601 --> 00:06:57.700
+<v timpritlove>Was hat dazu geführt, dass es dieses Programm überhaupt gibt und was ist da so die Intention dahinter gewesen?
+
+00:06:57.701 --> 00:07:00.100
+<v sebastiankuhn>Genau, da hole ich auch ein bisschen aus dann von meiner Seite.
+
+00:07:00.101 --> 00:07:01.700
+<v timpritlove>Ja, gerne.
+
+00:07:01.701 --> 00:07:04.600
+<v sebastiankuhn>Also ich bin zum einen Arzt, Unfallchirurg und Orthopäde,
+
+00:07:04.601 --> 00:07:06.700
+<v sebastiankuhn>ich bin allerdings auch Medizinpädagoge.
+
+00:07:06.701 --> 00:07:12.300
+<v sebastiankuhn>Also ich habe ab 2014 nochmal einen Studiengang besucht zwei Jahre lang,
+
+00:07:12.301 --> 00:07:16.700
+<v sebastiankuhn>und habe mich im Bereich Medizindidaktik weitergebildet.
+
+00:07:16.701 --> 00:07:20.800
+<v sebastiankuhn>Also eigentlich, wie können wir Studiengänge organisieren, Medizinstudiengänge?
+
+00:07:20.801 --> 00:07:25.100
+<v sebastiankuhn>Wie können wir Gesundheitsfachberufe neuartig anders qualifizieren.
+
+00:07:25.101 --> 00:07:30.200
+<v sebastiankuhn>Und in dem Zusammenhang habe ich mich gefragt, wie machen das eigentlich andere Standorte?
+
+00:07:30.201 --> 00:07:33.300
+<v sebastiankuhn>Wie macht das vielleicht die Charité in Berlin, wie macht das München?
+
+00:07:33.301 --> 00:07:41.400
+<v sebastiankuhn>Wie bringen die die neue Medizin, die digitale Medizin in das Ausbildungscurriculum hinein?
+
+00:07:41.401 --> 00:07:48.900
+<v sebastiankuhn>Und das Ergebnis von meiner Recherche eigentlich war, im kompletten deutschsprachigen Raum gibt es kein Curriculum der modernen Medizin.
+
+00:07:48.901 --> 00:07:59.000
+<v sebastiankuhn>Keine Universität in Deutschland, Österreich oder der Schweiz hat das auf den Lehrplan gerufen und bildet Studierende aus anhand von den modernen Veränderungen.
+
+00:07:59.001 --> 00:08:09.500
+<v sebastiankuhn>Also App-basierte Konzepte, künstliche Intelligenz, virtual reality, augmented reality, digitale Kommunikationsformen im medizinischen System.
+
+00:08:09.501 --> 00:08:16.000
+<v sebastiankuhn>Und diese technologischen Veränderungen werden große Veränderungen des Versorgungsalltags schaffen,
+
+00:08:16.001 --> 00:08:17.600
+<v sebastiankuhn>und die brauchen auch eine Begleitung.
+
+00:08:17.601 --> 00:08:25.500
+<v sebastiankuhn>Und das war für mich der Startpunkt, ein Curriculum zu entwickeln, ein Konzept zu entwickeln, mich mit ganz vielen Personen zu vernetzen.
+
+00:08:25.501 --> 00:08:27.300
+<v timpritlove>Aber das ist eher ein Aufbruch, nicht so sehr eine Kritik.
+
+00:08:27.301 --> 00:08:37.800
+<v timpritlove>Weil ich meine, das sind ja alles zunächst einmal jetzt auch, zumindest die genannten Technologien, sind ja so Sachen, die ja jetzt so richtig en vogue eigentlich auch erst so in den  letzten 5 maximal vielleicht 10 Jahren geworden sind.
+
+00:08:37.801 --> 00:08:41.900
+<v timpritlove>Während ja die anderen Technologien, von denen wir sprachen, im Prinzip schon lange Begleiter sind.
+
+00:08:41.901 --> 00:08:49.800
+<v timpritlove>Also ist das jetzt so die Kritik, dass die Nutzung von Technologie überhaupt nicht Teil der Ausbildung ist oder nur bestimmte nicht?
+
+00:08:49.801 --> 00:08:54.900
+<v sebastiankuhn>Genau, also durchaus ist Technologie im Medizinstudium vorhanden, auch in der Vergangenheit und auch aktuell.
+
+00:08:54.901 --> 00:09:02.800
+<v sebastiankuhn>Allerdings ist die Überarbeitung von den medizinischen Curricula häufig etwas träge und hinkt hinterher.
+
+00:09:02.801 --> 00:09:08.200
+<v sebastiankuhn>Also wir denken häufig in 7- oder in 10-Jahres-Zyklen, ein Curriculum zu erneuern.
+
+00:09:08.201 --> 00:09:15.000
+<v sebastiankuhn>Und 38 deutsche Fakultäten haben die modernen Technologien noch nicht auf den Lehrplan gerufen.
+
+00:09:15.001 --> 00:09:22.800
+<v sebastiankuhn>Und prinzipiell sollte sicherlich ein Studium einen nicht nur vorbereiten auf den aktuellen Zustand, sondern auch ein bisschen, wo die Reise hingeht.
+
+00:09:22.801 --> 00:09:24.800
+<v sebastiankuhn>Und man kann das ganz gut verdeutlichen.
+
+00:09:24.801 --> 00:09:32.400
+<v sebastiankuhn>Also die Studierenden, die jetzt im kommenden Monat oder in diesem Monat ihr Studium aufnehmen, Medizin,
+
+00:09:32.401 --> 00:09:43.500
+<v sebastiankuhn>die werden, wenn sie ohne irgendeine Verzögerung mit maximaler Geschwindigkeit durchstudieren, werden die 2024 ihr Medizinstudium beenden
+
+00:09:43.501 --> 00:09:51.100
+<v sebastiankuhn>und werden danach ihre Facharztausbildung aufnehmen und werden 2030 Fachärzte sein.
+
+00:09:51.101 --> 00:09:57.400
+<v sebastiankuhn>Das heißt, die Studierenden werden eine komplett andere medizinische Realität kennenlernen.
+
+00:09:57.401 --> 00:10:05.700
+<v sebastiankuhn>Und es ist schon schwierig, wenn wir auch die Trends der letzten 3 oder 4 Jahre und auch die aktuellen Entwicklungen nicht mit ins Curriculum aufnehmen,
+
+00:10:05.701 --> 00:10:10.700
+<v sebastiankuhn>und vor allem nicht die übergeordneten Kompetenzen, die dahinterstehen.
+
+00:10:10.701 --> 00:10:16.000
+<v timpritlove>Könnte man natürlich sagen, dass es generell eigentlich der Lauf der Technik an der Stelle gar nicht sozusagen…
+
+00:10:16.001 --> 00:10:21.900
+<v timpritlove>Also kann man ja sozusagen gar nicht so früh reinbringen, weil alles schon wieder outdated ist, wenn man fertig ist.
+
+00:10:21.901 --> 00:10:25.100
+<v timpritlove>Ist das dann nicht eher eine Frage der Nachbildung?
+
+00:10:25.101 --> 00:10:28.400
+<v timpritlove>Der permanenten Weiterbildung an der Stelle?
+
+00:10:28.401 --> 00:10:29.300
+<v sebastiankuhn>Genau, also beides.
+
+00:10:29.301 --> 00:10:35.400
+<v sebastiankuhn>Also ich glaube, wir können nicht erwarten, dass wir ein Curriculum entwickeln und dass es permanent up to date.
+
+00:10:35.401 --> 00:10:41.900
+<v sebastiankuhn>Aber ich denke, es geht vor allem hier auch um übergeordnete Aspekte, die wir vermitteln wollen.
+
+00:10:41.901 --> 00:10:50.600
+<v sebastiankuhn>Also dass Studierende den aktuell laufenden Prozess begreifen, ein Interesse daran entwickeln,
+
+00:10:50.601 --> 00:10:57.200
+<v sebastiankuhn>und Fertigkeiten entwickeln, diese Entwicklungen auch zukünftig zu beobachten und kritisch zu hinterfragen.
+
+00:10:57.201 --> 00:11:07.200
+<v sebastiankuhn>Also wenn man sozusagen ein Studium durchläuft, dann lernt man nicht nur den Inhalt, sondern man lernt auch zu lernen.
+
+00:11:07.201 --> 00:11:10.100
+<v sebastiankuhn>Und diese Entwicklung geht natürlich weit über das Studium hinaus.
+
+00:11:10.101 --> 00:11:16.500
+<v sebastiankuhn>Im Idealfall ist es ein lebenslanger Vorgang, der bis ins Seniorenalter fortgesetzt wird.
+
+00:11:16.501 --> 00:11:22.100
+<v sebastiankuhn>Und bei Medizin im digitalen Zeitalter wollen wir zum einen, Medizinstudierende mit der aktuellen Technologie
+
+00:11:22.101 --> 00:11:25.100
+<v sebastiankuhn>und mit der Entwicklung, die sich abzeichnet, in Berührung bringen.
+
+00:11:25.101 --> 00:11:30.400
+<v sebastiankuhn>Aber vor allem wollen wir ein Interesse wecken und ein Bewusstsein für diesen Veränderungsprozess wecken,
+
+00:11:30.401 --> 00:11:37.700
+<v sebastiankuhn>damit das Lernen über die Unterrichtsveranstaltung hinausgeht und die Studierenden sich bei dieser Debatte beteiligen,
+
+00:11:37.701 --> 00:11:41.900
+<v sebastiankuhn>bei der digitalen Transformation der Medizin.
+
+00:11:41.901 --> 00:11:42.900
+<v timpritlove>Wie macht man das?
+
+00:11:42.901 --> 00:11:47.200
+<v timpritlove>Also was macht man dann anders, als man es jetzt auch schon macht?
+
+00:11:47.201 --> 00:11:51.100
+<v sebastiankuhn>Das ist eine gute Frage und das ist auch Kern von dem Ganzen.
+
+00:11:51.101 --> 00:11:59.000
+<v sebastiankuhn>Also aktuell konzentriert sich das Medizinstudium, zum Teil auch andere Studiengänge, primär eigentlich auf die reine Wissensvermittlung.
+
+00:11:59.001 --> 00:12:05.600
+<v sebastiankuhn>Also nach dem Motto, es gibt ein Lehrbuch, da steht drin, wie es zu erfolgen hat und was richtig und was falsch ist
+
+00:12:05.601 --> 00:12:15.500
+<v sebastiankuhn>und der Studierende lernt diesen Inhalt und im Rahmen der Prüfung stellt man sicher, dass er diesen Inhalt reproduzieren kann.
+
+00:12:15.501 --> 00:12:19.800
+<v sebastiankuhn>Das ist eine wichtige Basis, die steht außer Frage, muss man durch im Studium.
+
+00:12:19.801 --> 00:12:27.000
+<v sebastiankuhn>Das ist ein bisschen dieser Büffelpart, wo man durch muss, aber es geht auch noch um viel mehr.
+
+00:12:27.001 --> 00:12:28.700
+<v sebastiankuhn>Zum einen praktische Fertigkeiten.
+
+00:12:28.701 --> 00:12:35.300
+<v sebastiankuhn>Also Studierende lernen bei Medizin im digitalen Zeitalter mit den neuen Technologien zu interagieren,
+
+00:12:35.301 --> 00:12:39.900
+<v sebastiankuhn>und zwar zum einen aus Sicht des Arztes, aber auch aus Sicht des Patienten.
+
+00:12:39.901 --> 00:12:45.300
+<v sebastiankuhn>Also dieser Perspektivenwechsel ist enorm wichtig, zu wissen, wie wirkt das auf den Patienten.
+
+00:12:45.301 --> 00:12:53.000
+<v sebastiankuhn>Und es gilt, auch wichtig, eine gewisse Haltung zu reflektieren, also wie stehe ich eigentlich überhaupt zu den ganzen Entwicklungen?
+
+00:12:53.001 --> 00:13:03.000
+<v sebastiankuhn>Bin ich überkritisch, stehe ich der Entwicklung pauschal ablehnend gegenüber und bin der Meinung, die digitale Medizin ist ganz schlecht
+
+00:13:03.001 --> 00:13:06.400
+<v sebastiankuhn>und das möchte ich nicht und damit setze ich mich auch gar nicht auseinander, weil ich finde das nicht gut.
+
+00:13:06.401 --> 00:13:11.200
+<v sebastiankuhn>Oder bin ich absolut euphorisch und sehe eine blühende Zukunft vor mir.
+
+00:13:11.201 --> 00:13:14.300
+<v sebastiankuhn>Und ich denke, der Königsweg ist die Mitte hierbei.
+
+00:13:14.301 --> 00:13:20.800
+<v sebastiankuhn>Also wir müssen Studierende in die Lage versetzen, diese Vorgänge zu reflektieren und zu analysieren,
+
+00:13:20.801 --> 00:13:27.400
+<v sebastiankuhn>damit sie sinnvolle Entwicklungen kompetent nutzen können und auch in der Praxis einsetzen können,
+
+00:13:27.401 --> 00:13:37.700
+<v sebastiankuhn>aber auch die Limitationen begreifen oder auch die negativen Seiten, um sich zukünftig ganz ganz bewusst auch gegen manche Technologien entscheiden.
+
+00:13:37.701 --> 00:13:39.200
+<v timpritlove>Wer nimmt denn daran teil?
+
+00:13:39.201 --> 00:13:43.500
+<v sebastiankuhn>Aktuell ist es so, dass es Medizinstudierende im klinischen Studienabschnitt sind.
+
+00:13:43.501 --> 00:13:48.800
+<v sebastiankuhn>Das ist das 7.-9. Fachsemester jetzt in Bezug auf Medizin im digitalen Zeitalter.
+
+00:13:48.801 --> 00:13:50.000
+<v sebastiankuhn>Der Plan …
+
+00:13:50.001 --> 00:13:53.600
+<v timpritlove>Ist das ein freiwilliger Kurs oder?
+
+00:13:53.601 --> 00:13:56.000
+<v sebastiankuhn>Im aktuellen Fall ist es ein Wahlpflichtfach.
+
+00:13:56.001 --> 00:14:02.600
+<v sebastiankuhn>Also es ist ein Kurs, wo man verschiedene Möglichkeiten hat, was man genau belegt.
+
+00:14:02.601 --> 00:14:08.600
+<v sebastiankuhn>Zukünftig ist es durchaus geplant, dass der Weg in das Routinecurriculum …
+
+00:14:08.601 --> 00:14:10.400
+<v sebastiankuhn>ja der Weg ist, den wir gehen wollen.
+
+00:14:10.401 --> 00:14:17.500
+<v sebastiankuhn>Es finden aktuell größere Reformprozesse statt, nicht nur bei uns an der Universitätsmedizin Mainz, sondern auch deutschlandweit,
+
+00:14:17.501 --> 00:14:26.900
+<v sebastiankuhn>wo das Medizinstudium reformiert und modernisiert werden soll und in Bezug auf unsere Fakultät wird sehr intensiv auch diskutiert,
+
+00:14:26.901 --> 00:14:32.400
+<v sebastiankuhn>den Aspekt digitale Transformation der Medizin zentral in das Curriculum mit aufzunehmen.
+
+00:14:32.401 --> 00:14:38.900
+<v sebastiankuhn>Also jetzt nicht als solitären Kurs, der innerhalb von ein paar Wochen stattfindet, sondern eher so ein bisschen wie ein roter Faden,
+
+00:14:38.901 --> 00:14:43.600
+<v sebastiankuhn>der neben anderen Themen, die auch sehr wichtig sind, einfach durch das Studium sich hindurchzieht.
+
+00:14:43.601 --> 00:14:47.900
+<v timpritlove>Das ist aber auch Konsens hier an der Universität, dass man das will?
+
+00:14:47.901 --> 00:14:50.700
+<v sebastiankuhn>Also Konsens an der Universität ist ein schwieriger Aspekt.
+
+00:14:50.701 --> 00:14:55.600
+<v sebastiankuhn>Also ich sage mal so, die Universität hat viele Gremien.
+
+00:14:55.601 --> 00:15:02.100
+<v sebastiankuhn>Wir haben viele Tagungen auf verschiedenen Ebenen, egal ob das ein Ausschuss Lehre ist, ob das ein Fachbereichsrat ist,
+
+00:15:02.101 --> 00:15:04.700
+<v sebastiankuhn>ob das eine Curriculumskommission ist.
+
+00:15:04.701 --> 00:15:12.500
+<v sebastiankuhn>Aber es ist ein Thema, was aktuell viel diskutiert wird und wo durchaus sich eine Reihe von führenden Personen der Universität auch dafür ausgesprochen haben,
+
+00:15:12.501 --> 00:15:17.600
+<v sebastiankuhn>dass wir im Rahmen der Reformprozesse diesen Aspekt nicht mehr unter den Tisch fallen lassen werden,
+
+00:15:17.601 --> 00:15:21.400
+<v sebastiankuhn>und einfach zentral im Curriculum mit aufnehmen.
+
+00:15:21.401 --> 00:15:26.500
+<v sebastiankuhn>Aber wir sind bei uns 980 Ärzte hier in der Universitätsmedizin.
+
+00:15:26.501 --> 00:15:33.400
+<v sebastiankuhn>Es gibt eine Freiheit der Lehre von den Professoren, von den habilitierten Wissenschaftlern.
+
+00:15:33.401 --> 00:15:38.300
+<v sebastiankuhn>Und wir werden sicherlich nicht jedem genau vorschreiben können, was er zu unterrichten hat.
+
+00:15:38.301 --> 00:15:39.700
+<v sebastiankuhn>Das ist auch okay.
+
+00:15:39.701 --> 00:15:44.400
+<v timpritlove>Aber wie ist denn so die Reaktion der Studierenden darauf?
+
+00:15:44.401 --> 00:15:46.700
+<v sebastiankuhn>Also die Reaktion der Studierenden ist enorm positiv.
+
+00:15:46.701 --> 00:15:51.800
+<v sebastiankuhn>Also wir haben wirklich sehr sehr viele Interessenten, die den Kurs belegen wollen.
+
+00:15:51.801 --> 00:15:57.500
+<v sebastiankuhn>Wir haben allerdings auch über die Mainzer Fakultät ein unglaubliches Interesse zum einen von Dozenten,
+
+00:15:57.501 --> 00:16:00.900
+<v sebastiankuhn>von Fakultätsleitung, aber vor allem auch von Studierenden.
+
+00:16:00.901 --> 00:16:06.200
+<v sebastiankuhn>Und die Entwicklung, muss man sagen, wird aktuell ganz ganz enorm von den Studierenden vorangetrieben.
+
+00:16:06.201 --> 00:16:13.100
+<v sebastiankuhn>Die sagen, wir sehen die Medizin verändert sich, warum bekommen wir das im Studium nicht beigebracht?
+
+00:16:13.101 --> 00:16:14.700
+<v sebastiankuhn>Warum diskutieren wir nicht dort drüber?
+
+00:16:14.701 --> 00:16:20.500
+<v sebastiankuhn>Warum überlegen wir nicht, was die guten Möglichkeiten sind, aber auch wo die Risiken darin liegen?
+
+00:16:20.501 --> 00:16:27.500
+<v sebastiankuhn>Und aktuell, muss ich sagen, werde ich fast täglich eigentlich von Studierenden von verschiedenen Fakultäten in Deutschland kontaktiert mit der Frage,
+
+00:16:27.501 --> 00:16:29.500
+<v sebastiankuhn>können wir diesen Kurs nicht exportieren?
+
+00:16:29.501 --> 00:16:33.200
+<v sebastiankuhn>Können wir den nicht an unserer Fakultät auch implementieren?
+
+00:16:33.201 --> 00:16:35.700
+<v sebastiankuhn>Können wir den Kurs in Mainz belegen?
+
+00:16:35.701 --> 00:16:39.300
+<v sebastiankuhn>Da gibt es wirklich ein sehr sehr reges Interesse aktuell.
+
+00:16:39.301 --> 00:16:42.000
+<v timpritlove>Wieviele nehmen derzeit daran teil?
+
+00:16:42.001 --> 00:16:45.900
+<v sebastiankuhn>Also ein jeweiliger Kurs sind 12 Studierende.
+
+00:16:45.901 --> 00:16:55.500
+<v sebastiankuhn>Ist einfach, weil wir versuchen, wirklich überwiegend praktische Anteile zu vermitteln
+
+00:16:55.501 --> 00:16:58.600
+<v sebastiankuhn>und auch intensiv miteinander zu diskutieren.
+
+00:16:58.601 --> 00:17:05.500
+<v sebastiankuhn>Und das Ziel ist einfach, zukünftig das in das Routinecurriculum zu überführen.
+
+00:17:05.501 --> 00:17:15.700
+<v sebastiankuhn>Wir haben aktuell in Mainz 180 Studierende etwa pro Semester und das ist sagen wir mal eine klassische deutsche Fakultät einfach mit vielen Studierenden.
+
+00:17:15.701 --> 00:17:23.600
+<v sebastiankuhn>Und das werden wir nur schaffen, wenn wir das wirklich ins Routinecurriculum implantieren, dass wir das auch allen Studierenden anbieten können.
+
+00:17:23.601 --> 00:17:31.700
+<v timpritlove>Wenn wir jetzt vielleicht ein bisschen zurückblättern, um mal so die Dimensionen dieses Ansatzes auch zu verstehen.
+
+00:17:31.701 --> 00:17:42.400
+<v timpritlove>Ich meine, wir haben jetzt anfangs schon gesagt, okay Technologie begleitet, also wissenschaftliche Entwicklung und Technologie dann auch begleitet den medizinischen Prozess schon immer
+
+00:17:42.401 --> 00:17:48.400
+<v timpritlove>und eben extrem so in den letzten 100 Jahren, das ist ja klar.
+
+00:17:48.401 --> 00:17:58.600
+<v timpritlove>Ab wann und wodurch hat denn jetzt sagen wir mal der digitale Einfluss schon Einzug gehalten?
+
+00:17:58.601 --> 00:18:04.900
+<v timpritlove>Also wo ist sozusagen Technologie mehr als nur ein gut hergestelltes Instrument und Gerät?
+
+00:18:04.901 --> 00:18:08.600
+<v timpritlove>Wo kommt wirklich so ein spezifischer digitaler Aspekt mit rein?
+
+00:18:08.601 --> 00:18:11.900
+<v timpritlove>Womit hat das angefangen?
+
+00:18:11.901 --> 00:18:13.500
+<v sebastiankuhn>Da muss man glaube ich zwei Begriffe unterscheiden.
+
+00:18:13.501 --> 00:18:19.000
+<v sebastiankuhn>Das eine ist die Digitalisierung und das andere ist die digitale Transformation.
+
+00:18:19.001 --> 00:18:22.600
+<v sebastiankuhn>Digitalisierung das kennen wir seit rund 30 Jahren in der Medizin.
+
+00:18:22.601 --> 00:18:28.800
+<v sebastiankuhn>Da ist es egal, ob das jetzt so ein Praxisverwaltungsprogramm ist oder ein EDV-Programm, wo die Patientenakten drin vorhanden sind,
+
+00:18:28.801 --> 00:18:35.700
+<v sebastiankuhn>wo man Laborwerte aufrufen kann, wo wir vielleicht auch Röntgenbilder ortsunabhängig uns anschauen können
+
+00:18:35.701 --> 00:18:40.200
+<v sebastiankuhn>oder auch zwischen Ärzten in verschiedenen Kliniken austauschen können.
+
+00:18:40.201 --> 00:18:42.100
+<v sebastiankuhn>Das ist die klassische Digitalisierung.
+
+00:18:42.101 --> 00:18:49.300
+<v sebastiankuhn>Und auch die aktuell viel diskutierte elektronische Gesundheitskarte, wo einfach Erkrankungen hinterlegt sind,
+
+00:18:49.301 --> 00:18:55.400
+<v sebastiankuhn>Arztberichte hinterlegt sind, ein Medikamentenplan hinterlegt ist, das ist ein klassisches Projekt der Digitalisierung.
+
+00:18:55.401 --> 00:19:03.200
+<v sebastiankuhn>Entwicklung im Wesentlichen so 80/90/00er Jahre, aber auch aktuell noch stattfindend.
+
+00:19:03.201 --> 00:19:11.800
+<v sebastiankuhn>Die digitale Transformation und das ist auch glaube ich das, über was wir in unserem Curriculum im Wesentlichen sprechen, das ist nochmal was anderes.
+
+00:19:11.801 --> 00:19:21.900
+<v sebastiankuhn>Das ergreift wirklich das Gesundheitssystem, nicht nur die Ärzteschaft, die Patienten, aber die gesamte Gesellschaft und verändert einiges.
+
+00:19:21.901 --> 00:19:25.800
+<v sebastiankuhn>Und das sind Veränderungen, die kennen die meisten Menschen aus ihrem privaten Alltag.
+
+00:19:25.801 --> 00:19:34.400
+<v sebastiankuhn>Also einfach der Einzug des Smartphones in den letzten 10 Jahren hat in vielen Bereichen einfach das gesellschaftliche Zusammenleben verändert.
+
+00:19:34.401 --> 00:19:44.300
+<v sebastiankuhn>Wir kommunizieren heutzutage anders, nicht nur im Prinzip in Person oder per Telefon, sondern viel auch mit chat-basierten Applikationen.
+
+00:19:44.301 --> 00:19:49.300
+<v sebastiankuhn>Wir können Bilddaten um die Welt schicken, wir informieren uns ganz anders.
+
+00:19:49.301 --> 00:19:54.600
+<v sebastiankuhn>Und wir greifen auf Programme zurück, die eventuell künstliche Intelligenzen im Hintergrund haben.
+
+00:19:54.601 --> 00:20:04.700
+<v sebastiankuhn>Und diese Entwicklungen schwappen aktuell auf verschiedene Industriezweige über und damit auch auf die Gesundheitsindustrie und damit auf die Patientenbehandlung.
+
+00:20:04.701 --> 00:20:10.900
+<v sebastiankuhn>Ich denke, gute Beispiele dafür sind zum einen app-basierte Behandlungsverfahren, wo chronisch kranke Menschen,
+
+00:20:10.901 --> 00:20:19.000
+<v sebastiankuhn>egal ob die eine Zuckererkrankung haben, eine Herzschwäche haben, Herzrhythmusstörungen, eine chronische Lungenerkrankung,
+
+00:20:19.001 --> 00:20:23.400
+<v sebastiankuhn>bei diesen Patienten werden zum Beispiel App-basierte Behandlungsverfahren zunehmend eingesetzt.
+
+00:20:23.401 --> 00:20:25.500
+<v timpritlove>Was heißt das konkret?
+
+00:20:25.501 --> 00:20:30.600
+<v sebastiankuhn>Genau, also heutzutage, vielleicht ein gutes Beispiel ist die Zuckererkrankung.
+
+00:20:30.601 --> 00:20:36.800
+<v sebastiankuhn>Zuckerkranke Menschen unterscheiden sich schon lange von anderen kranken Menschen,
+
+00:20:36.801 --> 00:20:42.300
+<v sebastiankuhn>weil die haben zu Hause selbstständig Messwerte generiert.
+
+00:20:42.301 --> 00:20:47.800
+<v sebastiankuhn>Also wenn man zum Beispiel Bluthochdruck hat, dann ist es typisch, man geht in die Praxis, der Arzt misst den Blutdruck,
+
+00:20:47.801 --> 00:20:54.300
+<v sebastiankuhn>sagt, oh der ist aber hoch, das messen wir nochmal nach und dann bekommen Sie ein Medikament.
+
+00:20:54.301 --> 00:21:03.000
+<v sebastiankuhn>Der zuckerkranke Mensch hat schon zu Hause immer wieder dreimal, fünfmal, siebenmal täglich den Blutzucker resistiert und hat den in ein Buch eingeschrieben.
+
+00:21:03.001 --> 00:21:11.100
+<v sebastiankuhn>Und diese Art von patientenkontrollierter Untersuchung, wie der Blutzuckerwert durch den zuckerkranken Menschen,
+
+00:21:11.101 --> 00:21:16.000
+<v sebastiankuhn>das ist jetzt durch die digitale Transformation in vielen Bereichen möglich.
+
+00:21:16.001 --> 00:21:20.000
+<v sebastiankuhn>Also egal ob das ein Patient mit einer Herzschwäche ist oder ein lungenkranker Mensch.
+
+00:21:20.001 --> 00:21:25.600
+<v sebastiankuhn>Lungenkranke Menschen hatten früher zum Beispiel alle vier oder sechs Wochen beim Arzt die Lungenfunktion gemessen,
+
+00:21:25.601 --> 00:21:31.200
+<v sebastiankuhn>also wie gut kann ich die Luft aus dem Körper rausbekommen, also wie schnell kann ich auspusten,
+
+00:21:31.201 --> 00:21:35.400
+<v sebastiankuhn>ist das irgendwas, was die Ausatmung verstopft, einfach ausgedrückt.
+
+00:21:35.401 --> 00:21:41.700
+<v sebastiankuhn>Das machen Patienten jetzt zu Hause mit einem kleinen Messgerät, das ist über Bluetooth an ihr Smartphone angebunden
+
+00:21:41.701 --> 00:21:50.200
+<v sebastiankuhn>und der Patient sieht direkt in Echtzeit, okay alles im grünen Bereich oder ah die Lungenfunktion hat sich jetzt zwei Tage verschlechtert
+
+00:21:50.201 --> 00:21:52.900
+<v sebastiankuhn>oder ich komme langsam in einen kritischen Bereich.
+
+00:21:52.901 --> 00:21:57.200
+<v sebastiankuhn>Und die Patienten können auch angeben, wie fühle ich mich dabei?
+
+00:21:57.201 --> 00:22:05.400
+<v sebastiankuhn>Wenn sie möchten, können sie ihre GPS-Koordinaten bekanntgeben, so wie wir bei Google Maps uns auch anzeigen lassen, wo wir stehen.
+
+00:22:05.401 --> 00:22:08.000
+<v sebastiankuhn>Und dort ist hinterlegt, welcher Pollenflug ist aktuell.
+
+00:22:08.001 --> 00:22:10.900
+<v sebastiankuhn>Für lungenkranke Menschen ganz ganz wichtig, Asthmatiker.
+
+00:22:10.901 --> 00:22:13.700
+<v sebastiankuhn>Ob da jetzt irgendwie Birke, Hasel oder …
+
+00:22:13.701 --> 00:22:17.400
+<v timpritlove>Also es geht nicht nur ums Messen, sondern es geht auch um ins Relationsetzen mit Umwelt.
+
+00:22:17.401 --> 00:22:19.700
+<v sebastiankuhn>Genau, es werden ganz ganz viele Informationen integriert.
+
+00:22:19.701 --> 00:22:24.200
+<v sebastiankuhn>Also wie ist der aktuelle Messwert von dem Patient?
+
+00:22:24.201 --> 00:22:29.200
+<v sebastiankuhn>Wie ist die Klimaumgebung, also zum einen Temperatur und Luftfeuchtigkeit ist wichtig für lungenkranke Menschen.
+
+00:22:29.201 --> 00:22:34.500
+<v sebastiankuhn>Also eine trockene kalte Luft verschlimmert die Erkrankung.
+
+00:22:34.501 --> 00:22:38.000
+<v sebastiankuhn>Eine feuchte oder warme Luft verbessert die Lungenfunktion.
+
+00:22:38.001 --> 00:22:40.400
+<v sebastiankuhn>Und zusätzlich zum Beispiel noch diese Allergiedaten.
+
+00:22:40.401 --> 00:22:47.700
+<v sebastiankuhn>Und über diese App kann der Patient mit seinem behandelnden Lungenfacharzt in Kontakt stehen.
+
+00:22:47.701 --> 00:22:52.200
+<v sebastiankuhn>Also in aller Regel, ein Arzt-Patienten-Verhältnis, das vielleicht schon seit Jahren besteht aufgrund von einer Lungenerkrankung,
+
+00:22:52.201 --> 00:23:01.400
+<v sebastiankuhn>aber diese Messwerte teilt der Patient mit seinem Arzt und der Arzt sieht dies grafisch einfach aufbereitet auch und kann intervenieren.
+
+00:23:01.401 --> 00:23:04.200
+<v sebastiankuhn>Und das verändert wirklich die Behandlung fundamental.
+
+00:23:04.201 --> 00:23:09.100
+<v sebastiankuhn>Weil früher hatten diese lungenkranken Menschen also 4-6 Wochen ihre Kontrolluntersuchung beim Arzt
+
+00:23:09.101 --> 00:23:13.900
+<v sebastiankuhn>und sind häufig mit akuten Verschlechterungen in der Notaufnahme gelandet.
+
+00:23:13.901 --> 00:23:15.200
+<v sebastiankuhn>Also mit einer akuten Atemnot.
+
+00:23:15.201 --> 00:23:21.000
+<v sebastiankuhn>Und heutzutage ermöglichen diese App-basierten Behandlungsverfahren, dass Patienten sich regelmäßig zu Hause messen
+
+00:23:21.001 --> 00:23:26.100
+<v sebastiankuhn>und wenn es zu einer Verschlechterung kommt, dann kann die vielleicht am zweiten oder dritten Tag abgefangen werden
+
+00:23:26.101 --> 00:23:31.000
+<v sebastiankuhn>und endet nicht nach fünf oder sechs Tagen nachts in der Notaufnahme.
+
+00:23:31.001 --> 00:23:32.000
+<v sebastiankuhn>Und das ist ein typisches Beispiel.
+
+00:23:32.001 --> 00:23:38.000
+<v sebastiankuhn>Und das unterscheidet sich fundamental von irgendeiner elektronischen Gesundheitskarte oder von einem elektronischen Arztbrief.
+
+00:23:38.001 --> 00:23:40.800
+<v sebastiankuhn>Sondern das ist wirklich digitale Transformation.
+
+00:23:40.801 --> 00:23:50.600
+<v sebastiankuhn>Also es werden ganz unterschiedliche Informationen, patientengenerierte Messwerte, GPS-Daten, Wetterdaten, Medikationsplan integriert
+
+00:23:50.601 --> 00:23:56.600
+<v sebastiankuhn>und der Arzt und der Patient arbeiten gemeinsam an einer Verbesserung der Gesundheit.
+
+00:23:56.601 --> 00:24:05.100
+<v sebastiankuhn>Also der Patient übernimmt viel mehr Verantwortung, er misst sich täglich, er teilt gewisse Informationen.
+
+00:24:05.101 --> 00:24:13.900
+<v sebastiankuhn>Und diese Art von sagen wir mal partnerschaftlicher Behandlung, Arzt und Patient gemeinsam, das verändert die Medizin.
+
+00:24:13.901 --> 00:24:20.600
+<v sebastiankuhn>Und das ist jetzt nur ein Beispiel, wie die digitale Transformation die Medizin verändert.
+
+00:24:20.601 --> 00:24:27.600
+<v timpritlove>Aber das setzt natürlich auch voraus, dass der Arzt oder die Ärztin in der Lage ist, mit diesen Daten auch was anzufangen
+
+00:24:27.601 --> 00:24:29.800
+<v timpritlove>oder überhaupt erst mal nur diese Bereitschaft da ist.
+
+00:24:29.801 --> 00:24:40.000
+<v timpritlove>Ich muss zugeben, dass ich jetzt meine mich behandelnden Ärzte, so viele sind es nicht, noch nicht so unbedingt unmittelbar damit konfrontiert habe,
+
+00:24:40.001 --> 00:24:48.200
+<v timpritlove>wie hier ich laufe ja den ganzen Tag mit einem Gerät am Arm rum, was die ganze Zeit meinen Herzschlag aufzeichnet,
+
+00:24:48.201 --> 00:24:54.500
+<v timpritlove>ich könnte jetzt hier einen Katalog der letzten zwei Jahre ausliefern, kannst du was damit anfangen?
+
+00:24:54.501 --> 00:24:58.700
+<v timpritlove>Das ist also auch eine Situation, wo eigentlich so die etablierten Ärzte erst mal gar nicht mit klarkommen oder?
+
+00:24:58.701 --> 00:25:00.900
+<v sebastiankuhn>Ja. Das ist eins der Probleme.
+
+00:25:00.901 --> 00:25:06.000
+<v sebastiankuhn>Also das eine, was Sie angesprochen haben, ist einfach so diese Bereitschaft für ein anderes Arzt-Patienten-Verhältnis.
+
+00:25:06.001 --> 00:25:11.900
+<v sebastiankuhn>Und das haben wir, dieses „Problem“ das haben wir schon seit rund 15 Jahren.
+
+00:25:11.901 --> 00:25:18.600
+<v sebastiankuhn>Also mit dem Aufkommen von Internet, von Wikipedia, von Google ist es eigentlich zur Normalität geworden,
+
+00:25:18.601 --> 00:25:26.200
+<v sebastiankuhn>dass die meisten Menschen vor oder nach einem Arztbesuch doch mal googeln.
+
+00:25:26.201 --> 00:25:29.000
+<v timpritlove>So hier, ich habe was im Internet gefunden, es sieht ganz schlimm aus um mich.
+
+00:25:29.001 --> 00:25:29.700
+<v sebastiankuhn>Genau, es sieht ganz schlimm aus.
+
+00:25:29.701 --> 00:25:35.600
+<v sebastiankuhn>Und man hat Kopfschmerzen und gibt Kopfschmerzen ein und man ist nach zwei Klicks beim Gehirntumor.
+
+00:25:35.601 --> 00:25:40.000
+<v sebastiankuhn>Das ist sagen wir die Schattenseite von dem Ganzen, aber es hat auch viel positives an sich.
+
+00:25:40.001 --> 00:25:44.800
+<v sebastiankuhn>Also Patienten können sich informieren, viele Patienten machen das auch sehr verantwortungsvoll
+
+00:25:44.801 --> 00:25:50.400
+<v sebastiankuhn>und recherchieren auch gute Informationen und kommen vorinformiert zum Arzt.
+
+00:25:50.401 --> 00:25:57.900
+<v sebastiankuhn>Die Reaktion, die sie allerdings bei dem Arzt damit erzielen, wenn sie zum Beispiel mit einem Stapel Wikipedia-Ausdrucken in die Sprechstunde kommen,
+
+00:25:57.901 --> 00:25:58.800
+<v sebastiankuhn>ist unterschiedlich.
+
+00:25:58.801 --> 00:26:06.100
+<v sebastiankuhn>Es gibt eine ganze Reihe von Ärzten, die sieht das positiv, die finden das gut, dass ein Patient sich informiert.
+
+00:26:06.101 --> 00:26:13.500
+<v sebastiankuhn>Aber es gibt auch eine große Anzahl an Ärzten, die dem informierten, dem internetinformierten Patienten eher ablehnend gegenüber steht.
+
+00:26:13.501 --> 00:26:19.000
+<v sebastiankuhn>Und da gibt es gute Studien von der Bertelsmann-Stiftung, es ist ziemlich hälftig.
+
+00:26:19.001 --> 00:26:26.100
+<v sebastiankuhn>Also die Hälfte der Ärzte ist diesbezüglich offen und die andere Hälfte steht dem kritisch gegenüber.
+
+00:26:26.101 --> 00:26:32.100
+<v sebastiankuhn>Wir haben ja gesagt, das ist so eine Entwicklung, also Dr. Google das gibt es seit rund 15 Jahren, dass Patienten sich informieren,
+
+00:26:32.101 --> 00:26:33.600
+<v sebastiankuhn>bevor sie zum Arzt gehen.
+
+00:26:33.601 --> 00:26:40.500
+<v sebastiankuhn>Man ist am Anfang davon ausgegangen, dass man gesagt hat, okay das ist vielleicht auch eine etwas ältere Ärzteschaft,
+
+00:26:40.501 --> 00:26:42.000
+<v sebastiankuhn>das wird sich schon mit der Zeit …
+
+00:26:42.001 --> 00:26:43.400
+<v timpritlove>… von alleine lösen.
+
+00:26:43.401 --> 00:26:45.000
+<v sebastiankuhn>… von alleine regeln.
+
+00:26:45.001 --> 00:26:45.700
+<v sebastiankuhn>Das ist nicht der Fall.
+
+00:26:45.701 --> 00:26:53.300
+<v sebastiankuhn>Also es gibt diese Untersuchung von 2006 und es gibt sie aus dem vergangenen Jahr, es hat sich nichts geändert diesbezüglich.
+
+00:26:53.301 --> 00:26:57.700
+<v sebastiankuhn>Also es ist eher eine grundlegende Einstellungssache, auch auf Seiten der Ärzteschaft.
+
+00:26:57.701 --> 00:27:05.900
+<v sebastiankuhn>Und von daher muss man in die Medizinerausbildung auch hineinbringen, dass die meisten Patienten heutzutage vorinformiert sind.
+
+00:27:05.901 --> 00:27:08.200
+<v sebastiankuhn>Und wie spreche ich mit einem vorinformierten Patienten.
+
+00:27:08.201 --> 00:27:14.200
+<v sebastiankuhn>Da kann ich zum Teil auf einem höheren Niveau einsteigen, aber ich muss natürlich auch seine Ängste und seine Sorgen
+
+00:27:14.201 --> 00:27:20.900
+<v sebastiankuhn>und vielleicht auch manchmal Fehlinformationen, die er auf dem Weg mitgenommen hat, die muss man bestimmt auch adressieren.
+
+00:27:20.901 --> 00:27:25.000
+<v sebastiankuhn>Und nur so schafft man es, ein gutes Gespräch, eine gute Gesprächsbasis zu schaffen.
+
+00:27:25.001 --> 00:27:36.000
+<v timpritlove>Da würde ich ja gleich mal aus der anderen Perspektive zurückfragen, wie rede ich denn mit so einem Arzt, um irgendwie sozusagen dieses Verhältnis auch gut erreichen zu können?
+
+00:27:36.001 --> 00:27:42.600
+<v sebastiankuhn>Gute Frage, da erwischen Sie mich auf dem kalten Fuß hier.
+
+00:27:42.601 --> 00:27:42.300
+<v timpritlove>Dafür bin ich da.
+
+00:27:42.301 --> 00:27:51.800
+<v sebastiankuhn>Ich glaube, es ist schon so, dass bei Ärzten sich häufig die Nackenhaare stellen, wenn ein Patient reinkommt und im Endeffekt schon „alles weiß“.
+
+00:27:51.801 --> 00:28:02.400
+<v sebastiankuhn>Und sagt, hier ist die Evidenz, hier sind die Unterlagen, ich leide bestimmt an einem Gehirntumor, weil ich habe seit zwei Tagen Kopfschmerzen.
+
+00:28:02.401 --> 00:28:05.300
+<v sebastiankuhn>Das ist sicherlich auch auf Patientenseite nicht das beste.
+
+00:28:05.301 --> 00:28:06.300
+<v timpritlove>Aber so würde ich ja nicht rangehen.
+
+00:28:06.301 --> 00:28:14.500
+<v timpritlove>Es geht ja nicht darum, dass ich jetzt schon meine, selber die Diagnose stellen zu können, sondern einfach generell sich auch auf ein Behandlungssystem einzulassen,
+
+00:28:14.501 --> 00:28:19.500
+<v timpritlove>wo man sagt, hier ich mag sowieso meine Gadgets, die ich die ganze Zeit mit mir rumschleppe,
+
+00:28:19.501 --> 00:28:21.000
+<v timpritlove>da hätte ich auch durchaus mal Bock.
+
+00:28:21.001 --> 00:28:25.800
+<v timpritlove>Gibt es irgendwas, was ich so permanent messen kann?
+
+00:28:25.801 --> 00:28:33.300
+<v timpritlove>Und dann aber auch im Idealfall, jetzt übertreibe ich es gleich natürlich wieder so ein bisschen, eigentlich möchte ich so einen Arzt mit API.
+
+00:28:33.301 --> 00:28:35.700
+<v timpritlove>Also so mit direkt …
+
+00:28:35.701 --> 00:28:45.000
+<v timpritlove>Also warum soll ich mir denn da einen Termin holen, wenn ich sagen wir mal diese Daten eigentlich auch die ganze Zeit zum Arzt hochladen kann
+
+00:28:45.001 --> 00:28:52.100
+<v timpritlove>und der kann sich das ja dann irgendwann mal anschauen oder irgendwelche Parameter schlagen aus und dann sagen,
+
+00:28:52.101 --> 00:28:57.100
+<v timpritlove>ja jetzt wäre es mal Zeit für einen Termin, da gibt es was, das müssen wir uns mal genauer anschauen.
+
+00:28:57.101 --> 00:28:58.400
+<v timpritlove>Wäre ja eigentlich ganz cool oder?
+
+00:28:58.401 --> 00:29:02.100
+<v sebastiankuhn>Genau ja. Aber da prallen Welten im Moment aufeinander.
+
+00:29:02.101 --> 00:29:06.600
+<v sebastiankuhn>Das eine, was Sie beschreiben, und das ist auch sehr spannend, und das ist auch das, mit dem ich mich sehr intensiv beschäftige
+
+00:29:06.601 --> 00:29:12.200
+<v sebastiankuhn>oder auch in dem Rahmen von dem Curriculum, das sind die neuen Möglichkeiten der digitalen Medizin.
+
+00:29:12.201 --> 00:29:22.000
+<v sebastiankuhn>Also Entwicklung der Informationstechnologie, egal ob das jetzt eine Smartwatch ist oder ein über Bluetooth angebundenes Messgerät,
+
+00:29:22.001 --> 00:29:27.500
+<v sebastiankuhn>und das andere ist die medizinische Versorgungsrealität in vielen deutschen Praxen und Kliniken.
+
+00:29:27.501 --> 00:29:32.700
+<v sebastiankuhn>Und das ist ein Prozess, der wird noch ein paar Jahre dauern, bis der angeglichen ist.
+
+00:29:32.701 --> 00:29:40.000
+<v sebastiankuhn>Aber es gibt durchaus in Modellprojekten wirklich sehr sehr sinnvolle Entwicklungen und wo man auch sieht,
+
+00:29:40.001 --> 00:29:48.900
+<v sebastiankuhn>dass diese Art von Integration von neuer Technologie in ein existierendes Versorgungssystem auch funktioniert.
+
+00:29:48.901 --> 00:29:55.600
+<v sebastiankuhn>Ein gutes Beispiel vielleicht hierzu ist die aktuell laufende Studie von Apple.
+
+00:29:55.601 --> 00:30:05.300
+<v sebastiankuhn>Also Apple hat zusammen mit der Stanford University, einer renommierten medizinischen Fakultät in den USA, eine Studie gestartet,
+
+00:30:05.301 --> 00:30:09.600
+<v sebastiankuhn>um krankhafte Herzrhythmen zu erkennen.
+
+00:30:09.601 --> 00:30:13.700
+<v sebastiankuhn>Also die häufigste Herzrhythmusstörung ist das Vorhofflimmern.
+
+00:30:13.701 --> 00:30:20.600
+<v sebastiankuhn>Dass einfach der Vorhof nicht mehr mit dem Herzschlag pumpt, sondern unkontrollierte Bewegungen macht.
+
+00:30:20.601 --> 00:30:25.000
+<v sebastiankuhn>Und dieses Vorhofflimmern ist ein Risiko für eine Reihe von Herzkreislauferkrankungen,
+
+00:30:25.001 --> 00:30:30.000
+<v sebastiankuhn>unter anderem auch eine häufige Ursache, warum Patienten einen Schlaganfall bekommen.
+
+00:30:30.001 --> 00:30:40.300
+<v sebastiankuhn>Jetzt ist es so, dass über die Smartwatch, also eine ganz einfache, ganz normale Apple Watch, kein spezifisches Medizinprodukt, der Puls gemessen wird.
+
+00:30:40.301 --> 00:30:49.000
+<v sebastiankuhn>Also wir können über so Smartwatches einfach registrieren, unser Puls ist jetzt 70 oder 80 oder wenn wir vielleicht Joggen gehen auch vielleicht 150-160.
+
+00:30:49.001 --> 00:30:57.800
+<v sebastiankuhn>Zusätzlich hat diese Smartwatch auch einen Bewegungssensor, also sie registriert laufen oder joggen wir aktuell oder sitzen wir im Moment.
+
+00:30:57.801 --> 00:31:11.600
+<v sebastiankuhn>Und wenn wir seit länger als 10 Minuten sitzen, aber unser Herzschlag über 120 gemessen wird, dann ist es mit 98% Wahrscheinlichkeit ein Vorhofflimmern.
+
+00:31:11.601 --> 00:31:16.200
+<v sebastiankuhn>Und das ist genau das, was die Apple Watch seit einigen Monaten misst.
+
+00:31:16.201 --> 00:31:25.700
+<v sebastiankuhn>Also sie kombiniert die Informationen, der Patient oder der Apple Watch-Träger hat sich in den letzten 10 Minuten eigentlich nicht wesentlich bewegt,
+
+00:31:25.701 --> 00:31:31.800
+<v sebastiankuhn>also er sitzt oder er liegt, aber trotzdem hat er einen ungewöhnlich hohen Herzrhythmus, Herzschlag.
+
+00:31:31.801 --> 00:31:36.200
+<v timpritlove>Kriegt man dann auch gleich eine Notification, dass man sein Testament aufsetzen sollte?
+
+00:31:36.201 --> 00:31:42.900
+<v sebastiankuhn>Nein, das noch nicht zum Glück, aber es kommt die Information auf das Display und die besagt,
+
+00:31:42.901 --> 00:31:51.300
+<v sebastiankuhn>es wurde ein auffälliger Herzrhythmus entdeckt, bitte kontaktieren Sie einen Arzt und lassen Sie sich ein EKG schreiben.
+
+00:31:51.301 --> 00:32:00.400
+<v sebastiankuhn>Und man geht davon aus, dass über diese Apple Heart Study im kommenden Jahr mehr als 100.000 Patienten entdeckt werden,
+
+00:32:00.401 --> 00:32:03.700
+<v sebastiankuhn>die ein Vorhofflimmern haben und damit ein Risiko, einen Schlaganfall zu erleiden.
+
+00:32:03.701 --> 00:32:06.500
+<v timpritlove>Das ist jetzt aber nur eine Funktion für Leute, die freiwillig an diesem Test teilnehmen.
+
+00:32:06.501 --> 00:32:11.600
+<v sebastiankuhn>Genau, das ist im Prinzip freiwillig oder im Endeffekt die einfach eine Uhr tragen.
+
+00:32:11.601 --> 00:32:14.100
+<v sebastiankuhn>Also es ist eine grundliegende Veränderung von der Prävention.
+
+00:32:14.101 --> 00:32:21.700
+<v sebastiankuhn>Also wir kennen ja diverse Präventionsprogramme, aber da hat man sich normal angemeldet oder man hat irgendwas spezielles gemacht, gemessen oder getragen.
+
+00:32:21.701 --> 00:32:28.300
+<v sebastiankuhn>Das findet jetzt ganz unterschiedlich als bisher, und das kann man durchaus auch kritisch sehen, …
+
+00:32:28.301 --> 00:32:37.000
+<v sebastiankuhn>Ein Technologieunternehmen, das eine Apple Watch herstellt, dass sich vielleicht die Leute aufgrund von Sport oder weil sie Musik hören wollen, eigentlich zugelegt haben,
+
+00:32:37.001 --> 00:32:43.300
+<v sebastiankuhn>und plötzlich bekommt man damit eine Notification, die sagt, lassen Sie sich bitte ein EKG schreiben.
+
+00:32:43.301 --> 00:32:51.800
+<v sebastiankuhn>Aber diese Funktion und das ist halt auch das Revolutionäre wurde per Softwareupdate auf rund 40 Millionen Geräte hochgespielt.
+
+00:32:51.801 --> 00:32:54.900
+<v timpritlove>Also die Funktion ist auf allen Apple Watches jetzt schon aktiv?
+
+00:32:54.901 --> 00:32:57.700
+<v sebastiankuhn>Die ist jetzt seit ein paar Monaten auf allen aktiv.
+
+00:32:57.701 --> 00:33:04.700
+<v sebastiankuhn>Und das ist auch sagen wir mal ein Teil von dieser digitalen Revolution, die stattfindet, dass per einem Klick,
+
+00:33:04.701 --> 00:33:12.100
+<v sebastiankuhn>per Softwareupdate hunderte von Millionen von Geräten von einem Moment auf den anderen plötzlich eine Funktion erlangen
+
+00:33:12.101 --> 00:33:21.900
+<v sebastiankuhn>und dass diese Geräte in aller Regel jetzt nicht irgendwelche zugelassenen Medizinprodukte sind, so wie vielleicht irgendein 24-Stunde-EKG oder ähnliches,
+
+00:33:21.901 --> 00:33:30.200
+<v sebastiankuhn>was im Versorgungssystem in der Medizin benutzt wird, sondern dass es eigentlich aus der Informations- oder Consumersparte kommt
+
+00:33:30.201 --> 00:33:36.600
+<v sebastiankuhn>und plötzlich Funktionen erlangt, die im Gesundheits- oder im medizinischen Bereich liegen.
+
+00:33:36.601 --> 00:33:45.800
+<v timpritlove>Was … gut jetzt sind wir so beim Device, wir hatten ja auch über Apps an sich gesprochen.
+
+00:33:45.801 --> 00:33:51.300
+<v timpritlove>Gibt es denn noch Entwicklungen, die jetzt so nicht unmittelbar mit dem Messen von Werten beschäftigt sind?
+
+00:33:51.301 --> 00:33:55.900
+<v timpritlove>Weil ich meine, gut das mit dem Puls ist jetzt relativ einfach.
+
+00:33:55.901 --> 00:34:01.500
+<v timpritlove>Andere Dinge, Blutzucker und so weiter, das ist alles schon etwas invasiver.
+
+00:34:01.501 --> 00:34:07.800
+<v timpritlove>Was kann an der Stelle auch noch getan werden oder was wird getan bereits?
+
+00:34:07.801 --> 00:34:14.500
+<v sebastiankuhn>Genau, also was sehr sehr spannend ist, ist die Entwicklung, die sich aktuell abzeichnet mit Smartphone-Apps,
+
+00:34:14.501 --> 00:34:20.000
+<v sebastiankuhn>die künstliche Intelligenz anbieten in Kombination mit medizinischem Wissen.
+
+00:34:20.001 --> 00:34:28.800
+<v sebastiankuhn>Das ist eine Entwicklung, wo auch wieder die Technologieunternehmen das komplette medizinische System eigentlich umgehen
+
+00:34:28.801 --> 00:34:36.900
+<v sebastiankuhn>und direkt an den Kunden, ich sage jetzt bewusst Kunden, gehen, der aber in diesem Fall ein Patient ist.
+
+00:34:36.901 --> 00:34:42.800
+<v sebastiankuhn>Es gibt eine Reihe von Anamnese-Apps, die machen so etwas ähnliches wie das, was eigentlich ein Hausarzt macht.
+
+00:34:42.801 --> 00:34:49.500
+<v sebastiankuhn>Also man geht zum Arzt und sagt, mir geht es nicht so gut, ich habe Kopfschmerzen oder ich habe Fieber oder mir tut mein Knie weh.
+
+00:34:49.501 --> 00:34:51.400
+<v sebastiankuhn>Und der Arzt fragt dann, wie lange haben Sie das schon?
+
+00:34:51.401 --> 00:34:54.500
+<v sebastiankuhn>Wie ist das aufgetreten?
+
+00:34:54.501 --> 00:35:00.500
+<v sebastiankuhn>Wie ist es denn, wenn Sie sich ausruhen oder in welchem Bereich verspüren Sie Kopfschmerz am stärksten?
+
+00:35:00.501 --> 00:35:01.900
+<v sebastiankuhn>Wie reagiert der, wenn Sie eine Schmerztablette einnehmen?
+
+00:35:01.901 --> 00:35:05.400
+<v sebastiankuhn>Das sind Anamnese-Apps, die sich mit einem unterhalten.
+
+00:35:05.401 --> 00:35:12.700
+<v sebastiankuhn>Und hinten dran steht eine künstliche Intelligenz und mehr oder weniger das komplett verfügbare medizinische Wissen.
+
+00:35:12.701 --> 00:35:20.200
+<v sebastiankuhn>Und diese App gibt einem Rückmeldung, was mögliche Diagnosen sind und gibt auch Empfehlungen, Sie sollten eine Arzt aufsuchen oder
+
+00:35:20.201 --> 00:35:25.200
+<v sebastiankuhn>es hört sich nach einem Notfall an, bitte kontaktieren Sie eine Notaufnahme.
+
+00:35:25.201 --> 00:35:29.400
+<v sebastiankuhn>Und auch hier ist wieder, das Revolutionäre ist nicht die Technologie.
+
+00:35:29.401 --> 00:35:36.100
+<v sebastiankuhn>Es gibt sicherlich auch künstliche Intelligenzen seit einigen Jahren, die in einzelnen medizinischen Versorgungszentren schon aktiv waren.
+
+00:35:36.101 --> 00:35:49.200
+<v sebastiankuhn>Das Revolutionäre und auch das, was ganz ganz aktuell in diesem Jahr stattfindet, ist, dass einfach diese Veränderung einer wirklich sehr sehr großen Anzahl von Personen verfügbar wird.
+
+00:35:49.201 --> 00:35:58.600
+<v sebastiankuhn>Also diese App, die ich gerade beschrieben habe, die bekannteste, nennt sich ADA und ist jetzt seit einem knappen Jahr auf dem Markt.
+
+00:35:58.601 --> 00:36:03.400
+<v sebastiankuhn>Aktuell nutzen rund 2 Millionen Menschen diese App.
+
+00:36:03.401 --> 00:36:09.400
+<v sebastiankuhn>Also eine vollkommen andere Dimension als eine künstliche Intelligenz, die in der Vergangenheit auch schon bestanden hat,
+
+00:36:09.401 --> 00:36:12.100
+<v sebastiankuhn>wo einzelne Kliniken in Deutschland das genutzt haben.
+
+00:36:12.101 --> 00:36:18.600
+<v sebastiankuhn>Also es geht, künstliche Intelligenz kommt zum einen einer Vielzahl von Patienten zugute
+
+00:36:18.601 --> 00:36:27.100
+<v sebastiankuhn>und insbesondere ist nicht mehr nur limitiert für den Arzt, sondern ganz spezifisch eigentlich für Patienten entwickelt.
+
+00:36:27.101 --> 00:36:31.300
+<v timpritlove>Das heißt, wir reden hier von so maschinellem Lernen.
+
+00:36:31.301 --> 00:36:38.300
+<v timpritlove>Sprich, diese eigentliche Intelligenz besteht daraus, dass man sich viele Fälle sozusagen erst mal in eine große Datenbank reinschaufelt
+
+00:36:38.301 --> 00:36:40.500
+<v timpritlove>und daraus sozusagen Schlüsse zieht.
+
+00:36:40.501 --> 00:36:46.100
+<v timpritlove>Nach dem Motto, diese Symptome sind aufgetreten und das war dann letzten Endes das
+
+00:36:46.101 --> 00:36:52.300
+<v timpritlove>und dann kann man sozusagen daraus eine Quersumme bilden, mal salopp formuliert.
+
+00:36:52.301 --> 00:36:59.700
+<v timpritlove>Und wenn ich halt ähnliche Symptome melde, ist dann sozusagen die Möglichkeit, da Schlüsse draus zu ziehen und zu sagen,
+
+00:36:59.701 --> 00:37:03.800
+<v timpritlove>naja hier, das könnte das sein oder könnte das sein oder ist mit ziemlicher Wahrscheinlichkeit sogar das oder
+
+00:37:03.801 --> 00:37:09.200
+<v timpritlove>ich sage dir jetzt mal gar nicht was es ist, aber geh mal zum Arzt.
+
+00:37:09.201 --> 00:37:11.700
+<v timpritlove>Das ist ja dann nur eine Empfehlung, die ich dann bekomme.
+
+00:37:11.701 --> 00:37:16.200
+<v timpritlove>Gibt es denn da auch schon eine Schnittstelle zum Arzt oder zur Klinik?
+
+00:37:16.201 --> 00:37:21.700
+<v timpritlove>Also gibt es irgendjemanden, wo ich hingehen kann und sagen kann, hier ich will das jetzt nicht alles nacherzählen, 
+
+00:37:21.701 --> 00:37:29.700
+<v timpritlove>und dann kommt ihr zu einem komplett anderen Schluss, sondern ich hätte jetzt in irgendeiner Form auch vielleicht jetzt sagen wir mal dann ebne auch für einen Arzt eine Erklärung.
+
+00:37:29.701 --> 00:37:39.000
+<v timpritlove>Weil wenn die App sagt, ja könnte was mit dem Knie sein, weil ich halt jetzt mich mit lateinischen Fachbegriffen an der Stelle nicht so gut auskenne,
+
+00:37:39.001 --> 00:37:45.400
+<v timpritlove>gibt es dann auch die Möglichkeit zu sagen, hier ist das Ganze mal ein bisschen in arztlesbarer Form oder wie läuft das?
+
+00:37:45.401 --> 00:37:49.900
+<v sebastiankuhn>Genau, also das Ergebnis von der App ist zum einen, dass die Patienten das auf dem Bildschirm angezeigt bekommen,
+
+00:37:49.901 --> 00:37:57.600
+<v sebastiankuhn>aber man hat auch das Knöpfchen im Endeffekt, dass das als PDF-Bericht die Informationen, die man gemacht hat,
+
+00:37:57.601 --> 00:38:05.900
+<v sebastiankuhn>aber auch die Verdachtsdiagnosen und die Einschätzungen man direkt an einen Arzt mailen kann.
+
+00:38:05.901 --> 00:38:11.500
+<v sebastiankuhn>Darüber hinaus gibt es noch eine weitere Funktion, die aktuell allerdings in Deutschland nicht freigeschaltet ist, aber in Großbritannien schon funktioniert,
+
+00:38:11.501 --> 00:38:15.100
+<v sebastiankuhn>man kann direkt telemedizinisch einen Arzt kontaktieren.
+
+00:38:15.101 --> 00:38:20.100
+<v sebastiankuhn>Das ist in Deutschland aktuell noch nicht erlaubt, weil das Fernbehandlungsverbot gilt.
+
+00:38:20.101 --> 00:38:26.400
+<v sebastiankuhn>Das heißt, ein Arzt, der einen Patienten noch nicht vorher persönlich kennengelernt hat, darf ihn nicht behandeln.
+
+00:38:26.401 --> 00:38:32.100
+<v sebastiankuhn>Also wenn ich zum Beispiel einen Hausarzt habe, da war ich schon öfter gewesen, dann kann der mich auch telemedizinisch behandeln,
+
+00:38:32.101 --> 00:38:36.300
+<v sebastiankuhn>aber nicht, wenn ich noch nicht bei ihm vorher war.
+
+00:38:36.301 --> 00:38:41.400
+<v sebastiankuhn>Dieses Fernbehandlungsverbot steht aktuell zur Diskussion.
+
+00:38:41.401 --> 00:38:48.700
+<v sebastiankuhn>Und in Baden-Württemberg sind eine Reihe von Modellversuchen schon gelaufen, bei denen das Fernbehandlungsverbot innerhalb von den Piloten aufgehoben wurde.
+
+00:38:48.701 --> 00:38:54.600
+<v sebastiankuhn>Und es wird im Laufe dieses Jahres darüber entschieden werden, ob das Fernbehandlungsverbot fällt.
+
+00:38:54.601 --> 00:38:59.500
+<v sebastiankuhn>Und aktuell sind die Trends dazu, dass das wahrscheinlich der Fall sein wird.
+
+00:38:59.501 --> 00:39:02.000
+<v timpritlove>Was ist denn der Grund für dieses Fernbehandlungsverbot?
+
+00:39:02.001 --> 00:39:04.100
+<v timpritlove>Warum besteht es denn?
+
+00:39:04.101 --> 00:39:05.600
+<v sebastiankuhn>Also es gibt durchaus auch gute Gründe.
+
+00:39:05.601 --> 00:39:15.700
+<v sebastiankuhn>Also es gibt, ein Arztbesuch ist viel mehr als eine Beratung zu irgendeiner Information, die man vielleicht auch durch einen Computer aufnehmen kann.
+
+00:39:15.701 --> 00:39:18.500
+<v sebastiankuhn>Also da bin ich wirklich auch ein klarer Befürworter.
+
+00:39:18.501 --> 00:39:24.600
+<v sebastiankuhn>Man muss sich ganz bewusst sein, wenn ein Patient zum Arzt geht wegen Kopfschmerzen,
+
+00:39:24.601 --> 00:39:26.900
+<v sebastiankuhn>dann hat es manchmal viele Gründe.
+
+00:39:26.901 --> 00:39:32.900
+<v sebastiankuhn>Man muss vielleicht auch im persönlichen Gespräch nachhaken, wie ist es familiär, wie ist es am Arbeitsplatz?
+
+00:39:32.901 --> 00:39:39.500
+<v sebastiankuhn>Vielleicht hat der Patient zusätzlich noch Sorgen, da ist manchmal auch eine körperliche Erkrankung manchmal ein Anlass,
+
+00:39:39.501 --> 00:39:43.600
+<v sebastiankuhn>um im Gespräch dann doch noch auf was weiteres zu sprechen zu kommen mit dem Arzt.
+
+00:39:43.601 --> 00:39:51.100
+<v sebastiankuhn>Und das ist etwas, und da bin ich wirklich ganz klar der Überzeugung, das können wir und das wollen wir wahrscheinlich auch gar nicht telemedizinisch
+
+00:39:51.101 --> 00:39:54.000
+<v sebastiankuhn>oder mit einer App oder mit irgendetwas abbilden.
+
+00:39:54.001 --> 00:40:01.600
+<v sebastiankuhn>Und das ist auch denke ich ein guter Grund dafür, dass das Fernbehandlungsverbot gilt, also dass man zunächst eigentlich einen Arzt braucht,
+
+00:40:01.601 --> 00:40:04.000
+<v sebastiankuhn>wo man ein stabiles Arzt-Patienten-Verhältnis hat,
+
+00:40:04.001 --> 00:40:07.300
+<v sebastiankuhn>wo man auch durchaus in die Sprechstunde geht.
+
+00:40:07.301 --> 00:40:14.200
+<v sebastiankuhn>Wenn es aber drum … wenn sozusagen aktuell nur die Frage besteht, in den letzten zwei Tagen ist meine Lungenfunktion,
+
+00:40:14.201 --> 00:40:19.500
+<v sebastiankuhn>ich kriege schlecht Luft, das hat sich verändert und dann kann der Arzt durchaus gut den Rat geben,
+
+00:40:19.501 --> 00:40:26.600
+<v sebastiankuhn>bitte verändern Sie Ihre Medikation folgendermaßen, nehmen Sie morgens zwei Tabletten ein, anstatt nur einer,
+
+00:40:26.601 --> 00:40:28.800
+<v sebastiankuhn>und das sind Sachen, die kann man telemedizinisch gut abbilden.
+
+00:40:28.801 --> 00:40:34.500
+<v sebastiankuhn>Und das war auch in der Vergangenheit der Grund, warum es dieses Fernbehandlungsverbot für Erstbehandlungen gab,
+
+00:40:34.501 --> 00:40:41.000
+<v sebastiankuhn>aber die Entwicklung ist ganz klar in die Richtung, dass das vermutlich dieses Jahr noch aufgehoben wird.
+
+00:40:41.001 --> 00:40:44.700
+<v timpritlove>Ja vor allem so als Anschlussding ist das ja eigentlich auch sehr wünschenswert.
+
+00:40:44.701 --> 00:40:50.900
+<v timpritlove>Warum soll ich jetzt für so ein Tablettenupdate quer durch die Stadt fahren?
+
+00:40:50.901 --> 00:40:56.300
+<v timpritlove>Also es ist ja nicht nur die eigene Zeit, der eigene Aufwand, den man bringt, sondern wenn man sich die Situation in Deutschland anschaut,
+
+00:40:56.301 --> 00:41:01.000
+<v timpritlove>haben wir derzeit das Problem, es ist sehr schwierig, Termine zu bekommen bei den Ärzten.
+
+00:41:01.001 --> 00:41:03.500
+<v timpritlove>Ich meine, Privatversicherte vielleicht mal ausgenommen.
+
+00:41:03.501 --> 00:41:06.700
+<v timpritlove>Aber die Realität ist, da ist relativ wenig Zeit so.
+
+00:41:06.701 --> 00:41:13.700
+<v timpritlove>Und wenn man irgendwie mal fünf Minuten kriegt, dann ist man ja schon froh und das mag ja auch schon mal ein interessanter Placeboeffekt sein,
+
+00:41:13.701 --> 00:41:19.100
+<v timpritlove>einfach nur überhaupt sich bei jemandem versichern zu können, dass man nicht gleich in 10 Minuten stirbt.
+
+00:41:19.101 --> 00:41:28.700
+<v timpritlove>Und ich denke, dass ist dann vielleicht auch schon mal die Sache auch Wert gewesen, für ältere Leute vielleicht noch ein bisschen mehr als für die jüngeren Leute.
+
+00:41:28.701 --> 00:41:36.000
+<v timpritlove>Aber so grundsätzlich hätte ich ja auch ein Interesse daran, mit Ärzten in so eine sportliche Beziehung zu kommen.
+
+00:41:36.001 --> 00:41:47.100
+<v timpritlove>So nach dem Motto, ja hier, du hast die Kompetenz, ich habe die Daten, lass mal einen Kanal aufmachen, der jetzt aber nicht unbedingt sehr viel mehr Arbeit erzeugt,
+
+00:41:47.101 --> 00:41:56.800
+<v timpritlove>sondern eigentlich eher eine Betreuung erlaubt, ohne dass jetzt viel von dieser wertvollen Präsenzzeit draufgeht, die ja nicht unbedingt erforderlich sein müsste
+
+00:41:56.801 --> 00:41:59.900
+<v timpritlove>oder die vielleicht noch nicht mal die Sache einfacher macht.
+
+00:41:59.901 --> 00:42:00.900
+<v sebastiankuhn>Genau, Sie haben das gut zusammengefasst.
+
+00:42:00.901 --> 00:42:03.900
+<v sebastiankuhn>Das ist im Endeffekt ein Großteil der digitalen Transformation.
+
+00:42:03.901 --> 00:42:12.900
+<v sebastiankuhn>Also wenn ich als Patient Informationen habe, warum soll ich die nicht vorher schon mal sammeln und in einer gut lesbaren Form präsentieren
+
+00:42:12.901 --> 00:42:16.300
+<v sebastiankuhn>oder auch vielleicht manchmal diese Informationen über einen längeren Zeitraum generieren?
+
+00:42:16.301 --> 00:42:18.300
+<v sebastiankuhn>Da gehören auch diese Messwerte dazu.
+
+00:42:18.301 --> 00:42:25.200
+<v sebastiankuhn>Vielleicht einfache Sachen, wie jetzt mit einer Smartwatch, aber vielleicht auch spezielle Werte als chronisch kranker Mensch,
+
+00:42:25.201 --> 00:42:27.300
+<v sebastiankuhn>mit einem speziellen Messgerät noch.
+
+00:42:27.301 --> 00:42:35.900
+<v sebastiankuhn>Und das Ganze mit Informationstechnologie gut aufzubereiten, dass man das farbcodiert oder mit einfach sichtbaren Graphen gut erkennen kann.
+
+00:42:35.901 --> 00:42:40.300
+<v sebastiankuhn>Darin liegt gerade ein Teil von diesem Reiz von der digitalen Medizin.
+
+00:42:40.301 --> 00:42:47.800
+<v sebastiankuhn>Dass ein Arzt dann nicht durch ein Blutzuckertagebuch irgendwie wälzen muss mit irgendwie hunderten von Messwerten und er sieht nur Zahlen,
+
+00:42:47.801 --> 00:42:55.600
+<v sebastiankuhn>sondern dass man da schnell den Durchschnitt und vielleicht eine Verlaufsgrafik sehen kann, das kann man in wenigen Sekunden begreifen
+
+00:42:55.601 --> 00:43:01.900
+<v sebastiankuhn>und dann hat man auch wieder Zeit, um mit dem Patienten sich zu unterhalten und zu überlegen, wo sind denn die Probleme?
+
+00:43:01.901 --> 00:43:05.200
+<v sebastiankuhn>Aha nachts sind die Blutzuckerwert das Problem, tagsüber ist alles im grünen Bereich.
+
+00:43:05.201 --> 00:43:07.900
+<v sebastiankuhn>Wir haben nachts immer Abfälle.
+
+00:43:07.901 --> 00:43:14.700
+<v sebastiankuhn>Und genau diese Informationen und das ermöglicht einfach die digitale Transformation bei vielen Erkrankungen,
+
+00:43:14.701 --> 00:43:18.900
+<v sebastiankuhn>können wir einfach auf einem anderen Niveau mit dem Patienten einsteigen.
+
+00:43:18.901 --> 00:43:25.000
+<v sebastiankuhn>Der Patient übernimmt im Alltag mehr Verantwortung, also er generiert mehr Informationen, er generiert mehr Daten,
+
+00:43:25.001 --> 00:43:32.700
+<v sebastiankuhn>er hat auch die Möglichkeit, sich diese Daten selbst anzuschauen über sein Smartphone und eventuell im gewissen Rahmen auch zu reagieren.
+
+00:43:32.701 --> 00:43:41.200
+<v sebastiankuhn>Und er kontaktiert den Arzt zu speziellen Fragen oder auch zu vielleicht geplanten Routineuntersuchungen, wo man die Therapie nochmal optimieren kann.
+
+00:43:41.201 --> 00:43:50.700
+<v sebastiankuhn>Und genau diese Art von anderem Arzt-Patienten-Verhältnis ist Teil von der digitalen Transformation.
+
+00:43:50.701 --> 00:43:57.900
+<v sebastiankuhn>Und wenn die gut funktioniert, dann erlangen Patienten deutlich mehr Verantwortung für ihre Erkrankung oder für ihre Gesundheit.
+
+00:43:57.901 --> 00:44:08.400
+<v sebastiankuhn>Und dieses geteilte Projekt das muss sowohl vom Patienten verstanden werden, als auch vom Arzt.
+
+00:44:08.401 --> 00:44:14.100
+<v timpritlove>Wird man dann so als Arzt ein bisschen so zum Gesundheitscoach?
+
+00:44:14.101 --> 00:44:23.400
+<v sebastiankuhn>Ja, also ich glaube, dass ich sage mal das Ärztebild, dass der Arzt das komplette Wissen auf seiner Seite hat, und dann einfach eine Anweisung gibt,
+
+00:44:23.401 --> 00:44:29.900
+<v sebastiankuhn>so wie das vielleicht auch traditionell war vor 40-50 Jahren, wo dann der Arzt sagt, nehmen Sie die Tablette dreimal am Tag
+
+00:44:29.901 --> 00:44:33.500
+<v sebastiankuhn>und die Antwort des Patienten ist, ja Herr Doktor.
+
+00:44:33.501 --> 00:44:35.200
+<v timpritlove>Halbgott in weiß.
+
+00:44:35.201 --> 00:44:40.100
+<v sebastiankuhn>Das ist etwas, dieses Arztbild wird nur noch von wenigen Menschen gemocht.
+
+00:44:40.101 --> 00:44:47.000
+<v sebastiankuhn>Es gibt sicherlich noch eine Reihe von Personen, die gern auch diese Verantwortung und diese Entscheidung an den Arzt delegieren,
+
+00:44:47.001 --> 00:44:50.900
+<v sebastiankuhn>das ist mittlerweile aber absolut die Minderheit der Patienten.
+
+00:44:50.901 --> 00:44:55.500
+<v sebastiankuhn>Die meisten Patienten möchten Verantwortung für ihre Gesundheit übernehmen.
+
+00:44:55.501 --> 00:45:03.700
+<v sebastiankuhn>Möchten Informationen vorab bekommen, zum Teil vom Arzt, aber zum Teil auch aus anderen Quellen und da ist das Internet die erste Stelle.
+
+00:45:03.701 --> 00:45:08.600
+<v sebastiankuhn>Sie möchten Beratung bekommen durch den Arzt, aber auch durch andere Personen.
+
+00:45:08.601 --> 00:45:14.900
+<v sebastiankuhn>Und sie möchten bei dem Entscheidungsprozess und vielleicht auch bei einem langfristigen Behandlungsverlauf eine relevante Rolle spielen.
+
+00:45:14.901 --> 00:45:24.300
+<v sebastiankuhn>Und da sind einfach digitale Technologien ein Weg, wo man das erleichtern kann, wo man das verbessern kann.
+
+00:45:24.301 --> 00:45:38.500
+<v timpritlove>Ich meine, das gibt ja nochmal interessante neue Optionen her, weil wenn ich mir jetzt vorstelle, das ist wahrscheinlich schon ein bisschen in die Zukunft geträumt,
+
+00:45:38.501 --> 00:45:46.800
+<v timpritlove>weil mit Standards ist das ja immer so eine Sache, aber gehen wir mal davon aus, es gäbe so eine Art, wie sage ich,
+
+00:45:46.801 --> 00:45:54.100
+<v timpritlove>digitale Patientenakte, die ich quasi auf meinem Smartphone generiere.
+
+00:45:54.101 --> 00:45:57.100
+<v timpritlove>Alle möglichen Geräte tragen dazu bei, also rein technisch gibt es das ja schon.
+
+00:45:57.101 --> 00:46:04.400
+<v timpritlove>Die Frage ist halt nur, kann ich jetzt einfach meinen Hausarzt quasi mit share to Hausarzt auswählen und sagen,
+
+00:46:04.401 --> 00:46:13.400
+<v timpritlove>so hier, diese Daten bitte, und dann wählt man sich noch aus welche Daten, sollen halt regelmäßig auch geteilt werden.
+
+00:46:13.401 --> 00:46:17.000
+<v timpritlove>So dass sie dann quasi auch in dieser digitalen Urform automatisch vorliegen.
+
+00:46:17.001 --> 00:46:25.400
+<v timpritlove>Und ich weiß schon, wenn ich da zu meinem regelmäßigen Checkup komme, dann ist da schon fünf Minuten vorher mal, spätestens fünf Minuten vorher,
+
+00:46:25.401 --> 00:46:31.200
+<v timpritlove>mal drüber geschaut worden, bzw. ist vielleicht auch schon in so eine Softwareanalyse mit reingeflossen, so nach dem Motto,
+
+00:46:31.201 --> 00:46:34.600
+<v timpritlove>gibt es Auffälligkeiten, gibt es da irgendwelche besonderen Dinge.
+
+00:46:34.601 --> 00:46:41.900
+<v timpritlove>Und würde das dann getan werden, ist das ja nicht nur für den individuellen Fall interessant, sondern man könnte ja dann eben über eine Anonymisierung
+
+00:46:41.901 --> 00:46:52.500
+<v timpritlove>diese Daten ja dann auch deutschlandweit, europaweit, global zusammentragen und daraus ja nochmal komplett neue Diagnosesysteme bauen oder sehe ich das falsch?
+
+00:46:52.501 --> 00:46:54.700
+<v sebastiankuhn>Ja genau, im Prinzip sind es zwei Themen.
+
+00:46:54.701 --> 00:47:02.100
+<v sebastiankuhn>Das eine, was Sie angesprochen haben, ist einfach die Verfügbarkeit von den Gesundheitsdaten entweder in einer App oder in einer Cloud oder ähnliches.
+
+00:47:02.101 --> 00:47:10.200
+<v sebastiankuhn>Und das zweite ist, können wir aus diesen Daten von vielen Patienten medizinisches Wissen generieren, das dazu führt,
+
+00:47:10.201 --> 00:47:12.300
+<v sebastiankuhn>dass es der Allgemeinheit dient.
+
+00:47:12.301 --> 00:47:22.300
+<v sebastiankuhn>Mit der elektronischen Gesundheitskarte, die einfach diese ganzen Daten zusammenführen soll, tut sich das Gesundheitssystem enorm schwer.
+
+00:47:22.301 --> 00:47:30.600
+<v sebastiankuhn>Also das ist ein Projekt, das seit knapp 15 Jahren läuft und 2018 ist immer noch nicht absehbar, wann und vielleicht auch ob
+
+00:47:30.601 --> 00:47:35.800
+<v sebastiankuhn>und in welcher Form die elektronische Gesundheitskarte wirklich kommen wird.
+
+00:47:35.801 --> 00:47:40.300
+<v sebastiankuhn>Also wir hatten ursprünglich mal gedacht, dass wir das schon seit vielen Jahren haben werden.
+
+00:47:40.301 --> 00:47:46.500
+<v sebastiankuhn>Parallel dazu muss man sagen entwickeln Technologieunternehmen das gleiche.
+
+00:47:46.501 --> 00:47:55.500
+<v sebastiankuhn>Nur sie setzen einfach irgendeinen Standard und Apple hat das jetzt mit Apple Heath Records gemacht und in den USA vor zwei Monaten implementiert.
+
+00:47:55.501 --> 00:48:01.100
+<v sebastiankuhn>Und wird es auch weltweit heraussetzen.
+
+00:48:01.101 --> 00:48:05.600
+<v sebastiankuhn>Das Problem, das daraus entsteht, ist einfach, dass wir zueinander nicht kompatible Systeme haben.
+
+00:48:05.601 --> 00:48:09.200
+<v sebastiankuhn>Also Praxis A kann nicht mit Praxis B kommunizieren.
+
+00:48:09.201 --> 00:48:13.300
+<v sebastiankuhn>Vielleicht die eine Praxis kann, aber dann die Klinik das wieder nicht.
+
+00:48:13.301 --> 00:48:22.900
+<v sebastiankuhn>Da wird nichts dran vorbeiführen, dass es ein universelles System gibt, es ist allerdings aktuell noch nicht absehbar, wann und ob wir das haben.
+
+00:48:22.901 --> 00:48:31.100
+<v sebastiankuhn>Das zweite Thema war, was Sie angesprochen haben, wenn dann diese Gesundheitsdaten digital vorliegen, können wir nicht damit große Analysen machen,
+
+00:48:31.101 --> 00:48:35.400
+<v sebastiankuhn>Erkenntnisgewinn und können Patienten davon profitieren.
+
+00:48:35.401 --> 00:48:43.900
+<v sebastiankuhn>Und das ist sicherlich der Fall und in bestimmten Bereichen läuft das auch schon, sicherlich jetzt nicht in einer komplett universellen Plattform,
+
+00:48:43.901 --> 00:48:50.200
+<v sebastiankuhn>wo alle Informationen vorhanden sind, aber eine ganze Reihe von Informationen, zum Beispiel übers deutsche Krebsregister,
+
+00:48:50.201 --> 00:48:56.000
+<v sebastiankuhn>werden mittlerweile mit solchen BigData-Analysen durchforstet mit neuen Technologien
+
+00:48:56.001 --> 00:49:02.900
+<v sebastiankuhn>und sind zum Teil auch in der Lage, relevante Informationen zu generieren.
+
+00:49:02.901 --> 00:49:08.200
+<v sebastiankuhn>Es ist sicherlich nicht der  heilige Gral, der alleinig zur Erkenntnis führt,
+
+00:49:08.201 --> 00:49:15.000
+<v sebastiankuhn>aber es bietet einfach Einblicke, die wir bisher nicht mit klassischen Studien erlangen konnten.
+
+00:49:15.001 --> 00:49:20.300
+<v timpritlove>Naja vor allem ist es ja nicht nur für die akute Behandlung interessant oder sagen wir mal, auch vielleicht für das Aufkommen …
+
+00:49:20.301 --> 00:49:24.500
+<v timpritlove>Also ich könnte mir verschiedene Sachen vorstellen, also Epidemien werden natürlich darüber …
+
+00:49:24.501 --> 00:49:29.700
+<v timpritlove>wir haben jetzt gerade so eine Grippewelle zur aktuellen Zeit, wo es ja wirklich dieses Problem gibt,
+
+00:49:29.701 --> 00:49:35.600
+<v timpritlove>oha jetzt haben wir irgendwie so einen dreifachen Impfstoff gerade über Deutschland verteilt und genau die Grippe, die sich jetzt verbreitet,
+
+00:49:35.601 --> 00:49:37.700
+<v timpritlove>ist darin halt nicht enthalten.
+
+00:49:37.701 --> 00:49:46.100
+<v timpritlove>Was natürlich kein Vorwurf, aber so ist es halt gekommen, hat sich halt ein Virus ausgebildet, den man so nicht rechtzeitig auf dem Zeiger hatte.
+
+00:49:46.101 --> 00:49:52.400
+<v timpritlove>Das ist sicherlich etwas, was sich viel besser beobachten ließe dadurch.
+
+00:49:52.401 --> 00:50:00.500
+<v timpritlove>Andererseits könnte ich mir auch vorstellen, dass das Ganze natürlich für die Forschung ein unfassbar schätzenswerten Datenpool darstellt,
+
+00:50:00.501 --> 00:50:03.300
+<v timpritlove>weil man natürlich darüber dann ganz andere Analysen macht.
+
+00:50:03.301 --> 00:50:11.400
+<v timpritlove>Also man kann halt auch nach ganz anderen Krankheiten suchen, als die jetzt bei dem Einzelnen irgendwie jetzt gerade i der Diskussion sind.
+
+00:50:11.401 --> 00:50:17.000
+<v timpritlove>Und in gewisser Hinsicht könnte ich mir auch vorstellen, dass das für die Politik interessante Ergebnisse liefern könnte,
+
+00:50:17.001 --> 00:50:24.500
+<v timpritlove>weil man halt auch einfach mal den, ja wie geht es uns denn eigentlich in Deutschland, und was sind denn eigentlich die Problemfälle,
+
+00:50:24.501 --> 00:50:32.200
+<v timpritlove>auf die es dann im Zweifelsfall auch am meisten Geld, Ressourcen, Aufmerksamkeit zu verschütten gäbe.
+
+00:50:32.201 --> 00:50:34.200
+<v sebastiankuhn>Ja, spannendes Thema.
+
+00:50:34.201 --> 00:50:36.900
+<v sebastiankuhn>Und da gibt es sicherlich auch eine ganze Reihe von Fortschritt.
+
+00:50:36.901 --> 00:50:45.900
+<v sebastiankuhn>Also wenn man, ich sage jetzt mal gerade ausgehende Winterzeit, Grippewelle, ist fast jährlich ein Problem.
+
+00:50:45.901 --> 00:50:54.100
+<v sebastiankuhn>Klassisch funktioniert es so, dass ein Arzt bei Verdacht auf Grippe den Patienten untersucht, Nasensekret oder auch Speichel untersucht
+
+00:50:54.101 --> 00:51:03.200
+<v sebastiankuhn>und dann erfolgt entweder über einen Schnelltest oder über eine etwas kompliziertere Laboruntersuchung kommt der Beweis, ja es ist eine echte Grippe.
+
+00:51:03.201 --> 00:51:08.400
+<v sebastiankuhn>Also es ist kein Schnupfen oder ein grippaler Infekt, sondern es ist eine richtige Virusgrippe.
+
+00:51:08.401 --> 00:51:17.300
+<v sebastiankuhn>Und da ist es aktuell so, wie es auch vor 10 und vor 20 und vor 30 Jahren war, ein Arzt nimmt sich ein Blatt Papier,
+
+00:51:17.301 --> 00:51:22.900
+<v sebastiankuhn>füllt einen Meldebogen handschriftlich aus und sendet den ans Robert-Koch-Institut.
+
+00:51:22.901 --> 00:51:23.400
+<v sebastiankuhn>Und das Robert-Koch-Institut …
+
+00:51:23.401 --> 00:51:24.900
+<v timpritlove>Per Fax.
+
+00:51:24.901 --> 00:51:32.600
+<v sebastiankuhn>Ja genau. Also halt noch klassisch nicht mehr per Brieftaube, aber per Fax oder per Scan.
+
+00:51:32.601 --> 00:51:36.400
+<v sebastiankuhn>Dort wird das dann ausgewertet und da wird eine Statistik gemacht.
+
+00:51:36.401 --> 00:51:40.100
+<v sebastiankuhn>Das ist ein ich sage mal schon lang etabliertes Verfahren.
+
+00:51:40.101 --> 00:51:49.200
+<v sebastiankuhn>Es bietet hochwertige Informationen, also diese Information wird von einem Arzt bestätigt, nachdem ein spezifischer Test durchgeführt wurde.
+
+00:51:49.201 --> 00:51:50.100
+<v sebastiankuhn>Das sind die Vorteile.
+
+00:51:50.101 --> 00:51:56.100
+<v sebastiankuhn>Die Nachteile haben wir eben schon erkannt, als wir lachen mussten, nämlich irgendjemand muss ein Stück Papier handschriftlich ausfüllen
+
+00:51:56.101 --> 00:52:04.800
+<v sebastiankuhn>und muss ein Fax machen und man fragt sich, sind wir im Jahr 2018 oder sind wir irgendwo in den 70er Jahren steckengeblieben?
+
+00:52:04.801 --> 00:52:12.700
+<v sebastiankuhn>Einen komplett anderen Ansatz und das eine ersetzt nicht das andere, hat Google versucht.
+
+00:52:12.701 --> 00:52:23.100
+<v sebastiankuhn>Google hat anhand von den Suchanfragen, also wenn Personen Grippesymptome schildern, also einfach eingeben bei der Suche,
+
+00:52:23.101 --> 00:52:35.300
+<v sebastiankuhn>Fieber, Kopfschmerz, Schnupfen, Grippe etc., haben die Profile erstellt, also regionale Profile und es gab durchaus interessante Zusammenhänge,
+
+00:52:35.301 --> 00:52:40.800
+<v sebastiankuhn>wo wirklich die Grippe jetzt besonders stark grassiert, in welchen Regionen das ist.
+
+00:52:40.801 --> 00:52:47.900
+<v sebastiankuhn>Zum einen mit diesen offiziellen Daten, wie zum Beispiel dem Robert-Koch-Institut und wo Patienten danach googeln.
+
+00:52:47.901 --> 00:52:52.500
+<v sebastiankuhn>Und man bekommt mit beiden Verfahren unterschiedliche Informationen.
+
+00:52:52.501 --> 00:52:58.900
+<v sebastiankuhn>Also die Google einfach blinde Suche basiert ja nicht auf einem medizinischen Test nicht durch einen Arzt bestätigt,
+
+00:52:58.901 --> 00:53:07.500
+<v sebastiankuhn>aber eine enorm große Personenzahl, also 80 Millionen Bürger, fast jeder googlet heutzutage irgendwelche Informationen.
+
+00:53:07.501 --> 00:53:16.800
+<v sebastiankuhn>Und die Integration von beiden Informationen kann die Grippewelle deutlich besser vorhersagen als nur das Robert-Koch-Institut allein.
+
+00:53:16.801 --> 00:53:18.000
+<v timpritlove>Ist das belegt oder ist das eine These?
+
+00:53:18.001 --> 00:53:20.500
+<v sebastiankuhn>Das sind zum Teil Untersuchungen, die auch belegt sind.
+
+00:53:20.501 --> 00:53:29.300
+<v sebastiankuhn>Es gibt durchaus auch Störfaktoren bei dem Ganzen, aber Google Flue hat durchaus Punkte, wirklich Informationen geliefert, wo die Grippewelle sich ausbreitet,
+
+00:53:29.301 --> 00:53:32.000
+<v sebastiankuhn>ob sie gerade am zunehmen oder am abebben ist.
+
+00:53:32.001 --> 00:53:36.500
+<v sebastiankuhn>Und man muss sagen, es gibt halt auch noch moderne Technologien, die sich irgendwo dazwischen befinden,
+
+00:53:36.501 --> 00:53:44.200
+<v sebastiankuhn>nämlich dass Ärzte App-basiert in Echtzeit Meldungen durchführen und moderne Technologien nutzen.
+
+00:53:44.201 --> 00:53:56.600
+<v sebastiankuhn>Und häufig ist es so, dass diese Integration von klassischen Verfahren mit modernen Verfahren mehr Informationen liefert als jedes Verfahren alleine.
+
+00:53:56.601 --> 00:54:01.600
+<v timpritlove>Läuft das noch dieses Google Flu?
+
+00:54:01.601 --> 00:54:03.300
+<v sebastiankuhn>Google Flu ist noch vorhanden.
+
+00:54:03.301 --> 00:54:09.300
+<v sebastiankuhn>Es gab mal so einen Hype vor, ich würde mal sagen, etwa drei Jahren, als es wirklich so als Heilsbringer war
+
+00:54:09.301 --> 00:54:15.700
+<v sebastiankuhn>und wo dann auch postuliert wurde, Google Flu wäre besser als diese klassischen Meldeverfahren, das ist nicht der Fall.
+
+00:54:15.701 --> 00:54:23.100
+<v sebastiankuhn>Aber Google Flu liefert einfach eine Zusatzinformation oder auch sagen wir mal besonders spannende Regionen,
+
+00:54:23.101 --> 00:54:28.200
+<v sebastiankuhn>wo man vielleicht nochmal etwas dezidierter nachschauen muss, wo die Epidemien sind.
+
+00:54:28.201 --> 00:54:32.100
+<v sebastiankuhn>Also es bietet unterschiedliche Informationen, das eine ersetzt nicht das andere.
+
+00:54:32.101 --> 00:54:37.100
+<v sebastiankuhn>Aber es gibt durchaus mehr Informationen, als wenn man diese Entwicklungen ignoriert.
+
+00:54:37.101 --> 00:54:44.100
+<v timpritlove>Aber wünschenswerter wäre natürlich eine tatsächliche Erfassung von echten Tests.
+
+00:54:44.101 --> 00:54:48.700
+<v timpritlove>Könnte man denn so einen Grippetest auch selber an sich durchführen?
+
+00:54:48.701 --> 00:54:56.700
+<v sebastiankuhn>Also es gibt Schnelltests, die sind noch aktuell in Ärztehand, aber es gibt ja durchaus in anderen Erkrankungen auch Schnelltests,
+
+00:54:56.701 --> 00:55:02.800
+<v sebastiankuhn>die auch direkt in Patientenhände, also frei verkäuflich über die Apotheken verfügbar sind.
+
+00:55:02.801 --> 00:55:06.400
+<v sebastiankuhn>Prinzipiell ist es denkbar.
+
+00:55:06.401 --> 00:55:16.700
+<v sebastiankuhn>Ich denke, die Grippe an sich ist eine schwere Infektionskrankheit, da ist es durchaus auch sinnvoll, das primär erst mal in der Ärztehand zu belassen.
+
+00:55:16.701 --> 00:55:23.500
+<v timpritlove>Jetzt sind wir ja in Deutschland, das heißt, da gibt es dann auch immer viel Skepsis bezüglich des Datenschutzes.
+
+00:55:23.501 --> 00:55:40.500
+<v timpritlove>Das sind ja sicherlich auch keine unbegründeten Bedenken, weil natürlich die medizinischen Informationen jetzt nicht unbedingt nur interessant sind für die Personen, die Ärzte, die Epidemiologen etc.,
+
+00:55:40.501 --> 00:55:49.400
+<v timpritlove>sondern das ist natürlich auch eine Frage, welche Einflüsse hat das zum Beispiel auf Versicherungen, auf die Kosten von Versicherungen, Krankenversicherungen.
+
+00:55:49.401 --> 00:55:51.500
+<v timpritlove>Bleibe ich noch in meiner Versicherung?
+
+00:55:51.501 --> 00:55:59.800
+<v timpritlove>Das ist auch ja glaube ich das, was so ein bisschen diese Gesundheitskarte auch immer so ein bisschen in die dunkle Ecke gestellt hat,
+
+00:55:59.801 --> 00:56:07.500
+<v timpritlove>weil natürlich eine begründete Angst existiert mit, naja wenn ich jetzt komplett auslesbar bin, dann heißt das ja nicht nur,
+
+00:56:07.501 --> 00:56:13.600
+<v timpritlove>dass ich besser beraten werden kann, sondern dass so mehr oder weniger klar dargelegt ist, was so meine Anlagen sind.
+
+00:56:13.601 --> 00:56:23.500
+<v timpritlove>Das geht ja dann bis hin zu genetischen Informationen, die sozusagen so potenzielle Anlagen für bestimmte Krankheiten zu bekommen beinhaltet
+
+00:56:23.501 --> 00:56:37.600
+<v timpritlove>und dass das sozusagen unterlaufen könnte diesen Ansatz des gemeinsamen Tragens des Risikos durch ein gemeinsames Gesundheitssystem.
+
+00:56:37.601 --> 00:56:44.500
+<v timpritlove>Wenn man jetzt plant für eine digitale Medizin, die vor allem natürlich erst mal nach Daten schreit, weil haben wir ja gerade ausführlich diskutiert,
+
+00:56:44.501 --> 00:56:49.800
+<v timpritlove>das hat eine ganze Menge Vorteile auf den ersten und vielleicht auch noch auf den zweiten Blick.
+
+00:56:49.801 --> 00:56:50.900
+<v timpritlove>Wie geht man dann damit um?
+
+00:56:50.901 --> 00:56:52.900
+<v timpritlove>Ist das Teil der Ausbildung hier auch?
+
+00:56:52.901 --> 00:56:56.700
+<v timpritlove>Ist das Teil der Überlegungen?
+
+00:56:56.701 --> 00:56:58.300
+<v timpritlove>Welche Rolle spielt diese Diskussion?
+
+00:56:58.301 --> 00:57:04.100
+<v sebastiankuhn>Also der Aspekt Daten und Datenschutz ist enorm wichtig und ist auch ganz zentral in dem Curriculum abgebildet.
+
+00:57:04.101 --> 00:57:10.800
+<v sebastiankuhn>Sie hatten schon die Apps erwähnt und dass da häufig nicht nur die Information generiert wird, die gewünscht ist,
+
+00:57:10.801 --> 00:57:13.400
+<v sebastiankuhn>sondern auch noch einfach Information abgegriffen ist.
+
+00:57:13.401 --> 00:57:18.200
+<v sebastiankuhn>Und das ist auch ganz klar das Geschäftsmodell von den meisten Apps.
+
+00:57:18.201 --> 00:57:27.600
+<v sebastiankuhn>Wenn man heutzutage die App-Stores, egal ob das iOS ist oder Android, durchforstet, man findet rund 380.000 Apps,
+
+00:57:27.601 --> 00:57:32.800
+<v sebastiankuhn>die vorgeben, Gesundheit zu adressieren.
+
+00:57:32.801 --> 00:57:38.900
+<v sebastiankuhn>Davon ist die absolute Minderzahl sinnvoll.
+
+00:57:38.901 --> 00:57:41.800
+<v sebastiankuhn>Man muss überlegen, was sollte denn so eine App eigentlich können?
+
+00:57:41.801 --> 00:57:45.000
+<v sebastiankuhn>Also zum einen sollte die wirklich das machen, was sie vorgibt.
+
+00:57:45.001 --> 00:57:52.200
+<v sebastiankuhn>Also wenn diese App sagt, sie misst meinen Puls, dann sollte sie das auch machen und nicht irgendeine Fantasiezahl produzieren.
+
+00:57:52.201 --> 00:57:59.800
+<v sebastiankuhn>Das zweite ist, sie sollte datenschutzkonform sein, das heißt, nicht irgendwelche Zusatzinformationen abgreifen, wie zum Beispiel Bewegungsmuster
+
+00:57:59.801 --> 00:58:04.700
+<v sebastiankuhn>oder noch die Schrittzahl erfassen, obwohl das gar nicht dem Nutzer angezeigt wird.
+
+00:58:04.701 --> 00:58:08.700
+<v sebastiankuhn>Also es sollte wirklich datensparsam sein und datenschutzkonform.
+
+00:58:08.701 --> 00:58:17.900
+<v sebastiankuhn>Also auch, dass die Daten regional gespeichert sind, dass die nicht mit 10 weiteren Firmen geteilt werden, dass nicht die Daten verkauft werden.
+
+00:58:17.901 --> 00:58:25.000
+<v sebastiankuhn>Und das dritte ist, man sollte als Verbraucher einfach informiert werden, auf was man sich einlässt.
+
+00:58:25.001 --> 00:58:31.000
+<v sebastiankuhn>Und wir kennen alle die Problematik, wir laden eine App im Appstore runter und dann müssen wir die AGBs akzeptieren
+
+00:58:31.001 --> 00:58:33.000
+<v sebastiankuhn>und die sind 68 Seiten lang.
+
+00:58:33.001 --> 00:58:39.900
+<v sebastiankuhn>Und mit jedem Softwareupdate müssen wir die AGBs wieder bestätigen, und es gibt fast niemanden, der diese AGBs liest
+
+00:58:39.901 --> 00:58:43.900
+<v sebastiankuhn>oder der auch in der Lage ist, sie zu verstehen, selbst wenn man sie sich durchliest.
+
+00:58:43.901 --> 00:58:49.400
+<v sebastiankuhn>Und diese drei Aspekte, also dass die App das wirklich macht, was sie vorgibt, dass sie datenschutzkonform ist
+
+00:58:49.401 --> 00:58:53.400
+<v sebastiankuhn>und dass sie dem Verbraucher verständlich macht, was sie nutzt.
+
+00:58:53.401 --> 00:58:56.700
+<v sebastiankuhn>Diesem Aspekt kommen die wenigsten Apps nach.
+
+00:58:56.701 --> 00:59:03.600
+<v sebastiankuhn>Also man muss wirklich sagen, 98-99% der Apps erfüllen nicht diesen Qualitätsstandard.
+
+00:59:03.601 --> 00:59:05.300
+<v sebastiankuhn>Und das ist ein großes Problem.
+
+00:59:05.301 --> 00:59:08.600
+<v sebastiankuhn>Und die meisten Apps oder viele Apps haben ein Geschäftsmodell hinten dran.
+
+00:59:08.601 --> 00:59:13.400
+<v sebastiankuhn>Also auch wenn eine App kostenlos ist, man zahlt dafür.
+
+00:59:13.401 --> 00:59:19.000
+<v sebastiankuhn>Und man zahlt da mit seinen Daten, damit dass ein Bewegungsprofil abgespeichert wird.
+
+00:59:19.001 --> 00:59:23.700
+<v sebastiankuhn>Und diese Daten sind hoch relevant für verschiedene Personen.
+
+00:59:23.701 --> 00:59:28.600
+<v sebastiankuhn>Also wenn wir zum Beispiel eine größere Anzahl von Menschen haben, also ein Kollektiv an Menschen
+
+00:59:28.601 --> 00:59:38.000
+<v sebastiankuhn>und wir wissen die Schrittzahl, die diese Menschen laufen, so können wir mit einer relativ hohen Sicherheit die Überlebenswahrscheinlichkeit berechnen.
+
+00:59:38.001 --> 00:59:39.700
+<v sebastiankuhn>Wie lange diese Menschen noch leben.
+
+00:59:39.701 --> 00:59:46.000
+<v sebastiankuhn>Informationen die für einen Lebensversicherungsverkäufer oder ein Unternehmen durchaus relevant sein können.
+
+00:59:46.001 --> 00:59:54.600
+<v sebastiankuhn>Und was uns auch bewusst sein muss, selbst wenn ein Unternehmen aktuell mit diesen Daten nichts böses im Schilde führt,
+
+00:59:54.601 --> 01:00:01.200
+<v sebastiankuhn>so mag eventuell in drei oder in fünf Jahren dieses Unternehmen verkauft werden und ein anderes Geschäftsmodell entstehen.
+
+01:00:01.201 --> 01:00:04.500
+<v sebastiankuhn>Die Daten sind vorhanden und die werden auch langfristig gespeichert.
+
+01:00:04.501 --> 01:00:11.100
+<v sebastiankuhn> Und das ist ein Aspekt, der insbesondere im Zusammenhang mit Gesundheit enorm wichtig ist.
+
+01:00:11.101 --> 01:00:16.000
+<v timpritlove>Ist das auch Teil des Ausbildungskonzeptes hier, redet man darüber?
+
+01:00:16.001 --> 01:00:26.200
+<v sebastiankuhn>Genau, also wenn wir ein Thema App adressieren, so stellen wir nicht nur dar, was so eine App kann oder auch was eine gute App kann und wie man die nutzt,
+
+01:00:26.201 --> 01:00:34.700
+<v sebastiankuhn>sondern wir reflektieren auch diese genannten Qualitätskriterien und wir führen App-Analysen durch.
+
+01:00:34.701 --> 01:00:36.600
+<v sebastiankuhn>Also wir machen Reviews.
+
+01:00:36.601 --> 01:00:39.800
+<v sebastiankuhn>Erfüllen diese Apps eigentlich wirklich diesen Standard?
+
+01:00:39.801 --> 01:00:42.400
+<v sebastiankuhn>Das machen die Studierenden und stellen ihre Ergebnisse vor.
+
+01:00:42.401 --> 01:00:51.700
+<v sebastiankuhn>Und vor allem wir führen eine Diskussion mit dem Landesdatenschutzbeauftragten, um auch genau diese rechtlichen Aspekte,
+
+01:00:51.701 --> 01:00:59.200
+<v sebastiankuhn>diese Imitationen und insbesondere auch durchaus die Grauzone, die aktuell rechtlich existierenden, von vielen Unternehmen auch ausgenutzt wird,
+
+01:00:59.201 --> 01:01:03.700
+<v sebastiankuhn>ein Bewusstsein zu schaffen, dass eine Grauzone existiert.
+
+01:01:03.701 --> 01:01:12.700
+<v sebastiankuhn>Aber ganz klar, wir werden zukünftig als Ärzte nicht nur Medikamente rezeptieren oder Physiotherapie oder Schuheinlagen,
+
+01:01:12.701 --> 01:01:14.800
+<v sebastiankuhn>sondern wir werden auch Apps rezeptieren.
+
+01:01:14.801 --> 01:01:20.400
+<v sebastiankuhn>Und so wie wir über Medikamente Bescheid wissen, müssen wir über App-basierte Behandlungsverfahren Bescheid wissen.
+
+01:01:20.401 --> 01:01:26.400
+<v sebastiankuhn>Und das ist eins der zentralen Lernziele von Medizin im digitalen Zeitalter.
+
+01:01:26.401 --> 01:01:27.500
+<v timpritlove>Apps auf Rezept?
+
+01:01:27.501 --> 01:01:30.500
+<v sebastiankuhn>Genau. Ist Realität geworden.
+
+01:01:30.501 --> 01:01:32.600
+<v sebastiankuhn>Die ersten Apps sind rezeptierbar.
+
+01:01:32.601 --> 01:01:40.600
+<v sebastiankuhn>Gutes Beispiel hierzu ist für Patienten, die eine Schwachsichtigkeit haben.
+
+01:01:40.601 --> 01:01:48.300
+<v sebastiankuhn>Also rund 5% aller Kinder haben haben ein Auge, mit dem sie nicht so gut sehen wie mit dem anderen Auge.
+
+01:01:48.301 --> 01:01:50.200
+<v sebastiankuhn>Häufigste Ursache ist das Schielen.
+
+01:01:50.201 --> 01:01:56.700
+<v sebastiankuhn>Und wenn das nicht behandelt wird, so verkümmert das schwächere Auge und das verlernt das Sehen.
+
+01:01:56.701 --> 01:02:01.400
+<v sebastiankuhn>Und wenn ein Auge nicht sehen kann, haben wir kein räumliches Sehen, also wir haben keine Tiefe,
+
+01:02:01.401 --> 01:02:03.900
+<v sebastiankuhn>kein Empfinden, wie tief ein Raum ist.
+
+01:02:03.901 --> 01:02:15.300
+<v sebastiankuhn>Die bisherige Behandlung seit Jahrzehnten die Tradition, das bessere Auge wird stundenweise angeklebt und das Kind muss mit dem schwächeren Auge sehen lernen.
+
+01:02:15.301 --> 01:02:20.600
+<v sebastiankuhn>Und kann mit der Zeit diese Doppelbilder, die entstehen, wenn man das Pflaster wieder wegmacht, unterdrücken,
+
+01:02:20.601 --> 01:02:25.600
+<v sebastiankuhn>zusätzlich noch begleitende Sehschule.
+
+01:02:25.601 --> 01:02:34.500
+<v sebastiankuhn>Es gibt mittlerweile eine App und die ist auch erwiesen, dass sie wirksam ist, die sieht aus auf den ersten Blick wie so ein klassisches Videospiel von den 80/90er Jahren.
+
+01:02:34.501 --> 01:02:40.800
+<v sebastiankuhn>Also irgendein Männchen, das über Monster springen muss und irgendwelche Sachen abschießen muss.
+
+01:02:40.801 --> 01:02:43.000
+<v sebastiankuhn>Die Funktionsweise ist folgende:
+
+01:02:43.001 --> 01:02:51.400
+<v sebastiankuhn>das Kind zieht noch eine Brille auf mit rot-blau-Glas drin und die Monster sind auch rot und blau.
+
+01:02:51.401 --> 01:02:57.700
+<v sebastiankuhn>Das heißt, das eine Auge sieht nur die einen Monster, das andere Auge sieht die anderen Monster.
+
+01:02:57.701 --> 01:03:05.700
+<v sebastiankuhn>Das heißt, wenn das Kind in dem Spiel gut sein will und andere Monster sehen, muss es sich anstrengen und beide Augen benutzen.
+
+01:03:05.701 --> 01:03:12.100
+<v sebastiankuhn>Und dieses iPad-basierte Videospiel ist mittlerweile rezeptierbar.
+
+01:03:12.101 --> 01:03:18.500
+<v sebastiankuhn>Also Spielen auf Rezept oder spielen Sie bitte dreimal täglich.
+
+01:03:18.501 --> 01:03:28.600
+<v sebastiankuhn>Man sieht schon, die Zielgruppe, die wir hier adressieren, also Kinder, die muss man nicht lange überreden, wenn man sagt …
+
+01:03:28.601 --> 01:03:30.400
+<v timpritlove>Es geht bestimmt besser als der Hustensaft.
+
+01:03:30.401 --> 01:03:34.900
+<v sebastiankuhn>… spiel doch nochmal eine halbe Stunde mit deinem iPad, das ist gut für deine Augen.
+
+01:03:34.901 --> 01:03:45.000
+<v sebastiankuhn>Aber dieses Zocken auf Rezept ist vor ein paar Monaten Realität geworden und ist sogar eine kassenärztliche Leistung, die getragen wird.
+
+01:03:45.001 --> 01:03:53.100
+<v sebastiankuhn>Und Ärzte müssen diese Behandlungsverfahren kennen, das ist keine Spielerei, sondern das ist nachweislich wirksam.
+
+01:03:53.101 --> 01:03:56.300
+<v sebastiankuhn>Es ist nicht alleine wirksam, also das Abkleben wird zusätzlich noch gemacht.
+
+01:03:56.301 --> 01:04:03.000
+<v sebastiankuhn>Aber Abkleben plus Videospiel ist effektiver als die bisherige Standardtherapie.
+
+01:04:03.001 --> 01:04:07.700
+<v sebastiankuhn>Und das ist ein ganz ganz wichtiges Wissen, was wir zukünftigen Ärzten beibringen müssen.
+
+01:04:07.701 --> 01:04:15.800
+<v sebastiankuhn>Und ein grundliegendes Verständnis auch, dass zum Beispiel ein Videospiel im medizinischen Kontext manchmal effektiv auch sein kann.
+
+01:04:15.801 --> 01:04:21.400
+<v timpritlove>Ich glaube ein ähnlicher Fall ist so Tinnitus-Bekämpfung, gibt es da auch schon so?
+
+01:04:21.401 --> 01:04:30.500
+<v sebastiankuhn>Genau, da gibt es so eine Reihe von Apps, die gewisse Töne einspielen, die Beruhigungsmusik haben.
+
+01:04:30.501 --> 01:04:36.200
+<v sebastiankuhn>Da gibt es eine Reihe von Apps auch im Bereich Tinnitus, es gibt den Bereich Demenzerkrankungen.
+
+01:04:36.201 --> 01:04:38.100
+<v sebastiankuhn>Videospiele, die aktuell in klinischen Studien laufen.
+
+01:04:38.101 --> 01:04:46.100
+<v sebastiankuhn>Es gibt im Bereich von ADHS-Erkrankungen auch Videospiele, die aktuell in klinischen Studien laufen.
+
+01:04:46.101 --> 01:04:50.400
+<v sebastiankuhn>Man muss sagen, es ist wirklich noch, wir sind da wirklich noch in der frühen Phase.
+
+01:04:50.401 --> 01:04:56.500
+<v sebastiankuhn>Also es sind aktuell noch Pioniere, es sind wirklich ganz wenige Beispiele, bei denen wirklich die Wirksamkeit erwiesen ist
+
+01:04:56.501 --> 01:04:59.800
+<v sebastiankuhn>und wo man auch von einer Breitenanwendung sprechen kann.
+
+01:04:59.801 --> 01:05:08.200
+<v sebastiankuhn>Aber es sind viele Studien aktuell unterwegs und die kommenden 2-3 Jahren werden weitere Behandlungsverfahren liefern,
+
+01:05:08.201 --> 01:05:11.400
+<v sebastiankuhn>die dann auch den Weg in die Routineversorgung finden werden.
+
+01:05:11.401 --> 01:05:20.400
+<v timpritlove>Was heißt denn das jetzt so für die Medizinstudenten?
+
+01:05:20.401 --> 01:05:28.300
+<v timpritlove>Wie muss man sich denn selber aufstellen und was heißt das auch vielleicht für die Ärzte, die jetzt so heute schon da sind?
+
+01:05:28.301 --> 01:05:35.100
+<v timpritlove>Weil wünschen kann man sich ja jetzt viel, man muss ja das und das können, die Rahmenbedingungen sind ja nicht immer gegeben dafür.
+
+01:05:35.101 --> 01:05:46.000
+<v timpritlove>Die niedergelassenen Ärzte haben halt einfach viel zu tun, wenig Zeit, können eigentlich nicht das machen, was sie tun.
+
+01:05:46.001 --> 01:05:58.100
+<v timpritlove>Ist das so eine Perspektive, dass man sagt, naja werde doch hier Remote-Digital-Doktor mit API und schon kannst du die Hälfte der Arbeit von zu Hause machen.
+
+01:05:58.101 --> 01:06:05.900
+<v timpritlove>Oder man braucht vielleicht auch gar nicht mehr so eine klassische Präsenz.
+
+01:06:05.901 --> 01:06:12.800
+<v sebastiankuhn>Ich glaube, der Weg dorthin oder was so skizziert wurde, das ist noch enorm weit und das wird auch nicht auf absehbare Zeit Realität werden.
+
+01:06:12.801 --> 01:06:22.900
+<v sebastiankuhn>Aber die Frage, was brauchen Ärzte, egal ob sie jetzt noch in Ausbildung sind oder schon in Praxis oder Klinik tätig, ich denke, was ganz ganz enorm wichtig ist,
+
+01:06:22.901 --> 01:06:30.900
+<v sebastiankuhn>es muss eine Offenheit für diesen Veränderungsprozess bestehen und Interesse, sich daran zu beteiligen.
+
+01:06:30.901 --> 01:06:37.500
+<v sebastiankuhn>Ich kann absolut verstehen, wenn manche Ärzte sehr positiv diese Entwicklung sehen, optimistisch in die Zukunft blicken,
+
+01:06:37.501 --> 01:06:39.500
+<v sebastiankuhn>für was die digitale Medizin angeht.
+
+01:06:39.501 --> 01:06:47.400
+<v sebastiankuhn>Ich kann aber genauso gut auch verstehen, wenn Personen skeptisch sind und dieser Entwicklung eher ablehnend gegenüber stehen.
+
+01:06:47.401 --> 01:06:53.800
+<v sebastiankuhn>Nur eine Haltung kann ich nicht akzeptieren, das ist, diese Entwicklung zu ignorieren.
+
+01:06:53.801 --> 01:07:01.000
+<v sebastiankuhn>Zu ignorieren, was aktuell stattfindet, dass wir einen fundamentalen Wandlungsprozess in der medizinischen Versorgungsrealität haben,
+
+01:07:01.001 --> 01:07:10.800
+<v sebastiankuhn>dass Technologieunternehmen zum Teil sinnvolle Lösungen auf den Markt werfen, aber zum Teil auch sehr sehr bedenkliche und kritische Aspekte.
+
+01:07:10.801 --> 01:07:19.400
+<v sebastiankuhn>Und wir werden als Ärzteschaft nur effektiv darauf reagieren können, also sinnvolle Konzepte in der Praxis anwenden,
+
+01:07:19.401 --> 01:07:26.800
+<v sebastiankuhn>aber auch gefährliche Behandlungskonzepte bewusst ablehnen und die Implementierung verhindern.
+
+01:07:26.801 --> 01:07:33.000
+<v sebastiankuhn>Wir werden das nur schaffen, wenn wir uns mit dem Prozess auseinandersetzen und wenn wir uns bilden.
+
+01:07:33.001 --> 01:07:42.700
+<v sebastiankuhn>Und das ist aktuell ein riesiger Auftrag, für die Ausbildung, also für das Medizinstudium, aber auch für die Fort- und Weiterbildung.
+
+01:07:42.701 --> 01:07:50.400
+<v sebastiankuhn>Wir haben über 400.000 Ärzte in Deutschland, viele sicherlich absorbiert von dem Alltagssorgen in Praxis und Klinik.
+
+01:07:50.401 --> 01:07:57.400
+<v sebastiankuhn>Es ist nicht so, dass man da 2-3 Stunden am Tag Zeit hat, bei denen man nicht genau weiß, was man tun soll.
+
+01:07:57.401 --> 01:08:05.100
+<v sebastiankuhn>Aber man muss aufpassen, dass die Routine einen nicht auffrisst und man diesen fundamentalen Wandlungsprozess verpasst.
+
+01:08:05.101 --> 01:08:07.100
+<v timpritlove>Was könnten sich denn da noch für neue …
+
+01:08:07.101 --> 01:08:18.500
+<v timpritlove>oder könnten sich daraus auch komplett neue medizinische Berufe ergeben, die so in das aktuelle Bild eigentlich gar nicht so reinpassen?
+
+01:08:18.501 --> 01:08:27.100
+<v timpritlove>Also in gewisser Hinsicht ist ja dieser Remote-Coach ist ja schon mal so eine Variante, aber vielleicht auch an Kliniken oder so, ich weiß nicht.
+
+01:08:27.101 --> 01:08:33.400
+<v sebastiankuhn>Genau, es werden sicherlich Ärzte, die sagen wir mal ein klassisches Medizinstudium durchlaufen haben und auch ihre Facharztweiterbildung,
+
+01:08:33.401 --> 01:08:36.700
+<v sebastiankuhn>es werden einige von denen telemedizinisch arbeiten.
+
+01:08:36.701 --> 01:08:44.300
+<v sebastiankuhn>Im Bereich der Radiologie ist das eine Entwicklung, die wir schon seit einigen Jahren beobachten, dass es immer noch Radiologen gibt,
+
+01:08:44.301 --> 01:08:55.000
+<v sebastiankuhn>die sitzen in einer Praxis oder sie sitzen in einer Klinik vor Ort, aber es gibt auch radiologische Praxen und Kliniken, die eine Reihe von weiteren Standorten mitbetreuen.
+
+01:08:55.001 --> 01:09:02.600
+<v sebastiankuhn>Und in der Radiologie hat sich das schon implementiert, und das ist eine Entwicklung, die wird sicherlich in den kommenden Jahren auch weitergehen.
+
+01:09:02.601 --> 01:09:07.500
+<v sebastiankuhn>Dass man im Prinzip wie so einen Tele-Allgemeinmediziner ist oder ein Tele-Internist
+
+01:09:07.501 --> 01:09:11.000
+<v sebastiankuhn>und Patienten über eine Videokonferenz berät.
+
+01:09:11.001 --> 01:09:15.800
+<v sebastiankuhn>Das ist eine Entwicklung, die wir zum Teil auch im Ausland, also in der Schweiz und Großbritannien auch sehen.
+
+01:09:15.801 --> 01:09:19.100
+<v timpritlove>Aber warum ist das jetzt ausgerechnet bei der Radiologie schon so?
+
+01:09:19.101 --> 01:09:24.100
+<v sebastiankuhn>Weil bei der Radiologie diese Befundung einen rechtlichen Rahmen auch schon hatte.
+
+01:09:24.101 --> 01:09:32.200
+<v sebastiankuhn>Also es war durchaus erlaubt, es gibt dort eine rechtliche Grundlage für die Tele-radiologische Behandlung und die war dort möglich
+
+01:09:32.201 --> 01:09:43.900
+<v sebastiankuhn>und hat sich in den vergangenen Jahren auch durchgesetzt, weil dieses Expertenwissen für bestimmte radiologische Befundung auch nicht bei allen Radiologen vorhanden sind.
+
+01:09:43.901 --> 01:09:50.500
+<v sebastiankuhn>Es gibt innerhalb der Radiologen auch nochmal weitere Subspezialisierungen und da war dann der Trend,
+
+01:09:50.501 --> 01:09:58.500
+<v sebastiankuhn>dass man Kompetenz bündelt und über Tele-Radiologie einer größeren Patientenzahl zur Verfügung stellt,
+
+01:09:58.501 --> 01:10:03.100
+<v sebastiankuhn>war ein Trend, der in den letzten 10 Jahren sich schon deutlich entwickelt hat in Deutschland.
+
+01:10:03.101 --> 01:10:08.800
+<v timpritlove>Und welche anderen Bereiche könnte das so ähnlich erfassen, wenn die rechtlichen Grundlagen dafür gegeben sind?
+
+01:10:08.801 --> 01:10:16.700
+<v sebastiankuhn>Also es werden sicherlich zukünftig, angenommen das Fernbehandlungsverbot würde dieses Jahr fallen, wenn man sich die Entwicklungen anschaut,
+
+01:10:16.701 --> 01:10:20.700
+<v sebastiankuhn>wie zum Beispiel Schweiz oder Großbritannien, bei denen diese Entwicklung schon stattgefunden hat,
+
+01:10:20.701 --> 01:10:30.200
+<v sebastiankuhn>es wird eine ganze Reihe von Banalerkrankungen geben, wo der Patient sagen wir mal Symptome spürt und zum Arzt gehen möchte,
+
+01:10:30.201 --> 01:10:34.300
+<v sebastiankuhn>aber aus Bequemlichkeit vielleicht zukünftig telemedizinisch.
+
+01:10:34.301 --> 01:10:42.400
+<v sebastiankuhn>Weil wenn man eine Nummer wählen kann und eine Videokonferenz innerhalb von zwei Minuten, dann mag das vielleicht für den Patienten auch komfortabler sein,
+
+01:10:42.401 --> 01:10:50.200
+<v sebastiankuhn>als jetzt zu warten auf den nächsten Morgen und dann in die Praxis zu gehen, vielleicht noch eine Stunde oder zwei zu warten,
+
+01:10:50.201 --> 01:10:57.800
+<v sebastiankuhn>wenn Grippewelle ist, um dann vielleicht durchaus auch nur ein kurzes Beratungsgespräch irgendwie zu erhalten von dem Arzt.
+
+01:10:57.801 --> 01:11:07.600
+<v sebastiankuhn>Und das sind Bereiche, wo durchaus die Tele-Medizin absehbar durchaus eine Verbreitung finden wird.
+
+01:11:07.601 --> 01:11:11.700
+<v timpritlove>Erstbehandlungen oder?
+
+01:11:11.701 --> 01:11:18.600
+<v sebastiankuhn>Wenn das Fernbehandlungsverbot fällt, wird vor allem auch diese Erstbehandlung für Patienten interessant werden.
+
+01:11:18.601 --> 01:11:24.600
+<v timpritlove>Das würde ja in gewisser Hinsicht auch eine Last von niedergelassenen Ärzten nehmen.
+
+01:11:24.601 --> 01:11:30.800
+<v sebastiankuhn>Das kann durchaus dazu führen, dass weniger Patienten den Arzt vor Ort kontaktieren.
+
+01:11:30.801 --> 01:11:33.500
+<v sebastiankuhn>Es spielt immer natürlich eine Rolle, wie wird das vergütet.
+
+01:11:33.501 --> 01:11:41.000
+<v sebastiankuhn>Also ist es für den Patienten Teil von einer kassenärztlichen Leistung oder ist es etwas, wo der Patient nochmal zusätzlich bezahlen muss,
+
+01:11:41.001 --> 01:11:45.200
+<v sebastiankuhn>weil es vielleicht durch die Krankenkasse nicht gedeckt wird.
+
+01:11:45.201 --> 01:11:53.200
+<v sebastiankuhn>Das sind häufig, in der Praxis spielt häufig die Bezahlung eine ganz entscheidende Rolle, ob ein Behandlungsverfahren genutzt,
+
+01:11:53.201 --> 01:11:56.600
+<v sebastiankuhn>sowohl von Patienten als auch von Ärzten.
+
+01:11:56.601 --> 01:12:05.000
+<v sebastiankuhn>Das ist einfach ein Aspekt, der ist wichtig und geht über die rein medizinische Notwendigkeit oder Sinnhaftigkeit auch hinaus.
+
+01:12:05.001 --> 01:12:13.400
+<v timpritlove>Welche Rolle spielen denn die Krankenkassen derzeit und welche müssten sie vielleicht spielen, wenn sie die noch nicht spielen?
+
+01:12:13.401 --> 01:12:16.500
+<v timpritlove>Sind die hilfreich zum aktuellen Zeitpunkt?
+
+01:12:16.501 --> 01:12:25.900
+<v sebastiankuhn>Also insgesamt ist das medizinische System relativ träge und sehr stark am Status quo haftend.
+
+01:12:25.901 --> 01:12:36.200
+<v sebastiankuhn>Aktuell entwickeln sich allerdings durchaus bei vielen Krankenkassen in Deutschland ein Interesse, zumindest in Pilotprojekten digitale Behandlungsverfahren einzusetzen.
+
+01:12:36.201 --> 01:12:43.400
+<v sebastiankuhn>Das ist zum Teil einfach, um am Puls der Zeit zu sein, aber zum Teil auch aufgrund vom Kostendruck.
+
+01:12:43.401 --> 01:12:50.000
+<v sebastiankuhn>Also auch die Frage, können wir eventuell zukünftig telemedizinisch manche Behandlungen kostengünstiger abwickeln,
+
+01:12:50.001 --> 01:12:53.000
+<v sebastiankuhn>als es aktuell in der Routineversorgung der Fall ist.
+
+01:12:53.001 --> 01:13:00.200
+<v sebastiankuhn>Oder wie zum Beispiel am Beispiel von den lungenkranken Menschen, die wir vorhin diskutiert hatten mit den App-basierten Behandlungsverfahren,
+
+01:13:00.201 --> 01:13:08.200
+<v sebastiankuhn>eventuell sind solche Patienten, die chronisch krank sind und über viele Jahre doch hohe Kosten auch für eine Krankenversicherung erzeugen,
+
+01:13:08.201 --> 01:13:15.900
+<v sebastiankuhn>vielleicht können die mit so einer App und mit einer engeren Anbindung an ihren Arzt zukünftig kostengünstiger behandelt werden.
+
+01:13:15.901 --> 01:13:23.100
+<v sebastiankuhn>Also vielleicht nicht nur medizinisch besser, dass sie vielleicht eine bessere Lebensqualität haben oder auch eine längere Überlebenszeit,
+
+01:13:23.101 --> 01:13:34.000
+<v sebastiankuhn>sondern auch für den Kostenträger weniger Geld auszugeben ist, weil Patienten nicht so häufig in der Notaufnahme als Notfall auftauchen
+
+01:13:34.001 --> 01:13:39.700
+<v sebastiankuhn>oder nicht mehr 20 oder 30 Tage pro Jahr stationär im Krankenhaus behandelt werden müssen.
+
+01:13:39.701 --> 01:13:43.700
+<v sebastiankuhn>Das sind Entwicklungen, die sind für Krankenversicherungen durchaus interessant.
+
+01:13:43.701 --> 01:13:53.300
+<v sebastiankuhn>Und in den letzten zwei Jahren verzeichnet man wirklich eine deutliche Zunahme auch von Pilotstudien, die durch Krankenkassen gestartet worden sind.
+
+01:13:53.301 --> 01:14:03.200
+<v timpritlove>Mir fällt gerade so ein, dass wir ja alle so kleine Astronauten werden können, weil die werden ja nun wirklich die ganze Zeit per Tele-Medizin beobachtet.
+
+01:14:03.201 --> 01:14:13.700
+<v timpritlove>Also wenn man da oben herum schwebt in der ISS so, dann hat man alle möglichen Sensoren permanent und die ganzen medizinischen Informationen,
+
+01:14:13.701 --> 01:14:19.400
+<v timpritlove>nicht nur jetzt, um die Astronauten selber zu überwachen, das natürlich auch, weil man will ja auch, dass es denen da gut geht,
+
+01:14:19.401 --> 01:14:26.200
+<v timpritlove>weil da kommt halt die Ambulanz nicht so schnell hin, trotz alledem gewinnt man ja dadurch auch wissenschaftliche Erkenntnisse,
+
+01:14:26.201 --> 01:14:31.200
+<v timpritlove>also im Prinzip ist das so ein kleiner Kosmos, der schon mal so zeigt, wie es im Prinzip bei uns auch laufen könnte.
+
+01:14:31.201 --> 01:14:38.800
+<v timpritlove>Ob jetzt jedermann sofort bereit wäre, an so etwas teilzunehmen, weiß ich nicht.
+
+01:14:38.801 --> 01:14:43.500
+<v timpritlove>Ich so mit meiner Grundeinstellung, ich möchte gern wissen, wo ich anfangen kann irgendwie.
+
+01:14:43.501 --> 01:14:52.400
+<v timpritlove>Würde mir gerne mal so einen Remote-Doktor klicken, mit dem man sich dann halt auch regelmäßig zum Flatrate-Tarif da austauschen kann,
+
+01:14:52.401 --> 01:14:54.200
+<v timpritlove>ob denn irgendwas ist oder so.
+
+01:14:54.201 --> 01:15:08.600
+<v timpritlove>Weil allein … also im Mindesten würde man halt sozusagen Datenmaterial, im Idealfall natürlich anonymisiertes Datenmaterial, zur Forschung und Beobachtung des Gesamtzustandes der Gesellschaft liefern
+
+01:15:08.601 --> 01:15:17.400
+<v timpritlove>und im Zweifelsfall tut man sich auch noch selber was gutes, weil man eben auch früh eigene Krankheiten erkannt bekommt und da was dagegen tun kann.
+
+01:15:17.401 --> 01:15:24.300
+<v sebastiankuhn>Ja, also die Zunahme an Sensoren, egal ob das jetzt eine generische Smartwatch ist oder auch spezifische Geräte,
+
+01:15:24.301 --> 01:15:30.600
+<v sebastiankuhn>dieser Trend ist ganz ganz enorm und er wird die nächsten Jahre ganz entscheidend noch zunehmen.
+
+01:15:30.601 --> 01:15:35.500
+<v sebastiankuhn>Sicherlich ist dort auch die Frage im Raum, wollen wir das?
+
+01:15:35.501 --> 01:15:37.600
+<v sebastiankuhn>Oder möchte das jeder Patient?
+
+01:15:37.601 --> 01:15:39.700
+<v sebastiankuhn>Und es wird sicherlich nicht jeder Patient wünschen.
+
+01:15:39.701 --> 01:15:41.000
+<v timpritlove>Nein bestimmt nicht.
+
+01:15:41.001 --> 01:15:47.700
+<v sebastiankuhn>Und es wird so eine Unterteilung sein von wahrscheinlich eher experimentierfreudigen zukunftsorientierten Patienten,
+
+01:15:47.701 --> 01:15:51.200
+<v sebastiankuhn>die wenig Probleme damit haben, Sensoren am Körper zu tragen.
+
+01:15:51.201 --> 01:15:59.200
+<v sebastiankuhn>Sei es jetzt ein Blutzuckersensor oder Überwachung vom Herzrhythmus, aber es gibt auch Patienten, die das bewusst nicht wünschen
+
+01:15:59.201 --> 01:16:06.800
+<v sebastiankuhn>oder es gibt auch Patienten, die vielleicht das durchaus durchführen, die aber allerdings die viele Information auch nicht gut verkraften können.
+
+01:16:06.801 --> 01:16:13.300
+<v sebastiankuhn>Also wenn permanent sozusagen irgendein Alarm angeht oder irgendeine Warnmeldung auf dem Display angeht,
+
+01:16:13.301 --> 01:16:19.100
+<v sebastiankuhn>dann sollte man sich durchaus bewusst sein, dass manche Menschen das ohne Probleme ignorieren und wegblicken
+
+01:16:19.101 --> 01:16:22.900
+<v sebastiankuhn>und andere Patienten auch durch zu viele Informationen krank werden können.
+
+01:16:22.901 --> 01:16:28.400
+<v sebastiankuhn>Also es gibt die Debatte diesbezüglich auch, gibt es ein Recht auf Nichtwissen?
+
+01:16:28.401 --> 01:16:32.000
+<v sebastiankuhn>Und diese Debatte oder diese Frage muss man mit ja beantworten.
+
+01:16:32.001 --> 01:16:39.800
+<v sebastiankuhn>Also nicht jede Information, die wir erheben können, die technisch erhoben werden kann, muss unbedingt für den Patienten sinnvoll sein,
+
+01:16:39.801 --> 01:16:44.300
+<v sebastiankuhn>auch wenn es vielleicht einem Informationen gibt.
+
+01:16:44.301 --> 01:16:55.100
+<v sebastiankuhn>Ich denke, es ist logisch, keiner von uns hätte gern die Information, dass wir in fünf Jahren an einer nicht heilbaren Erkrankung versterben werden,
+
+01:16:55.101 --> 01:16:55.800
+<v timpritlove>Ja.
+
+01:16:55.801 --> 01:16:58.300
+<v sebastiankuhn>Auch wenn es dafür irgendeinen Test geben würde.
+
+01:16:58.301 --> 01:17:03.700
+<v timpritlove>Ja. Weil die Wahrscheinlichkeit, dass man vorher noch vom Bus überfahren wird, die gibt es ja auch noch und dann ist es ja nicht so schlimm.
+
+01:17:03.701 --> 01:17:11.200
+<v sebastiankuhn>Genau, also Information kann auch eine zerstörerische Wirkung haben auf den Patietnen, auf die Familie, auf das Umfeld.
+
+01:17:11.201 --> 01:17:23.200
+<v sebastiankuhn>Und man sollte, bevor man Daten generiert und Daten auswertet durchaus auch die Frage stellen, was würde ich denn mit dieser Information anfangen?
+
+01:17:23.201 --> 01:17:27.500
+<v sebastiankuhn>Im Fall A und auch im Fall B.
+
+01:17:27.501 --> 01:17:33.300
+<v sebastiankuhn>Und da sind wir eigentlich bei einer Debatte, die wir zum Teil auch etwas globaler führen.
+
+01:17:33.301 --> 01:17:38.600
+<v sebastiankuhn>Daten, das haben wir ja in dem Gespräch schon öfter gehört, erlangen einfach eine andere Bedeutung.
+
+01:17:38.601 --> 01:17:44.300
+<v sebastiankuhn>Also wir generieren mehr Daten, wir werten Daten anders aus, wir interpretieren anders Daten.
+
+01:17:44.301 --> 01:17:51.300
+<v sebastiankuhn>Und das ist eine ganz ganz klare Zukunftskompetenz, die wir auch Ärzten vermitteln müssen und die auch wir zentral in unserem Curriculum abbilden.
+
+01:17:51.301 --> 01:17:56.600
+<v sebastiankuhn>Das ist unter dem Schlagwort Data Literacy.
+
+01:17:56.601 --> 01:18:01.800
+<v sebastiankuhn>Also Daten in der Vergangenheit für Medizinstudierende war vor allem eine statistische Berechnung.
+
+01:18:01.801 --> 01:18:06.800
+<v sebastiankuhn>Also man einen P-Wert berechnet und dann war das statistisch signifikant und wir haben das genutzt,
+
+01:18:06.801 --> 01:18:12.500
+<v sebastiankuhn>um Forschungsergebnisse einfach einzuordnen und Evidenz zu beweisen.
+
+01:18:12.501 --> 01:18:15.500
+<v sebastiankuhn>Daten haben allerdings eine viel viel weitere Wirkung.
+
+01:18:15.501 --> 01:18:25.800
+<v sebastiankuhn>Wir müssen Daten fragen irgendwie, können wir die heranziehen für ethische, für rechtliche Grundlagen, für fundamentale Entscheidungen?
+
+01:18:25.801 --> 01:18:30.700
+<v sebastiankuhn>Und diese Art von Datenverständnis, das versuchen wir dem Medizinstudierenden zu vermitteln
+
+01:18:30.701 --> 01:18:36.400
+<v sebastiankuhn>und damit sind wir relativ weit eigentlich von der reinen Mathematik oder Statistik entfernt,
+
+01:18:36.401 --> 01:18:42.700
+<v sebastiankuhn>sondern wir befinden uns eigentlich mittendrin in einer ethischen Debatte, in einer gesellschaftspolitischen Debatte
+
+01:18:42.701 --> 01:18:46.700
+<v sebastiankuhn>und das ist auch etwas, was wir ganz zentral in dem Curriculum verankert haben.
+
+01:18:46.701 --> 01:18:54.200
+<v sebastiankuhn>Das heißt, wir brauchen hierfür nicht nur Informatiker, die das unterrichten, wir brauchen auch klinisch praktisch tätige Ärzte,
+
+01:18:54.201 --> 01:18:58.900
+<v sebastiankuhn>die Daten in der medizinischen Versorgungsrealität anwenden.
+
+01:18:58.901 --> 01:19:07.700
+<v sebastiankuhn>Wir brauchen allerdings auch Medizinethiker und wir müssen mit Patienten in den Dialog treten, was sie denn eigentlich wünschen.
+
+01:19:07.701 --> 01:19:15.200
+<v sebastiankuhn>Und das genau machen wir zum Beispiel in unserem Modul 5 von Medizin im digitalen Zeitalter, wo wir einfach versuchen,
+
+01:19:15.201 --> 01:19:20.300
+<v sebastiankuhn>multiperspektivisch das Thema Daten zu bearbeiten.
+
+01:19:20.301 --> 01:19:25.700
+<v timpritlove>Arbeitet man da auch mit Ethikern zusammen?
+
+01:19:25.701 --> 01:19:27.100
+<v sebastiankuhn>Genau.
+
+01:19:27.101 --> 01:19:29.100
+<v timpritlove>Also ist das so ein interdisziplinärer Ansatz?
+
+01:19:29.101 --> 01:19:34.200
+<v sebastiankuhn>Genau, also die abschließende Diskussionsrunde von dem Modul unterrichten wir zu viert.
+
+01:19:34.201 --> 01:19:44.700
+<v sebastiankuhn>Ich bin ein Arzt, der in der Klinik tätig ist, zusätzlich unterrichtet ein Medizininformatiker, der BigData-Analysen macht.
+
+01:19:44.701 --> 01:19:48.500
+<v sebastiankuhn>Er kann exzellent beantworten, was ist technisch möglich.
+
+01:19:48.501 --> 01:19:55.600
+<v sebastiankuhn>Mit dabei auch vom Landesdatenschutz ein Mitarbeiter, der vertreten kann, was ist rechtlich erlaubt.
+
+01:19:55.601 --> 01:20:01.700
+<v sebastiankuhn>Und eine Medizinethikerin, die die Frage stellt, was ist denn ethisch vertretbar.
+
+01:20:01.701 --> 01:20:08.700
+<v sebastiankuhn>Und wir vier Dozenten, also ich bin befinde mich als klinisch praktischer Arzt einfach in diesem Spannungsfeld, was ist rechtlich erlaubt,
+
+01:20:08.701 --> 01:20:11.800
+<v sebastiankuhn>was ist technisch möglich und was ist ethisch sinnvoll?
+
+01:20:11.801 --> 01:20:19.300
+<v sebastiankuhn>Und das ist genau die Situation, in der sich auch Ärzte befinden in der aktuellen Situation.
+
+01:20:19.301 --> 01:20:26.600
+<v timpritlove>Ja, ich meine, ich könnte mir vorstellen, dass so im Rahmen dieser Ausbildung und der Auseinandersetzung mit dem Thema viele Fragen aufkommen.
+
+01:20:26.601 --> 01:20:31.600
+<v timpritlove>Also nicht nur so ethische Fragen im Sinne von, was ist überhaupt vertretbar, will man das überhaupt?
+
+01:20:31.601 --> 01:20:33.000
+<v timpritlove>Hatten wir ja gerade angesprochen.
+
+01:20:33.001 --> 01:20:40.100
+<v timpritlove>Wie ist das mit Ängsten der Leute, der anderen 50%, die sich sozusagen noch sträuben?
+
+01:20:40.101 --> 01:20:45.300
+<v timpritlove>Und gerade wenn es immer so um Computer und Remote geht und wenn die Krankenkassen sagen, da können wir ja die Kosten senken,
+
+01:20:45.301 --> 01:20:52.100
+<v timpritlove>da gehen ja wahrscheinlich bei einigen auch gleich die Alarmglocken an mit entweder, oh Gott jetzt wollt ihr sozusagen noch mehr kürzen,
+
+01:20:52.101 --> 01:20:59.100
+<v timpritlove>weil es gerade mal irgendwie geht und der böse Computer nimmt uns irgendwie die Arbeit weg, das ist ja so ein Klassiker.
+
+01:20:59.101 --> 01:21:09.100
+<v timpritlove>Wie ist so die Wahrnehmung, wie werden da so Chancen und Risiken für einen selbst so als Individuum im System bewertet?
+
+01:21:09.101 --> 01:21:12.000
+<v sebastiankuhn>Ja, wir merken, dass wir in einer riesengroßen Grauzone sind.
+
+01:21:12.001 --> 01:21:21.400
+<v sebastiankuhn>Es ist nicht schwarz und es nicht weiß, sondern wir können nicht pauschal beantworten, sind App-basierte Behandlungsverfahren gut oder schlecht?
+
+01:21:21.401 --> 01:21:24.400
+<v sebastiankuhn>Sondern wir müssen lernen, dass wir ganz genau hinschauen müssen.
+
+01:21:24.401 --> 01:21:32.300
+<v sebastiankuhn>Dass wir, bevor wir einer App diese Fragen beantworten müssen, macht die wirklich das, was sie verspricht, ist rechtlich konform,
+
+01:21:32.301 --> 01:21:35.800
+<v sebastiankuhn>verstehe ich überhaupt, auf was ich mich hier einlasse.
+
+01:21:35.801 --> 01:21:47.200
+<v sebastiankuhn>Und wir müssen einfach ganz klar vermitteln, dass man sich … man braucht ein fundamentales Verständnis für diese Grundlagen und es ist täglich eine neue Herausforderung,
+
+01:21:47.201 --> 01:21:53.300
+<v sebastiankuhn>zu analysieren, was kann man wirklich sinnvoll einsetzen.
+
+01:21:53.301 --> 01:22:01.600
+<v sebastiankuhn>Also wir befinden uns aktuell auch rechtlich häufig in einer riesengroßen Grauzone, weil viele Sachen nicht klar geregelt sind,
+
+01:22:01.601 --> 01:22:08.600
+<v sebastiankuhn>weil auch Technologieunternehmen diese Grauzone ganz bewusst ausnutzen und manchmal auch Lösungen auf den Markt werfen,
+
+01:22:08.601 --> 01:22:14.200
+<v sebastiankuhn>die nicht datenschutzkonform sind, die nicht wirklich das machen, was sie versprechen.
+
+01:22:14.201 --> 01:22:25.500
+<v sebastiankuhn>Und dieses Bewusstsein muss bei der zukünftigen Generation an Ärzten vorhanden sein, weil diese Art von Medizin wird immer mehr Realität werden.
+
+01:22:25.501 --> 01:22:31.200
+<v sebastiankuhn>Ich bin der Überzeugung, dass das Wort Digitalisierung wahrscheinlich das gleiche Schicksal erfährt wie Multimedia.
+
+01:22:31.201 --> 01:22:33.400
+<v timpritlove>/lacht/
+
+01:22:33.401 --> 01:22:40.300
+<v sebastiankuhn>Wir hatten, ich glaube 2001 war es, Multimedia war das Wort des Jahres und Multimedia war überall in jedem Werbeprospekt
+
+01:22:40.301 --> 01:22:43.000
+<v sebastiankuhn>und jeder hat Multimedia und man war ganz erstaunt.
+
+01:22:43.001 --> 01:22:43.900
+<v timpritlove>Surfen auf der Datenautobahn.
+
+01:22:43.901 --> 01:22:48.900
+<v sebastiankuhn>Genau, Wahnsinn und ein Computer kann sogar eine CD mit Musik abspielen und man kann sich einen Film angucken.
+
+01:22:48.901 --> 01:22:56.000
+<v sebastiankuhn>Und Multimedia benutzt heutzutage keiner mehr, aber Multimedia ist Realität, das ist einfach der Normalzustand.
+
+01:22:56.001 --> 01:22:59.400
+<v sebastiankuhn>Und es ist so normal geworden, dass man das Wort nicht mehr sagt.
+
+01:22:59.401 --> 01:23:05.900
+<v sebastiankuhn>Ich kann mir gut vorstellen, dass die Medizinstudenten, die aktuell anfangen zu studieren, also 2018 ihr Studium beginnen,
+
+01:23:05.901 --> 01:23:09.600
+<v sebastiankuhn>die sind 2030 Fachärzte.
+
+01:23:09.601 --> 01:23:14.000
+<v sebastiankuhn>Die werden 2030 wahrscheinlich das Wort digital nicht mehr wesentlich benutzen.
+
+01:23:14.001 --> 01:23:15.700
+<v timpritlove>Zumindest nicht Digitalisierung, weil ist schon alles digitalisiert.
+
+01:23:15.701 --> 01:23:19.600
+<v sebastiankuhn>Digitalisierung wird Normalität sein.
+
+01:23:19.601 --> 01:23:25.700
+<v sebastiankuhn>Das wird einfach in das existierende Versorgungssystem integriert sein an ganz vielen Stellen, an ganz vielen Ebenen
+
+01:23:25.701 --> 01:23:30.400
+<v sebastiankuhn>und es wird so Normalität sein, dass man gar nicht mehr drüber spricht.
+
+01:23:30.401 --> 01:23:35.900
+<v timpritlove>Wenn man jetzt so interdisziplinär da rangeht, das finde ich ja nachvollziehbar und auch ganz gut,
+
+01:23:35.901 --> 01:23:39.600
+<v timpritlove>gibt es denn da jetzt auch eine konkrete Vernetzung schon auch mit anderen Projekten?
+
+01:23:39.601 --> 01:23:43.500
+<v timpritlove>Also nicht nur, dass die jetzt hier herkommen und teilnehmen.
+
+01:23:43.501 --> 01:23:51.100
+<v timpritlove>Gibt es sagen wir mal Kontakte auch zum Ausbildungsweg medizinische Informatik, wo das ja dann vielleicht auch eine Rolle spielen könnte?
+
+01:23:51.101 --> 01:23:59.000
+<v timpritlove>Oder eben auch so in philosophische Studiengänge, ethische Studiengänge, wo das dann auch explizit noch auch vielleicht von der anderen Seite her aufgekrempelt wird?
+
+01:23:59.001 --> 01:24:07.700
+<v timpritlove>Also gibt es vielleicht auch vergleichbar oder zumindest für dieses Projekt relevante andere Kursansätze, Studiengänge, Bildungsprogramme,
+
+01:24:07.701 --> 01:24:10.100
+<v timpritlove>die einen ähnlichen Bereich aufgreifen?
+
+01:24:10.101 --> 01:24:14.700
+<v sebastiankuhn>Genau, also dieser Teil, den Sie gerade im Moment da ansprechen, das ist im Moment eigentlich meine Hauptaufgabe
+
+01:24:14.701 --> 01:24:20.900
+<v sebastiankuhn>oder eigentlich auch meine Hauptbeschäftigung, eigentlich diese Vernetzung voranzutreiben.
+
+01:24:20.901 --> 01:24:27.100
+<v sebastiankuhn>Also ich bin wirklich der Überzeugung, dass wir ein interprofessionelles Team brauchen, nicht nur auf Dozentenseite,
+
+01:24:27.101 --> 01:24:32.200
+<v sebastiankuhn>sondern wir müssen auch auf Lernendenseite interprofessionell agieren.
+
+01:24:32.201 --> 01:24:38.000
+<v sebastiankuhn>Diese digitale Transformation verändert fundamental, wie diese unterschiedlichen Personengruppen im Gesundheitssystem zusammenarbeiten.
+
+01:24:38.001 --> 01:24:46.000
+<v sebastiankuhn>Man kann provokant die Frage stellen, warum lernen sie denn separat alle für sich, warum lernen sie nicht gemeinsam?
+
+01:24:46.001 --> 01:24:54.700
+<v sebastiankuhn>Und die Idee von einem interprofessionellen Ausbildungskonzept ist eine Idee, die ich versuche an vielen Stellen aktuell zur Debatte zu stellen
+
+01:24:54.701 --> 01:25:02.400
+<v sebastiankuhn>und deshalb gehe ich ganz bewusst eigentlich auf Ethiker zu, auf die Gesundheitsfachberufe, auf die Rechtswissenschaften,
+
+01:25:02.401 --> 01:25:05.100
+<v sebastiankuhn>im Bereich des Studiums Generale von der Universität.
+
+01:25:05.101 --> 01:25:11.700
+<v sebastiankuhn>Und diesen Bereichen versuchen wir das Projekt Medizin im digitalen Zeitalter zu diskutieren und zu überlegen,
+
+01:25:11.701 --> 01:25:15.100
+<v sebastiankuhn>wie können wir zukünftig Bildung an Hochschulen denken?
+
+01:25:15.101 --> 01:25:23.000
+<v sebastiankuhn>Eher etwas integrierend, etwas stärker interprofessionell und verschiedene Akteure gemeinsam in Dialog treten.
+
+01:25:23.001 --> 01:25:31.400
+<v sebastiankuhn>Aber ähnlich wie auch das Gesundheitssystem auch eine Universität ist eher ein rigides System und es bedarf viel Überzeugungsarbeit
+
+01:25:31.401 --> 01:25:39.500
+<v sebastiankuhn>und viel Diskussion und viel Kongressarbeit und Präsentationen, um diesem Ganzen Vorschub zu leisten.
+
+01:25:39.501 --> 01:25:43.100
+<v timpritlove>Aber gibt es da auch schon Licht am Ende des Tunnels oder ist das einfach alles nur zum Haareraufen?
+
+01:25:43.101 --> 01:25:44.900
+<v sebastiankuhn>Ja doch, an einzelnen Stellen schon.
+
+01:25:44.901 --> 01:25:55.000
+<v sebastiankuhn>Es ist aktuell so, im Sommersemester, das jetzt bald beginnt, wird digitale Medizin auch im Studium Generale unterrichtet,
+
+01:25:55.001 --> 01:26:00.200
+<v sebastiankuhn>also in einer viel viel größere Personenzahl, aus ganz unterschiedlichen Fachbereichen.
+
+01:26:00.201 --> 01:26:07.500
+<v sebastiankuhn>Wir stehen in engem Kontakt mit dem Studiengang Digital Humanitys, also die digitalen Geisteswissenschaften
+
+01:26:07.501 --> 01:26:10.300
+<v sebastiankuhn>und werden dort auch gemeinsam Unterrichtsveranstaltungen machen.
+
+01:26:10.301 --> 01:26:17.400
+<v sebastiankuhn>Und im interprofessionellen Kontext arbeite ich auch intensiv zusammen mit verschiedenen Standorten,
+
+01:26:17.401 --> 01:26:22.600
+<v sebastiankuhn>um einfach auch zukünftig Gesundheitsfachberufe und Ärzte gemeinsam auszubilden.
+
+01:26:22.601 --> 01:26:26.500
+<v timpritlove>Also nicht nur Standorte der Uni Mainz, sondern generell?
+
+01:26:26.501 --> 01:26:34.300
+<v sebastiankuhn>Genau generell. Ich bin über die Gesellschaft für medizinsche Ausbildung stellvertretender Vorsitzender im Ausschuss Digitalisierung.
+
+01:26:34.301 --> 01:26:39.900
+<v sebastiankuhn>Und das betrifft zum einen Deutschland, aber auch Österreich und die Schweiz.
+
+01:26:39.901 --> 01:26:47.100
+<v sebastiankuhn>Und die Aspekte, die wir aktuell diskutieren, die sind ja kein mein spezifisches Problem oder auch Deutschland-spezifisches Problem,
+
+01:26:47.101 --> 01:26:55.300
+<v sebastiankuhn>sondern es gilt wirklich, Verbündete zu suchen und neue Konzepte, interprofessionelle Konzepte zu pilotieren, auszutesten,
+
+01:26:55.301 --> 01:27:04.200
+<v sebastiankuhn>durchaus auch drüber zu sprechen, diese bekannt zu machen und einfach der ganzen Entwicklung, die wirklich sinnvoll ist, Vorschub zu leisten.
+
+01:27:04.201 --> 01:27:09.100
+<v timpritlove>Und wo bündeln sich diese Energien im Netz?
+
+01:27:09.101 --> 01:27:18.300
+<v timpritlove>Gibt es da schon etabliere Ressourcen, wo ist das Projekt hier selbst präsent, wo kann denn diese Vernetzung stattfinden?
+
+01:27:18.301 --> 01:27:22.500
+<v sebastiankuhn>Ja da muss man sagen, da sind wir noch in vielen Bereichen analog.
+
+01:27:22.501 --> 01:27:26.300
+<v timpritlove>Soso, muss man also ein Formular ausfüllen und ein Fax hier herschicken?
+
+01:27:26.301 --> 01:27:34.400
+<v sebastiankuhn>Genau, nein, also ich sage mal so, was sicherlich immer interessant ist, ist sozial media,
+
+01:27:34.401 --> 01:27:40.000
+<v sebastiankuhn>also Twitter @digitalmedizin ist meine Kennung.
+
+01:27:40.001 --> 01:27:44.800
+<v sebastiankuhn>Alles, was passiert, wird tagesaktuell über Twitter geteilt und dann häufig auch noch weiterführende Links,
+
+01:27:44.801 --> 01:27:49.600
+<v sebastiankuhn>wo mehr Informationen oder wie man interagieren kann.
+
+01:27:49.601 --> 01:28:01.300
+<v sebastiankuhn>Natürlich auch Websides, elektronische Publikationen, Beiträge wie der heutige zum Beispiel, einfach um verschiedene Personen auch zu erreichen.
+
+01:28:01.301 --> 01:28:07.700
+<v sebastiankuhn>Die konkrete Zusammenarbeit findet allerdings dann doch häufig analog statt, egal ob das jetzt Kongresse sind,
+
+01:28:07.701 --> 01:28:18.000
+<v sebastiankuhn>ob das Arbeitsgruppen sind, ob man sich gegenseitig besucht an Fakultäten, die vielleicht noch keine Digitalisierungsinitiative im Gesundheitssystem gestartet haben.
+
+01:28:18.001 --> 01:28:23.400
+<v sebastiankuhn>Da bedarf es doch häufig persönlicher Überzeugungsarbeit vor Ort.
+
+01:28:23.401 --> 01:28:33.800
+<v sebastiankuhn>Und wenn man den ersten Schritt gegangen ist, dann tut man sich meistens deutlich leichter, das auch digital per Videokonferenz oder anderer Formate fortzusetzen.
+
+01:28:33.801 --> 01:28:37.900
+<v sebastiankuhn>Aber häufig der erste Funke muss dann doch analog gezündet werden.
+
+01:28:37.901 --> 01:28:45.600
+<v timpritlove>Gibt es denn irgendwelche Konferenzen, die sich auf dieses Thema schon spezialisiert haben?
+
+01:28:45.601 --> 01:28:50.500
+<v sebastiankuhn>Ja also im Internationalen ist die Medicine X dort absolut führend, in Stanford in den USA.
+
+01:28:50.501 --> 01:28:54.800
+<v sebastiankuhn>Da werde ich im April auch sein und auch das Projekt vorstellen.
+
+01:28:54.801 --> 01:29:03.900
+<v sebastiankuhn>Im deutschsprachigen Raum muss man sagen, ist aktuell das Thema Digitalisierung ganz ganz enorm populär auf einer Vielzahl von Konferenzen.
+
+01:29:03.901 --> 01:29:12.500
+<v sebastiankuhn>Und was sagen wir mal den Gesundheitsbereich, die medizinische Ausbildung angeht, ist die Jahrestagung der Gesellschaft für medizinische Ausbildung eigentlich immer die erste Adresse.
+
+01:29:12.501 --> 01:29:18.600
+<v sebastiankuhn>Weil wir dort nicht nur Ärzte, sondern auch die Gesundheitsfachberufe in Deutschland, Östereich und der Schweiz adressieren.
+
+01:29:18.601 --> 01:29:31.400
+<v sebastiankuhn>Und allgemein digitale Hochschullehre ist das Hochschulforum Digitalisierung mit verschiedenen Formaten, sowohl online als auch Summer-Winter-School-Konferenzen absolut führend in Deutschland.
+
+01:29:31.401 --> 01:29:35.200
+<v sebastiankuhn>Und sicherlich für Personen, die interessiert sind, die erste Anlaufstelle.
+
+01:29:35.201 --> 01:29:42.800
+<v timpritlove>Jo, dann wird ja alles gut.
+
+01:29:42.801 --> 01:29:52.400
+<v timpritlove>Also ich finde das ja eine begrüßenswerte Entwicklung, weil das sicherlich wiedermal so ein Bereich ist, der definitiv mehr Chancen aufzubieten hat,
+
+01:29:52.401 --> 01:29:55.600
+<v timpritlove>als potenzielle Risiken dort sich verstecken.
+
+01:29:55.601 --> 01:29:59.000
+<v timpritlove>Die gibt es natürlich auch, die muss man auch sehen, das haben wir auch angesprochen.
+
+01:29:59.001 --> 01:30:06.800
+<v timpritlove>Die ethischen und die Privatssphärefragen, Datenschutzfragen, aber die sind sicherlich auch beantwortbar oder zumindest erarbeitbar.
+
+01:30:06.801 --> 01:30:15.800
+<v timpritlove>Und ja insofern viel Erfolg hier noch auf dem weiteren Weg mit dem Kurs und den sonstigen Aktivitäten.
+
+01:30:15.801 --> 01:30:18.700
+<v timpritlove>Ich sage danke für das Gespräch Sebastian Kuhn.
+
+01:30:18.701 --> 01:30:21.300
+<v sebastiankuhn>Vielen dank für den Besuch.
+
+01:30:21.301 --> 01:30:25.000
+<v timpritlove>Und vielen dank fürs Zuhören bei Forschergeist.
+
+01:30:25.001 --> 01:30:30.500
+<v timpritlove>Und wir melden uns natürlich auch bald wieder, bis dahin, tschüss und bis bald.

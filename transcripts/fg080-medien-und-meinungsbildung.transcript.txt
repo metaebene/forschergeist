@@ -1,0 +1,826 @@
+﻿[00:00:00-0 @intro]
+[00:00:43-0 @timpritlove] Hallo und herzlich willkommen zu Forschergeist dem Podcast des Stifterverbands für die deutsche Wissenschaft.
+[00:00:48-9 @timpritlove] Mein Name ist Tim Pritlove und ich begrüße alle hier zu einer neuen Ausgabe unserer Gesprächsreihe rund um wissenschaftliche Fragen,
+[00:00:57-9 @timpritlove] wissenschaftliche Forschung.
+[00:01:01-5 @timpritlove] Und ja, nun hat es mich auch erwischt, entgegen meiner üblichen Verhaltensweise, doch immer alle zu besuchen
+[00:01:10-6 @timpritlove] und vor Ort ein face-to-face Gespräch zu machen, muss ich natürlich in den Corona-Zeiten da auch zurückstecken
+[00:01:18-6 @timpritlove] und das Ganze mal über die Ferne probieren, wie es funktioniert und insofern bin ich ganz froh,
+[00:01:24-9 @timpritlove] dass das Thema heute sich rund um moderne Mediennutzung dreht.
+[00:01:30-7 @timpritlove] Sehr passend und auf der anderen Seite auch den passenden Experten vorweisen kann, nämlich den Jan-Hinrik Schmidt.
+[00:01:37-8 @timpritlove] Hallo Jan.
+[00:01:38-2 @janhinrikschmidt] Hallo Tim, grüße dich.
+[00:01:40-4 @timpritlove] Genau, denn für dich ist das alles nichts neues, dir muss man nicht erklären, wie man mit dem Internet arbeitet,
+[00:01:45-3 @timpritlove] das macht die Sache auf jeden Fall schon mal ein bisschen einfacher.
+[00:01:48-7 @timpritlove] Ich glaube, da haben in den aktuellen Zeiten eine Menge Leute viel Nachholbedarf und sind auch kräftig am kämpfen.
+[00:01:56-6 @janhinrikschmidt] Ja, ich habe keine Erfahrung mit Pandemien und muss auch gestehen, dass das jetzige Setting,
+[00:02:02-5 @janhinrikschmidt] ich sitze hier jetzt zu Hause in meinem häuslichen Arbeitszimmer mit technischem Equipment von dir
+[00:02:08-2 @janhinrikschmidt] und spreche in meinen Computer rein, höre dich aber glasklar, als ob du mir gegenüber säßest, das ist so auch neu,
+[00:02:12-7 @janhinrikschmidt] das ist hier für mich auch Premiere, aber natürlich der Umgang mit digitalen Medien, auch mit Plattformen,
+[00:02:20-0 @janhinrikschmidt] die irgendwie den Business-Austausch erleichtern, das ist Teil meiner Arbeitsumwelt, aber auch in gewisser Weise ja auch Teil meines Forschungsgebiets,
+[00:02:30-4 @janhinrikschmidt] was ich jetzt schon seit diverser Zeit, seit längeren Jahren dann erforschen darf, nämlich die digitalen Medien.
+[00:02:36-8 @timpritlove] Genau, du bist Senior Researcher beim Hans-Bredow-Institut, wie heißt das vollständig?
+[00:02:45-2 @timpritlove] Ist am Leibniz Institut für Medienforschung angesiedelt.
+[00:02:48-4 @janhinrikschmidt] Genau. Da bin ich seit 2007.
+[00:02:54-6 @janhinrikschmidt] Es hieß lange, auch 60/65 Jahre nur Hans-Bredow-Institut für Medienforschung an der Universität Hamburg.
+[00:03:00-4 @janhinrikschmidt] Seit Anfang 2019 sind wir Mitglied der Leibniz Gemeinschaft, das heißt, jetzt heißen wir offiziell Leibniz Institut für Medienforschung/Hans-Bredow-Institut.
+[00:03:10-3 @timpritlove] Aber das Hans-Bredow-Institut ist in der Hinsicht natürlich der bekanntere Name, das hört man ja schon seit längerem.
+[00:03:17-2 @timpritlove] Und du bist halt seit 2007 dort am Start und hast eigentlich die ganze wilde Zeit live mitverfolgt aus einer Perspektive der Forschung und der besonderen Beobachtung.
+[00:03:35-0 @janhinrikschmidt] Also müsste eigentlich schon vorher beginnen, weil ich auch, bevor ich nach Hamburg ans Bredow-Institut kam, mich ja damit auch schon beschäftigt habe.
+[00:03:45-2 @janhinrikschmidt] Ich habe in den 90ern in Bamberg Soziologie studiert, war dann 99 mit meinem Diplom fertig und hatte bis dahin im Studium eigentlich gar nichts mit Kommunikation und Medien zu tun,
+[00:03:55-8 @janhinrikschmidt] sondern habe andere Fächer, ich habe Bevölkerungswissenschaft und Urbanistik und Sozialplanung so als Schwerpunkte gehabt und Methoden.
+[00:04:00-8 @janhinrikschmidt] Und hatte dann aber das Glück, dass ich Anfang 2000 in Bamberg in die Kommunikationswissenschaft quasi gerutscht bin,
+[00:04:08-8 @janhinrikschmidt] das war wirklich letztlich ein ganz witziger Zufall, weil ich einen Studenten kannte, der war Hilfskraft in einem Forschungsprojekt
+[00:04:16-8 @janhinrikschmidt] und die suchten in einem laufenden Projekt jemanden, der dort einspringen kann, weil der alte Stelleninhaber gewechselt ist
+[00:04:22-6 @janhinrikschmidt] und dann bin ich zum 01.01.2000 an die Forschungsstelle neue Kommunikationsmedien gewechselt an der Uni Bamberg eben in den Kommunikationswissenschaften.
+[00:04:31-5 @janhinrikschmidt] Und habe dann erst mal etwas mehr als ein Jahr ein Projekt betreut, wo es um online-Tageszeitungen ging.
+[00:04:37-9 @janhinrikschmidt] Das war damals als Phänomen noch vergleichsweise neu.
+[00:04:42-1 @janhinrikschmidt] Wir haben auch, was damals auch noch jetzt nicht komplett revolutionär, aber doch ungewöhnlich, war, wir haben online-Befragungen durchgeführt.
+[00:04:49-7 @janhinrikschmidt] Ja und so bin ich also in die Beschäftigung auch die wissenschaftliche Beschäftigung an sich reingerutscht
+[00:04:55-4 @janhinrikschmidt] und dann auch konkret noch die Beschäftigung mit dem Internet und den neuen Kommunikationsmedien.
+[00:04:59-5 @janhinrikschmidt] Ich habe dann in der Zeit danach auch noch in anderen verschiedenen Stellen im Umfeld der Uni Bamberg gearbeitet und meine Promotion geschrieben.
+[00:05:08-5 @janhinrikschmidt] Die drehte sich um den virtuellen lokalen Raum, ich habe also mich mit der Frage auseinandergesetzt, ob das Internet tatsächlich den Raum verschwinden lässt,
+[00:05:15-9 @janhinrikschmidt] die Bedeutung des Raumes verschwinden lässt, das war so eine gängige These in den 1990er Jahren.
+[00:05:22-3 @janhinrikschmidt] Habe das einmal so theoretisch ein bisschen auseinander genommen und habe auch verschiedene empirische Studien rund um lokal bezogene Internetangebote untersucht.
+[00:05:31-6 @janhinrikschmidt] Und dann hatte ich das riesige Glück sozusagen im Rückblick, dass so in der Endphase meiner Promotion, als es dann auch so für mich so ein bisschen darum ging,
+[00:05:39-5 @janhinrikschmidt] ja was mach ich denn jetzt weiter, wie geht es denn weiter, dass da die Weblogs aufkamen.
+[00:05:44-5 @janhinrikschmidt] Das war so die Phase 2004/2005, da haben wir auch in Deutschland uns drüber, da fing die Debatte an, dass es im Netz da so neue interessante Seiten gibt,
+[00:05:57-1 @janhinrikschmidt] die Weblogs, die irgendwie so eine Mischung sind aus online-Tagebüchern und dann gibt es welche, die doch eher so ein bisschen vielleicht quasi journalistisch sind
+[00:06:03-7 @janhinrikschmidt] oder in anderen tauschen sich Expertinnen und Experten aus.
+[00:06:07-5 @janhinrikschmidt] Und das war also ein neues kommunikatives Phänomen, was ich spannend fand und wo ich mich dann ein bisschen näher damit auseinandergesetzt habe,
+[00:06:17-7 @janhinrikschmidt] um erst mal auch rauszufinden, was machen die Menschen eigentlich mit diesem neuen technischen Format, für welche Zwecke setzen die das ein
+[00:06:25-4 @janhinrikschmidt] oder wie ich es dann später auch benannt habe, welche Praktiken des Bloggens bilden sich heraus.
+[00:06:29-4 @janhinrikschmidt] Das konnte ich dann mit einem DAAD-Stipendium vier Monate lang in Österreich untersuchen.
+[00:06:37-8 @janhinrikschmidt] Ich war da in Wien und habe mir die Weblog-Community twoday.net ein bisschen näher unter die Lupe genommen,
+[00:06:44-0 @janhinrikschmidt] die es inzwischen, glaube ich, gar nicht mehr gibt, die war aber so in den 00er Jahren so eine der bekanntesten Weblog-Plattformen.
+[00:06:51-6 @janhinrikschmidt] Und nach diesem viermonatigen Aufenthalt in Österreich kam ich wieder zurück nach Bamberg und habe ein DFG-Projekt erfolgreich beantragt,
+[00:07:00-9 @janhinrikschmidt] in dem meine eigene Stelle als Postdoc-Researcher, also als schon promovierter Forscher drin war
+[00:07:06-2 @janhinrikschmidt] und dann habe ich zwei Jahre lang in Bamberg mit meinem eigenen Projekt eben Praktiken des online-gestützten Netzwerkens oder Networkings untersucht.
+[00:07:13-4 @janhinrikschmidt] Und habe da Weblogs und Netzwerkplattformen miteinander verglichen.
+[00:07:17-7 @janhinrikschmidt] Also das, was man heute so vor allem von Facebook kennt.
+[00:07:19-8 @janhinrikschmidt] Das waren damals, naja ich hatte openBC bzw. jetzt heißt es ja Xing, die hatte ich mir so als Fallstudie und habe noch zwei-drei andere Plattformen untersucht
+[00:07:27-3 @janhinrikschmidt] und habe da mit Nutzern gesprochen etc., und das war also ein Projekt, was letztlich in der ersten Blütephase des web 2.0, wie es damals ja hieß, lief.
+[00:07:40-3 @janhinrikschmidt] Und ich hatte wirklich den großen Vorteil, dass ich eben in einer Zeit, wo alle anfingen, hoppla da passiert was neues, da müsste man doch mal,
+[00:07:45-8 @janhinrikschmidt] da weiß man nichts drüber, wer kann uns da was dazu sagen?
+[00:07:47-9 @janhinrikschmidt] Da hatte ich also schon ein Forschungsprojekt dazu, das heißt, ich konnte dann auch dazu Dinge sagen.
+[00:07:53-4 @janhinrikschmidt] Ich habe sozusagen zu dem Thema web 2.0, social web geforscht, war da auf Tagungen, war auch letztlich vernetzt sozusagen in der entsprechenden Bloggerszene
+[00:08:04-6 @janhinrikschmidt] zum Beispiel in Deutschland, habe, glaube ich, dich in dem Kontext auch kennengelernt und war da so eine Mischung aus teilnehmendem wissenschaftlichen Beobachter
+[00:08:12-0 @janhinrikschmidt] und eben sozusagen Forscher, der von außen darauf guckt.
+[00:08:16-0 @janhinrikschmidt] Und das Ganze hat dann dazu geführt, dass ich, als das Bredow-Institut 2007 jemanden gesucht hat, der Forschung zu digitalen Medien macht,
+[00:08:23-3 @janhinrikschmidt] dass ich dann eben das Glück hatte, diese richtig tolle Stelle zu bekommen.
+[00:08:26-2 @janhinrikschmidt] Und dann seit 2007 bin ich eben am Bredow-Institut mit der etwas sperrigen Jobbezeichnung Senior Researcher für digitale interaktive Medien und politische Kommunikation.
+[00:08:39-5 @timpritlove] Ja, 2007 war überhaupt ein sehr interessantes Jahr.
+[00:08:44-4 @timpritlove] Es war ja auch das erste Jahr, wo die re:publica das erste Mal stattfand, da warst du ja dann wahrscheinlich auch, wenn ich mich richtig erinnere.
+[00:08:51-2 @janhinrikschmidt] Genau, ja.
+[00:08:52-7 @timpritlove] Hattest du da nicht sogar auch schon zu Blogs sogar schon einen Talk gegeben?
+[00:08:56-4 @janhinrikschmidt] Genau, ich habe, das müsste 2007 gewesen sein, habe ich einen Vortrag gehalten „Mythen der Blogosphäre“, wo ich so ein bisschen auseinander genommen habe,
+[00:09:05-6 @janhinrikschmidt] welche Mythen oder welche „Vorurteile“ so über die Blogosphäre eigentlich herumschwirren.
+[00:09:11-9 @janhinrikschmidt] Genau, das muss 2007 gewesen sein.
+[00:09:16-0 @janhinrikschmidt] In den Jahren danach war ich eben auch öfter mal, ich müsste das jetzt sogar nachschlagen, ich hatte dann einige Vorträge.
+[00:09:21-5 @janhinrikschmidt] Ich erinnere mich vor allem immer noch so an die wechselnden Locations, also Kalkscheune und dann auch Friedrichstadtpalast auf der Bühne, da hatte ich auch einen Vortrag mal.
+[00:09:29-2 @janhinrikschmidt] Oder einmal da in dem Quatsch Comedy Club.
+[00:09:32-0 @janhinrikschmidt] Genau, das war das, was ich vorhin meinte, dass ich so in dieser Zeit, wo sich eben auch in Deutschland die Szene, die sich mit dem social web beschäftigt,
+[00:09:41-3 @janhinrikschmidt] größer wurde, aber noch nicht so groß war, dass man sich so in einer wissenschaftlichen Konferenz einerseits und mehr so einer aktivistischen Konferenz andererseits aufgesplittet hatte,
+[00:09:49-8 @janhinrikschmidt] sondern dass alles noch bei der re:publica speziell zusammenkam, dass ich da eben den Zugang hatte und mitmischen konnte.
+[00:09:56-9 @timpritlove] Was war denn so dein Eindruck?
+[00:09:57-6 @timpritlove] Ich meine, bis dahin hattest du dich ja eigentlich eher wissenschaftlich damit beschäftigt.
+[00:10:02-9 @timpritlove] Ich weiß nicht, inwiefern du das selber schon als deinen eigenen Lebensraum definiert hättest.
+[00:10:06-7 @timpritlove] Aber wenn man dann auf die re:publica kam so, die ja dann lange Zeit als Blogger-Treffen, Blogger-Messe, was auch immer, also die Leute rangen ja nach Namen dafür, was denn das nun sei.
+[00:10:20-2 @timpritlove] Worum es denn nun eigentlich auch ginge.
+[00:10:21-8 @timpritlove] Geht es jetzt hier nur um Weblogs etc.?
+[00:10:24-9 @timpritlove] Ich denke, heute wissen wir in etwa, worum es ging.
+[00:10:26-5 @timpritlove] Es ging halt um diese Auseinandersetzungen mit eben genau diesen neuen Realitäten und was es bringt.
+[00:10:32-2 @timpritlove] Was war denn so dein Eindruck von dieser Community, die dort zusammen kam?
+[00:10:35-7 @timpritlove] Weil das war ja dann quasi keine wissenschaftliche Situation im eigentlichen Sinne, sondern das war ja dann fleischgewordene Technik.
+[00:10:46-1 @janhinrikschmidt] Ja. Ich fand und finde die re:publica großartig.
+[00:10:50-2 @janhinrikschmidt] Ich war damals, also das waren so diese ersten Erfahrungen, tatsächlich auch als Wissenschaftler in einem Setting aufzutreten
+[00:10:58-1 @janhinrikschmidt] und über seine eigene Forschung und seine eigenen Gedanken zu sprechen, die man jetzt nicht „vor Gleichgesinnten“
+[00:11:03-8 @janhinrikschmidt] oder wirklich vor der eigenen Fachcommunity hält, sondern wo man raus muss aus dem Elfenbeinturm.
+[00:11:08-2 @janhinrikschmidt] Das fand ich interessant.
+[00:11:10-7 @janhinrikschmidt] Interessant ist jetzt ein euphemistisches Wort für, das war sowohl faszinierend, anregend, teilweise auch herausfordernd,
+[00:11:18-6 @janhinrikschmidt] manchmal auch ein klein bisschen nervig, ich erinnere mich an Debatten jetzt außerhalb der re:publica, wo also dann auch abgesprochen wurde,
+[00:11:26-2 @janhinrikschmidt] dass man als Wissenschaftler überhaupt etwas zu Blogs sagen könnte, weil also das Bild, die Wissenschaftler,
+[00:11:32-6 @janhinrikschmidt] die in ihrem Laborkittel von außen auf die Forschungsobjekte gucken, das traf irgendwie auch manche Blogger so ein bisschen.
+[00:11:40-6 @janhinrikschmidt] So wir wollten uns nicht beobachten lassen oder wir wollen uns nicht beobachten lassen, geht weg ihr Wissenschaftler,
+[00:11:44-5 @janhinrikschmidt] ihr zerstört unseren Lebensraum und all diese Dinge, die spielten so in dieser Zeit mit rum,
+[00:11:49-6 @janhinrikschmidt] weil eben auch sich auch erst herausbildete, für welche Zwecke Blogs eigentlich geeignet sind, wer sich selber als Blogger versteht,
+[00:11:57-1 @janhinrikschmidt] ob es jemanden gibt, der eine Definitionsmacht darüber hat, wer nun ein Blogger, eine Bloggerin ist oder wer nicht.
+[00:12:01-5 @janhinrikschmidt] Und das waren Debatten, die wurden eben auch, nicht ausschließlich aber auch, auf der re:publica geführt und ich fand es großartig,
+[00:12:06-6 @janhinrikschmidt] da als Wissenschaftler teilzuhaben.
+[00:12:08-9 @janhinrikschmidt] Wie gesagt, ich war dann tatsächlich eher so eine Art teilnehmender Beobachter an meinem eigenen Forschungsfeld.
+[00:12:14-1 @timpritlove] Hast du denn selber gebloggt?
+[00:12:15-0 @janhinrikschmidt] Ich habe selber gebloggt, ja.
+[00:12:17-5 @janhinrikschmidt] Ich habe, glaube ich, 2004 angefangen.
+[00:12:20-8 @janhinrikschmidt] Ganz am Anfang eher so ein bisschen Netzfundstücke, das hatte keine große Reichweite.
+[00:12:26-1 @janhinrikschmidt] Ich habe dann im Zuge der Forschungsprojekte das Blog auch ein bisschen stärker in die wissenschaftliche Richtung sozusagen gehen lassen,
+[00:12:35-5 @janhinrikschmidt] also habe dann auch mal über meine wissenschaftliche Arbeit gebloggt.
+[00:12:38-7 @janhinrikschmidt] Es gab damals auch so eine Art lockeres Netzwerk von den Heart-Blogging-Scientists???, das waren so ein paar andere Wissenschaftlerinnen und Wissenschaftler, Doktoranden teilweise,
+[00:12:46-9 @janhinrikschmidt] die auch gebloggt haben und ausprobiert haben, wie man dieses Format für wissenschaftliche Themen oder für wissenschaftliche Forschung nutzen kann.
+[00:12:56-0 @janhinrikschmidt] Genau, also ich blogge seitdem.
+[00:12:59-7 @janhinrikschmidt] So mein eigenes Bloggen, nicht nur das Layout meiner Seite, sondern so ein bisschen auch die Schwerpunkte haben sich im Laufe der Jahre immer so verschoben.
+[00:13:07-2 @janhinrikschmidt] Im Moment ist es tatsächlich oder inzwischen seit einer Weile ist es tatsächlich eher so ein bisschen wieder zu einer Visitenkarte geworden,
+[00:13:13-1 @janhinrikschmidt] weil ich da eher dann nochmal darauf hinweise, wenn irgendwie ein neuer Aufsatz von mir erscheint oder so.
+[00:13:17-7 @janhinrikschmidt] Und einmal im Monat gebe ich so einen kurzen Einblick, an welchen Themen ich gerade sitze.
+[00:13:20-6 @janhinrikschmidt] Es ist also nicht mehr dieses stärker diskursive, dass ich dort mit anderen debattiere oder selber Dinge, die noch nicht fertig sind, zur Diskussion stelle,
+[00:13:29-2 @janhinrikschmidt] wie es in den 00er Jahren war, aber das hat sich, glaube ich, auch an anderen Stellen verändert, das Bloggen,
+[00:13:34-9 @janhinrikschmidt] weil inzwischen sich ja auch das Netz und das social web verändert hat sie den 00er Jahren.
+[00:13:39-3 @timpritlove] Ja, bleiben wir vielleicht nochmal bei der Momentaufnahme damals.
+[00:13:41-9 @janhinrikschmidt] Gerne, ja.
+[00:13:42-7 @timpritlove] Das war ja im Prinzip eine neue Öffentlichkeit, ohne die Beobachtung durch die Öffentlichkeit.
+[00:13:52-4 @timpritlove] Also es spielte sich ja quasi so eine Suböffentlichkeit ab, die zwar teilweise hier und da kommentiert und mal darüber berichtet wurde,
+[00:14:02-0 @timpritlove] aber im Prinzip war das ja so ein Diskurs, der dort geführt wurde, der innerhalb so einer bestimmten Elite stattfand.
+[00:14:11-3 @timpritlove] Jetzt ist es ja immer so, wenn so eine Gruppe sich vielleicht nicht in demselben Maße beobachtet fühlt, und auch sich natürlich auch ein bisschen feiert,
+[00:14:23-5 @timpritlove] aber auch eben diese ganze Experimentierlust rauslässt, dann entstehen ja eigentlich auch erst mal ganz interessante Dinge,
+[00:14:30-0 @timpritlove] weil ja auch erst mal so ein Kontrollmechanismus der Gesellschaft wegfällt.
+[00:14:34-5 @timpritlove] Wie hast du diese Öffentlichkeit wahrgenommen, die dabei heraussprang?
+[00:14:39-6 @janhinrikschmidt] Kann ich auf zwei Arten beantworten.
+[00:14:40-6 @janhinrikschmidt] Das eine ist, dass ich jetzt aus einer eher wissenschaftlichen Sicht mich ja auch tatsächlich genau mit der Frage auseinandergesetzt habe,
+[00:14:47-2 @janhinrikschmidt] welche Art von Öffentlichkeit entsteht da eigentlich?
+[00:14:50-0 @janhinrikschmidt] Meine Antwort ist dann, eine persönliche Öffentlichkeit, die anders funktioniert als die klassisch journalistisch massenmediale Öffentlichkeit.
+[00:14:56-6 @janhinrikschmidt] Das wäre so die eine Antwort, aber mir scheint, ein bisschen scheint deine Frage in eine andere Richtung zu gehen,
+[00:15:01-9 @janhinrikschmidt] das würde ich so mit dem Begriff eben der Community oder der Verwendungsgemeinschaften beschreiben.
+[00:15:07-1 @janhinrikschmidt] Also man konnte nachzeichnen, das habe ich eben auch versucht, das war Thema auch meiner Forschungsarbeit damals,
+[00:15:14-5 @janhinrikschmidt] wie sich sozusagen ausgelöst oder ausgehend von einem technischen Kommunikationsformat, dem Weblog, was ja formal gesprochen relativ simpel ist,
+[00:15:23-9 @janhinrikschmidt] das ist eine Webseite, wo Beiträge draufstehen, die Beiträge sind meistens rückwärts chronologisch sortiert und sie können kommentiert und einzeln verlinkt werden,
+[00:15:30-6 @janhinrikschmidt] so das ist das Weblog jetzt in einer halbwegs technischen Definition.
+[00:15:33-9 @janhinrikschmidt] Aber wie sich davon ausgehend eben unterschiedliche Verwendungsweisen herausgebildet haben, das Technik-Blog,
+[00:15:42-5 @janhinrikschmidt] das tatsächlich eher journalistische Blog, die Strick-Blogs, die Musik- Blogs, die Online-Tagebücher etc..
+[00:15:50-0 @janhinrikschmidt] Und in diesen einzelnen Verwendungsweisen sich aber auch sozusagen Regeln und Erwartungen herausstabilisiert haben.
+[00:15:56-7 @janhinrikschmidt] Was heißt, was macht eigentlich das Bloggen aus?
+[00:15:59-8 @janhinrikschmidt] Welche Erwartungen haben wir an die Art, wie dort gesprochen und geschrieben wird?
+[00:16:04-4 @janhinrikschmidt] Welche Erwartungen haben wir an sozusagen das Diskutieren in den Kommentaren?
+[00:16:12-0 @janhinrikschmidt] Und da sozusagen in dieser Selbstverständigung, was machen wir da eigentlich, da gab es dann halt Personen,
+[00:16:18-4 @janhinrikschmidt] die ein bisschen meinungsstärker auch eher dann zu Wortführern gehörten, das waren dann so die Alpha-Blogger,
+[00:16:24-2 @janhinrikschmidt] sage ich mal, die halt gut vernetzt waren, auf die gehört wurde, an denen man sich auch gerieben hat.
+[00:16:29-2 @janhinrikschmidt] Da gab es auch den Streit in der Blogosphäre, also Don Alfonso, den man ja inzwischen aus ganz anderem Kontext ja auch kennt,
+[00:16:36-2 @janhinrikschmidt] das war ja auch ein ganz ausgesprochener sogenannter interner Kritiker der Blogger-Szene damals
+[00:16:41-7 @janhinrikschmidt] und das waren Dinge, die konnte ich eben kommunikationswissenschaftlich untersuchen
+[00:16:46-6 @janhinrikschmidt] und ich habe das gedeutet eben als Auseinandersetzung und Verständigungsprozesse darüber, was die Praktiken des Bloggens eben so ausmacht.
+[00:16:54-3 @timpritlove] Denkst du, dass die Community dabei sich ihre Regeln sozusagen selbst erarbeitet und auch selbst aufrechterhalten hat?
+[00:17:05-0 @timpritlove] Also wie hast du das wahrgenommen, wie diese Regelwerke des Miteinanders sich dort entfalten haben?
+[00:17:11-7 @janhinrikschmidt] Ja, also die kamen an sich aus dieser Community heraus.
+[00:17:18-8 @janhinrikschmidt] Sie waren aber nicht komplett isoliert oder anders gesagt, es gab ja trotz allem auch Beobachtung von außen,
+[00:17:26-0 @janhinrikschmidt] spätestens dann, als zum Beispiel auch in Deutschland Politikerinnen und Politiker angefangen haben, Blogs einzusetzen und das mal auszuprobieren.
+[00:17:34-4 @janhinrikschmidt] Im Zuge dessen kamen zum Beispiel auch Journalistinnen und Journalisten dazu, die halt auf einmal gesehen haben,
+[00:17:39-6 @janhinrikschmidt] hoppla, da versucht ein Politiker jetzt so was neues, ein Blog, was ist das denn?
+[00:17:43-8 @janhinrikschmidt] Und dann wurde in gewisser Weise von außen auf dieses Format geguckt.
+[00:17:48-6 @janhinrikschmidt] Anderes Beispiel, das auch für Aufsehen gesorgt hatte, war, dass von Jung von Matt, ich weiß den Namen gerade nicht mehr, wer es war,
+[00:17:56-3 @janhinrikschmidt] aber jemand, der in der Werbeszene in Werbeagenturen einen sehr hohen Namen hatte, dass der Blogs als die Klowände des Internet bezeichnet hat zum Beispiel.
+[00:18:03-8 @janhinrikschmidt] Er wollte damit ausdrücken, naja in Blogs da kann ja jeder reinschreiben, was er so sie will, da muss man nichts drauf geben.
+[00:18:09-1 @janhinrikschmidt] Aber das war natürlich, also wenn man selber jetzt als Blogger oder als Bloggerin, wenn da gesagt wurde, na du schreibst ja nur auf eine Klowand,
+[00:18:14-8 @janhinrikschmidt] das hat natürlich viele getroffen und dann wurde darüber wieder debattiert, dann war das innerhalb der Blogs eine Debatte,
+[00:18:20-2 @janhinrikschmidt] auch wahrscheinlich auf der re:publica wurde darüber gesprochen.
+[00:18:23-5 @janhinrikschmidt] Und dadurch waren diese Selbstverständigungsdebatten, also die reagierten auf die Fremdbeobachtungen durch andere, auf Zuschreibungen,
+[00:18:30-4 @janhinrikschmidt] vielleicht auf Abwertungen auch, während zugleich immer wieder man dann eben auch so diese Phänomene hatte,
+[00:18:35-6 @janhinrikschmidt] dass man gesehen hat, hoppla, auf einmal können anscheinend doch Blogs auch irgendwas bewirken.
+[00:18:39-2 @janhinrikschmidt] Da wurden Themen, die in Blogs entstanden, wurden auf einmal in journalistischen Medien aufgegriffen oder es bildeten sich dann Blogs,
+[00:18:45-6 @janhinrikschmidt] wie Netzpolitik zum Beispiel heraus oder auch die re:publica als Veranstaltung, über die halt berichtet wurde.
+[00:18:51-0 @janhinrikschmidt] Das heißt, da wurden Blogs anscheinend dann doch zumindest in manchen Teilen der journalistischen Öffentlichkeit ja irgendwie zumindest wahrgenommen
+[00:18:58-6 @janhinrikschmidt] und auch nicht immer nur abwertend beschrieben, sondern auch anerkannt, dass da etwas neues passiert.
+[00:19:03-8 @janhinrikschmidt] Also insofern ging da interne Selbstverständigung und auch interne Normbildung, so nach dem Motto, wir gucken uns ein bisschen auf die Finger,
+[00:19:11-3 @janhinrikschmidt] was wir hier machen, ging dann mit der Fremdbeobachtung und der Auseinandersetzung mit der Fremdbeobachtung dann eigentlich Hand in Hand.
+[00:19:17-8 @timpritlove] Das war übrigens Jean-Remy von Matt…
+[00:19:20-1 @janhinrikschmidt] Danke dir, genau.
+[00:19:21-5 @timpritlove] …der das geschrieben hat, ich habe es gerade nochmal nachgeschlagen, weil ich erinnere mich natürlich noch ganz gut an diese Geschichte,
+[00:19:25-0 @timpritlove] aber es ist jetzt auch schon wieder alles so lange her.
+[00:19:27-4 @timpritlove] Und das Interessante war, das Ganze war ja dann wiederum eine Reaktion der Reaktion.
+[00:19:30-8 @timpritlove] Also es gab ursprünglich von Jung von Matt diese Kampagne, „Du bist Deutschland“.
+[00:19:36-5 @janhinrikschmidt] Ja genau.
+[00:19:37-8 @timpritlove] Und das wurde dann halt in dieser ganzen Blogosphäre sehr kritisch debattiert und das war dann, glaube ich, eigentlich der entscheidende Punkt,
+[00:19:45-8 @timpritlove] Auf einmal gab es da eine Masse von Kritikern, von Leuten, die sich da angemaßt haben, da Meinungen nicht nur zu haben, sondern eben auch zu veröffentlichen,
+[00:19:56-5 @timpritlove] die sich eben nicht in Journalismus so fassen ließ.
+[00:20:00-4 @janhinrikschmidt] Genau.
+[00:20:00-6 @timpritlove] Und dann kam halt diese Reaktion, die sicherlich damals ein bisschen übertrieben war, weil so.
+[00:20:06-6 @timpritlove] Ich musste allerdings auch vor kurzem gerade über diesen Spruch nochmal nachdenken und dachte mir so, ja Klowände, Internet und so,
+[00:20:13-9 @timpritlove] also das war schon so ein bisschen auch eine self-fulfilling prophecy an der Stelle, weil ich glaube, an dem Punkt sind wir angekommen.
+[00:20:20-0 @timpritlove] Da werden wir ja auf jeden Fall auch noch drüber sprechen.
+[00:20:21-6 @timpritlove] Nichts desto trotz diese Auseinandersetzung mit diesem, was seid ihr eigentlich und was habt ihr für so einen eigenen Anspruch
+[00:20:27-8 @timpritlove] oder was ist denn überhaupt eure Legitimation, eine Meinung zu haben?
+[00:20:32-7 @timpritlove] Das entspann sich ja auch speziell dann eben in der Konfrontation mit dem Journalismus.
+[00:20:37-5 @timpritlove] Ich weiß, das ging dann über Jahre, immer diese Debatte, sind Blogs ein journalistisches Medium?
+[00:20:42-0 @timpritlove] Ist ein Blogger ein Journalist?
+[00:20:43-2 @timpritlove] Kann ein Journalist ein Blogger sein und so weiter, das ging ja laufenden Meter hin und her.
+[00:20:49-2 @timpritlove] Ähnlich mit Podcast und Radio, das hält ja auch noch bis heute an.
+[00:20:53-7 @timpritlove] Und daran hat mich sich viel gerieben.
+[00:20:55-9 @timpritlove] Wie hast du denn gerade diese konkrete Auseinandersetzung mit dem Journalismus beobachtet?
+[00:21:02-5 @janhinrikschmidt] Da ist das Interessante ja, dass das auch eine Frage war, die sich in meinem Fach, also in der Kommunikationswissenschaft, besonders gestellt hat,
+[00:21:12-4 @janhinrikschmidt] weil die Kommunikationswissenschaft ist ja die Wissenschaft von der öffentlichen Kommunikation, jetzt mal ein bisschen verkürzt gesagt.
+[00:21:18-9 @janhinrikschmidt] Und für die Kommunikationswissenschaft war es in gewisse Weise ja auch eine Frage, sind Weblogs ein legitimer Untersuchungsgegenstand?
+[00:21:24-8 @janhinrikschmidt] Ich hatte da wiederum jetzt auch biografisch ein bisschen den Vorteil, dass ich nicht in der Kommunikationswissenschaft sozialisiert wurde,
+[00:21:30-7 @janhinrikschmidt] sondern eben aus der Soziologie stamme, so dass ich mir, ich überspitze jetzt mal, nie so richtig die Frage gestellt habe, darf ich das jetzt untersuchen?
+[00:21:37-9 @janhinrikschmidt] Oder ist das jetzt ein legitimer Untersuchungsgegenstand, sondern mich hat das halt interessiert, auch eher mit dem soziologischen Blick,
+[00:21:45-0 @janhinrikschmidt] welche Praktiken bilden sich heraus?
+[00:21:47-2 @janhinrikschmidt] Und diese Auseinandersetzung oder die Reibung mit dem Journalismus, die Frage, die du gerade auch selber gestellt hast,
+[00:21:54-5 @janhinrikschmidt] ist Bloggen Journalismus und so weiter, die habe ich dann so beantwortet, dass ich sage, es gibt so Überlappungs- oder Überschneidungsbereiche,
+[00:22:04-0 @janhinrikschmidt] aber natürlich ist nicht jedes Blog auch gleichzeitig ein Ausdruck journalistischen Handelns.
+[00:22:09-2 @janhinrikschmidt] Und ich habe dann eigentlich eher beschrieben oder herausgearbeitet, wie sich journalistisch hergestellte, also publizistische Öffentlichkeit,
+[00:22:17-7 @janhinrikschmidt] durch Blogs und später auch durch andere Internetformate letztlich sozusagen erweitert oder an den Rändern, das ist jetzt nicht abwertend gemeint,
+[00:22:25-7 @janhinrikschmidt] an den Rändern sozusagen noch weiter geführt wird, weil die Blogs zum Beispiel, jetzt ein Beispiel für diese Erweiterungen,
+[00:22:31-3 @janhinrikschmidt] die Blogs ja auch Themen aufgreifen, die in den Massenmedien gesetzt werden, weiterführen
+[00:22:35-6 @janhinrikschmidt] und umgekehrt wiederum die journalistischen Medien Themen aufgegriffen haben, die in den Blogs hochgekommen sind.
+[00:22:41-1 @janhinrikschmidt] Also dass es da eigentlich eher so eine Verlängerung der journalistisch hergestellten Öffentlichkeit gab.
+[00:22:47-5 @janhinrikschmidt] Ansonsten nur so ganz grundsätzlich fand ich diese Frage, sind Blogs nun Journalismus, als substanzielle Frage eigentlich eher langweilig,
+[00:22:53-6 @janhinrikschmidt] weil Blogs sind ganz viel oder können ganz viel sein, da ist das ja eigentlich nur ein Ausschnitt.
+[00:22:58-0 @janhinrikschmidt] Mich haben zum Beispiel ja auch die Strick-Blogs interessiert oder die Blogs, die Jugendliche damals geführt haben.
+[00:23:03-0 @janhinrikschmidt] Das war in Zeiten vor Facebook, Instagram, vor SchülerVZ gab es auch Blogs von Teenies, die dann über Tokyo Hotel gebloggt haben.
+[00:23:11-1 @janhinrikschmidt] Das wurde von den etablierten Bloggern auf der re:publica größtenteils natürlich, die haben da drauf geguckt, das sind doch auch keine Blogs,
+[00:23:15-6 @janhinrikschmidt] das ist doch irgendwas.
+[00:23:17-9 @janhinrikschmidt] Also auch da haben interessanterweise auch innerhalb der Blogosphäre solche Abgrenzungsdiskurse stattgefunden.
+[00:23:23-3 @janhinrikschmidt] Das war so eins der Themen von diesem Vortrag, den ich vorhin erwähnt hatte, zu den Mythen der Blogosphäre.
+[00:23:27-9 @timpritlove] Trotzdem ist ja in dieser Journalismusfrage steckt ja auch immer so ein bisschen dieses drin mit, wodurch erhält man denn jetzt hier quasi seinen Führerschein zu berichten?
+[00:23:39-0 @timpritlove] Und bis dahin galt eben Journalismus als, naja da geht man auf eine Journalismusschule und dann ist man bei einer Zeitung
+[00:23:46-9 @timpritlove] oder bei irgendeinem anderen anerkannt journalistischen Medium, macht da seine Ausbildung und werkelt sich nach oben
+[00:23:54-7 @timpritlove] und dann ist man halt Journalist und dann hat man auch einen Journalistenausweis.
+[00:23:58-3 @timpritlove] Und Blogosphäre hat ja eigentlich lange Zeit dagegengehalten, bis heute eigentlich in gewisser Hinsicht und gesagt, nein, das kann man so sehen,
+[00:24:09-3 @timpritlove] wir sehen uns vielleicht auch nicht unbedingt alle als Journalisten, aber wir sehen uns auch nicht zwangsläufig als nicht-Journalisten,
+[00:24:16-8 @timpritlove] weil wir genauso auch Fakten aufgraben können, genauso Meinungen veröffentlichen können.
+[00:24:22-6 @janhinrikschmidt] Zu der Frage muss ich auch sagen, da kann ich inzwischen auch so, weil auch noch mehr Jahre vergangen und noch eine weitere Entwicklung stattgefunden hat,
+[00:24:31-4 @janhinrikschmidt] kann ich auch anders antworten als ich es vielleicht 2007 gemacht hätte oder damals gemacht habe.
+[00:24:37-8 @janhinrikschmidt] Also zum einen ist wichtig nochmal festzuhalten, dass Blogs ja letztlich ein Versprechen einlösen, dass das Netz immer so mit sich bringt,
+[00:24:47-1 @janhinrikschmidt] nämlich jeder kann mitmachen, das ist ja auch ein Teil dieses Versprechens, was so in diesem alten Web 2.0 Diskurs irgendwie so mitschwang.
+[00:24:54-9 @janhinrikschmidt] Und dass jeder mitmachen kann, dass jeder sozusagen seine Stimme in die digitale Öffentlichkeit tragen kann, heißt aber natürlich nicht,
+[00:25:02-2 @janhinrikschmidt] dass damit automatisch jeder auch zum öffentlichen Sprecher im Sinne des Journalisten wird, die Beobachtung ist ganz richtig.
+[00:25:08-0 @janhinrikschmidt] Und es mag Blogger geben, die sich auch wie eine Art Journalisten verstehen, aber viele andere Blogger haben letztlich,
+[00:25:13-8 @janhinrikschmidt] wenn man es abstrakt ausdrücken will, haben eben ihr Recht auf Meinungsäußerung sozusagen ausgeübt.
+[00:25:18-9 @janhinrikschmidt] Sie hatten eben Dinge, die sie interessiert haben, das können Hobbys gewesen sein, Erlebnisse, das kann auch mal ein politisches Thema gewesen sein.
+[00:25:25-8 @janhinrikschmidt] Und sie haben mit den Blogs eine Möglichkeit, ihre Stimme zu Gehör zu bringen und ihr Publikum zu finden.
+[00:25:32-3 @janhinrikschmidt] Und das Publikum sind dann vielleicht ein paar Hundert oder so, die sich halt auch für das Thema interessieren
+[00:25:39-0 @janhinrikschmidt] oder irgendwie in dem erweiterten Netzwerk von der Person sind.
+[00:25:41-2 @janhinrikschmidt] Das ist genau dieses Phänomen, was ich mit dem Begriff der persönlichen Öffentlichkeit auch ausdrücken möchte,
+[00:25:46-6 @janhinrikschmidt] dass es eben neben der journalistisch publizistisch hergestellten Öffentlichkeit eben auch noch andere Formen von Öffentlichkeit in den digitalen Medien gibt
+[00:25:54-5 @janhinrikschmidt] und die persönliche Öffentlichkeit ist, was man selber mit Hilfe der digitalen Medien schaffen kann, wo man selber bestimmt,
+[00:26:00-2 @janhinrikschmidt] über welche Themen schreibt man.
+[00:26:01-2 @janhinrikschmidt] Man muss sich nicht an journalistischen Nachrichtenfaktoren orientieren.
+[00:26:05-2 @janhinrikschmidt] Man muss nicht die journalistischen Darstellungsformen, den Kommentar, die Nachricht, die Glosse kennen, man schreibt so wie man möchte.
+[00:26:12-6 @janhinrikschmidt] Und den Bezug zum Journalismus bekommt es eben dadurch, was ich vorhin schon gesagt hatte, dass zum Teil eben diese Sphären überlappen,
+[00:26:18-7 @janhinrikschmidt] weil Themen in beiden Öffentlichkeitssphären behandelt werden, aber auf ganz unterschiedliche Art und Weise.
+[00:26:24-5 @janhinrikschmidt] So jetzt habe ich ein bisschen, glaube ich, deine Frage aus den Augen verloren, kannst du nochmal die Frage sagen?
+[00:26:29-6 @timpritlove] Naja, also ist schon durchaus, also es ist ja das Aufbrechen dieser althergebrachten Legitimation.
+[00:26:37-7 @timpritlove] Also wer sagt sozusagen was es ist.
+[00:26:40-5 @timpritlove] Ich meine, es gibt ja auch gerade aus dem Umfeld der re:publica, was ja so den Mitgründern, da gehörte eben Markus Beckedahl und sein Blog netzpolitik.org,
+[00:26:51-4 @timpritlove] was ja ganz klar als Blog angetreten ist, um eben in diesem spezifischen Bereich der Netzpolitik zu berichten
+[00:27:00-4 @timpritlove] und mittlerweile ja, glaube ich, überhaupt nicht mehr zur Diskussion steht, dass es sich hierbei um ein journalistisches Format handelt.
+[00:27:05-7 @janhinrikschmidt] Ja.
+[00:27:06-5 @timpritlove] Also der Beweis ist an der Stelle ja, glaube ich, auch restlos gebracht worden.
+[00:27:12-8 @timpritlove] Aber spulen wir mal ein bisschen vor, verlassen wir diese Zeit der relativen unbeobachteten Elitengruppen, weil dann gab es ja dann,
+[00:27:27-4 @timpritlove] wie schon zuvor, immer wieder neue Schübe durch technischen Wandel.
+[00:27:33-1 @timpritlove] Und wo vorher halt die Blogs am Start waren und jeder sich im Prinzip noch selber um seinen eigenen Webserver kümmern müsste,
+[00:27:39-6 @timpritlove] wenn man sich nicht eben auf einer dieser Bloggingplattformen rumgetrieben hat, wie das von dir erwähnte twoday.net,
+[00:27:45-4 @timpritlove] was es übrigens noch gibt, ich habe gerade nochmal nachgeschaut, also hält sich wacker.
+[00:27:47-1 @janhinrikschmidt] Cool.
+[00:27:50-4 @timpritlove] Und relativ früh war ja schon YouTube dabei, da war bloß noch nicht so richtig absehbar, was sich dort an eigenen Formaten künftig mal tummeln können wird.
+[00:28:02-6 @timpritlove] Dann kam natürlich Facebook auf als Plattform und irgendwann auch Twitter.
+[00:28:08-9 @timpritlove] Wie haben denn diese neuen Player jetzt das ganze Geschehen geprägt?
+[00:28:15-0 @janhinrikschmidt] Oha, das ist die 100.000 Euro Frage oder es ist tatsächlich jetzt komplex.
+[00:28:23-1 @janhinrikschmidt] Wenn ich es sehr verkürzt wiedergeben will ist irgendwann so um 2010 herum, sage ich mal, das kann man nicht auf ein genaues Datum festmachen,
+[00:28:34-3 @janhinrikschmidt] aber irgendwo dann hat sich die Struktur der digitalen Öffentlichkeit erkennbar gewandelt gegenüber dem, was wir jetzt gerade eben die ganze letzte Zeit,
+[00:28:42-9 @janhinrikschmidt] die letzten Minuten besprochen haben, also dass das Web in den 2010er Jahren ist strukturell nochmal erkennbar anders als das Web 2.0,
+[00:28:50-8 @janhinrikschmidt] das sozial Web der 00er Jahre.
+[00:28:52-9 @janhinrikschmidt] Und das hat sehr viel mit den von dir genannten Akteuren zu tun, nicht weil YouTube auf einmal auch Videos erlaubte oder so,
+[00:29:00-8 @janhinrikschmidt] das ist nicht das Entscheidende, sondern weil es sich bei diesen Akteuren um Plattformen handelt oder um Intermediäre,
+[00:29:06-9 @janhinrikschmidt] also um Akteure, die eben gewisse Dinge zentralisieren.
+[00:29:12-2 @janhinrikschmidt] Die Blogosphäre ist was dezentrales.
+[00:29:16-0 @janhinrikschmidt] Es gab halt viele verschiedene Blogs und die waren untereinander vernetzt, haben sich gekannt, was auch immer.
+[00:29:22-2 @janhinrikschmidt] Facebook oder YouTube ist erst mal eine Plattform, ich benutze diesen Begriff mal, ich kann den nachher auch nochmal problematisieren,
+[00:29:27-4 @janhinrikschmidt] aber es ist eine Plattform, die auch eine Infrastruktur bereitstellt, um Videos zu veröffentlichen oder sein eigenes Profil anzulegen
+[00:29:36-0 @janhinrikschmidt] und sich davon ausgehend mit Leuten zu vernetzen, wie im Fall von Facebook.
+[00:29:38-9 @janhinrikschmidt] Diese Plattformen machen es nochmal leichter, selber seine eigene persönliche Öffentlichkeit im Netz zu schaffen.
+[00:29:46-3 @janhinrikschmidt] Die Hürde, einen Blog aufzusetzen, war schon deutlich kleiner als in den 1990er Jahren eine Webseite zu programmieren
+[00:29:55-0 @janhinrikschmidt] und dadurch sozusagen haben Blogs auch eine gewisse Verbreitung bekommen, aber es war trotzdem immer noch nicht so einfach
+[00:30:02-6 @janhinrikschmidt] wie es heutzutage ist, sich bei Facebook anzumelden oder später dann bei Instagram oder so was.
+[00:30:06-5 @janhinrikschmidt] So dass YouTube, Facebook und so weiter eben nochmal so einen Verbreitungsschub dieser, heute sagen wir, sozialen Medien geführt haben,
+[00:30:14-8 @janhinrikschmidt] weil es nochmal für ganz andere Nutzergruppen auf einmal leicht möglich war.
+[00:30:19-3 @janhinrikschmidt] Speziell bei Facebook kamen natürlich auch diese Netzwerkeffekte dazu, dass man irgendwie mitbekommen hat im eigenen Umfeld,
+[00:30:25-1 @janhinrikschmidt] da gibt es jetzt so was, da sind Leute auf Facebook, da kann man irgendwie diskutieren und alte Schulfreunde wiederfinden
+[00:30:30-4 @janhinrikschmidt] und dann haben es eben immer mehr Leute ausprobiert.
+[00:30:33-1 @janhinrikschmidt] Also dadurch ist speziell Facebook ja so um 2010 herum in Deutschland auch so unglaublich rasant gewachsen
+[00:30:38-4 @janhinrikschmidt] und hat dann im Prinzip alle anderen Angebote, die es damals noch gab in Deutschland, die VZ-Netzwerke, wer kennt wen etc., hat es ja vom Markt gefegt.
+[00:30:45-6 @janhinrikschmidt] So inzwischen, das kann wie gesagt keine klare Marke setzen, aber so im Laufe er Zeit, Anfang der 2010er Jahre, haben diese Plattformen eben dann ihre Stellung ausgebaut,
+[00:30:57-0 @janhinrikschmidt] haben sich konsolidiert und haben, das war dann in der Entwicklung nochmal ein bisschen später, haben dann aber auch alle letztlich ihre Funktionsweise so umgestellt,
+[00:31:08-6 @janhinrikschmidt] dass sie also ein auf umfassender Verdatung beruhendes System aufgebaut haben, um Informationsströme zu lenken.
+[00:31:18-2 @janhinrikschmidt] Das war jetzt abstrakt formuliert, aber die Funktionsweise von YouTube, Twitter, Facebook und so weiter, die unterscheidet sich natürlich in einzelnen Details,
+[00:31:25-6 @janhinrikschmidt] aber im Grunde geht es bei diesen Plattformen darum, dass die Plattformbetreiber Daten von uns Nutzern sammeln,
+[00:31:32-5 @janhinrikschmidt] indem sie unsere Aktivitäten protokollieren und diese Daten dann dazu verwenden, um zu kanalisieren, welche Art von Inhalten sehen wir, kriegen wir zu sehen?
+[00:31:42-2 @janhinrikschmidt] Das ist dann zum Beispiel wie sich der Newsfeed bei Facebook zusammenstellt oder auch die algorithmischen Empfehlungen bei YouTube,
+[00:31:48-4 @janhinrikschmidt] aber auch der ganze Komplex mit personalisierter Werbung.
+[00:31:51-9 @janhinrikschmidt] Und das sind, wir können das alles gerne später nochmal vertiefen, aber das ist so jetzt wirklich in a nutshell so ein ganz wesentlicher Strukturwandel
+[00:32:00-6 @janhinrikschmidt] von doch noch eher zentralen Angeboten und dezentralen persönlichen Öffentlichkeiten im Internet der 2000er Jahre
+[00:32:12-2 @janhinrikschmidt] hin zu den stark auf einige wenige große Plattformen konzentrierten, man kann auch sagen monopolisierten, Netz der Intermediäre,
+[00:32:18-1 @janhinrikschmidt] was wir in den 2010er und jetzt im Beginn der 2020er Jahre haben.
+[00:32:22-2 @timpritlove] Vor allem wurde ja der Begriff des Netzwerkeffekts an der Stelle auch erst so richtig popularisiert, weil man sah ihn auf einmal so richtig walten,
+[00:32:29-3 @timpritlove] insbesondere bei Facebook hat sich das dann halt abgespielt, dass eben dieses, wenn erst mal genug Leute auf einer Plattform sind
+[00:32:37-7 @timpritlove] und es dann so einen Tipping Point gibt, wo alle anderen sagen, naja wenn die anderen da auch sind, dann gehe ich da halt auch hin,
+[00:32:43-5 @timpritlove] das ist ja auch etwas, wo dann so die Blogosphäre sehr drunter gelitten hat.
+[00:32:47-9 @timpritlove] Eine ähnliche Entwicklung sieht man zum Beispiel jetzt auch gerade im Podcasting, was sich ja diesen ganzen Plattformen noch relativ lange ferngehalten hat
+[00:32:56-0 @timpritlove] oder sich die Plattformen zumindest vom Podcasting weit ferngehalten haben, dass eben jetzt diese Netzwerkeffekte hier auch greifen.
+[00:33:03-4 @timpritlove] Was hatte denn das für einen Effekt auf die Kommunikation an sich?
+[00:33:12-2 @janhinrikschmidt] Ja gut, das eine hatte ich ja schon angesprochen, ist eben erst mal relativ banal, dass Netzwerkeffekte das Wachstum von der Nutzerschaft/Nutzerinnenschaft begünstigen
+[00:33:22-6 @janhinrikschmidt] und dass es aber dann in einem zweiten Schritt eben auch letztlich zu einer Beschränkung auf einige wenige
+[00:33:29-8 @janhinrikschmidt] oder vielleicht sogar nur einen dominierenden Akteur kommt, weil so eine Plattform gewinnt ihren Wert dadurch,
+[00:33:35-8 @janhinrikschmidt] wenn ich da hingehe, möchte ich mit möglichst vielen anderen kommunizieren können, so dass es dann so eine Art natürliche Tendenz hin gibt,
+[00:33:41-1 @janhinrikschmidt] dass sich dann alle dann doch irgendwie bei einem sammeln, das ist so der eine Aspekt.
+[00:33:46-2 @janhinrikschmidt] Könnte man mathematisch modellieren sozusagen, wie diese Netzwerkeffekte gegriffen haben und sich abgespielt haben.
+[00:33:51-4 @janhinrikschmidt] Kommunikationssoziologisch interessant ist zum Beispiel die Beobachtung, dass mit diesem Wachstum eben auch, sagen wir,
+[00:33:57-9 @janhinrikschmidt] es zu einer Verbreiterung der Nutzerschaft kam und so dieses Gefühl, wir sind hier eine kleine homogene Szene,
+[00:34:04-0 @janhinrikschmidt] wir haben ja länger drüber gesprochen vorhin, wie es so in den Anfängen der Blogosphäre und der Blogs gab mit der re:publica als Kristallisationspunkt und Klassentreffen,
+[00:34:12-6 @janhinrikschmidt] dass das irgendwann dann eben, man könnte sagen, zerfasert ist, sich ausdifferenziert hat, was auch immer,
+[00:34:19-3 @janhinrikschmidt] also es hätte nie im Leben ein Klassentreffen aller Facebook-Nutzer geben können.
+[00:34:25-0 @janhinrikschmidt] Selbst bei der Blogosphäre gab es natürlich ganz viele, die nie zu so einem Treffen gekommen wären,
+[00:34:29-4 @janhinrikschmidt] aber ich glaube, es ist klar, worauf ich hinaus will.
+[00:34:30-8 @janhinrikschmidt] Also es war einfach dann so, die Nutzerzahlen sind so in die Höhe gegangen, dass sich da auch wieder zwangsläufig ganz unterschiedliche Gruppierungen und Communitys und Netzwerke ausgebildet hatten.
+[00:34:42-3 @janhinrikschmidt] Man sah das dann zum Beispiel daran, dass man auf einmal auf Facebook eben Leute wiedergefunden hat oder gesehen hat,
+[00:34:49-9 @janhinrikschmidt] die alten Klassenkameraden oder vielleicht auch die eigene Großmutter oder die eigenen Eltern oder so, die das ganz anders genutzt haben als man selber.
+[00:34:59-0 @janhinrikschmidt] Die irgendwie auch ganz andere Themen hatten, es war ganz lange natürlich der Reiz dieses, ich treffe alte Bekannte wieder,
+[00:35:04-4 @janhinrikschmidt] ich kann mich wieder mit alten Schulfreunden vernetzen, das macht ja auch viel aus.
+[00:35:09-9 @janhinrikschmidt] Das ist auch der Wert, den viele Menschen in diesen Netzwerkplattformen sehen.
+[00:35:12-6 @janhinrikschmidt] Aber so dieses Gefühl, wir teilen so ein Verständnis von unserer Rolle, so wie es die Blogger sind, dass wir hier die Facebook-Nutzer sind zum Beispiel
+[00:35:20-9 @janhinrikschmidt] oder die YouTube-Nutzer, das hat sich nie rausgebildet, dafür waren die Gruppen einfach zu groß.
+[00:35:26-0 @timpritlove] Ist nicht identitätsstiftend gewesen.
+[00:35:28-2 @janhinrikschmidt] Genau. Das ist vielleicht ein interessanter Punkt nochmal, weil das auch was war, was ich so aus diesen ersten Arbeiten mit den Weblogs herausarbeiten konnte
+[00:35:35-8 @janhinrikschmidt] und was mir jetzt aber, also was ich immer noch hilfreich finde, dass all diese Plattformen, über die wir reden, ganz grundsätzlich ja drei verschiedene Praktiken unterstützen.
+[00:35:44-3 @janhinrikschmidt] Ich nenne das halt Identitätsmanagement, Beziehungsmanagement, Informationsmanagement.
+[00:35:47-8 @janhinrikschmidt] Und diese drei Dinge kommen zusammen, ich kann ausdrücken wer ich bin oder wer ich sein will, Identitätsmanagement.
+[00:35:54-0 @janhinrikschmidt] Ich kann Beziehungen, soziale Beziehungen knüpfen, also neu knüpfen oder auch pflegen, Beziehungsmanagement.
+[00:35:59-8 @janhinrikschmidt] Und ich kann mich aber über die Welt um mich herum informieren, kann auf dem Laufenden bleiben, Informationsmanagement.
+[00:36:06-0 @janhinrikschmidt] Das sind so die drei Nutzungsversprechen, die diese sozialen Medien eben auch haben und die auch den Reiz ausmachen für viele Menschen.
+[00:36:11-5 @timpritlove] Jetzt haben wir ja einen Medienteil die ganze Zeit ein wenig im Hintergrund gelassen, nur am Rande angesprochen, nämlich die Massenmedien.
+[00:36:20-1 @timpritlove] Die ja nun lange lange Zeit gewohnt waren, mehr oder weniger zuständig zu sein für all diese ganzen Informationsfluss
+[00:36:27-0 @timpritlove] und die vielleicht auch so manche andere Aspekte so abgedeckt haben und wenn es nur der Leserbrief ist.
+[00:36:34-3 @timpritlove] Die standen ja so aus meiner Perspektive relativ lange recht schockiert vor dieser ganzen Entwicklung und ist dann auch so durch verschiedene klassischen Phasen,
+[00:36:45-6 @timpritlove] das gibt es alles gar nicht und so weiter und dann konnte man nicht mehr leugnen, dass es das gibt, dann war das erst mal alles ganz Teufelszeug
+[00:36:54-7 @timpritlove] und musste unbedingt abgelehnt werden und so weiter.
+[00:36:58-2 @timpritlove] Wie hast du diese Reaktionen der Massenmedien genommen und welche Rolle haben sie in dieser Zeit gehabt?
+[00:37:06-0 @janhinrikschmidt] Also für die Massenmedien waren das im Prinzip auch zwei Wellen oder zwei Phasen der Herausforderung.
+[00:37:13-5 @janhinrikschmidt] Und im Rückblick kann man sagen, das was in den 00er Jahren so mit den Gefechten mit der Blogosphäre stattfand,
+[00:37:20-1 @janhinrikschmidt] wirklich nur Vorgeplänkel war, weil die auch hier die Plattform eigentlich die viel größeren Herausforderungen sind,
+[00:37:27-5 @janhinrikschmidt] weil die nicht nur die Sonderstellung des Journalismus in publizistischer Hinsicht angreifen.
+[00:37:33-9 @timpritlove] Deutungshoheit.
+[00:37:35-2 @janhinrikschmidt] Genau und die Frage, wer bestimmt, welche Informationen in die Öffentlichkeit kommen?
+[00:37:43-5 @janhinrikschmidt] Sondern sie greifen sie auch und vor allem in ökonomischer Hinsicht an.
+[00:37:45-8 @janhinrikschmidt] Also das heißt, die untergraben letztlich das Geschäftsmodell des zumindest privatwirtschaftlich organisierten Journalismus,
+[00:37:51-6 @janhinrikschmidt] nämlich Aufmerksamkeit von Menschen zu bündeln, indem man Nachrichten zur Verfügung stellt oder Inhalte zur Verfügung stellt
+[00:37:58-5 @janhinrikschmidt] und diese Aufmerksamkeit dann über Werbung zu monetarisieren.
+[00:38:01-4 @janhinrikschmidt] Das ist ja auch das Geschäftsmodell der Tageszeitungen, des klassischen Fernsehsenders.
+[00:38:06-8 @janhinrikschmidt] Wie gesagt, Öffentlich-Rechtliche klammern wir mal aus, aber privatwirtschaftlich organisierte Medienangebote finanzieren sich zum überwiegenden Teil
+[00:38:15-2 @janhinrikschmidt] oder das ist so das klassische Modell gewesen, finanziert sich zum überwiegenden Teil über Werbeerlöse und nicht über den Verkauf oder das Abo oder so.
+[00:38:22-5 @janhinrikschmidt] So und jetzt, das hat mit „dem Internet“ schon angefangen und die Intermediäre, die Plattformbetreiber haben das jetzt nochmal verschärft,
+[00:38:30-4 @janhinrikschmidt] entstehen eben neue Akteure, die Werbekuchen abschöpfen bildlich gesprochen.
+[00:38:36-2 @janhinrikschmidt] Also anders gesagt, Werbeausgaben verlagern sich ins Internet und da verlagern sie sich eben zu Google und zu Facebook insbesondere.
+[00:38:42-0 @janhinrikschmidt] Und das ist in gewisser Weise die größere Herausforderung, auch für den professionell betriebenen Journalismus,
+[00:38:48-2 @janhinrikschmidt] weil dann eben die Finanzierungsgrundlage dann auch massiv erodiert.
+[00:38:55-3 @janhinrikschmidt] Und da ist die Frage, was macht Facebook eigentlich mit unserer publizistischen Öffentlichkeit, mit der Art, wie wir uns als Gesellschaft informieren,
+[00:39:04-6 @janhinrikschmidt] wie wir uns orientieren, wie wir über bestimmte Themen debattieren, die macht diese Frage nicht obsolet, im Gegenteil, die ist extrem wichtig,
+[00:39:12-5 @janhinrikschmidt] weil die auch viel dann mit demokratischer Meinungsbildung und Willensbildung zu tun hat, aber für den Journalismus ist eben im Moment, glaube ich,
+[00:39:19-4 @janhinrikschmidt] so die fast drängendere Frage, wie können wir uns eigentlich finanzieren, wenn wir im Netz auf einmal da diese neuen Akteure haben,
+[00:39:26-5 @janhinrikschmidt] die unglaublich viele Werbemittel in dem Fall dann abschöpfen, was könnten andere Finanzierungsquellen sein zum Beispiel?
+[00:39:32-1 @timpritlove] Ja das ist insofern ganz interessant, als dass ja dann eben auch diese klassische Zuschreibung, um was für ein Medium es sich eigentlich handelt, auch aufgeweicht wurde.
+[00:39:41-4 @timpritlove] Wenn man sich heute Spiegel anschaut, was mittlerweile auch nur noch Spiegel und nicht mal mehr Spiegel Online und Spiegel ist,
+[00:39:48-2 @timpritlove] also einerseits ist das klassische Geschäft und das Onlinegeschäft verschmolzen, jetzt eben auch im Namen.
+[00:39:55-6 @timpritlove] Man publiziert Videos, man publiziert Podcasts, es mag auch im Einzelnen auch noch so blogartige Beiträge geben.
+[00:40:04-0 @timpritlove] Also diese ganzen Berichtsformen haben sich komplett geändert und man kann jetzt gar nicht mal mehr sagen, ja Spiegel das ist eine Zeitung
+[00:40:11-3 @timpritlove] oder das ist ein Magazin, genauso verhält es sich auch im öffentlich-rechtlichen Raum, weil man hat ja auch gesehen,
+[00:40:17-1 @timpritlove] dass auch der Gesetzgeber hier so seine Schwierigkeiten hatte, dass regulatorisch entsprechend nachzuführen.
+[00:40:23-4 @timpritlove] Man siehe nur diese permanente Debatte zwischen den privaten Verlagen und den Öffentlich-Rechtlichen, wer denn jetzt was wie wo senden darf.
+[00:40:31-7 @timpritlove] Ihr seid doch Fernsehen, dann könnt ihr doch hier nicht einfach eine App rausbringen oder Texte ins Internet stellen, was fällt euch denn eigentlich ein?
+[00:40:39-4 @timpritlove] Auf der anderen Seite ist natürlich aber auch Springer wunderbar dabei, im Prinzip eigene Fernsehformate unter den klassischen Zeitungsmarken zu etablieren.
+[00:40:48-6 @janhinrikschmidt] Ja. Genau. Also wenn wir für einen Moment mal diese medienpolitische Frage nochmal außer Acht lassen, zeigen, glaube ich, diese Beispiele,
+[00:40:56-5 @janhinrikschmidt] dass es inzwischen also nicht mehr möglich ist, die Frage, ist das Journalismus oder nicht, an einen bestimmten Verbreitungsweg zu koppeln,
+[00:41:02-8 @janhinrikschmidt] so wie man eine Zeit lang sagen konnte, okay wenn es ein bedrucktes Stück Papier, also bedruckte Zeitung ist, dann ist das Journalismus.
+[00:41:08-4 @janhinrikschmidt] Also auch da gab es Grauzonen und so weiter, Stichwort Anzeigenblätter, aber mal anders formuliert,
+[00:41:15-3 @janhinrikschmidt] ganz lange folgte dieses Monopol des Journalismus, man spricht ja auch von einer Gate-Keeper-Funktion,
+[00:41:20-1 @janhinrikschmidt] also Journalismus ist die Instanz, die für uns filtert, was in der Welt wichtiges passiert und dann an uns verbreitet, das war daran geknüpft,
+[00:41:27-3 @janhinrikschmidt] dass es vergleichsweise schwierig war, Massenreichweite herzustellen.
+[00:41:30-5 @janhinrikschmidt] Man brauchte Druckerpressen ganz banal, um halt in großer Auflage Zeitungen zu bedrucken.
+[00:41:35-1 @janhinrikschmidt] Man brauchte Rundfunkmasten und Infrastruktur, um zu senden Fernsehen oder Radio.
+[00:41:40-4 @janhinrikschmidt] Das ist mit dem Internet, Internet hat auch eine dahinterliegende wichtige Infrastruktur, aber die Hürden sind gesunken, nun prinzipiell Reichweite zu erreichen.
+[00:41:51-9 @janhinrikschmidt] Das heißt, man kann die Frage, Journalismus oder nicht, eben nicht mehr an der verwendeten Medientechnologie festmachen,
+[00:41:58-1 @janhinrikschmidt] sondern braucht andere Kriterien.
+[00:42:01-6 @janhinrikschmidt] Man kann das zum Beispiel über die Selektions- und Darstellungsmechanismen machen, also man könnte ja argumentieren,
+[00:42:07-5 @janhinrikschmidt] der Journalismus unterscheidet sich von anderen Formen des ins Netz Schreibens dadurch, dass es eben bestimmte Kriterien gibt,
+[00:42:14-9 @janhinrikschmidt] nach denen gefiltert wird, ist das aufgreifenswert oder ist das berichtenswert oder nicht?
+[00:42:20-1 @janhinrikschmidt] Das sind dann die, in der Forschung nennt man das, die klassischen Nachrichtenfaktoren, die ein Ereignis haben muss,
+[00:42:24-5 @janhinrikschmidt] damit es für den Journalismus berichtenswert ist.
+[00:42:26-8 @janhinrikschmidt] Man kann sich an den Darstellungsformen aufgreifen.
+[00:42:29-9 @janhinrikschmidt] Also wenn wir ein Thema aufgegriffen haben, wie berichten wir darüber?
+[00:42:32-8 @janhinrikschmidt] So mit dem Anspruch des Journalismus zum Beispiel auch, zumindest in der Nachricht soweit es geht objektiv zu bleiben
+[00:42:41-2 @janhinrikschmidt] und Ansichten und Meinungen vielleicht dann in die Form des Kommentars auszuleisten.
+[00:42:45-3 @janhinrikschmidt] Also das wäre eine Möglichkeit.
+[00:42:46-5 @janhinrikschmidt] Und dann ist es eigentlich, dann kann Journalismus eben auf gedrucktem Papier oder im Fernsehen oder eben auch im Internet stattfinden.
+[00:42:53-9 @janhinrikschmidt] Nochmal eine andere Möglichkeit wäre, noch abstrakter über gesellschaftliche Funktionen zu gehen.
+[00:42:58-6 @janhinrikschmidt] Also die Frage sich zu stellen, welche Funktionen erfüllt der Journalismus eigentlich für eine Gesellschaft oder welche Funktion sollte er erfüllen?
+[00:43:06-2 @janhinrikschmidt] Und sind andere Organisations- und Kommunikationsformen denkbar, die diese Funktion auch erfüllen können
+[00:43:12-2 @janhinrikschmidt] oder sind Funktionen, wie gesellschaftliche Selbstverständigung oder sozusagen die Synchronisierungsfunktion,
+[00:43:17-3 @janhinrikschmidt] dass eine Gesellschaft weiß, welche Themen gerade auf der Agenda stehen, ist das zwingend an die Organisationsform Journalismus gebunden?
+[00:43:22-4 @janhinrikschmidt] Also solche Fragen stellen sich jetzt, wenn man eben nicht mehr die Debatten macht, alles was im Netz ist, kann kein Journalismus sein oder so.
+[00:43:30-1 @timpritlove] Na damit sind wir ja im Prinzip jetzt nach diesem Rückblick auf wie es sich entwickelt hat ja eigentlich im Jetzt auch angekommen.
+[00:43:36-6 @timpritlove] Jetzt haben wir einfach diese Situation, die Plattformen dominieren einen großen Teil des Informationsflusses, der eben beileibe nicht nur von den Massenmedien ausgeht,
+[00:43:46-0 @timpritlove] sondern eben im großen Teil von den Leuten auch selbst getragen ist.
+[00:43:49-4 @timpritlove] Es haben sich unzählige an Bubbles und Communitys und andere Informationskanäle herausgebildet, Alternativmedien, wie man manchmal auch sagt
+[00:44:00-3 @timpritlove] und auch wenn das schon wieder so einen Beigeschmack hat.
+[00:44:04-3 @timpritlove] Wir sehen uns jetzt also einfach einer Situation gegenüber, in der das klassische Verteilungsmodell so naja zumindest Schlagseite bekommen hat.
+[00:44:15-2 @timpritlove] Das ist jetzt vielleicht gerade ganz interessant, dass wir jetzt dieses Gespräch zum aktuellen Zeitpunkt führen,
+[00:44:21-3 @timpritlove] denn wir sind ja jetzt nun mitten noch im Corona Lockdown hier weltweit und in Deutschland natürlich auch
+[00:44:28-1 @timpritlove] und das hat natürlich auch einen interessanten Effekt des Zusammenrückens gehabt.
+[00:44:32-6 @timpritlove] Auf einmal spielt die Tagesschau wieder eine große Rolle, überhaupt macht es gerade so den Eindruck, als ob die Medien an sich,
+[00:44:40-3 @timpritlove] also vor allem die etablierten Medien, eine größere Rolle spielen, das ist zumindest so ein bisschen mein unterschwelliger Eindruck,
+[00:44:48-6 @timpritlove] weil die Vertrauensfrage auf einmal auf eine andere Art und Weise gestellt wird als das vielleicht noch vor wenigen Monaten der Fall war.
+[00:44:56-1 @timpritlove] Wie beobachtest du das?
+[00:44:59-0 @janhinrikschmidt] Ja, also die Beobachtung teile ich.
+[00:45:01-0 @janhinrikschmidt] Das ist inzwischen auch so durch erste Studien ja auch nachgewiesen, dass sich Aufmerksamkeit wieder hin zu den klassischen publizistischen Nachrichtenangeboten zum Beispiel verlagert hat.
+[00:45:16-9 @janhinrikschmidt] Ich würde das versuchen aus der Sicht der Nutzerinnen und Nutzer zu erklären.
+[00:45:23-7 @janhinrikschmidt] Dass wir es also hier jetzt mit einem einschneidenden Ereignis haben, mit einem Ereignis für das wir als einzelne Person, aber auch als Gesellschaft,
+[00:45:32-2 @janhinrikschmidt] ja bisher keine Erfahrungen hatten, dass in solchen Zeiten es ein immens hohes Orientierungsbedürfnis gibt.
+[00:45:40-0 @janhinrikschmidt] Also Menschen wollen wissen, also vielleicht nicht alle, aber die meisten Menschen wollen wissen, was passiert da gerade,
+[00:45:43-4 @janhinrikschmidt] wie kann ich mich schützen, was muss ich tun, um mich nicht anzustecken, um vielleicht auch andere nicht anzustecken?
+[00:45:48-6 @janhinrikschmidt] Welche Beschlüsse gelten gerade, was darf ich noch, was darf ich nicht?
+[00:45:54-2 @janhinrikschmidt] Also all diese Informationsbedürfnisse sind jetzt sozusagen bei der Gesamtbevölkerung auf einmal auf der Tagesordnung.
+[00:46:00-5 @janhinrikschmidt] Menschen müssen sich darüber informieren.
+[00:46:02-3 @janhinrikschmidt] Und die Leistung der publizistischen oder der Massenmedien besteht ja gerade darin, dass sie Informationen, gleichlaufende Informationen,
+[00:46:13-2 @janhinrikschmidt] schnell und gleichzeitig an ein großes Publikum, nämlich an das Massenpublikum verbreiten können.
+[00:46:19-5 @janhinrikschmidt] Das heißt, da ist erst mal ganz banal die technische Leistung er Massenmedien, anders als, sagen wir mal, WhatsApp, ist eben,
+[00:46:25-4 @janhinrikschmidt] ein und dieselbe Information kann unglaublich viele Bürgerinnen und Bürger gleichzeitig erreichen.
+[00:46:30-3 @janhinrikschmidt] Das ist so der eine Punkt, dass man also darüber, dass man jetzt als einzelne Person ja auch weiß, gelernt hat im Laufe der Zeit,
+[00:46:43-5 @janhinrikschmidt] dass man sich für solche aktuellen Nachrichten eben auch an die Massenmedien wenden kann und da dann Informationen bekommt.
+[00:46:47-7 @janhinrikschmidt] Man kann dann gleichzeitig, das was ich jetzt erzähle reflektieren wir alle natürlich nicht so ständig in der Mediennutzung,
+[00:46:53-6 @janhinrikschmidt] aber eben abstrakt gesprochen, man kann davon ausgehen, dass andere das dann auch wissen.
+[00:46:58-2 @janhinrikschmidt] Also das was ich aus den Massenmedien weiß, davon kann ich ausgehen, das wissen vielleicht auch andere.
+[00:47:04-3 @janhinrikschmidt] Das wird Teil unserer geteilten Realität.
+[00:47:09-3 @janhinrikschmidt] Und gleichzeitig gilt eben auch noch, du hast das Stichwort Vertrauen schon gesagt, dass zumindest in weiten Teilen der Bevölkerung es eben auch dieses Vertrauen ja weiterhin gibt,
+[00:47:18-2 @janhinrikschmidt] dass die journalistischen Medien bei allen Probleme und auch unterschiedlichen Abstufungen im Wesentlichen ja Informationen liefern, die gecheckt sind,
+[00:47:28-2 @janhinrikschmidt] also es wird uns nicht kompletter Nonsens erzählt und so weiter.
+[00:47:32-1 @janhinrikschmidt] Das heißt, das ist sozusagen ein Wissen, das wir gelernt haben darüber wie Medien funktionieren,
+[00:47:38-4 @janhinrikschmidt] was sich dann niederschlägt in einem zumindest grundlegendem Vertrauen darin, dass das, was ich aus der Tagesschau
+[00:47:44-9 @janhinrikschmidt] oder meinetwegen auch aus meiner Tageszeitung vor Ort erfahre, dass ich mich danach richten kann.
+[00:47:49-9 @janhinrikschmidt] Das ist erst mal sozusagen der grundlegende Mechanismus.
+[00:47:54-0 @janhinrikschmidt] Und ich habe so den Eindruck, das kann ich jetzt nicht irgendwie aus Studien groß bestätigen, das ist mehr jetzt so mein Alltagseindruck,
+[00:48:00-3 @janhinrikschmidt] dass so in den ersten Wochen dieser Fokussierungseffekt, also in den ersten Wochen sozusagen von der Corona-Pandemie
+[00:48:07-6 @janhinrikschmidt] und auch dann den ersten Wochen dieser Ausgangsbeschränkungen etc., dass da diese Fokussierung extrem stark war,
+[00:48:14-7 @janhinrikschmidt] weil der Informationsbedarf so hoch war und dass sich das dann aber jetzt im Laufe der letzten Wochen ja wieder ausdifferenziert hat,
+[00:48:22-9 @janhinrikschmidt] teilweise auch danach, weil es natürlich in der Bevölkerung auch kein einheitliches Meinungsbild gibt, ob nun diese Beschränkungen alle gerechtfertigt sind,
+[00:48:30-4 @janhinrikschmidt] ob die der richtige Weg sind.
+[00:48:32-5 @janhinrikschmidt] In den Medien selber wird eben mittlerweile ja auch unterschiedlich stark thematisiert, dass es unterschiedliche Ansichten gibt,
+[00:48:41-2 @janhinrikschmidt] sowohl unter den Politikerinnen und Politikern, die entscheiden müssen, als auch teilweise ja innerhalb der Wissenschaft,
+[00:48:46-3 @janhinrikschmidt] dass es da wissenschaftliche Stimmen gibt, die bestimmte Maßnahmen eher strenger und manche, die die eher lockerer sehen wollen etc.
+[00:48:52-6 @janhinrikschmidt] Und dadurch kommt jetzt sozusagen wieder eine Differenzierung rein, die aber nach wie vor in den Massenmedien noch abgebildet wird.
+[00:48:59-7 @janhinrikschmidt] Und dann sozusagen als weitere Schritt kommt die Vielfalt an Informationen dazu, die man eben in den digitalen Medien findet.
+[00:49:07-0 @janhinrikschmidt] Ich wollte jetzt gerade sagen, die man in den nicht journalistischen Medien findet, wobei das nicht ganz stimmt,
+[00:49:11-8 @janhinrikschmidt] denn auch sozusagen es finden sich ja auch inzwischen, Stichwort Alternativmedien, finden sich auch Angebote,
+[00:49:18-7 @janhinrikschmidt] die zumindest zu weiten Teilen auch ansatzweise journalistisch arbeiten, aber eben trotzdem es sich zur Aufgabe gemacht haben,
+[00:49:26-6 @janhinrikschmidt] Stimmen zu Gehör zu bringen, die es nicht durch den Filter der publizistischen, sozusagen in Anführungsstrichen, ist nicht mein Wort,
+[00:49:33-0 @janhinrikschmidt] der Mainstreampresse finden, so dass Menschen dort dann eben auch, wenn sie das möchten, mal Informationen bekommen,
+[00:49:38-9 @janhinrikschmidt] die im Gegensatz zu dem stehen, was jetzt zum Beispiel Angela Merkel verkündet.
+[00:49:43-1 @janhinrikschmidt] Und wenn man das jetzt noch koppelt, das ist ein sehr langes Argument jetzt, wenn man das jetzt noch koppelt mit den Prozessen der Meinungsbildung,
+[00:49:50-2 @janhinrikschmidt] die so im persönlichen Gespräch stattfinden, dass man sich mit den Nachbarn unterhält, in der Familie, dass man sich austauscht,
+[00:49:58-1 @janhinrikschmidt] dann ist sozusagen wenn man das noch mit reinnimmt, was sich auch ausdifferenziert, dann kann man, glaube ich, inzwischen sagen,
+[00:50:04-5 @janhinrikschmidt] dass also diese ursprüngliche Fokussierung auf Informationen einiger weniger journalistischer Outlets, dass die inzwischen abgeschwächt wurde zumindest.
+[00:50:12-5 @janhinrikschmidt] Und dass es wieder zu einer Situation kommt, die es vorher auch schon gab, dass also Massenmedien nach wie vor fokussieren,
+[00:50:18-1 @janhinrikschmidt] dass es aber bestimmte Gruppen der Bevölkerung und auch bestimmte Anteile der Bevölkerung zu bestimmten Themen gibt,
+[00:50:24-0 @janhinrikschmidt] die sich aus anderen Quellen mit anderen Ansichten informieren wollen und danach dann ihre Meinung bilden.
+[00:50:29-5 @timpritlove] Da kommen wir gleich vielleicht nochmal dazu.
+[00:50:31-1 @timpritlove] Ich wollte das nochmal kurz aufgreifen, weil du meintest ja so, okay Massenmedien qualifiziert jetzt in dieser Situation etwas.
+[00:50:36-0 @timpritlove] Sie können irgendwie alle erreichen.
+[00:50:38-9 @timpritlove] Das ist ja im Prinzip das, was wir gesagt haben, könnten ja jetzt auch alle anderen.
+[00:50:43-0 @timpritlove] Also ich könnte ja auch mit meinem Podcast, mit meinem Blog theoretisch ja auch alle erreichen.
+[00:50:47-1 @timpritlove] Okay gut, ich bin noch nicht über den über Funk und Kabel ausgesendeten Fernsehen, das mag schon nochmal einen Unterschied haben,
+[00:50:54-7 @timpritlove] aber viele nehmen das ja auch mittlerweile über das Internet über Streams wahr.
+[00:50:58-7 @timpritlove] Das heißt, es muss schon nochmal einen anderen Faktor geben.
+[00:51:01-6 @timpritlove] Einen hast du genannt, dieses Vertrauen in die journalistische Überprüfung, diese Double Check Prozess oder explizit auch dieses Factchecking,
+[00:51:10-4 @timpritlove] was in letzter Zeit ja auch noch mit dazu gekommen ist, das ist das eine.
+[00:51:14-1 @timpritlove] Andererseits eben auch so ein, du meintest so, also die Qualität der Medien ist nicht nur, dass man sie an sich schätzt,
+[00:51:21-1 @timpritlove] sondern dass man auch davon ausgeht, dass alle anderen auch dieselbe Information haben können.
+[00:51:26-1 @janhinrikschmidt] Genau.
+[00:51:26-4 @timpritlove] Das ist ja, glaube ich, auch nochmal ein ganz interessanter Punkt.
+[00:51:28-3 @timpritlove] Einerseits so ein Lagerfeuereffekt, okay wir sitzen jetzt hier auch alle in einem Boot und wir sind zumindest synchronisiert in der Information,
+[00:51:37-3 @timpritlove] weil wir das Gefühl haben, dass das an sich auch nochmal einen Wert darstellt.
+[00:51:41-9 @timpritlove] Also es ist gar nicht mal so, nur die Information an sich ist für mich jetzt wichtig, sondern es ist für mich wichtig, dass wir alle dieselbe Information
+[00:51:49-6 @timpritlove] oder zumindest dieselbe Informationsbasis haben.
+[00:51:52-9 @janhinrikschmidt] Genau. Entweder das oder auch nur, du kannst es noch einen Schritt sozusagen niedriger hängen, dass wir zumindest wissen, über welche Themen gerade gesprochen wird.
+[00:52:01-1 @timpritlove] Ja.
+[00:52:02-7 @timpritlove] Ja okay, die Thematisierung an sich, dass klar ist, was ist eigentlich wichtig.
+[00:52:07-1 @timpritlove] Also welchem Thema muss man Aufmerksamkeit entgegenbringen, anders als sonst, wo sich mehr oder weniger um seinen eigenen Kram kümmert.
+[00:52:18-0 @timpritlove] Okay, jetzt haben wir natürlich den anderen Elefanten im Raum schon die ganze Zeit gehört.
+[00:52:24-2 @timpritlove] Wir erleben seit, tja weiß nicht, zehn Jahren so einen Wandel von unten.
+[00:52:32-1 @timpritlove] Die Plattformen haben halt es ermöglicht, alle möglichen Kommunikationsräume sich selber zu schaffen
+[00:52:38-7 @timpritlove] und man hat so den Eindruck, man hat jetzt eine Welt mit Millionen an den Globus umstreckenden Stammtischen geboren,
+[00:52:50-2 @timpritlove] in denen eigene Realitäten, Vorurteile und Meinungsbildung stattfindet, die teilweise einfach so vor sich hinläuft
+[00:53:02-2 @timpritlove] oder eben auch konkret ausgenutzt wird.
+[00:53:05-7 @timpritlove] Extreme Beispiele, die Wahl in den USA, die Abstimmung über den Brexit, das sind alles Dinge, die ganz offensichtlich massiv beeinflusst worden sind.
+[00:53:18-0 @timpritlove] Also wo einerseits die Diskussion in den Netzen selber schon seine eigene Dynamik entwickelt hat, die schwer zu kontrollieren war,
+[00:53:25-2 @timpritlove] aber die eben zusätzlich auch noch mit Brandbeschleuniger übergossen wurde dadurch, dass eben diese ganzen Algorithmen
+[00:53:32-9 @timpritlove] durch Unternehmen wie Cambridge Analytica auch gezielt genutzt wurden, um eine bestimmte Botschaft so als Verstärker, so Geschmacksverstärker da noch mit reinzubringen,
+[00:53:47-7 @timpritlove] um so selbstaufschaukelnde Effekte mit reinzubringen.
+[00:53:54-7 @timpritlove] Wie kann man dieses Phänomen greifen und welche Entwicklung hat das so in deinen Augen genommen?
+[00:54:08-1 @janhinrikschmidt] Ja, also letztlich, ich kann es mir leicht machen und sagen, naja man muss da differenzieren
+[00:54:13-1 @janhinrikschmidt] und du hast ganz viele verschiedene Phänomene jetzt ja auch schon angesprochen in deiner Herleitung der Frage.
+[00:54:18-7 @janhinrikschmidt] Also ich tue mich schwer, diese Wandel der digitalen Öffentlichkeit, den wir jetzt in den letzten vier-fünf Jahren vielleicht nochmal beobachten,
+[00:54:27-1 @janhinrikschmidt] den auch nur auf einen Nenner zu bringen.
+[00:54:29-3 @janhinrikschmidt] Also in gewisser Weise erleben wir jetzt, jetzt heißt hier, sagen wir mal, seit Trump und Brexit, also seit 2016/17 in etwa, erleben wir,
+[00:54:43-3 @janhinrikschmidt] dass die digitale Öffentlichkeit eben auf einer Medieninfrastruktur beruht, und damit meine ich nicht nur das Technische, also die Kabel und die Funkmasten,
+[00:54:51-9 @janhinrikschmidt] sondern auch sozusagen die Plattform mit ihrer Logik, mit ihrer Medienlogik, also dass die Öffentlichkeit auf einer Infrastruktur basiert,
+[00:54:59-7 @janhinrikschmidt] die nicht per se gut oder nicht per se demokratisch ist, sondern die eben auch für andere Zwecke eingesetzt werden kann,
+[00:55:08-5 @janhinrikschmidt] die zu Manipulation eingesetzt werden kann, zu Propaganda, ich muss den Begriff Fakenews hier gar nicht verwenden, der ist problematisch,
+[00:55:16-8 @janhinrikschmidt] aber dazu benutzt werden kann, um strategisch zu kommunizieren
+[00:55:21-7 @janhinrikschmidt] und diese strategischen Ziele müssen eben nicht immer im Sinne der sozusagen der klassischen habermasschen aufgeklärten Vernunft oder so liegen.
+[00:55:30-3 @janhinrikschmidt] Da fließen viele verschiedene Entwicklungen jetzt zusammen, die zum Beispiel was mit der Möglichkeit zu tun haben,
+[00:55:37-7 @janhinrikschmidt] dass man gezielt einzelne Bevölkerungssegmente auswählen und targetten kann, indem man denen sozusagen relativ spezifisch, zielgruppenspezifisch,
+[00:55:46-8 @janhinrikschmidt] halt bestimmte Botschaften zuspielt, das ist so ein Mechanismus, der beruht wiederum auf dem, was ich vor einer Weile vorhin schon mal erläutert habe,
+[00:55:52-9 @janhinrikschmidt] dass die Grundlogik dieser Plattformen ja ist, Informationsströme auf Grundlage von verdateten Informationen über die Nutzerinnen und Nutzer zu kanalisieren.
+[00:56:01-7 @janhinrikschmidt] Und ich kann jetzt eben, wenn ich das möchte, eine politische Botschaft zum Beispiel, relativ zielgenau an ein sehr eng beschriebenes Segment der Bevölkerung ausspielen,
+[00:56:11-5 @janhinrikschmidt] ohne dass vielleicht andere Personen überhaupt davon Kenntnis nehmen, dass ich eine bestimmte Botschaft aussende, das ist so ein Bereich.
+[00:56:17-5 @janhinrikschmidt] Der andere Bereich ist, dass auf diese Plattformen ja auch was zusammenwächst, was ziemlich lange getrennt war,
+[00:56:25-7 @janhinrikschmidt] nämlich wir haben sozusagen das Senden oder das Publizieren von Informationen auf der einen Seite, bestimmte Botschaften werden verbreitet
+[00:56:32-5 @janhinrikschmidt] und wir haben die Anschlusskommunikation in den Kommentaren, also das, wo vielleicht dann auch stärker noch Meinungsbildung stattfindet.
+[00:56:39-6 @janhinrikschmidt] Und diese beiden Dinge waren in der alten Welt, also klassische Massenmedien, waren die getrennt.
+[00:56:44-7 @janhinrikschmidt] Da gab es dann eben die Tagesschau und dann das Gespräch in der Familie am Abendbrottisch hinterher über die Nachrichten
+[00:56:51-1 @janhinrikschmidt] oder es gab die Tageszeitung und dann vielleicht mal den Leserbrief, aber im Großen und Ganzen waren eben publizistische Kommunikation
+[00:56:57-0 @janhinrikschmidt] und der Austausch von Menschen über das, was sie aus den Medien erfahren haben, das waren verschiedene Medientechnologien, das war getrennt voneinander.
+[00:57:02-8 @janhinrikschmidt] In den digitalen Medien finden wir das an ein und derselben Stelle, auf der Facebook-Seite, bei dem Facebook-Eintrag, wo drunter kommentiert wird.
+[00:57:11-0 @janhinrikschmidt] In dem Twitter-Thread, wo ein Link zu einer bestimmten Nachricht gepostet wird und drunter dann die Leute sich zu Wort melden,
+[00:57:19-3 @janhinrikschmidt] darauf antworten, sich streiten, was auch immer, bei YouTube etc. das gleiche.
+[00:57:23-1 @janhinrikschmidt] Das ist ein zweites Beispiel, wie hier also eine andere Medienlogik entstanden ist im Laufe der Jahre,
+[00:57:27-9 @janhinrikschmidt] die dazu führt, dass bestimmte Konversationen auf einmal sichtbar werden, die es vorher vielleicht auch schon gab, Stichwort Stammtisch,
+[00:57:34-1 @janhinrikschmidt] die aber nie so diese gleiche Sichtbarkeit hatten, wie sie es jetzt möglicherweise haben.
+[00:57:38-8 @janhinrikschmidt] Denn wenn ich einen Eintrag auf der Facebook-Seite der Tagesschau sehe und darunter gleich die Kommentare,
+[00:57:43-4 @janhinrikschmidt] dann ist da sozusagen im Sinne der Reichweite erst mal Gleichstand hergestellt zwischen den Journalisten,
+[00:57:47-6 @janhinrikschmidt] die die Facebook-Seite selber bestücken und dem was drunter halt Nutzer in den Kommentaren von sich geben können.
+[00:57:54-1 @timpritlove] Was ja auch noch verstärkend wirkt, ist ja diese Funktionalität des Teilens, die, glaube ich, so in der Form damals auch noch nicht war.
+[00:58:01-6 @timpritlove] Also klar, debattieren und Feedback geben, der Kanal hat sich ein bisschen verändert, aber ist ja in seiner Qualität im wesentlichen dasselbe,
+[00:58:09-2 @timpritlove] aber dieses Teilen, diese Weiterreichen und Empfehlen und Liken und wie man es noch alles nennen möchte,
+[00:58:13-8 @timpritlove] das scheint mir so ein bisschen so ein Brandbeschleuniger in der ganzen Debattenkultur zu sein.
+[00:58:19-7 @janhinrikschmidt] Ja genau, das ist zum einen, also es trägt dazu bei, dass sich bestimmte Informationen oder Ansichten eben weiter verbreiten können.
+[00:58:27-8 @janhinrikschmidt] Ich bin als Sender, jetzt mal in Anführungsstrichen, anfangs vielleicht gar nicht drauf angewiesen, dass mir jetzt unglaublich viele Leute folgen
+[00:58:34-1 @janhinrikschmidt] oder meine Seite abonniert haben oder so was, sondern ich kann vielleicht darauf vertrauen, das, was ich sagen möchte,
+[00:58:39-2 @janhinrikschmidt] dass das so im Sinne der Mundpropaganda halt von meinem Publikum weitergetragen wird, dass die das selber, du hast genannt,
+[00:58:44-3 @janhinrikschmidt] retweeten, liken, anderen empfehlen, so dass die Steigerung von Reichweite oder Aufmerksamkeit eben auch durch diese, man nennt es ja dann
+[00:58:52-2 @janhinrikschmidt] solche viralen Effekte, stattfinden kann.
+[00:58:54-7 @janhinrikschmidt] Die Tücke ist, oder nicht die Tücke, da muss man vielleicht noch sagen als zweite Beobachtung dazu, dass das Weiterleiten und Empfehlen
+[00:59:06-2 @janhinrikschmidt] durch Nutzerinnen und Nutzer selbst auch nur ein Baustein ist.
+[00:59:09-1 @janhinrikschmidt] Der zweite vervielfältigende Baustein sind die algorithmischen Empfehlungen, die die Plattformen selber machen,
+[00:59:15-5 @janhinrikschmidt] also nach dem Motto, das hier könnte dich auch interessieren.
+[00:59:19-5 @janhinrikschmidt] Und diese beiden Empfehlungsmechanismen, nutzergenerierte Empfehlungen und algorithmisch generierte Empfehlungen,
+[00:59:25-0 @janhinrikschmidt] die spielen zusammen, um sozusagen die Reichweite von bestimmten Videos oder Postings oder was auch immer zu erhöhen.
+[00:59:32-3 @janhinrikschmidt] Und zumindest im Moment ist es im Großen und Ganzen so, dass beide Mechanismen Kommunikation belohnen, die möglichst zugespitzt ist,
+[00:59:40-7 @janhinrikschmidt] die prägnant ist, die die Leute vielleicht auch aufregt, so dass sie das Gefühl haben, da muss ich was machen oder das müssen auch andere sehen,
+[00:59:47-4 @janhinrikschmidt] und da spielt dann wiederum das nutzergenerierte und das Algorithmische zusammen, weil die Algorithmen in der Entscheidung,
+[00:59:53-8 @janhinrikschmidt] was empfehle ich, was leite ich weiter, sich auch danach richten oder daraufhin programmiert sind, die Algorithmen selber sind keine handelnden Akteure,
+[01:00:03-3 @janhinrikschmidt] also sie sind darauf programmiert, dass sie Dinge mit einer höheren Wahrscheinlichkeit empfehlen, die gerade im Moment besonders stark debattiert werden.
+[01:00:10-3 @janhinrikschmidt] Und das ist eine Sache, ich habe es jetzt erst mal neutral beschrieben, aber das ist was, was ja auch populistische Kommunikation ausnutzt,
+[01:00:16-1 @janhinrikschmidt] um es jetzt ins Politische zu wenden, was Trump ja auch ausnutzt.
+[01:00:19-9 @janhinrikschmidt] Das Wissen, dass man sowohl das Publikum als auch die Algorithmen triggern kann, indem man möglichst hart und prägnant
+[01:00:27-9 @janhinrikschmidt] und vielleicht auch überdreht kommuniziert, weil man dadurch dann Aufregung und im zweiten Schritt dann Aufmerksamkeit generiert.
+[01:00:35-6 @janhinrikschmidt] Das ist so das Muster, das macht in gewisser Weise ja auch manche Debatten und manche Verläufe so unerträglich,
+[01:00:42-8 @janhinrikschmidt] weil eigentlich klar ist, hier wird jetzt nur sozusagen noch einer drauf gepackt und die Empörungsspirale muss nochmal gedreht werden,
+[01:00:49-1 @janhinrikschmidt] um überhaupt Gehör zu finden, und es macht es auf der anderen Seite eben auch schwer für, ich sage jetzt mal wieder abstrakt, vernunftgeleitete Kommunikation,
+[01:01:00-0 @janhinrikschmidt] also Argumentationen, die vielleicht versuchen abzuwägen oder irgendwie auch mal zu sehen, hat die andere Person vielleicht auch recht.
+[01:01:05-7 @janhinrikschmidt] Diese Art von Kommunikation tut sich da vielleicht ein bisschen schwerer, weil sie nicht per se zu so einem Erregungslevel irgendwie beiträgt.
+[01:01:14-0 @timpritlove] Sich auf das Spiel auch gar nicht einlassen kann, weil man da eigentlich nur verlieren kann.
+[01:01:18-3 @janhinrikschmidt] Genau, nein, sie würde dann in dem Fall eben sozusagen ihre eigenen Grundlagen, nämlich das vernunftgeleitete oder das abwägende würde sie untergraben.
+[01:01:27-5 @janhinrikschmidt] Also das, was ich jetzt gerade gesagt habe, man kann auch da wiederum zeigen, dass es da auch Gegenbewegungen gibt,
+[01:01:33-6 @janhinrikschmidt] dass nämlich unter bestimmten Umständen interessanterweise gerade wieder das abgewogen Objektive wiederum sozusagen teilenswert ist.
+[01:01:43-5 @janhinrikschmidt] Ich glaube, hier kann man durchaus den Drosten-Podcast nennen, der ja gerade deswegen so populär geworden ist
+[01:01:48-8 @janhinrikschmidt] und der sich auch sehr sehr stark durch Empfehlungen und durch Mundpropaganda verbreitet hat, gerade weil er nüchtern und unaufgeregt kommuniziert,
+[01:02:00-0 @janhinrikschmidt] aber das ist möglicherweise vielleicht eher die Ausnahme, die die Regel bestätigt.
+[01:02:03-8 @janhinrikschmidt] Ganz viel der Kommunikation im Netz, dieser viralen Dinge auch, da geht es eher um Sachen, die irgendwie spektakulär zugespitzt oder was auch immer sind.
+[01:02:14-5 @timpritlove] Ja, vor allem lässt sich ja bemerken, dass bestimmte Leute sich auch schon richtig aus einem offenen Dialog ausgekoppelt zu haben scheinen.
+[01:02:24-0 @timpritlove] Wir haben dieses Phänomen der Verschwörungstheorien, das heißt, Leute die Erklärungsmuster herbeiziehen, die so auf den ersten Blick vollkommen absurd erscheinen,
+[01:02:34-8 @timpritlove] insbesondere in dieser Anhäufung, aber es macht ja ganz den Eindruck, als ob sich das auch weiterhin verstärkt.
+[01:02:42-3 @timpritlove] Es ist immer eine Frage der Wahrnehmung.
+[01:02:44-3 @timpritlove] Alles was so aufgeregt daherkommt und skandalisierend vor sich hin schreit, das bekommt dann immer erst mal mehr Aufmerksamkeit,
+[01:02:51-6 @timpritlove] sowohl durch die Algorithmen als eben auch vielleicht durch die Reaktion der Leute selber, weil sie dann vielleicht auch erst mal besorgt sind,
+[01:02:57-8 @timpritlove] oh Gott da ist ja was ganz furchtbares passiert und stelle dir mal vor, das stimmt dann eben auch, und dann frage ich mich halt,
+[01:03:04-5 @timpritlove] ob das überhaupt noch einzufangen ist.
+[01:03:06-6 @timpritlove] Also ist dieser Trend, den wir sehen, siehst du den als umkehrbar oder kehrt der sich schon um?
+[01:03:16-4 @timpritlove] Ist es etwas, wo man drauf Einfluss nehmen muss, damit es sich in irgendeiner Form wieder in handelbare Bahnen lenken lässt?
+[01:03:27-8 @timpritlove] Ist das ein technisches Problem, also wie gehen wir damit um, dass so viele Leute hier komplett aus der Spur zu laufen scheinen?
+[01:03:36-9 @janhinrikschmidt] Das ist ein technisches und ein soziologisches und ein psychologisches Problem wahrscheinlich.
+[01:03:42-0 @janhinrikschmidt] Also man sollte nicht hoffen, dass man nur an einer Schraube drehen muss.
+[01:03:46-3 @janhinrikschmidt] Also wenn man Verschwörungstheoretiker mal nimmt, da begebe ich mich jetzt außerhalb meiner Expertise, ich bin kein Psychologe,
+[01:03:54-1 @janhinrikschmidt] aber das hat, also die Neigung, Verschwörungstheorien Glauben zu schenken, hat ziemlich sicher was mit bestimmten psychologischen Dispositionen auch zu tun.
+[01:04:03-3 @janhinrikschmidt] Mit der Frage, wie ich mir die Welt selber erkläre, ohne dass es sich darauf reduzieren lässt.
+[01:04:08-1 @janhinrikschmidt] Es hat auch was mit soziologischen Phänomenen zu tun, dass sich solche bestimmten Ansichten oder Meinungen dann eben auch verstärken können,
+[01:04:18-3 @janhinrikschmidt] wenn man in einer Gruppe Gleichgesinnter ist.
+[01:04:20-6 @janhinrikschmidt] Also wenn um mich rum alle sagen, ja klar, natürlich vergiftet die Regierung uns durch Chemtrails am Himmel
+[01:04:28-7 @janhinrikschmidt] oder natürlich ist das Corona-Virus in einem Forschungslabor in China entstanden, wenn das um mich rum alle glauben, dann bin ich auch sozusagen stärker geneigt
+[01:04:36-4 @janhinrikschmidt] und dann kommt eben das Technische ins Spiel.
+[01:04:38-1 @janhinrikschmidt] Also die Medienlogik dieser Plattformen hat eben auch dazu geführt, dass die es leichter haben sich zu finden
+[01:04:44-3 @janhinrikschmidt] und sich auch abzuschotten letztlich, nicht ausschließlich abzuschotten, weil sie ja auch oft ein Sendungsbewusstsein haben und sagen,
+[01:04:51-6 @janhinrikschmidt] sie wollen ihre Verschwörungstheorien oder ihre Ansichten, was auch immer, verbreiten,
+[01:04:54-8 @janhinrikschmidt] aber sie finden eben ihre Räume im Netz, auch in den sozialen Medien, wo sie sich halt in ihren eigenen Meinungen ständig bestärken können und sagen,
+[01:05:02-6 @janhinrikschmidt] natürlich ist das so und guck mal hier, hier habe ich schon wieder bei, dann wird irgendein obskurer YouTube-Kanal genannt,
+[01:05:08-3 @janhinrikschmidt] hier habe ich schon wieder ein Video gefunden, dass eindeutig beweist, dass es ein Forschungslabor ist oder dass es die Chemtrails gibt.
+[01:05:14-3 @janhinrikschmidt] Das sind diese Echokammern über die wir hier reden.
+[01:05:16-3 @janhinrikschmidt] Also wo Menschen vielleicht auch gar nicht mehr empfänglich sind für abweichende Meinungen, psychologisch nicht mehr empfänglich,
+[01:05:23-2 @janhinrikschmidt] aber auch dass sozusagen medientechnisch abweichende Meinungen es da vielleicht auch gar nicht mehr reinfinden,
+[01:05:27-6 @janhinrikschmidt] weil sie rausgefiltert werden oder denen eben nicht empfohlen werden.
+[01:05:31-4 @janhinrikschmidt] Und das, also gerade weil es nicht ein rein technisches Problem ist, sondern da auch noch andere psychologische und soziologische Faktoren eine Rolle spielen,
+[01:05:39-0 @janhinrikschmidt] bin ich auch skeptisch, dass man das jetzt einfach wird ändern können oder abschaffen können, indem man sozusagen irgendwo an den Parametern von YouTube rumschraubt.
+[01:05:48-0 @janhinrikschmidt] Ich glaube, man hat da Möglichkeiten, man kann anscheinend, da bin ich jetzt auch nicht mehr der richtige Experte für,
+[01:05:54-8 @janhinrikschmidt] aber man kann offensichtlich auch ja zum Beispiel diese Parameter von den Empfehlungsalgorithmen natürlich entsprechend einstellen
+[01:06:03-1 @janhinrikschmidt] und anscheinend könnte man dann auch die so kalibrieren, dass die vielleicht Dinge aus einem bestimmten Kosmos, von dem man ziemlich sicher ausgehen kann,
+[01:06:10-8 @janhinrikschmidt] dass das verschwörungstheoretische Umfelder sind, dass die eben nicht noch beliebig an irgendwelche anderen Nutzer weiter empfohlen werden,
+[01:06:15-6 @janhinrikschmidt] aber das wird das Problem der Verschwörungstheorien an sich und auch das Problem ihrer Verbreitung
+[01:06:20-9 @janhinrikschmidt] und ihres sozusagen Verfangens in bestimmten Bevölkerungsgruppen eben nicht lösen.
+[01:06:26-0 @janhinrikschmidt] Gerade bei diesem Thema schwanke ich aber auch selber immer zwischen der Haltung, das ist wirklich schlimm und drängend und da muss dringend was gemacht werden
+[01:06:36-6 @janhinrikschmidt] und auf der anderen Seite aber auch dieser Einsicht, das betrifft nach wie vor eben nur einen letztlich sehr kleinen Teil der Bevölkerung,
+[01:06:43-9 @janhinrikschmidt] wenn wir jetzt über Verschwörungstheorien sprechen.
+[01:06:45-4 @janhinrikschmidt] Zwischen diesen beiden Polen, sage ich mal, schwankt so ein bisschen ja auch die öffentliche Debatte und die Debatte der Wissenschaft und der Forschung dazu.
+[01:06:53-4 @janhinrikschmidt] Jetzt bei Corona da ist meine eigene Meinungsbildung auch noch nicht abgeschossen.
+[01:06:58-4 @janhinrikschmidt] Bei Corona können wir anscheinend beobachten, dass sozusagen die Informationen, die vielleicht ursprünglich mal aus so verschwörungstheoretischen Umfeldern kommen,
+[01:07:08-7 @janhinrikschmidt] dass die anscheinend inzwischen auch bei anderen Bevölkerungsteilen verfangen, die von sich selber gar nicht sagen würden,
+[01:07:15-0 @janhinrikschmidt] ich hänge jetzt einer Verschwörungstheorie an, aber die zum Beispiel bestimmte Dinge weiterleiten, die also nicht evidenzbasiert sind,
+[01:07:21-8 @janhinrikschmidt] das war so in der Frühphase der Pandemie waren das ja auch so WhatsApp-Nachrichten über Ibuprofen,
+[01:07:28-0 @janhinrikschmidt] wo angeblich irgendwo in Wien geheimgehaltene Ergebnisse zeigen, dass Ibuprofen schädlich ist und so, das ist so ein Muster.
+[01:07:35-4 @janhinrikschmidt] Wenn das auf Menschen trifft, die ein Orientierungsbedürfnis haben und die nicht in der Lage sind, meine ich nicht als Vorwurf,
+[01:07:40-2 @janhinrikschmidt] sondern die de facto nicht in der Lage, all diese Informationen auf ihren Wahrheitsgehalt zu prüfen, dann kann es natürlich problematisch werden,
+[01:07:45-2 @janhinrikschmidt] wenn also Dinge nicht mehr ganz offensichtlich als Nonsens, Stichwort Chemtrails, zu erkennen sind,
+[01:07:50-7 @janhinrikschmidt] sondern irgendwo halt vielleicht was haben, wo Leute sagen, da könnte ja was dran sein und das kann dann problematisch werden,
+[01:07:56-5 @janhinrikschmidt] wenn sich solche Dinge dann weiter verbreiten und letztlich Verunsicherungen säen oder eben auch Misstrauen säen.
+[01:08:03-2 @timpritlove] Nun stellt sich ja die Frage, wie kann man dem technisch beikommen?
+[01:08:09-1 @timpritlove] Also du hast ja gerade drei Sachen genannt, wo man da ansetzen muss, soziologisch, was war das, psychologisch und technisch.
+[01:08:18-4 @timpritlove] Technisch wird ja einiges getan, wenn man jetzt heute durch YouTube durchblättert, nahezu alles, was sich in irgendeiner Form mit dieser Corona-Krise beschäftigt,
+[01:08:29-3 @timpritlove] ist halt mit einem dicken fetten farbigen Balken unterlegt mit, ja hier Covid-19 Informationen gibt es hier von der Bundeszentrale für Gesundheit etc..
+[01:08:38-4 @timpritlove] Oder wenn ich mir halt Flat Earth-Videos anschaue, dann werden entsprechende Wikipedia-Einträge verlinkt.
+[01:08:45-4 @timpritlove] Also da wird ja in gewissen Hinsicht schon nachgesteuert.
+[01:08:48-2 @timpritlove] Stellt sich natürlich dann auch wieder die Frage, wer definiert jetzt hier, ab wann ein Inhalt überhaupt hinweiswürdig ist
+[01:08:57-9 @timpritlove] und natürlich auch, in welche Richtung wird hier ein Hinweis gegeben?
+[01:09:01-2 @timpritlove] Weil in dem Moment, wo man natürlich solche technischen Systeme in Place hat, über deren Ausrichtung ja am Ende konkret die Plattform verfügt,
+[01:09:11-3 @timpritlove] kann man sich natürlich das Ganze auch genauso vorstellen, dass es in die andere Richtung geht.
+[01:09:15-1 @janhinrikschmidt] Ja.
+[01:09:15-8 @timpritlove] Berichtest über, ja hier warum Impfstoffe eine tolle Idee sind so und dann hast du irgendwann den roten Balken darunter, der sagt so,
+[01:09:22-7 @timpritlove] naja da muss man aber ganz vorsichtig sein so.
+[01:09:25-0 @janhinrikschmidt] Ja, extrem heikles Terrain in der Tat.
+[01:09:27-4 @janhinrikschmidt] Also man kann es auch auf die Ebene runterbrechen, an welcher Stelle greifen Plattformbetreiber möglicherweise auch in die Meinungsfreiheit, in die Informationsfreiheit ein,
+[01:09:36-6 @janhinrikschmidt] dass ich also natürlich nicht nur das Recht habe, meine Meinung frei zu äußern innerhalb strafrechtlicher Grenzen und so weiter,
+[01:09:44-4 @janhinrikschmidt] sondern ich habe natürlich auch ein Recht, mich aus den Quellen zu informieren, die ich für richtig halte und sozusagen der Staat soll mir nicht vorschreiben,
+[01:09:53-4 @janhinrikschmidt] ob ich an Chemtrails glaube oder nicht, wenn das nicht irgendwie nachher zu Folgen führt, die auch wiederum mit dem Strafrecht kollidieren.
+[01:10:00-9 @janhinrikschmidt] Also die Reichsbürger wäre so ein Beispiel, wo es noch klarer erkennbar ist als jetzt bei, sagen wir mal, den Chemtrails,
+[01:10:08-1 @janhinrikschmidt] dass man da schon in den Bereich kommt, wo bestimmte Verschwörungstheorien, die Bundesrepublik Deutschland gibt es eigentlich gar nicht,
+[01:10:17-0 @janhinrikschmidt] wo die einhergehen mit anscheinend auch der Bereitschaft, tatsächlich vielleicht mal auch notfalls mit Waffengewalt sich irgendwie zu wehren,
+[01:10:24-6 @janhinrikschmidt] um es mal irgendwie vorsichtig auszudrücken, und zwar vorsichtig ausgedrückt auch deswegen, weil das natürlich auch eine Grauzone ist
+[01:10:29-8 @janhinrikschmidt] und irgendwie ich nicht ganz klar sagen kann, wo die Grenzen sind.
+[01:10:33-4 @janhinrikschmidt] Ich kann das nicht sagen als Wissenschaftler oder als Bürger, aber YouTube und Facebook können das eigentlich auch nicht sagen
+[01:10:41-3 @janhinrikschmidt] als in den USA beheimateten privatwirtschaftliche Unternehmen.
+[01:10:45-8 @janhinrikschmidt] Letzten Endes ist das eine Frage, die Gerichte zu klären haben im Einzelfall und abzuwägen, ob halt bestimmte Meinungsäußerungen oder
+[01:10:52-4 @janhinrikschmidt] bestimmtes Verhalten eben jetzt Strafnormen verletzt hat oder nicht.
+[01:10:57-3 @janhinrikschmidt] Also da haben wir jetzt lange ausgeholt, um nochmal den Punkt zu machen, dass wir in der Tat in diesem Zuge dieses Medienwandels,
+[01:11:06-9 @janhinrikschmidt] mit dem ich vorhin eingeleitet habe, wir haben in den 10er Jahren und jetzt zu Beginn der 20er Jahre die besondere Stellung dieser Intermediäre,
+[01:11:12-5 @janhinrikschmidt] dass das sich eben nicht nur auf die Gestalt der Öffentlichkeit auswirkt, sondern auch ganz handfeste regulative Fragen aufgeworfen hat.
+[01:11:20-5 @janhinrikschmidt] Wieviel Regulierung sollen und wollen wir eigentlich diesen Intermediären auferlegen, auch wieviele Pflichten zu regulieren,
+[01:11:28-9 @janhinrikschmidt] also wieviele Pflichten einzugreifen in die Moderierung von Meinungsäußerungen zum Beispiel oder von Beiträgen.
+[01:11:35-3 @janhinrikschmidt] Und an welchen Stellen sagen wir, nein das wollen wir eigentlich nicht, dass das die Plattformbetreiber vielleicht nach intransparenten Kriterien machen,
+[01:11:40-5 @janhinrikschmidt] das muss anders geregelt werden.
+[01:11:42-0 @janhinrikschmidt] Und ich habe da auch keine umfassend erschöpfende Antwort, weil das auch ganz oft dann wiederum vom Einzelfall
+[01:11:48-7 @janhinrikschmidt] oder von der Art der Kommunikation, die reguliert werden soll, abhängt.
+[01:11:52-5 @janhinrikschmidt] Aber das ist, wenn man medienpolitisch, medienregulatorisch da darauf guckt, ist das eine Herausforderung, die wir jetzt in den 2020er Jahren dringend angehen müssen,
+[01:12:03-3 @janhinrikschmidt] wenn wir irgendwie ein Interesse daran haben, dass wir weiterhin eine demokratische Öffentlichkeit haben wollen und daran sollten wir ein Interesse haben.
+[01:12:09-0 @timpritlove] Gibt es denn da irgendwelche Modelle, die da in der Wissenschaft und der Forschung da entsprechend diskutiert werden, wie man da herangehen kann?
+[01:12:18-9 @janhinrikschmidt] Ja, also jetzt so richtig ausgefeilte Modelle kann ich nicht liefern, aber man kann natürlich so Kriterien entwickeln.
+[01:12:27-4 @janhinrikschmidt] Also jetzt als ein Beispiel was das … nehmen wir mal das Löschen von Inhalten, Löschen von Kommentaren oder auch von Videos,
+[01:12:36-3 @janhinrikschmidt] da wäre so ein Kriterium der Transparenz, dass also transparent sein muss, wann welche Inhalte nach sozusagen unter Bezug auf welche Kriterien gelöscht werden
+[01:12:48-0 @janhinrikschmidt] oder gelöscht wurden.
+[01:12:49-7 @janhinrikschmidt] Man kann auch als Kriterium ansetzen, dass das sozusagen anfechtbar sein muss, dass man als Nutzerin oder als Nutzer eben auch die Möglichkeit hat,
+[01:12:58-5 @janhinrikschmidt] in Berufung zu gehen, das wäre so das Äquivalent aus dem Justizsystem, dass ich also sage, ich bin damit nicht einverstanden, dass hier was von mir gelöscht wurde
+[01:13:05-3 @janhinrikschmidt] oder dass mein Account gesperrt wurde, ich möchte dagegen vorgehen und dass es dann Mechanismen gibt, wie diese Berufung, so nenne ich es jetzt mal,
+[01:13:11-6 @janhinrikschmidt] wiederum verhandle wird.
+[01:13:14-9 @janhinrikschmidt] Da ist, gerade was dieses letztere Verfahren angeht, ist Facebook gerade ja auch dabei, ich verfolge das jetzt nicht in den allerletzten Details,
+[01:13:23-0 @janhinrikschmidt] aber zumindest vor Corona waren die schon relativ weit, um so eine Art Berufungssystem zu installieren mit einer Instanz,
+[01:13:30-7 @janhinrikschmidt] die auch sozusagen organisatorisch weitestgehend von Facebook abgekoppelt ist, um sozusagen eben Facebook gegenüber eine neutrale Instanz,
+[01:13:40-5 @janhinrikschmidt] eine Berufungsinstanz zu bilden.
+[01:13:42-3 @timpritlove] All diese ganzen regulatorischen Wünsche, die so auf Gerichtsbarkeit basieren, stellt natürlich auch immer gleich die Frage,
+[01:13:50-5 @timpritlove] welche Gerichtsbarkeit soll denn jetzt hier greifen?
+[01:13:53-3 @timpritlove] Und dass das amerikanische Gesetz jetzt auch nicht unbedingt immer Blaupause sein kann für alle nationalen Reglungen ist auch klar.
+[01:14:01-1 @timpritlove] Ich stelle mir halt immer die Frage, ist jetzt eine rechtliche Regulierung unserer Kommunikationskanäle a) überhaupt möglich und b) selbst wenn sie möglich wäre,
+[01:14:14-8 @timpritlove] ist es überhaupt zielführend?
+[01:14:17-1 @timpritlove] Oder gibt es nicht in gewisser Hinsicht vielleicht auch sogar schon selbstreinigende Kräfte am Horizont, die schon in irgendeiner Form wirken?
+[01:14:27-6 @timpritlove] Also von ein paar haben wir ja jetzt auch gesprochen, die zumindest so temporär eine Gegenbewegung ausgeübt haben.
+[01:14:33-9 @timpritlove] Da wissen wir jetzt nicht, wie lange das anhält, wir wissen nicht, in welcher Qualität sich das durchsetzt, wir wissen auch nicht,
+[01:14:39-9 @timpritlove] ob dem dann wieder die nächste Gegenbewegung entgegenschwappt, die noch schlimmer ist als die letzte.
+[01:14:46-8 @timpritlove] Trotzdem wäre es natürlich mal interessant zu hören, was ihr euch sozusagen aus der Medienforschung da bisher für Gedanken gemacht habt,
+[01:14:55-0 @timpritlove] inwiefern so eine Selbstregulierung möglich ist oder vielleicht auch wünschenswerter?
+[01:15:01-8 @janhinrikschmidt] Ja, also das ist ein ganz wichtiger Punkt, der mir auch wichtig ist.
+[01:15:04-5 @janhinrikschmidt] Ich will jetzt nicht die gesamte Regulierung auch wiederum nur den Gerichten zuschieben, genauso wenig wie ich sie nur den Plattformbetreibern zuschieben will,
+[01:15:11-2 @janhinrikschmidt] Weil ich glaube, dass wir auch als Gesellschaft, zu der auch die Betreiber und die Gerichte gehören, aber trotzdem als Gesellschaft, als Zivilgesellschaft könnte man sagen,
+[01:15:19-1 @janhinrikschmidt] ja ein Interesse daran haben sollten, ebenfalls zu regulieren, also sprich, uns darüber zu verständigen, wie wir eigentlich diese Plattformen verwenden wollen
+[01:15:27-4 @janhinrikschmidt] und wie digitale Öffentlichkeit aussehen soll.
+[01:15:30-1 @janhinrikschmidt] Das betrifft zum Beispiel den Bereich von Austausch im Netz, wo jetzt gar nicht strafrechtlich relevant, aber trotzdem sozusagen unter der Gürtellinie kommuniziert wird.
+[01:15:40-0 @janhinrikschmidt] Wo Menschen sich beschimpfen, wo Argumente ausgetauscht werden, wo es also eben nicht um die Verständigung geht,
+[01:15:48-5 @janhinrikschmidt] sondern wo irgendwie unter der Gürtellinie debattiert oder gestritten wird.
+[01:15:54-1 @janhinrikschmidt] Was ich damit sagen will ist, dass wir selber als einzelne, als Nutzerinnen und Nutzer, es ja auch mit in der Hand haben, wie diese Plattformen gestaltet werden,
+[01:16:01-8 @janhinrikschmidt] dass wir selber eben uns auch bewusst werden, dass wir selber auch eine gewisse Verantwortung haben,
+[01:16:06-4 @janhinrikschmidt] was zum Beispiel die Debattenkultur in den sozialen Medien angeht,
+[01:16:10-5 @janhinrikschmidt] was aber auch den Informationsfluss angeht, wir selber tragen ja dazu bei, hatten wir gerade auch vorher am Wickel,
+[01:16:16-2 @janhinrikschmidt] indem wir selber Informationen weiterleiten und verbreiten, tragen wir auch zu dieser Öffentlichkeit bei.
+[01:16:21-6 @janhinrikschmidt] Und das ist also ein Punkt, wo es auch Ansätze gibt, ich denke da zum Beispiel auch an so Initiativen wie ichbinhier, wo versucht wird,
+[01:16:29-0 @janhinrikschmidt] gegen Hassrede im Netz gegenzusteuern, indem Menschen nicht individuell, sondern in größeren Gruppen, in bestimmte Räume im Netz reingehen und Gegenrede üben.
+[01:16:40-4 @janhinrikschmidt] Zu versuchen, Diskussionen zu versachlichen oder zumindest andere Argumente einzubringen.
+[01:16:43-9 @janhinrikschmidt] Das ist jetzt nur ein Beispiel unter vielen, dass wir eben nicht uns drauf verlassen sollten oder verlassen dürfen, dass es irgendwann mal ein Gericht schon entscheiden wird,
+[01:16:52-3 @janhinrikschmidt] dass ein bestimmter Kommentar unzulässig ist, sondern dass wir selber das auch mit in der Hand haben.
+[01:16:58-3 @timpritlove] Ja, worauf konzentriert sich denn jetzt die Medienforschung oder zumindest deine Arbeit zu diesem Zeitpunkt?
+[01:17:08-0 @timpritlove] Was ist denn das, worauf man als nächstes blicken möchte?
+[01:17:12-2 @janhinrikschmidt] Also ich selber kann das auch tatsächlich an einem ganz konkreten Datum festmachen, nämlich am 01. Juni,
+[01:17:18-0 @janhinrikschmidt] das ist das Startdatum für das Forschungsinstitut gesellschaftlicher Zusammenhalt.
+[01:17:23-7 @janhinrikschmidt] Das ist ein Zusammenschluss von insgesamt elf Universitäten und Instituten aus ganz Deutschland.
+[01:17:30-7 @janhinrikschmidt] Da sind wir als Bredow-Institut auch dabei und wir haben das Glück und die Ehre, dass wir erst mal auf vier Jahre gefördert werden vom Bundesforschungsministerium,
+[01:17:38-3 @janhinrikschmidt] um uns aus ganz unterschiedlichen Perspektiven mit Fragen des gesellschaftlichen Zusammenhalts auseinanderzusetzen.
+[01:17:43-8 @janhinrikschmidt] Da sind also Soziologen dabei, Politikwissenschaftlerinnen, Geschichtswissenschaften ist vertreten, Raumwissenschaften
+[01:17:50-1 @janhinrikschmidt] und wir eben als Kommunikations- und Medienforschung.
+[01:17:53-3 @janhinrikschmidt] Und es wird drum gehen, empirische Forschung, aber auch sozusagen begrifflich theoretische Arbeit rund um dieses Konzept gesellschaftlicher Zusammenhalt zu machen.
+[01:18:02-3 @janhinrikschmidt] Was ist das?
+[01:18:04-6 @janhinrikschmidt] Ist das immer gut?
+[01:18:06-8 @janhinrikschmidt] Gibt es Situationen, wo es vielleicht auch zu viel Zusammenhalt gibt?
+[01:18:09-5 @janhinrikschmidt] Wie ist es empirisch um den gesellschaftlichen Zusammenhalt in Deutschland bestellt innerhalb bestimmter Gruppen, in bestimmten Regionen?
+[01:18:16-5 @janhinrikschmidt] Wir untersuchen am Bredow-Institut zum Beispiel die Frage, inwiefern Journalismus
+[01:18:23-3 @janhinrikschmidt] oder auch öffentlich-rechtliche Medienangebote zu gesellschaftlichem Zusammenhalt beitragen können oder sollten.
+[01:18:30-5 @janhinrikschmidt] Und ich habe die Ehre und ein bisschen auch die Pflicht oder die Bürde, dass ich die Aktivitäten, die wir in Hamburg zu dem Thema machen,
+[01:18:37-5 @janhinrikschmidt] also die einzelnen Projekte, dass ich die koordiniere, also nicht alleine, aber sozusagen ich steuere das so ein bisschen
+[01:18:44-6 @janhinrikschmidt] und werde mich also in den nächsten vier Jahren nochmal ganz speziell mit dieser Frage auseinandersetzen, welche Rolle Medien für gesellschaftlichen Zusammenhalt spielen.
+[01:18:52-6 @timpritlove] Wo greift man da an?
+[01:18:55-0 @timpritlove] Also was könnte da jetzt so ein erster Blickpunkt sein, den man versucht zu gewinnen?
+[01:19:00-2 @janhinrikschmidt] Ich greife mal zwei Sachen raus.
+[01:19:01-7 @janhinrikschmidt] Es gibt ein Teilprojekt, also wir haben insgesamt vier Forschungsvorhaben in Hamburg eingebracht
+[01:19:09-1 @janhinrikschmidt] und eins, was eher so Transferaktivitäten, also Wissensvermittlung bündelt, aber ein Forschungsvorhaben,
+[01:19:15-0 @janhinrikschmidt] was sich speziell mit der Rolle des Journalismus für gesellschaftlichen Zusammenhalt beschäftigt, das leitet Wiebke Lose, meine Kollegin,
+[01:19:22-3 @janhinrikschmidt] da wird es am Anfang erst mal um die Frage gehen, gibt es so was wie zusammenhaltssensiblen Journalismus?
+[01:19:29-1 @janhinrikschmidt] Wenn ja, also wie würde der aussehen?
+[01:19:32-2 @janhinrikschmidt] Und dann in dem zweiten Schritt wird es zwei Befragungen geben, eine unter Journalistinnen und Journalisten
+[01:19:38-4 @janhinrikschmidt] und eine bevölkerungsrepräsentative Befragung, die die wechselseitigen Vorstellungen und Erwartungen abgleicht.
+[01:19:45-7 @janhinrikschmidt] Also die Journalisten werden gefragt unter anderem, seht ihr es als eure Aufgabe an, für gesellschaftlichen Zusammenhalt beizutragen?
+[01:19:52-3 @janhinrikschmidt] Und dann wird es ziemlich sicher innerhalb der Journalisten in Deutschland unterschiedliche Ansichten zu geben.
+[01:19:55-9 @janhinrikschmidt] Und in der Bevölkerungsbefragung werden wir unter anderem die Frage stellen, sollte der Journalismus zum gesellschaftlichen Zusammenhalt beitragen?
+[01:20:03-6 @janhinrikschmidt] Und dann kann man im Prinzip Erwartungen und Erwartungserwartungen abgleichen.
+[01:20:06-0 @janhinrikschmidt] Das ist so ein Beispiel von einem der Projekte, die wir in Hamburg machen.
+[01:20:10-4 @janhinrikschmidt] Das andere ist eher so eine Art Infrastrukturprojekt, was ich aber sehr spannend und interessant finde.
+[01:20:16-4 @janhinrikschmidt] Da wird es drum gehen, dass wir auch sozusagen die Infrastruktur bei uns am Institut aufbauen,
+[01:20:21-8 @janhinrikschmidt] um so Debatten in den sozialen Medien beobachten zu können.
+[01:20:25-2 @janhinrikschmidt] Das ist jetzt auch nichts revolutionär neues, das machen schon viele Forschungsteams an verschiedenen Standorten.
+[01:20:29-8 @janhinrikschmidt] Wir machen das bei uns am Institut bisher noch eher unsystematisch und haben jetzt die Möglichkeit,
+[01:20:34-3 @janhinrikschmidt] eben das Ganze im Rahmen dieses Forschungsinstituts gesellschaftlicher Zusammenhalt eben auf einen längeren Zeitraum
+[01:20:40-9 @janhinrikschmidt] und auch ein bisschen grundsätzlicher sozusagen anzugehen.
+[01:20:44-3 @janhinrikschmidt] Zum Beispiel dass wir halt Tools entwickelt, um die Kommunikation von Politikerinnen und Politikern auf Twitter oder auf Instagram sozusagen nachzeichnen zu können.
+[01:20:54-2 @janhinrikschmidt] Und wir möchten die Daten und die Werkzeuge, die wir dann da entwickeln, eben auch anderen Instituten innerhalb des Verbundes,
+[01:20:59-3 @janhinrikschmidt] aber perspektivisch auch darüber hinaus, zur Verfügung stellen, damit die dann eigene Fragestellungen damit beantworten können.
+[01:21:04-5 @timpritlove] Einfach auch um so ein paar quantitative Rahmendaten zu gewinnen, um einfach auch mal zu belegen, okay so und so läuft das jetzt gerade.
+[01:21:11-1 @janhinrikschmidt] Genau.
+[01:21:12-2 @timpritlove] Ja, das ist ja im Datenjournalismus auch so ein Bereich, der in den letzten Jahren und auch jetzt gerade in diesem Jahr ein besonderes Hoch erlebt hat.
+[01:21:22-2 @timpritlove] Auch so ein Thema gewesen, diese Analyse dieser Netzwerkstrukturen, einfach um zu verstehen, was dort abläuft.
+[01:21:29-3 @timpritlove] Was ist deine Erwartung, wie die Ergebnisse solcher Forschungsinhalte dann wiederum in die reale Gesellschaft zurückspielen können?
+[01:21:35-8 @janhinrikschmidt] Ich sage mal, gemischt.
+[01:21:36-9 @janhinrikschmidt] Also mir ist bewusst, dass es ein Thema ist, also gesellschaftlicher Zusammenhalt ist ein auch gesellschaftlich umkämpfte Frage.
+[01:21:48-0 @janhinrikschmidt] Überhaupt die Frage, gibt es den noch, erodiert der oder nicht oder artikuliert der sich anders, ist schon beantwortet.
+[01:21:56-7 @janhinrikschmidt] Vielleicht unterschiedliche politische Strömungen anders, so dass wir auch mit unseren wissenschaftlichen Forschungen da uns halt auf ein Gebiet begeben,
+[01:22:03-3 @janhinrikschmidt] wo wir auch in gesellschaftliche Debatten reingezogen werden und wo wir nicht davon ausgehen können,
+[01:22:09-2 @janhinrikschmidt] da muss jetzt bloß der Kommunikationswissenschaftler aus Hamburg kommen und sagen, so ist es und dann glaubt das die ganze Welt.
+[01:22:14-0 @janhinrikschmidt] Das wäre ja naiv.
+[01:22:15-1 @timpritlove] Was?
+[01:22:17-2 @janhinrikschmidt] Naja, ich hätte es auch …
+[01:22:18-3 @janhinrikschmidt] Nein, Spaß beiseite, also ich meine, das ist die gleich Debatte, die wir jetzt im Moment deutlich pointierter ja im Zusammenhang mit Corona sehen
+[01:22:26-2 @janhinrikschmidt] mit der Frage, wie weit richten wir uns als Gesellschaft eigentlich an dem wissenschaftlichen Disziplin, nämlich der Virologie oder der Epidemiologie aus?
+[01:22:34-1 @janhinrikschmidt] In kleinerem Maßstab vielleicht ein bisschen abgeschichtet ist das aber die gleiche Frage, die uns dann irgendwann vor die Füße fallen wird.
+[01:22:42-9 @janhinrikschmidt] Inwiefern ist das, was wir wissenschaftlich zu dem Thema erforschen und an Befunden kommunizieren, inwiefern findet das Gehör in der Politik,
+[01:22:51-9 @janhinrikschmidt] aber auch in der Gesellschaft darüber hinaus.
+[01:22:54-1 @janhinrikschmidt] Wir wollen das in dem Gesamtinstitut, also über diese elf Standorte hinweg unter anderem dadurch auch nicht lösen, aber dem begegnen,
+[01:23:02-0 @janhinrikschmidt] indem wir nicht sagen, wir forschen jetzt vier Jahre und am Ende gibt es ein Buch, mal ganz platt gesagt,
+[01:23:06-9 @janhinrikschmidt] sondern Transferaktivitäten sind von vornherein an allen Standorten in allen Projekten eingeplant.
+[01:23:13-3 @janhinrikschmidt] Und vor allem, Transfer heißt eben nicht, wir die Wissenschaft erklären euch jetzt mal wie die Welt wirklich ist,
+[01:23:18-4 @janhinrikschmidt] sondern Transfer heißt auch, dass wir versuchen, soweit das geht, im Forschungsprozess stimmen aus der Gesellschaft reinzubringen.
+[01:23:24-8 @janhinrikschmidt] Dass wir Diskussionsformate zulassen, wo also gegenseitige Meinungen ausgetauscht werden.
+[01:23:32-1 @janhinrikschmidt] Das es also in all diesen Fällen darum geht, dass wir uns als Wissenschaftlerinnen und Wissenschaftler eben auch in die Gesellschaft hinein begeben müssen,
+[01:23:40-1 @janhinrikschmidt] um für das, was wir wissenschaftlich erforschen, zu Gehör zu bringen, aber auch irgendwie in eine Diskussion einzusteigen,
+[01:23:45-6 @janhinrikschmidt] ob wir denn eine angemessene Beschreibung der Wirklichkeit liefern.
+[01:23:49-8 @janhinrikschmidt] Klar sagen wir als Wissenschaftler, die Art, wie wir Wissen produzieren, die hat einen besonderen Geltungsanspruch,
+[01:23:57-2 @janhinrikschmidt] das ist unsere Aufgabe als Wissenschaftler.
+[01:23:59-2 @janhinrikschmidt] Wir stellen uns Fragen und beantworten die dann nach nachvollziehbaren Kriterien und versuchen eigentlich auch immer das, was wir herausfinden,
+[01:24:06-6 @janhinrikschmidt] sozusagen wiederum zu falsifizieren.
+[01:24:09-0 @janhinrikschmidt] So nach dem Motto, wenn du mir ein besseres Argument bringst, dann hast du recht, dann lag ich falsch
+[01:24:14-5 @janhinrikschmidt] und dann versuchen wir, dein Argument irgendwie wieder zu entkräften.
+[01:24:17-9 @janhinrikschmidt] Das geht also auch immer mit Zweifel und mit sozusagen Veränderungen von Wissen einher.
+[01:24:23-4 @janhinrikschmidt] Aber ja das ist eben nicht die einzige Art von gültigem Wissen in der Gesellschaft, sondern aus Sicht der Politik kommen da vielleicht auch noch andere Überlegungen
+[01:24:31-0 @janhinrikschmidt] und andere Dinge ins Spiel.
+[01:24:32-4 @janhinrikschmidt] Wir versuchen natürlich als Wissenschaft unser Wissen auch so zu transportieren und so zu vermitteln und so entstehen zu lassen über,
+[01:24:39-5 @janhinrikschmidt] dass das akzeptiert wird.
+[01:24:41-3 @janhinrikschmidt] Aber wie gesagt, ich wäre naiv, wenn ich jetzt sage, die Welt wartet jetzt nur drauf, dass diese eine Studie, die wir machen oder der Forschungsbefund jetzt endlich die Welt als Ganzes erklärt, das wäre naiv.
+[01:24:51-1 @timpritlove] Naja, aber aufgeben darf man ja nicht und diese Zeit, die jetzt gerade so ein bisschen in dem Ruf steht, so eine wissenschaftsverachtende Zeit zu sein,
+[01:25:00-9 @timpritlove] wir wissen, das kann sich auch alles schnell wieder ändern, wenn das entsprechend ausschlägt.
+[01:25:06-7 @timpritlove] Gerade diese Corona-Krise ist da an der Stelle natürlich auch eine Chance, gerade weil man eben jetzt sieht so,
+[01:25:13-0 @timpritlove] ja okay gut, ist vielleicht mal gar nicht so eine schlechte Idee, auf die Wissenschaft zu hören, weil in dem Moment, wo man es nicht macht,
+[01:25:19-9 @timpritlove] führt es eben sofort zu einer Katastrophe.
+[01:25:23-7 @timpritlove] Jetzt ist Virologie nicht gleich alles andere, hast du ja auch schon gesagt, aber ich denke, es gibt überhaupt grundsätzlich mehr Anlass und gab es schon immer diese Anlass,
+[01:25:34-6 @timpritlove] mehr auf die Wissenschaft zu hören und ich hoffe, das wird dann auch.
+[01:25:39-3 @janhinrikschmidt] Das noch, jetzt bin ich endgültig jenseits eigenen Betätigungsfeldes, aber das Ganze wird ja umso drängender, wenn man sagt,
+[01:25:47-9 @janhinrikschmidt] jetzt haben wir die Pandemie, aber wir haben gleichzeitig ja auch noch den Klimawandel und es ja schon interessant ist,
+[01:25:52-5 @janhinrikschmidt] dass bei der Pandemie in einem relativ kurzen Zeitraum eben klar wurde, die Politik richtet sich nach Empfehlungen der Wissenschaft,
+[01:26:01-7 @janhinrikschmidt] während es beim Klimawandel anscheinend größere Hürden oder Widerstände gibt.
+[01:26:08-6 @timpritlove] Schwierigkeiten gibt, ja.
+[01:26:10-1 @janhinrikschmidt] Die, glaube ich, nicht an wissenschaftlichem Wissen per se liegen, sondern a) wahrscheinlich an der Art des Problems
+[01:26:15-5 @janhinrikschmidt] und b) den Möglichkeiten zur Lösung und c) den Interessen, die daran hängen und das war jetzt so ad hoc.
+[01:26:21-6 @janhinrikschmidt] Das wäre ein eigener Podcast, ich hinterlasse den Gedanken nur einfach nochmal, Stichwort Wissenschaftsgläubigkeit oder Wissenschaftsvertrauen,
+[01:26:28-2 @janhinrikschmidt] das wird uns in der Bewältigung der Klimakrise wird uns das auch nochmal dringend beschäftigen müssen.
+[01:26:34-8 @timpritlove] Ja, wird sich zeigen.
+[01:26:35-9 @timpritlove] Ich meine, die Zeit der Corona-Krise mit ihren ganzen Diskussionen mit flatten the curve, genauso eine ähnliche Kurve haben wir beim Klimawandel im Prinzip genauso zu bearbeiten.
+[01:26:50-7 @timpritlove] Gut, das wird sich zeigen.
+[01:26:53-8 @timpritlove] Und da werden wir hier sicherlich auch bei Forschergeist nochmal drauf eingehen.
+[01:26:57-0 @timpritlove] Aber ich würde sagen, für heute machen wir hier den Deckel erst mal zu.
+[01:27:00-4 @timpritlove] Jan vielen Dank für die Ausführungen.
+[01:27:02-2 @janhinrikschmidt] Gerne.
+[01:27:03-2 @timpritlove] Und ja, vielen Dank fürs Zuhören hier bei Forschergeist, bald geht es wieder weiter.
+[01:27:07-5 @timpritlove] Ich sage, tschüss und bis bald.
+[01:27:09-8 @outro]

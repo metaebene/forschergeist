@@ -1,0 +1,2473 @@
+﻿WEBVTT
+
+00:00:43.001 --> 00:00:48.900
+<v timpritlove>Hallo und herzlich willkommen zu Forschergeist dem Podcast des Stifterverbands für die deutsche Wissenschaft.
+
+00:00:48.901 --> 00:00:57.900
+<v timpritlove>Mein Name ist Tim Pritlove und ich begrüße alle hier zu einer neuen Ausgabe unserer Gesprächsreihe rund um wissenschaftliche Fragen,
+
+00:00:57.901 --> 00:01:01.500
+<v timpritlove>wissenschaftliche Forschung.
+
+00:01:01.501 --> 00:01:10.600
+<v timpritlove>Und ja, nun hat es mich auch erwischt, entgegen meiner üblichen Verhaltensweise, doch immer alle zu besuchen
+
+00:01:10.601 --> 00:01:18.600
+<v timpritlove>und vor Ort ein face-to-face Gespräch zu machen, muss ich natürlich in den Corona-Zeiten da auch zurückstecken
+
+00:01:18.601 --> 00:01:24.900
+<v timpritlove>und das Ganze mal über die Ferne probieren, wie es funktioniert und insofern bin ich ganz froh,
+
+00:01:24.901 --> 00:01:30.700
+<v timpritlove>dass das Thema heute sich rund um moderne Mediennutzung dreht.
+
+00:01:30.701 --> 00:01:37.800
+<v timpritlove>Sehr passend und auf der anderen Seite auch den passenden Experten vorweisen kann, nämlich den Jan-Hinrik Schmidt.
+
+00:01:37.801 --> 00:01:38.200
+<v timpritlove>Hallo Jan.
+
+00:01:38.201 --> 00:01:40.400
+<v janhinrikschmidt>Hallo Tim, grüße dich.
+
+00:01:40.401 --> 00:01:45.300
+<v timpritlove>Genau, denn für dich ist das alles nichts neues, dir muss man nicht erklären, wie man mit dem Internet arbeitet,
+
+00:01:45.301 --> 00:01:48.700
+<v timpritlove>das macht die Sache auf jeden Fall schon mal ein bisschen einfacher.
+
+00:01:48.701 --> 00:01:56.600
+<v timpritlove>Ich glaube, da haben in den aktuellen Zeiten eine Menge Leute viel Nachholbedarf und sind auch kräftig am kämpfen.
+
+00:01:56.601 --> 00:02:02.500
+<v janhinrikschmidt>Ja, ich habe keine Erfahrung mit Pandemien und muss auch gestehen, dass das jetzige Setting,
+
+00:02:02.501 --> 00:02:08.200
+<v janhinrikschmidt>ich sitze hier jetzt zu Hause in meinem häuslichen Arbeitszimmer mit technischem Equipment von dir
+
+00:02:08.201 --> 00:02:12.700
+<v janhinrikschmidt>und spreche in meinen Computer rein, höre dich aber glasklar, als ob du mir gegenüber säßest, das ist so auch neu,
+
+00:02:12.701 --> 00:02:20.000
+<v janhinrikschmidt>das ist hier für mich auch Premiere, aber natürlich der Umgang mit digitalen Medien, auch mit Plattformen,
+
+00:02:20.001 --> 00:02:30.400
+<v janhinrikschmidt>die irgendwie den Business-Austausch erleichtern, das ist Teil meiner Arbeitsumwelt, aber auch in gewisser Weise ja auch Teil meines Forschungsgebiets,
+
+00:02:30.401 --> 00:02:36.800
+<v janhinrikschmidt>was ich jetzt schon seit diverser Zeit, seit längeren Jahren dann erforschen darf, nämlich die digitalen Medien.
+
+00:02:36.801 --> 00:02:45.200
+<v timpritlove>Genau, du bist Senior Researcher beim Hans-Bredow-Institut, wie heißt das vollständig?
+
+00:02:45.201 --> 00:02:48.400
+<v timpritlove>Ist am Leibniz Institut für Medienforschung angesiedelt.
+
+00:02:48.401 --> 00:02:54.600
+<v janhinrikschmidt>Genau. Da bin ich seit 2007.
+
+00:02:54.601 --> 00:03:00.400
+<v janhinrikschmidt>Es hieß lange, auch 60/65 Jahre nur Hans-Bredow-Institut für Medienforschung an der Universität Hamburg.
+
+00:03:00.401 --> 00:03:10.300
+<v janhinrikschmidt>Seit Anfang 2019 sind wir Mitglied der Leibniz Gemeinschaft, das heißt, jetzt heißen wir offiziell Leibniz Institut für Medienforschung/Hans-Bredow-Institut.
+
+00:03:10.301 --> 00:03:17.200
+<v timpritlove>Aber das Hans-Bredow-Institut ist in der Hinsicht natürlich der bekanntere Name, das hört man ja schon seit längerem.
+
+00:03:17.201 --> 00:03:35.000
+<v timpritlove>Und du bist halt seit 2007 dort am Start und hast eigentlich die ganze wilde Zeit live mitverfolgt aus einer Perspektive der Forschung und der besonderen Beobachtung.
+
+00:03:35.001 --> 00:03:45.200
+<v janhinrikschmidt>Also müsste eigentlich schon vorher beginnen, weil ich auch, bevor ich nach Hamburg ans Bredow-Institut kam, mich ja damit auch schon beschäftigt habe.
+
+00:03:45.201 --> 00:03:55.800
+<v janhinrikschmidt>Ich habe in den 90ern in Bamberg Soziologie studiert, war dann 99 mit meinem Diplom fertig und hatte bis dahin im Studium eigentlich gar nichts mit Kommunikation und Medien zu tun,
+
+00:03:55.801 --> 00:04:00.800
+<v janhinrikschmidt>sondern habe andere Fächer, ich habe Bevölkerungswissenschaft und Urbanistik und Sozialplanung so als Schwerpunkte gehabt und Methoden.
+
+00:04:00.801 --> 00:04:08.800
+<v janhinrikschmidt>Und hatte dann aber das Glück, dass ich Anfang 2000 in Bamberg in die Kommunikationswissenschaft quasi gerutscht bin,
+
+00:04:08.801 --> 00:04:16.800
+<v janhinrikschmidt>das war wirklich letztlich ein ganz witziger Zufall, weil ich einen Studenten kannte, der war Hilfskraft in einem Forschungsprojekt
+
+00:04:16.801 --> 00:04:22.600
+<v janhinrikschmidt>und die suchten in einem laufenden Projekt jemanden, der dort einspringen kann, weil der alte Stelleninhaber gewechselt ist
+
+00:04:22.601 --> 00:04:31.500
+<v janhinrikschmidt>und dann bin ich zum 01.01.2000 an die Forschungsstelle neue Kommunikationsmedien gewechselt an der Uni Bamberg eben in den Kommunikationswissenschaften.
+
+00:04:31.501 --> 00:04:37.900
+<v janhinrikschmidt>Und habe dann erst mal etwas mehr als ein Jahr ein Projekt betreut, wo es um online-Tageszeitungen ging.
+
+00:04:37.901 --> 00:04:42.100
+<v janhinrikschmidt>Das war damals als Phänomen noch vergleichsweise neu.
+
+00:04:42.101 --> 00:04:49.700
+<v janhinrikschmidt>Wir haben auch, was damals auch noch jetzt nicht komplett revolutionär, aber doch ungewöhnlich, war, wir haben online-Befragungen durchgeführt.
+
+00:04:49.701 --> 00:04:55.400
+<v janhinrikschmidt>Ja und so bin ich also in die Beschäftigung auch die wissenschaftliche Beschäftigung an sich reingerutscht
+
+00:04:55.401 --> 00:04:59.500
+<v janhinrikschmidt>und dann auch konkret noch die Beschäftigung mit dem Internet und den neuen Kommunikationsmedien.
+
+00:04:59.501 --> 00:05:08.500
+<v janhinrikschmidt>Ich habe dann in der Zeit danach auch noch in anderen verschiedenen Stellen im Umfeld der Uni Bamberg gearbeitet und meine Promotion geschrieben.
+
+00:05:08.501 --> 00:05:15.900
+<v janhinrikschmidt>Die drehte sich um den virtuellen lokalen Raum, ich habe also mich mit der Frage auseinandergesetzt, ob das Internet tatsächlich den Raum verschwinden lässt,
+
+00:05:15.901 --> 00:05:22.300
+<v janhinrikschmidt>die Bedeutung des Raumes verschwinden lässt, das war so eine gängige These in den 1990er Jahren.
+
+00:05:22.301 --> 00:05:31.600
+<v janhinrikschmidt>Habe das einmal so theoretisch ein bisschen auseinander genommen und habe auch verschiedene empirische Studien rund um lokal bezogene Internetangebote untersucht.
+
+00:05:31.601 --> 00:05:39.500
+<v janhinrikschmidt>Und dann hatte ich das riesige Glück sozusagen im Rückblick, dass so in der Endphase meiner Promotion, als es dann auch so für mich so ein bisschen darum ging,
+
+00:05:39.501 --> 00:05:44.500
+<v janhinrikschmidt>ja was mach ich denn jetzt weiter, wie geht es denn weiter, dass da die Weblogs aufkamen.
+
+00:05:44.501 --> 00:05:57.100
+<v janhinrikschmidt>Das war so die Phase 2004/2005, da haben wir auch in Deutschland uns drüber, da fing die Debatte an, dass es im Netz da so neue interessante Seiten gibt,
+
+00:05:57.101 --> 00:06:03.700
+<v janhinrikschmidt>die Weblogs, die irgendwie so eine Mischung sind aus online-Tagebüchern und dann gibt es welche, die doch eher so ein bisschen vielleicht quasi journalistisch sind
+
+00:06:03.701 --> 00:06:07.500
+<v janhinrikschmidt>oder in anderen tauschen sich Expertinnen und Experten aus.
+
+00:06:07.501 --> 00:06:17.700
+<v janhinrikschmidt>Und das war also ein neues kommunikatives Phänomen, was ich spannend fand und wo ich mich dann ein bisschen näher damit auseinandergesetzt habe,
+
+00:06:17.701 --> 00:06:25.400
+<v janhinrikschmidt>um erst mal auch rauszufinden, was machen die Menschen eigentlich mit diesem neuen technischen Format, für welche Zwecke setzen die das ein
+
+00:06:25.401 --> 00:06:29.400
+<v janhinrikschmidt>oder wie ich es dann später auch benannt habe, welche Praktiken des Bloggens bilden sich heraus.
+
+00:06:29.401 --> 00:06:37.800
+<v janhinrikschmidt>Das konnte ich dann mit einem DAAD-Stipendium vier Monate lang in Österreich untersuchen.
+
+00:06:37.801 --> 00:06:44.000
+<v janhinrikschmidt>Ich war da in Wien und habe mir die Weblog-Community twoday.net ein bisschen näher unter die Lupe genommen,
+
+00:06:44.001 --> 00:06:51.600
+<v janhinrikschmidt>die es inzwischen, glaube ich, gar nicht mehr gibt, die war aber so in den 00er Jahren so eine der bekanntesten Weblog-Plattformen.
+
+00:06:51.601 --> 00:07:00.900
+<v janhinrikschmidt>Und nach diesem viermonatigen Aufenthalt in Österreich kam ich wieder zurück nach Bamberg und habe ein DFG-Projekt erfolgreich beantragt,
+
+00:07:00.901 --> 00:07:06.200
+<v janhinrikschmidt>in dem meine eigene Stelle als Postdoc-Researcher, also als schon promovierter Forscher drin war
+
+00:07:06.201 --> 00:07:13.400
+<v janhinrikschmidt>und dann habe ich zwei Jahre lang in Bamberg mit meinem eigenen Projekt eben Praktiken des online-gestützten Netzwerkens oder Networkings untersucht.
+
+00:07:13.401 --> 00:07:17.700
+<v janhinrikschmidt>Und habe da Weblogs und Netzwerkplattformen miteinander verglichen.
+
+00:07:17.701 --> 00:07:19.800
+<v janhinrikschmidt>Also das, was man heute so vor allem von Facebook kennt.
+
+00:07:19.801 --> 00:07:27.300
+<v janhinrikschmidt>Das waren damals, naja ich hatte openBC bzw. jetzt heißt es ja Xing, die hatte ich mir so als Fallstudie und habe noch zwei-drei andere Plattformen untersucht
+
+00:07:27.301 --> 00:07:40.300
+<v janhinrikschmidt>und habe da mit Nutzern gesprochen etc., und das war also ein Projekt, was letztlich in der ersten Blütephase des web 2.0, wie es damals ja hieß, lief.
+
+00:07:40.301 --> 00:07:45.800
+<v janhinrikschmidt>Und ich hatte wirklich den großen Vorteil, dass ich eben in einer Zeit, wo alle anfingen, hoppla da passiert was neues, da müsste man doch mal,
+
+00:07:45.801 --> 00:07:47.900
+<v janhinrikschmidt>da weiß man nichts drüber, wer kann uns da was dazu sagen?
+
+00:07:47.901 --> 00:07:53.400
+<v janhinrikschmidt>Da hatte ich also schon ein Forschungsprojekt dazu, das heißt, ich konnte dann auch dazu Dinge sagen.
+
+00:07:53.401 --> 00:08:04.600
+<v janhinrikschmidt>Ich habe sozusagen zu dem Thema web 2.0, social web geforscht, war da auf Tagungen, war auch letztlich vernetzt sozusagen in der entsprechenden Bloggerszene
+
+00:08:04.601 --> 00:08:12.000
+<v janhinrikschmidt>zum Beispiel in Deutschland, habe, glaube ich, dich in dem Kontext auch kennengelernt und war da so eine Mischung aus teilnehmendem wissenschaftlichen Beobachter
+
+00:08:12.001 --> 00:08:16.000
+<v janhinrikschmidt>und eben sozusagen Forscher, der von außen darauf guckt.
+
+00:08:16.001 --> 00:08:23.300
+<v janhinrikschmidt>Und das Ganze hat dann dazu geführt, dass ich, als das Bredow-Institut 2007 jemanden gesucht hat, der Forschung zu digitalen Medien macht,
+
+00:08:23.301 --> 00:08:26.200
+<v janhinrikschmidt>dass ich dann eben das Glück hatte, diese richtig tolle Stelle zu bekommen.
+
+00:08:26.201 --> 00:08:39.500
+<v janhinrikschmidt>Und dann seit 2007 bin ich eben am Bredow-Institut mit der etwas sperrigen Jobbezeichnung Senior Researcher für digitale interaktive Medien und politische Kommunikation.
+
+00:08:39.501 --> 00:08:44.400
+<v timpritlove>Ja, 2007 war überhaupt ein sehr interessantes Jahr.
+
+00:08:44.401 --> 00:08:51.200
+<v timpritlove>Es war ja auch das erste Jahr, wo die re:publica das erste Mal stattfand, da warst du ja dann wahrscheinlich auch, wenn ich mich richtig erinnere.
+
+00:08:51.201 --> 00:08:52.700
+<v janhinrikschmidt>Genau, ja.
+
+00:08:52.701 --> 00:08:56.400
+<v timpritlove>Hattest du da nicht sogar auch schon zu Blogs sogar schon einen Talk gegeben?
+
+00:08:56.401 --> 00:09:05.600
+<v janhinrikschmidt>Genau, ich habe, das müsste 2007 gewesen sein, habe ich einen Vortrag gehalten „Mythen der Blogosphäre“, wo ich so ein bisschen auseinander genommen habe,
+
+00:09:05.601 --> 00:09:11.900
+<v janhinrikschmidt>welche Mythen oder welche „Vorurteile“ so über die Blogosphäre eigentlich herumschwirren.
+
+00:09:11.901 --> 00:09:16.000
+<v janhinrikschmidt>Genau, das muss 2007 gewesen sein.
+
+00:09:16.001 --> 00:09:21.500
+<v janhinrikschmidt>In den Jahren danach war ich eben auch öfter mal, ich müsste das jetzt sogar nachschlagen, ich hatte dann einige Vorträge.
+
+00:09:21.501 --> 00:09:29.200
+<v janhinrikschmidt>Ich erinnere mich vor allem immer noch so an die wechselnden Locations, also Kalkscheune und dann auch Friedrichstadtpalast auf der Bühne, da hatte ich auch einen Vortrag mal.
+
+00:09:29.201 --> 00:09:32.000
+<v janhinrikschmidt>Oder einmal da in dem Quatsch Comedy Club.
+
+00:09:32.001 --> 00:09:41.300
+<v janhinrikschmidt>Genau, das war das, was ich vorhin meinte, dass ich so in dieser Zeit, wo sich eben auch in Deutschland die Szene, die sich mit dem social web beschäftigt,
+
+00:09:41.301 --> 00:09:49.800
+<v janhinrikschmidt>größer wurde, aber noch nicht so groß war, dass man sich so in einer wissenschaftlichen Konferenz einerseits und mehr so einer aktivistischen Konferenz andererseits aufgesplittet hatte,
+
+00:09:49.801 --> 00:09:56.900
+<v janhinrikschmidt>sondern dass alles noch bei der re:publica speziell zusammenkam, dass ich da eben den Zugang hatte und mitmischen konnte.
+
+00:09:56.901 --> 00:09:57.600
+<v timpritlove>Was war denn so dein Eindruck?
+
+00:09:57.601 --> 00:10:02.900
+<v timpritlove>Ich meine, bis dahin hattest du dich ja eigentlich eher wissenschaftlich damit beschäftigt.
+
+00:10:02.901 --> 00:10:06.700
+<v timpritlove>Ich weiß nicht, inwiefern du das selber schon als deinen eigenen Lebensraum definiert hättest.
+
+00:10:06.701 --> 00:10:20.200
+<v timpritlove>Aber wenn man dann auf die re:publica kam so, die ja dann lange Zeit als Blogger-Treffen, Blogger-Messe, was auch immer, also die Leute rangen ja nach Namen dafür, was denn das nun sei.
+
+00:10:20.201 --> 00:10:21.800
+<v timpritlove>Worum es denn nun eigentlich auch ginge.
+
+00:10:21.801 --> 00:10:24.900
+<v timpritlove>Geht es jetzt hier nur um Weblogs etc.?
+
+00:10:24.901 --> 00:10:26.500
+<v timpritlove>Ich denke, heute wissen wir in etwa, worum es ging.
+
+00:10:26.501 --> 00:10:32.200
+<v timpritlove>Es ging halt um diese Auseinandersetzungen mit eben genau diesen neuen Realitäten und was es bringt.
+
+00:10:32.201 --> 00:10:35.700
+<v timpritlove>Was war denn so dein Eindruck von dieser Community, die dort zusammen kam?
+
+00:10:35.701 --> 00:10:46.100
+<v timpritlove>Weil das war ja dann quasi keine wissenschaftliche Situation im eigentlichen Sinne, sondern das war ja dann fleischgewordene Technik.
+
+00:10:46.101 --> 00:10:50.200
+<v janhinrikschmidt>Ja. Ich fand und finde die re:publica großartig.
+
+00:10:50.201 --> 00:10:58.100
+<v janhinrikschmidt>Ich war damals, also das waren so diese ersten Erfahrungen, tatsächlich auch als Wissenschaftler in einem Setting aufzutreten
+
+00:10:58.101 --> 00:11:03.800
+<v janhinrikschmidt>und über seine eigene Forschung und seine eigenen Gedanken zu sprechen, die man jetzt nicht „vor Gleichgesinnten“
+
+00:11:03.801 --> 00:11:08.200
+<v janhinrikschmidt>oder wirklich vor der eigenen Fachcommunity hält, sondern wo man raus muss aus dem Elfenbeinturm.
+
+00:11:08.201 --> 00:11:10.700
+<v janhinrikschmidt>Das fand ich interessant.
+
+00:11:10.701 --> 00:11:18.600
+<v janhinrikschmidt>Interessant ist jetzt ein euphemistisches Wort für, das war sowohl faszinierend, anregend, teilweise auch herausfordernd,
+
+00:11:18.601 --> 00:11:26.200
+<v janhinrikschmidt>manchmal auch ein klein bisschen nervig, ich erinnere mich an Debatten jetzt außerhalb der re:publica, wo also dann auch abgesprochen wurde,
+
+00:11:26.201 --> 00:11:32.600
+<v janhinrikschmidt>dass man als Wissenschaftler überhaupt etwas zu Blogs sagen könnte, weil also das Bild, die Wissenschaftler,
+
+00:11:32.601 --> 00:11:40.600
+<v janhinrikschmidt>die in ihrem Laborkittel von außen auf die Forschungsobjekte gucken, das traf irgendwie auch manche Blogger so ein bisschen.
+
+00:11:40.601 --> 00:11:44.500
+<v janhinrikschmidt>So wir wollten uns nicht beobachten lassen oder wir wollen uns nicht beobachten lassen, geht weg ihr Wissenschaftler,
+
+00:11:44.501 --> 00:11:49.600
+<v janhinrikschmidt>ihr zerstört unseren Lebensraum und all diese Dinge, die spielten so in dieser Zeit mit rum,
+
+00:11:49.601 --> 00:11:57.100
+<v janhinrikschmidt>weil eben auch sich auch erst herausbildete, für welche Zwecke Blogs eigentlich geeignet sind, wer sich selber als Blogger versteht,
+
+00:11:57.101 --> 00:12:01.500
+<v janhinrikschmidt>ob es jemanden gibt, der eine Definitionsmacht darüber hat, wer nun ein Blogger, eine Bloggerin ist oder wer nicht.
+
+00:12:01.501 --> 00:12:06.600
+<v janhinrikschmidt>Und das waren Debatten, die wurden eben auch, nicht ausschließlich aber auch, auf der re:publica geführt und ich fand es großartig,
+
+00:12:06.601 --> 00:12:08.900
+<v janhinrikschmidt>da als Wissenschaftler teilzuhaben.
+
+00:12:08.901 --> 00:12:14.100
+<v janhinrikschmidt>Wie gesagt, ich war dann tatsächlich eher so eine Art teilnehmender Beobachter an meinem eigenen Forschungsfeld.
+
+00:12:14.101 --> 00:12:15.000
+<v timpritlove>Hast du denn selber gebloggt?
+
+00:12:15.001 --> 00:12:17.500
+<v janhinrikschmidt>Ich habe selber gebloggt, ja.
+
+00:12:17.501 --> 00:12:20.800
+<v janhinrikschmidt>Ich habe, glaube ich, 2004 angefangen.
+
+00:12:20.801 --> 00:12:26.100
+<v janhinrikschmidt>Ganz am Anfang eher so ein bisschen Netzfundstücke, das hatte keine große Reichweite.
+
+00:12:26.101 --> 00:12:35.500
+<v janhinrikschmidt>Ich habe dann im Zuge der Forschungsprojekte das Blog auch ein bisschen stärker in die wissenschaftliche Richtung sozusagen gehen lassen,
+
+00:12:35.501 --> 00:12:38.700
+<v janhinrikschmidt>also habe dann auch mal über meine wissenschaftliche Arbeit gebloggt.
+
+00:12:38.701 --> 00:12:46.900
+<v janhinrikschmidt>Es gab damals auch so eine Art lockeres Netzwerk von den Heart-Blogging-Scientists???, das waren so ein paar andere Wissenschaftlerinnen und Wissenschaftler, Doktoranden teilweise,
+
+00:12:46.901 --> 00:12:56.000
+<v janhinrikschmidt>die auch gebloggt haben und ausprobiert haben, wie man dieses Format für wissenschaftliche Themen oder für wissenschaftliche Forschung nutzen kann.
+
+00:12:56.001 --> 00:12:59.700
+<v janhinrikschmidt>Genau, also ich blogge seitdem.
+
+00:12:59.701 --> 00:13:07.200
+<v janhinrikschmidt>So mein eigenes Bloggen, nicht nur das Layout meiner Seite, sondern so ein bisschen auch die Schwerpunkte haben sich im Laufe der Jahre immer so verschoben.
+
+00:13:07.201 --> 00:13:13.100
+<v janhinrikschmidt>Im Moment ist es tatsächlich oder inzwischen seit einer Weile ist es tatsächlich eher so ein bisschen wieder zu einer Visitenkarte geworden,
+
+00:13:13.101 --> 00:13:17.700
+<v janhinrikschmidt>weil ich da eher dann nochmal darauf hinweise, wenn irgendwie ein neuer Aufsatz von mir erscheint oder so.
+
+00:13:17.701 --> 00:13:20.600
+<v janhinrikschmidt>Und einmal im Monat gebe ich so einen kurzen Einblick, an welchen Themen ich gerade sitze.
+
+00:13:20.601 --> 00:13:29.200
+<v janhinrikschmidt>Es ist also nicht mehr dieses stärker diskursive, dass ich dort mit anderen debattiere oder selber Dinge, die noch nicht fertig sind, zur Diskussion stelle,
+
+00:13:29.201 --> 00:13:34.900
+<v janhinrikschmidt>wie es in den 00er Jahren war, aber das hat sich, glaube ich, auch an anderen Stellen verändert, das Bloggen,
+
+00:13:34.901 --> 00:13:39.300
+<v janhinrikschmidt>weil inzwischen sich ja auch das Netz und das social web verändert hat sie den 00er Jahren.
+
+00:13:39.301 --> 00:13:41.900
+<v timpritlove>Ja, bleiben wir vielleicht nochmal bei der Momentaufnahme damals.
+
+00:13:41.901 --> 00:13:42.700
+<v janhinrikschmidt>Gerne, ja.
+
+00:13:42.701 --> 00:13:52.400
+<v timpritlove>Das war ja im Prinzip eine neue Öffentlichkeit, ohne die Beobachtung durch die Öffentlichkeit.
+
+00:13:52.401 --> 00:14:02.000
+<v timpritlove>Also es spielte sich ja quasi so eine Suböffentlichkeit ab, die zwar teilweise hier und da kommentiert und mal darüber berichtet wurde,
+
+00:14:02.001 --> 00:14:11.300
+<v timpritlove>aber im Prinzip war das ja so ein Diskurs, der dort geführt wurde, der innerhalb so einer bestimmten Elite stattfand.
+
+00:14:11.301 --> 00:14:23.500
+<v timpritlove>Jetzt ist es ja immer so, wenn so eine Gruppe sich vielleicht nicht in demselben Maße beobachtet fühlt, und auch sich natürlich auch ein bisschen feiert,
+
+00:14:23.501 --> 00:14:30.000
+<v timpritlove>aber auch eben diese ganze Experimentierlust rauslässt, dann entstehen ja eigentlich auch erst mal ganz interessante Dinge,
+
+00:14:30.001 --> 00:14:34.500
+<v timpritlove>weil ja auch erst mal so ein Kontrollmechanismus der Gesellschaft wegfällt.
+
+00:14:34.501 --> 00:14:39.600
+<v timpritlove>Wie hast du diese Öffentlichkeit wahrgenommen, die dabei heraussprang?
+
+00:14:39.601 --> 00:14:40.600
+<v janhinrikschmidt>Kann ich auf zwei Arten beantworten.
+
+00:14:40.601 --> 00:14:47.200
+<v janhinrikschmidt>Das eine ist, dass ich jetzt aus einer eher wissenschaftlichen Sicht mich ja auch tatsächlich genau mit der Frage auseinandergesetzt habe,
+
+00:14:47.201 --> 00:14:50.000
+<v janhinrikschmidt>welche Art von Öffentlichkeit entsteht da eigentlich?
+
+00:14:50.001 --> 00:14:56.600
+<v janhinrikschmidt>Meine Antwort ist dann, eine persönliche Öffentlichkeit, die anders funktioniert als die klassisch journalistisch massenmediale Öffentlichkeit.
+
+00:14:56.601 --> 00:15:01.900
+<v janhinrikschmidt>Das wäre so die eine Antwort, aber mir scheint, ein bisschen scheint deine Frage in eine andere Richtung zu gehen,
+
+00:15:01.901 --> 00:15:07.100
+<v janhinrikschmidt>das würde ich so mit dem Begriff eben der Community oder der Verwendungsgemeinschaften beschreiben.
+
+00:15:07.101 --> 00:15:14.500
+<v janhinrikschmidt>Also man konnte nachzeichnen, das habe ich eben auch versucht, das war Thema auch meiner Forschungsarbeit damals,
+
+00:15:14.501 --> 00:15:23.900
+<v janhinrikschmidt>wie sich sozusagen ausgelöst oder ausgehend von einem technischen Kommunikationsformat, dem Weblog, was ja formal gesprochen relativ simpel ist,
+
+00:15:23.901 --> 00:15:30.600
+<v janhinrikschmidt>das ist eine Webseite, wo Beiträge draufstehen, die Beiträge sind meistens rückwärts chronologisch sortiert und sie können kommentiert und einzeln verlinkt werden,
+
+00:15:30.601 --> 00:15:33.900
+<v janhinrikschmidt>so das ist das Weblog jetzt in einer halbwegs technischen Definition.
+
+00:15:33.901 --> 00:15:42.500
+<v janhinrikschmidt>Aber wie sich davon ausgehend eben unterschiedliche Verwendungsweisen herausgebildet haben, das Technik-Blog,
+
+00:15:42.501 --> 00:15:50.000
+<v janhinrikschmidt>das tatsächlich eher journalistische Blog, die Strick-Blogs, die Musik- Blogs, die Online-Tagebücher etc..
+
+00:15:50.001 --> 00:15:56.700
+<v janhinrikschmidt>Und in diesen einzelnen Verwendungsweisen sich aber auch sozusagen Regeln und Erwartungen herausstabilisiert haben.
+
+00:15:56.701 --> 00:15:59.800
+<v janhinrikschmidt>Was heißt, was macht eigentlich das Bloggen aus?
+
+00:15:59.801 --> 00:16:04.400
+<v janhinrikschmidt>Welche Erwartungen haben wir an die Art, wie dort gesprochen und geschrieben wird?
+
+00:16:04.401 --> 00:16:12.000
+<v janhinrikschmidt>Welche Erwartungen haben wir an sozusagen das Diskutieren in den Kommentaren?
+
+00:16:12.001 --> 00:16:18.400
+<v janhinrikschmidt>Und da sozusagen in dieser Selbstverständigung, was machen wir da eigentlich, da gab es dann halt Personen,
+
+00:16:18.401 --> 00:16:24.200
+<v janhinrikschmidt>die ein bisschen meinungsstärker auch eher dann zu Wortführern gehörten, das waren dann so die Alpha-Blogger,
+
+00:16:24.201 --> 00:16:29.200
+<v janhinrikschmidt>sage ich mal, die halt gut vernetzt waren, auf die gehört wurde, an denen man sich auch gerieben hat.
+
+00:16:29.201 --> 00:16:36.200
+<v janhinrikschmidt>Da gab es auch den Streit in der Blogosphäre, also Don Alfonso, den man ja inzwischen aus ganz anderem Kontext ja auch kennt,
+
+00:16:36.201 --> 00:16:41.700
+<v janhinrikschmidt>das war ja auch ein ganz ausgesprochener sogenannter interner Kritiker der Blogger-Szene damals
+
+00:16:41.701 --> 00:16:46.600
+<v janhinrikschmidt>und das waren Dinge, die konnte ich eben kommunikationswissenschaftlich untersuchen
+
+00:16:46.601 --> 00:16:54.300
+<v janhinrikschmidt>und ich habe das gedeutet eben als Auseinandersetzung und Verständigungsprozesse darüber, was die Praktiken des Bloggens eben so ausmacht.
+
+00:16:54.301 --> 00:17:05.000
+<v timpritlove>Denkst du, dass die Community dabei sich ihre Regeln sozusagen selbst erarbeitet und auch selbst aufrechterhalten hat?
+
+00:17:05.001 --> 00:17:11.700
+<v timpritlove>Also wie hast du das wahrgenommen, wie diese Regelwerke des Miteinanders sich dort entfalten haben?
+
+00:17:11.701 --> 00:17:18.800
+<v janhinrikschmidt>Ja, also die kamen an sich aus dieser Community heraus.
+
+00:17:18.801 --> 00:17:26.000
+<v janhinrikschmidt>Sie waren aber nicht komplett isoliert oder anders gesagt, es gab ja trotz allem auch Beobachtung von außen,
+
+00:17:26.001 --> 00:17:34.400
+<v janhinrikschmidt>spätestens dann, als zum Beispiel auch in Deutschland Politikerinnen und Politiker angefangen haben, Blogs einzusetzen und das mal auszuprobieren.
+
+00:17:34.401 --> 00:17:39.600
+<v janhinrikschmidt>Im Zuge dessen kamen zum Beispiel auch Journalistinnen und Journalisten dazu, die halt auf einmal gesehen haben,
+
+00:17:39.601 --> 00:17:43.800
+<v janhinrikschmidt>hoppla, da versucht ein Politiker jetzt so was neues, ein Blog, was ist das denn?
+
+00:17:43.801 --> 00:17:48.600
+<v janhinrikschmidt>Und dann wurde in gewisser Weise von außen auf dieses Format geguckt.
+
+00:17:48.601 --> 00:17:56.300
+<v janhinrikschmidt>Anderes Beispiel, das auch für Aufsehen gesorgt hatte, war, dass von Jung von Matt, ich weiß den Namen gerade nicht mehr, wer es war,
+
+00:17:56.301 --> 00:18:03.800
+<v janhinrikschmidt>aber jemand, der in der Werbeszene in Werbeagenturen einen sehr hohen Namen hatte, dass der Blogs als die Klowände des Internet bezeichnet hat zum Beispiel.
+
+00:18:03.801 --> 00:18:09.100
+<v janhinrikschmidt>Er wollte damit ausdrücken, naja in Blogs da kann ja jeder reinschreiben, was er so sie will, da muss man nichts drauf geben.
+
+00:18:09.101 --> 00:18:14.800
+<v janhinrikschmidt>Aber das war natürlich, also wenn man selber jetzt als Blogger oder als Bloggerin, wenn da gesagt wurde, na du schreibst ja nur auf eine Klowand,
+
+00:18:14.801 --> 00:18:20.200
+<v janhinrikschmidt>das hat natürlich viele getroffen und dann wurde darüber wieder debattiert, dann war das innerhalb der Blogs eine Debatte,
+
+00:18:20.201 --> 00:18:23.500
+<v janhinrikschmidt>auch wahrscheinlich auf der re:publica wurde darüber gesprochen.
+
+00:18:23.501 --> 00:18:30.400
+<v janhinrikschmidt>Und dadurch waren diese Selbstverständigungsdebatten, also die reagierten auf die Fremdbeobachtungen durch andere, auf Zuschreibungen,
+
+00:18:30.401 --> 00:18:35.600
+<v janhinrikschmidt>vielleicht auf Abwertungen auch, während zugleich immer wieder man dann eben auch so diese Phänomene hatte,
+
+00:18:35.601 --> 00:18:39.200
+<v janhinrikschmidt>dass man gesehen hat, hoppla, auf einmal können anscheinend doch Blogs auch irgendwas bewirken.
+
+00:18:39.201 --> 00:18:45.600
+<v janhinrikschmidt>Da wurden Themen, die in Blogs entstanden, wurden auf einmal in journalistischen Medien aufgegriffen oder es bildeten sich dann Blogs,
+
+00:18:45.601 --> 00:18:51.000
+<v janhinrikschmidt>wie Netzpolitik zum Beispiel heraus oder auch die re:publica als Veranstaltung, über die halt berichtet wurde.
+
+00:18:51.001 --> 00:18:58.600
+<v janhinrikschmidt>Das heißt, da wurden Blogs anscheinend dann doch zumindest in manchen Teilen der journalistischen Öffentlichkeit ja irgendwie zumindest wahrgenommen
+
+00:18:58.601 --> 00:19:03.800
+<v janhinrikschmidt>und auch nicht immer nur abwertend beschrieben, sondern auch anerkannt, dass da etwas neues passiert.
+
+00:19:03.801 --> 00:19:11.300
+<v janhinrikschmidt>Also insofern ging da interne Selbstverständigung und auch interne Normbildung, so nach dem Motto, wir gucken uns ein bisschen auf die Finger,
+
+00:19:11.301 --> 00:19:17.800
+<v janhinrikschmidt>was wir hier machen, ging dann mit der Fremdbeobachtung und der Auseinandersetzung mit der Fremdbeobachtung dann eigentlich Hand in Hand.
+
+00:19:17.801 --> 00:19:20.100
+<v timpritlove>Das war übrigens Jean-Remy von Matt…
+
+00:19:20.101 --> 00:19:21.500
+<v janhinrikschmidt>Danke dir, genau.
+
+00:19:21.501 --> 00:19:25.000
+<v timpritlove>…der das geschrieben hat, ich habe es gerade nochmal nachgeschlagen, weil ich erinnere mich natürlich noch ganz gut an diese Geschichte,
+
+00:19:25.001 --> 00:19:27.400
+<v timpritlove>aber es ist jetzt auch schon wieder alles so lange her.
+
+00:19:27.401 --> 00:19:30.800
+<v timpritlove>Und das Interessante war, das Ganze war ja dann wiederum eine Reaktion der Reaktion.
+
+00:19:30.801 --> 00:19:36.500
+<v timpritlove>Also es gab ursprünglich von Jung von Matt diese Kampagne, „Du bist Deutschland“.
+
+00:19:36.501 --> 00:19:37.800
+<v janhinrikschmidt>Ja genau.
+
+00:19:37.801 --> 00:19:45.800
+<v timpritlove>Und das wurde dann halt in dieser ganzen Blogosphäre sehr kritisch debattiert und das war dann, glaube ich, eigentlich der entscheidende Punkt,
+
+00:19:45.801 --> 00:19:56.500
+<v timpritlove>Auf einmal gab es da eine Masse von Kritikern, von Leuten, die sich da angemaßt haben, da Meinungen nicht nur zu haben, sondern eben auch zu veröffentlichen,
+
+00:19:56.501 --> 00:20:00.400
+<v timpritlove>die sich eben nicht in Journalismus so fassen ließ.
+
+00:20:00.401 --> 00:20:00.600
+<v janhinrikschmidt>Genau.
+
+00:20:00.601 --> 00:20:06.600
+<v timpritlove>Und dann kam halt diese Reaktion, die sicherlich damals ein bisschen übertrieben war, weil so.
+
+00:20:06.601 --> 00:20:13.900
+<v timpritlove>Ich musste allerdings auch vor kurzem gerade über diesen Spruch nochmal nachdenken und dachte mir so, ja Klowände, Internet und so,
+
+00:20:13.901 --> 00:20:20.000
+<v timpritlove>also das war schon so ein bisschen auch eine self-fulfilling prophecy an der Stelle, weil ich glaube, an dem Punkt sind wir angekommen.
+
+00:20:20.001 --> 00:20:21.600
+<v timpritlove>Da werden wir ja auf jeden Fall auch noch drüber sprechen.
+
+00:20:21.601 --> 00:20:27.800
+<v timpritlove>Nichts desto trotz diese Auseinandersetzung mit diesem, was seid ihr eigentlich und was habt ihr für so einen eigenen Anspruch
+
+00:20:27.801 --> 00:20:32.700
+<v timpritlove>oder was ist denn überhaupt eure Legitimation, eine Meinung zu haben?
+
+00:20:32.701 --> 00:20:37.500
+<v timpritlove>Das entspann sich ja auch speziell dann eben in der Konfrontation mit dem Journalismus.
+
+00:20:37.501 --> 00:20:42.000
+<v timpritlove>Ich weiß, das ging dann über Jahre, immer diese Debatte, sind Blogs ein journalistisches Medium?
+
+00:20:42.001 --> 00:20:43.200
+<v timpritlove>Ist ein Blogger ein Journalist?
+
+00:20:43.201 --> 00:20:49.200
+<v timpritlove>Kann ein Journalist ein Blogger sein und so weiter, das ging ja laufenden Meter hin und her.
+
+00:20:49.201 --> 00:20:53.700
+<v timpritlove>Ähnlich mit Podcast und Radio, das hält ja auch noch bis heute an.
+
+00:20:53.701 --> 00:20:55.900
+<v timpritlove>Und daran hat mich sich viel gerieben.
+
+00:20:55.901 --> 00:21:02.500
+<v timpritlove>Wie hast du denn gerade diese konkrete Auseinandersetzung mit dem Journalismus beobachtet?
+
+00:21:02.501 --> 00:21:12.400
+<v janhinrikschmidt>Da ist das Interessante ja, dass das auch eine Frage war, die sich in meinem Fach, also in der Kommunikationswissenschaft, besonders gestellt hat,
+
+00:21:12.401 --> 00:21:18.900
+<v janhinrikschmidt>weil die Kommunikationswissenschaft ist ja die Wissenschaft von der öffentlichen Kommunikation, jetzt mal ein bisschen verkürzt gesagt.
+
+00:21:18.901 --> 00:21:24.800
+<v janhinrikschmidt>Und für die Kommunikationswissenschaft war es in gewisse Weise ja auch eine Frage, sind Weblogs ein legitimer Untersuchungsgegenstand?
+
+00:21:24.801 --> 00:21:30.700
+<v janhinrikschmidt>Ich hatte da wiederum jetzt auch biografisch ein bisschen den Vorteil, dass ich nicht in der Kommunikationswissenschaft sozialisiert wurde,
+
+00:21:30.701 --> 00:21:37.900
+<v janhinrikschmidt>sondern eben aus der Soziologie stamme, so dass ich mir, ich überspitze jetzt mal, nie so richtig die Frage gestellt habe, darf ich das jetzt untersuchen?
+
+00:21:37.901 --> 00:21:45.000
+<v janhinrikschmidt>Oder ist das jetzt ein legitimer Untersuchungsgegenstand, sondern mich hat das halt interessiert, auch eher mit dem soziologischen Blick,
+
+00:21:45.001 --> 00:21:47.200
+<v janhinrikschmidt>welche Praktiken bilden sich heraus?
+
+00:21:47.201 --> 00:21:54.500
+<v janhinrikschmidt>Und diese Auseinandersetzung oder die Reibung mit dem Journalismus, die Frage, die du gerade auch selber gestellt hast,
+
+00:21:54.501 --> 00:22:04.000
+<v janhinrikschmidt>ist Bloggen Journalismus und so weiter, die habe ich dann so beantwortet, dass ich sage, es gibt so Überlappungs- oder Überschneidungsbereiche,
+
+00:22:04.001 --> 00:22:09.200
+<v janhinrikschmidt>aber natürlich ist nicht jedes Blog auch gleichzeitig ein Ausdruck journalistischen Handelns.
+
+00:22:09.201 --> 00:22:17.700
+<v janhinrikschmidt>Und ich habe dann eigentlich eher beschrieben oder herausgearbeitet, wie sich journalistisch hergestellte, also publizistische Öffentlichkeit,
+
+00:22:17.701 --> 00:22:25.700
+<v janhinrikschmidt>durch Blogs und später auch durch andere Internetformate letztlich sozusagen erweitert oder an den Rändern, das ist jetzt nicht abwertend gemeint,
+
+00:22:25.701 --> 00:22:31.300
+<v janhinrikschmidt>an den Rändern sozusagen noch weiter geführt wird, weil die Blogs zum Beispiel, jetzt ein Beispiel für diese Erweiterungen,
+
+00:22:31.301 --> 00:22:35.600
+<v janhinrikschmidt>die Blogs ja auch Themen aufgreifen, die in den Massenmedien gesetzt werden, weiterführen
+
+00:22:35.601 --> 00:22:41.100
+<v janhinrikschmidt>und umgekehrt wiederum die journalistischen Medien Themen aufgegriffen haben, die in den Blogs hochgekommen sind.
+
+00:22:41.101 --> 00:22:47.500
+<v janhinrikschmidt>Also dass es da eigentlich eher so eine Verlängerung der journalistisch hergestellten Öffentlichkeit gab.
+
+00:22:47.501 --> 00:22:53.600
+<v janhinrikschmidt>Ansonsten nur so ganz grundsätzlich fand ich diese Frage, sind Blogs nun Journalismus, als substanzielle Frage eigentlich eher langweilig,
+
+00:22:53.601 --> 00:22:58.000
+<v janhinrikschmidt>weil Blogs sind ganz viel oder können ganz viel sein, da ist das ja eigentlich nur ein Ausschnitt.
+
+00:22:58.001 --> 00:23:03.000
+<v janhinrikschmidt>Mich haben zum Beispiel ja auch die Strick-Blogs interessiert oder die Blogs, die Jugendliche damals geführt haben.
+
+00:23:03.001 --> 00:23:11.100
+<v janhinrikschmidt>Das war in Zeiten vor Facebook, Instagram, vor SchülerVZ gab es auch Blogs von Teenies, die dann über Tokyo Hotel gebloggt haben.
+
+00:23:11.101 --> 00:23:15.600
+<v janhinrikschmidt>Das wurde von den etablierten Bloggern auf der re:publica größtenteils natürlich, die haben da drauf geguckt, das sind doch auch keine Blogs,
+
+00:23:15.601 --> 00:23:17.900
+<v janhinrikschmidt>das ist doch irgendwas.
+
+00:23:17.901 --> 00:23:23.300
+<v janhinrikschmidt>Also auch da haben interessanterweise auch innerhalb der Blogosphäre solche Abgrenzungsdiskurse stattgefunden.
+
+00:23:23.301 --> 00:23:27.900
+<v janhinrikschmidt>Das war so eins der Themen von diesem Vortrag, den ich vorhin erwähnt hatte, zu den Mythen der Blogosphäre.
+
+00:23:27.901 --> 00:23:39.000
+<v timpritlove>Trotzdem ist ja in dieser Journalismusfrage steckt ja auch immer so ein bisschen dieses drin mit, wodurch erhält man denn jetzt hier quasi seinen Führerschein zu berichten?
+
+00:23:39.001 --> 00:23:46.900
+<v timpritlove>Und bis dahin galt eben Journalismus als, naja da geht man auf eine Journalismusschule und dann ist man bei einer Zeitung
+
+00:23:46.901 --> 00:23:54.700
+<v timpritlove>oder bei irgendeinem anderen anerkannt journalistischen Medium, macht da seine Ausbildung und werkelt sich nach oben
+
+00:23:54.701 --> 00:23:58.300
+<v timpritlove>und dann ist man halt Journalist und dann hat man auch einen Journalistenausweis.
+
+00:23:58.301 --> 00:24:09.300
+<v timpritlove>Und Blogosphäre hat ja eigentlich lange Zeit dagegengehalten, bis heute eigentlich in gewisser Hinsicht und gesagt, nein, das kann man so sehen,
+
+00:24:09.301 --> 00:24:16.800
+<v timpritlove>wir sehen uns vielleicht auch nicht unbedingt alle als Journalisten, aber wir sehen uns auch nicht zwangsläufig als nicht-Journalisten,
+
+00:24:16.801 --> 00:24:22.600
+<v timpritlove>weil wir genauso auch Fakten aufgraben können, genauso Meinungen veröffentlichen können.
+
+00:24:22.601 --> 00:24:31.400
+<v janhinrikschmidt>Zu der Frage muss ich auch sagen, da kann ich inzwischen auch so, weil auch noch mehr Jahre vergangen und noch eine weitere Entwicklung stattgefunden hat,
+
+00:24:31.401 --> 00:24:37.800
+<v janhinrikschmidt>kann ich auch anders antworten als ich es vielleicht 2007 gemacht hätte oder damals gemacht habe.
+
+00:24:37.801 --> 00:24:47.100
+<v janhinrikschmidt>Also zum einen ist wichtig nochmal festzuhalten, dass Blogs ja letztlich ein Versprechen einlösen, dass das Netz immer so mit sich bringt,
+
+00:24:47.101 --> 00:24:54.900
+<v janhinrikschmidt>nämlich jeder kann mitmachen, das ist ja auch ein Teil dieses Versprechens, was so in diesem alten Web 2.0 Diskurs irgendwie so mitschwang.
+
+00:24:54.901 --> 00:25:02.200
+<v janhinrikschmidt>Und dass jeder mitmachen kann, dass jeder sozusagen seine Stimme in die digitale Öffentlichkeit tragen kann, heißt aber natürlich nicht,
+
+00:25:02.201 --> 00:25:08.000
+<v janhinrikschmidt>dass damit automatisch jeder auch zum öffentlichen Sprecher im Sinne des Journalisten wird, die Beobachtung ist ganz richtig.
+
+00:25:08.001 --> 00:25:13.800
+<v janhinrikschmidt>Und es mag Blogger geben, die sich auch wie eine Art Journalisten verstehen, aber viele andere Blogger haben letztlich,
+
+00:25:13.801 --> 00:25:18.900
+<v janhinrikschmidt>wenn man es abstrakt ausdrücken will, haben eben ihr Recht auf Meinungsäußerung sozusagen ausgeübt.
+
+00:25:18.901 --> 00:25:25.800
+<v janhinrikschmidt>Sie hatten eben Dinge, die sie interessiert haben, das können Hobbys gewesen sein, Erlebnisse, das kann auch mal ein politisches Thema gewesen sein.
+
+00:25:25.801 --> 00:25:32.300
+<v janhinrikschmidt>Und sie haben mit den Blogs eine Möglichkeit, ihre Stimme zu Gehör zu bringen und ihr Publikum zu finden.
+
+00:25:32.301 --> 00:25:39.000
+<v janhinrikschmidt>Und das Publikum sind dann vielleicht ein paar Hundert oder so, die sich halt auch für das Thema interessieren
+
+00:25:39.001 --> 00:25:41.200
+<v janhinrikschmidt>oder irgendwie in dem erweiterten Netzwerk von der Person sind.
+
+00:25:41.201 --> 00:25:46.600
+<v janhinrikschmidt>Das ist genau dieses Phänomen, was ich mit dem Begriff der persönlichen Öffentlichkeit auch ausdrücken möchte,
+
+00:25:46.601 --> 00:25:54.500
+<v janhinrikschmidt>dass es eben neben der journalistisch publizistisch hergestellten Öffentlichkeit eben auch noch andere Formen von Öffentlichkeit in den digitalen Medien gibt
+
+00:25:54.501 --> 00:26:00.200
+<v janhinrikschmidt>und die persönliche Öffentlichkeit ist, was man selber mit Hilfe der digitalen Medien schaffen kann, wo man selber bestimmt,
+
+00:26:00.201 --> 00:26:01.200
+<v janhinrikschmidt>über welche Themen schreibt man.
+
+00:26:01.201 --> 00:26:05.200
+<v janhinrikschmidt>Man muss sich nicht an journalistischen Nachrichtenfaktoren orientieren.
+
+00:26:05.201 --> 00:26:12.600
+<v janhinrikschmidt>Man muss nicht die journalistischen Darstellungsformen, den Kommentar, die Nachricht, die Glosse kennen, man schreibt so wie man möchte.
+
+00:26:12.601 --> 00:26:18.700
+<v janhinrikschmidt>Und den Bezug zum Journalismus bekommt es eben dadurch, was ich vorhin schon gesagt hatte, dass zum Teil eben diese Sphären überlappen,
+
+00:26:18.701 --> 00:26:24.500
+<v janhinrikschmidt>weil Themen in beiden Öffentlichkeitssphären behandelt werden, aber auf ganz unterschiedliche Art und Weise.
+
+00:26:24.501 --> 00:26:29.600
+<v janhinrikschmidt>So jetzt habe ich ein bisschen, glaube ich, deine Frage aus den Augen verloren, kannst du nochmal die Frage sagen?
+
+00:26:29.601 --> 00:26:37.700
+<v timpritlove>Naja, also ist schon durchaus, also es ist ja das Aufbrechen dieser althergebrachten Legitimation.
+
+00:26:37.701 --> 00:26:40.500
+<v timpritlove>Also wer sagt sozusagen was es ist.
+
+00:26:40.501 --> 00:26:51.400
+<v timpritlove>Ich meine, es gibt ja auch gerade aus dem Umfeld der re:publica, was ja so den Mitgründern, da gehörte eben Markus Beckedahl und sein Blog netzpolitik.org,
+
+00:26:51.401 --> 00:27:00.400
+<v timpritlove>was ja ganz klar als Blog angetreten ist, um eben in diesem spezifischen Bereich der Netzpolitik zu berichten
+
+00:27:00.401 --> 00:27:05.700
+<v timpritlove>und mittlerweile ja, glaube ich, überhaupt nicht mehr zur Diskussion steht, dass es sich hierbei um ein journalistisches Format handelt.
+
+00:27:05.701 --> 00:27:06.500
+<v janhinrikschmidt>Ja.
+
+00:27:06.501 --> 00:27:12.800
+<v timpritlove>Also der Beweis ist an der Stelle ja, glaube ich, auch restlos gebracht worden.
+
+00:27:12.801 --> 00:27:27.400
+<v timpritlove>Aber spulen wir mal ein bisschen vor, verlassen wir diese Zeit der relativen unbeobachteten Elitengruppen, weil dann gab es ja dann,
+
+00:27:27.401 --> 00:27:33.100
+<v timpritlove>wie schon zuvor, immer wieder neue Schübe durch technischen Wandel.
+
+00:27:33.101 --> 00:27:39.600
+<v timpritlove>Und wo vorher halt die Blogs am Start waren und jeder sich im Prinzip noch selber um seinen eigenen Webserver kümmern müsste,
+
+00:27:39.601 --> 00:27:45.400
+<v timpritlove>wenn man sich nicht eben auf einer dieser Bloggingplattformen rumgetrieben hat, wie das von dir erwähnte twoday.net,
+
+00:27:45.401 --> 00:27:47.100
+<v timpritlove>was es übrigens noch gibt, ich habe gerade nochmal nachgeschaut, also hält sich wacker.
+
+00:27:47.101 --> 00:27:50.400
+<v janhinrikschmidt>Cool.
+
+00:27:50.401 --> 00:28:02.600
+<v timpritlove>Und relativ früh war ja schon YouTube dabei, da war bloß noch nicht so richtig absehbar, was sich dort an eigenen Formaten künftig mal tummeln können wird.
+
+00:28:02.601 --> 00:28:08.900
+<v timpritlove>Dann kam natürlich Facebook auf als Plattform und irgendwann auch Twitter.
+
+00:28:08.901 --> 00:28:15.000
+<v timpritlove>Wie haben denn diese neuen Player jetzt das ganze Geschehen geprägt?
+
+00:28:15.001 --> 00:28:23.100
+<v janhinrikschmidt>Oha, das ist die 100.000 Euro Frage oder es ist tatsächlich jetzt komplex.
+
+00:28:23.101 --> 00:28:34.300
+<v janhinrikschmidt>Wenn ich es sehr verkürzt wiedergeben will ist irgendwann so um 2010 herum, sage ich mal, das kann man nicht auf ein genaues Datum festmachen,
+
+00:28:34.301 --> 00:28:42.900
+<v janhinrikschmidt>aber irgendwo dann hat sich die Struktur der digitalen Öffentlichkeit erkennbar gewandelt gegenüber dem, was wir jetzt gerade eben die ganze letzte Zeit,
+
+00:28:42.901 --> 00:28:50.800
+<v janhinrikschmidt>die letzten Minuten besprochen haben, also dass das Web in den 2010er Jahren ist strukturell nochmal erkennbar anders als das Web 2.0,
+
+00:28:50.801 --> 00:28:52.900
+<v janhinrikschmidt>das sozial Web der 00er Jahre.
+
+00:28:52.901 --> 00:29:00.800
+<v janhinrikschmidt>Und das hat sehr viel mit den von dir genannten Akteuren zu tun, nicht weil YouTube auf einmal auch Videos erlaubte oder so,
+
+00:29:00.801 --> 00:29:06.900
+<v janhinrikschmidt>das ist nicht das Entscheidende, sondern weil es sich bei diesen Akteuren um Plattformen handelt oder um Intermediäre,
+
+00:29:06.901 --> 00:29:12.200
+<v janhinrikschmidt>also um Akteure, die eben gewisse Dinge zentralisieren.
+
+00:29:12.201 --> 00:29:16.000
+<v janhinrikschmidt>Die Blogosphäre ist was dezentrales.
+
+00:29:16.001 --> 00:29:22.200
+<v janhinrikschmidt>Es gab halt viele verschiedene Blogs und die waren untereinander vernetzt, haben sich gekannt, was auch immer.
+
+00:29:22.201 --> 00:29:27.400
+<v janhinrikschmidt>Facebook oder YouTube ist erst mal eine Plattform, ich benutze diesen Begriff mal, ich kann den nachher auch nochmal problematisieren,
+
+00:29:27.401 --> 00:29:36.000
+<v janhinrikschmidt>aber es ist eine Plattform, die auch eine Infrastruktur bereitstellt, um Videos zu veröffentlichen oder sein eigenes Profil anzulegen
+
+00:29:36.001 --> 00:29:38.900
+<v janhinrikschmidt>und sich davon ausgehend mit Leuten zu vernetzen, wie im Fall von Facebook.
+
+00:29:38.901 --> 00:29:46.300
+<v janhinrikschmidt>Diese Plattformen machen es nochmal leichter, selber seine eigene persönliche Öffentlichkeit im Netz zu schaffen.
+
+00:29:46.301 --> 00:29:55.000
+<v janhinrikschmidt>Die Hürde, einen Blog aufzusetzen, war schon deutlich kleiner als in den 1990er Jahren eine Webseite zu programmieren
+
+00:29:55.001 --> 00:30:02.600
+<v janhinrikschmidt>und dadurch sozusagen haben Blogs auch eine gewisse Verbreitung bekommen, aber es war trotzdem immer noch nicht so einfach
+
+00:30:02.601 --> 00:30:06.500
+<v janhinrikschmidt>wie es heutzutage ist, sich bei Facebook anzumelden oder später dann bei Instagram oder so was.
+
+00:30:06.501 --> 00:30:14.800
+<v janhinrikschmidt>So dass YouTube, Facebook und so weiter eben nochmal so einen Verbreitungsschub dieser, heute sagen wir, sozialen Medien geführt haben,
+
+00:30:14.801 --> 00:30:19.300
+<v janhinrikschmidt>weil es nochmal für ganz andere Nutzergruppen auf einmal leicht möglich war.
+
+00:30:19.301 --> 00:30:25.100
+<v janhinrikschmidt>Speziell bei Facebook kamen natürlich auch diese Netzwerkeffekte dazu, dass man irgendwie mitbekommen hat im eigenen Umfeld,
+
+00:30:25.101 --> 00:30:30.400
+<v janhinrikschmidt>da gibt es jetzt so was, da sind Leute auf Facebook, da kann man irgendwie diskutieren und alte Schulfreunde wiederfinden
+
+00:30:30.401 --> 00:30:33.100
+<v janhinrikschmidt>und dann haben es eben immer mehr Leute ausprobiert.
+
+00:30:33.101 --> 00:30:38.400
+<v janhinrikschmidt>Also dadurch ist speziell Facebook ja so um 2010 herum in Deutschland auch so unglaublich rasant gewachsen
+
+00:30:38.401 --> 00:30:45.600
+<v janhinrikschmidt>und hat dann im Prinzip alle anderen Angebote, die es damals noch gab in Deutschland, die VZ-Netzwerke, wer kennt wen etc., hat es ja vom Markt gefegt.
+
+00:30:45.601 --> 00:30:57.000
+<v janhinrikschmidt>So inzwischen, das kann wie gesagt keine klare Marke setzen, aber so im Laufe er Zeit, Anfang der 2010er Jahre, haben diese Plattformen eben dann ihre Stellung ausgebaut,
+
+00:30:57.001 --> 00:31:08.600
+<v janhinrikschmidt>haben sich konsolidiert und haben, das war dann in der Entwicklung nochmal ein bisschen später, haben dann aber auch alle letztlich ihre Funktionsweise so umgestellt,
+
+00:31:08.601 --> 00:31:18.200
+<v janhinrikschmidt>dass sie also ein auf umfassender Verdatung beruhendes System aufgebaut haben, um Informationsströme zu lenken.
+
+00:31:18.201 --> 00:31:25.600
+<v janhinrikschmidt>Das war jetzt abstrakt formuliert, aber die Funktionsweise von YouTube, Twitter, Facebook und so weiter, die unterscheidet sich natürlich in einzelnen Details,
+
+00:31:25.601 --> 00:31:32.500
+<v janhinrikschmidt>aber im Grunde geht es bei diesen Plattformen darum, dass die Plattformbetreiber Daten von uns Nutzern sammeln,
+
+00:31:32.501 --> 00:31:42.200
+<v janhinrikschmidt>indem sie unsere Aktivitäten protokollieren und diese Daten dann dazu verwenden, um zu kanalisieren, welche Art von Inhalten sehen wir, kriegen wir zu sehen?
+
+00:31:42.201 --> 00:31:48.400
+<v janhinrikschmidt>Das ist dann zum Beispiel wie sich der Newsfeed bei Facebook zusammenstellt oder auch die algorithmischen Empfehlungen bei YouTube,
+
+00:31:48.401 --> 00:31:51.900
+<v janhinrikschmidt>aber auch der ganze Komplex mit personalisierter Werbung.
+
+00:31:51.901 --> 00:32:00.600
+<v janhinrikschmidt>Und das sind, wir können das alles gerne später nochmal vertiefen, aber das ist so jetzt wirklich in a nutshell so ein ganz wesentlicher Strukturwandel
+
+00:32:00.601 --> 00:32:12.200
+<v janhinrikschmidt>von doch noch eher zentralen Angeboten und dezentralen persönlichen Öffentlichkeiten im Internet der 2000er Jahre
+
+00:32:12.201 --> 00:32:18.100
+<v janhinrikschmidt>hin zu den stark auf einige wenige große Plattformen konzentrierten, man kann auch sagen monopolisierten, Netz der Intermediäre,
+
+00:32:18.101 --> 00:32:22.200
+<v janhinrikschmidt>was wir in den 2010er und jetzt im Beginn der 2020er Jahre haben.
+
+00:32:22.201 --> 00:32:29.300
+<v timpritlove>Vor allem wurde ja der Begriff des Netzwerkeffekts an der Stelle auch erst so richtig popularisiert, weil man sah ihn auf einmal so richtig walten,
+
+00:32:29.301 --> 00:32:37.700
+<v timpritlove>insbesondere bei Facebook hat sich das dann halt abgespielt, dass eben dieses, wenn erst mal genug Leute auf einer Plattform sind
+
+00:32:37.701 --> 00:32:43.500
+<v timpritlove>und es dann so einen Tipping Point gibt, wo alle anderen sagen, naja wenn die anderen da auch sind, dann gehe ich da halt auch hin,
+
+00:32:43.501 --> 00:32:47.900
+<v timpritlove>das ist ja auch etwas, wo dann so die Blogosphäre sehr drunter gelitten hat.
+
+00:32:47.901 --> 00:32:56.000
+<v timpritlove>Eine ähnliche Entwicklung sieht man zum Beispiel jetzt auch gerade im Podcasting, was sich ja diesen ganzen Plattformen noch relativ lange ferngehalten hat
+
+00:32:56.001 --> 00:33:03.400
+<v timpritlove>oder sich die Plattformen zumindest vom Podcasting weit ferngehalten haben, dass eben jetzt diese Netzwerkeffekte hier auch greifen.
+
+00:33:03.401 --> 00:33:12.200
+<v timpritlove>Was hatte denn das für einen Effekt auf die Kommunikation an sich?
+
+00:33:12.201 --> 00:33:22.600
+<v janhinrikschmidt>Ja gut, das eine hatte ich ja schon angesprochen, ist eben erst mal relativ banal, dass Netzwerkeffekte das Wachstum von der Nutzerschaft/Nutzerinnenschaft begünstigen
+
+00:33:22.601 --> 00:33:29.800
+<v janhinrikschmidt>und dass es aber dann in einem zweiten Schritt eben auch letztlich zu einer Beschränkung auf einige wenige
+
+00:33:29.801 --> 00:33:35.800
+<v janhinrikschmidt>oder vielleicht sogar nur einen dominierenden Akteur kommt, weil so eine Plattform gewinnt ihren Wert dadurch,
+
+00:33:35.801 --> 00:33:41.100
+<v janhinrikschmidt>wenn ich da hingehe, möchte ich mit möglichst vielen anderen kommunizieren können, so dass es dann so eine Art natürliche Tendenz hin gibt,
+
+00:33:41.101 --> 00:33:46.200
+<v janhinrikschmidt>dass sich dann alle dann doch irgendwie bei einem sammeln, das ist so der eine Aspekt.
+
+00:33:46.201 --> 00:33:51.400
+<v janhinrikschmidt>Könnte man mathematisch modellieren sozusagen, wie diese Netzwerkeffekte gegriffen haben und sich abgespielt haben.
+
+00:33:51.401 --> 00:33:57.900
+<v janhinrikschmidt>Kommunikationssoziologisch interessant ist zum Beispiel die Beobachtung, dass mit diesem Wachstum eben auch, sagen wir,
+
+00:33:57.901 --> 00:34:04.000
+<v janhinrikschmidt>es zu einer Verbreiterung der Nutzerschaft kam und so dieses Gefühl, wir sind hier eine kleine homogene Szene,
+
+00:34:04.001 --> 00:34:12.600
+<v janhinrikschmidt>wir haben ja länger drüber gesprochen vorhin, wie es so in den Anfängen der Blogosphäre und der Blogs gab mit der re:publica als Kristallisationspunkt und Klassentreffen,
+
+00:34:12.601 --> 00:34:19.300
+<v janhinrikschmidt>dass das irgendwann dann eben, man könnte sagen, zerfasert ist, sich ausdifferenziert hat, was auch immer,
+
+00:34:19.301 --> 00:34:25.000
+<v janhinrikschmidt>also es hätte nie im Leben ein Klassentreffen aller Facebook-Nutzer geben können.
+
+00:34:25.001 --> 00:34:29.400
+<v janhinrikschmidt>Selbst bei der Blogosphäre gab es natürlich ganz viele, die nie zu so einem Treffen gekommen wären,
+
+00:34:29.401 --> 00:34:30.800
+<v janhinrikschmidt>aber ich glaube, es ist klar, worauf ich hinaus will.
+
+00:34:30.801 --> 00:34:42.300
+<v janhinrikschmidt>Also es war einfach dann so, die Nutzerzahlen sind so in die Höhe gegangen, dass sich da auch wieder zwangsläufig ganz unterschiedliche Gruppierungen und Communitys und Netzwerke ausgebildet hatten.
+
+00:34:42.301 --> 00:34:49.900
+<v janhinrikschmidt>Man sah das dann zum Beispiel daran, dass man auf einmal auf Facebook eben Leute wiedergefunden hat oder gesehen hat,
+
+00:34:49.901 --> 00:34:59.000
+<v janhinrikschmidt>die alten Klassenkameraden oder vielleicht auch die eigene Großmutter oder die eigenen Eltern oder so, die das ganz anders genutzt haben als man selber.
+
+00:34:59.001 --> 00:35:04.400
+<v janhinrikschmidt>Die irgendwie auch ganz andere Themen hatten, es war ganz lange natürlich der Reiz dieses, ich treffe alte Bekannte wieder,
+
+00:35:04.401 --> 00:35:09.900
+<v janhinrikschmidt>ich kann mich wieder mit alten Schulfreunden vernetzen, das macht ja auch viel aus.
+
+00:35:09.901 --> 00:35:12.600
+<v janhinrikschmidt>Das ist auch der Wert, den viele Menschen in diesen Netzwerkplattformen sehen.
+
+00:35:12.601 --> 00:35:20.900
+<v janhinrikschmidt>Aber so dieses Gefühl, wir teilen so ein Verständnis von unserer Rolle, so wie es die Blogger sind, dass wir hier die Facebook-Nutzer sind zum Beispiel
+
+00:35:20.901 --> 00:35:26.000
+<v janhinrikschmidt>oder die YouTube-Nutzer, das hat sich nie rausgebildet, dafür waren die Gruppen einfach zu groß.
+
+00:35:26.001 --> 00:35:28.200
+<v timpritlove>Ist nicht identitätsstiftend gewesen.
+
+00:35:28.201 --> 00:35:35.800
+<v janhinrikschmidt>Genau. Das ist vielleicht ein interessanter Punkt nochmal, weil das auch was war, was ich so aus diesen ersten Arbeiten mit den Weblogs herausarbeiten konnte
+
+00:35:35.801 --> 00:35:44.300
+<v janhinrikschmidt>und was mir jetzt aber, also was ich immer noch hilfreich finde, dass all diese Plattformen, über die wir reden, ganz grundsätzlich ja drei verschiedene Praktiken unterstützen.
+
+00:35:44.301 --> 00:35:47.800
+<v janhinrikschmidt>Ich nenne das halt Identitätsmanagement, Beziehungsmanagement, Informationsmanagement.
+
+00:35:47.801 --> 00:35:54.000
+<v janhinrikschmidt>Und diese drei Dinge kommen zusammen, ich kann ausdrücken wer ich bin oder wer ich sein will, Identitätsmanagement.
+
+00:35:54.001 --> 00:35:59.800
+<v janhinrikschmidt>Ich kann Beziehungen, soziale Beziehungen knüpfen, also neu knüpfen oder auch pflegen, Beziehungsmanagement.
+
+00:35:59.801 --> 00:36:06.000
+<v janhinrikschmidt>Und ich kann mich aber über die Welt um mich herum informieren, kann auf dem Laufenden bleiben, Informationsmanagement.
+
+00:36:06.001 --> 00:36:11.500
+<v janhinrikschmidt>Das sind so die drei Nutzungsversprechen, die diese sozialen Medien eben auch haben und die auch den Reiz ausmachen für viele Menschen.
+
+00:36:11.501 --> 00:36:20.100
+<v timpritlove>Jetzt haben wir ja einen Medienteil die ganze Zeit ein wenig im Hintergrund gelassen, nur am Rande angesprochen, nämlich die Massenmedien.
+
+00:36:20.101 --> 00:36:27.000
+<v timpritlove>Die ja nun lange lange Zeit gewohnt waren, mehr oder weniger zuständig zu sein für all diese ganzen Informationsfluss
+
+00:36:27.001 --> 00:36:34.300
+<v timpritlove>und die vielleicht auch so manche andere Aspekte so abgedeckt haben und wenn es nur der Leserbrief ist.
+
+00:36:34.301 --> 00:36:45.600
+<v timpritlove>Die standen ja so aus meiner Perspektive relativ lange recht schockiert vor dieser ganzen Entwicklung und ist dann auch so durch verschiedene klassischen Phasen,
+
+00:36:45.601 --> 00:36:54.700
+<v timpritlove>das gibt es alles gar nicht und so weiter und dann konnte man nicht mehr leugnen, dass es das gibt, dann war das erst mal alles ganz Teufelszeug
+
+00:36:54.701 --> 00:36:58.200
+<v timpritlove>und musste unbedingt abgelehnt werden und so weiter.
+
+00:36:58.201 --> 00:37:06.000
+<v timpritlove>Wie hast du diese Reaktionen der Massenmedien genommen und welche Rolle haben sie in dieser Zeit gehabt?
+
+00:37:06.001 --> 00:37:13.500
+<v janhinrikschmidt>Also für die Massenmedien waren das im Prinzip auch zwei Wellen oder zwei Phasen der Herausforderung.
+
+00:37:13.501 --> 00:37:20.100
+<v janhinrikschmidt>Und im Rückblick kann man sagen, das was in den 00er Jahren so mit den Gefechten mit der Blogosphäre stattfand,
+
+00:37:20.101 --> 00:37:27.500
+<v janhinrikschmidt>wirklich nur Vorgeplänkel war, weil die auch hier die Plattform eigentlich die viel größeren Herausforderungen sind,
+
+00:37:27.501 --> 00:37:33.900
+<v janhinrikschmidt>weil die nicht nur die Sonderstellung des Journalismus in publizistischer Hinsicht angreifen.
+
+00:37:33.901 --> 00:37:35.200
+<v timpritlove>Deutungshoheit.
+
+00:37:35.201 --> 00:37:43.500
+<v janhinrikschmidt>Genau und die Frage, wer bestimmt, welche Informationen in die Öffentlichkeit kommen?
+
+00:37:43.501 --> 00:37:45.800
+<v janhinrikschmidt>Sondern sie greifen sie auch und vor allem in ökonomischer Hinsicht an.
+
+00:37:45.801 --> 00:37:51.600
+<v janhinrikschmidt>Also das heißt, die untergraben letztlich das Geschäftsmodell des zumindest privatwirtschaftlich organisierten Journalismus,
+
+00:37:51.601 --> 00:37:58.500
+<v janhinrikschmidt>nämlich Aufmerksamkeit von Menschen zu bündeln, indem man Nachrichten zur Verfügung stellt oder Inhalte zur Verfügung stellt
+
+00:37:58.501 --> 00:38:01.400
+<v janhinrikschmidt>und diese Aufmerksamkeit dann über Werbung zu monetarisieren.
+
+00:38:01.401 --> 00:38:06.800
+<v janhinrikschmidt>Das ist ja auch das Geschäftsmodell der Tageszeitungen, des klassischen Fernsehsenders.
+
+00:38:06.801 --> 00:38:15.200
+<v janhinrikschmidt>Wie gesagt, Öffentlich-Rechtliche klammern wir mal aus, aber privatwirtschaftlich organisierte Medienangebote finanzieren sich zum überwiegenden Teil
+
+00:38:15.201 --> 00:38:22.500
+<v janhinrikschmidt>oder das ist so das klassische Modell gewesen, finanziert sich zum überwiegenden Teil über Werbeerlöse und nicht über den Verkauf oder das Abo oder so.
+
+00:38:22.501 --> 00:38:30.400
+<v janhinrikschmidt>So und jetzt, das hat mit „dem Internet“ schon angefangen und die Intermediäre, die Plattformbetreiber haben das jetzt nochmal verschärft,
+
+00:38:30.401 --> 00:38:36.200
+<v janhinrikschmidt>entstehen eben neue Akteure, die Werbekuchen abschöpfen bildlich gesprochen.
+
+00:38:36.201 --> 00:38:42.000
+<v janhinrikschmidt>Also anders gesagt, Werbeausgaben verlagern sich ins Internet und da verlagern sie sich eben zu Google und zu Facebook insbesondere.
+
+00:38:42.001 --> 00:38:48.200
+<v janhinrikschmidt>Und das ist in gewisser Weise die größere Herausforderung, auch für den professionell betriebenen Journalismus,
+
+00:38:48.201 --> 00:38:55.300
+<v janhinrikschmidt>weil dann eben die Finanzierungsgrundlage dann auch massiv erodiert.
+
+00:38:55.301 --> 00:39:04.600
+<v janhinrikschmidt>Und da ist die Frage, was macht Facebook eigentlich mit unserer publizistischen Öffentlichkeit, mit der Art, wie wir uns als Gesellschaft informieren,
+
+00:39:04.601 --> 00:39:12.500
+<v janhinrikschmidt>wie wir uns orientieren, wie wir über bestimmte Themen debattieren, die macht diese Frage nicht obsolet, im Gegenteil, die ist extrem wichtig,
+
+00:39:12.501 --> 00:39:19.400
+<v janhinrikschmidt>weil die auch viel dann mit demokratischer Meinungsbildung und Willensbildung zu tun hat, aber für den Journalismus ist eben im Moment, glaube ich,
+
+00:39:19.401 --> 00:39:26.500
+<v janhinrikschmidt>so die fast drängendere Frage, wie können wir uns eigentlich finanzieren, wenn wir im Netz auf einmal da diese neuen Akteure haben,
+
+00:39:26.501 --> 00:39:32.100
+<v janhinrikschmidt>die unglaublich viele Werbemittel in dem Fall dann abschöpfen, was könnten andere Finanzierungsquellen sein zum Beispiel?
+
+00:39:32.101 --> 00:39:41.400
+<v timpritlove>Ja das ist insofern ganz interessant, als dass ja dann eben auch diese klassische Zuschreibung, um was für ein Medium es sich eigentlich handelt, auch aufgeweicht wurde.
+
+00:39:41.401 --> 00:39:48.200
+<v timpritlove>Wenn man sich heute Spiegel anschaut, was mittlerweile auch nur noch Spiegel und nicht mal mehr Spiegel Online und Spiegel ist,
+
+00:39:48.201 --> 00:39:55.600
+<v timpritlove>also einerseits ist das klassische Geschäft und das Onlinegeschäft verschmolzen, jetzt eben auch im Namen.
+
+00:39:55.601 --> 00:40:04.000
+<v timpritlove>Man publiziert Videos, man publiziert Podcasts, es mag auch im Einzelnen auch noch so blogartige Beiträge geben.
+
+00:40:04.001 --> 00:40:11.300
+<v timpritlove>Also diese ganzen Berichtsformen haben sich komplett geändert und man kann jetzt gar nicht mal mehr sagen, ja Spiegel das ist eine Zeitung
+
+00:40:11.301 --> 00:40:17.100
+<v timpritlove>oder das ist ein Magazin, genauso verhält es sich auch im öffentlich-rechtlichen Raum, weil man hat ja auch gesehen,
+
+00:40:17.101 --> 00:40:23.400
+<v timpritlove>dass auch der Gesetzgeber hier so seine Schwierigkeiten hatte, dass regulatorisch entsprechend nachzuführen.
+
+00:40:23.401 --> 00:40:31.700
+<v timpritlove>Man siehe nur diese permanente Debatte zwischen den privaten Verlagen und den Öffentlich-Rechtlichen, wer denn jetzt was wie wo senden darf.
+
+00:40:31.701 --> 00:40:39.400
+<v timpritlove>Ihr seid doch Fernsehen, dann könnt ihr doch hier nicht einfach eine App rausbringen oder Texte ins Internet stellen, was fällt euch denn eigentlich ein?
+
+00:40:39.401 --> 00:40:48.600
+<v timpritlove>Auf der anderen Seite ist natürlich aber auch Springer wunderbar dabei, im Prinzip eigene Fernsehformate unter den klassischen Zeitungsmarken zu etablieren.
+
+00:40:48.601 --> 00:40:56.500
+<v janhinrikschmidt>Ja. Genau. Also wenn wir für einen Moment mal diese medienpolitische Frage nochmal außer Acht lassen, zeigen, glaube ich, diese Beispiele,
+
+00:40:56.501 --> 00:41:02.800
+<v janhinrikschmidt>dass es inzwischen also nicht mehr möglich ist, die Frage, ist das Journalismus oder nicht, an einen bestimmten Verbreitungsweg zu koppeln,
+
+00:41:02.801 --> 00:41:08.400
+<v janhinrikschmidt>so wie man eine Zeit lang sagen konnte, okay wenn es ein bedrucktes Stück Papier, also bedruckte Zeitung ist, dann ist das Journalismus.
+
+00:41:08.401 --> 00:41:15.300
+<v janhinrikschmidt>Also auch da gab es Grauzonen und so weiter, Stichwort Anzeigenblätter, aber mal anders formuliert,
+
+00:41:15.301 --> 00:41:20.100
+<v janhinrikschmidt>ganz lange folgte dieses Monopol des Journalismus, man spricht ja auch von einer Gate-Keeper-Funktion,
+
+00:41:20.101 --> 00:41:27.300
+<v janhinrikschmidt>also Journalismus ist die Instanz, die für uns filtert, was in der Welt wichtiges passiert und dann an uns verbreitet, das war daran geknüpft,
+
+00:41:27.301 --> 00:41:30.500
+<v janhinrikschmidt>dass es vergleichsweise schwierig war, Massenreichweite herzustellen.
+
+00:41:30.501 --> 00:41:35.100
+<v janhinrikschmidt>Man brauchte Druckerpressen ganz banal, um halt in großer Auflage Zeitungen zu bedrucken.
+
+00:41:35.101 --> 00:41:40.400
+<v janhinrikschmidt>Man brauchte Rundfunkmasten und Infrastruktur, um zu senden Fernsehen oder Radio.
+
+00:41:40.401 --> 00:41:51.900
+<v janhinrikschmidt>Das ist mit dem Internet, Internet hat auch eine dahinterliegende wichtige Infrastruktur, aber die Hürden sind gesunken, nun prinzipiell Reichweite zu erreichen.
+
+00:41:51.901 --> 00:41:58.100
+<v janhinrikschmidt>Das heißt, man kann die Frage, Journalismus oder nicht, eben nicht mehr an der verwendeten Medientechnologie festmachen,
+
+00:41:58.101 --> 00:42:01.600
+<v janhinrikschmidt>sondern braucht andere Kriterien.
+
+00:42:01.601 --> 00:42:07.500
+<v janhinrikschmidt>Man kann das zum Beispiel über die Selektions- und Darstellungsmechanismen machen, also man könnte ja argumentieren,
+
+00:42:07.501 --> 00:42:14.900
+<v janhinrikschmidt>der Journalismus unterscheidet sich von anderen Formen des ins Netz Schreibens dadurch, dass es eben bestimmte Kriterien gibt,
+
+00:42:14.901 --> 00:42:20.100
+<v janhinrikschmidt>nach denen gefiltert wird, ist das aufgreifenswert oder ist das berichtenswert oder nicht?
+
+00:42:20.101 --> 00:42:24.500
+<v janhinrikschmidt>Das sind dann die, in der Forschung nennt man das, die klassischen Nachrichtenfaktoren, die ein Ereignis haben muss,
+
+00:42:24.501 --> 00:42:26.800
+<v janhinrikschmidt>damit es für den Journalismus berichtenswert ist.
+
+00:42:26.801 --> 00:42:29.900
+<v janhinrikschmidt>Man kann sich an den Darstellungsformen aufgreifen.
+
+00:42:29.901 --> 00:42:32.800
+<v janhinrikschmidt>Also wenn wir ein Thema aufgegriffen haben, wie berichten wir darüber?
+
+00:42:32.801 --> 00:42:41.200
+<v janhinrikschmidt>So mit dem Anspruch des Journalismus zum Beispiel auch, zumindest in der Nachricht soweit es geht objektiv zu bleiben
+
+00:42:41.201 --> 00:42:45.300
+<v janhinrikschmidt>und Ansichten und Meinungen vielleicht dann in die Form des Kommentars auszuleisten.
+
+00:42:45.301 --> 00:42:46.500
+<v janhinrikschmidt>Also das wäre eine Möglichkeit.
+
+00:42:46.501 --> 00:42:53.900
+<v janhinrikschmidt>Und dann ist es eigentlich, dann kann Journalismus eben auf gedrucktem Papier oder im Fernsehen oder eben auch im Internet stattfinden.
+
+00:42:53.901 --> 00:42:58.600
+<v janhinrikschmidt>Nochmal eine andere Möglichkeit wäre, noch abstrakter über gesellschaftliche Funktionen zu gehen.
+
+00:42:58.601 --> 00:43:06.200
+<v janhinrikschmidt>Also die Frage sich zu stellen, welche Funktionen erfüllt der Journalismus eigentlich für eine Gesellschaft oder welche Funktion sollte er erfüllen?
+
+00:43:06.201 --> 00:43:12.200
+<v janhinrikschmidt>Und sind andere Organisations- und Kommunikationsformen denkbar, die diese Funktion auch erfüllen können
+
+00:43:12.201 --> 00:43:17.300
+<v janhinrikschmidt>oder sind Funktionen, wie gesellschaftliche Selbstverständigung oder sozusagen die Synchronisierungsfunktion,
+
+00:43:17.301 --> 00:43:22.400
+<v janhinrikschmidt>dass eine Gesellschaft weiß, welche Themen gerade auf der Agenda stehen, ist das zwingend an die Organisationsform Journalismus gebunden?
+
+00:43:22.401 --> 00:43:30.100
+<v janhinrikschmidt>Also solche Fragen stellen sich jetzt, wenn man eben nicht mehr die Debatten macht, alles was im Netz ist, kann kein Journalismus sein oder so.
+
+00:43:30.101 --> 00:43:36.600
+<v timpritlove>Na damit sind wir ja im Prinzip jetzt nach diesem Rückblick auf wie es sich entwickelt hat ja eigentlich im Jetzt auch angekommen.
+
+00:43:36.601 --> 00:43:46.000
+<v timpritlove>Jetzt haben wir einfach diese Situation, die Plattformen dominieren einen großen Teil des Informationsflusses, der eben beileibe nicht nur von den Massenmedien ausgeht,
+
+00:43:46.001 --> 00:43:49.400
+<v timpritlove>sondern eben im großen Teil von den Leuten auch selbst getragen ist.
+
+00:43:49.401 --> 00:44:00.300
+<v timpritlove>Es haben sich unzählige an Bubbles und Communitys und andere Informationskanäle herausgebildet, Alternativmedien, wie man manchmal auch sagt
+
+00:44:00.301 --> 00:44:04.300
+<v timpritlove>und auch wenn das schon wieder so einen Beigeschmack hat.
+
+00:44:04.301 --> 00:44:15.200
+<v timpritlove>Wir sehen uns jetzt also einfach einer Situation gegenüber, in der das klassische Verteilungsmodell so naja zumindest Schlagseite bekommen hat.
+
+00:44:15.201 --> 00:44:21.300
+<v timpritlove>Das ist jetzt vielleicht gerade ganz interessant, dass wir jetzt dieses Gespräch zum aktuellen Zeitpunkt führen,
+
+00:44:21.301 --> 00:44:28.100
+<v timpritlove>denn wir sind ja jetzt nun mitten noch im Corona Lockdown hier weltweit und in Deutschland natürlich auch
+
+00:44:28.101 --> 00:44:32.600
+<v timpritlove>und das hat natürlich auch einen interessanten Effekt des Zusammenrückens gehabt.
+
+00:44:32.601 --> 00:44:40.300
+<v timpritlove>Auf einmal spielt die Tagesschau wieder eine große Rolle, überhaupt macht es gerade so den Eindruck, als ob die Medien an sich,
+
+00:44:40.301 --> 00:44:48.600
+<v timpritlove>also vor allem die etablierten Medien, eine größere Rolle spielen, das ist zumindest so ein bisschen mein unterschwelliger Eindruck,
+
+00:44:48.601 --> 00:44:56.100
+<v timpritlove>weil die Vertrauensfrage auf einmal auf eine andere Art und Weise gestellt wird als das vielleicht noch vor wenigen Monaten der Fall war.
+
+00:44:56.101 --> 00:44:59.000
+<v timpritlove>Wie beobachtest du das?
+
+00:44:59.001 --> 00:45:01.000
+<v janhinrikschmidt>Ja, also die Beobachtung teile ich.
+
+00:45:01.001 --> 00:45:16.900
+<v janhinrikschmidt>Das ist inzwischen auch so durch erste Studien ja auch nachgewiesen, dass sich Aufmerksamkeit wieder hin zu den klassischen publizistischen Nachrichtenangeboten zum Beispiel verlagert hat.
+
+00:45:16.901 --> 00:45:23.700
+<v janhinrikschmidt>Ich würde das versuchen aus der Sicht der Nutzerinnen und Nutzer zu erklären.
+
+00:45:23.701 --> 00:45:32.200
+<v janhinrikschmidt>Dass wir es also hier jetzt mit einem einschneidenden Ereignis haben, mit einem Ereignis für das wir als einzelne Person, aber auch als Gesellschaft,
+
+00:45:32.201 --> 00:45:40.000
+<v janhinrikschmidt>ja bisher keine Erfahrungen hatten, dass in solchen Zeiten es ein immens hohes Orientierungsbedürfnis gibt.
+
+00:45:40.001 --> 00:45:43.400
+<v janhinrikschmidt>Also Menschen wollen wissen, also vielleicht nicht alle, aber die meisten Menschen wollen wissen, was passiert da gerade,
+
+00:45:43.401 --> 00:45:48.600
+<v janhinrikschmidt>wie kann ich mich schützen, was muss ich tun, um mich nicht anzustecken, um vielleicht auch andere nicht anzustecken?
+
+00:45:48.601 --> 00:45:54.200
+<v janhinrikschmidt>Welche Beschlüsse gelten gerade, was darf ich noch, was darf ich nicht?
+
+00:45:54.201 --> 00:46:00.500
+<v janhinrikschmidt>Also all diese Informationsbedürfnisse sind jetzt sozusagen bei der Gesamtbevölkerung auf einmal auf der Tagesordnung.
+
+00:46:00.501 --> 00:46:02.300
+<v janhinrikschmidt>Menschen müssen sich darüber informieren.
+
+00:46:02.301 --> 00:46:13.200
+<v janhinrikschmidt>Und die Leistung der publizistischen oder der Massenmedien besteht ja gerade darin, dass sie Informationen, gleichlaufende Informationen,
+
+00:46:13.201 --> 00:46:19.500
+<v janhinrikschmidt>schnell und gleichzeitig an ein großes Publikum, nämlich an das Massenpublikum verbreiten können.
+
+00:46:19.501 --> 00:46:25.400
+<v janhinrikschmidt>Das heißt, da ist erst mal ganz banal die technische Leistung er Massenmedien, anders als, sagen wir mal, WhatsApp, ist eben,
+
+00:46:25.401 --> 00:46:30.300
+<v janhinrikschmidt>ein und dieselbe Information kann unglaublich viele Bürgerinnen und Bürger gleichzeitig erreichen.
+
+00:46:30.301 --> 00:46:43.500
+<v janhinrikschmidt>Das ist so der eine Punkt, dass man also darüber, dass man jetzt als einzelne Person ja auch weiß, gelernt hat im Laufe der Zeit,
+
+00:46:43.501 --> 00:46:47.700
+<v janhinrikschmidt>dass man sich für solche aktuellen Nachrichten eben auch an die Massenmedien wenden kann und da dann Informationen bekommt.
+
+00:46:47.701 --> 00:46:53.600
+<v janhinrikschmidt>Man kann dann gleichzeitig, das was ich jetzt erzähle reflektieren wir alle natürlich nicht so ständig in der Mediennutzung,
+
+00:46:53.601 --> 00:46:58.200
+<v janhinrikschmidt>aber eben abstrakt gesprochen, man kann davon ausgehen, dass andere das dann auch wissen.
+
+00:46:58.201 --> 00:47:04.300
+<v janhinrikschmidt>Also das was ich aus den Massenmedien weiß, davon kann ich ausgehen, das wissen vielleicht auch andere.
+
+00:47:04.301 --> 00:47:09.300
+<v janhinrikschmidt>Das wird Teil unserer geteilten Realität.
+
+00:47:09.301 --> 00:47:18.200
+<v janhinrikschmidt>Und gleichzeitig gilt eben auch noch, du hast das Stichwort Vertrauen schon gesagt, dass zumindest in weiten Teilen der Bevölkerung es eben auch dieses Vertrauen ja weiterhin gibt,
+
+00:47:18.201 --> 00:47:28.200
+<v janhinrikschmidt>dass die journalistischen Medien bei allen Probleme und auch unterschiedlichen Abstufungen im Wesentlichen ja Informationen liefern, die gecheckt sind,
+
+00:47:28.201 --> 00:47:32.100
+<v janhinrikschmidt>also es wird uns nicht kompletter Nonsens erzählt und so weiter.
+
+00:47:32.101 --> 00:47:38.400
+<v janhinrikschmidt>Das heißt, das ist sozusagen ein Wissen, das wir gelernt haben darüber wie Medien funktionieren,
+
+00:47:38.401 --> 00:47:44.900
+<v janhinrikschmidt>was sich dann niederschlägt in einem zumindest grundlegendem Vertrauen darin, dass das, was ich aus der Tagesschau
+
+00:47:44.901 --> 00:47:49.900
+<v janhinrikschmidt>oder meinetwegen auch aus meiner Tageszeitung vor Ort erfahre, dass ich mich danach richten kann.
+
+00:47:49.901 --> 00:47:54.000
+<v janhinrikschmidt>Das ist erst mal sozusagen der grundlegende Mechanismus.
+
+00:47:54.001 --> 00:48:00.300
+<v janhinrikschmidt>Und ich habe so den Eindruck, das kann ich jetzt nicht irgendwie aus Studien groß bestätigen, das ist mehr jetzt so mein Alltagseindruck,
+
+00:48:00.301 --> 00:48:07.600
+<v janhinrikschmidt>dass so in den ersten Wochen dieser Fokussierungseffekt, also in den ersten Wochen sozusagen von der Corona-Pandemie
+
+00:48:07.601 --> 00:48:14.700
+<v janhinrikschmidt>und auch dann den ersten Wochen dieser Ausgangsbeschränkungen etc., dass da diese Fokussierung extrem stark war,
+
+00:48:14.701 --> 00:48:22.900
+<v janhinrikschmidt>weil der Informationsbedarf so hoch war und dass sich das dann aber jetzt im Laufe der letzten Wochen ja wieder ausdifferenziert hat,
+
+00:48:22.901 --> 00:48:30.400
+<v janhinrikschmidt>teilweise auch danach, weil es natürlich in der Bevölkerung auch kein einheitliches Meinungsbild gibt, ob nun diese Beschränkungen alle gerechtfertigt sind,
+
+00:48:30.401 --> 00:48:32.500
+<v janhinrikschmidt>ob die der richtige Weg sind.
+
+00:48:32.501 --> 00:48:41.200
+<v janhinrikschmidt>In den Medien selber wird eben mittlerweile ja auch unterschiedlich stark thematisiert, dass es unterschiedliche Ansichten gibt,
+
+00:48:41.201 --> 00:48:46.300
+<v janhinrikschmidt>sowohl unter den Politikerinnen und Politikern, die entscheiden müssen, als auch teilweise ja innerhalb der Wissenschaft,
+
+00:48:46.301 --> 00:48:52.600
+<v janhinrikschmidt>dass es da wissenschaftliche Stimmen gibt, die bestimmte Maßnahmen eher strenger und manche, die die eher lockerer sehen wollen etc.
+
+00:48:52.601 --> 00:48:59.700
+<v janhinrikschmidt>Und dadurch kommt jetzt sozusagen wieder eine Differenzierung rein, die aber nach wie vor in den Massenmedien noch abgebildet wird.
+
+00:48:59.701 --> 00:49:07.000
+<v janhinrikschmidt>Und dann sozusagen als weitere Schritt kommt die Vielfalt an Informationen dazu, die man eben in den digitalen Medien findet.
+
+00:49:07.001 --> 00:49:11.800
+<v janhinrikschmidt>Ich wollte jetzt gerade sagen, die man in den nicht journalistischen Medien findet, wobei das nicht ganz stimmt,
+
+00:49:11.801 --> 00:49:18.700
+<v janhinrikschmidt>denn auch sozusagen es finden sich ja auch inzwischen, Stichwort Alternativmedien, finden sich auch Angebote,
+
+00:49:18.701 --> 00:49:26.600
+<v janhinrikschmidt>die zumindest zu weiten Teilen auch ansatzweise journalistisch arbeiten, aber eben trotzdem es sich zur Aufgabe gemacht haben,
+
+00:49:26.601 --> 00:49:33.000
+<v janhinrikschmidt>Stimmen zu Gehör zu bringen, die es nicht durch den Filter der publizistischen, sozusagen in Anführungsstrichen, ist nicht mein Wort,
+
+00:49:33.001 --> 00:49:38.900
+<v janhinrikschmidt>der Mainstreampresse finden, so dass Menschen dort dann eben auch, wenn sie das möchten, mal Informationen bekommen,
+
+00:49:38.901 --> 00:49:43.100
+<v janhinrikschmidt>die im Gegensatz zu dem stehen, was jetzt zum Beispiel Angela Merkel verkündet.
+
+00:49:43.101 --> 00:49:50.200
+<v janhinrikschmidt>Und wenn man das jetzt noch koppelt, das ist ein sehr langes Argument jetzt, wenn man das jetzt noch koppelt mit den Prozessen der Meinungsbildung,
+
+00:49:50.201 --> 00:49:58.100
+<v janhinrikschmidt>die so im persönlichen Gespräch stattfinden, dass man sich mit den Nachbarn unterhält, in der Familie, dass man sich austauscht,
+
+00:49:58.101 --> 00:50:04.500
+<v janhinrikschmidt>dann ist sozusagen wenn man das noch mit reinnimmt, was sich auch ausdifferenziert, dann kann man, glaube ich, inzwischen sagen,
+
+00:50:04.501 --> 00:50:12.500
+<v janhinrikschmidt>dass also diese ursprüngliche Fokussierung auf Informationen einiger weniger journalistischer Outlets, dass die inzwischen abgeschwächt wurde zumindest.
+
+00:50:12.501 --> 00:50:18.100
+<v janhinrikschmidt>Und dass es wieder zu einer Situation kommt, die es vorher auch schon gab, dass also Massenmedien nach wie vor fokussieren,
+
+00:50:18.101 --> 00:50:24.000
+<v janhinrikschmidt>dass es aber bestimmte Gruppen der Bevölkerung und auch bestimmte Anteile der Bevölkerung zu bestimmten Themen gibt,
+
+00:50:24.001 --> 00:50:29.500
+<v janhinrikschmidt>die sich aus anderen Quellen mit anderen Ansichten informieren wollen und danach dann ihre Meinung bilden.
+
+00:50:29.501 --> 00:50:31.100
+<v timpritlove>Da kommen wir gleich vielleicht nochmal dazu.
+
+00:50:31.101 --> 00:50:36.000
+<v timpritlove>Ich wollte das nochmal kurz aufgreifen, weil du meintest ja so, okay Massenmedien qualifiziert jetzt in dieser Situation etwas.
+
+00:50:36.001 --> 00:50:38.900
+<v timpritlove>Sie können irgendwie alle erreichen.
+
+00:50:38.901 --> 00:50:43.000
+<v timpritlove>Das ist ja im Prinzip das, was wir gesagt haben, könnten ja jetzt auch alle anderen.
+
+00:50:43.001 --> 00:50:47.100
+<v timpritlove>Also ich könnte ja auch mit meinem Podcast, mit meinem Blog theoretisch ja auch alle erreichen.
+
+00:50:47.101 --> 00:50:54.700
+<v timpritlove>Okay gut, ich bin noch nicht über den über Funk und Kabel ausgesendeten Fernsehen, das mag schon nochmal einen Unterschied haben,
+
+00:50:54.701 --> 00:50:58.700
+<v timpritlove>aber viele nehmen das ja auch mittlerweile über das Internet über Streams wahr.
+
+00:50:58.701 --> 00:51:01.600
+<v timpritlove>Das heißt, es muss schon nochmal einen anderen Faktor geben.
+
+00:51:01.601 --> 00:51:10.400
+<v timpritlove>Einen hast du genannt, dieses Vertrauen in die journalistische Überprüfung, diese Double Check Prozess oder explizit auch dieses Factchecking,
+
+00:51:10.401 --> 00:51:14.100
+<v timpritlove>was in letzter Zeit ja auch noch mit dazu gekommen ist, das ist das eine.
+
+00:51:14.101 --> 00:51:21.100
+<v timpritlove>Andererseits eben auch so ein, du meintest so, also die Qualität der Medien ist nicht nur, dass man sie an sich schätzt,
+
+00:51:21.101 --> 00:51:26.100
+<v timpritlove>sondern dass man auch davon ausgeht, dass alle anderen auch dieselbe Information haben können.
+
+00:51:26.101 --> 00:51:26.400
+<v janhinrikschmidt>Genau.
+
+00:51:26.401 --> 00:51:28.300
+<v timpritlove>Das ist ja, glaube ich, auch nochmal ein ganz interessanter Punkt.
+
+00:51:28.301 --> 00:51:37.300
+<v timpritlove>Einerseits so ein Lagerfeuereffekt, okay wir sitzen jetzt hier auch alle in einem Boot und wir sind zumindest synchronisiert in der Information,
+
+00:51:37.301 --> 00:51:41.900
+<v timpritlove>weil wir das Gefühl haben, dass das an sich auch nochmal einen Wert darstellt.
+
+00:51:41.901 --> 00:51:49.600
+<v timpritlove>Also es ist gar nicht mal so, nur die Information an sich ist für mich jetzt wichtig, sondern es ist für mich wichtig, dass wir alle dieselbe Information
+
+00:51:49.601 --> 00:51:52.900
+<v timpritlove>oder zumindest dieselbe Informationsbasis haben.
+
+00:51:52.901 --> 00:52:01.100
+<v janhinrikschmidt>Genau. Entweder das oder auch nur, du kannst es noch einen Schritt sozusagen niedriger hängen, dass wir zumindest wissen, über welche Themen gerade gesprochen wird.
+
+00:52:01.101 --> 00:52:02.700
+<v timpritlove>Ja.
+
+00:52:02.701 --> 00:52:07.100
+<v timpritlove>Ja okay, die Thematisierung an sich, dass klar ist, was ist eigentlich wichtig.
+
+00:52:07.101 --> 00:52:18.000
+<v timpritlove>Also welchem Thema muss man Aufmerksamkeit entgegenbringen, anders als sonst, wo sich mehr oder weniger um seinen eigenen Kram kümmert.
+
+00:52:18.001 --> 00:52:24.200
+<v timpritlove>Okay, jetzt haben wir natürlich den anderen Elefanten im Raum schon die ganze Zeit gehört.
+
+00:52:24.201 --> 00:52:32.100
+<v timpritlove>Wir erleben seit, tja weiß nicht, zehn Jahren so einen Wandel von unten.
+
+00:52:32.101 --> 00:52:38.700
+<v timpritlove>Die Plattformen haben halt es ermöglicht, alle möglichen Kommunikationsräume sich selber zu schaffen
+
+00:52:38.701 --> 00:52:50.200
+<v timpritlove>und man hat so den Eindruck, man hat jetzt eine Welt mit Millionen an den Globus umstreckenden Stammtischen geboren,
+
+00:52:50.201 --> 00:53:02.200
+<v timpritlove>in denen eigene Realitäten, Vorurteile und Meinungsbildung stattfindet, die teilweise einfach so vor sich hinläuft
+
+00:53:02.201 --> 00:53:05.700
+<v timpritlove>oder eben auch konkret ausgenutzt wird.
+
+00:53:05.701 --> 00:53:18.000
+<v timpritlove>Extreme Beispiele, die Wahl in den USA, die Abstimmung über den Brexit, das sind alles Dinge, die ganz offensichtlich massiv beeinflusst worden sind.
+
+00:53:18.001 --> 00:53:25.200
+<v timpritlove>Also wo einerseits die Diskussion in den Netzen selber schon seine eigene Dynamik entwickelt hat, die schwer zu kontrollieren war,
+
+00:53:25.201 --> 00:53:32.900
+<v timpritlove>aber die eben zusätzlich auch noch mit Brandbeschleuniger übergossen wurde dadurch, dass eben diese ganzen Algorithmen
+
+00:53:32.901 --> 00:53:47.700
+<v timpritlove>durch Unternehmen wie Cambridge Analytica auch gezielt genutzt wurden, um eine bestimmte Botschaft so als Verstärker, so Geschmacksverstärker da noch mit reinzubringen,
+
+00:53:47.701 --> 00:53:54.700
+<v timpritlove>um so selbstaufschaukelnde Effekte mit reinzubringen.
+
+00:53:54.701 --> 00:54:08.100
+<v timpritlove>Wie kann man dieses Phänomen greifen und welche Entwicklung hat das so in deinen Augen genommen?
+
+00:54:08.101 --> 00:54:13.100
+<v janhinrikschmidt>Ja, also letztlich, ich kann es mir leicht machen und sagen, naja man muss da differenzieren
+
+00:54:13.101 --> 00:54:18.700
+<v janhinrikschmidt>und du hast ganz viele verschiedene Phänomene jetzt ja auch schon angesprochen in deiner Herleitung der Frage.
+
+00:54:18.701 --> 00:54:27.100
+<v janhinrikschmidt>Also ich tue mich schwer, diese Wandel der digitalen Öffentlichkeit, den wir jetzt in den letzten vier-fünf Jahren vielleicht nochmal beobachten,
+
+00:54:27.101 --> 00:54:29.300
+<v janhinrikschmidt>den auch nur auf einen Nenner zu bringen.
+
+00:54:29.301 --> 00:54:43.300
+<v janhinrikschmidt>Also in gewisser Weise erleben wir jetzt, jetzt heißt hier, sagen wir mal, seit Trump und Brexit, also seit 2016/17 in etwa, erleben wir,
+
+00:54:43.301 --> 00:54:51.900
+<v janhinrikschmidt>dass die digitale Öffentlichkeit eben auf einer Medieninfrastruktur beruht, und damit meine ich nicht nur das Technische, also die Kabel und die Funkmasten,
+
+00:54:51.901 --> 00:54:59.700
+<v janhinrikschmidt>sondern auch sozusagen die Plattform mit ihrer Logik, mit ihrer Medienlogik, also dass die Öffentlichkeit auf einer Infrastruktur basiert,
+
+00:54:59.701 --> 00:55:08.500
+<v janhinrikschmidt>die nicht per se gut oder nicht per se demokratisch ist, sondern die eben auch für andere Zwecke eingesetzt werden kann,
+
+00:55:08.501 --> 00:55:16.800
+<v janhinrikschmidt>die zu Manipulation eingesetzt werden kann, zu Propaganda, ich muss den Begriff Fakenews hier gar nicht verwenden, der ist problematisch,
+
+00:55:16.801 --> 00:55:21.700
+<v janhinrikschmidt>aber dazu benutzt werden kann, um strategisch zu kommunizieren
+
+00:55:21.701 --> 00:55:30.300
+<v janhinrikschmidt>und diese strategischen Ziele müssen eben nicht immer im Sinne der sozusagen der klassischen habermasschen aufgeklärten Vernunft oder so liegen.
+
+00:55:30.301 --> 00:55:37.700
+<v janhinrikschmidt>Da fließen viele verschiedene Entwicklungen jetzt zusammen, die zum Beispiel was mit der Möglichkeit zu tun haben,
+
+00:55:37.701 --> 00:55:46.800
+<v janhinrikschmidt>dass man gezielt einzelne Bevölkerungssegmente auswählen und targetten kann, indem man denen sozusagen relativ spezifisch, zielgruppenspezifisch,
+
+00:55:46.801 --> 00:55:52.900
+<v janhinrikschmidt>halt bestimmte Botschaften zuspielt, das ist so ein Mechanismus, der beruht wiederum auf dem, was ich vor einer Weile vorhin schon mal erläutert habe,
+
+00:55:52.901 --> 00:56:01.700
+<v janhinrikschmidt>dass die Grundlogik dieser Plattformen ja ist, Informationsströme auf Grundlage von verdateten Informationen über die Nutzerinnen und Nutzer zu kanalisieren.
+
+00:56:01.701 --> 00:56:11.500
+<v janhinrikschmidt>Und ich kann jetzt eben, wenn ich das möchte, eine politische Botschaft zum Beispiel, relativ zielgenau an ein sehr eng beschriebenes Segment der Bevölkerung ausspielen,
+
+00:56:11.501 --> 00:56:17.500
+<v janhinrikschmidt>ohne dass vielleicht andere Personen überhaupt davon Kenntnis nehmen, dass ich eine bestimmte Botschaft aussende, das ist so ein Bereich.
+
+00:56:17.501 --> 00:56:25.700
+<v janhinrikschmidt>Der andere Bereich ist, dass auf diese Plattformen ja auch was zusammenwächst, was ziemlich lange getrennt war,
+
+00:56:25.701 --> 00:56:32.500
+<v janhinrikschmidt>nämlich wir haben sozusagen das Senden oder das Publizieren von Informationen auf der einen Seite, bestimmte Botschaften werden verbreitet
+
+00:56:32.501 --> 00:56:39.600
+<v janhinrikschmidt>und wir haben die Anschlusskommunikation in den Kommentaren, also das, wo vielleicht dann auch stärker noch Meinungsbildung stattfindet.
+
+00:56:39.601 --> 00:56:44.700
+<v janhinrikschmidt>Und diese beiden Dinge waren in der alten Welt, also klassische Massenmedien, waren die getrennt.
+
+00:56:44.701 --> 00:56:51.100
+<v janhinrikschmidt>Da gab es dann eben die Tagesschau und dann das Gespräch in der Familie am Abendbrottisch hinterher über die Nachrichten
+
+00:56:51.101 --> 00:56:57.000
+<v janhinrikschmidt>oder es gab die Tageszeitung und dann vielleicht mal den Leserbrief, aber im Großen und Ganzen waren eben publizistische Kommunikation
+
+00:56:57.001 --> 00:57:02.800
+<v janhinrikschmidt>und der Austausch von Menschen über das, was sie aus den Medien erfahren haben, das waren verschiedene Medientechnologien, das war getrennt voneinander.
+
+00:57:02.801 --> 00:57:11.000
+<v janhinrikschmidt>In den digitalen Medien finden wir das an ein und derselben Stelle, auf der Facebook-Seite, bei dem Facebook-Eintrag, wo drunter kommentiert wird.
+
+00:57:11.001 --> 00:57:19.300
+<v janhinrikschmidt>In dem Twitter-Thread, wo ein Link zu einer bestimmten Nachricht gepostet wird und drunter dann die Leute sich zu Wort melden,
+
+00:57:19.301 --> 00:57:23.100
+<v janhinrikschmidt>darauf antworten, sich streiten, was auch immer, bei YouTube etc. das gleiche.
+
+00:57:23.101 --> 00:57:27.900
+<v janhinrikschmidt>Das ist ein zweites Beispiel, wie hier also eine andere Medienlogik entstanden ist im Laufe der Jahre,
+
+00:57:27.901 --> 00:57:34.100
+<v janhinrikschmidt>die dazu führt, dass bestimmte Konversationen auf einmal sichtbar werden, die es vorher vielleicht auch schon gab, Stichwort Stammtisch,
+
+00:57:34.101 --> 00:57:38.800
+<v janhinrikschmidt>die aber nie so diese gleiche Sichtbarkeit hatten, wie sie es jetzt möglicherweise haben.
+
+00:57:38.801 --> 00:57:43.400
+<v janhinrikschmidt>Denn wenn ich einen Eintrag auf der Facebook-Seite der Tagesschau sehe und darunter gleich die Kommentare,
+
+00:57:43.401 --> 00:57:47.600
+<v janhinrikschmidt>dann ist da sozusagen im Sinne der Reichweite erst mal Gleichstand hergestellt zwischen den Journalisten,
+
+00:57:47.601 --> 00:57:54.100
+<v janhinrikschmidt>die die Facebook-Seite selber bestücken und dem was drunter halt Nutzer in den Kommentaren von sich geben können.
+
+00:57:54.101 --> 00:58:01.600
+<v timpritlove>Was ja auch noch verstärkend wirkt, ist ja diese Funktionalität des Teilens, die, glaube ich, so in der Form damals auch noch nicht war.
+
+00:58:01.601 --> 00:58:09.200
+<v timpritlove>Also klar, debattieren und Feedback geben, der Kanal hat sich ein bisschen verändert, aber ist ja in seiner Qualität im wesentlichen dasselbe,
+
+00:58:09.201 --> 00:58:13.800
+<v timpritlove>aber dieses Teilen, diese Weiterreichen und Empfehlen und Liken und wie man es noch alles nennen möchte,
+
+00:58:13.801 --> 00:58:19.700
+<v timpritlove>das scheint mir so ein bisschen so ein Brandbeschleuniger in der ganzen Debattenkultur zu sein.
+
+00:58:19.701 --> 00:58:27.800
+<v janhinrikschmidt>Ja genau, das ist zum einen, also es trägt dazu bei, dass sich bestimmte Informationen oder Ansichten eben weiter verbreiten können.
+
+00:58:27.801 --> 00:58:34.100
+<v janhinrikschmidt>Ich bin als Sender, jetzt mal in Anführungsstrichen, anfangs vielleicht gar nicht drauf angewiesen, dass mir jetzt unglaublich viele Leute folgen
+
+00:58:34.101 --> 00:58:39.200
+<v janhinrikschmidt>oder meine Seite abonniert haben oder so was, sondern ich kann vielleicht darauf vertrauen, das, was ich sagen möchte,
+
+00:58:39.201 --> 00:58:44.300
+<v janhinrikschmidt>dass das so im Sinne der Mundpropaganda halt von meinem Publikum weitergetragen wird, dass die das selber, du hast genannt,
+
+00:58:44.301 --> 00:58:52.200
+<v janhinrikschmidt>retweeten, liken, anderen empfehlen, so dass die Steigerung von Reichweite oder Aufmerksamkeit eben auch durch diese, man nennt es ja dann
+
+00:58:52.201 --> 00:58:54.700
+<v janhinrikschmidt>solche viralen Effekte, stattfinden kann.
+
+00:58:54.701 --> 00:59:06.200
+<v janhinrikschmidt>Die Tücke ist, oder nicht die Tücke, da muss man vielleicht noch sagen als zweite Beobachtung dazu, dass das Weiterleiten und Empfehlen
+
+00:59:06.201 --> 00:59:09.100
+<v janhinrikschmidt>durch Nutzerinnen und Nutzer selbst auch nur ein Baustein ist.
+
+00:59:09.101 --> 00:59:15.500
+<v janhinrikschmidt>Der zweite vervielfältigende Baustein sind die algorithmischen Empfehlungen, die die Plattformen selber machen,
+
+00:59:15.501 --> 00:59:19.500
+<v janhinrikschmidt>also nach dem Motto, das hier könnte dich auch interessieren.
+
+00:59:19.501 --> 00:59:25.000
+<v janhinrikschmidt>Und diese beiden Empfehlungsmechanismen, nutzergenerierte Empfehlungen und algorithmisch generierte Empfehlungen,
+
+00:59:25.001 --> 00:59:32.300
+<v janhinrikschmidt>die spielen zusammen, um sozusagen die Reichweite von bestimmten Videos oder Postings oder was auch immer zu erhöhen.
+
+00:59:32.301 --> 00:59:40.700
+<v janhinrikschmidt>Und zumindest im Moment ist es im Großen und Ganzen so, dass beide Mechanismen Kommunikation belohnen, die möglichst zugespitzt ist,
+
+00:59:40.701 --> 00:59:47.400
+<v janhinrikschmidt>die prägnant ist, die die Leute vielleicht auch aufregt, so dass sie das Gefühl haben, da muss ich was machen oder das müssen auch andere sehen,
+
+00:59:47.401 --> 00:59:53.800
+<v janhinrikschmidt>und da spielt dann wiederum das nutzergenerierte und das Algorithmische zusammen, weil die Algorithmen in der Entscheidung,
+
+00:59:53.801 --> 01:00:03.300
+<v janhinrikschmidt>was empfehle ich, was leite ich weiter, sich auch danach richten oder daraufhin programmiert sind, die Algorithmen selber sind keine handelnden Akteure,
+
+01:00:03.301 --> 01:00:10.300
+<v janhinrikschmidt>also sie sind darauf programmiert, dass sie Dinge mit einer höheren Wahrscheinlichkeit empfehlen, die gerade im Moment besonders stark debattiert werden.
+
+01:00:10.301 --> 01:00:16.100
+<v janhinrikschmidt>Und das ist eine Sache, ich habe es jetzt erst mal neutral beschrieben, aber das ist was, was ja auch populistische Kommunikation ausnutzt,
+
+01:00:16.101 --> 01:00:19.900
+<v janhinrikschmidt>um es jetzt ins Politische zu wenden, was Trump ja auch ausnutzt.
+
+01:00:19.901 --> 01:00:27.900
+<v janhinrikschmidt>Das Wissen, dass man sowohl das Publikum als auch die Algorithmen triggern kann, indem man möglichst hart und prägnant
+
+01:00:27.901 --> 01:00:35.600
+<v janhinrikschmidt>und vielleicht auch überdreht kommuniziert, weil man dadurch dann Aufregung und im zweiten Schritt dann Aufmerksamkeit generiert.
+
+01:00:35.601 --> 01:00:42.800
+<v janhinrikschmidt>Das ist so das Muster, das macht in gewisser Weise ja auch manche Debatten und manche Verläufe so unerträglich,
+
+01:00:42.801 --> 01:00:49.100
+<v janhinrikschmidt>weil eigentlich klar ist, hier wird jetzt nur sozusagen noch einer drauf gepackt und die Empörungsspirale muss nochmal gedreht werden,
+
+01:00:49.101 --> 01:01:00.000
+<v janhinrikschmidt>um überhaupt Gehör zu finden, und es macht es auf der anderen Seite eben auch schwer für, ich sage jetzt mal wieder abstrakt, vernunftgeleitete Kommunikation,
+
+01:01:00.001 --> 01:01:05.700
+<v janhinrikschmidt>also Argumentationen, die vielleicht versuchen abzuwägen oder irgendwie auch mal zu sehen, hat die andere Person vielleicht auch recht.
+
+01:01:05.701 --> 01:01:14.000
+<v janhinrikschmidt>Diese Art von Kommunikation tut sich da vielleicht ein bisschen schwerer, weil sie nicht per se zu so einem Erregungslevel irgendwie beiträgt.
+
+01:01:14.001 --> 01:01:18.300
+<v timpritlove>Sich auf das Spiel auch gar nicht einlassen kann, weil man da eigentlich nur verlieren kann.
+
+01:01:18.301 --> 01:01:27.500
+<v janhinrikschmidt>Genau, nein, sie würde dann in dem Fall eben sozusagen ihre eigenen Grundlagen, nämlich das vernunftgeleitete oder das abwägende würde sie untergraben.
+
+01:01:27.501 --> 01:01:33.600
+<v janhinrikschmidt>Also das, was ich jetzt gerade gesagt habe, man kann auch da wiederum zeigen, dass es da auch Gegenbewegungen gibt,
+
+01:01:33.601 --> 01:01:43.500
+<v janhinrikschmidt>dass nämlich unter bestimmten Umständen interessanterweise gerade wieder das abgewogen Objektive wiederum sozusagen teilenswert ist.
+
+01:01:43.501 --> 01:01:48.800
+<v janhinrikschmidt>Ich glaube, hier kann man durchaus den Drosten-Podcast nennen, der ja gerade deswegen so populär geworden ist
+
+01:01:48.801 --> 01:02:00.000
+<v janhinrikschmidt>und der sich auch sehr sehr stark durch Empfehlungen und durch Mundpropaganda verbreitet hat, gerade weil er nüchtern und unaufgeregt kommuniziert,
+
+01:02:00.001 --> 01:02:03.800
+<v janhinrikschmidt>aber das ist möglicherweise vielleicht eher die Ausnahme, die die Regel bestätigt.
+
+01:02:03.801 --> 01:02:14.500
+<v janhinrikschmidt>Ganz viel der Kommunikation im Netz, dieser viralen Dinge auch, da geht es eher um Sachen, die irgendwie spektakulär zugespitzt oder was auch immer sind.
+
+01:02:14.501 --> 01:02:24.000
+<v timpritlove>Ja, vor allem lässt sich ja bemerken, dass bestimmte Leute sich auch schon richtig aus einem offenen Dialog ausgekoppelt zu haben scheinen.
+
+01:02:24.001 --> 01:02:34.800
+<v timpritlove>Wir haben dieses Phänomen der Verschwörungstheorien, das heißt, Leute die Erklärungsmuster herbeiziehen, die so auf den ersten Blick vollkommen absurd erscheinen,
+
+01:02:34.801 --> 01:02:42.300
+<v timpritlove>insbesondere in dieser Anhäufung, aber es macht ja ganz den Eindruck, als ob sich das auch weiterhin verstärkt.
+
+01:02:42.301 --> 01:02:44.300
+<v timpritlove>Es ist immer eine Frage der Wahrnehmung.
+
+01:02:44.301 --> 01:02:51.600
+<v timpritlove>Alles was so aufgeregt daherkommt und skandalisierend vor sich hin schreit, das bekommt dann immer erst mal mehr Aufmerksamkeit,
+
+01:02:51.601 --> 01:02:57.800
+<v timpritlove>sowohl durch die Algorithmen als eben auch vielleicht durch die Reaktion der Leute selber, weil sie dann vielleicht auch erst mal besorgt sind,
+
+01:02:57.801 --> 01:03:04.500
+<v timpritlove>oh Gott da ist ja was ganz furchtbares passiert und stelle dir mal vor, das stimmt dann eben auch, und dann frage ich mich halt,
+
+01:03:04.501 --> 01:03:06.600
+<v timpritlove>ob das überhaupt noch einzufangen ist.
+
+01:03:06.601 --> 01:03:16.400
+<v timpritlove>Also ist dieser Trend, den wir sehen, siehst du den als umkehrbar oder kehrt der sich schon um?
+
+01:03:16.401 --> 01:03:27.800
+<v timpritlove>Ist es etwas, wo man drauf Einfluss nehmen muss, damit es sich in irgendeiner Form wieder in handelbare Bahnen lenken lässt?
+
+01:03:27.801 --> 01:03:36.900
+<v timpritlove>Ist das ein technisches Problem, also wie gehen wir damit um, dass so viele Leute hier komplett aus der Spur zu laufen scheinen?
+
+01:03:36.901 --> 01:03:42.000
+<v janhinrikschmidt>Das ist ein technisches und ein soziologisches und ein psychologisches Problem wahrscheinlich.
+
+01:03:42.001 --> 01:03:46.300
+<v janhinrikschmidt>Also man sollte nicht hoffen, dass man nur an einer Schraube drehen muss.
+
+01:03:46.301 --> 01:03:54.100
+<v janhinrikschmidt>Also wenn man Verschwörungstheoretiker mal nimmt, da begebe ich mich jetzt außerhalb meiner Expertise, ich bin kein Psychologe,
+
+01:03:54.101 --> 01:04:03.300
+<v janhinrikschmidt>aber das hat, also die Neigung, Verschwörungstheorien Glauben zu schenken, hat ziemlich sicher was mit bestimmten psychologischen Dispositionen auch zu tun.
+
+01:04:03.301 --> 01:04:08.100
+<v janhinrikschmidt>Mit der Frage, wie ich mir die Welt selber erkläre, ohne dass es sich darauf reduzieren lässt.
+
+01:04:08.101 --> 01:04:18.300
+<v janhinrikschmidt>Es hat auch was mit soziologischen Phänomenen zu tun, dass sich solche bestimmten Ansichten oder Meinungen dann eben auch verstärken können,
+
+01:04:18.301 --> 01:04:20.600
+<v janhinrikschmidt>wenn man in einer Gruppe Gleichgesinnter ist.
+
+01:04:20.601 --> 01:04:28.700
+<v janhinrikschmidt>Also wenn um mich rum alle sagen, ja klar, natürlich vergiftet die Regierung uns durch Chemtrails am Himmel
+
+01:04:28.701 --> 01:04:36.400
+<v janhinrikschmidt>oder natürlich ist das Corona-Virus in einem Forschungslabor in China entstanden, wenn das um mich rum alle glauben, dann bin ich auch sozusagen stärker geneigt
+
+01:04:36.401 --> 01:04:38.100
+<v janhinrikschmidt>und dann kommt eben das Technische ins Spiel.
+
+01:04:38.101 --> 01:04:44.300
+<v janhinrikschmidt>Also die Medienlogik dieser Plattformen hat eben auch dazu geführt, dass die es leichter haben sich zu finden
+
+01:04:44.301 --> 01:04:51.600
+<v janhinrikschmidt>und sich auch abzuschotten letztlich, nicht ausschließlich abzuschotten, weil sie ja auch oft ein Sendungsbewusstsein haben und sagen,
+
+01:04:51.601 --> 01:04:54.800
+<v janhinrikschmidt>sie wollen ihre Verschwörungstheorien oder ihre Ansichten, was auch immer, verbreiten,
+
+01:04:54.801 --> 01:05:02.600
+<v janhinrikschmidt>aber sie finden eben ihre Räume im Netz, auch in den sozialen Medien, wo sie sich halt in ihren eigenen Meinungen ständig bestärken können und sagen,
+
+01:05:02.601 --> 01:05:08.300
+<v janhinrikschmidt>natürlich ist das so und guck mal hier, hier habe ich schon wieder bei, dann wird irgendein obskurer YouTube-Kanal genannt,
+
+01:05:08.301 --> 01:05:14.300
+<v janhinrikschmidt>hier habe ich schon wieder ein Video gefunden, dass eindeutig beweist, dass es ein Forschungslabor ist oder dass es die Chemtrails gibt.
+
+01:05:14.301 --> 01:05:16.300
+<v janhinrikschmidt>Das sind diese Echokammern über die wir hier reden.
+
+01:05:16.301 --> 01:05:23.200
+<v janhinrikschmidt>Also wo Menschen vielleicht auch gar nicht mehr empfänglich sind für abweichende Meinungen, psychologisch nicht mehr empfänglich,
+
+01:05:23.201 --> 01:05:27.600
+<v janhinrikschmidt>aber auch dass sozusagen medientechnisch abweichende Meinungen es da vielleicht auch gar nicht mehr reinfinden,
+
+01:05:27.601 --> 01:05:31.400
+<v janhinrikschmidt>weil sie rausgefiltert werden oder denen eben nicht empfohlen werden.
+
+01:05:31.401 --> 01:05:39.000
+<v janhinrikschmidt>Und das, also gerade weil es nicht ein rein technisches Problem ist, sondern da auch noch andere psychologische und soziologische Faktoren eine Rolle spielen,
+
+01:05:39.001 --> 01:05:48.000
+<v janhinrikschmidt>bin ich auch skeptisch, dass man das jetzt einfach wird ändern können oder abschaffen können, indem man sozusagen irgendwo an den Parametern von YouTube rumschraubt.
+
+01:05:48.001 --> 01:05:54.800
+<v janhinrikschmidt>Ich glaube, man hat da Möglichkeiten, man kann anscheinend, da bin ich jetzt auch nicht mehr der richtige Experte für,
+
+01:05:54.801 --> 01:06:03.100
+<v janhinrikschmidt>aber man kann offensichtlich auch ja zum Beispiel diese Parameter von den Empfehlungsalgorithmen natürlich entsprechend einstellen
+
+01:06:03.101 --> 01:06:10.800
+<v janhinrikschmidt>und anscheinend könnte man dann auch die so kalibrieren, dass die vielleicht Dinge aus einem bestimmten Kosmos, von dem man ziemlich sicher ausgehen kann,
+
+01:06:10.801 --> 01:06:15.600
+<v janhinrikschmidt>dass das verschwörungstheoretische Umfelder sind, dass die eben nicht noch beliebig an irgendwelche anderen Nutzer weiter empfohlen werden,
+
+01:06:15.601 --> 01:06:20.900
+<v janhinrikschmidt>aber das wird das Problem der Verschwörungstheorien an sich und auch das Problem ihrer Verbreitung
+
+01:06:20.901 --> 01:06:26.000
+<v janhinrikschmidt>und ihres sozusagen Verfangens in bestimmten Bevölkerungsgruppen eben nicht lösen.
+
+01:06:26.001 --> 01:06:36.600
+<v janhinrikschmidt>Gerade bei diesem Thema schwanke ich aber auch selber immer zwischen der Haltung, das ist wirklich schlimm und drängend und da muss dringend was gemacht werden
+
+01:06:36.601 --> 01:06:43.900
+<v janhinrikschmidt>und auf der anderen Seite aber auch dieser Einsicht, das betrifft nach wie vor eben nur einen letztlich sehr kleinen Teil der Bevölkerung,
+
+01:06:43.901 --> 01:06:45.400
+<v janhinrikschmidt>wenn wir jetzt über Verschwörungstheorien sprechen.
+
+01:06:45.401 --> 01:06:53.400
+<v janhinrikschmidt>Zwischen diesen beiden Polen, sage ich mal, schwankt so ein bisschen ja auch die öffentliche Debatte und die Debatte der Wissenschaft und der Forschung dazu.
+
+01:06:53.401 --> 01:06:58.400
+<v janhinrikschmidt>Jetzt bei Corona da ist meine eigene Meinungsbildung auch noch nicht abgeschossen.
+
+01:06:58.401 --> 01:07:08.700
+<v janhinrikschmidt>Bei Corona können wir anscheinend beobachten, dass sozusagen die Informationen, die vielleicht ursprünglich mal aus so verschwörungstheoretischen Umfeldern kommen,
+
+01:07:08.701 --> 01:07:15.000
+<v janhinrikschmidt>dass die anscheinend inzwischen auch bei anderen Bevölkerungsteilen verfangen, die von sich selber gar nicht sagen würden,
+
+01:07:15.001 --> 01:07:21.800
+<v janhinrikschmidt>ich hänge jetzt einer Verschwörungstheorie an, aber die zum Beispiel bestimmte Dinge weiterleiten, die also nicht evidenzbasiert sind,
+
+01:07:21.801 --> 01:07:28.000
+<v janhinrikschmidt>das war so in der Frühphase der Pandemie waren das ja auch so WhatsApp-Nachrichten über Ibuprofen,
+
+01:07:28.001 --> 01:07:35.400
+<v janhinrikschmidt>wo angeblich irgendwo in Wien geheimgehaltene Ergebnisse zeigen, dass Ibuprofen schädlich ist und so, das ist so ein Muster.
+
+01:07:35.401 --> 01:07:40.200
+<v janhinrikschmidt>Wenn das auf Menschen trifft, die ein Orientierungsbedürfnis haben und die nicht in der Lage sind, meine ich nicht als Vorwurf,
+
+01:07:40.201 --> 01:07:45.200
+<v janhinrikschmidt>sondern die de facto nicht in der Lage, all diese Informationen auf ihren Wahrheitsgehalt zu prüfen, dann kann es natürlich problematisch werden,
+
+01:07:45.201 --> 01:07:50.700
+<v janhinrikschmidt>wenn also Dinge nicht mehr ganz offensichtlich als Nonsens, Stichwort Chemtrails, zu erkennen sind,
+
+01:07:50.701 --> 01:07:56.500
+<v janhinrikschmidt>sondern irgendwo halt vielleicht was haben, wo Leute sagen, da könnte ja was dran sein und das kann dann problematisch werden,
+
+01:07:56.501 --> 01:08:03.200
+<v janhinrikschmidt>wenn sich solche Dinge dann weiter verbreiten und letztlich Verunsicherungen säen oder eben auch Misstrauen säen.
+
+01:08:03.201 --> 01:08:09.100
+<v timpritlove>Nun stellt sich ja die Frage, wie kann man dem technisch beikommen?
+
+01:08:09.101 --> 01:08:18.400
+<v timpritlove>Also du hast ja gerade drei Sachen genannt, wo man da ansetzen muss, soziologisch, was war das, psychologisch und technisch.
+
+01:08:18.401 --> 01:08:29.300
+<v timpritlove>Technisch wird ja einiges getan, wenn man jetzt heute durch YouTube durchblättert, nahezu alles, was sich in irgendeiner Form mit dieser Corona-Krise beschäftigt,
+
+01:08:29.301 --> 01:08:38.400
+<v timpritlove>ist halt mit einem dicken fetten farbigen Balken unterlegt mit, ja hier Covid-19 Informationen gibt es hier von der Bundeszentrale für Gesundheit etc..
+
+01:08:38.401 --> 01:08:45.400
+<v timpritlove>Oder wenn ich mir halt Flat Earth-Videos anschaue, dann werden entsprechende Wikipedia-Einträge verlinkt.
+
+01:08:45.401 --> 01:08:48.200
+<v timpritlove>Also da wird ja in gewissen Hinsicht schon nachgesteuert.
+
+01:08:48.201 --> 01:08:57.900
+<v timpritlove>Stellt sich natürlich dann auch wieder die Frage, wer definiert jetzt hier, ab wann ein Inhalt überhaupt hinweiswürdig ist
+
+01:08:57.901 --> 01:09:01.200
+<v timpritlove>und natürlich auch, in welche Richtung wird hier ein Hinweis gegeben?
+
+01:09:01.201 --> 01:09:11.300
+<v timpritlove>Weil in dem Moment, wo man natürlich solche technischen Systeme in Place hat, über deren Ausrichtung ja am Ende konkret die Plattform verfügt,
+
+01:09:11.301 --> 01:09:15.100
+<v timpritlove>kann man sich natürlich das Ganze auch genauso vorstellen, dass es in die andere Richtung geht.
+
+01:09:15.101 --> 01:09:15.800
+<v janhinrikschmidt>Ja.
+
+01:09:15.801 --> 01:09:22.700
+<v timpritlove>Berichtest über, ja hier warum Impfstoffe eine tolle Idee sind so und dann hast du irgendwann den roten Balken darunter, der sagt so,
+
+01:09:22.701 --> 01:09:25.000
+<v timpritlove>naja da muss man aber ganz vorsichtig sein so.
+
+01:09:25.001 --> 01:09:27.400
+<v janhinrikschmidt>Ja, extrem heikles Terrain in der Tat.
+
+01:09:27.401 --> 01:09:36.600
+<v janhinrikschmidt>Also man kann es auch auf die Ebene runterbrechen, an welcher Stelle greifen Plattformbetreiber möglicherweise auch in die Meinungsfreiheit, in die Informationsfreiheit ein,
+
+01:09:36.601 --> 01:09:44.400
+<v janhinrikschmidt>dass ich also natürlich nicht nur das Recht habe, meine Meinung frei zu äußern innerhalb strafrechtlicher Grenzen und so weiter,
+
+01:09:44.401 --> 01:09:53.400
+<v janhinrikschmidt>sondern ich habe natürlich auch ein Recht, mich aus den Quellen zu informieren, die ich für richtig halte und sozusagen der Staat soll mir nicht vorschreiben,
+
+01:09:53.401 --> 01:10:00.900
+<v janhinrikschmidt>ob ich an Chemtrails glaube oder nicht, wenn das nicht irgendwie nachher zu Folgen führt, die auch wiederum mit dem Strafrecht kollidieren.
+
+01:10:00.901 --> 01:10:08.100
+<v janhinrikschmidt>Also die Reichsbürger wäre so ein Beispiel, wo es noch klarer erkennbar ist als jetzt bei, sagen wir mal, den Chemtrails,
+
+01:10:08.101 --> 01:10:17.000
+<v janhinrikschmidt>dass man da schon in den Bereich kommt, wo bestimmte Verschwörungstheorien, die Bundesrepublik Deutschland gibt es eigentlich gar nicht,
+
+01:10:17.001 --> 01:10:24.600
+<v janhinrikschmidt>wo die einhergehen mit anscheinend auch der Bereitschaft, tatsächlich vielleicht mal auch notfalls mit Waffengewalt sich irgendwie zu wehren,
+
+01:10:24.601 --> 01:10:29.800
+<v janhinrikschmidt>um es mal irgendwie vorsichtig auszudrücken, und zwar vorsichtig ausgedrückt auch deswegen, weil das natürlich auch eine Grauzone ist
+
+01:10:29.801 --> 01:10:33.400
+<v janhinrikschmidt>und irgendwie ich nicht ganz klar sagen kann, wo die Grenzen sind.
+
+01:10:33.401 --> 01:10:41.300
+<v janhinrikschmidt>Ich kann das nicht sagen als Wissenschaftler oder als Bürger, aber YouTube und Facebook können das eigentlich auch nicht sagen
+
+01:10:41.301 --> 01:10:45.800
+<v janhinrikschmidt>als in den USA beheimateten privatwirtschaftliche Unternehmen.
+
+01:10:45.801 --> 01:10:52.400
+<v janhinrikschmidt>Letzten Endes ist das eine Frage, die Gerichte zu klären haben im Einzelfall und abzuwägen, ob halt bestimmte Meinungsäußerungen oder
+
+01:10:52.401 --> 01:10:57.300
+<v janhinrikschmidt>bestimmtes Verhalten eben jetzt Strafnormen verletzt hat oder nicht.
+
+01:10:57.301 --> 01:11:06.900
+<v janhinrikschmidt>Also da haben wir jetzt lange ausgeholt, um nochmal den Punkt zu machen, dass wir in der Tat in diesem Zuge dieses Medienwandels,
+
+01:11:06.901 --> 01:11:12.500
+<v janhinrikschmidt>mit dem ich vorhin eingeleitet habe, wir haben in den 10er Jahren und jetzt zu Beginn der 20er Jahre die besondere Stellung dieser Intermediäre,
+
+01:11:12.501 --> 01:11:20.500
+<v janhinrikschmidt>dass das sich eben nicht nur auf die Gestalt der Öffentlichkeit auswirkt, sondern auch ganz handfeste regulative Fragen aufgeworfen hat.
+
+01:11:20.501 --> 01:11:28.900
+<v janhinrikschmidt>Wieviel Regulierung sollen und wollen wir eigentlich diesen Intermediären auferlegen, auch wieviele Pflichten zu regulieren,
+
+01:11:28.901 --> 01:11:35.300
+<v janhinrikschmidt>also wieviele Pflichten einzugreifen in die Moderierung von Meinungsäußerungen zum Beispiel oder von Beiträgen.
+
+01:11:35.301 --> 01:11:40.500
+<v janhinrikschmidt>Und an welchen Stellen sagen wir, nein das wollen wir eigentlich nicht, dass das die Plattformbetreiber vielleicht nach intransparenten Kriterien machen,
+
+01:11:40.501 --> 01:11:42.000
+<v janhinrikschmidt>das muss anders geregelt werden.
+
+01:11:42.001 --> 01:11:48.700
+<v janhinrikschmidt>Und ich habe da auch keine umfassend erschöpfende Antwort, weil das auch ganz oft dann wiederum vom Einzelfall
+
+01:11:48.701 --> 01:11:52.500
+<v janhinrikschmidt>oder von der Art der Kommunikation, die reguliert werden soll, abhängt.
+
+01:11:52.501 --> 01:12:03.300
+<v janhinrikschmidt>Aber das ist, wenn man medienpolitisch, medienregulatorisch da darauf guckt, ist das eine Herausforderung, die wir jetzt in den 2020er Jahren dringend angehen müssen,
+
+01:12:03.301 --> 01:12:09.000
+<v janhinrikschmidt>wenn wir irgendwie ein Interesse daran haben, dass wir weiterhin eine demokratische Öffentlichkeit haben wollen und daran sollten wir ein Interesse haben.
+
+01:12:09.001 --> 01:12:18.900
+<v timpritlove>Gibt es denn da irgendwelche Modelle, die da in der Wissenschaft und der Forschung da entsprechend diskutiert werden, wie man da herangehen kann?
+
+01:12:18.901 --> 01:12:27.400
+<v janhinrikschmidt>Ja, also jetzt so richtig ausgefeilte Modelle kann ich nicht liefern, aber man kann natürlich so Kriterien entwickeln.
+
+01:12:27.401 --> 01:12:36.300
+<v janhinrikschmidt>Also jetzt als ein Beispiel was das … nehmen wir mal das Löschen von Inhalten, Löschen von Kommentaren oder auch von Videos,
+
+01:12:36.301 --> 01:12:48.000
+<v janhinrikschmidt>da wäre so ein Kriterium der Transparenz, dass also transparent sein muss, wann welche Inhalte nach sozusagen unter Bezug auf welche Kriterien gelöscht werden
+
+01:12:48.001 --> 01:12:49.700
+<v janhinrikschmidt>oder gelöscht wurden.
+
+01:12:49.701 --> 01:12:58.500
+<v janhinrikschmidt>Man kann auch als Kriterium ansetzen, dass das sozusagen anfechtbar sein muss, dass man als Nutzerin oder als Nutzer eben auch die Möglichkeit hat,
+
+01:12:58.501 --> 01:13:05.300
+<v janhinrikschmidt>in Berufung zu gehen, das wäre so das Äquivalent aus dem Justizsystem, dass ich also sage, ich bin damit nicht einverstanden, dass hier was von mir gelöscht wurde
+
+01:13:05.301 --> 01:13:11.600
+<v janhinrikschmidt>oder dass mein Account gesperrt wurde, ich möchte dagegen vorgehen und dass es dann Mechanismen gibt, wie diese Berufung, so nenne ich es jetzt mal,
+
+01:13:11.601 --> 01:13:14.900
+<v janhinrikschmidt>wiederum verhandle wird.
+
+01:13:14.901 --> 01:13:23.000
+<v janhinrikschmidt>Da ist, gerade was dieses letztere Verfahren angeht, ist Facebook gerade ja auch dabei, ich verfolge das jetzt nicht in den allerletzten Details,
+
+01:13:23.001 --> 01:13:30.700
+<v janhinrikschmidt>aber zumindest vor Corona waren die schon relativ weit, um so eine Art Berufungssystem zu installieren mit einer Instanz,
+
+01:13:30.701 --> 01:13:40.500
+<v janhinrikschmidt>die auch sozusagen organisatorisch weitestgehend von Facebook abgekoppelt ist, um sozusagen eben Facebook gegenüber eine neutrale Instanz,
+
+01:13:40.501 --> 01:13:42.300
+<v janhinrikschmidt>eine Berufungsinstanz zu bilden.
+
+01:13:42.301 --> 01:13:50.500
+<v timpritlove>All diese ganzen regulatorischen Wünsche, die so auf Gerichtsbarkeit basieren, stellt natürlich auch immer gleich die Frage,
+
+01:13:50.501 --> 01:13:53.300
+<v timpritlove>welche Gerichtsbarkeit soll denn jetzt hier greifen?
+
+01:13:53.301 --> 01:14:01.100
+<v timpritlove>Und dass das amerikanische Gesetz jetzt auch nicht unbedingt immer Blaupause sein kann für alle nationalen Reglungen ist auch klar.
+
+01:14:01.101 --> 01:14:14.800
+<v timpritlove>Ich stelle mir halt immer die Frage, ist jetzt eine rechtliche Regulierung unserer Kommunikationskanäle a) überhaupt möglich und b) selbst wenn sie möglich wäre,
+
+01:14:14.801 --> 01:14:17.100
+<v timpritlove>ist es überhaupt zielführend?
+
+01:14:17.101 --> 01:14:27.600
+<v timpritlove>Oder gibt es nicht in gewisser Hinsicht vielleicht auch sogar schon selbstreinigende Kräfte am Horizont, die schon in irgendeiner Form wirken?
+
+01:14:27.601 --> 01:14:33.900
+<v timpritlove>Also von ein paar haben wir ja jetzt auch gesprochen, die zumindest so temporär eine Gegenbewegung ausgeübt haben.
+
+01:14:33.901 --> 01:14:39.900
+<v timpritlove>Da wissen wir jetzt nicht, wie lange das anhält, wir wissen nicht, in welcher Qualität sich das durchsetzt, wir wissen auch nicht,
+
+01:14:39.901 --> 01:14:46.800
+<v timpritlove>ob dem dann wieder die nächste Gegenbewegung entgegenschwappt, die noch schlimmer ist als die letzte.
+
+01:14:46.801 --> 01:14:55.000
+<v timpritlove>Trotzdem wäre es natürlich mal interessant zu hören, was ihr euch sozusagen aus der Medienforschung da bisher für Gedanken gemacht habt,
+
+01:14:55.001 --> 01:15:01.800
+<v timpritlove>inwiefern so eine Selbstregulierung möglich ist oder vielleicht auch wünschenswerter?
+
+01:15:01.801 --> 01:15:04.500
+<v janhinrikschmidt>Ja, also das ist ein ganz wichtiger Punkt, der mir auch wichtig ist.
+
+01:15:04.501 --> 01:15:11.200
+<v janhinrikschmidt>Ich will jetzt nicht die gesamte Regulierung auch wiederum nur den Gerichten zuschieben, genauso wenig wie ich sie nur den Plattformbetreibern zuschieben will,
+
+01:15:11.201 --> 01:15:19.100
+<v janhinrikschmidt>Weil ich glaube, dass wir auch als Gesellschaft, zu der auch die Betreiber und die Gerichte gehören, aber trotzdem als Gesellschaft, als Zivilgesellschaft könnte man sagen,
+
+01:15:19.101 --> 01:15:27.400
+<v janhinrikschmidt>ja ein Interesse daran haben sollten, ebenfalls zu regulieren, also sprich, uns darüber zu verständigen, wie wir eigentlich diese Plattformen verwenden wollen
+
+01:15:27.401 --> 01:15:30.100
+<v janhinrikschmidt>und wie digitale Öffentlichkeit aussehen soll.
+
+01:15:30.101 --> 01:15:40.000
+<v janhinrikschmidt>Das betrifft zum Beispiel den Bereich von Austausch im Netz, wo jetzt gar nicht strafrechtlich relevant, aber trotzdem sozusagen unter der Gürtellinie kommuniziert wird.
+
+01:15:40.001 --> 01:15:48.500
+<v janhinrikschmidt>Wo Menschen sich beschimpfen, wo Argumente ausgetauscht werden, wo es also eben nicht um die Verständigung geht,
+
+01:15:48.501 --> 01:15:54.100
+<v janhinrikschmidt>sondern wo irgendwie unter der Gürtellinie debattiert oder gestritten wird.
+
+01:15:54.101 --> 01:16:01.800
+<v janhinrikschmidt>Was ich damit sagen will ist, dass wir selber als einzelne, als Nutzerinnen und Nutzer, es ja auch mit in der Hand haben, wie diese Plattformen gestaltet werden,
+
+01:16:01.801 --> 01:16:06.400
+<v janhinrikschmidt>dass wir selber eben uns auch bewusst werden, dass wir selber auch eine gewisse Verantwortung haben,
+
+01:16:06.401 --> 01:16:10.500
+<v janhinrikschmidt>was zum Beispiel die Debattenkultur in den sozialen Medien angeht,
+
+01:16:10.501 --> 01:16:16.200
+<v janhinrikschmidt>was aber auch den Informationsfluss angeht, wir selber tragen ja dazu bei, hatten wir gerade auch vorher am Wickel,
+
+01:16:16.201 --> 01:16:21.600
+<v janhinrikschmidt>indem wir selber Informationen weiterleiten und verbreiten, tragen wir auch zu dieser Öffentlichkeit bei.
+
+01:16:21.601 --> 01:16:29.000
+<v janhinrikschmidt>Und das ist also ein Punkt, wo es auch Ansätze gibt, ich denke da zum Beispiel auch an so Initiativen wie ichbinhier, wo versucht wird,
+
+01:16:29.001 --> 01:16:40.400
+<v janhinrikschmidt>gegen Hassrede im Netz gegenzusteuern, indem Menschen nicht individuell, sondern in größeren Gruppen, in bestimmte Räume im Netz reingehen und Gegenrede üben.
+
+01:16:40.401 --> 01:16:43.900
+<v janhinrikschmidt>Zu versuchen, Diskussionen zu versachlichen oder zumindest andere Argumente einzubringen.
+
+01:16:43.901 --> 01:16:52.300
+<v janhinrikschmidt>Das ist jetzt nur ein Beispiel unter vielen, dass wir eben nicht uns drauf verlassen sollten oder verlassen dürfen, dass es irgendwann mal ein Gericht schon entscheiden wird,
+
+01:16:52.301 --> 01:16:58.300
+<v janhinrikschmidt>dass ein bestimmter Kommentar unzulässig ist, sondern dass wir selber das auch mit in der Hand haben.
+
+01:16:58.301 --> 01:17:08.000
+<v timpritlove>Ja, worauf konzentriert sich denn jetzt die Medienforschung oder zumindest deine Arbeit zu diesem Zeitpunkt?
+
+01:17:08.001 --> 01:17:12.200
+<v timpritlove>Was ist denn das, worauf man als nächstes blicken möchte?
+
+01:17:12.201 --> 01:17:18.000
+<v janhinrikschmidt>Also ich selber kann das auch tatsächlich an einem ganz konkreten Datum festmachen, nämlich am 01. Juni,
+
+01:17:18.001 --> 01:17:23.700
+<v janhinrikschmidt>das ist das Startdatum für das Forschungsinstitut gesellschaftlicher Zusammenhalt.
+
+01:17:23.701 --> 01:17:30.700
+<v janhinrikschmidt>Das ist ein Zusammenschluss von insgesamt elf Universitäten und Instituten aus ganz Deutschland.
+
+01:17:30.701 --> 01:17:38.300
+<v janhinrikschmidt>Da sind wir als Bredow-Institut auch dabei und wir haben das Glück und die Ehre, dass wir erst mal auf vier Jahre gefördert werden vom Bundesforschungsministerium,
+
+01:17:38.301 --> 01:17:43.800
+<v janhinrikschmidt>um uns aus ganz unterschiedlichen Perspektiven mit Fragen des gesellschaftlichen Zusammenhalts auseinanderzusetzen.
+
+01:17:43.801 --> 01:17:50.100
+<v janhinrikschmidt>Da sind also Soziologen dabei, Politikwissenschaftlerinnen, Geschichtswissenschaften ist vertreten, Raumwissenschaften
+
+01:17:50.101 --> 01:17:53.300
+<v janhinrikschmidt>und wir eben als Kommunikations- und Medienforschung.
+
+01:17:53.301 --> 01:18:02.300
+<v janhinrikschmidt>Und es wird drum gehen, empirische Forschung, aber auch sozusagen begrifflich theoretische Arbeit rund um dieses Konzept gesellschaftlicher Zusammenhalt zu machen.
+
+01:18:02.301 --> 01:18:04.600
+<v janhinrikschmidt>Was ist das?
+
+01:18:04.601 --> 01:18:06.800
+<v janhinrikschmidt>Ist das immer gut?
+
+01:18:06.801 --> 01:18:09.500
+<v janhinrikschmidt>Gibt es Situationen, wo es vielleicht auch zu viel Zusammenhalt gibt?
+
+01:18:09.501 --> 01:18:16.500
+<v janhinrikschmidt>Wie ist es empirisch um den gesellschaftlichen Zusammenhalt in Deutschland bestellt innerhalb bestimmter Gruppen, in bestimmten Regionen?
+
+01:18:16.501 --> 01:18:23.300
+<v janhinrikschmidt>Wir untersuchen am Bredow-Institut zum Beispiel die Frage, inwiefern Journalismus
+
+01:18:23.301 --> 01:18:30.500
+<v janhinrikschmidt>oder auch öffentlich-rechtliche Medienangebote zu gesellschaftlichem Zusammenhalt beitragen können oder sollten.
+
+01:18:30.501 --> 01:18:37.500
+<v janhinrikschmidt>Und ich habe die Ehre und ein bisschen auch die Pflicht oder die Bürde, dass ich die Aktivitäten, die wir in Hamburg zu dem Thema machen,
+
+01:18:37.501 --> 01:18:44.600
+<v janhinrikschmidt>also die einzelnen Projekte, dass ich die koordiniere, also nicht alleine, aber sozusagen ich steuere das so ein bisschen
+
+01:18:44.601 --> 01:18:52.600
+<v janhinrikschmidt>und werde mich also in den nächsten vier Jahren nochmal ganz speziell mit dieser Frage auseinandersetzen, welche Rolle Medien für gesellschaftlichen Zusammenhalt spielen.
+
+01:18:52.601 --> 01:18:55.000
+<v timpritlove>Wo greift man da an?
+
+01:18:55.001 --> 01:19:00.200
+<v timpritlove>Also was könnte da jetzt so ein erster Blickpunkt sein, den man versucht zu gewinnen?
+
+01:19:00.201 --> 01:19:01.700
+<v janhinrikschmidt>Ich greife mal zwei Sachen raus.
+
+01:19:01.701 --> 01:19:09.100
+<v janhinrikschmidt>Es gibt ein Teilprojekt, also wir haben insgesamt vier Forschungsvorhaben in Hamburg eingebracht
+
+01:19:09.101 --> 01:19:15.000
+<v janhinrikschmidt>und eins, was eher so Transferaktivitäten, also Wissensvermittlung bündelt, aber ein Forschungsvorhaben,
+
+01:19:15.001 --> 01:19:22.300
+<v janhinrikschmidt>was sich speziell mit der Rolle des Journalismus für gesellschaftlichen Zusammenhalt beschäftigt, das leitet Wiebke Lose, meine Kollegin,
+
+01:19:22.301 --> 01:19:29.100
+<v janhinrikschmidt>da wird es am Anfang erst mal um die Frage gehen, gibt es so was wie zusammenhaltssensiblen Journalismus?
+
+01:19:29.101 --> 01:19:32.200
+<v janhinrikschmidt>Wenn ja, also wie würde der aussehen?
+
+01:19:32.201 --> 01:19:38.400
+<v janhinrikschmidt>Und dann in dem zweiten Schritt wird es zwei Befragungen geben, eine unter Journalistinnen und Journalisten
+
+01:19:38.401 --> 01:19:45.700
+<v janhinrikschmidt>und eine bevölkerungsrepräsentative Befragung, die die wechselseitigen Vorstellungen und Erwartungen abgleicht.
+
+01:19:45.701 --> 01:19:52.300
+<v janhinrikschmidt>Also die Journalisten werden gefragt unter anderem, seht ihr es als eure Aufgabe an, für gesellschaftlichen Zusammenhalt beizutragen?
+
+01:19:52.301 --> 01:19:55.900
+<v janhinrikschmidt>Und dann wird es ziemlich sicher innerhalb der Journalisten in Deutschland unterschiedliche Ansichten zu geben.
+
+01:19:55.901 --> 01:20:03.600
+<v janhinrikschmidt>Und in der Bevölkerungsbefragung werden wir unter anderem die Frage stellen, sollte der Journalismus zum gesellschaftlichen Zusammenhalt beitragen?
+
+01:20:03.601 --> 01:20:06.000
+<v janhinrikschmidt>Und dann kann man im Prinzip Erwartungen und Erwartungserwartungen abgleichen.
+
+01:20:06.001 --> 01:20:10.400
+<v janhinrikschmidt>Das ist so ein Beispiel von einem der Projekte, die wir in Hamburg machen.
+
+01:20:10.401 --> 01:20:16.400
+<v janhinrikschmidt>Das andere ist eher so eine Art Infrastrukturprojekt, was ich aber sehr spannend und interessant finde.
+
+01:20:16.401 --> 01:20:21.800
+<v janhinrikschmidt>Da wird es drum gehen, dass wir auch sozusagen die Infrastruktur bei uns am Institut aufbauen,
+
+01:20:21.801 --> 01:20:25.200
+<v janhinrikschmidt>um so Debatten in den sozialen Medien beobachten zu können.
+
+01:20:25.201 --> 01:20:29.800
+<v janhinrikschmidt>Das ist jetzt auch nichts revolutionär neues, das machen schon viele Forschungsteams an verschiedenen Standorten.
+
+01:20:29.801 --> 01:20:34.300
+<v janhinrikschmidt>Wir machen das bei uns am Institut bisher noch eher unsystematisch und haben jetzt die Möglichkeit,
+
+01:20:34.301 --> 01:20:40.900
+<v janhinrikschmidt>eben das Ganze im Rahmen dieses Forschungsinstituts gesellschaftlicher Zusammenhalt eben auf einen längeren Zeitraum
+
+01:20:40.901 --> 01:20:44.300
+<v janhinrikschmidt>und auch ein bisschen grundsätzlicher sozusagen anzugehen.
+
+01:20:44.301 --> 01:20:54.200
+<v janhinrikschmidt>Zum Beispiel dass wir halt Tools entwickelt, um die Kommunikation von Politikerinnen und Politikern auf Twitter oder auf Instagram sozusagen nachzeichnen zu können.
+
+01:20:54.201 --> 01:20:59.300
+<v janhinrikschmidt>Und wir möchten die Daten und die Werkzeuge, die wir dann da entwickeln, eben auch anderen Instituten innerhalb des Verbundes,
+
+01:20:59.301 --> 01:21:04.500
+<v janhinrikschmidt>aber perspektivisch auch darüber hinaus, zur Verfügung stellen, damit die dann eigene Fragestellungen damit beantworten können.
+
+01:21:04.501 --> 01:21:11.100
+<v timpritlove>Einfach auch um so ein paar quantitative Rahmendaten zu gewinnen, um einfach auch mal zu belegen, okay so und so läuft das jetzt gerade.
+
+01:21:11.101 --> 01:21:12.200
+<v janhinrikschmidt>Genau.
+
+01:21:12.201 --> 01:21:22.200
+<v timpritlove>Ja, das ist ja im Datenjournalismus auch so ein Bereich, der in den letzten Jahren und auch jetzt gerade in diesem Jahr ein besonderes Hoch erlebt hat.
+
+01:21:22.201 --> 01:21:29.300
+<v timpritlove>Auch so ein Thema gewesen, diese Analyse dieser Netzwerkstrukturen, einfach um zu verstehen, was dort abläuft.
+
+01:21:29.301 --> 01:21:35.800
+<v timpritlove>Was ist deine Erwartung, wie die Ergebnisse solcher Forschungsinhalte dann wiederum in die reale Gesellschaft zurückspielen können?
+
+01:21:35.801 --> 01:21:36.900
+<v janhinrikschmidt>Ich sage mal, gemischt.
+
+01:21:36.901 --> 01:21:48.000
+<v janhinrikschmidt>Also mir ist bewusst, dass es ein Thema ist, also gesellschaftlicher Zusammenhalt ist ein auch gesellschaftlich umkämpfte Frage.
+
+01:21:48.001 --> 01:21:56.700
+<v janhinrikschmidt>Überhaupt die Frage, gibt es den noch, erodiert der oder nicht oder artikuliert der sich anders, ist schon beantwortet.
+
+01:21:56.701 --> 01:22:03.300
+<v janhinrikschmidt>Vielleicht unterschiedliche politische Strömungen anders, so dass wir auch mit unseren wissenschaftlichen Forschungen da uns halt auf ein Gebiet begeben,
+
+01:22:03.301 --> 01:22:09.200
+<v janhinrikschmidt>wo wir auch in gesellschaftliche Debatten reingezogen werden und wo wir nicht davon ausgehen können,
+
+01:22:09.201 --> 01:22:14.000
+<v janhinrikschmidt>da muss jetzt bloß der Kommunikationswissenschaftler aus Hamburg kommen und sagen, so ist es und dann glaubt das die ganze Welt.
+
+01:22:14.001 --> 01:22:15.100
+<v janhinrikschmidt>Das wäre ja naiv.
+
+01:22:15.101 --> 01:22:17.200
+<v timpritlove>Was?
+
+01:22:17.201 --> 01:22:18.300
+<v janhinrikschmidt>Naja, ich hätte es auch …
+
+01:22:18.301 --> 01:22:26.200
+<v janhinrikschmidt>Nein, Spaß beiseite, also ich meine, das ist die gleich Debatte, die wir jetzt im Moment deutlich pointierter ja im Zusammenhang mit Corona sehen
+
+01:22:26.201 --> 01:22:34.100
+<v janhinrikschmidt>mit der Frage, wie weit richten wir uns als Gesellschaft eigentlich an dem wissenschaftlichen Disziplin, nämlich der Virologie oder der Epidemiologie aus?
+
+01:22:34.101 --> 01:22:42.900
+<v janhinrikschmidt>In kleinerem Maßstab vielleicht ein bisschen abgeschichtet ist das aber die gleiche Frage, die uns dann irgendwann vor die Füße fallen wird.
+
+01:22:42.901 --> 01:22:51.900
+<v janhinrikschmidt>Inwiefern ist das, was wir wissenschaftlich zu dem Thema erforschen und an Befunden kommunizieren, inwiefern findet das Gehör in der Politik,
+
+01:22:51.901 --> 01:22:54.100
+<v janhinrikschmidt>aber auch in der Gesellschaft darüber hinaus.
+
+01:22:54.101 --> 01:23:02.000
+<v janhinrikschmidt>Wir wollen das in dem Gesamtinstitut, also über diese elf Standorte hinweg unter anderem dadurch auch nicht lösen, aber dem begegnen,
+
+01:23:02.001 --> 01:23:06.900
+<v janhinrikschmidt>indem wir nicht sagen, wir forschen jetzt vier Jahre und am Ende gibt es ein Buch, mal ganz platt gesagt,
+
+01:23:06.901 --> 01:23:13.300
+<v janhinrikschmidt>sondern Transferaktivitäten sind von vornherein an allen Standorten in allen Projekten eingeplant.
+
+01:23:13.301 --> 01:23:18.400
+<v janhinrikschmidt>Und vor allem, Transfer heißt eben nicht, wir die Wissenschaft erklären euch jetzt mal wie die Welt wirklich ist,
+
+01:23:18.401 --> 01:23:24.800
+<v janhinrikschmidt>sondern Transfer heißt auch, dass wir versuchen, soweit das geht, im Forschungsprozess stimmen aus der Gesellschaft reinzubringen.
+
+01:23:24.801 --> 01:23:32.100
+<v janhinrikschmidt>Dass wir Diskussionsformate zulassen, wo also gegenseitige Meinungen ausgetauscht werden.
+
+01:23:32.101 --> 01:23:40.100
+<v janhinrikschmidt>Das es also in all diesen Fällen darum geht, dass wir uns als Wissenschaftlerinnen und Wissenschaftler eben auch in die Gesellschaft hinein begeben müssen,
+
+01:23:40.101 --> 01:23:45.600
+<v janhinrikschmidt>um für das, was wir wissenschaftlich erforschen, zu Gehör zu bringen, aber auch irgendwie in eine Diskussion einzusteigen,
+
+01:23:45.601 --> 01:23:49.800
+<v janhinrikschmidt>ob wir denn eine angemessene Beschreibung der Wirklichkeit liefern.
+
+01:23:49.801 --> 01:23:57.200
+<v janhinrikschmidt>Klar sagen wir als Wissenschaftler, die Art, wie wir Wissen produzieren, die hat einen besonderen Geltungsanspruch,
+
+01:23:57.201 --> 01:23:59.200
+<v janhinrikschmidt>das ist unsere Aufgabe als Wissenschaftler.
+
+01:23:59.201 --> 01:24:06.600
+<v janhinrikschmidt>Wir stellen uns Fragen und beantworten die dann nach nachvollziehbaren Kriterien und versuchen eigentlich auch immer das, was wir herausfinden,
+
+01:24:06.601 --> 01:24:09.000
+<v janhinrikschmidt>sozusagen wiederum zu falsifizieren.
+
+01:24:09.001 --> 01:24:14.500
+<v janhinrikschmidt>So nach dem Motto, wenn du mir ein besseres Argument bringst, dann hast du recht, dann lag ich falsch
+
+01:24:14.501 --> 01:24:17.900
+<v janhinrikschmidt>und dann versuchen wir, dein Argument irgendwie wieder zu entkräften.
+
+01:24:17.901 --> 01:24:23.400
+<v janhinrikschmidt>Das geht also auch immer mit Zweifel und mit sozusagen Veränderungen von Wissen einher.
+
+01:24:23.401 --> 01:24:31.000
+<v janhinrikschmidt>Aber ja das ist eben nicht die einzige Art von gültigem Wissen in der Gesellschaft, sondern aus Sicht der Politik kommen da vielleicht auch noch andere Überlegungen
+
+01:24:31.001 --> 01:24:32.400
+<v janhinrikschmidt>und andere Dinge ins Spiel.
+
+01:24:32.401 --> 01:24:39.500
+<v janhinrikschmidt>Wir versuchen natürlich als Wissenschaft unser Wissen auch so zu transportieren und so zu vermitteln und so entstehen zu lassen über,
+
+01:24:39.501 --> 01:24:41.300
+<v janhinrikschmidt>dass das akzeptiert wird.
+
+01:24:41.301 --> 01:24:51.100
+<v janhinrikschmidt>Aber wie gesagt, ich wäre naiv, wenn ich jetzt sage, die Welt wartet jetzt nur drauf, dass diese eine Studie, die wir machen oder der Forschungsbefund jetzt endlich die Welt als Ganzes erklärt, das wäre naiv.
+
+01:24:51.101 --> 01:25:00.900
+<v timpritlove>Naja, aber aufgeben darf man ja nicht und diese Zeit, die jetzt gerade so ein bisschen in dem Ruf steht, so eine wissenschaftsverachtende Zeit zu sein,
+
+01:25:00.901 --> 01:25:06.700
+<v timpritlove>wir wissen, das kann sich auch alles schnell wieder ändern, wenn das entsprechend ausschlägt.
+
+01:25:06.701 --> 01:25:13.000
+<v timpritlove>Gerade diese Corona-Krise ist da an der Stelle natürlich auch eine Chance, gerade weil man eben jetzt sieht so,
+
+01:25:13.001 --> 01:25:19.900
+<v timpritlove>ja okay gut, ist vielleicht mal gar nicht so eine schlechte Idee, auf die Wissenschaft zu hören, weil in dem Moment, wo man es nicht macht,
+
+01:25:19.901 --> 01:25:23.700
+<v timpritlove>führt es eben sofort zu einer Katastrophe.
+
+01:25:23.701 --> 01:25:34.600
+<v timpritlove>Jetzt ist Virologie nicht gleich alles andere, hast du ja auch schon gesagt, aber ich denke, es gibt überhaupt grundsätzlich mehr Anlass und gab es schon immer diese Anlass,
+
+01:25:34.601 --> 01:25:39.300
+<v timpritlove>mehr auf die Wissenschaft zu hören und ich hoffe, das wird dann auch.
+
+01:25:39.301 --> 01:25:47.900
+<v janhinrikschmidt>Das noch, jetzt bin ich endgültig jenseits eigenen Betätigungsfeldes, aber das Ganze wird ja umso drängender, wenn man sagt,
+
+01:25:47.901 --> 01:25:52.500
+<v janhinrikschmidt>jetzt haben wir die Pandemie, aber wir haben gleichzeitig ja auch noch den Klimawandel und es ja schon interessant ist,
+
+01:25:52.501 --> 01:26:01.700
+<v janhinrikschmidt>dass bei der Pandemie in einem relativ kurzen Zeitraum eben klar wurde, die Politik richtet sich nach Empfehlungen der Wissenschaft,
+
+01:26:01.701 --> 01:26:08.600
+<v janhinrikschmidt>während es beim Klimawandel anscheinend größere Hürden oder Widerstände gibt.
+
+01:26:08.601 --> 01:26:10.100
+<v timpritlove>Schwierigkeiten gibt, ja.
+
+01:26:10.101 --> 01:26:15.500
+<v janhinrikschmidt>Die, glaube ich, nicht an wissenschaftlichem Wissen per se liegen, sondern a) wahrscheinlich an der Art des Problems
+
+01:26:15.501 --> 01:26:21.600
+<v janhinrikschmidt>und b) den Möglichkeiten zur Lösung und c) den Interessen, die daran hängen und das war jetzt so ad hoc.
+
+01:26:21.601 --> 01:26:28.200
+<v janhinrikschmidt>Das wäre ein eigener Podcast, ich hinterlasse den Gedanken nur einfach nochmal, Stichwort Wissenschaftsgläubigkeit oder Wissenschaftsvertrauen,
+
+01:26:28.201 --> 01:26:34.800
+<v janhinrikschmidt>das wird uns in der Bewältigung der Klimakrise wird uns das auch nochmal dringend beschäftigen müssen.
+
+01:26:34.801 --> 01:26:35.900
+<v timpritlove>Ja, wird sich zeigen.
+
+01:26:35.901 --> 01:26:50.700
+<v timpritlove>Ich meine, die Zeit der Corona-Krise mit ihren ganzen Diskussionen mit flatten the curve, genauso eine ähnliche Kurve haben wir beim Klimawandel im Prinzip genauso zu bearbeiten.
+
+01:26:50.701 --> 01:26:53.800
+<v timpritlove>Gut, das wird sich zeigen.
+
+01:26:53.801 --> 01:26:57.000
+<v timpritlove>Und da werden wir hier sicherlich auch bei Forschergeist nochmal drauf eingehen.
+
+01:26:57.001 --> 01:27:00.400
+<v timpritlove>Aber ich würde sagen, für heute machen wir hier den Deckel erst mal zu.
+
+01:27:00.401 --> 01:27:02.200
+<v timpritlove>Jan vielen Dank für die Ausführungen.
+
+01:27:02.201 --> 01:27:03.200
+<v janhinrikschmidt>Gerne.
+
+01:27:03.201 --> 01:27:07.500
+<v timpritlove>Und ja, vielen Dank fürs Zuhören hier bei Forschergeist, bald geht es wieder weiter.
+
+01:27:07.501 --> 01:27:09.800
+<v timpritlove>Ich sage, tschüss und bis bald.

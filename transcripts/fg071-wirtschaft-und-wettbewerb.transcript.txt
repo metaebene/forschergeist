@@ -1,0 +1,1485 @@
+﻿[00:00:00-0 @Intro]
+[00:00:43-4 @timpritlove] Hallo und herzlich willkommen zu Forschergeist, dem Podcast des Stifterverbands für die deutsche Wissenschaft.
+[00:00:49-0 @timpritlove] Mein Name ist Tim Pritlove und ich begrüße alle zu Ausgabe Nummer 71 unserer immer weiter voranschreitenden Gesprächsserie über alle möglichen Einblicke,
+[00:01:00-7 @timpritlove] die uns die Wissenschaft bietet oder die wir vielleicht auch selbst in die Wissenschaft hier gewinnen wollen.
+[00:01:07-4 @timpritlove] Und nun haben wir ja schon einen ziemlich breites Bouquet an Themen abgearbeitet hier in den letzten fünf Jahren.
+[00:01:15-4 @timpritlove] Eins ist ein bisschen zu kurz gekommen, die Wirtschaft.
+[00:01:19-1 @timpritlove] Was nicht bedeutet, dass das uninteressant ist und vor allem ist ja auch die Erkenntnis, dass Wirtschaft nicht nur stattfindet und ein tägliches politisches Thema ist,
+[00:01:29-2 @timpritlove] sondern dass daran auch geforscht wird, auch nochmal ganz interessant.
+[00:01:33-9 @timpritlove] Und um darüber ein wenig zu sprechen, insbesondere über die Fragen des Wettbewerbs in der Wirtschaft, begrüßte ich zunächst einmal meinen Gesprächspartner,
+[00:01:41-5 @timpritlove] nämlich Justus Haukap, schönen guten Tag.
+[00:01:43-5 @justushaukap] Ja, guten Tag.
+[00:01:43-7 @timpritlove] Herzlich willkommen bei Forschergeist.
+[00:01:47-2 @timpritlove] Ja, Herr Haukap, sie sind in Düsseldorf, dort als Wirtschaftswissenschaftler an der Heinrich-Heine-Universität aktiv.
+[00:01:57-7 @timpritlove] Dort auch mittlerweile Dekan der wirtschaftswissenschaftlichen Fakultät, wenn ich das richtig sehe.
+[00:02:05-3 @justushaukap] Gewesen.
+[00:02:05-9 @timpritlove] Gewesen, ist schon wieder vorbei?
+[00:02:07-7 @justushaukap] Genau.
+[00:02:08-0 @timpritlove] Ach okay, gut na dann wissen wir es jetzt.
+[00:02:12-5 @timpritlove] Aber das wird ja sicherlich auch einen gewissen Vorlauf gehabt haben.
+[00:02:15-7 @timpritlove] Wie interessiert man sich denn eigentlich für Wirtschaft?
+[00:02:19-2 @timpritlove] Weil ich fand das ja eigentlich ein bisschen unspannend.
+[00:02:22-8 @timpritlove] Ich weiß nicht genau warum, aber war so.
+[00:02:25-9 @timpritlove] Und ich dachte mir immer so, ich mache lieber Computer.
+[00:02:29-4 @timpritlove] Gibt es da irgendwie so einen Auslöser oder war das so, entweder was mit Tieren oder was mit Wirtschaft?
+[00:02:37-5 @justushaukap] Irgendwas mit Medien.
+[00:02:38-4 @timpritlove] Oder was mit Medien, kann man auch machen.
+[00:02:43-6 @justushaukap] Also wie bei vielen ist es, glaube ich, die Ökonomie studieren, eine gewissen Zufälligkeit, dass man da reingerät.
+[00:02:51-9 @justushaukap] Denn das ist ja für die allermeisten kein Fach, was man in der Schule schon hat und von daher ist es jetzt nicht wie Chemie oder Geschichte
+[00:02:59-3 @justushaukap] oder meinetwegen auch Deutsch, wo man sich recht gut in der Schule schon vorstellen kann, was dann hinterher passiert,
+[00:03:04-5 @justushaukap] sondern eher so wie Soziologie oder auch Politikwissenschaft, dass man merkt, man hat ein Interesse für bestimmte Fragen.
+[00:03:12-7 @justushaukap] Und bei mir war es konkret so, dass ich schon gemerkt habe, ich interessiere mich für gesellschaftliche Zusammenhänge sehr stark,
+[00:03:18-8 @justushaukap] also viele Ökonomen, zumindest viele Volkswirte, haben sehr früh politisches Interesse eben auch und da liegen dann eigentlich fast nur Politikwissenschaft,
+[00:03:28-3 @justushaukap] Sozialwissenschaft oder Ökonomie nahe zu studieren.
+[00:03:32-0 @justushaukap] Und bei mir war es dann relativ trivial, dass ich am Anfang gedacht habe, ich glaube, dass ich damit die besten Berufsaussichten habe.
+[00:03:39-2 @justushaukap] Hatte damals noch die Idee, dass ich Journalist werden wollte und da war so relativ klar, dass Wirtschaftsjournalisten Mangelware waren,
+[00:03:48-4 @justushaukap] als ich angefangen habe zu studieren.
+[00:03:49-6 @justushaukap] Da habe ich gesagt, na dann studiere halt Wirtschaft, dann hast du gute Chancen Journalist werden zu können.
+[00:03:55-4 @timpritlove] Volkswirtschaft?
+[00:03:56-6 @justushaukap] Volkswirtschaft genau.
+[00:03:57-5 @timpritlove] Big Picture.
+[00:03:58-9 @justushaukap] Das ist genau, also eher die gesellschaftlichen Fragen, weniger die Fragen des Management von Unternehmen,
+[00:04:04-5 @justushaukap] sondern eher die Frage der Wirtschaftspolitik, also wie regelt man Märkte, wie regelt man Dinge im Leben.
+[00:04:14-0 @justushaukap] Letztendlich damit für möglichst viele das beste rauskommt.
+[00:04:18-4 @timpritlove] Journalismus hat ja nicht unbedingt jeder als erstes im Blick, also ich kenne auch die andere Linie, wo man erst mal so full on Wissenschaft geht
+[00:04:26-2 @timpritlove] und dann denkt man sich so, alles ganz interessant, aber ich halte mich lieber auf diesem Überblicksbereich und komme dann zum Journalismus.
+[00:04:36-0 @justushaukap] Ja, ich bin mir nicht ganz sicher, die Menschen sind ja so unterschiedlich.
+[00:04:41-3 @justushaukap] Ich habe den Eindruck, viele, die Abitur machen, erst mal haben noch nicht im Blick, dass sie Wissenschaftler werden wollen zu dem Zeitpunkt.
+[00:04:46-2 @justushaukap] Das mag es auch geben, vielleicht in den eher technischen Fächern.
+[00:04:50-6 @justushaukap] In der Ökonomie oder in den Sozialwissenschaften ist das, glaube ich, eher selten, dass man nach dem Abi sagt, ich will Wissenschaftler werden
+[00:04:56-6 @justushaukap] und deswegen studiere ich jetzt XYZ.
+[00:05:00-1 @justushaukap] Sondern das Interesse am Studium das ist so von den Kollegen, die ich kenne, aber auch von mir selber, so gewachsen, dass man gemerkt hat,
+[00:05:10-6 @justushaukap] das interessiert einen immer mehr und man merkt, je weiter man studiert, wie viel man noch nicht weiß und denkt sich,
+[00:05:17-2 @justushaukap] so dann führe ich das noch ein bisschen fort und so war das bei mir auch.
+[00:05:18-5 @justushaukap] Habe ich gesagt, ich würde gerne noch promovieren, dann habe ich nochmal vier-fünf Jahre Zeit, mich mehr mit den Materien auseinander zu setzen,
+[00:05:28-8 @justushaukap] und da merkt man vielleicht, das ist immer noch nicht genug, ich würde gerne noch mehr wissen und das macht mir Spaß, Dinge zu erforschen,
+[00:05:36-0 @justushaukap] Dingen auf den Grund zu gehen und so bleibt man dann vielleicht in der Wissenschaft, während andere dann die Interessen sich anders entwickeln.
+[00:05:44-1 @justushaukap] Und sagen, eine wissenschaftlich Karriere ist mir zu riskant oder ich mach lieber einen wissenschaftlichen…
+[00:05:50-6 @justushaukap] mich interessiert mehr die Breite, möglichst viele Dinge, weniger das Tiefe.
+[00:05:55-3 @justushaukap] Und ich glaube, das ist dann eben bei vielen sehr unterschiedlich.
+[00:05:58-6 @justushaukap] Bei mir selber war es so, dass ich gemerkt habe, das macht mir so viel Spaß, dass ich das lieber gerne weitermachen möchte.
+[00:06:04-1 @timpritlove] Na ich muss im Rückblick auch sagen, wenn man erst mal so ein halbes Leben dahingelebt hat, dann sieht man die Dinge ja auch anders.
+[00:06:12-3 @timpritlove] Jetzt würde mich ehrlich gesagt so eine Volkswirtschaftslehre zumindest ganz allgemein auch interessieren, weil es halt einfach etwas ist,
+[00:06:17-9 @timpritlove] was einem gleich so einen unglaublichen Überblick gibt über die Zusammenhänge der Gesellschaft.
+[00:06:22-5 @timpritlove] Stellt sich natürlich die Frage, leistet dieses Studium das auch, also ist es in der derzeitigen Ausprägung, oder vielmehr in der damaligen Ausprägung,
+[00:06:32-4 @timpritlove] auch etwas, wo man dann herausgeht und sagt, so jetzt habe ich aber auch einen Überblick?
+[00:06:35-8 @timpritlove] Oder ist das eher so eins von diesen Studien, wo man sich danach denkt, na das hätte ich mir ja auch schenken können.
+[00:06:39-8 @justushaukap] Naja das ist sicherlich ganz unterschiedlich und es gibt sicherlich kein Studium, wo man nicht auch Dinge verbessern könnte
+[00:06:46-2 @justushaukap] und natürlich gibt es da auch immer Wahlmöglichkeiten, das hängt natürlich auch ein bisschen von den Studierenden selber ab,
+[00:06:52-2 @justushaukap] wie man sich dann ausbreitet im Studium.
+[00:06:55-5 @justushaukap] Es gibt die Studenten, das weiß ich ja von uns selber auch, die versuchen auf möglichst schlankem Fuß da durchzukommen
+[00:07:02-9 @justushaukap] und die gehen den Weg des geringsten Widerstandes und möglichst keine zusätzliche Arbeit,
+[00:07:07-0 @justushaukap] und für die ist vielleicht auch gar nicht so sehr der Drang da, möglichst viel Wissen oder möglichst viel auch Methoden kennenzulernen,
+[00:07:15-0 @justushaukap] sondern eher, Hauptsache ich habe nachher einen Abschluss und finde einen Job, der mich halbwegs ernährt und wo ich dann auch noch genug Freizeit habe,
+[00:07:20-9 @justushaukap] das ist ja auch eine völlig berechtigte Motivation.
+[00:07:23-3 @timpritlove] Ja.
+[00:07:24-0 @justushaukap] Während es andere gibt, die dann sagen, ich habe diesen Wissensdurst, ich möchte möglichst viel lernen.
+[00:07:30-3 @timpritlove] Ein Forschergeist.
+[00:07:30-8 @justushaukap] Ja, ein Forschergeist und die dann auch sagen, ich mach auch extra Veranstaltungen, von denen ich einfach was lerne.
+[00:07:41-9 @justushaukap] Also ich selber, das ist eine meiner Lieblingsveranstaltungen schon seit Jahren, so ein sogenanntes Kolloquium für Irre, nenne ich das, an der Uni.
+[00:07:49-6 @timpritlove] Kolloquium für Irre?
+[00:07:51-5 @justushaukap] Genau, und das Kolloquium besteht darin, ich sage, wir treffen uns, das mache ich immer im Wintersemester abends, lesen ein Buch zusammen
+[00:07:59-0 @justushaukap] jede Woche ein Kapitel, einer von den Studierenden muss das immer vorstellen das Kapitel, dann diskutieren wir das.
+[00:08:05-3 @justushaukap] Und ich sage, das ist für Irre in dem Sinne, weil ich garantiere euch, es ist garantiert klausurirrelevant
+[00:08:09-6 @justushaukap] und ihr kriegt auch keinerlei Punkte oder irgendwas dafür, ihr könnt euch nur mit mir abends treffen und wir diskutieren.
+[00:08:14-0 @timpritlove] Aber es könnte spannend werden.
+[00:08:16-7 @justushaukap] Und es kommen Leute.
+[00:08:17-0 @justushaukap] Also da kommen dann genau diese Leute, die sagen, natürlich will ich auch einen Abschluss haben,
+[00:08:21-8 @justushaukap] aber ich komme einfach, weil es mich so interessiert im Grunde genommen und man zieht sich genau die Leute raus, die sagen …
+[00:08:27-8 @timpritlove] Indem man einfach so diesen klassischen Incentive der Weiterbildungsstufe rausnimmt.
+[00:08:33-2 @justushaukap] Man kriegt keinen Schein, man kriegt nichts, außer die Erkenntnis.
+[00:08:35-8 @timpritlove] Was kriegt man denn da für Themen vorgeworfen?
+[00:08:38-9 @justushaukap] Im letzten Jahr haben wir ein Buch diskutiert von einem amerikanischen Autor über die Sharing Economy.
+[00:08:44-9 @justushaukap] Es hat Sharing Economy und verwandte Felder, sage ich mal.
+[00:08:52-8 @justushaukap] Im Jahr davor haben wir ein Buch gelesen, ich überlege gerade mal, ich glaube, da war es, glaube ich, Angus Deaton,
+[00:08:56-9 @justushaukap] also der damalige Nobelpreisträger für Ökonomie, der sehr viel über, wie entwickelt sich Armut, Ungleichheit, Gesundheit in der Welt,
+[00:09:07-9 @justushaukap] dann haben wir gelesen Daron Acemoglu, auch einer der bekanntesten Ökonomen weltweit, „Why Nations Fail“, also ich weiß gar nicht,
+[00:09:15-0 @justushaukap] wie es auf Deutsch genau heißt das Buch, der sagt sozusagen, warum bestimmte Volkswirtschaften sich nicht weiterentwickeln
+[00:09:24-1 @justushaukap] und andere weiterentwickeln, welche Rolle Institutionen spielen.
+[00:09:30-2 @justushaukap] Das heißt also, relativ bunt gemischt, wobei ich versuche mich schon auf die Dinge zu konzentrieren, von denen ich glaube ein bisschen mehr zu verstehen,
+[00:09:38-0 @justushaukap] als die Dinge, von denen ich nicht viel verstehe.
+[00:09:42-8 @timpritlove] Ja, aber das ist ja dann auch wieder dieser, also dem wohnt ja auch dieser Wunsch inne einer holistischen Betrachtung der Welt.
+[00:09:51-2 @justushaukap] Ja, also das ist so, vielen Außenstehenden ist, glaube ich, gar nicht so richtig klar, dass Ökonomie, also Ökonomie im Sinne von Volkswirtschaftslehre,
+[00:10:00-6 @justushaukap] sich im Wesentlichen mit gesellschaftspolitischen Fragen auseinandersetzt.
+[00:10:05-0 @justushaukap] Natürlich stark im Bereich der Wirtschaft, aber auch im Bereich der Politik, oder in Felden, die man nicht der traditionellen Wirtschaft zurechnen sollte.
+[00:10:14-3 @justushaukap] Ehemalige Mitarbeiter von mir hat sich intensiv damit beschäftigt, zum Beispiel wie man die Organspende in Deutschland verbessern kann.
+[00:10:21-9 @justushaukap] Das ist auch ein Feld der Wirtschaft, aber das hätte man vielleicht gar nicht so traditionell der Wirtschaft zugerechnet im engeren Sinne.
+[00:10:28-7 @justushaukap] Das ist Volkswirtslehre, das geht ja nicht so sehr darum, wie verbessere ich das Management von Unternehmen,
+[00:10:36-5 @justushaukap] das ist ja die Frage der Betriebswirtschaftslehre.
+[00:10:38-2 @justushaukap] Und viele Außenstehende, da habe ich manchmal den Eindruck, die wissen gar nicht, dass es so einen Unterschied überhaupt gibt,
+[00:10:44-0 @justushaukap] sondern werfen das so alles in einen Topf und sagen, die Leute, die Wirtschaft studieren, das sind die Leute, die die Profite maximieren wollen.
+[00:10:52-0 @justushaukap] Und das ist natürlich eine holzschnittartige Zusammenfassung.
+[00:10:56-3 @timpritlove] Also im Idealfall wollen es ja beide, nur die einen wollen es nur für sich und die anderen wollen es für alle.
+[00:10:59-9 @justushaukap] Ja, also sozusagen der Volkswirt guckt ja immer auf die, was wir gesellschaftliche Wohlfahrt nennen.
+[00:11:04-6 @justushaukap] Also insbesondere auch die Rolle der Verbraucher.
+[00:11:08-1 @justushaukap] Also wie kann man dafür sorgen, das ist natürlich auch mein Thema insbesondere, Wettbewerbspolitik,
+[00:11:12-5 @justushaukap] wie kann man dafür sorgen, dass auch die Verbraucher ihren Anteil sozusagen am Kuchen kriegen, dass sie nicht über den Tisch gezogen werden.
+[00:11:21-9 @justushaukap] Dass es tatsächlich zu Effizienz kommt in dem Sinne, aber nicht nur Effizienz im Sinne von technisch, sondern auch dass die Versorgung mit allen möglichen Gütern möglichst so ist,
+[00:11:32-4 @justushaukap] dass also eigentlich optimal ist auch aus Verbrauchersicht.
+[00:11:38-7 @timpritlove] Vielleicht nochmal kurz so zu Ihrem Werdegang.
+[00:11:42-1 @timpritlove] Sie waren ja dann auch ganz gut unterwegs, wenn ich das richtig sehe, in Michigan USA, in Arbour an der Universität, es gab auch eine Stippvisite in Neuseeland.
+[00:11:51-2 @timpritlove] Gar nicht an der Universität, sondern richtig im Staatswesen?
+[00:11:54-2 @justushaukap] Genau, da habe ich für das dortige Finanzministerium, also es ist ein bisschen anders organisiert der Staatsapparat,
+[00:11:59-7 @justushaukap] die Treasury, aber ist am ehesten zu vergleichen mit dem Finanzministerium bei uns, gearbeitet als Mitarbeiter der neuseeländischen Regierung.
+[00:12:08-0 @justushaukap] Verbeamtet wird man da nicht, sondern Angestellter der neuseeländischen Regierung oder des Finanzministeriums.
+[00:12:15-2 @justushaukap] War eine sehr spannende Zeit, das war nach meiner …
+[00:12:18-0 @timpritlove] Mit einem deutschen Pass, das geht?
+[00:12:19-3 @justushaukap] Mit einem deutschen Pass, ja mit einem deutschen Pass.
+[00:12:20-7 @timpritlove] Okay.
+[00:12:21-7 @justushaukap] Die Neuseeländer sind weltoffener als die Deutschen, das muss man einfach nüchtern so sehen.
+[00:12:27-3 @justushaukap] Es hat sicherlich viele Gründe, aber die meisten Neuseeländer sind ja selber noch relativ jung im Land.
+[00:12:32-5 @justushaukap] Und die wissen auch, auf welchem Schiff ihr Großvater gegebenenfalls gekommen ist.
+[00:12:39-7 @justushaukap] Also für die ist das nicht so ungewöhnlich, dass da auch mal Leute von außerhalb kommen.
+[00:12:42-6 @timpritlove] Und sicherlich auch, und vor allem Kompetenz so weit draußen, ich meine, weiter weg von allem kann man ja fast gar nicht sein.
+[00:12:48-1 @justushaukap] Das geht fast gar nicht anders.
+[00:12:49-1 @justushaukap] Das ist ein sehr kleines Land und wenn die jetzt sagen würden, wir stellen überall nur Neuseeländer ein, dann hätten die ein großes Problem.
+[00:12:55-2 @justushaukap] Also von daher war das, also ich war da beileibe nicht der einzige Ausländer, der für die …
+[00:13:00-7 @justushaukap] ich glaube, der einzige Deutsche zwar im Finanzministerium, aber auf der Straßenseite gegenüber war die Zentralbank, da haben auch Deutsche gearbeitet.
+[00:13:07-5 @justushaukap] Die meisten sind natürlich eher aus dem englischsprachigen Bereich gewesen, aber es waren auch andere Europäer noch da, ein Holländer war noch da und ein Schweizer.
+[00:13:14-8 @justushaukap] Also die sind da, das war eine tolle Erfahrung, weil da habe ich so, ich meine, mein wirtschaftspolitisches Interesse ist da nochmal sehr stark gefestigt worden, sage ich mal so.
+[00:13:24-1 @timpritlove] Und vor allem man gewinnt ja dann auch zwangsläufig so den Blick über das eigene Volkswirtschaftssystem hinaus auch auf die internationalen Verflechtungen,
+[00:13:34-2 @timpritlove] die entsprechenden politischen Konstellationen, die das beeinflusst etc..
+[00:13:38-0 @justushaukap] Ja und man sieht, dass Dinge auch anders gemacht werden können und des trotzdem funktioniert.
+[00:13:42-8 @timpritlove] Oder überhaupt.
+[00:13:43-2 @justushaukap] Oder überhaupt funktionieren.
+[00:13:45-0 @timpritlove] Internet zum Beispiel.
+[00:13:45-8 @justushaukap] Da haben die Neuseeländer auch ein paar Probleme, also das ist jetzt nicht das Paradebeispiel für gute Lösungen, würde ich sagen.
+[00:13:51-2 @timpritlove] Okay, alles klar.
+[00:13:53-9 @justushaukap] Die haben da auch einiges verzapft, sagen wir mal so.
+[00:13:56-9 @justushaukap] Aber man sieht, bestimmte andere Dinge gehen auch und die Welt geht nicht unter, es funktioniert sogar ganz gut.
+[00:14:04-8 @justushaukap] Also das ist schon in dem Bereich, von außen gewinnt man auch einen ein bisschen anderen Blick auf die Politik und die Gesellschaft in Deutschland tatsächlich,
+[00:14:14-1 @justushaukap] also dafür ist es auch sehr hilfreich.
+[00:14:15-3 @timpritlove] Wie ich schon erwähnt hatte, dann ist es die Heinrich-Heine-Universität in Düsseldorf geworden nach so einer Zwischenstation, glaube ich, in Bochum und Nürnberg.
+[00:14:24-3 @timpritlove] Und dort haben Sie dann auch noch ein Institut gegründet, nämlich das Düsseldorf Institute of Economics.
+[00:14:30-0 @justushaukap] Competition Economics.
+[00:14:31-4 @timpritlove] Oh, stimmt da ist ja noch ein C drin, das hatte ich gerade hier irgendwie gelöscht.
+[00:14:37-0 @timpritlove] Genau mit der putzigen Abkürzung DIES, wo ich vorhin etwas schmunzeln musste und mich fragte, ob denn das Absicht ist,
+[00:14:43-2 @timpritlove] dass man hier quasi so "alea iacta est" mit den Würfeln...
+[00:14:47-3 @justushaukap] Ja Wettbewerb hat auch immer was mit Glück zu tun, also insofern ist es schon vielleicht nicht nur mit Glück, von daher ist es ein bisschen ironisch vielleicht schon in dem Sinne.
+[00:14:58-3 @justushaukap] Aber ja wir hätten uns natürlich auch Düsseldorfer Institut für Wettbewerbsökonomie nennen können, dann wäre die Abkürzung dann DIW gewesen.
+[00:15:08-0 @timpritlove] Langweilig und schon da.
+[00:15:09-7 @justushaukap] Vor allen Dingen viele kennen die Abkürzung, die sich für Wirtschaftspolitik interessieren, schon.
+[00:15:12-8 @justushaukap] DIW also das ging nicht und dann haben wir uns eben für das englische Akronym entschieden.
+[00:15:20-0 @justushaukap] Und genau, an dem Institut erforschen wir letztendlich insbesondere Fragen des Wettbewerbs auf allen möglichen Märkten.
+[00:15:27-3 @justushaukap] Also von Tankstellen über Energie hin zu Lebensmitteleinzelhandel.
+[00:15:36-9 @justushaukap] Im Gesundheitsbereich, also quasi Wettbewerb auf allen möglichen Märkten.
+[00:15:42-2 @justushaukap] Und insbesondere da natürlich, wo er vielleicht nicht ganz so funktioniert wie man sich das vorstellt.
+[00:15:48-1 @timpritlove] Aber die Studiengänge sind da jetzt konkret an diesem Institut angesiedelt oder ist das nochmal separat?
+[00:15:50-7 @justushaukap] Nein, das ist ein Institut der Universität, also ist jetzt kein Aninstitut oder so was, sondern das ist regulär und wir sind voll integriert in die Fakultät
+[00:15:58-2 @justushaukap] und die Studenten studieren zum größten Teil also an der Heinrich-Heine-Universität entweder BWL oder VWL und wir haben noch so ein paar Spezialstudiengänge.
+[00:16:09-1 @justushaukap] Politics, Philosophy und Economics, PPI nach britischem Vorbild.
+[00:16:14-7 @justushaukap] Und sind noch so ein paar Spezialitäten des Rheinlandes, Wirtschaftschemie und so ein paar andere Dinge, aber eigentlich studieren die erst mal stinknormale VWL.
+[00:16:21-2 @justushaukap] Sozusagen an einer normalen Uni, nur dass der Fokus bei uns besonders stark auf Wettbewerbsfragen liegt.
+[00:16:27-6 @justushaukap] Aber letztendlich heißt der Bachelor, Bachelor in Economics, so wie an eigentlich allen anderen Unis auch.
+[00:16:34-0 @justushaukap] Also man kriegt da auch erst mal eine ganz normale Grundausbildung.
+[00:16:35-6 @timpritlove] Okay, aber der Forschungsaspekt ist daraufhin ausgerichtet?
+[00:16:37-7 @justushaukap] In der Forschung und in der Lehre ist es schon betont, also je höher man kommt, also auch im Master und dann erst recht in unserer Graduiertenschule,
+[00:16:46-0 @justushaukap] da ist ja der Fokus schon sehr stark auf Wettbewerbsfragen.
+[00:16:50-5 @timpritlove] 2006 sind Sie dann, ich weiß nicht, wird man dann berufen?
+[00:16:55-8 @justushaukap] Ja.
+[00:16:55-9 @timpritlove] In die Monopolkommission, das ist ja so eine Entität, die der Bundesregierung beratend zur Seite gestellt ist.
+[00:17:05-5 @timpritlove] Waren da, glaube ich, auch vier Jahre Vorsitzender dieser Kommission.
+[00:17:08-4 @justushaukap] Ja.
+[00:17:09-1 @timpritlove] Was macht man denn da?
+[00:17:11-3 @justushaukap] Die Monopolkommission hat mehrere Aufgaben.
+[00:17:15-3 @justushaukap] Das ist alles geregelt gesetzlich die Aufgaben der Monopolkommission, zum einem im Gesetz gegen Wettbewerbsbeschränkungen, GWB,
+[00:17:22-8 @justushaukap] aber auch dann in Spezialgesetzen, also im Telekommunikationsgesetz, im Energiewirtschaftsgesetz, Eisenbahngesetz, Postgesetz etc.,
+[00:17:31-1 @justushaukap] das heißt, die Aufgaben sind zum einen, dass man der Bundesregierung alle zwei Jahre einen Bericht erstattet,
+[00:17:37-9 @justushaukap] das sind die sogenannten entweder Hauptgutachten oder Sondergutachten über die Entwicklung des Wettbewerbs.
+[00:17:44-2 @justushaukap] Zum einen dieses Big Picture in Deutschland überhaupt, das ist das sogenannte Hauptgutachten, aber dann gibt es auch noch Sonderaufträge in speziellen Sektoren.
+[00:17:50-4 @justushaukap] Also im Energiebereich, im Bahnbereich, im Postbereich, im Telekommunikationsbereich.
+[00:17:56-3 @justushaukap] Diese Sektoren kamen speziell nach der Liberalisierung und Neuregulierung dieser Sektoren in den 90er und 2000er Jahren dann hinzu.
+[00:18:05-3 @justushaukap] Und das ist die eine Rolle, dann hat man noch eine spezielle Rolle in sogenannten Ministererlaubnisverfahren.
+[00:18:10-2 @justushaukap] Edeka Tengelmann ist sicherlich vielen noch präsent.
+[00:18:12-9 @timpritlove] Also wenn es zum Streit kommt, ob irgendwas untersagt werden soll, Fusionen etc..
+[00:18:16-3 @justushaukap] Genau, da gibt es so eine Sonderrolle in Deutschland, dass der Minister die doch genehmigen kann in Ausnahmefällen,
+[00:18:21-2 @justushaukap] aber das kann er nicht sozusagen einfach so machen, sondern da muss ein Gutachten von der Monopolkommission zu dem Thema vorgelegt werden.
+[00:18:30-0 @justushaukap] Darauf muss wiederum die Bundesregierung öffentlich Bezug nehmen auf dieses Gutachten, das ist also ein recht strukturierter Prozess eigentlich,
+[00:18:39-8 @justushaukap] wie so ein Ministererlaubnisverfahren zu laufen hat.
+[00:18:42-8 @justushaukap] Und die dritte Rolle ist, dass man die Arbeit der Kartellbehörden und der Regulierungsbehörden, also des Bundeskartellamtes insbesondere in Bonn
+[00:18:49-3 @justushaukap] und der Bundesnetzagentur auch in Bonn würdigen soll, das heißt, wir sind sowas wie die Watch Dog der Watch Dog kann man sagen,
+[00:18:58-9 @justushaukap] also weil die Behörden ja relativ unabhängig arbeiten können, gibt es aber nochmal eine Institution, die Monopolkommission, also ein Expertengremium,
+[00:19:06-9 @justushaukap] was dann wiederum der Bundesregierung und auch dem Bundestag berichtet, wie gut denn diese Arbeit funktioniert in den Behörden.
+[00:19:16-1 @justushaukap] Und das ist auch eine sehr spannende Aufgabe.
+[00:19:19-6 @timpritlove] Und was geschieht dann mit den Berichten?
+[00:19:21-0 @timpritlove] Werden die dann zur Kenntnis genommen und abgelegt und das war es oder hat man so den Eindruck, das bewirkt auch was?
+[00:19:26-0 @justushaukap] Das ist ganz unterschiedlich natürlich.
+[00:19:29-8 @justushaukap] Also zum einen ist es so, zu den Gutachten oder zumindest zu einem Teil der Gutachten muss die Bundesregierung Stellung nehmen,
+[00:19:34-3 @justushaukap] also sie können nicht einfach sagen, wir legen die in die Schublade.
+[00:19:36-2 @justushaukap] Die werden auch an dem Tag, an dem sie der Bundesregierung übergeben werden, auch veröffentlicht, also man kann die nicht einfach in eine Schublade legen und wegschließen.
+[00:19:42-8 @timpritlove] Ja.
+[00:19:44-7 @justushaukap] In den meisten Fällen werden die auch in den Medien diskutiert, also das heißt, auch die Öffentlichkeit erfährt darüber.
+[00:19:49-1 @justushaukap] Die werden typischerweise auch im Bundestag noch einmal besprochen bzw. in den zugehörigen Ausschüssen.
+[00:19:56-1 @justushaukap] Dadurch bewegt man ein bisschen was und das ist natürlich so, man entwickelt da eine ganze Reihe von Ideen und Vorschlägen,
+[00:20:02-1 @justushaukap] was man verbessern könnte im Bereich der Wettbewerbspolitik und wie das in der Politik so ist, manche Dinge fallen auf fruchtbaren Grund und andere haben keine Mehrheiten
+[00:20:13-3 @justushaukap] und werden dementsprechend nicht umgesetzt.
+[00:20:16-0 @timpritlove] Und dann bleibt es bei zehn Sekunden Tagesschau.
+[00:20:19-8 @justushaukap] Ja, das ist so, ich sage mal so, steter Tropfen höhlt den Stein.
+[00:20:22-8 @justushaukap] Also aus der Erfahrung der Monopolkommission, wir haben dann seit 2005 hatten wir die Aufgabe bekommen, also ich hatte dann die Freude,
+[00:20:29-1 @justushaukap] 2007 das erste Bahngutachten mit zu schreiben für die Monopolkommission und ich glaube, in jedes Bahngutachten haben wir immer wieder reingeschrieben am Ende,
+[00:20:37-5 @justushaukap] und im Übrigen wäre es doch eine gute Idee, den Fernbuslinienverkehr zu liberalisieren in Deutschland.
+[00:20:43-7 @justushaukap] Und natürlich nach dem ersten Gutachten kam so ungefähr gar nichts, nach dem zweiten haben ein paar Leute schon gesagt, ach das ist vielleicht doch ganz interessant
+[00:20:50-1 @justushaukap] und irgendwann kam dann auch die Fernbusliberalisierung.
+[00:20:53-1 @justushaukap] Wer die Naivität hat zu glauben, man muss das einmal in ein Gutachten reinschreiben und dann sagen alle, ach hurra was für eine tolle Idee, jetzt machen wir das sofort,
+[00:20:58-9 @justushaukap] das ist natürlich wahnsinnig naiv.
+[00:21:00-7 @timpritlove] Wenn man nicht damit anfängt, dann passiert's unter Umständen auch gar nicht...
+[00:21:02-9 @justushaukap] Wenn man das immer wieder erzählt und dann irgendwann merken und denken die, ja gut, jetzt haben die uns das zum fünften Mal schon erzählt,
+[00:21:10-1 @justushaukap] vielleicht sollten wir doch mal drüber nachdenken, dann kann man doch was bewegen und das ist auch, glaube ich, aus meiner Sicht eines der besten Beispiele die Fernbusliberalisierung.
+[00:21:20-1 @justushaukap] Also das klappt gar nicht so schlecht, also zumindest gibt es Leute, die fahren ganz gerne mit dem Bus, also insbesondere die Leute, die nicht ganz so viel Geld haben,
+[00:21:29-3 @justushaukap] wie meine Studierenden zum Beispiel und sind ganz dankbar, dass sie heute auch nach Hause fahren können oder nach Berlin fahren können.
+[00:21:37-5 @timpritlove] Und da hat man sogar Internet.
+[00:21:38-0 @justushaukap] Und es gibt WLAN und daraufhin hat sich die Bahn sogar genötigt gesehen, da müssen wir auch mal WLAN anschaffen, wenn die das jetzt im Bus haben.
+[00:21:44-8 @justushaukap] Also der Wettbewerb hat schon eine ganz hilfreiche Funktion häufig.
+[00:21:48-6 @timpritlove] Womit wir in gewisser Hinsicht beim Thema sind bzw. ich sehe hier eine Vielzahl von Themen, aber ist ja jetzt klar geworden, Wettbewerb, Kartellrecht, all diese Fragen
+[00:22:00-6 @timpritlove] bzw. überhaupt generell die Frage, welche Bedeutung soll eigentlich der Wettbewerb an sich einnehmen in unserem Wirtschaftssystem?
+[00:22:09-9 @timpritlove] Jetzt ist es ja in gewisser Hinsicht auch so ein wenig das Dogma, wir haben ja unsere tolle Marktwirtschaft und jeder macht dann mal so gut wie er oder sie kann
+[00:22:16-8 @timpritlove] und dann schauen wir mal, wer am besten dabei rauskommt und dann regelt das der Markt, wie man so schön sagt.
+[00:22:24-3 @timpritlove] Auf der anderen Seite gibt es natürlich auch Leute, die genau das sozusagen als das Horrorszenario sehen, unbeschränkter Ressourcenverbrauch, quasi Wachstum auf Kosten aller zum Nutzen weniger.
+[00:22:36-1 @timpritlove] Das ist, glaube ich, mal in etwa das Spannungsfeld, in dem man da erst mal einsteigt.
+[00:22:41-4 @timpritlove] Sie sagten jetzt vorhin so schön, wie können Verbraucher ihren Anteil vom Kuchen bekommen?
+[00:22:48-4 @timpritlove] Verstehe ich das richtig, dass Ihr primärer Blickwinkel auf Wirtschaft erst mal ist, dass hier quasi alle was davon haben sollen?
+[00:22:56-4 @timpritlove] Ist das sozusagen das Leitmotiv?
+[00:22:58-9 @justushaukap] Das kann man so leicht verallgemeinert schon sagen.
+[00:23:01-7 @justushaukap] Also alle, mit allen ist es immer sehr schwer, aber vielleicht kann man sagen, wenigstens möglichst viele was davon haben sollen.
+[00:23:11-6 @timpritlove] Und dem würde ja sicherlich auch jeder zustimmen und wie nahe sind wir am Ideal dran?
+[00:23:19-9 @justushaukap] Ach, das ist natürlich eine Frage, das ist jetzt nicht so leicht zu messen wie, sagen wir, ist das Wasser kurz vorm Siedepunkt.
+[00:23:26-0 @justushaukap] Also die Wettbewerbsintensität zu messen, das ist ohnehin sehr schwierig, weil es nicht ein natürliches Maß gibt.
+[00:23:32-5 @justushaukap] Man kann Marktanteile messen, man kann Preis-Kosten-Margen messen, die Profitabilität von Unternehmen, Markteintritte und -austritte.
+[00:23:39-7 @justushaukap] Es gibt eine ganze Reihe von verschiedenen Maßen, wie man versucht das zu identifizieren, aber es ist natürlich nicht so was wie Meter, Kilo oder Druck,
+[00:23:47-4 @justushaukap] wo ich sagen kann, jetzt gucke ich mal auf das Thermometer, wie ist denn die Wettbewerbslage heute, sondern es ist eben sehr viel schwieriger,
+[00:23:54-0 @justushaukap] weil es auch ein schwierigeres Konzept ist als, ich sage mal, Gewicht oder Temperatur einfach.
+[00:23:59-6 @justushaukap] Man hat dann verschiedene Indikatoren und sagt, na gut, also wenn wir zum Beispiel sehen, was die Innovationsrate sozusagen ist, das ist auch schwer zu messen,
+[00:24:07-9 @justushaukap] aber da können wir messen, wieviele Patente werden denn angemeldet oder wie groß ist der Unterschied zwischen Preis und Kosten?
+[00:24:15-0 @justushaukap] Wenn man sagt, je kleiner der ist, desto eher spricht das dafür, dass da intensiver Wettbewerb vorherrscht, wenn der Unterschied zwischen Preis und Kosten groß ist,
+[00:24:21-4 @justushaukap] dann ist immer der Verdacht, es liegt daran vielleicht, dass da nicht genug Wettbewerb ist in dem Markt, dass die Unternehmen so einen hohen Preisaufschlag nehmen können.
+[00:24:30-3 @justushaukap] Man sieht, da gibt es keinen Markteintritt und -austritt, denkt man auch immer, das wird dann eher dagegen sprechen, dass da intensiver Wettbewerb ist,
+[00:24:36-9 @justushaukap] weil auf Wettbewerbsmärkten ist es eigentlich üblich, dass da mal jemand kommt, der eine neue Idee hat und in den Markt reingeht
+[00:24:41-2 @justushaukap] und dann aus der Natur der Dinge wahrscheinlich auch einer, der Dinge verschläft, auch wieder austritt aus dem Markt.
+[00:24:47-3 @justushaukap] Oder man sieht, der ist sehr statisch, da gibt es keinen Markteintritt und keinen -austritt, dann spricht das sehr gegen intensiven Wettbewerb in dieser Branche.
+[00:24:53-0 @justushaukap] Wenn die Marktanteile sehr statisch sind, wo man sieht, da gewinnt keiner Marktanteile auf Kosten eines anderen, ist das keine gute Indikation für intensiven Wettbewerb.
+[00:25:00-1 @justushaukap] Weil typischerweise denkt man, dass nicht alle immer die gleichen Ideen haben, sondern einer hat mal eine Idee und die ist dann gut oder schlecht,
+[00:25:05-8 @justushaukap] keiner weiß es so genau, aber am Ende findet man raus, der, der Marktanteile gewinnt, hatte wahrscheinlich die bessere Idee als der, der sie verliert.
+[00:25:13-0 @justushaukap] Von daher ist es schwer zu sagen, wir sind jetzt bei 90% oder was weiß ich auch immer, aber allgemein kann man sagen,
+[00:25:20-9 @justushaukap] wir haben eine Situation, wo wir schon eine ganze Reihe von Märkten haben, wo der Wettbewerb erst mal funktioniert ganz gut.
+[00:25:26-2 @justushaukap] Und dann gibt es natürlich die Sonderfälle, und das sind die, die interessant sind, auch aus Sicht des Forschers, sozusagen wo funktioniert der Wettbewerb weniger gut
+[00:25:32-7 @justushaukap] und was können wir denn tun, damit er vielleicht besser funktioniert.
+[00:25:35-1 @justushaukap] Also wenn ich mir angucke, sagen wir, den Markt für Schokolade oder so, da habe ich jetzt wenig Bedenken, da habe ich den Eindruck, das funktioniert ganz gut,
+[00:25:41-8 @justushaukap] die Leute kriegen die Schokolade, die sie haben wollen mehr oder weniger, vielleicht essen sie zu viel, aber das ist dann nochmal ein anderes Problem.
+[00:25:50-7 @justushaukap] Oder der Markt für Joghurt, da sehe ich jetzt keine großen Probleme, dass man sagt, da haben wir jetzt ein wirkliches Problem auf dem Joghurtmarkt.
+[00:25:56-3 @timpritlove] Aber das sind dann natürlich schon so isolierte Knoten, die man versucht zu lösen.
+[00:25:59-7 @justushaukap] Ja, man muss immer, jeder Markt ist anders.
+[00:26:03-9 @justushaukap] Also von daher muss man schon, wenn man sagt, wir haben jetzt hier ein spezielles Problem in einem Markt, also der Kartoffelmarkt ist nicht wie der Immobilienmarkt,
+[00:26:09-2 @justushaukap] die funktionieren schon ganz anders, von daher muss man dann auch wirklich sich genau den Markt angucken.
+[00:26:14-3 @timpritlove] Aber letztlich sind sie ja alle in dasselbe System eingebettet.
+[00:26:19-0 @timpritlove] Also wenn man jetzt mal von oben herab schaut und ich würde ja auch erwarten, wenn man jetzt so ein Studium aufnimmt und sich damit beschäftigt,
+[00:26:25-5 @timpritlove] dass die erste Frage ja eigentlich überhaupt erst mal ist, wie funktioniert das System denn eigentlich insgesamt und warum ist es denn eigentlich so und sollte es auch so sein?
+[00:26:35-3 @justushaukap] Ja. Also erst mal gibt es natürlich so ganz prinzipielle Dinge, die auf den allermeisten Märkten gelten.
+[00:26:44-0 @justushaukap] Also man fängt an im Studium und sagt, erst mal lernen wir was kennen über Angebot und Nachfrage und können sagen,
+[00:26:48-0 @justushaukap] fast immer ist es richtig, wenn der Preis sinkt, kaufen die Leute mehr.
+[00:26:52-3 @justushaukap] Auch da gibt es Ausnahmen, aber im Großen und Ganzen kann man sagen, als Daumenregel gilt das.
+[00:26:57-0 @justushaukap] Und umgekehrt gilt auch, wenn der Preis steigt, sind mehr Leute bereit was anzubieten.
+[00:27:02-4 @justushaukap] Also das kann man sagen, das ist erst mal das Kreuz, was man den Studenten aufmalt, die Angebotsfunktion.
+[00:27:06-9 @justushaukap] Also mehr wird angeboten, wenn der Preis steigt, und mehr wird gekauft, wenn der Preis sinkt.
+[00:27:12-0 @justushaukap] Und im Idealfall gibt es irgendwo einen Schnittpunkt, muss man sagen, wo der Preis sich dann einpendelt, der sogenannte Gleichgewichtspreis, wo genauso viel gekauft wird wie angeboten wird.
+[00:27:21-0 @justushaukap] Tatsächlich, also keine Verschwendung stattfindet im Großen und Ganzen.
+[00:27:29-5 @timpritlove] Aber das eigentliche Ziel der Volkswirtschaft ist ja jetzt nicht unbedingt, dass irgendjemand viel kauft, sondern das Ziel ist ja eigentlich so das Wohl aller.
+[00:27:39-1 @justushaukap] Genau, also wenn man es ganz vereinfacht darstellen will, kann man sagen, Ressourcen auf der Welt sind knapp und jetzt ist die Frage, was machen wir mit den knappen Ressourcen?
+[00:27:47-5 @justushaukap] Also Ressourcen meine ich ganz allgemein, damit meine ich jetzt nicht nur die natürlichen Ressourcen, die sind auch knapp, aber auch Zeit ist knapp, Geld ist knapp.
+[00:27:57-1 @justushaukap] Die Fähigkeiten der Menschen sind begrenzt.
+[00:28:00-0 @justushaukap] Also wir leben mit Begrenzung, das ist nunmal so.
+[00:28:02-9 @justushaukap] Und dann muss man sich überlegen, also diese Knappheitsfragen, was machen wir am besten damit?
+[00:28:08-6 @justushaukap] Was soll überhaupt produziert werden?
+[00:28:09-6 @justushaukap] Wer soll die produzierten Güter bekommen und so weiter.
+[00:28:12-1 @justushaukap] Und da ist die Idee im Großen und Ganzen, dass man sagt, im Idealfall wäre es ja so, wenn die Leute irgendwas bekommen oder wenn das hergestellt wird,
+[00:28:20-2 @justushaukap] was die Leute am liebsten haben wollen tatsächlich.
+[00:28:24-9 @timpritlove] Meine Sicht auf den Kapitalismus, den bösen, ist ja so, man hat so das eine Extrem, so diese libertären Ansätze, die sagen, so ja Markt ist alles,
+[00:28:35-5 @timpritlove] lasst mal den Staat komplett raus, das regelt sich von selbst, ich habe es vorhin schon angedeutet, auf der einen Seite.
+[00:28:42-4 @timpritlove] Auf der anderen Seite eben, ohne Staat läuft hier mal überhaupt nichts und wir geben für alles die Regeln vor, das haben wir in dem einen oder anderen Extrem immer wieder gesehen.
+[00:28:54-5 @timpritlove] Auch scheitern sehen, das eine etwas lauter als das andere vielleicht.
+[00:29:02-9 @timpritlove] In Deutschland, denke ich, leben wir so ein bisschen in diesem Selbstverständnis, dass wir da so eine Ausgewogenheit dieser beiden Ansätze haben,
+[00:29:11-4 @timpritlove] die ja irgendwie ganz gut funktioniert so.
+[00:29:13-8 @justushaukap] Genau.
+[00:29:14-9 @timpritlove] Also ist ja jetzt …
+[00:29:16-9 @justushaukap] Man kann nicht sagen, dass es uns besonders übel geht im internationalen Vergleich.
+[00:29:20-2 @timpritlove] Nein, das wäre, glaube ich, etwas vermessen.
+[00:29:22-3 @timpritlove] Man kann mit allem unzufrieden sein so.
+[00:29:26-4 @timpritlove] Hat jetzt Deutschland einfach ein besonderes Glück ob seiner Position auf diesem Planeten und der geschichtlichen Entwicklung, dass das bei uns gut funktioniert,
+[00:29:38-0 @timpritlove] aber es würde so woanders nicht funktionieren oder ist dem System, wie wir es derzeit haben, irgendwas inhärent, wo man sagen kann, da ist gut genug drüber nachgedacht worden
+[00:29:49-1 @timpritlove] und ordentlich implementiert worden, dass man sagen kann, passt schon?
+[00:29:55-6 @justushaukap] Natürlich ist beides irgendwie richtig.
+[00:29:58-6 @justushaukap] Es gibt in der Geschichte Pfadabhängigkeiten, es gibt Zufälligkeiten, die man nicht steuern kann unbedingt.
+[00:30:06-3 @justushaukap] Aber es gibt natürlich auch die Rahmenbedingungen müssen auch passen, dass Chancen ergriffen werden können tatsächlich.
+[00:30:11-5 @justushaukap] Und von daher glaube ich, dass wir in Deutschland prinzipiell ganz gute Rahmenbedingungen haben.
+[00:30:17-0 @justushaukap] Es ist kein Zufall, wir haben auch relativ früh im europäischen Kontext eben zum Beispiel Wettbewerbsrecht eingeführt, gar nicht so sehr, weil wir es wollten,
+[00:30:24-6 @justushaukap] sondern weil uns die Amerikaner zu unserem Glück gezwungen haben in dem Sinne.
+[00:30:28-9 @timpritlove] Nach dem Krieg?
+[00:30:29-6 @justushaukap] Nach dem Krieg gesagt haben, diese Machtstellung weniger großer Konzerne das war für Deutschland ein Unheil unter anderem
+[00:30:37-6 @justushaukap] und wir müssen dafür sorgen, dass hier Wettbewerb entsteht.
+[00:30:40-1 @justushaukap] Die Amerikaner waren ja die erste, die eine Wettbewerbswirtschaft im Prinzip eingeführt haben damals auch, weil Rockefeller und ähnliche als Bedrohung gesehen wurden,
+[00:30:46-8 @justushaukap] und man gesagt hat, wir müssen irgendwie die Märkte offenhalten, dass auch andere sich beteiligen können.
+[00:30:50-7 @timpritlove] Das bezieht sich jetzt weniger auf die Nazizeit, sondern auf die Zeit davor?
+[00:30:55-7 @justushaukap] Nein, dann sozusagen nach dem Krieg, nach der Nazizeit, hatten die Amerikaner uns quasi mehr oder weniger dazu gebracht, sage ich mal,
+[00:31:05-3 @justushaukap] auch Kartellrecht nach mehr oder weniger amerikanischem Vorbild einzuführen als eines der ersten Länder in Europa.
+[00:31:11-5 @justushaukap] In den anderen umliegenden Staaten gab es lange kein Wettbewerbsrecht.
+[00:31:15-6 @timpritlove] Aber weil jetzt sozusagen das als Problem für die Wirtschaft alleine gesehen wurde oder was die konkreten Kontributionen der Wirtschaft zum Naziregime betraf?
+[00:31:26-3 @justushaukap] Ich glaube, also sagen wir, beides hat eine Rolle gespielt.
+[00:31:31-3 @justushaukap] Also es war nie, dass man gesagt hat, das ist losgelöst von Politik, also auch gerade die sogenannte Freiburger Schule, Walter Eucken haben immer gesehen,
+[00:31:37-4 @justushaukap] dass eine Machtanballung in privater Hand nicht nur für die Wirtschaft schlecht ist, weil die Innovationstätigkeit nachlässt, weil die Preise zu hoch werden und so weiter,
+[00:31:45-4 @justushaukap] sondern auch, dass damit häufig auch eine politische Machtanballung einhergeht, die für die Demokratie destabilisierend sein kann.
+[00:31:54-5 @justushaukap] Also von daher, diese Freiburger Schule, die deutsche Tradition, hatte beides und die frühere amerikanische Anti-Trust-Schule hatte auch eigentlich immer diese beiden Aspekte,
+[00:32:02-2 @justushaukap] dass man gesagt hat, also große Machtanhäufung in privater Hand ist sowohl wirtschaftlich als auch politisch schlecht.
+[00:32:07-8 @justushaukap] Und das muss man versuchen zu bekämpfen, da war eben die Idee, nicht sozusagen durch Verstaatlichung, sondern durch das Offenhalten von Märkten,
+[00:32:16-2 @justushaukap] dass man jedem ermöglicht sich zu betätigen sozusagen.
+[00:32:19-3 @justushaukap] Also durch das Kleinhalten von Macht.
+[00:32:22-3 @timpritlove] Oder es führt eben zur Zerschlagung von …
+[00:32:24-3 @justushaukap] Hat man ja dann gemacht, IG Farben hat man dann zerschlagen.
+[00:32:26-7 @justushaukap] Man hat gesagt, das wird jetzt also zerlegt, hier ist die Machtanballung zu groß, das zerlegen wir jetzt in drei Teile.
+[00:32:33-3 @timpritlove] Und hat jetzt gerade nicht so den Eindruck, dass das Prinzip in den USA gerade noch eine besondere Priorität genießt, da ist einiges an Anballung versammelt.
+[00:32:43-4 @justushaukap] Das stimmt sozusagen, wobei das amerikanische Wettbewerbsrechtssystem ist ein bisschen anders als bei uns, weil es da sowohl die bundesstaatliche Kartellrechtsdurchsetzung gibt,
+[00:32:51-5 @justushaukap] aber auch auf die Ebene der Bundesstaaten.
+[00:32:53-6 @justushaukap] Und die Bundesstaaten wiederum sind teilweise noch recht aktiv in der Kartellrechtsdurchsetzung.
+[00:33:01-0 @timpritlove] Das heißt, die Kernfrage ist eigentlich immer, wann muss man eingreifen und wann nicht.
+[00:33:07-4 @timpritlove] Der Default ist quasi, macht mal und dann gucken wir mal.
+[00:33:11-0 @justushaukap] So geht die Volkswirtschaftslehre im Prinzip vor.
+[00:33:12-6 @justushaukap] Also bringen wir auch den Studierenden relativ schnell bei, also erst mal geht man davon aus, dass die Leute im Großen und Ganzen selber wissen, was gut für sie ist
+[00:33:21-2 @justushaukap] und dann sollen sie bitte auch selber kaufen was sie wollen und wenn viele Leute irgendwas kaufen, dann wird irgendeiner einen finden, der denen das verkaufen will.
+[00:33:28-0 @justushaukap] Das ist erst mal die Grundprämisse, aber es gibt natürlich auch eine Reihe von Problemen, die immer wieder auftauchen können, wo der Markt nicht funktioniert.
+[00:33:35-9 @justushaukap] Also das sind diese, wie wir sie nennen, klassischen Marktversagenstatbestände.
+[00:33:40-2 @justushaukap] Wo man sagt, da funktioniert der Markt jetzt nicht von alleine, da muss in unterschiedlicher Weise eingreifen.
+[00:33:46-0 @timpritlove] Was sind da die Indikatoren dafür?
+[00:33:47-6 @justushaukap] Klassisches Beispiel sind sogenannte öffentliche Güter, wo man sagt, also ein Deich wird keiner bauen, weil ich kann ja keinen, was ist, wenn die Leute nicht zahlen wollen für den Deich?
+[00:33:58-4 @justushaukap] Was soll ich da machen?
+[00:33:58-9 @justushaukap] Dann wird den keiner bauen, also das müssen wir irgendwie staatlich organisieren den Deichbau in der Regel.
+[00:34:05-1 @justushaukap] Und so was wie die innere und äußere Sicherheit und viele sozusagen Dinge, wo man sagt, das sind öffentliche Güter, da hat der Staat eine große Rolle.
+[00:34:14-6 @justushaukap] Dann gibt es diesen Aspekt, wo man sagt, wir nennen das, externe Effekte, wo man sagt, da wird nicht berücksichtigt, dass man eigentlich entweder Dritten was gutes oder was schlechtes tut.
+[00:34:23-6 @justushaukap] Also häufig denkt man ja an das Schlechte, wo man sagt, das hat eine negative Konsequenz für andere, das klassische Beispiel ist immer die übermäßige Umweltnutzung
+[00:34:30-9 @justushaukap] oder Umweltverschmutzung oder auch jetzt die CO2-Debatte, wo man sagt, also wenn wir für CO2 keinen Preis haben, dann werden die Unternehmen das nicht mit drin haben in ihrem Kalkül für CO2-Ausstöße,
+[00:34:39-9 @justushaukap] also ist es das beste, wir legen da einen Preis drauf, dann muss ich die gar nicht erst zwingen, dann machen die das einfach aus ihren eigenen Gewinnoptimierungsüberlegungen,
+[00:34:47-1 @justushaukap] wie kann ich denn CO2 reduzieren, damit ich nicht so viele Steuern zahlen muss.
+[00:34:52-5 @justushaukap] Also das sind so diese Korrekturmechanismen, wo man sagt, sonst würden die das einfach nicht berücksichtigen in ihrem Kalkül.
+[00:34:56-8 @justushaukap] Umgekehrt natürlich auch, diskutieren über Impfen.
+[00:34:59-4 @justushaukap] Man sagt, jeder denkt nur über das Risiko für sich selbst oder für sein Kind nach, aber nicht darüber, dass Impfen ja auch eine positive Auswirkung für alle anderen hat,
+[00:35:06-6 @justushaukap] weil man dann ein Infektionsherd weniger sozusagen rumläuft.
+[00:35:11-3 @justushaukap] Das wird typischerweise nicht berücksichtigt.
+[00:35:12-1 @justushaukap] Dann sagt man, dann müssen wir da vielleicht regelnd eingreifen durch Anreize oder im Extremfall vielleicht eine Pflicht, aber ich würde sagen, vielleicht reichen auch Anreize,
+[00:35:21-8 @justushaukap] dass man sagt, dann kriegen prioritär Kinder einen Kitazugang, die geimpft sind.
+[00:35:28-3 @justushaukap] Dann fängt man an das stärker zu internalisieren sozusagen diese Überlegungen.
+[00:35:34-7 @justushaukap] Und der große Bereich, über den wir heute sozusagen auch in der digitalen Ökonomie nachdenken, sind eigentlich eher zwei Dinge, wo man sagt,
+[00:35:40-5 @justushaukap] das eine sind sogenannte natürliche Monopole, wo in gewisser Weise natürlich kein Wettbewerb entstehen kann, also früher haben wir immer gesagt, das sind diese Netzwirtschaften.
+[00:35:49-6 @justushaukap] Es wird keiner ein zweites Bahnnetz bauen, es wird keiner ein zweites Telekommunikationsnetz bauen, haben wir lange gedacht zumindest.
+[00:35:55-9 @justushaukap] Und heute wissen wir, das gilt nur noch in Teilen des Telekommunikationsnetzes, also sozusagen das, was als letzte Meile bezeichnet wird, das ist immer weiter ans Haus rangerückt.
+[00:36:06-4 @justushaukap] Also ich sage mal, die in Anführungszeichen etwas salopp formuliert, die Überlandkabel kann man kompetetiv bauen letztendlich.
+[00:36:13-6 @justushaukap] Oder im Strombereich, keiner baut ein zweites Stromnetz.
+[00:36:17-0 @justushaukap] Da hat man gesagt, das sind natürlich Monopole, also aus der Natur der Sache heraus wird da kein Wettbewerb entstehen, da ist dann Regulierungsbedarf.
+[00:36:23-3 @justushaukap] Weil sonst, wenn ich das jetzt sage, hier ist dein natürliches Monopol, dann wird der anfangen, Monopolpreise zu verlangen zum Schaden der Verbraucher.
+[00:36:31-9 @justushaukap] Und mit den ganzen anderen Konsequenzen, die ein Monopol typischerweise auch noch negativ hat, wie etwa das ist sehr abträglich für Innovation in der Regel.
+[00:36:45-0 @justushaukap] Weil es gibt einen schönen Spruch von John Higgs, einen bekannten britischen Ökonom, der hat gesagt, das schönste am Monopol ist das ruhige Leben,
+[00:36:50-9 @justushaukap] man weiß ja, also auch wenn man sich nicht um die Kunden kümmert, die müssen ja kommen, die können ja nicht weg.
+[00:36:56-1 @justushaukap] Und das ist auch wiederum der Vorteil, den viele am Wettbewerb eigentlich sehen, das man sagt, Wettbewerb schafft den Leuten, ist ja auch so was wie ein Ermächtigung für die Verbraucher,
+[00:37:04-5 @justushaukap] weil sie dann sagen können, wenn du nicht voll nett zu mir bist, dann gehe ich halt woanders hin.
+[00:37:09-3 @justushaukap] Und das ist natürlich der große Nachteil am Monopol, da kann ich so unfreundlich sein wie ich will.
+[00:37:14-7 @justushaukap] Jeder erinnert sich sicherlich noch früher an die Deutsche Post, die sagen, ach da steht ein Kunde vor der Tür, ich schließe lieber schnell ab, sonst kommt der gleich.
+[00:37:23-9 @timpritlove] Ja, auch in der Bahn hatte man ähnliches.
+[00:37:25-5 @justushaukap] Ja und in der Bahn, das haben die natürlich alles machen können, weil die keinem Wettbewerb ausgesetzt waren, weil die wussten, der wird morgen wiederkommen,
+[00:37:30-2 @justushaukap] der wird jetzt nicht zur anderen Post gehen, weil die gibt es ja gar nicht die andere Post.
+[00:37:33-9 @justushaukap] Und das ist das, was viele als Vorteil im Wettbewerb sehen, dass es eigentlich Verbraucher ermächtigt.
+[00:37:39-6 @justushaukap] Auch sozusagen, wenn du nicht das lieferst, was ich will, dann gehe ich halt woanders hin.
+[00:37:42-0 @justushaukap] Ach so und das dritte vielleicht das vierte noch, das habe ich vergessen, ein großes Problem, was jetzt auch im Zug auf die digitale Ökonomie, wenn es Informationsgefälle gibt.
+[00:37:51-6 @justushaukap] Wenn der eine viel mehr weiß als der andere.
+[00:37:54-0 @justushaukap] Das klassische Beispiel waren da immer die Gebrauchtwagen, das wusste oder, hat man irgendwie so ein Störgefühl, der Gebrauchtwagenhändler erzählt mir vielleicht nicht die ganze Wahrheit über das Auto
+[00:38:01-5 @justushaukap] und ich bin, wenn man nicht gerade Kfz -mechaniker ist, dann versteht man das nicht und deswegen begegnet man dem eher mit so einem gewissen Misstrauen, was der einem erzählt,
+[00:38:10-6 @justushaukap] oder sagen wir ein Finanzberater, Versicherungsmakler, man weiß nie so genau, ist das jetzt die beste Versicherung für mich oder für den Makler eigentlich, die er mir verkaufen will?
+[00:38:17-7 @justushaukap] Ist das die beste Finanzanlage für mich oder für ihn gerade?
+[00:38:22-3 @justushaukap] Und da sehen wir, da gibt es einen hohen Regelungsbedarf.
+[00:38:24-3 @justushaukap] Auf diesen Märkten, wo das Informationsgefälle hoch ist, kommt man nicht umhin typischerweise regulierend einzugreifen in die Märkte.
+[00:38:31-4 @justushaukap] Und deswegen ist so was wie die Versicherungsbranche, die Finanzbranche hochgradig reguliert.
+[00:38:36-3 @justushaukap] Im Prinzip auch beim Auto haben wir, also ich weiß sozusagen, also ich verstehe nicht viel vom Auto, aber ich weiß, wenn er einen TÜV-Plakette hat,
+[00:38:43-6 @justushaukap] dann ist er nicht so schlecht wie einer, der keine TÜV-Plakette hat.
+[00:38:47-6 @timpritlove] Oder hat zumindest einen definierten Grundzustand.
+[00:38:51-9 @justushaukap] Er hat einen Mindeststandard zumindest mal.
+[00:38:54-0 @justushaukap] Also der TÜV glaubt, der wird noch zwei Jahre fahren können.
+[00:38:57-0 @justushaukap] Das heißt, wir haben auch da gewisse Planken eingezogen und gesagt, der Automarkt, vielleicht weil er nicht ganz so wichtig ist wie der Finanzmarkt,
+[00:39:04-7 @justushaukap] nicht so hochgradig reguliert in dem Sinne wie Finanzprodukte, aber bei Finanzprodukten, dass man weiß, …
+[00:39:11-9 @timpritlove] Aber wie lausig das dann aber auch funktionieren kann, haben wir ja nun gerade bei dieser Dieselaffäre gesehen, wo dann ja der TÜV und andere Prüfinstitutionen dann von den Unternehmen selber bezahlt wurden,
+[00:39:23-1 @timpritlove] um dann die Ergebnisse zu liefern, die ihnen dann auch ganz gut gepasst haben.
+[00:39:29-1 @timpritlove] Sprich Marktversagen erkennen schön und gut und dann mit Regulierung antworten, aber wenn man halt nicht die richtigen Sensorien hat
+[00:39:35-4 @timpritlove] und quasi die Überprüfung dieser Stellschrauben quasi in sich schon mal gehemmt ist, dann ist es natürlich bisschen für die Katz.
+[00:39:49-9 @justushaukap] Ja, das ist, als ich noch in Nürnberg an der Uni war, da stand unten an der U-Bahn-Station ein Ausspruch von Walter Rathenau, denken heißt vergleichen.
+[00:39:59-3 @justushaukap] Und so ist es eben auch, wir haben Marktversagen auf der einen Seite, aber wenn wir sagen, dann machen wir eben eine Regulierung drauf,
+[00:40:04-8 @justushaukap] dann ist es natürlich illusorisch anzunehmen, dass Behörden nicht versagen könnten.
+[00:40:08-9 @justushaukap] Also man muss immer vergleichen, was ist das Marktversagen, was ist denn das Behördenversagen, das Staatsversagen, was dem gegenübersteht?
+[00:40:15-7 @justushaukap] Das ist eine ganz alte Erkenntnis aus der Ökonomie, schon Ronald Coase in den 30er Jahren des letzten Jahrhunderts gesagt,
+[00:40:22-9 @justushaukap] wir müssen diese Annahme, da ist ein Marktversagen und dann ist da eine Regulierung, das ist zu kurz gesprungen.
+[00:40:27-8 @justushaukap] Wir müssen immer abwägen letztendlich, wie hoch ist die Wahrscheinlichkeit, dass dann, wenn wir jetzt eine Regulierung da drüberstülpen,
+[00:40:34-1 @justushaukap] das gar nicht besser wird, sondern nur eine andere Form von Versagen auftaucht?
+[00:40:37-4 @justushaukap] Also wie können wir verhindern, dass der TÜV korrupt ist etwa?
+[00:40:41-5 @justushaukap] Wie können wir verhindern, dass die öffentlichen Institutionen nicht das tun, was wir uns eigentlich wünschen, dass sie tun, sondern eher sagen,
+[00:40:52-5 @justushaukap] ich habe keine Lust mehr zu arbeiten, ich gehe nach Hause, bleib mir weg.
+[00:40:56-5 @justushaukap] Also das heißt, wir leben nunmal nicht im Himmelreich und in der Perfektion, man wird immer irgendeine Art von Imperfektion haben.
+[00:41:02-9 @timpritlove] Na die Frage ist natürlich, muss man sozusagen immer darauf warten, bis wieder der nächsten Skandal mal von irgendsoeinem Herrn Wallraf oder ähnlichen Kollegen ausgegraben
+[00:41:12-1 @timpritlove] und entsprechend in der Öffentlichkeit breitgetragen wird oder kann man hier auch systematisch rangehen und generell einen Maßstab entwickeln für,
+[00:41:21-3 @timpritlove] wie diese ganzen Abhängigkeiten konstruiert sind?
+[00:41:24-6 @timpritlove] Ich meine, in dem Moment, wo man so ein Regulariumsbedrohung hat, und eben etwas sicherstellen will, dass es sich quasi selber trägt,
+[00:41:34-0 @timpritlove] eben zum Beispiel durch dieses Delegieren von Prüfungen etc., dann könnte man ja hier eigentlich auch ganz schematisch rangehen und sagen,
+[00:41:44-9 @timpritlove] ja okay, aber wer prüft den Prüfer?
+[00:41:47-6 @timpritlove] Wo ist sozusagen hier in diesem Geflecht letzten Endes die Schwachstelle?
+[00:41:51-8 @timpritlove] Ist das etwas, was man sich in der Forschung anschaut an der Stelle?
+[00:41:54-7 @justushaukap] Doch, also über dieses Institutionengefüge wird sehr intensiv nachgedacht.
+[00:41:57-8 @justushaukap] Wie stellt man so was möglichst gut sicher tatsächlich?
+[00:42:01-6 @justushaukap] Und wir haben natürlich, wir leiden in gewisser Weise natürlich unter einer verzerrten Wahrnehmung, weil Skandale, die aufgedeckt werden, sieht man,
+[00:42:09-6 @justushaukap] Skandale, die nicht passieren, weil sie unterbunden werden, kann man aus der Natur der Sache nicht sehen.
+[00:42:16-6 @justushaukap] Also von daher sehen wir, es gibt immer Fehler erster und zweiter Art, entweder wir unterbinden viel zu viel, was eigentlich ganz gut wäre, das sieht man nur nicht,
+[00:42:25-1 @justushaukap] Dinge, die nicht entstehen, kann man schlecht sehen und kann man auch nicht skandalisieren.
+[00:42:28-7 @justushaukap] Und wir haben den Fehler anderer Art, wir haben zu wenig getan, obwohl wir was hätten tun sollen.
+[00:42:31-8 @justushaukap] Und das ist das einzige, was wir immer sehen systematisch.
+[00:42:34-0 @justushaukap] Also von daher, in unserer Wahrnehmung glauben wir immer, das ist sozusagen das Hauptproblem, dass wir Dinge unterbinden, die man dann nicht sieht,
+[00:42:40-9 @justushaukap] wird systematisch zu wenig beobachtet im Grunde genommen, weil es sehr schwer ist und es dann auch eine Trägheit entwickelt.
+[00:42:47-3 @justushaukap] Also wir sehen das, einer meiner liebsten Märkte ist jetzt so Märkte für Mobilität, da sehen wir jetzt langsam, dass wir in machen Bereichen viel unterbunden haben,
+[00:42:57-1 @justushaukap] was man nicht unbedingt hätte unterbinden müssen.
+[00:43:01-0 @timpritlove] Zum Beispiel?
+[00:43:00-7 @justushaukap] Ja, wenn wir das denken, wir haben, als ich noch in der Monopolkommission war, haben wir uns mit dem Taximarkt meinetwegen beschäftigt.
+[00:43:06-1 @justushaukap] Wir haben gesagt, wir haben immer noch eine Ortskundeprüfung etwa.
+[00:43:11-0 @justushaukap] Verpflichtend haben wir die Ortskundeprüfung
+[00:43:13-2 @justushaukap] Warum braucht man die?
+[00:43:14-5 @justushaukap] Wenn wir sagen, wenn wir heute vor der grünen Wiese stehen würden, würde doch keiner auf die Idee kommen, wir machen eine Ortskundeprüfung in Zeiten von Navigationssystemen.
+[00:43:21-0 @justushaukap] Und wenn einer sagt, ich will aber unbedingt einen Taxifahrer mit Ortskundeprüfung, dann würde man sagen, gut dann bieten wir die freiwillig an
+[00:43:26-2 @justushaukap] und jeder soll sich das auf sein Taxi kleben, ich habe eine Ortskundeprüfung und dann nimmt er halt den Taxifahrer.
+[00:43:31-9 @justushaukap] Aber man würde wahrscheinlich heute sagen, das war eine Regulierung, die hatte mal irgendwie Sinn und Zweck in den 50er Jahren,
+[00:43:39-3 @justushaukap] nur sozusagen da passiert nie ein Skandal in dem engeren Sinne, dass man sagt, eigentlich hätten wir das längst abschaffen können.
+[00:43:46-2 @justushaukap] Oder anderer Bereich Seelotswesen, wird die meisten wenig interessieren, haben wir in der Monopolkommission auch gemacht,
+[00:43:51-5 @justushaukap] das ist auch ein unglaublich hochgradig reguliertes System, wir haben gesagt, das Seelotswesen, also heute sind die modernen Navigationstechniken so gut geworden,
+[00:44:00-3 @justushaukap] dass eigentlich die Technik das besser kann in vielen Fällen.
+[00:44:06-0 @timpritlove] Wenn sie funktioniert
+[00:44:07-3 @justushaukap] Wenn sie funktioniert, da ist ein Seelotse, der muss auch funktionieren, muss man nicht vergessen, sozusagen Menschen machen auch Fehler
+[00:44:14-7 @timpritlove] Ja, ich sehe halt immer nur schon beim nächsten heftigen Sonnensturm, wenn dann mal wirklich die Satelliten anfangen zu eiern, dann ist man, glaube ich, ganz froh,
+[00:44:21-3 @timpritlove] wenn man noch ein paar Leute hat, die auch noch ganz klassisch arbeiten können.
+[00:44:22-9 @justushaukap] Genau, die Frage ist nur, ist die heutige Art, das zu regeln, man muss verpflichtend einen aufnehmen, man darf sich noch nicht mal aussuchen, wen man nimmt,
+[00:44:32-2 @justushaukap] man darf auch keinen anstellen als Reederei sozusagen, ist das alles noch zeitgemäß oder ist das einfach aus der Zeit gelaufen in gewisser Weise,
+[00:44:41-6 @justushaukap] aber das wird logischerweise, also dadurch dass Dinge nicht entstehen, sehen wir nicht, dass da nichts passiert, jetzt im Bereich Mobilität haben wir es vielleicht gesehen,
+[00:44:50-2 @justushaukap] dass wir gesagt haben, na eigentlich gibt es interessante Modelle, CleverShuttle und so und denen wir das Leben unglaublich schwer gemacht tatsächlich,
+[00:44:57-6 @justushaukap] weil wir eigentlich eine Regulierung haben, die nicht mehr zeitgemäß ist.
+[00:45:04-3 @timpritlove] So ein paar Marktumwälzungen der letzten Zeit scheinen ja ziemliche Erfolgsmodelle zu sein.
+[00:45:13-0 @timpritlove] Mir würde die Art und Weise, wie mit dem Strom umgegangen wird, als erste einfallen.
+[00:45:18-0 @timpritlove] Ist heutzutage erschreckend einfach, seinen Stromanbieter zu wechseln, egal wo man wohnt.
+[00:45:24-1 @timpritlove] Wenn man jetzt irgendwie die Nachhaltigkeit durch solarerzeugten Strom erzeugen möchte, ist das eine Sache von, man ruft da mal an und dann ist es so.
+[00:45:33-8 @timpritlove] Das war ja nun früher auch nicht so, da war man halt immer so ein bisschen an seinen lokalen Provider gebunden.
+[00:45:40-8 @justushaukap] Ja, festgebunden.
+[00:45:42-9 @timpritlove] Kann man sagen, dass das irgendwie ein Erfolgsmodell war oder?
+[00:45:45-5 @justushaukap] Im Großen und Ganzen würde ich sagen, schon.
+[00:45:48-8 @justushaukap] Die Leute haben heute eine höhere Auswahl, die müssen nicht mehr bei ihrem …
+[00:45:51-8 @justushaukap] Viele machen das, die bleiben gerne bei ihrem Stadtwerk oder ihrem lokalen Anbieter, aber andere sagen, ich möchte lieber zu einem anderen Anbieter,
+[00:46:00-8 @justushaukap] weil er günstiger ist, weil er ökologischer ist, weil er meinen Fußballverein sponsert, warum auch immer, wechseln
+[00:46:07-1 @justushaukap] und das ist für Verbraucher erst mal gut, also wer sagt, ich bin zufrieden so wie alles ist, der kann das weitermachen und wer sagt, ich möchte aber was anderes tun,
+[00:46:15-1 @justushaukap] der kann was anderes tun und von daher ist das für die Verbraucher eine sehr vorteilhafte Sache.
+[00:46:20-6 @justushaukap] Und wir sehen, es gibt ja zumindest einen Teil der Leute, die nutzen das.
+[00:46:23-9 @justushaukap] Also anscheinend finden die das gut, sonst würden sie es wohl nicht machen tatsächlich.
+[00:46:28-1 @justushaukap] Also im Großen und Ganzen funktioniert das auf der Endkundenebene recht gut mit dem Strommarkt.
+[00:46:36-1 @justushaukap] Mit dem Gasmarkt eigentlich ganz ähnlich, auch da kann man den Anbieter wechseln.
+[00:46:42-1 @justushaukap] Wir haben natürlich auch im Telekommunikationssektor, da kann man sagen, das ist wahrscheinlich längst nicht perfekt sozusagen,
+[00:46:50-2 @justushaukap] aber viele werden sich vielleicht nicht mehr daran erinnern, ich weiß es noch sozusagen, als die grauen Drehscheibentelefone durch dann die unheimlich hippen vierfarbigen Tastentelefone abgelöst wurden,
+[00:47:02-0 @justushaukap] für die man dann mehrere Wochen warten musste, wenn man den Antrag gestellt hatte auf Einrichtung eines Telefonanschlusses.
+[00:47:11-8 @justushaukap] Man war immer in dieser Bittstellerrolle letztendlich und hatte auch keine Wahl sozusagen.
+[00:47:15-4 @justushaukap] Und heute ist es ein bisschen besser geworden, Festnetzanschluss dauert zum Teil noch immer, aber ich habe kein Problem, mir ein Handytelefon in kürzester Zeit zuzulegen,
+[00:47:24-6 @justushaukap] ein Mobiltelefon.
+[00:47:27-7 @justushaukap] Und das funktioniert natürlich auch, weil es da Wettbewerb gibt in dem Markt.
+[00:47:30-5 @timpritlove] Schwieriges Thema, weil ich denke, dass gerade im Telekommunikationsbereich da noch einiges zu holen ist.
+[00:47:38-5 @timpritlove] Vielleicht kommen wir gleich nochmal drauf, das wollte ich nochmal separat aufgreifen.
+[00:47:43-5 @timpritlove] Ich wollte kurz den Sprung machen von Strom- und Gasnetzen auf der einen Seite quasi als Erfolgsmodell.
+[00:47:49-8 @justushaukap] Ja.
+[00:47:51-0 @timpritlove] Aber der Wasserversorgung als ein vergleichsweise problematisches Feld, einerseits weil ja nicht wie bei Strom und Gas so eine Überlandverbindung ist,
+[00:48:02-9 @timpritlove] es gibt ja nicht ein Wassernetz, in das man überall Wasser rein …
+[00:48:07-2 @timpritlove] Also es würde ja auch keinen Sinn machen.
+[00:48:09-1 @timpritlove] Und jede Gemeinde, jeder Bereich, jedes Land hat auch ganz eigene Bedingungen, unter denen Wasser gewonnen wird,
+[00:48:16-2 @timpritlove] aber das Ziel ist ja eigentlich immer dasselbe, nämlich den Leuten das wichtigste Lebensmittel bereitzustellen zu den besten Konditionen.
+[00:48:24-8 @timpritlove] Jetzt gab es aber auch hier eine Privatisierungswelle, ich weiß gar nicht wann das losging, 80er/90er Jahre.
+[00:48:31-5 @justushaukap] Wenig in Deutschland, also vereinzelt gab es Fälle von Privatisierungen, flächendeckend haben wir eigentlich nach wie vor alles in typischerweise kommunalem Besitz.
+[00:48:40-4 @justushaukap] Die haben das teilweise in privatrechtliche Formen überführt, die aber in hundertprozentigem Eigentum der Kommune sind.
+[00:48:47-2 @justushaukap] Berlin ist ein bisschen Ausnahme, die haben eine echte Privatisierung in Teilen gemacht, ein paar Städte gab es, aber im Großen und Ganzen haben wir nach wie vor kommunales Eigentum.
+[00:48:54-9 @timpritlove] Ja genau, aber das Berliner Beispiel zeigt ja im Prinzip, dass es Segmente gibt, in denen einfach so eine Privatisierung und ein, ach der Markt macht das, schon nicht funktioniert,
+[00:49:05-6 @timpritlove] die Dinge werden teuer und irgendwie ist ja auch die kapitalistische Logik an der Stelle so ein bisschen kaputt, weil das Ziel Geld zu verdienen mit etwas,
+[00:49:18-5 @timpritlove] was für alle so eine wichtige Ressource ist, stößt da irgendwie an seine Grenzen.
+[00:49:23-9 @timpritlove] Und der Wunsch, dass es dadurch billiger wird, hat sich in dem Sinne nicht erfüllt, weil man ja hier eigentlich in so einer klassischen Monopolsituation ist,
+[00:49:31-2 @timpritlove] weil das Wasser braucht man, das Wasser muss irgendwo herkommen, es kann aber nur aus einer Quelle kommen, warum kam man denn überhaupt auf diese Idee …
+[00:49:37-1 @justushaukap] Man muss ja erst mal …
+[00:49:38-0 @timpritlove] … so was zu machen, was hat man sich denn davon versprochen?
+[00:49:40-8 @justushaukap] Vielleicht nochmal zurück, man darf nicht, häufig oder ab und zu wird es gemacht, Privatisierung und Wettbewerb in einen Topf geworfen.
+[00:49:45-6 @justushaukap] Das sind natürlich völlig unterschiedliche Dinge.
+[00:49:47-0 @justushaukap] Privatisierung heißt nur, wem gehört irgendwas und Wettbewerb heißt, können andere Teilnehmer am Markt sich betätigen?
+[00:49:54-7 @justushaukap] Im Wassermarkt, das ist eins, was ich vorher angesprochen habe, dieser natürlichen Monopole, aus der Natur der Sache heraus wird es da keine Wettbewerb geben.
+[00:50:00-8 @justushaukap] Und den wird es auch auf absehbare Zeit nicht geben, weil sich der Transport von Wasser über längere Distanzen einfach nicht lohnt.
+[00:50:07-4 @justushaukap] Der Transport ist viel zu teuer im Vergleich zum Preis des Wassers.
+[00:50:11-8 @justushaukap] Also da wird keiner anfangen, eine Wasserleitung quer durch Deutschland zu bauen, um dann aus dem Sauerland Wasser nach Berlin zu bringen.
+[00:50:17-5 @justushaukap] Also der Stromtransport kostet fast nichts so in dem Sinne, deswegen gibt es da Wettbewerb und beim Wasser wird das nicht passieren.
+[00:50:23-8 @justushaukap] Und jetzt hat man da ein Monopol, das heißt es gibt keinen Wettbewerb.
+[00:50:26-0 @justushaukap] Das heißt, wenn mir der Wasserversorger nicht gefällt, kann ich nichts machen, muss ich trotzdem da bleiben.
+[00:50:29-9 @justushaukap] Das heißt also, der Verbraucher ist dem ausgeliefert.
+[00:50:32-1 @justushaukap] Und jetzt die Stadt Berlin hat das natürlich als vielleicht Paradebeispiel dafür gemacht, wie man es nicht machen sollte.
+[00:50:39-5 @justushaukap] Hat gesagt, wir haben hier ein Monopol, die Verbraucher sind nicht durch Wettbewerb geschützt in dieser Situation und wir verkaufen das jetzt an einen Privaten
+[00:50:48-3 @justushaukap] und erwarten auch noch, dass wir möglichst viel Geld dafür bekommen aus dem Verkauf.
+[00:50:53-6 @justushaukap] Und wann bekommt man möglichst viel Geld?
+[00:50:55-7 @justushaukap] Wenn der weiß, ich kann die Preise möglichst stark erhöhen.
+[00:50:58-4 @justushaukap] Das heißt also, das Ziel der Berliner Senatsverwaltung war damals gar nicht, wir wollen das Wasser günstiger machen, sondern das Ziel war,
+[00:51:03-3 @justushaukap] wir wollen möglichst viel Geld für uns einnehmen und das geht nur, wenn man denen erlaubt, die Preise möglichst hoch zu machen.
+[00:51:08-0 @justushaukap] Und dann ist das Bundeskartellamt ja auch eingeschritten und hat gesagt, das ist ein Missbrauch, Missbrauch einer marktbeherrschenden Stellung,
+[00:51:15-8 @justushaukap] es gibt hier keinen Wettbewerb, der ist marktbeherrschend, das ist ein Missbrauch eurer Situation, ihr müsst die Preise senken tatsächlich.
+[00:51:22-4 @justushaukap] Das ist sozusagen so, das Kartellrecht hat da diese Verbraucherschutzfunktion und sagt, wenn es keine Ausweichmöglichkeit gibt, wenn einer Marktbeherrscher ist sozusagen,
+[00:51:29-7 @justushaukap] dann darf der nicht tun und lassen was er will, sondern dann ist er an bestimmte Regeln gebunden, an die ein Wettbewerbsunternehmen nicht unbedingt gebunden ist,
+[00:51:36-5 @justushaukap] weil im Wettbewerb kann ich dann ja auswechseln, ausweichen zu jemand anders.
+[00:51:41-0 @justushaukap] Und da gab es ein paar andere auch, aber nicht nur Private tatsächlich, also auch gab es in Hessen in Mainz so verschiedene kommunale Betreiber, die genauso die Verbraucher geschröpft haben
+[00:51:52-5 @justushaukap] und die Wasserpreise missbräuchlich erhöht haben.
+[00:51:56-5 @justushaukap] Von daher, das ist ein Bereich, wo aus der Natur der Sache, das ist ein natürliches Monopol, würde ich sagen, da wird es keinen Wettbewerb geben im Wassermarkt,
+[00:52:04-6 @justushaukap] also von daher ist das sinnvollste, dass man da auch die Preise kontrolliert beim Wasser.
+[00:52:09-0 @justushaukap] Dagegen sträuben sich allerdings, muss man auch sagen, viele Kommunen.
+[00:52:11-4 @justushaukap] Weil viele Kommunen sagen, wir brauchen das Geld, wir wollen gar nicht verbraucherfreundliche Preise, im Wesentlichen brauchen wir das zur Finanzierung unserer kommunalen Haushalte.
+[00:52:20-2 @justushaukap] Sozusagen da haben wir große Gefechtslage.
+[00:52:23-1 @justushaukap] Also die Verbraucherschützer hätten gern Preise, die näher an den tatsächlichen Kosten sind und die Kommunen benehmen sich da im Grunde wie ein privater Monopolist und sagen,
+[00:52:31-9 @justushaukap] wir wollen möglichst viel Geld verdienen mit dem Wasser.
+[00:52:35-8 @timpritlove] Diese Investition des Staates, Länder, Gemeinden, also wie sagt man so schön, der öffentlichen …
+[00:52:42-7 @justushaukap] … öffentlichen Hand.
+[00:52:44-0 @timpritlove] … der öffentlichen Hand, genau, das war das Wort, was ich gesucht habe, steht ja schon unter Druck und man sieht es halt in anderen klassischen Bereichen,
+[00:52:55-0 @timpritlove] wie zum Beispiel im Autobahnausbau, wo man immer mal wieder nachdenkt so, ach diese Brücke ist jetzt aber doch mal sehr teuer, warum machen wir denn jetzt hier nicht Public Private Partnership,
+[00:53:04-1 @timpritlove] wie das so schön heißt, und nehmen uns quasi hier einen Investor rein, der natürlich dann wieder Geld vorstreckt, baut und dann später auf irgendeine Art und Weise,
+[00:53:11-7 @timpritlove] im Zweifelsfall halt mit einer Maut, sich diese Kohle wieder reinholt.
+[00:53:16-2 @timpritlove] So richtig zu funktionieren scheinen solche Modelle aber auch nicht oder?
+[00:53:21-9 @justushaukap] Ja, also das ist unterschiedlich, manche funktionieren gut, manche funktionieren weniger gut tatsächlich.
+[00:53:28-6 @justushaukap] Also der Kern ist und das ist das, worüber die Ökonomie oder Ökonomen dann auch immer wieder nachdenken, ist wirklich, wie kann man die Anreize in solchen komplexeren Verträgen
+[00:53:34-4 @justushaukap] denn optimal ausgestalten, dass der Vertragsnehmer, also wenn das jetzt ein privater ist, auch das tut, was wir wollen das er tut tatsächlich?
+[00:53:42-4 @justushaukap] Und idealerweise wäre das auch noch im Interesse der Kommune sozusagen, so einen Vertrag aufzusetzen.
+[00:53:49-7 @justushaukap] Das ist es natürlich gar nicht immer, weil die sozusagen auch wieder ihre eigenen Ziele gegebenenfalls haben oder der öffentlichen Hand.
+[00:53:57-9 @justushaukap] Und manchmal klappt es gut, manchmal klappt es tatsächlich nicht so gut, weil man die Anreize falsch gesetzt hat.
+[00:54:06-1 @justushaukap] Also ich fand dieses ganze Baustellenwesen zum Beispiel ganz interessant.
+[00:54:09-5 @justushaukap] In den USA hat man damit experimentiert und gesagt, wir geben denen quasi Sonderzahlungen, jeder Tag, mit dem die Baustelle vor der Planung fertig wird, gibt es noch eine Zahlung obendrauf.
+[00:54:19-8 @justushaukap] Und Überraschung, Überraschung, das funktioniert gut, weil die plötzlich dann sagen, na gut, wir haben jetzt den starken Anreiz sozusagen, dass das schnell fertig wird,
+[00:54:27-8 @justushaukap] weil dann verdienen wir da nochmal extra dran.
+[00:54:30-4 @justushaukap] Wir haben diese Art der Verträge nicht, wir sagen, wir haben so eine Pauschalisierung, die sagen halt, wenn die Leute gerade woanders benutzt werden,
+[00:54:35-8 @justushaukap] dann kommen die halt jetzt erst mal auf eine andere Baustelle, bauen woanders weiter und dann bleibt die Baustelle halt da länger tatsächlich.
+[00:54:43-1 @justushaukap] Und dann klar, dann funktioniert das weniger gut.
+[00:54:45-2 @justushaukap] Also die Frage ist, dann hat man zwar Geld gespart, aber mehr Stau.
+[00:54:50-0 @timpritlove] Was ja dann auch wieder Kosten nach sich zieht.
+[00:54:51-9 @justushaukap] Auch Kosten, aber die werden woanders verbucht, das sind zwar volkswirtschafliche Kosten, aber die fallen nicht beim Verkehrsministerium an tatsächlich.
+[00:54:57-2 @justushaukap] Von daher gibt es bei uns anscheinend weniger stark diesen Anreiz, auf so andere Vertragsmodelle zu setzen.
+[00:55:03-5 @timpritlove] Das wäre eine Empfehlung von Ihnen?
+[00:55:04-6 @justushaukap] Das wäre durchaus eine Empfehlung.
+[00:55:06-1 @justushaukap] Also man kann, das ist ja das Schöne, wenn nicht überall dasselbe gemacht wird, sondern in anderen Ländern anders damit umgegangen wird, dann kann man immer davon lernen und sagen,
+[00:55:14-5 @justushaukap] im Idealfall, was gut klappt, das machen wir auch und was nicht so gut klappt, das lassen wir lieber sein.
+[00:55:20-7 @justushaukap] Das ist ja, jetzt kommen wir wieder zurück, eigentlich Wettbewerb als Entdeckungsverfahren, man weiß ja vorher nie so ganz genau was am besten läuft.
+[00:55:25-4 @justushaukap] Und das gute ist immer, wenn Leute verschiedene Sachen machen, dann kann man da was lernen.
+[00:55:28-9 @justushaukap] Dann kann man sagen, aha das scheint zu klappen und das scheint nicht so gut zu klappen.
+[00:55:33-5 @timpritlove] Wobei der Straßenbau hat ja nochmal so einen spezielle Komponente, weil in gewisser Hinsicht ist es ja ein bisschen wie das Wassernetz,
+[00:55:38-3 @timpritlove] die Straße wird einmal gebaut und die bewegt sich halt auch nicht weg und die ist nur genau an dem einen Ort, wo sie sein kann, auch ein Nutzen für alle.
+[00:55:49-6 @timpritlove] Jetzt haben wir natürlich relativ viel Asphaltierung in Deutschland, sicherlich mehr als genug in gewisser Hinsicht, so oder so muss man ja immer abwägen,
+[00:56:00-1 @timpritlove] klar, ich lass jetzt mal so Naturbelastung, Lärm etc. mal außen vor, also sozusagen einfach nur dieser Nutzen der Autobahn für alle.
+[00:56:09-6 @timpritlove] Wie geht man da vor?
+[00:56:12-2 @timpritlove] Also wenn man das jetzt versucht volkswirtschaftlich zu bewerten.
+[00:56:16-7 @timpritlove] Was quasi ein Nutzen einer solchen Straße ist, und was quasi dann auch für uns der tragbare Kostenaufwand ist, ist ja nicht nur für den Bau, sondern eben auch für den Erhalt und Betrieb dieser Straßensysteme.
+[00:56:32-3 @timpritlove] Wie kann man das abwägen?
+[00:56:35-8 @timpritlove] Wie kann man einen solchen Nutzen ausrechnen?
+[00:56:39-0 @justushaukap] Als Ökologe würde man gar nicht so sehr dieses …
+[00:56:42-9 @justushaukap] es wird zwar häufig so in der Öffentlichkeit als öffentliches Gut dargestellt, aber eigentlich hat es auch sehr starke Aspekte eines privaten Gutes.
+[00:56:51-6 @justushaukap] Also am meisten Nutzen stiftet die Straße erst mal denjenigen, die sie tatsächlich nutzen.
+[00:56:57-9 @justushaukap] Weil sozusagen die haben was davon, dass sie da fahren können.
+[00:57:00-2 @justushaukap] Und das würde eigentlich dafür sprechen, dass diejenigen, je mehr man nutzt, desto mehr sollte man auch beitragen dazu, die Straße zu bezahlen.
+[00:57:08-1 @timpritlove] Hausbesitzer müssen ja dann wiederum für die Anbindung ihres Hauses …
+[00:57:11-4 @justushaukap] … auch zahlen.
+[00:57:11-9 @timpritlove] … für die letzte Meile quasi zahlen.
+[00:57:14-8 @justushaukap] Bahnnutzer zahlen auch für jede Fahrt tatsächlich.
+[00:57:18-6 @justushaukap] Da ist nicht nur das Ticket für die Bahn drin, sondern ein Teil des Geldes, das sieht der Kunde zwar nicht, weil es auf dem Ticket nicht draufsteht, geht an die DB Netz AG für die Nutzung der Schienen und der Bahnhöfe.
+[00:57:29-4 @justushaukap] Das heißt, also eigentlich zahlt jeder Kunde mit jeder Fahrkarte auch einen Teil für die Bahnhöfe und die Schienen tatsächlich.
+[00:57:36-3 @justushaukap] Deswegen ist die Idee einer Maut oder einer Nutzungsgebühr für die Straßen eigentlich ökonomisch sehr sinnvoll.
+[00:57:43-3 @justushaukap] Vielleicht nicht gerade die Umsetzung, die jetzt geplant war, sondern eher eine möglichst stark an die tatsächliche Nutzen gekoppelte Gebühr.
+[00:57:53-5 @justushaukap] Und im Idealfall auch so, dass man sagt, in Stauzeiten muss die Gebühr auch sogar noch höher sein, um eine Lenkungswirkung zu entfalten,
+[00:58:01-0 @justushaukap] damit möglichst dann vielleicht doch Leute sich das anders überlegen und woanders lang fahren oder zu anderen Zeiten fahren.
+[00:58:09-0 @justushaukap] Und dann vielleicht nachts das Ganze günstiger zu machen, wenn man im Grunde genug freie Kapazitäten hat und die Autobahn ja sowieso da ist.
+[00:58:17-5 @justushaukap] Also dieses System, dass man sagt, diejenigen, die den größten Nutzen daraus ziehen, sollten auch am meisten dafür zahlen, ist eigentlich ganz vernünftig aus ökonomischer Sicht.
+[00:58:26-9 @timpritlove] Da ist die Frage, was der richtige Weg dazu ist.
+[00:58:29-3 @timpritlove] Baut man jetzt überall Kameras auf und macht so eine Totalüberwachung sämtlicher Verkehrsströme oder macht man nicht einfach nur die Reifen teurer.
+[00:58:36-8 @justushaukap] Ja, also da gibt es sicherlich verschiedene Modelle sozusagen, man könnte auch sagen, implizit ist es vielleicht im Spritpreis irgendwo mit drin.
+[00:58:46-0 @timpritlove] Funktioniert ja jetzt nicht mehr mit e-Mobilität.
+[00:58:48-4 @justushaukap] Mit e-Mobilität funktioniert es nicht, dann müsste man sagen, dann muss es im Reifenpreis oder …
+[00:58:55-0 @timpritlove] Fleisch muss teurer werden, Reifen müssen teurer werden.
+[00:59:00-7 @justushaukap] Ja, die Reifensteuer, in Irland gab es die auch mal die Reifensteuer.
+[00:59:04-2 @justushaukap] Dann kommt wieder das Problem, dann sagt man, aber was ist mit den Ausländern, die nutzen die Straße ja genauso gut, es gibt keinen logischen Grund,
+[00:59:09-5 @justushaukap] warum die sich nicht an der Finanzierung beteiligen sollten.
+[00:59:14-0 @justushaukap] Ich kann das durchaus nachvollziehen, diese ganze Überwachung das gefällt mir nicht, das möchte ich eigentlich nicht, dauernd überwacht werden.
+[00:59:21-6 @justushaukap] Dann muss man sich vielleicht andere intelligente Lösungen ausdenken, wie das funktionieren kann.
+[00:59:25-2 @justushaukap] Aber prinzipiell spricht vieles dafür, so eine Maut zu haben auch in der Stadt.
+[00:59:33-5 @justushaukap] Also wir diskutieren jetzt über alle möglichen Fahrverbote, eigentlich als Ökonom sagt man, es gibt ja einen Preis.
+[00:59:39-7 @justushaukap] Zahlreiche Städte der Welt haben City Mauts mittlerweile.
+[00:59:42-3 @justushaukap] Derjenige, der sagt, ich muss aber unbedingt in die Stadt, warum auch immer, ja dann soll er halt dafür zahlen, wenn er sagt, das ist so wichtig für mich,
+[00:59:48-6 @justushaukap] dass ich mit dem Auto in der Stadt rumfahre und die anderen kann man dann doch mal zur Überlegung anregen, ob man nicht doch den ÖPNV, das Fahrrad oder sonst irgendwas nutzt.
+[00:59:57-0 @justushaukap] Das scheint ja auch in Städten wie London auch gar nicht so schlecht zu funktionieren.
+[01:00:01-8 @timpritlove] In Amsterdam werden vor allem die Stellplätze teuer.
+[01:00:03-6 @timpritlove] Das ist natürlich eigentlich auch ein ganz interessantes Vehikel, weil man muss ja das Auto auch irgendwo parken und tatsächlich ist es ja in dem Moment, wo es nicht genutzt wird,
+[01:00:10-3 @timpritlove] eigentlich das größte Ärgernis.
+[01:00:12-9 @timpritlove] Weil, wenn es irgendwo rumfährt, dann stört es ja erst mal nicht, aber dieser kostenlose Parkplatz, der quasi irgendwie, von dem alle irgendwie alle annehmen,
+[01:00:23-0 @timpritlove] man hätte darauf ein Anrecht, aber wenn man jetzt mal den üblichen Mietpreis pro Quadratmeter, den man so für eine Wohnung zahlt, mal auch in Parkplatzstellfläche umrechnet,
+[01:00:33-6 @timpritlove] würden ja dann ganz erhebliche Beträge zusammenkommen.
+[01:00:35-7 @justushaukap] Also auch das ist ein vernünftiger Weg.
+[01:00:40-0 @justushaukap] Zu sagen, die Leute durch moralische Appelle ist meistens begrenzt was erreichbar bei den Menschen.
+[01:00:47-4 @justushaukap] Das ist vielleicht traurig, aber so scheint es zu sein.
+[01:00:50-7 @justushaukap] Wenn man den Leuten aber ans Geld geht und sagt, es kostet einfach mehr, denken viele Leute zumindest mehr darüber nach als nur durch fromme Worte tatsächlich.
+[01:01:02-3 @justushaukap] Also von daher, ob man es jetzt über einen Stellplatz macht, über eine City Maut, über was anderes, also die Logik sozusagen oder die empirische Erfahrung auch zeigt,
+[01:01:11-0 @justushaukap] wenn etwas teurer wird, kaufen die Leute weniger davon.
+[01:01:13-6 @justushaukap] Ganz wie ich am Anfang gesagt habe, wenn das Fahren in die Stadt teurer wird, dann machen sie es auch weniger.
+[01:01:17-7 @timpritlove] Aber jetzt kommt natürlich dann auch, wie ich finde, nicht zu Unrecht, schnell auch das Argument der sozialen Ausgeglichenheit.
+[01:01:26-8 @timpritlove] Also dass man eben so einen gewissen Transportluxus, der ja, sagen wir mal, auch als Freiheit angesehen werden kann bzw. auch als Ermöglichung überhaupt einer wirtschaftlichen Betätigung,
+[01:01:35-3 @timpritlove] dass der eben auch den Leuten zugänglich gemacht werden soll, die eben unter Umständen eben nicht über so große Mittel verfügen, um dann eben auch noch daran teilzunehmen.
+[01:01:44-3 @timpritlove] Wenn man jetzt sozusagen sagt, Fahren, Auto das wird jetzt alles ganz teuer, weil ist ja schädlich und erzeugt ja irgendwie Kosten und alle sollen ja irgendwie die Kosten tragen,
+[01:01:53-1 @timpritlove] dann ist das ja im Prinzip auch eine Aufforderung an Leute, die sich das nicht mehr leisten kann, an dieser Realität so nicht mehr teilzunehmen.
+[01:02:02-8 @justushaukap] Ja, natürlich sozusagen, aber irgendwie müssen wir weniger…
+[01:02:07-0 @justushaukap] Also wenn wir sagen, wir brauchen weniger Verkehr, müssen irgendwelche Leute weniger fahren.
+[01:02:10-9 @justushaukap] Also dass alle gleich viel fahren und wir haben weniger Verkehr, das geht nicht.
+[01:02:13-8 @justushaukap] Die Frage ist, muss man das jetzt sozusagen direkt durch die City Mauts und ähnliches lösen oder machen wir es nicht so, wie jetzt in der Diskussion um die CO2-Abgabe,
+[01:02:21-8 @justushaukap] dass man sagt, okay dann kriegt jeder pauschal einen Scheck von XY mehr und dann kann er sich immer noch überlegen, ich fahre jetzt nach wie vor in die Stadt von dem Geld,
+[01:02:30-8 @justushaukap] was ich bekommen habe oder ich mache dann doch was anderes von dem Geld.
+[01:02:34-4 @justushaukap] Also es geht ja hier mehr um die Lenkungsfunktion, es geht gar nicht so sehr darum, dass man sagt, wir wollen unbedingt mehr Geld einnehmen.
+[01:02:40-2 @justushaukap] Man kann ja sagen, wir verteilen das Geld wieder um, was wir da einnehmen, weil es uns nicht darauf ankommt, mehr Geld in die Kassen zu spülen,
+[01:02:47-6 @justushaukap] sondern die Leute zu anderem Verhalten zu bringen.
+[01:02:49-5 @justushaukap] Und dann kann sich jeder selber überlegen, ob er mit den XY Euro, die er bekommen hat, weil es eine City Maut oder irgendwas gibt, wofür er das gerne ausgeben möchte.
+[01:02:57-8 @justushaukap] Dann ist das jedermann oder jederfrau eigene Entscheidung das zu tun.
+[01:03:03-8 @timpritlove] Aber das ist ja eine relativ neue Diskussion.
+[01:03:06-8 @timpritlove] Dieses Prinzip wird auch in den USA diskutiert, so Green new Deal etc., in solchen Debattenebenen findet das überall statt.
+[01:03:16-4 @timpritlove] So diese Umkehrung der Gebühr quasi in eine Auszahlung, auf die man dann verzichten kann, indem man halt doch nutzt, wenn ich es richtig verstehe.
+[01:03:24-7 @timpritlove] Wie soll das genau funktionieren?
+[01:03:26-3 @timpritlove] Also bleiben wir vielleicht mal bei diesem Beispiel CO2-Steuer, indem das ja eben diskutiert wird.
+[01:03:34-5 @timpritlove] Ich zahle mehr auf alles, was CO2 erzeugt, wenn ich aber selber weniger nutze, zahle ich nicht nur nicht, sondern ich bekomme etwas von diesen Einnahmen,
+[01:03:47-0 @timpritlove] die aus dieser Steuer geschehen, auch etwas zurück.
+[01:03:52-0 @timpritlove] Also quasi so ein CO2-Grundeinkommen, was man erst mal hat und was man dann aber quasi freiwillig verbraten kann, indem man dann doch CO2 erzeugt.
+[01:04:03-0 @justushaukap] Ich meine, indirekt hatten wir das eigentlich immer sozusagen, wir haben es nur nicht so …
+[01:04:07-6 @timpritlove] Weil ja die Steuern ja ohnehin allen zugute kommen.
+[01:04:09-2 @justushaukap] Die Raucher finanzieren was auch immer.
+[01:04:11-1 @timpritlove] Die Krankenhäuser.
+[01:04:11-1 @justushaukap] Und jeder kriegt sicherlich nicht seinen Anteil aus der Tabaksteuer maßgeschneidert zurück.
+[01:04:15-7 @justushaukap] Wenn ich jetzt Kettenraucher bin, dann würde ich sagen, finanziere ich alle möglichen Dinge sozusagen, wenn ich auch die Mineralölsteuer ist ja schon ganz erquicklich für den Staat.
+[01:04:24-3 @timpritlove] Nur man sieht es halt nicht auf dem Konto.
+[01:04:28-0 @justushaukap] Man sieht es nicht direkt auf dem Konto, aber der Staat behält das Geld ja ultimativ nicht für sich, sondern es wird irgendwie wieder ausgegeben für irgendwelche Dinge tatsächlich.
+[01:04:37-3 @justushaukap] Und dann sieht man vielleicht nicht, dass davon Kitaplätze oder was weiß ich bezahlt werden und natürlich stimmt das dann nicht, dass der Kettenraucher auch gleichzeitig drei Kinder hat,
+[01:04:44-4 @justushaukap] die davon profitieren sozusagen, also von daher gibt es da eine Art indirekte Umverteilung, die nicht gut erkennbar ist.
+[01:04:49-3 @justushaukap] Aber im Grunde genommen, dass man den Leuten das Geld zurückgibt, zwar nicht in, teilweise in direkten Transfers, dass man sagt, wir erhöhen die Steuerfreibeträge oder das Wohngeld
+[01:04:58-3 @justushaukap] oder was auch immer, oder dass man sagt, wir bauen davon Dinge, die der Allgemeinheit nutzen, sei es eine Universität, ein Kita oder eine Straße.
+[01:05:10-8 @justushaukap] Tatsächlich ist es ja schon immer so gewesen im Grunde.
+[01:05:13-3 @justushaukap] Jetzt macht man es ein bisschen transparenter, indem man sagt, hier wir nehmen das Geld ein und wollen auch direkt zeigen, dass wir gar nicht daran Geld verdienen wollen,
+[01:05:19-8 @justushaukap] sondern dann kriegt jeder, ich weiß nicht, 100 Euro oder was auch immer zurück, sozusagen das hat vielleicht eine höhere Sichtbarkeit und führt dann zu mehr Akzeptanz,
+[01:05:27-1 @justushaukap] als wenn man sagt, wir nehmen das Geld einfach ein und bauen dann tolle Sachen und erzählen euch hinterher noch, was das genau gewesen ist.
+[01:05:32-1 @timpritlove] Ja und vor allem ist klar sozusagen, wer davon profitiert, während es ja nun auch nicht so ist, dass alle Steuereinnahmen, die aus hehren Gründen erzielt werden,
+[01:05:43-5 @timpritlove] automatisch dann auch in tolle Sachen fließen.
+[01:05:46-9 @justushaukap] Der Staat gibt auch genug Geld für Quatsch aus, das ist richtig. Aber ausgegeben wird es.
+[01:05:51-2 @timpritlove] Ja, für Flughäfen zum Beispiel.
+[01:05:55-0 @justushaukap] Flughäfen, also alle möglichen Dinge, die Regionalflughäfen, 76 haben wir, glaube ich.
+[01:06:00-9 @timpritlove] Ja oder welche, die gar nicht eröffnen, also da sind wir ja in Berlin ganz weit vorne.
+[01:06:03-4 @justushaukap] Ach so in Berlin, ja da kann man sagen, also auf der Investitionsrechnung haben wir da ganz tolle Investitionen in Berlin, ja nur produktiv sind sie gerade nicht.
+[01:06:13-0 @justushaukap] Aber wir haben auch viel zu viele Flughäfen in Deutschland.
+[01:06:15-4 @justushaukap] Wir haben also in Cuxhaven, in Kassel, was weiß ich, es gibt überall Flughäfen, die keiner braucht tatsächlich.
+[01:06:22-2 @justushaukap] Also es wird auch viel Geld für Unsinn ausgegeben, muss man sagen.
+[01:06:25-1 @justushaukap] Aber das ist immer in der Demokratie wahrscheinlich nicht ganz zu vermeiden, dass diejenigen, die dann gewählt worden sind, auch ab und zu mal Quatsch machen.
+[01:06:31-8 @timpritlove] Ja ohne Unsinn wäre es wahrscheinlich auch langweilig.
+[01:06:38-5 @justushaukap] Ja, sagt ja Tocotronic schon.
+[01:06:41-3 @timpritlove] Trotzdem wo wir noch bei diesen ganzen Netzen waren, will ich da nochmal kurz das mit der Telekommunikation aufgreifen, weil das ist dann wirklich jetzt tricky.
+[01:06:50-1 @timpritlove] Jetzt hat man ja so Strom-, Gasnetze, funktioniert gut, weil alles miteinander verbunden, wir haben da irgendwie jetzt einen gut regulierten Bereich
+[01:06:57-7 @timpritlove] und vor allem die Versorgung ist da.
+[01:06:59-7 @timpritlove] Strom ist überall da, Gas ist vielleicht nicht überall da, aber überall da, wo es ist, ist es halt da.
+[01:07:07-2 @justushaukap] Ja.
+[01:07:08-0 @timpritlove] Straßen ist ähnlich gelagert, wir haben schon gesagt, wenn es von mehr Leuten benutzt wird, umso besser für alle und dann lohnt sich eben diese Investition in diesem Telekommunikationsbereich,
+[01:07:23-0 @timpritlove] dem Bereitstellen von digitalen Verbindungen hakt es aber enorm.
+[01:07:29-5 @timpritlove] Hier werden mehrere Netze aufgebaut, nicht nur im Mobilfunkbereich, sondern halt auch in den glasfaserbasierten Backendnetzen und man hat irgendwie nicht so den Eindruck,
+[01:07:45-6 @timpritlove] dass es schnell genug besser wird alles, dass hier die richtigen Wege eingeleitet werden.
+[01:07:53-5 @timpritlove] Ich meine, das ist evident, Deutschland hat da irgendwie riesige Probleme.
+[01:07:59-6 @timpritlove] Und man kann sich halt fragen, wären jetzt hier regulierende Maßnahmen hilfreich, um diesen Prozess zu beschleunigen?
+[01:08:08-2 @timpritlove] Müssten nicht solche Datenwege genauso behandelt werden wie Autobahnen oder genauso gesehen werden und müsste man hier nicht erkennen, um eine Versorgung sicherzustellen,
+[01:08:18-6 @timpritlove] auch hier gibt es sozusagen bestimmte Bereiche, also Standorte für Masten etc., der Ausbau von Anbindung für sehr entlegene Gegenden, da gibt es ja auch diesen Incentive nicht,
+[01:08:31-7 @timpritlove] dass da viel Geld zu verdienen ist, weil im Wesentlichen sind es halt die, die da alle durchfahren, in dem Moment, wo sie durchfahren, und dann halt ein paar Gehöfte, die da eben noch liegen.
+[01:08:41-5 @timpritlove] Lohnt sich also nicht das abzudecken.
+[01:08:42-6 @timpritlove] Andererseits ist natürlich ein Mobilfunknetz in dem Moment halt bekloppt, wenn es halt mobil nicht funktioniert.
+[01:08:51-5 @justushaukap] Ja, das ist ein Thema, was wir auch sehr intensiv tatsächlich beforschen und das ist vielschichtig dieses Problem.
+[01:08:58-6 @timpritlove] Ja, das stimmt.
+[01:09:00-2 @justushaukap] Also man kann da schlecht monokausal sagen, dies ist die Hauptursache, da müssen wir jetzt mal die Schraube umdrehen und wupp dann läuft es.
+[01:09:08-2 @justushaukap] Sondern wir haben da eine ganze Reihe, eine Gemengelage von Problemen.
+[01:09:15-9 @justushaukap] Also wir haben zum einen, ich will mal so anfangen, ist aus meiner Sicht der Fokus auf die Infrastruktur politisch gut erklärbar momentan, aber auch ein bisschen falsch tatsächlich.
+[01:09:28-6 @timpritlove] Welcher Fokus?
+[01:09:28-9 @justushaukap] Es wird ja immer sozusagen selbst im Koalitionsvertrag im letzten, als allererstes unter Digitalisierung steht immer Breitband, Breitband, Breitband, mehr Breitband.
+[01:09:36-8 @timpritlove] Ja, das steht da schon seit zehn Jahren drin.
+[01:09:39-9 @justushaukap] Was wir überhaupt nicht machen oder viel zu wenig, dass wir sagen, wofür wollen die Leute Breitband haben, wofür?
+[01:09:46-0 @justushaukap] Typischerweise die wollen ja nicht Breitband, weil das so tolles Breitband ist, sie wollen das für die Anwendung typischerweise.
+[01:09:49-5 @justushaukap] Sie sagen, weil ich will irgendwas damit machen im Idealfall.
+[01:09:52-4 @justushaukap] Dann haben wir in Deutschland ein relativ, also auch im internationalen Vergleich, sehr geringen Takeup, also selbst da, wo es ist sozusagen, wird es aus unterschiedlichen Gründen nicht bestellt,
+[01:10:02-0 @justushaukap] was auch wiederum daran liegt, das hat auch wieder viele Ursachen, das haben wir eben schon besprochen, das liegt zum Teil am Mietrecht, an Eigentümerstrukturen,
+[01:10:10-8 @justushaukap] zum Teil auch daran, dass wir …
+[01:10:13-6 @timpritlove] Dass es nichts taugt auch, das ist auch noch ein Grund.
+[01:10:15-8 @justushaukap] Und die Apps sozusagen, auch bei den Anwendungen im Allgemeinen sehr weit hinten dran sind in vielen Bereichen.
+[01:10:22-1 @justushaukap] Also wenn wir uns die Bereiche eHealth angucken, Platz 26 in der EU, eGovernment, auch im hinteren Drittel unterwegs.
+[01:10:33-2 @justushaukap] Also Netflix, Amazon Prime oder das ganze Fernsehsystem sozusagen fängt an so ein bisschen abzuheben tatsächlich.
+[01:10:41-3 @justushaukap] Lange war auch da Deutschland relativ zögerlich im Takeup, also das, wofür man tatsächlich schnelles Internet ganz gerne hätte.
+[01:10:48-6 @justushaukap] Also wir sind bei den ganzen Anwendungen sehr weit hinten dran.
+[01:10:52-2 @justushaukap] Und dann stellt sich für viele natürlich auch noch die Frage, warum soll ich mir ein schnelles Internet bestellen, wenn ich gar nicht …
+[01:10:58-1 @justushaukap] Also die Emails, wenn ich jemand bin, der primär Emails nutzt, dann brauche ich das nicht tatsächlich.
+[01:11:05-1 @justushaukap] Oder ein bisschen im Web rumsurfe.
+[01:11:05-9 @justushaukap] Also im Prinzip braucht man, wenn man streamt irgendwas oder vielleicht, also selbst dieses berühmte Beispiel der Architekt, der irgendwo mitten im Wald wohnt sozusagen
+[01:11:15-9 @justushaukap] und nicht in der Stadt und dann seine großen Pakete verschicken muss, muss das dann zur Not die ganze Nacht machen oder dann doch sozusagen …
+[01:11:22-4 @justushaukap] aber das sind ja eher konstruierte Beispiele, die …
+[01:11:25-8 @timpritlove] Ich kenne da eine ganze Menge, die haben wirklich genau dieses Problem und schicken Festplatte durch die Geschichte, um überhaupt noch irgendwie ihre Tätigkeit ausüben zu können.
+[01:11:32-4 @justushaukap] Weil sie nicht in einem Gewerbegebiet oder in irgendeiner sitzen.
+[01:11:35-1 @timpritlove] Selbst wenn sie in einem Gewerbegebiet sind, ist es ja teilweise einfach nicht zu leisten.
+[01:11:40-5 @timpritlove] Also das ist einfach evident.
+[01:11:44-2 @timpritlove] Und ich finde es insofern ein bisschen zu kurz gedacht, als dass es natürlich ganz grundlegende Anwendungen gibt, wie allein schon seinen digitalen Datenbestand regelmäßig auszulagern,
+[01:11:55-5 @timpritlove] um einfach gegen Gefahren aller Art abgesichert zu sein, wo erhebliche Datenmengen anfallen würden.
+[01:12:00-8 @timpritlove] Aber auf die Idee, so etwas zu machen, kommen die Leute natürlich nicht, weil dieses Netz es nicht leistet.
+[01:12:05-7 @timpritlove] Und die sogenannten schnellen Verbindungen sind ja auch meistens auch immer nur eine Richtung schnell, wir haben ja so eine komplett asymmetrische Netzdenke,
+[01:12:13-6 @timpritlove] die immer nur mit Download, Download immer dieses Consumerdenken drin hat, anstatt dass man das halt mal bidirektional denkt.
+[01:12:21-5 @timpritlove] Südkorea, Japan und so weiter, Finnland, da wird irgendwie symmetrische Verbindung überall hingelegt und diese Asymmetrie ist natürlich ein großes Problem an der Stelle.
+[01:12:30-9 @justushaukap] Ja, also die Beispiele sozusagen von Unternehmen, die nicht in die Cloud verlagern können oder so, tatsächlich also mir scheint das kein Problem zu sein,
+[01:12:41-6 @justushaukap] was flächendeckend in Deutschland tatsächlich der Fall ist momentan.
+[01:12:46-4 @justushaukap] Wäre vielleicht nochmal sich sozusagen anzusehen, ob das sozusagen tatsächlich systematisch dann passiert.
+[01:12:53-5 @justushaukap] Aber momentan haben wir sehr stark diesen Fokus sozusagen auf diese Infrastruktur und gucken uns also die Anwendungen an, da haben wir sehr restriktive Bedingungen sozusagen.
+[01:13:01-4 @justushaukap] Also die werden so gut wie kaum oder da hängen wir sehr weit hinterher.
+[01:13:05-5 @justushaukap] Und ich kann das politisch auch verstehen, weil das schwierig ist immer, in den Bereichen was zu ändern, während das mit der Infrastruktur prinzipiell noch einfacher ist.
+[01:13:12-7 @justushaukap] Jeder Bürgermeister bemüht sich darum, müssen mehr Geld schaffen und das ist auch was, was jeder haben will im Prinzip.
+[01:13:18-5 @justushaukap] Also von daher sozusagen ist das noch verständlich, dass da der Fokus stärker drauf ist, auch wenn wir da vielleicht hinterherhängen.
+[01:13:24-1 @justushaukap] Dann gibt es natürlich verschiedene Gründe, warum das unter anderem so ist in den Infrastrukturen.
+[01:13:32-6 @justushaukap] Zum einen lag es daran, dass wir, bin gespannt, ob sich das ändern wird, auch im Bereich von Kabelfernsehen eine lange Zeit eine sehr zersplitterte Landschaft hatten.
+[01:13:41-9 @justushaukap] Da haben wir ja jetzt eine große Konsolidierung gesehen, sozusagen dass da Größenvorteile realisiert werden können sozusagen, weil das ja in vielen Bereichen jemand war,
+[01:13:49-3 @justushaukap] der dann sozusagen als Konkurrent aufgetreten ist zu den klassischen Telekommunikationsunternehmen.
+[01:13:53-3 @justushaukap] Wir bauen natürlich gerade, anders als in Ostasien, auch nicht, selbst in Tokyo hängen die Leitungen oberirdisch, bis auf im CBD, aber sonst, sobald man ein bisschen weiter draußen ist,
+[01:14:03-2 @justushaukap] hängt alles überirdisch, ist natürlich ungleich viel billiger das Ganze zu bauen.
+[01:14:07-5 @justushaukap] Die Präferenzen bei uns sind nicht so, dass man es möchte.
+[01:14:13-9 @justushaukap] Wir hatten teilweise auch Defizite in der Regulierung, das ist sehr langsam aufgeholt worden, dass wir gesagt haben, wir müssen mehr Leerrohre überhaupt schaffen,
+[01:14:19-9 @justushaukap] damit es billiger wird zu verlegen in den Straßen.
+[01:14:22-3 @justushaukap] Auch die Stadtwerke waren da zurückhaltend, die Mitnutzung ihrer Rohre wiederum für Telekommunikationsunternehmen zu öffnen, da gibt es jetzt einen stärkeren Zwang,
+[01:14:31-9 @justushaukap] dass die das tun müssen tatsächlich.
+[01:14:33-7 @justushaukap] Der Infrastrukturatlas hing hinterher.
+[01:14:36-0 @justushaukap] Wenn man sich den anguckt, die Bundesnetzagentur holt da jetzt zwar auf, dass man überhaupt weiß, wo ist überhaupt was?
+[01:14:41-5 @justushaukap] Das kann man ganz gut sehen bei der Bundesnetzagentur, manche Kommunen haben schon sehr intensiv alles da stehen, jede Straßenlaterne drin tatsächlich.
+[01:14:48-9 @justushaukap] Dann weiß man, jede Straßenlaterne könnte irgendwie ein 5G-Standort in Zukunft sein.
+[01:14:53-5 @justushaukap] Das ist natürlich viel besser als Kommunen, die muss man sagen, auch bei OpenData eben sehr stark hinterherhängen und wir deswegen auch gar nicht genug wissen,
+[01:15:00-3 @justushaukap] wo alles genau ist.
+[01:15:03-7 @justushaukap] Da sieht man gewisse Fortschritte, aber in der Tat sozusagen ist richtig, da ist nach wie vor Nachholbedarf.
+[01:15:07-4 @justushaukap] Meine Angst ist nur oder meine Befürchtung, über diesen ganzen Fokus auf die Infrastruktur, als die Leitungen, vergessen wir nach wie vor die ganze Anwendungsseite.
+[01:15:17-8 @justushaukap] Also wo könnten wir es machen?
+[01:15:19-7 @justushaukap] Im Bereich OpenData Deutschland hängt hinterher, da muss man noch nicht die Privatwirtschaft ermuntern, das ist was, was die öffentliche Hand selber tun könnte.
+[01:15:26-8 @justushaukap] eGovernment hängen wir hinterher, eHealth ganz bescheiden die Lage in Deutschland.
+[01:15:31-8 @justushaukap] Das sind alles Bereiche, die eigentlich sehr stark unter staatlicher Obhut sind im Grunde genommen, wo der Staat das selber alles machen könnte, aber er tut es nicht.
+[01:15:41-4 @justushaukap] Und von daher denke ich, ist meine Befürchtung, dass wir den Fokus zu sehr auf die Infrastruktur legen und zu wenig auf die Anwendungen.
+[01:15:53-2 @timpritlove] Also mir würden da genug Anwendungen einfallen, nur dass halt die Infrastruktur dafür nicht da ist, um diese Anwendung überhaupt erst mal…
+[01:15:58-6 @timpritlove] Ich meine, das ist ja auch so ein bisschen auch ein Henne-Ei-Problem.
+[01:16:01-1 @justushaukap] Das ist es ja.
+[01:16:02-6 @timpritlove] Man muss halt auch ganz klar sehen, es wird sich halt niemals eine digitale Wirtschaft entwickeln können, wenn man nicht überhaupt erst eben genug die Infrastruktur dafür hat.
+[01:16:11-1 @timpritlove] Hätte man keine Straßen gebaut, würden sich dann auch keine Werkstätten in den Orten ansiedeln und das ist vielleicht auch nicht das allererste, woran man zunächst einmal gedacht hat.
+[01:16:22-1 @timpritlove] Aber dass das dann eben solide Handwerksbetriebe sind etc. und irgendwann dann vielleicht eben auch diese Transportkapazität eben für die Lieferung von anderen Waren benutzt wird,
+[01:16:32-5 @timpritlove] das ist ja dann das, was an zweiter und dritter Stelle steht, aber eigentlich mit der eigentlichen Infrastrukturerschließung so erst mal nichts zu tun hat.
+[01:16:39-2 @justushaukap] Aber wenn ich nur die Infrastruktur habe, aber die ganzen Anwendungen nicht zulasse, sondern immer wieder sozusagen versuche, auch die so sehr zu regulieren, dass sie nicht nutzbar sind,
+[01:16:50-7 @justushaukap] dann …
+[01:16:52-5 @timpritlove] Das ist sicherlich auch.
+[01:16:53-3 @justushaukap] Also ich meine, wir bauen jetzt ganz viele Autobahnen, aber führen gleichzeitig Tempo 30 ein überall, dann werden auch die Autobahnen wahrscheinlich nicht viel genutzt.
+[01:17:02-3 @timpritlove] Ja, das wäre dann mit dem Internet auch so.
+[01:17:06-1 @timpritlove] Aber ist ja jetzt nicht so, dass man nicht gute Beispiele hätte.
+[01:17:08-6 @timpritlove] Also so Länder wie Südkorea, die irgendwie auf allen Onlinelisten ganz oben stehen, die halt mittlerweile auch ganz eigene digitale Industrien entwickeln,
+[01:17:18-2 @timpritlove] so eSports und so weiter, Sachen, die da einfach eine extreme Bedeutung haben, wo wir komplett außen vor sind sozusagen, wo man überhaupt noch nicht mal drüber nachdenken kann,
+[01:17:29-6 @timpritlove] dass sich so was entwickeln könnte und andere neue Branchen natürlich in Zukunft dann eben auch nicht entstehen, weil man braucht gar nicht erst anfangen.
+[01:17:39-0 @justushaukap] Ja, also es gibt viele viele Beispiele, wo man sagt, da gibt es Leute, die wollen irgendwas machen.
+[01:17:47-4 @justushaukap] Jedes neue sozusagen Geschäftsmodell führt ja immer dazu, dass andere irgendwie dann auch was verlieren im Wettbewerb.
+[01:17:54-2 @justushaukap] Man kann da so ein paar Beispiele nennen, selbst profane Beispiele.
+[01:17:57-6 @justushaukap] Sagen wir, es gibt jetzt die Onlineapotheken, teilweise sagt man, die wollen wir nicht, wird abgewürgt mehr oder weniger.
+[01:18:04-1 @justushaukap] Ist ja jetzt die Koalitionsidee, das möglichst klein zu halten.
+[01:18:05-4 @justushaukap] Kann man sagen, gibt es vielleicht gute Gründe für.
+[01:18:07-8 @justushaukap] Wir haben die eBooks, wird gesagt, die eBooks sind zu billig, die müssen wir teurer machen.
+[01:18:11-7 @justushaukap] Nachdem die erst ein Kartell gegründet hatten, was bebußt wurde, haben wir gesagt, dann machen wir das jetzt in Deutschland legal, dass die teuer gemacht werden können die eBooks,
+[01:18:18-2 @justushaukap] also die Preisbindung wird da eingeführt.
+[01:18:19-4 @justushaukap] Also wollen wir im Grunde auch nicht, aus Sicht des Buchhandels kann ich das verstehen, dass die sagen, wollen wir nicht die eBooks.
+[01:18:25-1 @justushaukap] Dann gehen wir so weiter durch die Liste, wir haben sehr viele sozusagen behindernde Maßnahmen im Grunde genommen, wo irgendwelche Leute sich was neues ausdenken.
+[01:18:36-0 @justushaukap] Apotheken habe ich länger Zeit mit verbracht, es gab so Tüftler, die haben sich so Apothekenautomaten ausgedacht, haben gedacht, da kann man auf dem Land,
+[01:18:40-2 @justushaukap] dann stellen wir da einen Apothekenautomat auf, sozusagen der Apotheker kann 20 Kilometer entfernt sitzen, über Video mit den Leuten kommunizieren,
+[01:18:45-5 @justushaukap] wird gesagt, wollen wir nicht, untersagt das Ganze.
+[01:18:50-8 @justushaukap] Und natürlich ich meine, Google Streetview ist so ein schönes Beispiel, gibt es in ganz Europa nur in Deutschland nicht und Österreich.
+[01:18:56-5 @justushaukap] Da kann man sagen, brauchen wir vielleicht auch nicht, keine Ahnung, aber natürlich muss man sich nicht wundern,
+[01:19:00-8 @justushaukap] da kann ich den Leuten noch so viel vor die Tür legen, wenn immer diese Haltung momentan ist sozusagen, da kommt irgendwas neues, es gefährdet irgendwas altes
+[01:19:08-2 @justushaukap] und dann wollen wir das lieber nicht sozusagen, dann wird uns allein, das ist ja mein Punkt, ich will nicht sagen, wir brauchen die Infrastruktur nicht,
+[01:19:13-8 @justushaukap] aber dann wird allein die Infrastruktur uns nicht helfen, solange die Attitüde ist, wer immer sich was neues ausdenkt, muss damit rechnen, dass ihm das möglicherweise verboten wird.
+[01:19:21-4 @timpritlove] Genau, da gehe ich ja voll mit, irgendeine kulturelle Verklemmung liegt hier vor, die ich mir auch so recht nicht erklären kann.
+[01:19:28-1 @timpritlove] Kommt man da mit dem Wirtschaftsblick in irgendeiner Form weiter, was hier ist?
+[01:19:31-7 @timpritlove] Ich meine, auf der anderen Seite loben wir uns irgendwie seit Jahrzehnten als das Infrastrukturland.
+[01:19:37-5 @justushaukap] Ja.
+[01:19:38-9 @timpritlove] Was mittlerweile in zunehmendem Maße lächerlich wird in gewisser Hinsicht.
+[01:19:42-0 @timpritlove] Die ganze wirtschaftliche Dynamik und wie toll die Wirtschaft hier auf alles reagiert, scheint einfach im digitalen Raum komplett zum Erliegen zu kommen.
+[01:19:54-7 @timpritlove] Wo ist denn da die Klemme?
+[01:19:56-6 @timpritlove] Gibt es so was, wie so interdisziplinäre Forschung, dass man sich auch mal so ein paar Sozialwissenschaftler mit ins Boot holt und man versucht,
+[01:20:03-7 @timpritlove] diese wirtschaftlichen Blockaden irgendwie über die psychologische Ebene zu verstehen?
+[01:20:09-2 @justushaukap] Ja, das ist genau das richtige.
+[01:20:10-3 @justushaukap] Also es gibt natürlich so was wie Wirtschaftspsychologie etc., und gerade eine Erkenntnis, die aber jeder auch schnell nachvollziehen kann, ohne dass man Psychologie studiert ist,
+[01:20:20-0 @justushaukap] wenn es Leuten besonders gut geht, verändert man wenig typischerweise.
+[01:20:26-4 @justushaukap] Also das ist auf Unternehmensebene so, wenn ein Unternehmen blendet läuft, dann mache ich jetzt keine großen Restrukturierungen typischerweise.
+[01:20:33-4 @justushaukap] U nachdem in der Politik ist es in gewisser Weise ähnlich.
+[01:20:35-7 @justushaukap] Natürlich, wenn es super läuft, dann wird man sagen, warum sollen wir denn viele Dinge ändern, läuft doch super.
+[01:20:40-0 @justushaukap] Und jetzt muss man natürlich sagen, in Deutschland läuft es im Prinzip super.
+[01:20:43-3 @justushaukap] Wir haben den längsten Konjunkturaufschwung aller Zeiten im Prinzip.
+[01:20:46-9 @justushaukap] Wir klagen über Fachkräftemangel und klagen auf hohem Niveau über diverse Probleme, aber im Grunde genommen, der Staat sozusagen die Steuereinnahmen sprudeln,
+[01:20:56-9 @justushaukap] die Inflation ist gering, in vielen Teilen der Republik gibt es so was wie Vollbeschäftigung im Prinzip, eher einen Mangel an Arbeitskräften tatsächlich
+[01:21:05-3 @justushaukap] und dann ist natürlich die Frage, soll ich jetzt viel ändern?
+[01:21:07-8 @justushaukap] Und den Unternehmen geht es auch gut, die überlegen sich, das ist ja was die lange klagen, gerade der deutsche Mittelstand, die sind überall Weltmeister, die Besten.
+[01:21:15-7 @justushaukap] Und dann fragt man sich immer, muss ich denn jetzt viel ändern, läuft doch alles super.
+[01:21:17-7 @timpritlove] Aber ganz so einfach ist es ja nun nicht, weil die Verteilung dieses Erfolgs ist ja nicht gleichmäßig.
+[01:21:22-7 @justushaukap] Die ist nicht gleichmäßig sozusagen, das ist ungleichmäßig.
+[01:21:26-6 @justushaukap] Aber im Grunde genommen sozusagen ist nicht die Frage momentan, wie machen wir den Kuchen größer, sondern wenn überhaupt, wie verteilen wir den Kuchen anders?
+[01:21:34-8 @justushaukap] Also die Frage, sollten wir prinzipiell Dinge ändern, sollten wir neue Geschäftsmodelle sozusagen stärker ermöglichen und so weiter, das wird im Moment nicht als notwendig gesehen.
+[01:21:42-5 @justushaukap] Müssen wir unser Unternehmen groß ändern, also das ist …
+[01:21:47-9 @justushaukap] Ich finde ganz interessant, hier kann man ein bisschen was aus dem Fußball lernen, denke ich.
+[01:21:51-8 @justushaukap] Von den letzten fünf Fußballweltmeistern sind vier in der Vorrunde ausgeschieden und man kann sagen, das ist reiner Zufall, das war jetzt Jogi Löw, der hat alles falsch gemacht.
+[01:22:01-7 @justushaukap] Ich würde sagen, das ist ein bisschen viel für reinen Zufall.
+[01:22:04-6 @justushaukap] Das ist eher so, wenn man alles erreicht hat und es gibt so ein schönes Plattencover von Fat Boy Slim, da hat er das T-Shirt an, „I’m No. 1 Why Try Harder?“
+[01:22:16-8 @justushaukap] Und das ist natürlich so, wenn es einem blendend geht, warum soll ich denn dann jetzt irgendwie was groß anders machen?
+[01:22:23-0 @justushaukap] Und von daher sind wir in einer Situation, wo man sagt, das ist vielleicht der Kollateralschaden dieses zehnjährigen Aufschwungs, dass man nicht unbedingt sagt,
+[01:22:29-6 @justushaukap] wir müssen jetzt auch Dinge ändern oder so, sondern eigentlich weiter so wie bisher, ist doch eigentlich ganz gut gegangen.
+[01:22:36-0 @justushaukap] Und ich komplementiert wird das in Deutschland noch damit, also das ist auch wieder nicht alleine die Ursache, dass wir sagen, wir werden auch einen immer ältere Gesellschaft.
+[01:22:42-0 @justushaukap] Also bei der Europawahl waren jetzt der Medianwähler, also der Wähler, der gerade die Bevölkerung in zwei Teile zerlegt sozusagen, 55 Jahre alt.
+[01:22:51-7 @justushaukap] Das heißt und wir wissen das ja von uns selber und man wird ein bisschen, im Durchschnitt und nicht im Einzelfall, ein bisschen behäbiger und bequemer im Alter
+[01:23:00-7 @justushaukap] und sagt, warum brauche ich den ganzen neuen Schnickschnack eigentlich noch, geht doch auch so?
+[01:23:07-2 @justushaukap] Also ich sehe das ja an mir selber, dass ich dann sage, meine Kinder sind ganz anders, jede Neuigkeit mit Begeisterung gucken die, alles ist so toll und neu.
+[01:23:18-5 @justushaukap] Aber wenn sozusagen der Wähler immer älter wird, dann ist natürlich auch eine Politik auch die, die sagt, wir kümmern uns darum, dass sich nicht so viel verändert.
+[01:23:26-2 @justushaukap] Eine, mit der man Wahlen gewinnen kann, als eine Politik, wo man sagt, komm jetzt machen wir mal richtig was neues hier.
+[01:23:32-3 @justushaukap] Also von daher auch das ist nicht alleine der Grund, aber dieses Zusammenspiel aus einer sehr guten Situation mit sozusagen der demographischen Entwicklung führt dazu,
+[01:23:43-0 @justushaukap] dass wir momentan, Sie haben gesagt kulturelle Verklemmung vielleicht sitzen, dass sozusagen die Begeisterung, mit der neue Dinge angefasst werden, ich muss mal vorsichtig sagen,
+[01:23:51-3 @justushaukap] nicht besonders stark ausgeprägt ist in Deutschland.
+[01:23:54-1 @timpritlove] Kein Zweifel, also ist so, aber ich verordne mir persönlich weiterhin Revolution täglich.
+[01:24:03-9 @justushaukap] In der Volkswirtschaftslehre ist es ja so, man guckt sich das durchschnittliche Verhalten an und nicht den Einzelfall.
+[01:24:08-9 @justushaukap] Das ist dann vielleicht eher die Psychologie.
+[01:24:10-9 @justushaukap] Wir denken ja sozusagen, wenn die Preise sinken, um wieder zum alten Beispiel zurückzukommen, dann kauft natürlich nicht jeder einzelne mehr, aber Durchschnitt kaufen die Leute mehr.
+[01:24:20-3 @timpritlove] Trotzdem die soziale Umverteilung und die Ungleichheit der Verteilung der Gewinne ist denke ich evident und in gewisser Hinsicht unbestreitbar ein wachsendes Problem
+[01:24:31-9 @timpritlove] und sicherlich in Teilen dieses Landes auch schon ein akutes Problem.
+[01:24:38-8 @timpritlove] Ist ja schön, wenn alle im Schnitt viel verdienen und ein gutes Leben haben, aber es betrifft halt in zunehmendem Maße eine relativ starke, kann man da noch Minderheit sagen?
+[01:24:50-6 @timpritlove] Also es gibt auf jeden Fall einen Teil der Bevölkerung, der muss viel arbeiten unter widrigen Bedingungen und erhält dafür nicht ansatzweise den Lohn,
+[01:25:00-9 @timpritlove] der vielleicht in irgendeinem Durchschnitt ausgerechnet wird, weil einfach zu viel von den Einnahmen bei den großen hängen bleibt.
+[01:25:07-8 @timpritlove] Ich stelle das jetzt mal so als These in den Raum, Sie können ja gerne widersprechen, ich weiß, dass Sie da eine kritische Betrachtung haben bei so Maßnahmen wie dem Mindestlohn, warum?
+[01:25:17-7 @justushaukap] Zum einen momentan haben wir eine Situation, wo die Einkommensverteilung, Nachumverteilung seit 2005 mehr oder minder stabil ist, kann man sagen.
+[01:25:29-3 @justushaukap] Bis 2005 hatten wir eine auseinandergehende Schere.
+[01:25:32-0 @justushaukap] Bei dem Einkommen nach Umverteilung sozusagen ist das seit 2005 im Wesentlichen unverändert.
+[01:25:37-2 @justushaukap] Anders ist es bei den Vermögen.
+[01:25:38-5 @justushaukap] Bei Vermögen sozusagen sehen wir, dass die Schere weiter aufgeht sozusagen, aber bei den Einkommen erst mal seit 2005 zumindest nicht mehr.
+[01:25:47-0 @timpritlove] Hat das einen besonderen Grund gehabt?
+[01:25:48-7 @justushaukap] Weil wir natürlich mehr auch umverteilen tatsächlich.
+[01:25:54-0 @justushaukap] Weil sozusagen durch verschiedene Maßnahmen …
+[01:25:56-4 @justushaukap] Und natürlich liegt es daran, sehr sehr viele Leute haben Arbeit.
+[01:26:01-8 @justushaukap] Das hilft natürlich erst mal vielen, Arbeit zu haben hilft immer im Vergleich zu keine Arbeit zu haben.
+[01:26:06-3 @justushaukap] Von daher, da wir ja in vielen Bereichen tatsächlich Vollbeschäftigung haben, sind da viele Leute, die Arbeit haben, das führt dazu, dass tendenziell sich das in der Einkommensverteilung ja dann angleicht,
+[01:26:18-3 @justushaukap] als wenn man hohe Arbeitslosigkeit hat, die wir ja Gott sei Dank nicht haben.
+[01:26:23-2 @justushaukap] Jetzt wäre der Mindestlohn das ist insofern …
+[01:26:26-0 @justushaukap] Sagen wir mal so, insbesondere habe ich mich kritisch zu diesen sektorspezifischen Mindestlöhnen geäußert, aber der Mindestlohn allgemein wurde von vielen kritisiert,
+[01:26:35-5 @justushaukap] weil er nicht am Haushaltseinkommen ansetzt tatsächlich.
+[01:26:40-4 @justushaukap] Also er trifft nicht sehr gut, ob man die Einkommenssituation des Haushalts verbessert.
+[01:26:45-5 @timpritlove] Welches Haushalts, des Bundeshaushalts oder des privaten Haushalts?
+[01:26:48-6 @justushaukap] Nein, des privaten Haushalts.
+[01:26:49-8 @justushaukap] Also der ist ja ganz unterschiedlich.
+[01:26:51-3 @justushaukap] Es gibt Alleinstehende, es gibt Familien, gibt ganz unterschiedliche Arten, Haushalt mit Kindern und ohne Kinder und so weiter.
+[01:26:57-3 @justushaukap] Und letztendlich was so in der Sozialpolitik ist, da wird ja immer der Haushalt als die Basis genommen.
+[01:27:05-3 @justushaukap] Also hat die Familie, sagen wir mal, Vater, Mutter, zwei Kinder oder zwei Väter und drei Kinder oder was weiß ich, haben die genug Geld zum Leben?
+[01:27:16-0 @justushaukap] Ob jetzt er einzelne sozusagen da Person A mehr verdient als Person B ist uns erst mal egal in unserem System zumindest, deswegen gucken wir uns immer an sozusagen,
+[01:27:26-3 @justushaukap] kriegt der Haushalt genug tatsächlich?
+[01:27:29-2 @justushaukap] So ist das ganze Sozialsystem momentan angelegt, deswegen gibt es ja auch die gegenseitige Fürsorge, Ehegattensplitting und all diese Dinge sozusagen,
+[01:27:36-4 @justushaukap] weil man immer am Haushalt letztendlich oder an den Lebensgemeinschaften sozusagen ansetzt.
+[01:27:41-1 @justushaukap] Und da ist der Mindestlohn natürlich sehr, der trifft das nicht sehr gut sozusagen als Sozialleistung in dem Sinne, weil dann verdient der eine viel und der andere wenig möglicherweise,
+[01:27:54-7 @justushaukap] aber ob man damit die Situation, gut, die wird man in jedem Fall verbessern sozusagen, dadurch dass er mehr kriegt, aber es ist gar nicht so klar.
+[01:28:01-2 @justushaukap] Also der Mindestlohn an sich ist so ein Thema, wo ich eine gewisse Ambivalenz hatte.
+[01:28:08-1 @justushaukap] Was meine Kritik insbesondere war an den sektorspezifischen Mindestlöhnen.
+[01:28:12-7 @justushaukap] Das war insbesondere die Deutsch Post hat da ja Furore gemacht, nachdem dann beschossen wurde durch die Bundesregierung oder dem Bundestag,
+[01:28:20-1 @justushaukap] dass auch der Briefmarkt liberalisiert werden soll, also die Leute auch die Gelegenheit haben sollen, mit anderen Absendern Briefe zu verschicken,
+[01:28:26-4 @justushaukap] da hat die Deutsche Post sich ja dann 2008 kurz vor Weihnachten tatsächlich noch durchgesetzt, dass ein Mindestlohn im Postsektor von 9,80 Euro,
+[01:28:35-5 @justushaukap] also deutlich höher als der Mindestlohn, den wir später für alle anderen eingeführt haben, sein sollte.
+[01:28:39-2 @justushaukap] Was erst mal sozialpolitisch für mich völlig unklar ist, warum Briefträger 9,80 Euro kriegen müssen und andere Leute mit 8 Euro klarkommen können.
+[01:28:48-4 @justushaukap] Also es hat keine inhärente Logik sozialpolitisch.
+[01:28:51-8 @justushaukap] Und die Deutsche Post ist ja kein Unternehmen was sagt, wir sind jetzt besonders an der Sozialpolitik interessiert.
+[01:28:57-4 @justushaukap] Das hat die nur interessiert, weil sie gesagt haben, damit können wir die anderen Unternehmen aus dem Markt raushalten.
+[01:29:00-8 @justushaukap] Und es war ja kein Zufall, dass an dem Tag, als der Postmindestlohn besprochen wurde, der Aktienkurs der Deutschen Post einen besonderen Sprung nach oben gemacht hat,
+[01:29:09-3 @justushaukap] weil die gesagt haben, das sichert unsere Profite, dass hier kein Wettbewerb entstehen wird im Postmarkt.
+[01:29:13-5 @justushaukap] Weil im Postmarkt ist es relativ klar, wenn man klein anfängt im Postmarkt, dann kann man genauso ein guter Briefträger sein wie einer der Deutschen Post,
+[01:29:24-8 @justushaukap] aber man muss halt viel mehr fahren, bis man die Briefe verteilt hat, weil man nicht in einem Haus 100 Briefe einwerfen kann.
+[01:29:32-4 @justushaukap] Das heißt, die Stückkosten pro Brief sind natürlich viel geringer bei der Post als bei Wettbewerbern der Post.
+[01:29:37-8 @justushaukap] Die haben dann erst mal gesagt, wir zahlen erst mal etwas geringere Löhne, um das ein bisschen zu kompensieren und hoffen, dass wir wachsen und irgendwann genauso viele Briefe einwerfen können letztendlich.
+[01:29:46-6 @justushaukap] Aber das ist natürlich nicht im Interesse der Deutschen Post, dass ein Wettbewerb entsteht.
+[01:29:51-3 @justushaukap] Also von daher, wenn man gesagt hätte, wir führen jetzt einen allgemeinen Mindestlohn ein, der Postmindestlohn ist dann genauso gut wie der Mindestlohn überall anders,
+[01:29:57-5 @justushaukap] wäre das noch was anderes gewesen, aber hier war es allein sozusagen um den Wettbewerb totzukriegen.
+[01:30:01-4 @justushaukap] Was erfolgreich gelungen ist, muss man der Deutschen Post sagen, hat sie gut gemacht, der Wettbewerb ist tot im Briefmarkt.
+[01:30:08-8 @timpritlove] Okay.
+[01:30:09-7 @justushaukap] /lacht/ Ist sicherlich nicht gut für die Verbraucher, aber gut für die Deutsche Post und gut für den Finanzminister, dem immer noch ein Teil der Deutschen Post gehört.
+[01:30:17-2 @timpritlove] Na gut, im Paketsegment ist ja noch genug Ausbeutung am Start, von daher denke ich mal, da wird sich noch einiges tun.
+[01:30:22-9 @justushaukap] Aber da gibt es dann eben einen Mindestlohn, den alle zahlen müssen.
+[01:30:30-5 @justushaukap] Natürlich stellt sich immer die Frage der Durchsetzung in vielen Gewerben, wird der nicht umgangen und so weiter.
+[01:30:36-0 @justushaukap] Aber das ist nochmal eine separate Problematik.
+[01:30:39-5 @justushaukap] Solange es faire Wettbewerbsbedingungen gibt und sozusagen alle zahlen den gleichen Mindestlohn, heißt es aus wettbewerbspolitischer Sicht erst mal wenig hinzuzufügen,
+[01:30:46-0 @justushaukap] außer dass man aufpassen muss, dass er nicht zu hoch wird, weil bei irgendeinem Mindestlohn entsteht natürlich dann Arbeitslosigkeit.
+[01:30:51-8 @justushaukap] Also jetzt sicherlich nicht bei 8-9 Euro.
+[01:30:55-6 @justushaukap] Aber wäre jetzt Mindestlohn, also jeder versteht es auch, Mindestlohn von 30 Euro würde keiner mehr behaupten, dass da nicht Arbeitsplätze bei draufgehen würden.
+[01:31:01-5 @timpritlove] Aber ist ja in gewisser Hinsicht auch eine Erreichung von Gleichheit, das gleiche Arbeit oder Arbeit an sich überhaupt erst mal …
+[01:31:12-8 @justushaukap] … gleich bezahlt wird.
+[01:31:13-6 @timpritlove] Ja, und auch nicht in absurd niedrige Bereiche absinken kann.
+[01:31:18-4 @timpritlove] Ich meine, das gelingt über Umwege durch Kontraktoren etc. und das Umgehen von solchen Angestelltenverhältnissen...
+[01:31:23-5 @justushaukap] Es gibt Umgehungen, es gibt kein Gesetz, was nicht auch umgangen wird und so ist es da auch, das ist richtig,
+[01:31:31-0 @justushaukap] aber das ist eine Frage der Rechtsdurchsetzung natürlich.
+[01:31:32-8 @timpritlove] Genau.
+[01:31:33-8 @timpritlove] Führt auch so ein bisschen, denke ich, jetzt etwas zu weit weg von unserem Fokus.
+[01:31:40-4 @timpritlove] Was allerdings in diesen Fokus reinfällt, sind Maßnahmen jetzt, wir haben ja das mit der CO2-Steuer schon angesprochen,
+[01:31:48-4 @timpritlove] das sind Dinge, die halt jetzt diskutiert werden oder neu diskutiert werden, aber es gab ja auch schon mal eine größere Bewegung.
+[01:31:55-3 @timpritlove] Das erneuerbare Energien Gesetz war ja im Prinzip auch eine bewusste Beeinflussung des Wirtschaftssystems, in dem Moment halt der Stromproduktion,
+[01:32:05-7 @timpritlove] um ein bestimmtes Ziel zu erreichen, nämlich die Förderung von nachhaltiger Energie.
+[01:32:11-3 @timpritlove] Dieses EEG-Gesetz gilt ja eigentlich als einer der größten Politexporte auch Deutschlands, das ist ja in vielen anderen Ländern auch in ähnlicher Form, wenn nicht sogar gleicher Form,
+[01:32:26-5 @timpritlove] zum Einsatz gekommen mit unterschiedlichen Ergebnissen sicherlich.
+[01:32:29-5 @timpritlove] Sehen Sie aber auch eher kritisch?
+[01:32:31-8 @justushaukap] Ja, es ist auch nicht richtig, dass es so exportiert worden ist.
+[01:32:35-3 @justushaukap] Also ich sage mal, was in den anderen Ländern teilweise auch ist, ist, dass es eine Art von Einspeisevergütung gibt, allerdings nicht in dieser drastischen Form,
+[01:32:40-5 @justushaukap] wie wir das bei uns gemacht haben.
+[01:32:41-7 @timpritlove] Aber das Modell sozusagen.
+[01:32:43-5 @justushaukap] Die Hauptkritik, die nicht nur ich, sondern viele andere Ökonomen am EEG haben, ist, dass man sagt, wir haben ja zwei, das ultimative Ziel von vielen wird gesehen als die Reduktion von CO2
+[01:32:56-6 @justushaukap] oder Treibhausgasen allgemeiner gesprochen.
+[01:33:02-0 @justushaukap] Jetzt haben wir in Europa uns schon vor vielen Jahren drauf verständigt, dass wir ein sogenanntes Emissionshandelssystem haben, über dem eine Emissionsgrenze gibt.
+[01:33:10-7 @justushaukap] Also das heißt, in einer ganzen Reihe von Sektoren gibt es eine absolute Obergrenze, die jährlich abgesenkt wird, wieviel CO2 ausgestoßen wird in Gesamteuropa.
+[01:33:20-0 @justushaukap] Dazu gehört die Stromproduktion, Stahlproduktion, Zement und noch ein paar andere Branchen, die umfasst leider nur 45 Prozent des CO2-Ausstoßes in Europa.
+[01:33:30-8 @timpritlove] Weil Heizen zum Beispiel da nicht mit drin ist.
+[01:33:32-3 @justushaukap] Weil Heizen nicht, also ja genau, wenn man nicht gerade mit Strom heizt, genau, dann ist es nicht mit drin.
+[01:33:38-8 @justushaukap] Also Gebäude, also Heizen ist nicht drin, Verkehr mit Ausnahme der Bahn ist nicht drin und des inneneuropäischen Luftverkehrs, der ist auch drin
+[01:33:51-4 @justushaukap] und die Landwirtschaft ist nicht mit drin.
+[01:33:54-1 @justushaukap] Aber insbesondere die Stromproduktion ist eben drin.
+[01:33:57-5 @justushaukap] Das heißt also, das Emissionshandelssystem erfolgt so, wenn ich CO2 ausstoße, zum Beispiel weil ich Strom produziere, brauche ich dafür eine Berechtigung und die muss ich mir kaufen das Ganze.
+[01:34:07-3 @justushaukap] Dafür gibt es einen Preis.
+[01:34:09-1 @justushaukap] Und wenn ich sie nicht brauche, kann ich sie verkaufen.
+[01:34:12-3 @justushaukap] Und ich kann die verkaufen an wen ich will.
+[01:34:14-3 @justushaukap] Das kann ein Zementhersteller sein, irgendein Stahlproduzent, irgendeiner der es braucht, muss auch nicht in Deutschland sein, kann auch in Portugal oder sonst irgendwo sein.
+[01:34:22-6 @justushaukap] Was ja auch Sinn macht, weil man sagt, das Klimaproblem ist ja ein globales Problem.
+[01:34:28-0 @justushaukap] Also wo jetzt genau CO2 reduziert wird, ist eigentlich nicht so wichtig.
+[01:34:30-8 @justushaukap] Ob das jetzt gerade in Portugal oder Deutschland oder Polen ist, für das Klima ist es erst mal wichtig, dass es überhaupt reduziert wird.
+[01:34:36-0 @justushaukap] Von daher hat man gesagt, dann ist das eigentlich doch ein gutes System, weil diejenigen, die das am ehesten reduzieren können, die werden das am ehesten machen.
+[01:34:43-9 @justushaukap] Weil die dann sagen, dann können wir die Zertifikate verkaufen an jemanden, der anscheinend größere Probleme hat, CO2 zu reduzieren.
+[01:34:50-6 @justushaukap] Dann müssen wir denen das gar nicht genau vorgeben, wer jetzt genau was machen soll, Hauptsache insgesamt kommt die Menge runter.
+[01:34:57-2 @justushaukap] Jetzt ist das Problem, dann hat man in Deutschland parallel das EEG aufgesetzt und hat gesagt, wir reizen die Stromproduktion aus erneuerbaren an, was man ja ganz gerne machen kann.
+[01:35:09-5 @justushaukap] Ohne aber parallel in irgendeiner Weise die Menge der verfügbaren CO2-Zertifikate zu reduzieren.
+[01:35:15-9 @justushaukap] Das geht auch nicht, weil das ist ja eine europäische Sache.
+[01:35:19-1 @justushaukap] Man hätte die vielleicht rauskaufen können aus dem Markt und sagen können, wir nehmen Geld in die Hand und kaufen die Zertifikate raus.
+[01:35:22-9 @justushaukap] Hat man aber nicht gemacht.
+[01:35:25-3 @justushaukap] Das hatte dann diesen ganz perversen Effekt, wir haben jetzt viel Geld in die Hand genommen, momentan sind es ja ungefähr 25 Milliarden Euro pro Jahr,
+[01:35:31-1 @justushaukap] um Storm aus erneuerbaren Energien zu erzeugen.
+[01:35:34-0 @justushaukap] Die Stromerzeuger brauchen weniger Zertifikate, weil wir den erneuerbaren Strom haben.
+[01:35:38-8 @justushaukap] Was machen die mit denen?
+[01:35:40-3 @justushaukap] Zum einen, dass der Preis sinkt für die Zertifikate, weil man nicht mehr so viele braucht, da greift dann wieder die einfache Logik von Angebot und Nachfrage.
+[01:35:47-7 @justushaukap] Und die verkaufen die woanders hin.
+[01:35:48-5 @justushaukap] Die sagen ja nicht, wir brauchen nicht mehr, wir schmeißen die in die Mülltonne, sondern die sagen, okay dann verkaufen wir die an wen auch immer, wer die gerne haben will.
+[01:35:54-4 @justushaukap] Und das hatte diese ganz absurden Effekt, dass die CO2-Preise in den Keller gegangen sind, die Braunkohle hat plötzlich gesagt, CO2 ist so billig, da können wir mehr Strom produzieren.
+[01:36:04-4 @justushaukap] Also wir haben einen Braunkohleboom quasi ausgelöst auf der anderen Seite durch das EEG.
+[01:36:09-8 @justushaukap] Und irgendwelche anderen Stahlproduzenten haben gesagt, ach super, CO2 billig, wir kaufen die Zertifikate und insgesamt ist dieser Deckel aber unverändert geblieben.
+[01:36:18-2 @justushaukap] Das heißt, wir haben viel Geld für EEG ausgegeben, aber null CO2 eingespart.
+[01:36:22-9 @justushaukap] Also ein ganz perverses, also wie soll man sagen …
+[01:36:27-9 @timpritlove] Aber die eigentliche Idee dieses Gesetzes ist sozusagen nicht der Knackpunkt, sondern das Problem, dass man nicht automatisch auch diese Zertifikate aus dem Markt herausgenommen hat.
+[01:36:33-6 @justushaukap] Genau.
+[01:36:34-6 @timpritlove] Das wäre halt quasi nochmal eine begleitende Maßnahme gewesen, die man hier hätte vornehmen können.
+[01:36:38-6 @justushaukap] Man hat sehr sehr viel Geld in die Hand genommen, hat auch Strom für die Endkunden sehr teuer gemacht und hat dafür kein CO2 reduziert.
+[01:36:43-1 @justushaukap] Und das ist natürlich die Hauptkritik, wir schaffen hier eine Maßnahme, die sehr teuer ist, aber nicht effektiv ist, nicht effektiv im Sinne von CO2-Reduktion,
+[01:36:51-3 @justushaukap] dann ist das ein großes Drama, weil von dem gleichen Geld hätte man ja unglaublich viele Zertifikate einfach rausnehmen können aus dem Markt.
+[01:36:59-3 @timpritlove] War das die Intention oder war das einfach schlechtes Handwerk?
+[01:37:04-4 @timpritlove] Also man muss sich ja immer fragen, mach ich jetzt hier wieder so eine neue Verschwörungstheorie auf?
+[01:37:08-7 @justushaukap] Ich weiß es nicht ehrlich gesagt.
+[01:37:10-9 @justushaukap] Also das ist keine neue Kritik, die ist so lange vorgetragen worden.
+[01:37:15-3 @justushaukap] Also mir ist es auch schleierhaft, warum man nicht irgendwann gesagt hat, wir müssen da ran.
+[01:37:20-5 @justushaukap] Jetzt hat man Gott sei Dank beim Kohleausstieg, diesen Fehler will man nicht wiederholen, sondern man sagt, wenn die Braunkohlekraftwerke stillgelegt werden,
+[01:37:26-9 @justushaukap] dann werden die Zertifikate rausgenommen aus dem Markt tatsächlich.
+[01:37:32-5 @justushaukap] Das heißt, die muss man dann zurückkaufen, man kann sie nicht einfach stilllegen, weil das eine europäische Sache ist, aber dann werden die aus dem Markt genommen.
+[01:37:38-1 @justushaukap] Wenigstens das tatsächlich.
+[01:37:41-4 @justushaukap] Und dann hat man natürlich beim EEG handwerklich auch viele Fehler gemacht einfach.
+[01:37:46-0 @justushaukap] Also wir hatten ja das goldene Solarzeitalter, man hat denen Traumrenditen ermöglicht den Leuten.
+[01:37:54-4 @justushaukap] Was dazu geführt hat, dass das Ganze viel teurer geworden ist, als es hätte sein müssen.
+[01:38:00-9 @justushaukap] Und man hat nicht etwa gesagt, wir geben das einer kompetenten Behörde, die die Einspeisetarife festlegt.
+[01:38:05-8 @justushaukap] Zum Beispiel hätte man sagen können, warum lassen wir das nicht die Bundesnetzagentur machen?
+[01:38:10-0 @justushaukap] Die hat doch Erfahrung in Kostenregulierung.
+[01:38:11-9 @justushaukap] Warum legen die nicht die Einspeisetarife jedes Jahr neu fest?
+[01:38:15-1 @justushaukap] Sondern man hat gesagt, wir machen da Verhandlungsrunden, Bundestag, Bundesrat muss auch noch zustimmen.
+[01:38:19-9 @justushaukap] Immer wenn irgendwo eine Wahl ist, dann hat es diese politischen Konstellationen gegeben, die Bayern wollten dann, dass Solarenergie so gut vergütet wird wie irgendwie geht.
+[01:38:29-9 @justushaukap] Klar, weil in Bayern …
+[01:38:30-2 @justushaukap] Also wenn man sich diese Umverteilung in Deutschland anguckt, die Bayern profitieren wahnsinnig von der Solarvergütung.
+[01:38:36-7 @justushaukap] Weil da gibt es natürlich jede Menge Landwirte im Prinzip, die da viele Solarzellen aufgestellt haben überall.
+[01:38:45-4 @justushaukap] Also ganz großer Transfer geht nach Bayern in dem Sinne.
+[01:38:50-0 @justushaukap] Wind …
+[01:38:50-3 @timpritlove] Nur die neuen Stromtrassen nicht.
+[01:38:52-3 @justushaukap] Das ist natürlich eine gewisse Paradoxie.
+[01:38:54-6 @timpritlove] Und die Windenergie.
+[01:38:55-8 @justushaukap] Und der Wind, da fließt das Geld nach Norden.
+[01:38:59-5 @justushaukap] Da haben sich politische Konstellationen ergeben und hat gesagt, nein wir reduzieren die ganzen Einspeisegebühren nicht, dann sind die ganzen Kosten völlig aus dem Ruder gelaufen.
+[01:39:05-4 @justushaukap] Die Leute wurden immer frustrierter, weil der Strom auch so teuer für sie geworden ist.
+[01:39:09-1 @justushaukap] Und letztendlich hat man damit der Energiewende einen gewissen Bärendienst erwiesen, weil man hat die Akzeptanz geschmälert bei den Leuten,
+[01:39:16-8 @justushaukap] weil es viel teurer geworden ist als es hätte sein müssen.
+[01:39:21-2 @justushaukap] Wenn man von Anfang an stärker die Anpassung vorgenommen hätte.
+[01:39:25-2 @justushaukap] Oder man hätte gleich auf ein bisschen märktlichere Systeme setzen können.
+[01:39:30-1 @justushaukap] Man hätte sagen können, also ein Modell, was wir lange Zeit vorgeschlagen haben, haben gesagt, warum machen wir nicht so eine Art Zertifikatsmodell auch,
+[01:39:36-9 @justushaukap] dass wir sagen, jeder der Strom verkauft, also jedes Stadtwerk ist verpflichtet nachzuweisen, das X Prozent aus grünem Strom kommt,
+[01:39:44-7 @justushaukap] aber wie die das dann beschaffen, ist ihr Bier.
+[01:39:47-8 @justushaukap] Ob sie die selber aufbauen, ob sie den Leuten was zahlen, wie auch immer.
+[01:39:50-6 @justushaukap] Und dann sozusagen hätten wir die Menge viel besser steuern können, dann hätten wir sagen müssen, jedes Jahr müsst ihr X Prozent aus grünem Strom nachweisen,
+[01:39:57-6 @justushaukap] dass ihr den verkauft habt, aber wir überlassen das euch, wie man am besten rankommt an den grünen Strom.
+[01:40:02-9 @justushaukap] Dann hätte man mehr Markt da ermöglicht.
+[01:40:04-9 @justushaukap] Vielleicht hätten sie gesagt, wir bauen selber was.
+[01:40:07-8 @justushaukap] Wir bezahlen den Bürgern unserer Stadt was, wir kaufen anderen die Zertifikate ab, also man weiß ja nicht, wie es am besten funktioniert.
+[01:40:15-5 @justushaukap] Nur beim EEG hat man geglaubt, wir wüssten das ganz genau, wie es am besten funktioniert und wir hatten ja dann eine absurde Situation mit über 5000 verschiedenen Tarifen
+[01:40:23-0 @justushaukap] für verschiedene Einspeisungen, wo man gesagt hat, alles staatlich festgelegte Preise, wo wir sagen, das kann doch gar nicht funktionieren, das kann doch keiner verstehen.
+[01:40:29-7 @justushaukap] Und die Kritik, also das ist nicht, das wird häufig suggeriert dann, werde jetzt skeptisch über den Klimawandel reden, das ist natürlich völliger Irrsinn, natürlich nicht.
+[01:40:38-7 @justushaukap] Also ökonomisch ist völlig klar, es macht mehr Sinn, den Klimawandel aufzuhalten, selbst wenn man nicht dran glaubt.
+[01:40:45-1 @justushaukap] Also wenn man sagt, allein wenn man das wie eine Versicherung betrachtet und sagen, wir wissen es nicht, aber es gibt ein Risiko und sozusagen,
+[01:40:52-3 @justushaukap] ich weiß ja auch nicht, ob bei mir eingebrochen wird und trotzdem schließe ich eine Versicherung ab.
+[01:40:56-2 @justushaukap] Und selbst wenn ich nicht an Klimawandel glaube und sage, es gibt nur eine prozentuale Wahrscheinlichkeit, dass es doch stimmt, dass der ist, du dann sagst,
+[01:41:03-0 @justushaukap] ist es ökonomisch sinnvoll, das versuchen zu verhindern.
+[01:41:06-5 @justushaukap] So ähnlich wie bei Einbruch, ich weiß ja auch nicht, ob eingebrochen wird, trotzdem macht es Sinn, die Tür abzuschließen.
+[01:41:11-9 @justushaukap] So ähnlich ist es beim Klimawandel auch, also es macht Sinn, was dagegen zu tun, selbst wenn man nicht dran glaubt, wenn man nicht sicher ist, ob er existiert.
+[01:41:17-5 @justushaukap] Also von daher macht das Sinn sozusagen, nur man sollte dann, gerade wenn man will, dass das ein Exportschlager wird, es nicht unbedingt so machen, dass man sagt,
+[01:41:25-8 @justushaukap] jetzt haben wir ganz viel Geld ausgegeben und Deutschland hat immer noch kein CO2 reduziert, weil das ist dann nicht unbedingt ein Vorbild, wo alle Länder sagen,
+[01:41:31-3 @justushaukap] oh das haben die ja ganz toll gemacht die Deutschen, die haben ganz ganz viel Geld ausgegeben und null Tonnen CO2 reduziert.
+[01:41:36-3 @justushaukap] Also da habe ich da eine gewisse Skepsis, dass das zum Exportschlager wird.
+[01:41:40-8 @timpritlove] Gibt es auch so einen schönen Cartoon, wo auch so der eine sich bei dem anderen beklagt wegen des Klimawandels.
+[01:41:45-0 @timpritlove] Was ist, wenn wir jetzt sozusagen diese ganze saubere Luft und diese schöne Natur für nichts hergestellt haben?
+[01:41:52-5 @justushaukap] Ja.
+[01:41:54-9 @timpritlove] Kann sich auf jeden Fall lohnen.
+[01:41:56-3 @timpritlove] Jetzt gibt es ja auch noch so Felder, wo die Wirtschaft nicht ist und wo man unter Umständen überhaupt erst mal Wirtschaft einführen müsste.
+[01:42:05-7 @timpritlove] Ich spreche von dem schwierigen Bereich der Drogen.
+[01:42:09-9 @justushaukap] Ja.
+[01:42:10-6 @timpritlove] Ist ja alles böse, also alles verboten.
+[01:42:13-6 @timpritlove] Trotzdem gibt es da ja eine Schattenwirtschaft und das nicht zu knapp.
+[01:42:18-6 @justushaukap] Genau.
+[01:42:19-1 @timpritlove] Man hat da sozusagen eine ganze Menge Geld, was die Hände wechselt, was aber dann eben nicht in doppelter Buchführung abgelegt wird, sondern halt eher in geheimen Briefkästen.
+[01:42:28-2 @justushaukap] Vermutlich eher selten
+[01:42:29-7 @timpritlove] Wäre das nicht mal so ein Bereich, wo man eine Wirtschaftsliberalisierung herbeiführen könnte zum Wohle aller?
+[01:42:40-9 @justushaukap] Ja, Sie haben völlig recht, das ist so ein Bereich.
+[01:42:44-9 @justushaukap] Vielleicht fange ich mal so an, also erstens ist es nicht so, dass die Wirtschaft da nicht ist.
+[01:42:49-6 @justushaukap] Also die Wirtschaft kann man nicht einfach sozusagen durch Verbot wegbekommen.
+[01:42:51-3 @justushaukap] Sie haben es ja völlig richtig gesagt, es ist dann nur eine Schattenwirtschaft.
+[01:42:55-4 @justushaukap] Man kann ja sagen, es ist heute ein Markt, es gibt einen Drogenmarkt.
+[01:42:59-3 @justushaukap] Es wird Ware gegen Geld getauscht, der existiert, es gibt Anbieter und es gibt Nachfrager auf diesem Markt.
+[01:43:04-4 @justushaukap] Nur ist der Markt nicht staatlich kontrolliert momentan und das ist, da kommt man jetzt ganz zurück zum Anfang.
+[01:43:12-0 @justushaukap] Wenn wir sagen, warum sollen wir das eigentlich verbieten, also sozusagen Drogen?
+[01:43:15-8 @justushaukap] Warum ist der überhaupt regulierungsbedürftig?
+[01:43:18-0 @justushaukap] Warum sagt man nicht, soll doch jeder kaufen.
+[01:43:19-9 @timpritlove] Es sind ja auch nicht alle verboten, es sind ja nur manche verboten.
+[01:43:22-0 @justushaukap] Genau, man könnte sagen, sollen wir nicht einfach jeden machen lassen was er will?
+[01:43:25-3 @justushaukap] Dann würden wir sagen, na gut, das ist schon ein Markt, wo vielleicht Marktversagen auftauchen könnte in gewisser Weise.
+[01:43:29-9 @justushaukap] Warum?
+[01:43:30-8 @justushaukap] Naja wenn wir sagen, es gibt vielleicht bestimmte Konsumenten, die die Konsequenzen ihres Handelns nicht richtig voraussehen.
+[01:43:38-4 @justushaukap] Denken wir insbesondere an Jugendliche oder so, das macht schon großen Sinn.
+[01:43:41-7 @timpritlove] Psychologische Beeinflussung.
+[01:43:44-9 @justushaukap] Jugendschutz, haben wir ja auch in den legalisieren Drogen, Jugendschutz gibt es überall.
+[01:43:49-7 @timpritlove] Ja, denkt doch einer an die Kinder.
+[01:43:51-7 @justushaukap] Genau oder wir sagen, vielleicht ist das so ein Problem, wo vielleicht der Hersteller oder Händler viel mehr weiß als der Nachfrager.
+[01:43:58-8 @justushaukap] Sehen wir, ist auf dem Drogenmarkt immer wieder ein Problem, was ist eigentlich die genaue Qualität der Ware, die ich bekomme?
+[01:44:03-7 @justushaukap] Selbst bei weichen Drogen, Cannabis und so, unheimliche Problematik mit Verunreinigungen, teilweise sehr sehr gesundheitsschädlichen Verunreinigungen.
+[01:44:13-2 @justushaukap] Bis hin zu Bleigehalt.
+[01:44:14-2 @justushaukap] Chemische Substanzen, die das Ganze klebriger erscheinen lassen.
+[01:44:19-2 @justushaukap] Da gibt es keinen Verbraucherschutz im engeren Sinne wie in der Lebensmittel- oder pharmazeutischen Industrie, wo irgendeiner draufguckt, was darf da eigentlich reingetan werden und was nicht
+[01:44:27-6 @justushaukap] und was sind die Konsequenzen, wenn ich dem was beimische?
+[01:44:30-9 @justushaukap] Also der Drogenhändler…
+[01:44:32-0 @timpritlove] Gütesiegel.
+[01:44:32-5 @justushaukap] Es gibt keine Gütesiegel, es gibt kein Demetergras, es gibt … /lacht/
+[01:44:38-3 @justushaukap] Das würde sich auf dem Markt todsicher entwickeln.
+[01:44:41-2 @timpritlove] Oha.
+[01:44:41-5 @justushaukap] Also es gibt auch schon Biogras sozusagen, aber natürlich haben die kein offizielles Biosiegel und ich muss dem auch vertrauen.
+[01:44:48-4 @justushaukap] In Kalifornien nach der Legalisierung hat man ja die Erfahrung gemacht, die Pestizidbelastung ist enorm.
+[01:44:53-2 @justushaukap] Natürlich, man muss ja nicht glauben, dass derjenige, der illegal Drogen anbaut, jetzt unbedingt sich Sorgen um Pestizide in großer Weise macht.
+[01:45:03-6 @justushaukap] Das heißt also, so was was man wahrscheinlich nicht zulassen würde, wenn das legal ist, diese hohe Schadstoffbelastung.
+[01:45:08-5 @justushaukap] Auch wenn das nicht typischerweise gegessen, sondern nur geraucht wird.
+[01:45:12-8 @justushaukap] Das heißt also, wir haben da eine ganze Reihe von Probleme und ich sagte am Anfang ja schon mal, man muss immer vergleichen.
+[01:45:18-6 @justushaukap] Man kann sagen, es gibt da schon gute Gründe, warum man da sozusagen eingreifen möchte in diese Markt, aber was ist denn der beste Mechanismus?
+[01:45:25-2 @justushaukap] Ein Vollverbot führt das zu den gewünschten Ergebnissen?
+[01:45:29-5 @justushaukap] Und die meisten Ökonomen haben schon lange die Auffassung, gibt es schon aus den USA alte Initiativen von Nobelpreisträgern, wo man sagt, faktisch die Prohibition funktioniert ja nicht,
+[01:45:41-6 @justushaukap] weil die Angebote und Nachfragen sind trotzdem da, nur die Leute bekommen schlechtere Ware für höhere Preise letztendlich und sehr viel schädlicher für sich selbst, ohne dass sie es wissen.
+[01:45:51-6 @justushaukap] Und mit den unangenehmen Begleiterscheinungen.
+[01:45:53-5 @justushaukap] Jetzt muss man da differenzieren, bei Cannabis ist sicherlich so eine Begleiterscheinung wie Beschaffungskriminalität kaum ausgeprägt, spielt da keinen bedeutende Rolle.
+[01:46:03-3 @justushaukap] In anderen Bereichen bei härteren Drogen ist das schon eher oder dass Leute sich mehr oder weniger unfreiwillig prostituieren, um an Drogen zu kommen oder so.
+[01:46:12-2 @justushaukap] Das sind ja alles Begleiterscheinungen, die sehr unangenehm sind.
+[01:46:14-6 @timpritlove] So eine Verelendung, die damit einhergeht, weil man eben auch gar keine andere Möglichkeit hat.
+[01:46:19-3 @justushaukap] Ja und das könnte man eigentlich durch eine geordnete Legalisierung abstellen.
+[01:46:27-3 @justushaukap] Das ist ja auch wiederum das wissenschaftlich Interessante.
+[01:46:31-6 @justushaukap] Immer mehr Literatur kommt jetzt, weil wir immer mehr Länder haben oder Bundesstaaten, wo legalisiert ist, und dann kann man ja vergleichen.
+[01:46:36-7 @timpritlove] In den USA zum Beispiel.
+[01:46:37-6 @justushaukap] In den USA, Kanada jetzt, gut, da haben wir noch nicht so viele Zahlen, weil das seit Oktober noch relativ jung ist.
+[01:46:41-9 @timpritlove] Uruguay.
+[01:46:43-9 @justushaukap] Uruguay genau.
+[01:46:45-2 @timpritlove] Portugal.
+[01:46:45-8 @justushaukap] Ja, da hat eine Entkriminalisierung keine Legalisierung, da muss man ein bisschen unterscheiden.
+[01:46:50-5 @justushaukap] Das ist zwar nicht kriminell, aber es ist nicht wirklich legal, also Sie können da jetzt nicht ein Gewerbe anmelden mit einem Shop.
+[01:46:53-2 @timpritlove] Aber hat trotzdem schon, sogar das hat schon positive Effekte.
+[01:46:56-2 @justushaukap] Auch das hat positive Effekte.
+[01:46:56-8 @justushaukap] Und eine dieser Befürchtungen, die ja häufig geäußert werden, ist, dass der Konsum dann so stark anziehen würde, scheint sich nicht zu bewahrheiten.
+[01:47:04-2 @justushaukap] Was jetzt auch nicht wirklich überraschend ist eigentlich.
+[01:47:07-7 @justushaukap] Weil wer heute Drogen konsumieren möchte, kann das tun in Deutschland.
+[01:47:10-8 @justushaukap] Also der darf es nicht tun, aber …
+[01:47:14-4 @timpritlove] Findet statt.
+[01:47:15-0 @justushaukap] … faktisch ist es einfach zu beschaffen.
+[01:47:17-5 @justushaukap] Ich gebe bei Google ein, wo kaufe ich Drogen, und dann kommt da Görlitzer Park oder was weiß ich, selbst wenn ich völlig fremd bin in einer Stadt, ist das in Nullkommanix herauszubekommen letztendlich,
+[01:47:27-6 @justushaukap] wo man sich was kaufen kann.
+[01:47:29-1 @justushaukap] Ja, dann geht man in Düsseldorf irgendwo schlendert man lang genug um den Hauptbahnhof rum und dann …
+[01:47:32-9 @timpritlove] … ist das Angebot da.
+[01:47:33-7 @justushaukap] Also das Angebot ist da.
+[01:47:36-3 @justushaukap] Die Leute, also man kann es kaufen, es wird gekauft, nur von Leuten, die nicht hochgradig vertrauenswürdig in vielen Fällen sind.
+[01:47:48-5 @justushaukap] Ja und das hat dann diese Begleiterscheinung, das heißt also, wenn ich jetzt überlege, ja gut, vielleicht würden ein paar Leute mehr kaufen, sieht man in Kanada jetzt auch,
+[01:47:57-1 @justushaukap] gibt so ein bisschen Experimentierfelder, Leute, die vielleicht vorher nicht gekauft haben, insbesondere bei älteren Bevölkerungsgruppen sieht man das.
+[01:48:05-7 @justushaukap] Weiß nicht, die jetzt 60 sind, die sagen, vorher wären sie wahrscheinlich nicht um den Bahnhof rumgeschlendert, um sich Drogen zu kaufen, jetzt wenn sie in den Shop gehen können,
+[01:48:11-6 @justushaukap] dann probieren sie es mal, aber typischerweise ist das der ganz ganz große Teil derjenigen wird ja nicht abhängig.
+[01:48:17-4 @justushaukap] Sieht man auch in Deutschland ganz schön.
+[01:48:19-1 @justushaukap] Also die sogenannte Lebenszeitprävalenz steigt seit Jahren, mittlerweile sind wir da bei über 30 Prozent der Leute, die schon mal Cannabis in ihrem Leben konsumiert haben.
+[01:48:29-1 @justushaukap] Aber diejenigen, die permanent nutzen, bleibt mehr oder weniger konstant.
+[01:48:35-9 @justushaukap] Also es gibt relativ viele, die das mal probieren, die das mal machen und dann wieder aufhören.
+[01:48:39-6 @timpritlove] Ja, es muss ja auch irgendwie zum Livestyle passen, man will ja jetzt auch nicht die ganze Zeit bekifft durch die Gegend rennen.
+[01:48:45-8 @justushaukap] Genau, also tatsächlich.
+[01:48:48-6 @timpritlove] Wie mit dem Alkohol auch.
+[01:48:49-2 @justushaukap] Also viele machen es nicht letztendlich, oder machen einen sehr gelegentlichen Konsum von wenige Male pro Jahr tatsächlich, was also gesundheitlich zu vernachlässigen ist.
+[01:49:00-1 @justushaukap] Wo kein problematischer Lebensstil dabei ist und das könnte man alles ändern.
+[01:49:06-5 @justushaukap] Man könnte dann in einer Legalisierung, also das Modell, was wir vorgeschlagen haben, eine Studie da gemacht für den deutschen Hanfverband letztes Jahr, vorletztes Jahr war das schon,
+[01:49:16-4 @justushaukap] da haben wir gesagt, warum machen wir nicht ein Modell, was sich relativ eng an Colorado oder auch Kanada anlehnt und sagen, es gibt lizensierte Shops
+[01:49:24-4 @justushaukap] und die Shops dürfen erst betreten werden, wenn man 18 ist, ähnlich wie die Spielhallen in Deutschland.
+[01:49:29-6 @justushaukap] Wer sich nicht an die Regeln hält, verliert seine Lizenz, also jede Wertschöpfungsstufe, der Anbau, die Verarbeitung, der Verkauf wird lizensiert.
+[01:49:38-3 @justushaukap] Jeder, der gegen Bestimmungen verstößt, muss mit dem Verlust der Lizenz rechnen.
+[01:49:43-8 @justushaukap] Das Ganze kann besteuert werden, dann kann man sozusagen das Geld auch noch verwenden für was auch immer man es gerne verwenden möchte.
+[01:49:51-5 @justushaukap] Also man entzieht quasi diesen Leuten, die heute das Geld haben, dadurch das Geld.
+[01:49:59-7 @justushaukap] Es schafft Arbeitsplätze, also schafft Arbeitsplätze ist falsch, die Arbeitsplätze gibt es ja heute teilweise schon, nur sind das keine sozialversicherungspflichtigen legalen Arbeitsplätze.
+[01:50:06-3 @justushaukap] Aber das ist ja eine Art von Arbeit, jeden Tag.
+[01:50:07-6 @timpritlove] Ja, aber teilweise eben auch komplett neue Industrien, weil im Schatten dieses Drogenverbots ist ja in gewisser Hinsicht schon mal absurd, wenn man jetzt mal so 100 oder 200 Jahre zurückblickt,
+[01:50:17-6 @timpritlove] wo es ja dieses Cannabisverbot nicht gab, hatten wir gerade hier im Umland von Berlin und Brandenburg eine blühende, im wahrsten Sinne des Wortes, Hanflandschaft.
+[01:50:25-8 @justushaukap] … Hanflandschaft.
+[01:50:27-6 @timpritlove] Wo Hanf als Basis für Seile und sehr viele andere Produkte, nachhaltige Kleidung etc., also Hanf bringt ja sehr viel von dieser Resistenz mit, der der Bauwolle irgendwie erst chemisch beigebracht werden muss.
+[01:50:41-9 @timpritlove] Also Abnutzung etc., also die Liste ist lang, wenn man sich da mal mit Leuten aus dem Hanfmuseum oder so unterhält, dann kriegt man die Tür nicht zu.
+[01:50:51-0 @timpritlove] Also es wird ja hier auch eine riesige Chance eines wirtschaftlichen und auch ökologisch extrem sinnvollen Anbaus einfach liegengelassen für nichts.
+[01:50:59-3 @justushaukap] Für nichts.
+[01:51:00-9 @timpritlove] Und da fragt man sich ja auch irgendwie, wie lange, also wo hakt es denn eigentlich?
+[01:51:06-5 @justushaukap] Ich bin da ganz optimistisch, dass das …
+[01:51:07-8 @timpritlove] Dass das Ding bald durch ist.
+[01:51:08-4 @justushaukap] … nicht mehr lange dauert, also das Thema Cannabis.
+[01:51:11-9 @timpritlove] Ja, wäre ja schon mal was.
+[01:51:13-4 @justushaukap] Also wenn man perspektivisch denkt, müsste man sich auch fragen, sollte man sich nicht auch Portugal anschließen in der Entkriminalisierung des Nutzens harter Drogen.
+[01:51:24-3 @justushaukap] Davon sind wir sicherlich noch meilenweit entfernt.
+[01:51:27-6 @justushaukap] Aber da kann man noch streiten, ob man eine Legalisierung will oder nur einen Entkriminalisierung des Ganzen.
+[01:51:33-1 @timpritlove] Na ich meine, die härteste Droge ist ja schon entkriminalisiert, so mit Alkohol.
+[01:51:36-8 @justushaukap] Genau, die ist auch legal.
+[01:51:37-9 @timpritlove] Die ist legal und ich meine, mehr Auswirkungen auf den Körper, glaube ich, als das wird man so schnell nicht finden.
+[01:51:45-9 @justushaukap] Und man sieht, dass das im Prinzip gut funktioniert im Vergleich zu Ländern, die stärkere Prohibition haben, wo man dann eben dann doch den selbstgebrannten, nicht kontrollierten Alkohol
+[01:51:56-2 @justushaukap] mit den entsprechend noch viel gesundheitsschädlicheren Wirkungen hat.
+[01:52:01-0 @justushaukap] Also von daher eigentlich spricht alles dafür, das zu legalisieren.
+[01:52:06-0 @justushaukap] Und das Interessante in Colorado ist sogar, dass der Konsum, insbesondere bei Teenagern, von Cannabis sogar zurückgeht.
+[01:52:12-0 @justushaukap] Das mag erst mal überraschend sein, aber hat aus der Angebotssicht eine gewisse Logik.
+[01:52:17-2 @justushaukap] Weil während heute ein 16-Jähriger problemlos an Cannabis kommt in Deutschland, also mein Sohn geht ja selber aufs Gymnasium, der weiß also genau wo man da bei wem Cannabis kaufen kann
+[01:52:28-5 @justushaukap] und wer das auch konsumiert in der Schule.
+[01:52:31-6 @justushaukap] Wird das natürlich, wenn ich jetzt diesen Markt austrockne, mehr oder weniger eigentlich schwieriger, weil der legale Händler wird mir das eher nicht verkaufen wollen,
+[01:52:39-9 @justushaukap] weil der ja plötzlich sagt, dann verliere ich aber meine Lizenz, wenn ich dir das verkaufe, wenn ich dich hier in meinen Laden lasse.
+[01:52:45-0 @justushaukap] Natürlich wird man es nicht ganz verhindern können, vielleicht gibt es dann doch einen Kumpel, der über 18 ist und mir das Ganze besorgt und so weiter.
+[01:52:51-4 @justushaukap] Aber im Colorado sieht man, dass der Teenagerkonsum rückläufig ist und das liegt sicherlich auch daran, weil dieses traditionelle Händlernetzwerk ist weggebrochen,
+[01:52:58-6 @justushaukap] weil die großen Leute kaufen nicht mehr bei denen, weil die sagen, ich gehe lieber in den Shop und kaufe mir was qualitätsgesichertes.
+[01:53:04-6 @timpritlove] Ja.
+[01:53:05-3 @justushaukap] Wo ich auch weiß was drin ist, wie hoch ist der THC-Gehalt etc..
+[01:53:08-8 @justushaukap] Das heißt also, das illegale Dealernetzwerk ist viel kleiner und dünner geworden sozusagen, so dass es für Jugendliche eher sogar schwieriger geworden ist absurderweise an Hanf dranzukommen,
+[01:53:19-9 @justushaukap] an Cannabis dranzukommen, als zu den Zeiten, als das alles noch illegal war.
+[01:53:24-4 @timpritlove] Und dieser Nimbus des Verbotenen, der geht natürlich auch schnell weg.
+[01:53:27-7 @justushaukap] Der geht auch weg ja.
+[01:53:30-2 @timpritlove] Klar. Also weniger kiffen durch mehr Legalisierung.
+[01:53:32-9 @justushaukap] Ja, es gibt viele Gründe, es gibt jetzt auch eine Studie, ist gerade jetzt in den letzten Tagen erschienen, dass Cannabis ja auch eine Ausstiegsdroge für viele ist wiederum.
+[01:53:40-2 @justushaukap] Nicht eine Einstiegsdroge, sondern eher eine Ausstiegsdroge, also dass der Konsum harter Drogen tendenziell sogar rückläufig zu sein scheint.
+[01:53:46-8 @justushaukap] Muss sagen, wenn ich doch legal dann sozusagen auf anderes zurückfallen kann, also die Vorteile überwiegen nicht nur aus meiner Sicht, das ist auch keine esoterische Sondermeinung,
+[01:53:57-3 @justushaukap] also wenn man unter Ökonomen rumfragt, man kann über die Geldpolitik der EZB und so sehr zerstritten sein, zum Thema Cannabis-Legalisierung würde ich sagen, gibt es einen Common Sense
+[01:54:06-6 @justushaukap] unter 80-90 Prozent.
+[01:54:08-5 @justushaukap] Wo man sagt, ja das ist ein Markt, der ist regulierungsbedürftig, aber das Verbot ist nicht die beste Regulierung.
+[01:54:13-6 @timpritlove] An wem hängt es denn so Ihrer Meinung nach?
+[01:54:16-4 @justushaukap] Momentan hängt es an der CDU, also die SPD wankelt hin und her, also einige Landesverbände haben sich, Berlin hat sich schon für eine Legalisierung ausgesprochen.
+[01:54:26-8 @justushaukap] Es gibt noch keinen Bundes …
+[01:54:28-8 @timpritlove] Aber ich meine, woran liegt es bei der CDU?
+[01:54:31-4 @timpritlove] Also ich meine, was ist dieser mentale …
+[01:54:33-5 @timpritlove] Ich meine, Wirtschaft ist ja nun etwas, was sie sich ja ganz gerne ans Revers kleben.
+[01:54:39-1 @timpritlove] Wenn man so klare wirtschaftliche Argumente liefert.
+[01:54:42-7 @justushaukap] Das kann vielleicht ein Politikwissenschaftler besser beantworten, warum man vielleicht momentan besondere Bestrebungen hat, konservativ erscheinen zu wollen.
+[01:54:53-0 @justushaukap] Also das könnte damit zu tun haben.
+[01:54:56-4 @timpritlove] Gut, verlassen wir die Welt der Drogen und ich würde gerne nochmal so auf die digitale und Medienwelt kommen.
+[01:55:06-1 @timpritlove] Auch da haben wir ja einige wettbewerbliche Verzerrungen bewusster Natur.
+[01:55:15-2 @timpritlove] Zum Beispiel der öffentlich rechtliche Rundfunkbereich, der so seine Liebesmüh hat, mit der restlichen Presselandschaft zu koexistieren in beide Richtungen.
+[01:55:32-6 @timpritlove] Hier gibt es ja zahlreiche Ausnahmen, Sonderregelungen, sowohl was jetzt den Modus operandi an sich betrifft, auch das Einziehen von Geld natürlich,
+[01:55:40-7 @timpritlove] weil das ja in dem Sinne kein Markt ist, der sozusagen einfach nur von Konsumenten aufgebaut wird, andererseits natürlich auch zahlreiche rechtliche Ausnahmen, Urheberrecht etc.,
+[01:55:53-4 @timpritlove] ein permanenter Battle bis hin zu solchen absurden Auseinandersetzungen wie jüngst um das Leistungsschutzrecht.
+[01:56:05-2 @timpritlove] Wie sehen Sie das denn so als Wirtschaftswissenschaftler?
+[01:56:10-1 @justushaukap] Man geht erst mal audiovisuelle Produkte genauso ran wie an alles andere.
+[01:56:19-1 @justushaukap] Fragt, okay das ist erst mal ein Markt, es gibt Leute, die wollen was haben, es gibt Leute, die produzieren was und wollen es verkaufen.
+[01:56:27-5 @justushaukap] Gibt es da irgendeinen Grund dafür, dass der Markt von alleine nicht gut funktionieren würde?
+[01:56:31-4 @justushaukap] Und dann kann man sagen, gibt es da so was wie öffentliches Gut Charakter, externe Effekte, Vermachtungsprobleme, also dieses ganze Repertoire sozusagen der Marktversagenstatbestände klappert man durch
+[01:56:46-1 @justushaukap] und man sieht dann tatsächlich, ja da könnte es schon Gründe geben und auch in der Vergangenheit sicherlich welche gegeben, warum der Markt eine gewisse Regulierungsbedürftigkeit tatsächlich hat.
+[01:56:58-4 @justushaukap] Und wenn man sich mal so die Historie des öffentlich rechtlichen Fernsehen anguckt, dann wird immer gesagt, na das hat ja eigentlich so was wie Information, Bildung, Aufklärung, salopp sagen,
+[01:57:08-4 @justushaukap] es hat so was wie externe Effekte sozusagen, das ist förderlich für das demokratische Zusammenleben, wenn es sozusagen nicht interessengeleiteten Journalismus gibt,
+[01:57:16-8 @justushaukap] weil es auch Informationsprobleme gibt und historisch ist es ja auch so entstanden, dass man sagt, wir haben nur ganz wenig Kanäle, die wir belegen können.
+[01:57:24-7 @justushaukap] Und da müssen wir irgendwie dafür sorgen, dass bei diesen wenigen Kanälen eine mögliche Ausgewogenheit vorherrscht.
+[01:57:31-9 @justushaukap] Und dieses Problem ist irgendwann weggefallen, weil zu wenig Kanäle haben wir sicherlich heute nicht mehr.
+[01:57:37-5 @timpritlove] Ja.
+[01:57:38-6 @justushaukap] Also der Grund ist weg, kann man sagen, aber gibt es vielleicht noch andere Gründe?
+[01:57:43-3 @justushaukap] Da haben wir gesagt, ja es gibt so eine ökonomische Theorie, die Theorie nennt sich der sogenannte Media Bios.
+[01:57:47-7 @justushaukap] Man sagt, privatfinanzierte Medien da kann es verschiedene Arten von Verzerrungen geben.
+[01:57:55-3 @justushaukap] Also bekannt ist die, dass man sagt, die nehmen vielleicht zu viel Rücksicht auf die Werbekunden.
+[01:58:00-4 @justushaukap] Da gibt es auch schöne Artikel dazu, die das belegen, dass zum Beispiel diese Autozeitschriften tendenziell diejenigen Autos, die besonders viel bei ihnen werben, auch besser testen.
+[01:58:10-3 @justushaukap] Das ist so eine ganz einfache Formel.
+[01:58:12-3 @justushaukap] Aber allgemein kann man sagen, ja soll ich jetzt einen kritischen Bericht über Unternehmen XYZ machen, wenn das doch wichtige Werbekunden sind?
+[01:58:18-3 @justushaukap] Dann würde man sagen, vielleicht nicht.
+[01:58:19-8 @timpritlove] Beziehungsweise ist ja auch dieses, was überhaupt noch Werbung ist und was schon ein redaktioneller Beitrag, sind ja auch fließende Übergänge.
+[01:58:27-5 @justushaukap] Fließender Übergang, da würde man sagen, das hat man natürlich im Prinzip auch bei Zeitungen dieses Problem, das ist jetzt kein spezielles Problem des Fernsehens,
+[01:58:32-9 @justushaukap] aber da sagt man, okay vielleicht korrigiert sich das nicht ganz von alleine, vielleicht gibt es da auch noch Eigentümer, die spezielle Interessen haben sozusagen,
+[01:58:42-8 @justushaukap] die sozusagen deswegen unausgewogen berichten, vielleicht brauchen wir da ein gewisses Korrektiv.
+[01:58:47-0 @justushaukap] Sozusagen das ist erst mal eine Theorie, da mag was dran sein.
+[01:58:53-7 @justushaukap] Also dann würde natürlich aber einiges dafür sprechen, wenn man sagt, wenn wir das nicht wollen, wenn wir das glauben, dass das eine Theorie ist, die einen gewissen Biss hat,
+[01:59:00-6 @justushaukap] dann sollte man vielleicht dem ein Fernsehen entgegenstellen was werbefrei ist.
+[01:59:04-7 @justushaukap] Das haben wir nun ausgerechnet nicht gemacht beim öffentlich rechtlichen Rundfunk.
+[01:59:07-8 @justushaukap] Da ist zwar die Werbung reduziert, aber werbefrei ist sie nicht.
+[01:59:12-0 @justushaukap] Wenn wir sagen, eigentlich wenn man das konsequent zu Ende denkt müssen wir sagen, dann brauchen eher eine Art BBC, also werbefreies.
+[01:59:16-8 @timpritlove] Teilweise dann aber natürlich auch, weil die Preise für zum Beispiel Übertragung von Sportveranstaltung etc. natürlich durch das private Interesse so weit gestiegen ist,
+[01:59:26-9 @timpritlove] dass es schwierig ist, da überhaupt noch mitzuhalten.
+[01:59:28-5 @justushaukap] So und dann kommt die zweite Frage, da würde man sich zum Beispiel fragen, ist das denn in allen Bereichen gleichermaßen problematisch eigentlich?
+[01:59:36-9 @justushaukap] Diese, ich sage mal, verzerrte Darstellung, die wir möglicherweise haben.
+[01:59:41-0 @justushaukap] Und dann würde man jetzt wahrscheinlich sagen, naja im Bereich der Übertragung von Bundesligaspielen ist die vielleicht weniger stark ausgeprägt als in der politischen Berichterstattung.
+[01:59:53-4 @justushaukap] Dann würde man sagen, dann ist es doch vielleicht ganz sinnvoll, wenn das öffentlich rechtliche Fernsehen, was dem entgegensteht, insbesondere sich auf Dinge einstellt,
+[02:00:02-4 @justushaukap] die im privaten Rundfunk nicht gemacht werden.
+[02:00:05-5 @justushaukap] Also nicht genau die, die da sowieso gemacht werden, sondern eher die, die nicht da stattfinden.
+[02:00:08-7 @justushaukap] Also ich würde mal sagen, Politik, Kinderfernsehen vielleicht, auch wenn man das wahrscheinlich werbefrei haben will.
+[02:00:16-5 @timpritlove] Oder eben Sportarten, die die Leute nicht ganz so interessieren.
+[02:00:18-9 @justushaukap] Sportarten, die sie nicht interessieren, Randsportarten oder kritische Sportberichterstattung, also investigativer Sportjournalismus.
+[02:00:28-4 @justushaukap] Aber wahrscheinlich weniger Volksmusik und Fußball Bundesliga übertragen.
+[02:00:35-2 @justushaukap] Und das ist natürlich absurderweise auch noch das, was am teuersten momentan ist.
+[02:00:40-8 @justushaukap] Und das öffentlich rechtliche Fernsehen hat sich tatsächlich auch immer weiter wegentwickelt, also gerade im Bereich der Sportberichterstattung, sozusagen ist die Konzentration auf Fußball immer extremer geworden.
+[02:00:54-2 @justushaukap] Und die Berichterstattung über Randsportarten immer dünner geworden tatsächlich.
+[02:01:01-0 @justushaukap] Also eigentlich versuchen sie heute das zu machen, was der Privatfunk ansonsten machen würde und nicht zu sagen, wir wollen jetzt aber dezidiert das machen, was die eigentlich nicht sowieso machen würden.
+[02:01:11-2 @justushaukap] Und aus einer marktwirtschaftlichen Sicht würde man sagen, warum machen wir es nicht anders?
+[02:01:14-6 @justushaukap] Warum sagen wir nicht, dann sollen die Privaten doch meinetwegen im werbefinanzierten Fernsehen die Bundesliga zeigen
+[02:01:20-1 @justushaukap] und der öffentlich rechtliche Rundfunk komplementiert dieses Angebot durch eine kritische Sportberichtserstattung, die ja auch im öffentlich rechtlichen Rundfunk eine marginale Rolle nur spielt.
+[02:01:28-6 @justushaukap] Und eine Berichterstattung über Sportarten, die vielleicht sonst weniger stark transportiert werden würden.
+[02:01:34-8 @justushaukap] Aber genau das findet momentan nicht statt, sondern es hat eine gewisse Eigendynamik entwickelt, auch im öffentlich rechtlichen Rundfunk spielen Quoten eine überbordende Rolle.
+[02:01:43-0 @justushaukap] Eigentlich genau das, also sie wollen gucken, sind wir eigentlich so erfolgreich am Markt wie es ein privates Unternehmen wäre?
+[02:01:49-2 @justushaukap] Aber wenn man so agiert, könnte man sagen, dann brauchen wir eigentlich keinen öffentlich rechtlichen Rundfunk.
+[02:01:57-4 @justushaukap] Prinzipiell sozusagen würde man in der Ökonomie sagen, wir brauchen nicht öffentliche Unternehmen allgemein, die genau das machen, was private Unternehmen machen.
+[02:02:06-4 @justushaukap] Sondern öffentliche Unternehmen müssen sich dadurch rechtfertigen, dass sie genaue etwas machen, was private Unternehmen ansonsten nicht machen würden.
+[02:02:13-2 @justushaukap] Und das fehlt momentan beim öffentlich rechtlichen Rundfunk in Teilen.
+[02:02:17-6 @justushaukap] Die billigsten, von der Produktionsweise witzigerweise billigsten Teile des öffentlich rechtlichen Rundfunks sind anscheinend die, die genau den Auftrag erfüllen.
+[02:02:24-8 @justushaukap] Also so Dinge wie Deutschland Radio Kultur, Deutschlandfunk, die politische Berichterstattung, Nachrichten sind verhältnismäßig günstig im Vergleich zu Sport und Volksmusik.
+[02:02:36-4 @timpritlove] Die aber, okay Volksmusik wahrscheinlich nicht, aber im Falle von Sport gibt es ja dann eben auch noch diese Sekundäreinnahmen, aber das ist dann sozusagen das geht komplett unter in den Produktionskosten.
+[02:02:46-2 @timpritlove] Naja, aber das Argument ist natürlich, dass wenn man relevant sein will und überhaupt das andere Programm überhaupt noch an die Eyeballs heranführen will,
+[02:02:54-4 @timpritlove] dass man dann eben solche Inhalte auch mittragen muss.
+[02:02:58-3 @justushaukap] Das hat sich in der Vergangenheit, ich sage mal spaßeshalber, vor der Erfindung der Fernbedienung sicherlich eine gewisse Relevanz gehabt.
+[02:03:04-8 @justushaukap] Mittlerweile sehen wir ja, dass dieses lineare Fernsehen sich immer weiter auflöst tatsächlich.
+[02:03:08-9 @timpritlove] Es verclipt und verschwindet alles im Netz.
+[02:03:12-1 @justushaukap] Und die Leute gucken wann sie wollen.
+[02:03:14-2 @timpritlove] Und was sie wollen.
+[02:03:15-5 @justushaukap] Livespiele gucken sie natürlich dann, wenn sie laufen, aber ansonsten gucken die Leute wann sie wollen.
+[02:03:20-1 @justushaukap] Also ich habe neulich meine Studenten selber gefragt, wer von ihnen öffentlich rechtliches Fernsehen guckt?
+[02:03:24-3 @justushaukap] Das war eine Vorlesung mit 30 Leuten, da haben sich drei gemeldet.
+[02:03:28-3 @timpritlove] Aber ist …
+[02:03:28-6 @justushaukap] Das heißt also, man erreicht auch viele Zielgruppen gar nicht mehr.
+[02:03:32-5 @timpritlove] Aber jetzt mal so aus einer wettbewerbsrechtlichen Sicht, weil da die Battles sind ja dann krass, weil natürlich jetzt hier so Springer und Konsorten immer ankommen und sagen,
+[02:03:40-0 @timpritlove] ja hier die machen jetzt auch die Texte im Internet und die erlauben sogar Apps auf Telefonen, wo kommen wir denn da hin?
+[02:03:48-4 @timpritlove] Und ziehen halt alle möglichen Register, um den öffentlichen Rundfunk davon abzuhalten, hier in Konkurrenz zu gehen.
+[02:03:55-7 @timpritlove] Wo man fragen kann, ist das auch eigentlich wirklich so?
+[02:03:58-9 @timpritlove] Lassen sich solche Konkurrenzsituationen, also wird hier Markt verhindert oder ist das eigentlich albern?
+[02:04:04-6 @timpritlove] Und wie ist es denn, also ist es denn für uns …
+[02:04:09-5 @timpritlove] Also mal abgesehen davon, dass jetzt jeder diesen Beitrag zahlt, leidet dieses Land wirtschaftlich irgendwie darunter, dass wir einen öffentlichen Rundfunk haben
+[02:04:18-3 @timpritlove] oder ist das nur, dass er für sich genommen ineffizient ist und weniger kosten könnte?
+[02:04:23-0 @justushaukap] Also ich glaube zweiteres.
+[02:04:24-9 @justushaukap] Also den allermeisten geht es auch nicht darum, dass sie sagen, wir wollen keinen öffentlichen Rundfunk mehr haben.
+[02:04:29-6 @justushaukap] Die Frage ist eher, das Ausmaß des öffentlich rechtlichen Rundfunks, brauchen wir wirklich so viel davon?
+[02:04:34-8 @justushaukap] Und müssen die alles das machen, was Private schon besetzen?
+[02:04:38-1 @justushaukap] Das ist natürlich nicht nur Springer, auch ich weiß Spiegel Online und so die leiden schon darunter, dass sie sagen, wir müssen sozusagen immer wieder gucken,
+[02:04:45-2 @justushaukap] dass wir uns irgendwie refinanzieren das Ganze, wir begreifen uns schon als Qualitätsmedium.
+[02:04:51-2 @justushaukap] Oder auch die anderen, wir haben ja eine gute Presselandschaft, Zeit, FAZ, Süddeutsche etc., Welt.
+[02:04:58-3 @justushaukap] Also auch die sagen natürlich, wenn uns jetzt die Tagesschau versucht, mit immer mehr Ressourcen und immer mehr Geld das Wasser abzugraben,
+[02:05:07-0 @justushaukap] dann ist das eigentlich nicht vielfaltsichernd, sondern wird irgendwann dazu führen, dass wir die Angebote werden einstellen müssen, weil wir sie nicht mehr refinanzieren können
+[02:05:14-8 @justushaukap] und dann haben wir quasi die Monopolisierung durch die Tagesschau.de oder so und das kann sicherlich auch dem Ziel, das man eigentlich hat, also für die ja nicht gut sein.
+[02:05:24-9 @justushaukap] Also von daher stellt sich schon die Frage, wie kann man auch Schranken auflegen, dass sozusagen das Angebot nicht den Wettbewerb zerstört.
+[02:05:35-7 @justushaukap] Und die Briten haben das ganz intelligent gemacht mit der BBC.
+[02:05:37-6 @justushaukap] Die haben eigentlich gesagt, wir machen so ein System, was wir in ähnlicher Weise eigentlich auch haben mit dem drei-Stufen-Test, wo wir sagen,
+[02:05:44-7 @justushaukap] wenn ihr ein neues Angebot schaffen wollt, dann muss das so eine Art Test durchlaufen, aber in Großbritannien durch eine unabhängige Behörde, die Ofcom,
+[02:05:52-5 @justushaukap] die sagt, wir müssen abwägen, wie ist der Mehrwert, sozusagen der journalistische Mehrwert, gegenüber den Gefahren, die dadurch sozusagen private Angebote verdrängt.
+[02:06:00-1 @justushaukap] Das müssen wir irgendwie abwägen miteinander.
+[02:06:01-7 @justushaukap] In Deutschland hat man sich anders entschieden, man hat gesagt, diesen Test führen die Fernsehanstalten mehr oder weniger selber durch.
+[02:06:11-9 @timpritlove] Ist ein bisschen wie mit dem TÜV und den Dieseln.
+[02:06:14-0 @justushaukap] Genau, da weiß man natürlich wie der ausgeht, da ist noch nichts untersagt worden.
+[02:06:18-2 @justushaukap] Die Briten haben aber schon gesagt, nein das geht jetzt zu weit dieses Angebot, dann sehen wir die Gefahr, dass ihr sozusagen private Angebote nachher mehr zerstört als ihr sie aufbaut.
+[02:06:25-9 @justushaukap] Und so ein System, wo man das sozusagen aus dem Rundfunk weglöst und das einer unabhängigen Instanz gibt, würde mir besser gefallen.
+[02:06:35-7 @timpritlove] Jetzt ist natürlich das Internet drauf und dran und an vielen Bereichen auch schon ganz weit vorne, Wirtschaftssysteme nochmal so komplett infrage zu stellen.
+[02:06:47-2 @justushaukap] Erstens weil wir es hier mit einer ganz anderen Art der Dienstleistung zu tun haben, die es so vorher nicht gab, die extrem transformativ ist, die viele andere Branchen in ihren Grundfesten
+[02:07:00-0 @timpritlove] und in ihrer Selbstverständlichkeit erschüttert und teilweise komplett auflöst, die per se global ist, die sozusagen auch extrem disruptiv wirkt, weil sie eben über Steuergrenzen, Rechtsgrenzen hinweg,
+[02:07:17-4 @timpritlove] so es eben keine internationalen Vereinbarungen gibt, hier mehr oder weniger Wildwuchs betreibt, sich eben sehr schön verstecken und umverlagern kann teilweise in Sekundenschnelle,
+[02:07:28-4 @timpritlove] und die vor allem halt auch nochmal eine ganz neue Form von Monopolsituation schafft, die wir so nur ansatzweise, glaube ich, bisher gesehen haben.
+[02:07:39-3 @timpritlove] Dinge wie dieser Netzwerkeffekt bei sozialen Netzwerken, YouTube etc., also im Prinzip alle Großen, die schon in irgendeiner Form mal in einem Bereich groß geworden sind,
+[02:07:49-9 @timpritlove] sind extrem schwer da wieder wegzubekommen und wir haben es eigentlich, sieht es gerade alles so aus, als würde sich hier quasi so eine wirtschaftliche Singularität herausbilden.
+[02:08:02-7 @timpritlove] Also nicht alles in einem, aber wo shoppt man, ja beim großen A, wo sucht man, beim großen G und ähnliches und wo kommuniziert man und wo bildet man sich seine Meinung, beim großen F.
+[02:08:18-1 @timpritlove] Also ein Buchstabe für jeden Bereich mit potenziellen weiteren Verdichtungen und Mergern vielleicht in der Zukunft, aber eben, gut das muss ich dazu sagen,
+[02:08:29-0 @timpritlove] das ist natürlich jetzt eine extrem westlich geprägte Sicht.
+[02:08:32-6 @justushaukap] Ja klar.
+[02:08:32-8 @timpritlove] Aus der chinesischen Perspektive.
+[02:08:34-6 @justushaukap] Da ist die Situation nicht anders, nur mit anderen Buchstaben.
+[02:08:35-5 @timpritlove] Genau, da sind es andere Beispiele, da sind es dann irgendwie Ws vor allem oder Zeichen, die wir ohnehin nicht lesen können.
+[02:08:42-7 @timpritlove] Also so oder so ist ja diese Ökonomie absehbar.
+[02:08:46-8 @timpritlove] Und man sieht ja auch, wie sehr sich die Politik und auch das Kartellrecht extrem schwertut, hier da dem nachzugehen, das überhaupt nur aufzuspüren
+[02:09:00-6 @timpritlove] bzw. auch überhaupt erst mal Ideen und Leitbilder zu finden für neue Regelungen im Bereich Datenschutz etc..
+[02:09:10-5 @timpritlove] Was passiert da?
+[02:09:12-7 @timpritlove] Also wie blicken Sie da als Wettbewerbsmensch drauf?
+[02:09:20-6 @justushaukap] Ja, das ist einer der großen Herausforderungen, die wir jetzt tatsächlich haben in der Wettbewerbspolitik.
+[02:09:26-7 @justushaukap] Also wie ist umzugehen mit den großen Plattformen letztendlich, die sich herausbilden?
+[02:09:36-9 @justushaukap] Und es gibt da heute schon Ansätze, also nicht umsonst hat ja die Europäische Kommission verschiedene Verfahren schon geführt gegen Google.
+[02:09:46-5 @justushaukap] Und Google immer wieder in diversen Bereichen in die Schranken gewiesen.
+[02:09:50-4 @justushaukap] Auch gegen Apple.
+[02:09:52-0 @justushaukap] Jetzt läuft ein Verfahren gegen Amazon.
+[02:09:54-6 @justushaukap] Also es gibt sozusagen eine kartellrechtliche Aktivität mit auch substanziellen Bußgeldern, die verhängt werden, um bestimmte Praktiken abzustellen.
+[02:10:06-1 @justushaukap] Gleichwohl ist schon die berechtigte Frage, kann man da noch Dinge verbessern?
+[02:10:10-1 @justushaukap] Kann man da noch mehr dafür tun?
+[02:10:12-4 @justushaukap] Weil es ist völlig richtig, ein Teil dieser Märkte, also diese Plattform zumindest sind durch diese indirekten Netzeffekte geprägt.
+[02:10:20-0 @justushaukap] Das heißt also, letztendlich ist es ein bisschen so wie früher in der Dorfdisko, alle wollen da sein, wo alle sind, weil eben alle da sind.
+[02:10:28-2 @justushaukap] Und so ähnlich ist es bei diesen Plattformen auch, alle sind bei Facebook, weil alle anderen auch da sind, wobei sich das zwischen den Generationen so ein bisschen verschiebt.
+[02:10:40-2 @justushaukap] Bei Plattformen wie Amazon, Amazon Marketplace ist es natürlich so, dass wir diese indirekten Netzeffekte haben, die Käufer gehen dahin, wo die meisten Verkäufer sind
+[02:10:49-1 @justushaukap] und die Verkäufer gehen dahin, wo die meisten Käufer sind und deswegen schaukelt sich so das nach oben.
+[02:10:55-0 @justushaukap] Gleichwohl gibt es auch eine große Chance bei diese Plattformen, weil anders als früher ist es auch leichter, parallel sich auf verschiedenen Plattformen zu betätigen.
+[02:11:06-0 @justushaukap] Das heißt also, der Fachterminus ist da das sogenannte Multihoming, dass man sagt, wenn ich einen Shop bei Amazon eröffne, ist es auch jetzt kein großes Ding mehr,
+[02:11:17-2 @justushaukap] auch noch einen Shop bei Ebay zu eröffnen, ich kann ich auch noch meinen eigenen Internetshop aufmachen und ich kann auch noch zahlreiche andere Distributionswege mir suchen.
+[02:11:26-8 @justushaukap] Das ist eigentlich relativ leicht.
+[02:11:29-7 @justushaukap] Deswegen ist im Kern Ansatzpunkt momentan auch in der Debatte darüber, wie wir das Kartellrecht reformieren sollen, dass man sagt, dieses Multihoming müssen wir weiter ermöglichen.
+[02:11:38-9 @justushaukap] Denn prinzipiell spricht ja erst mal nichts dagegen, dass man sagt, alle Shops der Welt können bei Amazon sein und alle Shops der Welt können parallel auch bei Ebay sein.
+[02:11:47-0 @justushaukap] Und alle Shops der Welt können parallel auch noch bei irgendeiner anderen Plattform sein.
+[02:11:52-6 @justushaukap] Man könnte also ganz viele Plattformen haben parallel sozusagen und alle Nutzer der Welt für die ist es ja auch kein Problem zu sagen, gucke ich bei Amazon, dann gucke ich nochmal bei Ebay,
+[02:11:59-0 @justushaukap] dann gucke ich nochmal bei Plattform XYZ und gucke da, gucke nochmal bei Ladenzeile.de, bei Idealo.de, vielleicht bei Google Shopping, auch da sozusagen ist es eigentlich leicht.
+[02:12:07-4 @justushaukap] Deswegen ist ganz wichtig, dass man verhindert sozusagen, dass da so was wie ein Sog entsteht, dass die Plattformen, das ist immer wieder eine Strategie, die man auch versucht zu fahren.
+[02:12:21-2 @justushaukap] so was wie Exklusivitätsvereinbarungen und so was treffen.
+[02:12:24-4 @justushaukap] Zu sagen, wenn ihr hier bei uns einen Shop eröffnet, dürft ihr nicht parallel woanders sein.
+[02:12:27-2 @justushaukap] Weil dann würde der Wettbewerb relativ schnell sterben und dann kippen die Märkte um und dann hat man dieses „The Winner Takes All“-Phänomen.
+[02:12:32-5 @justushaukap] Und das hat man eben teilweise in der Vergangenheit versucht sozusagen und da ist kartellrechtlich momentan die Diskussion, ob man da nicht auch viel früher intervenieren muss,
+[02:12:39-5 @justushaukap] wenn so was ersichtlich wird tatsächlich.
+[02:12:42-2 @justushaukap] Denn prinzipiell hat das Internet natürlich Wettbewerb in viele Märkte injiziert oder den Wettbewerb stark intensiviert.
+[02:12:52-5 @justushaukap] Denken wir gerade an so was wie den Handel, früher wenn man sich was kaufen wollte, hat man sich auf die Umgebung konzentriert mehr oder weniger.
+[02:12:59-9 @justushaukap] Heute kann ich ja von Flensburg bis Passau und von Saarbrücken bis Greifswald mir quasi alle Shops angucken, die im Internet sind.
+[02:13:08-0 @justushaukap] Und ich bestelle dann möglicherweise was beim Antiquitätenhändler in Flensburg, was ich früher nie gesagt hätte.
+[02:13:15-6 @justushaukap] Der steht plötzlich im Wettbewerb mit einem Antiquitätenhändler aus Passau.
+[02:13:19-6 @justushaukap] Also von daher hat es auch eine wettbewerbsbelebende Funktion natürlich in vielen Bereichen.
+[02:13:24-7 @timpritlove] Aber die Plattformen etablieren sich natürlich schon so als die neue Basis des Wirtschaftslebens und vor allem sind deren Regeln auf einmal dann die kräftigeren Regeln
+[02:13:33-2 @timpritlove] als die, die eigentlich ja gesetzlich auf nationaler oder eben intranationaler Ebene festgeschrieben sind.
+[02:13:41-7 @timpritlove] Das gefährdet ja dann im Prinzip das Wirtschaftssystem als solches.
+[02:13:44-9 @justushaukap] Gut, Sie müssen sich natürlich schon an die Regeln halten, die hier vorgegeben werden.
+[02:13:48-8 @justushaukap] Wenn Sie das nicht tun, dann sagt man, es ginge los, Google das Recht auf Vergessen und so, dann wird das eben in Europa etabliert und dann müssen Sie es auch tun.
+[02:13:54-8 @justushaukap] Es ist auch nicht so, dass man sagt, die halten sich da nicht dran.
+[02:13:58-6 @justushaukap] Sozusagen wenn es dann so ist, ob es jetzt eine gute Idee ist mit dem Recht auf Vergessen oder nicht, sei mal dahingestellt, aber zumindest halten sie sich dran.
+[02:14:04-9 @justushaukap] Kann auch vom Netzdurchsetzungsgesetz halten was man will, kann aber nicht sagen, dass die Unternehmen sich nicht dran halten tatsächlich.
+[02:14:13-2 @justushaukap] Ob das jetzt eine gute Idee war dieses Gesetz, sei auch mal dahingestellt, aber man hat in Spanien Google verpflichtet zu sagen, die haben ja diese krasse Form des Leistungsschutzrechtes
+[02:14:20-5 @justushaukap] mit Zahlungsverpflichtung gehabt, wo sie sagten, wir halten uns da dran in dem Sinne, dass wir den Dienst Google News dann eben einstellen.
+[02:14:25-8 @justushaukap] Und dann halten wir uns ans Gesetz und bieten den Dienst nicht mehr an.
+[02:14:29-1 @justushaukap] Ich glaube auch nicht, dass das eine blendende Idee ist, aber man kann nicht sagen, dass sie sich nicht an die Gesetze halten.
+[02:14:32-0 @timpritlove] Ja okay.
+[02:14:33-4 @justushaukap] Von daher und auch jetzt Google Shopping und so weiter, die Entscheidung, die es gab der Kommission, mit den kräftigen Busgeldern, natürlich ändern die ihr Verhalten,
+[02:14:40-6 @justushaukap] dafür ist Europa schon zu wichtig.
+[02:14:42-3 @justushaukap] Die sage jetzt nicht, tut uns leid, wir sitzen in den USA, wir machen einfach was wir wollen.
+[02:14:45-6 @justushaukap] Also sie halten sich an die Gesetze, wenn man sie dazu zwingt ja auch.
+[02:14:51-6 @timpritlove] Das würde aber im Umkehrschluss jetzt bedeuten, dass man aber im Prinzip die Kartellkeule auch noch ein bisschen präsenter schwingen müsste.
+[02:14:59-1 @timpritlove] Weil gerade was so Zahlungswege angeht, dann werden halt die integrierten Systeme genommen, sind halt irgendwie da.
+[02:15:04-9 @timpritlove] Weil die Leute gehen ja einfach auf diese Plattformen, weil halt eben alle anderen auch schon da sind, weil man sich dran gewöhnt hat
+[02:15:10-4 @timpritlove] und weil man irgendwie bei Amazon jetzt diese 15 Jahre Bestellhistorie hat ist ja auch mal was ganz praktisches, wenn man denn möchte, dass solche Informationen überhaupt gespeichert werden.
+[02:15:20-8 @timpritlove] Mal jetzt ganz unabhängig von dieser ganzen Datenschutzdebatte.
+[02:15:23-0 @timpritlove] Mir geht es allein jetzt um diese wirtschaftlichen Effekt, die das Ganze hat.
+[02:15:27-5 @timpritlove] Ich meine, man hat aber nicht mehr so das Gefühl, dass jetzt in irgendeiner Form Europa hier noch viel zu gestalten hat, wie das digital basierte Wirtschaftsleben aussieht.
+[02:15:40-3 @justushaukap] Wir haben ein Defizit, dass wir selber keine Plattform haben in dem Sinne, dass sich die hier nicht entwickelt haben, aber gestaltend wirken wir schon.
+[02:15:47-2 @justushaukap] Also es gibt eine ganze Reihe von Vorgaben, die gemacht werden sozusagen, die von Unternehmen dann auch einzuhalten sind.
+[02:15:54-9 @justushaukap] Und hier gibt es sicherlich, also wie gesagt, dass dieses Multihoming weiter ermöglicht wird, dass man sagt, wenn mir die Regeln von Plattform A nicht gefallen,
+[02:16:03-1 @justushaukap] dann wechsle ich zu Plattform B, das ist wichtig.
+[02:16:04-6 @justushaukap] Zweites wichtiges Thema ist so was wie Datenportabilität, haben wir durch die Datenschutzgrundverordnung für Privatleute immerhin bekommen.
+[02:16:11-1 @justushaukap] Stellt sich immer noch die Frage, geht das überhaupt?
+[02:16:12-1 @justushaukap] Ich muss ja auch einen haben, der die Daten aufnehmen will.
+[02:16:15-2 @justushaukap] Klar, wenn die keiner haben will, dann hilft mir die Portierung auch nicht letztendlich, aber da gibt es immer noch Defizite,
+[02:16:22-6 @justushaukap] weil sobald ich gewerblich bin, habe ich das Recht auf Portierung nicht im gleichen Maße wie als Privatperson, da ist die Frage, muss man da nicht nachschärfen,
+[02:16:29-4 @justushaukap] dass auch gewerblich portiert werden kann?
+[02:16:33-5 @justushaukap] Und es gibt eben diese Entwicklung, dass man sagt, brauchen wir nicht – die SPD Hat das genannt - Daten für alle Gesetz, für alle ist vielleicht ein bisschen übertrieben sozusagen,
+[02:16:44-3 @justushaukap] aber ist nicht die Frage, müsste man nicht auch Wettbewerbern verbesserten Zugang zu Daten ermöglichen?
+[02:16:49-4 @justushaukap] Also sofern nicht Gründe wie der Datenschutz, die Privatsphäre dagegenstehen.
+[02:16:54-6 @justushaukap] Aber das ist momentan eine große Diskussion.
+[02:16:57-0 @justushaukap] Die europäische Kommissarin, Frau Vestager, hat das ja auch schon angesprochen und gesagt, sie setzt auch darauf, dass sozusagen das Teilen von Daten und das Verfügbarmachen von Daten
+[02:17:05-8 @justushaukap] auch für andere wiederum auch, also es gibt nicht diese universelle Lösung, wo man sagt, okay dadurch wird jetzt alles erreicht.
+[02:17:12-5 @justushaukap] Aber das ist ein Baustein, um auch den Wettbewerb am Leben zu halten im Markt.
+[02:17:16-1 @justushaukap] Dass man sagt, Multihoming, die Frage der Fusionskontrolle müssen wir uns noch stellen sozusagen, muss man da nicht noch ein bisschen schärfer werden als man in der Vergangenheit war?
+[02:17:26-3 @timpritlove] Aber ich meine, das hilft ja nur, dass man nicht komplett den Anschluss verliert und nicht in vollständige Abhängigkeit geht, aber das wird ja nicht ansatzweise dazu beitragen,
+[02:17:35-7 @timpritlove] dass jetzt ein etwas so stark wird wie Amazon oder etwas so stark wie …
+[02:17:41-8 @timpritlove] Ich meine, Suchmaschinen, ich weiß nicht, wann die letzte gestartet ist, ich glaube, 2002 ging irgendwie DuckDuckGo an den Start oder ein bisschen später, 2005 vielleicht
+[02:17:53-6 @timpritlove] und das war es dann irgendwie in diesem Segment so.
+[02:17:56-1 @timpritlove] Und gut Onlineshopping in China, ja klar, gab es mit Alibaba noch ein paar Erfolge, aber schon so auf europäischer Ebene gibt es halt gar nichts.
+[02:18:08-3 @timpritlove] Also es gibt nichts, was auch nur ansatzweise.
+[02:18:09-8 @timpritlove] Es gibt ein paar große Versender, die sich so noch ein bisschen am Leben erhalten, indem sie nochmal eine eigene Geschichte anbieten, aber es ist halt irgendwie alles sehr schwierig.
+[02:18:18-8 @timpritlove] Also worauf ich hinaus will, ich denke, an dieser Transformation mit extrem starken Playern, die vielleicht hier und da mal an dem einen oder anderen monopolistischen Gebaren ein bisschen festgehalten werden
+[02:18:35-5 @timpritlove] und zurückgeschraubt werden können, scheint sich so perspektivisch nichts zu ändern.
+[02:18:40-4 @justushaukap] Das ist völlig richtig, es sind zwei Dinge.
+[02:18:43-5 @justushaukap] Zum einen muss man gucken, dass diejenigen, die die Marktmacht haben heute, dass die die nicht missbrauchen und dass man deren Verhalten sozusagen kontrolliert in irgendeiner Weise.
+[02:18:53-8 @justushaukap] Das heißt natürlich nicht, dass automatisch was neues entsteht.
+[02:18:54-6 @timpritlove] Entertainment sozusagen.
+[02:18:56-6 @justushaukap] Ja, aber natürlich sozusagen durch Dinge, wenn man sagt, wir halten die Märkte offen, dann ist immerhin die Perspektive, dass was entstehen könnte so in anderen Bereichen.
+[02:19:05-4 @justushaukap] Und vielleicht ich sage mal so, wir haben in dem B to C Bereich, also wo es letztendlich um die Endkunden geht, hat Europa offensichtlich viel zu spät erkannt, was die Zeichen der Zeit sind.
+[02:19:15-2 @timpritlove] Business to Consumer heißt das?
+[02:19:16-4 @justushaukap] Genau, Business to Consumer, also da wo wir gerade darüber geredet hatten, Amazon, Google, Facebook etc..
+[02:19:20-2 @timpritlove] Ich kaufe was bei Firma.
+[02:19:22-4 @justushaukap] Ja. Dann gibt es natürlich noch den B to B Bereich, wo man sagt, das ist auch vielleicht immer eher die Kompetenz der deutschen Wirtschaft insbesondere gewesen.
+[02:19:31-2 @justushaukap] Die großen deutschen Unternehmen oder das Herz der deutschen Wirtschaft, mit Ausnahme vielleicht der Automobilwirtschaft, wo es auch um Verkauf an Endkunden geht,
+[02:19:40-2 @justushaukap] sind aber doch viele sozusagen, ob es die chemische Industrie ist, der ganze Maschinenbau und so weiter, die eigentlich nie an Endkunden verkauft haben,
+[02:19:47-2 @justushaukap] sondern immer auf dieser B to B Ebene unterwegs waren.
+[02:19:52-5 @justushaukap] Und hier stellt sich natürlich genau die Frage, jetzt die Weichen richtig zu stellen, damit da nicht auch der Anschluss verloren geht in diesem Segment.
+[02:20:00-1 @justushaukap] Aber da bin ich noch optimistisch, dass diese Situation noch nicht so verfahren ist, wie sie in dem sogenannten B to C Bereich tatsächlich ist.
+[02:20:09-6 @justushaukap] Deswegen so Begriffe wie Industrie 4.0 sind ja witzigerweise Begriffe, die in Deutschland geprägt wurden.
+[02:20:13-9 @timpritlove] Ja, auf so eine Idee konnte nur Deutschland kommen.
+[02:20:15-7 @justushaukap] Genau, aber immerhin, er wird international irgendwie auch verwendet, die Leute wissen, was damit gemeint ist.
+[02:20:22-7 @timpritlove] Wirklich? Ich habe noch nicht mal den Eindruck, dass man in Deutschland weiß, was damit eigentlich gemeint ist.
+[02:20:26-2 @justushaukap] Oder sagen wir, das Schlagwort hat zumindest eine gewisse Griffigkeit anscheinend für manche Leute entwickelt, sagen wir es so.
+[02:20:30-8 @timpritlove] Ist halt das Buzzword du jour
+[02:20:33-5 @justushaukap] Also das ist tatsächlich oder auch im Bereich Logistik etc., wo immer viele deutsche Unternehmen unterwegs waren, da ist es jetzt wichtig, diese Fehler nicht zu wiederholen.
+[02:20:46-0 @justushaukap] Es ist nicht nur eine Aufgabe natürlich der deutschen Bundesregierung, sondern auch der Europäischen Kommission.
+[02:20:49-6 @justushaukap] Deswegen die Kommission hat ja so was wie das Digital Single Martekt Program, um die Nachteile, die wir inhärent haben, weil wir eben nicht ein großes Marktgebiet sind,
+[02:20:59-2 @justushaukap] China ist eben ein riesiger Markt und die USA sind eben ein riesiger Markt, dass man versucht, wenigstens die Barrieren innerhalb von Europa möglichst gering zu halten,
+[02:21:07-7 @justushaukap] sozusagen dass wir dann auch eher ein europäischer Markt sind.
+[02:21:13-8 @justushaukap] Da sind wir tatsächlich immer noch weit von entfernt, man sieht, viel findet immer noch national statt.
+[02:21:18-8 @justushaukap] Und dann gibt es in Deutschland die eine Plattform und in Frankreich die andere und so weiter.
+[02:21:23-7 @justushaukap] Also das ist anders diese Situation in den USA und das hat natürlich zum Teil mit Sprachbarrieren zu tun, da kommt man nicht drumherum, das ist eben so.
+[02:21:34-9 @justushaukap] Aber auch mit künstlichen Barrieren.
+[02:21:34-7 @timpritlove] Kann ja auch ein Vorteil sein.
+[02:21:36-2 @justushaukap] Kann auch ein Vorteil sein.
+[02:21:38-4 @timpritlove] Ein Modell kann dann scheitern und es gibt dann immerhin noch ein paar andere, die dann sehr wohl hier erfolgreich sein können.
+[02:21:42-6 @justushaukap] Aber wir haben deswegen noch nicht diese großen globalen Player, weil wir dann doch eher noch teilweise die kleineren national bedeutenden Player, was weiß ich,
+[02:21:52-5 @justushaukap] haben in einem Markt, die aber noch nicht dieses Skalieren auf die globale Ebene geschafft haben.
+[02:22:02-2 @timpritlove] Ich fasse mal so zusammen, das Ende ist nicht nah, also das erscheint mir ja unter dem Strich dann in der Gesamtabwägung durchaus ein positiver Gesamtausblick zu sein,
+[02:22:12-9 @timpritlove] wenngleich es durchaus Bereiche gibt, wo man mal nachfassen sollte.
+[02:22:16-5 @timpritlove] Was sind denn so die Baustellen, die sich so abzeichnen jenseits dieses Digitalen?
+[02:22:24-5 @timpritlove] Drogen hatten wir schon, gibt es noch so andere ganz grundlegende Baustellen?
+[02:22:27-7 @justushaukap] Es gibt natürlich was, wo man ganz grundlegend drangeht, also wir haben die Digitalisierung als den großen Megatrend.
+[02:22:35-6 @justushaukap] Dann die Globalisierung haben wir ein bisschen drüber geredet, also da die neue Konkurrenz durch China, das ist sicherlich noch eine Baustelle,
+[02:22:43-9 @justushaukap] wie geht man um mit teilweise der unfairen Konkurrenz sozusagen durch chinesische Staatsunternehmen, wo auch eher Europa gefordert ist als Deutschland speziell.
+[02:22:56-2 @justushaukap] Wenn man jetzt nochmal guckt, was sind in Deutschland Probleme, dann ist natürlich etwas, wo wir uns Gedanken drüber machen müssen, der demographische Wandel.
+[02:23:06-7 @justushaukap] Also heute sind wir noch in der Situation, wo die ganzen geburtenstarken Jahrgänge alle noch arbeiten und in die Rentenkasse einzahlen, aber nicht mehr allzu lange.
+[02:23:16-3 @justushaukap] In zehn Jahren kippt das alles langsam um sozusagen und es werden immer mehr Rentner oder Anspruchsinhaber sein und immer weniger.
+[02:23:27-8 @justushaukap] Leute, die vor 15 Jahren nicht geboren sind, die sind halt nicht da, die gehen dann nicht in den Arbeitsmarkt rein.
+[02:23:35-5 @justushaukap] Das wird uns sicherlich in Zukunft noch sehr beschäftigen, wie schaffen wir die Altersabsicherung.
+[02:23:42-5 @justushaukap] Also weil das jetzt in den nächsten 20 Jahren relativ schnell kippt von, momentan ist es so, dass ein Rentner oder ein Inhaber von Ansprüchen von drei Arbeitnehmern im Prinzip finanziert wird,
+[02:23:55-6 @justushaukap] die heute arbeiten, weil wir ja dieses Umlagesystem haben und das wird sich in 20 Jahren auf ein Verhältnis von 3:2 umkippen, das heißt also, drei Arbeitnehmer müssten dann zwei Rentner bezahlen.
+[02:24:05-7 @justushaukap] Und da muss man auch kein Teufelskerl in Prognosewerkzeugen sein, weil man weiß einfach, wer heute geboren ist und wer nicht geboren ist und wie alt die Leute in 15 Jahren sein werden im Durchschnitt.
+[02:24:19-3 @justushaukap] Also das wird noch eine große große Herausforderung für uns werden, die Politik scheut da immer noch und schiebt das immer noch vor sich her im Prinzip dieses Problem.
+[02:24:28-2 @justushaukap] Und irgendwie wird man das lösen müssen.
+[02:24:31-8 @timpritlove] Und die Wirtschaftsforschung selbst ist die auch einem Wandel unterzogen oder reist die jetzt einfach nur mit den politischen Themen mit oder zeichnen sich hier auch neue Betrachtungsmethoden,
+[02:24:50-5 @timpritlove] neue Herangehensweisen ab?
+[02:24:52-7 @justushaukap] Wie in jeder Wissenschaft, Wissenschaft unterliegt einem Wandel, das ist in der Ökonomie nicht anders als in vielen anderen Wissenschaften.
+[02:24:59-1 @justushaukap] Zum einen ist das natürlich einfacher technischer Fortschritt, sage ich mal so.
+[02:25:03-6 @justushaukap] Man kann heute Daten ganz anders analysieren, also BigData gibt es auch in der Wissenschaft.
+[02:25:09-2 @justushaukap] Man kann heute mit viel mehr Datenmengen viel mehr analysieren als man das noch vor zehn Jahren konnte.
+[02:25:13-4 @justushaukap] Also die Rechenkapazität, die Modelle dessen was man machen kann, ist unglaublich viel größer geworden, deswegen kann man auch viel mehr verstehen, was tatsächlich passiert auf Märkten.
+[02:25:25-7 @justushaukap] Zum anderen gibt es dadurch auch immer wieder neue Methoden, die sich herausbilden, die dann an Prominenz gewinnen, die teils einhergehen mit dem technischen Fortschritt.
+[02:25:37-5 @justushaukap] Also denkt man an so was wie…
+[02:25:39-5 @timpritlove] Machine Learning.
+[02:25:41-4 @justushaukap] Machine Learning, es gibt schon eine Zeit lang so Modelle Agent Based Simulation heißt das, das hängt natürlich irgendwie auch an Rechenkapazität.
+[02:25:51-6 @justushaukap] Also früher war das jetzt nicht, dass man gesagt hat, das ist langweilig, aber es ging halt einfach nicht oder auf kleinem Niveau.
+[02:25:57-1 @justushaukap] Mittlerweile sieht man, man kann da viel mehr mit Simulationsmethoden machen als man das in der Vergangenheit machen konnte.
+[02:26:04-0 @justushaukap] Das hilft natürlich, bestimmte Dinge besser zu verstehen.
+[02:26:07-5 @justushaukap] Die letzten, würde ich mal sagen, 30 Jahre hat sich dieses ganze Feld der experimentellen Wirtschaftsforschung und Verhaltensökonomie einen unheimlichen Boom erlebt.
+[02:26:13-4 @justushaukap] Also zum einen, dass man sagt, es gibt jetzt eben ein bisschen mehr wie in der Psychologie auch eine Art Laborexperimente viel stärker in der Ökonomie.
+[02:26:22-8 @justushaukap] Dass man untersucht, wie reagieren Menschen, wenn man irgendwelche Dinge ändert?
+[02:26:28-6 @justushaukap] Sowohl im Labor, aber immer mehr auch solche Feldexperimente, aus denen man viel lernen kann, in verschiedenen Bereichen.
+[02:26:35-9 @justushaukap] Also ganz unterschiedlich, dass man sagt, in der Entwicklungspolitik zum Beispiel, dass man hier in einem Dorf Solaranlagen aufgebaut werden sozusagen,
+[02:26:45-8 @justushaukap] die Leute haben eine Elektrifizierung und müssen nicht mehr Holz in die Öfen schmeißen.
+[02:26:51-0 @justushaukap] Im anderen Ort ist das nicht und dann kann man daraus lernen, was passiert denn da eigentlich?
+[02:26:55-2 @justushaukap] Diese Art der Forschung hat unheimlich zugenommen, diese quasi experimentelle Art der Forschung.
+[02:27:02-3 @justushaukap] Und die Verhaltensökonomie, die Verhaltensökonomie ist ja eher sozusagen die Verquickung von Psychologie und Ökonomie.
+[02:27:06-3 @justushaukap] Also das ist mittlerweile würde ich sagen absoluter Mainstream in der Ökonomie, dass man sagt, traditionell war die Sichtweise, die Leute sind rational und tun das, was am besten für sie ist.
+[02:27:15-8 @justushaukap] Und mittlerweile weiß man, die Leute versuchen das in der Regel schon, das zu tun, was am besten für sie ist, aber das gelingt ihnen halt nicht immer.
+[02:27:23-7 @justushaukap] Die machen Fehler und manche Fehler machen die auch immer wieder.
+[02:27:27-6 @justushaukap] Und dann stellt sich schon die Frage, welche Auswirkung hat das, entsteht dadurch ein neuer Handlungsbedarf?
+[02:27:32-2 @justushaukap] Muss man die Rahmenbedingungen anders setzen, damit die Leute sozusagen nicht aus Versehen das tun, was sie gar nicht tun wollen?
+[02:27:40-4 @justushaukap] Das ist ein großer Zweig, der in den letzten 10-20 Jahren sozusagen geradezu geboomt ist, würde ich sagen.
+[02:27:46-7 @justushaukap] Also von daher wie jede Wissenschaft wandelt sich auch die Ökonomie.
+[02:27:51-1 @timpritlove] Und es bleibt spannend.
+[02:27:53-6 @justushaukap] Für mich schon und ich hoffe, für ein paar andere Leute auch.
+[02:27:59-0 @timpritlove] Spannend war es auf jeden Fall jetzt hier für alle Zuhörerinnen und Zuhörer von Forschergeist.
+[02:28:04-3 @timpritlove] Vielen Dank Justus Haukap.
+[02:28:07-2 @justushaukap] Ja, es war eine große Freude.
+[02:28:07-6 @timpritlove] Für die Ausführungen hier und natürlich wie immer, vielen Dank fürs Zuhören bei Forschergeist.
+[02:28:12-2 @timpritlove] Wir machen bald wieder weiter.
+[02:28:14-2 @timpritlove] Ich sage, tschüss und bis bald.
+[02:28:17-2 @Outro]

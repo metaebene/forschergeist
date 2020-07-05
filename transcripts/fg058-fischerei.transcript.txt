@@ -1,0 +1,1514 @@
+[00:00:00-0 Intro]
+[00:00:43-1 @timpritlove] Hallo und herzlich willkommen zu Forschergeist, dem Podcast des Stifterverbands für die deutsche Wissenschaft.
+[00:00:48-4 @timpritlove] Mein Name ist Tim Pritlove und ich begrüße alle hier zur Ausgabe 58 unserer Gesprächsreihe
+[00:00:55-1 @timpritlove] über Wissenschaft und alles, was die Wissenschaft tangiert.
+[00:00:59-1 @timpritlove] Und heute hat es mich mal in den hohen Norden verschlagen.
+[00:01:04-7 @timpritlove] Konkret nach Rostock und noch ein wenig konkreter hier in den Hafenbereich,
+[00:01:10-2 @timpritlove] und zwar zum Thün-Institut für Ostseefischerei.
+[00:01:16-3 @timpritlove] Und begrüße meinen Gesprächspartner für heute, nämlich Christopher Zimmermann, schönen guten Tag.
+[00:01:20-6 @christopherzimmermann] Guten Tag.
+[00:01:22-1 @timpritlove] Herr Zimmermann, Sie sind der Leiter des Thün-Instituts.
+[00:01:27-9 @timpritlove] Wie lange gibt es das schon?
+[00:01:30-2 @christopherzimmermann] Das Thün-Institut als Gesamtorganisation gibt es seit 2008.
+[00:01:36-1 @christopherzimmermann] Und es wurde gegründet als Zusammenschluss aus Teilen der alten Forschungsanstalt für Landwirtschaft in Braunschweig.
+[00:01:43-1 @christopherzimmermann] Da sitzt auch unsere Zentrale nach wie vor.
+[00:01:45-4 @christopherzimmermann] Der Bundesforschungsanstalt für Forst und Holz in Hamburg-Bergedorf
+[00:01:51-1 @christopherzimmermann] und der Bundesforschungsanstalt für Fischerei mit einer Reihe von Fachinstituten.
+[00:01:54-9 @christopherzimmermann] Und wir waren vorher ein Fachinstitut der Bundesforschungsanstalt für Fischerei.
+[00:01:59-5 @christopherzimmermann] Und sind jetzt eben ein Fachinstitut des großen Thün-Instituts, das aus 14 Fachinstituten besteht.
+[00:02:04-7 @timpritlove] Wer ist jetzt der eigentliche Träger?
+[00:02:07-0 @christopherzimmermann] Finanziert wird das Ganze vom Bundeslandwirtschaftsministerium.
+[00:02:10-6 @christopherzimmermann] Wir sind eine Ressortforschungseinrichtung, also eine Forschungseinrichtung,
+[00:02:14-6 @christopherzimmermann] die dem BML, also dem Ernährungs- und Landwirtschaftsministerium unterstellt ist
+[00:02:19-1 @christopherzimmermann] und unserer Grundfinanzierung kommt aus der Bundesregierung.
+[00:02:21-6 @timpritlove] Die Grundfinanzierung, aber das ist nicht die einzige Quelle?
+[00:02:24-7 @christopherzimmermann] Das ist nicht die einzige Quelle, wir haben inzwischen, also in der Fischerei wenigstens,
+[00:02:28-5 @christopherzimmermann] ungefähr 40-50% drittmittelfinanzierte oder Drittmittelfinanzierung.
+[00:02:33-6 @christopherzimmermann] Also vor allen Dingen Stellen kommen mit so einem ganz großen Anteil aus dem europäischen Haushalt.
+[00:02:39-9 @timpritlove] Ach so, also jetzt nicht von … sind jetzt keine Forschungsaufträge von Firmen oder so,
+[00:02:44-2 @timpritlove] wie man das so aus der normalen Universitätsbranche kennt?
+[00:02:47-6 @christopherzimmermann] Ganz wenig Firmen, wir haben tatsächlich eine Mitarbeiterin,
+[00:02:51-2 @christopherzimmermann] die aus Firmengeldern, also vor allen Dingen aus Verbandsgeldern finanziert wird,
+[00:02:56-1 @christopherzimmermann] aber im Wesentlichen ist es genau wie bei Universitäten.
+[00:02:59-2 @christopherzimmermann] Wir haben Projekte des BMBF, des Bundesforschungsministeriums.
+[00:03:05-0 @christopherzimmermann] Wir haben sehr wenig DFG-Projekte, weil die DFG die Ressortforschung nicht besonders gerne finanziert.
+[00:03:09-4 @christopherzimmermann] Aber unser größter Batzen sind eben tatsächlich EU-Forschungsmittel,
+[00:03:13-2 @christopherzimmermann] und das können einerseits reine Forschungsmittel sein,
+[00:03:16-3 @christopherzimmermann] also im Horizon2020-Programm ausgegebene Mittel.
+[00:03:20-9 @christopherzimmermann] Das sind dann in der Regel so 3 Millionen Euro internationale Verbundprojekte.
+[00:03:25-5 @christopherzimmermann] Wir haben aber auch Zugriff zu den sogenannten EMFF-Mitteln,
+[00:03:28-9 @christopherzimmermann] zu den Mitteln des europäischen maritimen und Fischereifond.
+[00:03:32-8 @christopherzimmermann] Und über diesen Fond zahlt die europäische Union vor allen Dingen die Datenerhebung aus der Fischerei.
+[00:03:38-8 @christopherzimmermann] Das haben die irgendwann gegründet, 2002 war das glaube ich,
+[00:03:42-1 @christopherzimmermann] um sicherzustellen, dass die Nationen nicht einfach nur auf Good Will Daten sammeln aus der Fischerei
+[00:03:48-5 @christopherzimmermann] und über die Fischbestände im Meer, sondern dass das wirklich verstetigt wird
+[00:03:52-4 @christopherzimmermann] und verlässlich erhoben wird, auch nach den gleichen Standards.
+[00:03:55-9 @christopherzimmermann] Und ich habe hier am Institut inzwischen glaube ich 15 Mitarbeiter,
+[00:04:00-9 @christopherzimmermann] die dauerhaft aus EMFF, also aus den europäischen Mitteln bezahlt werden.
+[00:04:06-5 @timpritlove] Bevor wir vielleicht zu den Themen des Instituts und auch Ihren Themen kommen,
+[00:04:11-3 @timpritlove] würde mich natürlich mal interessieren, wie so Ihr eigener Werdegang eigentlich gewesen ist.
+[00:04:18-4 @timpritlove] Wie kommt man denn, was war das denn für ein Verlauf?
+[00:04:22-5 @christopherzimmermann] Ja das war eigentlich ein ungeplanter Verlauf.
+[00:04:25-6 @christopherzimmermann] Ich habe in Kiel schon Abitur gemacht und habe mich für Biologie und für Grafik interessiert.
+[00:04:31-2 @christopherzimmermann] Bin an der Grafikhochschule nicht genommen worden oder wenigstens nicht sofort.
+[00:04:35-0 @christopherzimmermann] Habe dann angefangen, nach dem Zivildienst Biologie zu studieren
+[00:04:39-3 @christopherzimmermann] und gleich das erste Semester war sehr faszinierend, hatte viel mit zeichnen zu tun
+[00:04:44-2 @christopherzimmermann] und Schnippelkurs haben wir das genannt, also mit Tieren einfach und die sezieren
+[00:04:47-4 @christopherzimmermann] und zu lernen, wie das funktioniert und so bin ich am Ende …
+[00:04:50-4 @timpritlove] Aber wie kommt man denn von Grafik zu Biologie?
+[00:04:53-2 @christopherzimmermann] Ja das waren so meine beiden Leidenschaften.
+[00:04:54-4 @christopherzimmermann] Ich habe schon Kunstleistungskurs und Biologieleistungskurs gemacht
+[00:04:56-8 @christopherzimmermann] und konnte mich immer nicht recht entscheiden.
+[00:04:58-5 @christopherzimmermann] Und als ich mich dann entschieden hatte, bin ich bei dieser Grafikerschule von 300 Bewerbungen unter die letzten 20 gekommen,
+[00:05:04-3 @christopherzimmermann] aber es wurden nur 12 genommen.
+[00:05:06-2 @christopherzimmermann] Und dann haben die mich beruhigt und gesagt, versuche es mal nächstes Jahr nochmal,
+[00:05:09-5 @christopherzimmermann] da gibt es dann Wartezeiten.
+[00:05:10-8 @christopherzimmermann] Und in dieser Wartezeit habe ich angefangen Biologie zu studieren.
+[00:05:13-5 @christopherzimmermann] Und das hat so viel Spaß gemacht, dass ich gesagt habe, das mache ich jetzt erst mal weiter.
+[00:05:16-8 @christopherzimmermann] Bin dann auch dabei geblieben und dann konnte man wenigstens damals in Kiel nicht im Ernst Biologie studieren,
+[00:05:24-2 @christopherzimmermann] ohne in die Meeresforschung reinzugucken.
+[00:05:26-3 @christopherzimmermann] Und auch das war wieder ausgesprochen spannend.
+[00:05:28-5 @christopherzimmermann] Und am Ende bin ich über Umwege, weil ich einfach immer nur das gemacht habe,
+[00:05:33-9 @christopherzimmermann] wofür ich gebrannt habe, was mir wirklich Spaß gemacht hat, in der Polarforschung gelandet.
+[00:05:37-8 @christopherzimmermann] Bin drei Monate mit Polarstern in die Antarktis gefahren und musste dafür meine Diplomarbeit in der Antarktis machen.
+[00:05:44-0 @christopherzimmermann] Und der einzige freie Platz war sozusagen in der Fischerei.
+[00:05:46-1 @christopherzimmermann] Bis dahin hat mich Fischereibiologie nie interessiert, fand ich immer total langweilig.
+[00:05:50-1 @christopherzimmermann] Aber für eine dreimonatige Reise in die Antarktis war ich auch bereit,
+[00:05:53-5 @christopherzimmermann] meine Diplomarbeit in der Fischerei zu machen.
+[00:05:55-9 @timpritlove] Das ist ja eine einmalige Gelegenheit oder?
+[00:05:58-2 @christopherzimmermann] Eigentlich schon, genau, das muss man einfach wahrnehmen als frischer Absolvent sozusagen.
+[00:06:02-6 @timpritlove] Ja, also ist das jetzt so die Regel, dass da so Studenten einfach mitgenommen werden?
+[00:06:07-3 @timpritlove] Oder was für eine Konstellation hat sich da ausgespielt?
+[00:06:11-0 @christopherzimmermann] Ja, ich glaube, ich habe an der richtigen Stelle gesagt, das interessiert mich sehr.
+[00:06:13-7 @christopherzimmermann] Und dann fiel jemand aus, den konnte ich ersetzen und der war halt Mitglied einer zweiköpfigen Fischereigruppe.
+[00:06:20-9 @christopherzimmermann] Sind 100 Leute an Bord, davon 60-65 Wissenschaftler, auf dieser sehr sehr langen Reise.
+[00:06:26-4 @christopherzimmermann] Einer fiel aus, musste ersetzt werden und das war ein Fischkopp.
+[00:06:28-7 @christopherzimmermann] Und deswegen war klar, wenn du was mit Fisch machst, kannst du da mit.
+[00:06:31-5 @christopherzimmermann] Das ist eher ungewöhnlich, bezahlt wurde gar nichts, war aber auch egal.
+[00:06:36-0 @christopherzimmermann] Das Abenteuer allein war gut genug.
+[00:06:38-8 @christopherzimmermann] Und so bin ich am Ende da hängengeblieben.
+[00:06:40-4 @christopherzimmermann] Nichts hat geklappt, also das, was wir uns vorgenommen hatten für meine Diplomarbeit,
+[00:06:44-4 @christopherzimmermann] hat nicht funktioniert, weil wir im Eis eingeschlossen wurden und dann da über Wochen nicht raus kamen
+[00:06:49-2 @christopherzimmermann] und da nicht fischen konnten, wo wir fischen wollten, aber am Ende ist alles gut geworden,
+[00:06:52-6 @christopherzimmermann] wie eigentlich immer.
+[00:06:54-3 @timpritlove] Wow, wie lange ist man denn da unterwegs?
+[00:06:56-6 @timpritlove] Das interessiert mich ja jetzt doch.
+[00:06:58-8 @christopherzimmermann] Das war eine Reise, also das ist unterschiedlich, aber in der Antarktis in der Regel
+[00:07:02-9 @christopherzimmermann] mit dem Forschungsschiff, wenn man von Südamerika oder von Südafrika aus startet,
+[00:07:06-4 @christopherzimmermann] ungefähr 8 Wochen und das war eine dreimonatige Reise von Kapstadt nach Kapstadt.
+[00:07:10-5 @timpritlove] Also 8 Wochen insgesamt jetzt unterwegs, aber ich meine, wie lange fährt man,
+[00:07:14-4 @timpritlove] bis man überhaupt das Gefühl hat, man ist jetzt auch da angekommen, wo man hin will?
+[00:07:18-7 @christopherzimmermann] So ungefähr 10 Tage, also von Kapstadt aus sind es 10 Tage.
+[00:07:21-7 @christopherzimmermann] Von Ushuaia von der Südspitze Südamerikas aus sind es in der Regel nur 4 oder 5 Tage.
+[00:07:28-9 @timpritlove] Und wie ist das dann so da? Also ich kann mir das ja …
+[00:07:31-0 @christopherzimmermann] Unglaublich spannend.
+[00:07:31-9 @timpritlove] Kalt.
+[00:07:33-1 @christopherzimmermann] Ja kalt auch, das ist nun Sommer, also es ist nicht kälter, als es bei uns im Winter ist.
+[00:07:38-7 @christopherzimmermann] Aber es ist unfassbar einsam, muss man ehrlich sagen.
+[00:07:41-8 @christopherzimmermann] Die nächste Zivilisation ist halt drei Wochen weg und es gibt alles an Tieren,
+[00:07:46-0 @christopherzimmermann] was man so aus dem Fernsehen kennt und das Licht ist unbeschreiblich,
+[00:07:50-4 @christopherzimmermann] das ist eigentlich das, was mich am allermeisten fasziniert hat.
+[00:07:54-3 @timpritlove] Das Licht?
+[00:07:54-1 @christopherzimmermann] Das Licht genau.
+[00:07:55-7 @timpritlove] Was ist denn mit dem Licht?
+[00:07:56-7 @christopherzimmermann] Ja das ist schwer zu beschreiben, es ist anders als hier, es ist rein.
+[00:08:01-5 @christopherzimmermann] Es ist unglaublich, also die Antarktis ist einfach was besonderes.
+[00:08:04-3 @christopherzimmermann] Und dann das Licht ist dauernd an natürlich, weil man sich ja in den hohen Breiten befindet.
+[00:08:10-6 @christopherzimmermann] Und naja dann bewegt man sich auf so einem 100 Meter langen Eisberg.
+[00:08:15-4 @timpritlove] Ist da eigentlich Wolkenbildung?
+[00:08:17-3 @christopherzimmermann] Klar, gibt es alles.
+[00:08:18-0 @timpritlove] Also es ist eigentlich nicht anders als hier oder?
+[00:08:21-0 @christopherzimmermann] Eigentlich ist es nicht anders als hier.
+[00:08:22-2 @christopherzimmermann] Es gibt in der Regel stabile Hochdruckwetterlagen dann im Sommer.
+[00:08:25-2 @christopherzimmermann] Also das Wetter ist eigentlich gut, in meiner Erinnerung wenigstens hat überwiegend die Sonne geschienen,
+[00:08:29-9 @christopherzimmermann] aber es gibt natürlich auch ganz andere Bedingungen, wo man dann einen Schneesturm hat und die Hand vor Augen nicht sieht.
+[00:08:35-9 @timpritlove] Was ist denn mit dem Licht? Das interessiert mich ja jetzt doch.
+[00:08:38-8 @timpritlove] Wie kann man denn das fassen?
+[00:08:40-3 @christopherzimmermann] Es ist anders, es ist irgendwie klarer, es ist sauberer, es ist so ein bisschen überirdisch.
+[00:08:47-1 @timpritlove] Hat das jetzt schon was mit Reflexion von Eismassen zu tun?
+[00:08:50-2 @christopherzimmermann] Wahrscheinlich. Also wir arbeiten dann in der unmittelbaren Nähe dieser Schelfeise,
+[00:08:55-7 @christopherzimmermann] also dieser schwimmenden Eismassen, die 300 Meter dick sind,
+[00:08:58-7 @christopherzimmermann] das sind im Grunde aufschwimmende Gletscher.
+[00:09:02-8 @christopherzimmermann] Und das Meereis kommt dazu, in der Hochantarktis dann auch im Sommer,
+[00:09:06-0 @christopherzimmermann] deswegen ist dieser Forschungseisbrecher ein Eisbrecher, um da überhaupt durchzukommen.
+[00:09:10-2 @christopherzimmermann] Schwer zu beschreiben.
+[00:09:11-5 @christopherzimmermann] Ich war zwei Jahre später auf der amerikanischen McMurdo-Station,
+[00:09:14-8 @christopherzimmermann] die war im Grunde eine amerikanische Kleinstadt mit all dem üblichen Dreck und wie man sich das so vorstellt.
+[00:09:21-0 @christopherzimmermann] Und trotzdem in dem Moment, wo man raus war aus der Station, war das Licht wieder so, wie ich das vom Polarstern kannte.
+[00:09:26-0 @christopherzimmermann] Und sehr berührend.
+[00:09:28-9 @timpritlove] Okay.
+[00:09:31-5 @timpritlove] Das hat dann sozusagen den Ausschlag gegeben, sich den Fischen zuzuwenden?
+[00:09:34-8 @christopherzimmermann] Genau. Und wie das halt so ist, es ist reine Elfenbeinturmforschung.
+[00:09:38-4 @christopherzimmermann] Es gab auf der ganzen Welt vielleicht 70 Leute, die verstanden haben, was ich machte
+[00:09:43-1 @christopherzimmermann] und 15 Leute, die das wirklich interessierte, die traf man dann auch dauernd.
+[00:09:47-7 @christopherzimmermann] Aber so nach der ersten Postdoc-Periode, also ich habe da auch meine Doktorarbeit gemacht in dem Bereich,
+[00:09:54-7 @christopherzimmermann] dann vergleichen Nordpolar, Südpolar, aber nach der ersten Postdoc-Periode war klar,
+[00:09:58-7 @christopherzimmermann] das geht nicht ewig so weiter, das verschlankt sich einfach zu sehr nach oben.
+[00:10:02-5 @christopherzimmermann] Und dann habe ich das Angebot bekommen, mit Fisch weiterzumachen, aber eben angewandt.
+[00:10:06-3 @christopherzimmermann] Mein Doktorvater war damals Leiter der Bundesforschungsanstalt für Fischerei
+[00:10:11-4 @christopherzimmermann] und er hat gesagt, wenn ich mir vorstellen könnte, das Metier zu wechseln,
+[00:10:14-8 @christopherzimmermann] dann hätte er da was für mich.
+[00:10:16-4 @christopherzimmermann] Und gleich nach einem halben Jahr war das im Grunde so wie beim Biologiestudium.
+[00:10:21-0 @christopherzimmermann] Das erste halbe Jahr war das entscheidende, es war sehr sehr spannend.
+[00:10:23-4 @christopherzimmermann] Ich merkte, dass in diesem Fall die Öffentlichkeit oder die Fischerei darauf brennt,
+[00:10:27-7 @christopherzimmermann] diese Ergebnisse aus unseren Bestandsberechnungen in diesem Fall zu erfahren.
+[00:10:32-6 @christopherzimmermann] Und das war was völlig anderes als vorher, wo es wie gesagt 15 Leute gab,
+[00:10:36-0 @christopherzimmermann] die sich wirklich interessierten dafür, was ich machte, und hier gab es hunderte von Leuten,
+[00:10:39-9 @christopherzimmermann] die sich interessieren für unsere Ergebnisse möglichst aktuell.
+[00:10:43-4 @christopherzimmermann] Und auch das hat wieder so viel Spaß gemacht, dass ich einfach dabei geblieben bin.
+[00:10:47-2 @christopherzimmermann] Und dann in Hamburg in dem Institut für Seefischerei, was jetzt auch zum Thün-Institut gehört,
+[00:10:51-6 @christopherzimmermann] gearbeitet habe, da irgendwann Leiter der pelagischen Arbeitsgruppe wurde,
+[00:10:55-5 @christopherzimmermann] also der Arbeitsgruppe, die sich mit kleinen Schwarmfischen, Makrelen und Heringen und Sprotten und so weiter beschäftigte,
+[00:11:02-0 @christopherzimmermann] war da lange zuständig für die Akustik-Serways, also für die Forschungsreisen,
+[00:11:06-6 @christopherzimmermann] mit denen wir diesen Fischen nachstellen für die Bestandsberechnung,
+[00:11:10-3 @christopherzimmermann] dann im Rahmen des internationalen Rates für Meeresforschung.
+[00:11:13-0 @christopherzimmermann] Und dann zunehmend auch für die Politikempfehlung, die da rauskommt aus unseren Ergebnissen.
+[00:11:18-3 @christopherzimmermann] Und 2005 bin ich nach Rostock gekommen, bin hier stellvertretender Leiter des damals noch Instituts für Ostseefischerei der Bundesforschungsanstalt für Fischerei geworden.
+[00:11:28-7 @christopherzimmermann] Und seit 2013 bin ich Leiter der Einrichtung.
+[00:11:33-3 @timpritlove] Es gab dann auch noch ein Engagement oder gibt es noch an der Universität Rostock,
+[00:11:42-2 @timpritlove] ist das damit direkt verbunden?
+[00:11:43-6 @christopherzimmermann] Ja, das ist insofern damit verbunden, als wir zunehmend feststellen,
+[00:11:48-0 @christopherzimmermann] dass wir eigentlich mehr offene Stellen haben als wir qualifiziertes Personal finden.
+[00:11:53-7 @christopherzimmermann] Fischereibiologie ist im Grunde eine Grenzdisziplin zwischen der reinen Biologie,
+[00:11:59-2 @christopherzimmermann] es gibt viele gute Biologen, gerade gut Feldbiologen, die das ganz toll finden,
+[00:12:03-2 @christopherzimmermann] rauszufahren und Fische zu suchen oder Fische zu analysieren und so weiter.
+[00:12:06-8 @christopherzimmermann] Aber was wir brauchen ist ein hohes Maß an Mathematik und Statistik,
+[00:12:11-2 @christopherzimmermann] um am Ende die Fischbestände berechnen zu können.
+[00:12:14-5 @christopherzimmermann] Und da wird es dann schnell dünn.
+[00:12:17-2 @christopherzimmermann] Die Leute, die sich mit Mathematik und Statistik gut auskennen, die interessieren sich wenig für Lebewesen,
+[00:12:21-6 @christopherzimmermann] und die Feldbiologen sozusagen haben meistens eine Schwäche auf der statistischen Seite.
+[00:12:28-2 @christopherzimmermann] Und wir haben irgendwann festgestellt, dass wir die Ausbildung einfach selber betreiben müssen,
+[00:12:32-1 @christopherzimmermann] um gute Leute eben für Doktorandenstellen zum Beispiel zu finden.
+[00:12:35-6 @christopherzimmermann] Und das war so der Punkt, wo wir angefangen haben, uns in die Lehre intensiver mit einzubringen.
+[00:12:40-0 @christopherzimmermann] Und wir machen seit letzten Jahr ein eigenes Modul sogar, ein Modul angewandte Fischereibiologie im Studiengang integrative Zoologie an der Uni Rostock.
+[00:12:48-8 @christopherzimmermann] Wir sind schon seit vielen Jahren über den Aquakultur-Studiengang mit der Uni verbunden,
+[00:12:53-6 @christopherzimmermann] aber das ist ein kleineres Engagement sozusagen, wo wir einzelne Vorlesungen oder einzelne Blöcke übernehmen,
+[00:12:59-2 @christopherzimmermann] aber kein ganzes Modul haben.
+[00:13:02-2 @timpritlove] Und das funktioniert dann auch?
+[00:13:03-4 @christopherzimmermann] Das funktioniert gut.
+[00:13:05-4 @christopherzimmermann] Wir feilen an den Formaten noch.
+[00:13:07-0 @christopherzimmermann] Wir wollen gerne, … wir machen das ja sozusagen nebenher.
+[00:13:10-6 @christopherzimmermann] Unser Auftraggeber, das Bundeslandwirtschaftsministerium, fördert das in keiner Weise.
+[00:13:15-0 @christopherzimmermann] Wir machen das also im Grunde im Nebenamt bis zu einer gewissen Grenze.
+[00:13:18-9 @christopherzimmermann] Alles, was darüber hinausgeht, machen wir in unserer Freizeit.
+[00:13:21-4 @christopherzimmermann] Und ich möchte gerne möglichst viele Mitarbeiter des Hauses auch einbinden,
+[00:13:26-0 @christopherzimmermann] weil die dann Studenten kennenlernen, die dann in ihren Abteilungen jeweils Abschlussarbeiten oder sogar Promotionen anfertigen können.
+[00:13:33-2 @christopherzimmermann] Und wir sind alle gerade in der Hauptsaison, die jetzt ist, sehr sehr viel unterwegs,
+[00:13:37-2 @christopherzimmermann] insofern müssen wir an dem Format so ein bisschen feilen.
+[00:13:39-3 @christopherzimmermann] Wir haben im Grunde so eine Art Ringvorlesung für zwei Semester eingerichtet,
+[00:13:43-2 @christopherzimmermann] wo die Fachleute über ihren Bereich den Studenten was berichten können.
+[00:13:48-9 @christopherzimmermann] Das ist logistisch ein bisschen aufwendig, weil das immer so halbe Tage sind
+[00:13:52-1 @christopherzimmermann] oder hier mal zwei Stunden, da mal zwei Stunden und dann gibt es ganze Blockkurse,
+[00:13:56-0 @christopherzimmermann] wo wir versuchen, die Studenten mit auf unsere Schiffe zu nehmen, weil das für einen Meeresforscher natürlich das Highlight ist rauszufahren einfach.
+[00:14:03-6 @timpritlove] Na ich denke mir, dass das eh so für die Studierenden natürlich eine super Gelegenheit ist,
+[00:14:07-3 @timpritlove] auch einfach mal so einen Praxisbezug zu bekommen, den ja ein Studium jetzt nicht unbedingt immer automatisch mitbringt.
+[00:14:12-9 @christopherzimmermann] Ganz genau, und Schiffszeiten sind unfassbar teuer, die meisten Schiffe.
+[00:14:15-9 @christopherzimmermann] Es gibt einen Schiffspool der deutschen Forschungsschiffe, die sind überwiegend über Jahre ausgebucht,
+[00:14:22-3 @christopherzimmermann] auch für studentische Ausbildung, aber eben über Jahre ausgebucht.
+[00:14:25-4 @christopherzimmermann] Und wir haben das große Glück, dass wir Ressortforschungseinrichtung über drei Schiffe verfügen,
+[00:14:31-1 @christopherzimmermann] die wir relativ frei einsetzen können.
+[00:14:33-4 @christopherzimmermann] Da gibt es also im Moment wenigstens wenig Konkurrenz.
+[00:14:35-9 @christopherzimmermann] Und wir bemühen uns, jede freie Minute dann auch extern anzubieten, um die Schiffe wirklich in Fahrt zu halten,
+[00:14:41-6 @christopherzimmermann] weil wir wissen, wie teuer die sind.
+[00:14:43-4 @christopherzimmermann] Aber wir nutzen sie eben auch.
+[00:14:44-5 @christopherzimmermann] Jedes dieser Schiffe ist ungefähr 260-270 Tage im Jahr auf See.
+[00:14:49-2 @timpritlove] Wir reden jetzt von konkreten Forschungsschiffen?
+[00:14:51-2 @christopherzimmermann] Ja.
+[00:14:52-0 @timpritlove] Was können die?
+[00:14:54-5 @timpritlove] Also was unterscheidet die jetzt von anderen Forschungsschiffen vielleicht?
+[00:14:59-5 @christopherzimmermann] Also erst mal, Forschungsschiffe sind natürlich eine ganz wesentliche Plattform für die Meeresforschung,
+[00:15:03-2 @christopherzimmermann] weil wir als Landlebewesen irgendwas brauchen, womit wir aufs Meer fahren,
+[00:15:07-1 @christopherzimmermann] solange wir das nicht volldigitalisiert und ferngesteuert machen können.
+[00:15:10-6 @christopherzimmermann] Das wird vielleicht irgendwann passieren, aber da haben wir immer noch mindestens 30 oder 40 Jahre Zeit,
+[00:15:16-1 @christopherzimmermann] bis wir das sozusagen von Land mit dem Joystick machen können.
+[00:15:20-0 @christopherzimmermann] Unsere drei Forschungsschiffe sind spezialisierte Fischereiforschungsschiffe.
+[00:15:24-1 @christopherzimmermann] Wie der Name schon sagt, die können eben fischen.
+[00:15:26-1 @christopherzimmermann] Das können die allermeisten anderen Forschungsschiffe nicht, die meistens Mehrzweckforschungsschiffe sind.
+[00:15:31-7 @christopherzimmermann] Und für die Geologie Schwerelose einsetzen können oder kleine Netze ziehen.
+[00:15:35-7 @christopherzimmermann] Aber wirklich im sozusagen kommerziellen Maßstab verlässlich Fischfang,
+[00:15:41-1 @christopherzimmermann] dafür braucht man eine sehr spezielle Ausrüstung.
+[00:15:42-8 @christopherzimmermann] Das fängt an mit den Einrichtungen, um Fische zu detektieren,
+[00:15:46-2 @christopherzimmermann] also spezial Forschungsecholote, die sehr sehr aufwändig sind,
+[00:15:49-5 @christopherzimmermann] weil sie mit vielen verschiedenen Frequenzen ins Meer pingen,
+[00:15:52-5 @christopherzimmermann] um zu gucken, was für Fische da unten leben, wie groß die sind, wie schwer die sind.
+[00:15:57-0 @christopherzimmermann] Dann muss man die Fische fangen, trotz dieser akustischen Methoden.
+[00:16:00-8 @christopherzimmermann] Dafür braucht man zum Teil sehr sehr große Netze und Spezialwinden,
+[00:16:04-1 @christopherzimmermann] die die allermeisten anderen Forschungsschiffe nicht an Bord haben.
+[00:16:06-5 @christopherzimmermann] Und man den Fisch, der dann an Deck kommt, auch verarbeiten können.
+[00:16:11-1 @christopherzimmermann] Nicht jetzt für den menschlichen Konsum, sondern eben für die Forschung.
+[00:16:13-5 @christopherzimmermann] Aber auch dafür braucht man im Grunde ein spezielles Setup,
+[00:16:16-6 @christopherzimmermann] für das auf den allermeisten normalen Forschungsschiffen gar kein Platz wäre.
+[00:16:20-4 @timpritlove] Also diese Schiffe ähneln in gewisser Hinsicht sehr viel mehr einem normalen Fischereiboot?
+[00:16:27-2 @christopherzimmermann] Von …
+[00:16:27-4 @timpritlove] Plus weitere Einrichtungen?
+[00:16:29-6 @christopherzimmermann] Von der Fangkapazität her schon, aber normale Fischereifahrzeuge werden dann eben,
+[00:16:35-3 @christopherzimmermann] wenn die so die Größe unserer Schiffe haben, von zwischen 2 und 10 Leuten betrieben,
+[00:16:39-2 @christopherzimmermann] während bei uns schon auf das kleinste Schiff dann 4 Wissenschaftler passen.
+[00:16:43-1 @christopherzimmermann] Und das größte Forschungsschiff, was wir jetzt gerade ersetzen, wird am Ende dann Platz für 26 Wissenschaftler und 26 Mann Besatzung haben.
+[00:16:51-1 @christopherzimmermann] Das ist dann also vorne sozusagen Hotel, in der Mitte ist es voll mit hochtechnologisierten Laboren
+[00:16:59-3 @christopherzimmermann] und hinten ist es dann ein normales Fischereifahrzeug.
+[00:17:03-1 @timpritlove] Nicht schlecht, drei in eins.
+[00:17:04-5 @christopherzimmermann] Genau.
+[00:17:05-4 @timpritlove] Wie lange sind die dann unterwegs?
+[00:17:07-6 @christopherzimmermann] Na die längsten Reisen auf dem großen Forschungsschiff sind so in der Regel 7-8 Wochen ungefähr.
+[00:17:12-3 @christopherzimmermann] Das ist dann schon ziemlich lang.
+[00:17:14-1 @christopherzimmermann] Das mittlere Forschungsschiff hat eine Reichweite von etwas über drei Wochen.
+[00:17:17-1 @christopherzimmermann] Jetzt unsere Solea, die unser spezialisiertes Akustikschiff ist,
+[00:17:21-3 @christopherzimmermann] ist gerade in der Ostsee unterwegs, Anfang der Woche gestartet.
+[00:17:26-7 @christopherzimmermann] Und diese Reise dauert ungefähr 22 Tage.
+[00:17:30-5 @timpritlove] Jetzt ist ja das Thün-Institut nicht nur ein Institut für die Fischereiforschung,
+[00:17:35-9 @timpritlove] sondern es geht ja konkret um die Ostsee, also es gibt hier eine Spezialisierung oder sogar eine Festlegung.
+[00:17:41-6 @timpritlove] Ist da nur die Ostsee im Fokus oder steht es nur im Vordergrund?
+[00:17:47-4 @christopherzimmermann] Na das Thün-Institut als Thün-Institut ist sogar noch viel weiter gefasst,
+[00:17:50-9 @christopherzimmermann] weil wir Ökonomieinstitute, Forst- und Holzinstitute, Landwirtschaftsinstitute und dann drei Fischereiinstitute haben.
+[00:17:57-1 @christopherzimmermann] Und diese drei Fischereiinstitute, das ist sozusagen die alte Bundesforschungsanstalt für Fischerei,
+[00:18:01-9 @christopherzimmermann] die beschäftigt sich mit Meeresfischerei im weitesten Sinne.
+[00:18:05-3 @christopherzimmermann] Und wir haben jetzt drei Institute, zwei in Bremerhaven, das Institut für Seefischerei,
+[00:18:10-2 @christopherzimmermann] was sich im Grunde mit dem Weltmeer und der Nordsee befasst,
+[00:18:13-6 @christopherzimmermann] aber darüber hinaus auch mit der Fischereiökonomie zum Beispiel.
+[00:18:17-0 @christopherzimmermann] Das Institut für Fischereiökologie, die machen viel Aquakultur, aber auch viel Schadstoffe im Meer und Aal.
+[00:18:23-1 @christopherzimmermann] Und wir sind das Institut für Ostseefischerei, also eins von 14 Thün-Instituten, ein Unterinstitut,
+[00:18:29-1 @christopherzimmermann] und unser geografischer Schwerpunkt liegt in der Tat auf der Ostsee,
+[00:18:33-0 @christopherzimmermann] das ist ziemlich einleuchtend.
+[00:18:34-2 @christopherzimmermann] Also wir kümmern uns um den Zustand der durch den Menschen genutzten nachwachsenden Ressourcen in der Ostsee,
+[00:18:40-0 @christopherzimmermann] aber darüber hinaus haben wir auch übergreifende Aufgaben.
+[00:18:42-9 @christopherzimmermann] Bei uns ist zum Beispiel die gesamte Fischerei und Serway-Technik angesiedelt.
+[00:18:46-8 @christopherzimmermann] Also wenn es darum geht, Netze nachhaltiger zu machen, meistens bedeutet das,
+[00:18:51-2 @christopherzimmermann] sie selektiver zu machen, also wir wollen nur das fangen oder wir wollen,
+[00:18:54-7 @christopherzimmermann] dass der Fischer nur das fängt, was er auch haben will und was er vermarkten kann,
+[00:18:58-6 @christopherzimmermann] dann ist das egal, ob Nord- oder Ostsee oder offener Nordatlantik, bei  uns beheimatet.
+[00:19:02-6 @christopherzimmermann] Oder wir sind zuständig für neue Politikkonzepte, wenn es irgendwie darum geht,
+[00:19:07-9 @christopherzimmermann] mal was ganz anders zu denken und zu sagen, so haben wir das die letzten 35 Jahre gemacht,
+[00:19:12-3 @christopherzimmermann] aber muss man das eigentlich so machen, kann man das nicht auch anders machen?
+[00:19:16-4 @christopherzimmermann] Dann ist das sozusagen in unserem Forschungsbereich.
+[00:19:19-5 @christopherzimmermann] Wenn es darum geht herauszufinden, wie ticken Fische eigentlich?
+[00:19:22-7 @christopherzimmermann] Was sind Anreize für die, die wir gerne schaffen wollen, damit Fischer sich so benehmen,
+[00:19:27-4 @christopherzimmermann] wie wir als Eigner der Ressource Meeresfisch das gerne haben wollen, dann ist das bei uns.
+[00:19:31-9 @christopherzimmermann] Und dazu zählt zum Beispiel Eco-Labeling, diese ganze Nachhaltigkeitszertifizierung von Fischereiprodukten,
+[00:19:37-3 @christopherzimmermann] da sitzen bundesweit die Experten im Wildfischbereich tatsächlich in meinem Institut.
+[00:19:43-2 @timpritlove] Aber der Fokus liegt auf der Ostsee.
+[00:19:47-9 @timpritlove] Jetzt ist ja die Ostsee ein ganz besonderes Meer.
+[00:19:52-4 @timpritlove] Mir ist das selber, ich bin ja eigentlich nicht so ein Meeresmensch muss ich zugeben,
+[00:19:59-1 @timpritlove] ich komme so ein bisschen aus dem Flachland und so, ich habe es mit der Küste genauso wenig wie mit den Bergen.
+[00:20:06-4 @timpritlove] Vielleicht merke ich aber dadurch auch Dinge, die vielleicht banal sind, irgendwie auf eine andere Art und Weise.
+[00:20:12-2 @timpritlove] Letztes Mal, als ich an der Ostsee war, ist mir wieder klar geworden, wie sehr der Name See irgendwie zutrifft,
+[00:20:18-6 @timpritlove] weil im Vergleich zu den anderen Meeren kommt halt die Ostsee auch mehr wie so ein See rüber.
+[00:20:26-0 @timpritlove] Nicht so mega salzig, irgendwie ruhiger, ist anders.
+[00:20:31-2 @timpritlove] Inwiefern ist denn die Ostsee jetzt eine Besonderheit unter den Meeren und inwiefern hat das dann Einfluss hier auf die Arbeit?
+[00:20:39-9 @christopherzimmermann] Ja die Ostsee ist ein abgeschlossenes Randmeer erstens,
+[00:20:44-4 @christopherzimmermann] das heißt, sie hat keinen direkten Zustrom vom offenen Ozean, anders als die Nordsee,
+[00:20:49-5 @christopherzimmermann] wo der Golfstrom einfach durchgeht und dauernd für frisches Wasser sorgt.
+[00:20:53-3 @christopherzimmermann] Es ist abgeschlossen, es ist ein sehr junges Meer.
+[00:20:56-3 @christopherzimmermann] Die Ostsee selbst, so wie wir sie jetzt kennen, ist nur ungefähr 8.000 Jahre alt.
+[00:20:59-3 @christopherzimmermann] Bis dahin war sie tatsächlich ein Süßwassersee, der einen Abfluss in die Nordsee hatte,
+[00:21:04-4 @christopherzimmermann] aber diese Verbindung zwischen Nordsee und Ostsee ist erst vor ungefähr 8.000 Jahren aufgebrochen.
+[00:21:08-9 @christopherzimmermann] Und erst seitdem gibt es hier überhaupt Salzwasser, weil das nämlich von der Nordsee reingekommen ist.
+[00:21:13-5 @christopherzimmermann] Die Ostsee selbst hat keine eigenen Salzlagerstätten, das heißt,
+[00:21:16-9 @christopherzimmermann] sie würde immer weiter aussüßen, sie wäre im Grunde am Ende ein See,
+[00:21:22-9 @christopherzimmermann] wenn nicht gelegentlich Salzwasser aus der Nordsee reingedrückt würde.
+[00:21:25-9 @christopherzimmermann] Dafür braucht man bestimmte Wetterlagen und das ist wieder ein ganz spannendes Thema,
+[00:21:30-3 @christopherzimmermann] weil diese Wetterlagen in den letzten Jahren immer weniger geworden sind
+[00:21:33-2 @christopherzimmermann] und die Ostsee dadurch tatsächlich immer süßer wurde, wenigstens an der Oberfläche.
+[00:21:37-1 @christopherzimmermann] Denn salziges Wasser ist schwerer als süßes Wasser, und deswegen setzt sich das salzige Wasser in der Tiefe ab.
+[00:21:43-8 @christopherzimmermann] Die Ostsee ist eine Abfolge dieser Becken mit einer sehr flachen Schwelle zwischen der dänische Insel zur Nordsee.
+[00:21:49-7 @christopherzimmermann] Und alles, was an salzhaltigem, aber eben auch sauerstoffreichem Wasser in die Ostsee rein soll,
+[00:21:55-9 @christopherzimmermann] um die tiefen Becken zu belüften, muss aus der Nordsee kommen.
+[00:21:57-9 @christopherzimmermann] Und wenn das ausbleibt, dann bleibt das Salz zwar im Wasser, aber der Sauerstoffgehalt in den tiefen Becken wird immer weniger
+[00:22:04-5 @christopherzimmermann] und dadurch haben wir in der Ostsee massive Probleme mit diesen großen sogenannten Todeszonen.
+[00:22:09-6 @christopherzimmermann] Das hören wir nicht so gerne, weil es natürlich andere Organismen gibt,
+[00:22:13-6 @christopherzimmermann] Schwefelbakterien oder so was, denen das überhaupt nichts ausmacht
+[00:22:16-3 @christopherzimmermann] und die mit mehr Sauerstoff eher größere Probleme hätten.
+[00:22:19-2 @christopherzimmermann] Aber für uns Menschen sind Gebiete mit einem hohen Schwefelwasserstoffgehalt einfach lebensfeindlich.
+[00:22:26-8 @christopherzimmermann] Und für Seesäuger und eben auch für die von uns genutzten Fische auch.
+[00:22:31-4 @christopherzimmermann] Deswegen ist die Ostsee ein besonderes Meer.
+[00:22:33-9 @christopherzimmermann] Das, was wir reinkippen, bleibt sehr sehr lange drin, angefangen von Giften,
+[00:22:39-4 @christopherzimmermann] die zum Teil Schwermetalle oder so was, die zum Teil aus der Schwerindustrie oder aus dem Kohlebergbau kommen oder so was,
+[00:22:45-2 @christopherzimmermann] das passiert schon seit 70-80 Jahren nicht mehr, und dennoch sind diese Gifte alle immer noch nachweisbar,
+[00:22:50-8 @christopherzimmermann] aber noch viel mehr mit Nährstoffeinträgen aus der Landwirtschaft, aus dem Verkehr,
+[00:22:54-9 @christopherzimmermann] aus der öffentlichen Versorgung und so weiter.
+[00:22:57-6 @christopherzimmermann] Alles, was in die Ostsee reinkommt, bleibt da erst mal und es dauert viele viele Jahre,
+[00:23:01-7 @christopherzimmermann] bis das wieder rausgeht oder sich verbessert.
+[00:23:07-2 @timpritlove] Das heißt, die Ostsee verdient sich ihren Namen, es ist eigentlich so ein gescheiterter See?
+[00:23:14-4 @timpritlove] In gewisser Hinsicht so. Aber mir war das gar nicht so klar, dass das noch gar nicht so lange her ist,
+[00:23:20-0 @timpritlove] 8.000 Jahre ist ja quasi nix.
+[00:23:21-6 @christopherzimmermann] Das ist nix, in geologischen Zeiträumen ist das nix.
+[00:23:24-9 @timpritlove] Und aber dieser Zustrom ist schon permanent oder hängt das auch so von irgendwelchen Zyklen ab,
+[00:23:30-9 @timpritlove] wie viel Salzwasser da jetzt wirklich eingetragen wird?
+[00:23:34-4 @christopherzimmermann] Das hängt mit Sicherheit von irgendwas ab, aber wovon genau das abhängt, wissen wir leider nicht genau.
+[00:23:38-8 @christopherzimmermann] Wir wissen, was wir für einen Mechanismus brauchen, schon deshalb weil wir den alle Jahre mal wieder beobachten können.
+[00:23:45-7 @christopherzimmermann] Der letzte starke Salzwassereinstrom war Nikolaus 2015 und Anfang 2016 gab es weitere starke Salzwassereinströme.
+[00:23:54-4 @christopherzimmermann] Dafür braucht man eine bestimmte Wetterlage.
+[00:23:56-7 @christopherzimmermann] Man braucht starken Ostwind, der die Ostsee sozusagen leer pustet.
+[00:23:59-8 @christopherzimmermann] Denn im Regelfall ist der Wasserstand in der Ostsee ein bisschen höher als in der Nordsee.
+[00:24:03-3 @christopherzimmermann] Das heißt, das Süßwasser aus den Flüssen fließt in die Ostsee und dann irgendwann durch die Beltsee und durch die Belte,
+[00:24:10-2 @christopherzimmermann] also den dänischen Inseln vorbei in die Nordsee.
+[00:24:13-6 @christopherzimmermann] Und man braucht starken Ostwind, der die Ostsee leer pustet,
+[00:24:16-7 @christopherzimmermann] dann ist das Gefälle genau andersrum und dann muss der Wind um 180 Grad drehen
+[00:24:19-8 @christopherzimmermann] und man braucht starken Wind aus westlichen Richtungen, der dann das salzige Nordseewasser reindrückt.
+[00:24:24-5 @christopherzimmermann] Und wenn das gelingt, dann strömt das Salzwasser sozusagen, wenn es mal durch die Belte durch ist,
+[00:24:29-2 @christopherzimmermann] am Boden, weil es so schwer ist, von einem Becken zum anderen.
+[00:24:33-0 @christopherzimmermann] Füllt das nächste Becken, also das Arkonabecken in diesem Fall,
+[00:24:36-2 @christopherzimmermann] westlich von Bornholm auf und wenn eine bestimmte Höhe erreicht ist unter dem Meer,
+[00:24:41-7 @christopherzimmermann] dann strömt es über in das Bornholmbecken und füllt das auf.
+[00:24:44-4 @christopherzimmermann] Und wenn der Salzwassereinstrom immer noch anhält, dann strömt es über in das Gotlandbecken zum Beispiel.
+[00:24:48-9 @christopherzimmermann] Und das passiert dann schon sehr sehr selten.
+[00:24:51-7 @christopherzimmermann] Das ist wiederum wichtig für unsere Fischfauna, also für das, was uns als Thün-Institut für Ostseefischerei besonders interessiert,
+[00:24:59-1 @christopherzimmermann] weil die Fischfauna der Ostsee besteht aus menschlicher Sicht im Wesentlichen aus fünf Arten,
+[00:25:04-5 @christopherzimmermann] die kommerziell genutzt werden können.
+[00:25:06-0 @christopherzimmermann] Es gibt natürlich ein paar mehr Arten, viele Süßwasserarten darunter im Küstengebiet,
+[00:25:10-0 @christopherzimmermann] aber 95% der Erträge, der Fischerträge aus der Ostsee sind fünf Salzwasserfischarten,
+[00:25:17-4 @christopherzimmermann] die einfach aus der Nordsee eingewandert sind
+[00:25:20-7 @christopherzimmermann] und im Grunde nach wie vor angepasst sind an salziges Wasser.
+[00:25:23-3 @christopherzimmermann] Wenn also viel salziges und sauerstoffreiches Wasser da ist, geht es den Beständen gut.
+[00:25:27-8 @christopherzimmermann] Wenn das nicht mehr da ist, weil dieser Zustrom ausbleibt, weil die Wetterlage sich geändert hat,
+[00:25:31-7 @christopherzimmermann] dann geht es denen nicht mehr so gut.
+[00:25:34-5 @christopherzimmermann] Und während wir sagen, dass in den allermeisten Gebieten der Welt die Fischerei als direkte menschliche Nutzung den wesentlichen Einfluss auf den Zustand von Fischbeständen hat,
+[00:25:42-2 @christopherzimmermann] ist es in der Ostsee eher 50/50, also ungefähr 50% sind direkter menschlicher Einfluss durch Fischerei,
+[00:25:47-9 @christopherzimmermann] 50% sind die Umweltbedingungen, die sehr sehr variabel sind.
+[00:25:51-7 @timpritlove] Das heißt, so vor 8.000 Jahren gab es keinen dieser Fische?
+[00:25:55-0 @christopherzimmermann] Genau, da gab es so ein paar Süßwasserfische.
+[00:25:57-8 @timpritlove] Aber nicht in den Mengen?
+[00:25:58-8 @christopherzimmermann] Wahrscheinlich nicht in den Mengen, weil viele Salzwasserfische deutlich produktiver sind als Süßwasserfische.
+[00:26:05-2 @timpritlove] Warum?
+[00:26:06-2 @christopherzimmermann] Keine Ahnung, gute Frage.
+[00:26:10-4 @timpritlove] Die sind irgendwie umtriebiger? 
+[00:26:10-9 @christopherzimmermann] Ja, die sind irgendwie umtriebiger.
+[00:26:11-7 @timpritlove] Salz scheint zu helfen...
+[00:26:13-1 @christopherzimmermann] Genau
+[00:26:13-8 @timpritlove] Aha, okay. Macht man sich ja nicht so klar.
+[00:26:18-0 @timpritlove] Was sind denn diese fünf Fische, Fischarten?
+[00:26:20-5 @christopherzimmermann] Das ist von der Menge angefangen Hering mit großem Abstand und Sprotte.
+[00:26:25-5 @christopherzimmermann] Das sind so die beiden, also kleine Schwarmfischbestände, das sind die,
+[00:26:28-7 @christopherzimmermann] die die allermeiste Biomasse ausmachen und dann auch jetzt die allermeisten Anlandungen ausmachen.
+[00:26:33-7 @christopherzimmermann] Dann gibt es Dorsch ganz prominent, als einziges wesentlichen Weißfisch sozusagen,
+[00:26:39-4 @christopherzimmermann] der vor allen Dingen für die südlichen Anrainer, also für Dänemark, Deutschland und Polen für die Fischerei besondere Bedeutung hat.
+[00:26:46-2 @christopherzimmermann] Es gibt eine Reihe von Plattfischen, ungefähr 3-4 verschiedene Arten.
+[00:26:50-6 @christopherzimmermann] Ganz zum salzigen Teil hin, also zu den dänischen Inseln hin, gibt es noch Seezungen.
+[00:26:55-2 @christopherzimmermann] Dann gibt es bei uns vor der Küste Scholle.
+[00:26:57-6 @christopherzimmermann] Es gibt relativ viel Flunder und Kliesche, ab und zu ein bisschen Steinbutt,
+[00:27:02-2 @christopherzimmermann] aber in sehr geringen Dichten.
+[00:27:03-7 @christopherzimmermann] Also das sind so ein paar Arten, die wir mehr so unter diverse Plattfische summieren.
+[00:27:08-2 @christopherzimmermann] All diese Arten werden immer seltener, je weiter ich nach Osten und nach Norden dann in den bottnischen Meerbusen komme.
+[00:27:14-7 @christopherzimmermann] Und nördlich der Olandinseln, die also die Südgrenze des bottnischen Meerbusen beschreiben,
+[00:27:20-1 @christopherzimmermann] nördlich dieser Inseln haben wir im Grunde nur noch Heringe und ein kleines bisschen Sprotte.
+[00:27:23-9 @christopherzimmermann] Alle anderen Fische schaffen es physiologisch nicht mehr, da zu leben oder wenigstens sich fortzupflanzen.
+[00:27:29-6 @christopherzimmermann] Also die könnte man da vielleicht noch hin geleiten, die wären lebensfähig,
+[00:27:33-0 @christopherzimmermann] aber sie wären eben nicht fortpflanzungsfähig.
+[00:27:35-0 @christopherzimmermann] Ein Hering kann das.
+[00:27:36-6 @timpritlove] Das heißt, die Konzentration der Fischerei in der Ostsee liegt auch eher im westlichen Bereich, kann man das so sagen?
+[00:27:42-9 @christopherzimmermann] Was die Diversität angeht, ja, da ist im östlichen Bereich sehr …
+[00:27:46-9 @christopherzimmermann] Also der östliche Bereich ist viel größer als der westliche Bereich, das muss man dazu sagen.
+[00:27:50-1 @christopherzimmermann] Deswegen sind es im westlichen Bereich überwiegend, also in der westlichen Ostsee,
+[00:27:54-1 @christopherzimmermann] westlich von Bornholm bis zur Nordkante der dänischen Inseln, sind es überwiegend kleine Fischereien,
+[00:27:59-2 @christopherzimmermann] während größere Fischereifahrzeuge, die dann aber in der Regel Schwarmfischfänger sind,
+[00:28:02-7 @christopherzimmermann] auch in der östlichen Ostsee operieren können.
+[00:28:05-0 @christopherzimmermann] Also wenn man sich nur die Mengen anguckt, kommt tatsächlich mehr Fischbiomasse in den Anlandungen aus der östlichen Ostsee,
+[00:28:11-6 @christopherzimmermann] aber wenn man das pro Quadratmeter Fläche auf den Quadratmeter Fläche bezieht,
+[00:28:16-3 @christopherzimmermann] dann ist der Westen deutlich produktiver.
+[00:28:19-9 @timpritlove] Aber der Osten, also ich meine wie zählt man denn das?
+[00:28:21-4 @timpritlove] Ich meine, die Ostsee geht ja extrem weit nach oben nach Schweden.
+[00:28:28-4 @timpritlove] Also der Westteil ist ja eigentlich kleiner als der Ostteil?
+[00:28:30-6 @christopherzimmermann] Genau, der Westteil ist viel kleiner.
+[00:28:31-8 @christopherzimmermann] Man sagt, die westliche Ostsee ist der Bereich, der südlich an das Kattegat anschließt.
+[00:28:36-0 @christopherzimmermann] Also wenn man von der Nordsee kommt, und dann um Skagen, um Jütland durch die norwegische Rinne durchgeht,
+[00:28:42-7 @christopherzimmermann] dann kommt erst das Skagerrak, dann kommt das Kattegat bis zu den dänischen Inseln
+[00:28:46-3 @christopherzimmermann] und alles südlich der dänischen Inseln, bis ungefähr Bornholm, ist die westliche Ostsee
+[00:28:50-9 @christopherzimmermann] und alles östlich von Bornholm ist die östliche Ostsee, die man dann wieder in die zentrale Ostsee,
+[00:28:55-7 @christopherzimmermann] den Golf von Riga, den finnischen Meerbusen und den bottnischen Meerbusen unterteilt.
+[00:29:00-8 @timpritlove] Schafft es das Salz denn überhaupt bis ganz in den Osten?
+[00:29:04-2 @christopherzimmermann] In den letzten 30 Jahren eben nicht mehr.
+[00:29:06-8 @christopherzimmermann] Da braucht man sehr sehr starke Einstromereignisse.
+[00:29:09-1 @christopherzimmermann] Und der letzte sehr starke Einstrom wie gesagt aus dem Herbst 2015 …
+[00:29:14-6 @timpritlove] Vor ein paar Jahren.
+[00:29:16-1 @christopherzimmermann] der hat es bis in das Gotlandbecken geschafft, da kann man ihn nachweisen,
+[00:29:19-1 @christopherzimmermann] aber der hat auch da nicht dazu geführt, dass das Gotlandbecken jetzt gut belüftet wäre
+[00:29:23-6 @christopherzimmermann] oder aufgefüllt mit frischem Wasser, also mit salzhaltigem frischen Wasser.
+[00:29:26-7 @timpritlove] Das heißt, dass man auch diese Fischarten dort nicht findet?
+[00:29:28-9 @christopherzimmermann] Genau, da oben gibt es keinen Dorsch, da gibt es keine Plattfische.
+[00:29:32-8 @christopherzimmermann] Das hört dann auf ein paar hundert Meilen östlich von Bornholm.
+[00:29:37-6 @timpritlove] Das heißt, das wird auch nicht so aktiv befischt?
+[00:29:38-7 @christopherzimmermann] Also auf diese Fischarten gar nicht befischt, weil es die ja nicht gibt.
+[00:29:43-1 @timpritlove] Na ist klar, aber es gibt auch sonst nicht so viel, was man jetzt fischen könnte?
+[00:29:45-7 @christopherzimmermann] Ja doch, es gibt dann eine Lachsfischerei, das ist eine sehr wertvolle Fischerei, die weniger erträgt
+[00:29:49-4 @christopherzimmermann] und es gibt wie gesagt eine sehr vitale Schwarmfischfischerei.
+[00:29:53-2 @christopherzimmermann] Denn Heringe und Sprotten die leben da auch, die haben sogar ihren Verbreitungsschwerpunkt da.
+[00:29:56-9 @christopherzimmermann] Also es gibt letztlich mehr Hering und vor allen Dingen mehr Sprotte zwischen den Olands,
+[00:30:01-7 @christopherzimmermann] also zwischen dem finnischen Meerbusen und der zentralen Ostsee, als es in der westlichen Ostsee gibt.
+[00:30:06-7 @timpritlove] Okay. Sind gut unterwegs die Heringe.
+[00:30:12-4 @timpritlove] Wie hat sich denn diese Fischerei so entwickelt?
+[00:30:19-5 @timpritlove] Ich meine, wir haben jetzt diese ganze Diskussion um die Fischerei.
+[00:30:22-4 @timpritlove] Ist ja immer von, oh es wird viel zu viel gefischt, die Fischbestände sinken und man muss das jetzt entsprechend reduzieren.
+[00:30:33-6 @timpritlove] Also die Fischerei ist ja an sich ein politischer Diskussionspunkt,
+[00:30:38-0 @timpritlove] was sozusagen diese gesamte Ernährungsdebatte der Menschheit betrifft.
+[00:30:43-8 @timpritlove] Wie hat sich denn das entwickelt?
+[00:30:45-5 @timpritlove] Ich meine, wenn das jetzt alles auch erst seit ein paar tausend Jahren existiert,
+[00:30:50-1 @timpritlove] gut die Menschheit hat ja dann auch erst nachgezogen mit ihrer Entwicklung,
+[00:30:56-1 @timpritlove] was ist so der Stand der Dinge?
+[00:31:00-1 @timpritlove] Wie hat sich da vor allem so in den letzten paar hundert Jahren denn entwickelt?
+[00:31:03-5 @timpritlove] Was wird da befischt und wird zu viel befischt?
+[00:31:06-8 @christopherzimmermann] Ja, wie hat sich das entwickelt?
+[00:31:09-2 @christopherzimmermann] Also Hering, gerade Hering ist im Grunde eine Ressource, die schon sehr sehr lange genutzt wird.
+[00:31:14-7 @christopherzimmermann] Im Grunde baut die ganze Hanse darauf auf.
+[00:31:17-7 @christopherzimmermann] Das war im Grunde Skagen- und Skanör-Hering, der dicht an der Küste gefangen werden konnte.
+[00:31:23-7 @christopherzimmermann] Da brauchte man zum Haltbarmachen Salz, das kam aus Lüneburg zum Beispiel
+[00:31:27-5 @christopherzimmermann] oder wo immer man Salz finden konnte.
+[00:31:29-3 @christopherzimmermann] Und diese Handelswege, Fisch in die eine Richtung, Konservierungsmittel Salz in die andere Richtung
+[00:31:34-0 @christopherzimmermann] und alles gemeinsam, also den konservierten Hering irgendwo anders hin,
+[00:31:38-0 @christopherzimmermann] das war im Grunde die Grundsteine der Entwicklung der Hanse.
+[00:31:42-0 @christopherzimmermann] Das musste dann geschützt werden gegen Piraten und so weiter.
+[00:31:44-2 @christopherzimmermann] Also wir wissen, seit dem frühen Mittelalter im Grunde wird das Ganze auch in großem Stil gefischt und seitdem genutzt
+[00:31:51-0 @christopherzimmermann] und seitdem weiß man auch, dass die Heringe mal da sind und mal nicht da sind.
+[00:31:56-4 @christopherzimmermann] Wie die genau funktionieren diese Zyklen, ist nicht ganz klar.
+[00:31:59-0 @christopherzimmermann] An der Überfischung kann es damals kaum gelegen haben, dass die ausgeblieben sind.
+[00:32:02-6 @christopherzimmermann] Denn es blieb eine sehr kleine Küstenfischerei, sie war nicht mechanisiert,
+[00:32:06-4 @christopherzimmermann] die Ordnungsmethoden waren nicht besonders gut, sondern die Fischer haben halt genutzt,
+[00:32:09-8 @christopherzimmermann] was ihnen sozusagen vor die Nase schwamm.
+[00:32:12-7 @christopherzimmermann] Aber seitdem ist gerade Hering eine sehr sehr wertvolle Ressource, auch in der Ostsee.
+[00:32:17-9 @christopherzimmermann] Geändert hat sich die Fischereipraxis im Grunde erst mit der Erfindung der Dampfmaschine, wie überall.
+[00:32:22-9 @christopherzimmermann] Da wurde es mechanisiert, die Kutter konnten länger draußen bleiben, konnten größere Netze ziehen.
+[00:32:28-1 @christopherzimmermann] Aus der Stellnetzfischerei, die wir zu den stillen Fischereien zählen,
+[00:32:31-5 @christopherzimmermann] also eine Fischerei, die Netze aufstellt und wartet darauf, dass die Fische ins Netz gehen,
+[00:32:35-7 @christopherzimmermann] wurde eine aktive Fischerei, durch die Möglichkeit, Netze zu ziehen.
+[00:32:41-0 @christopherzimmermann] Und da wurde man wenigstens in anderen Gebieten der Welt, nicht so sehr in Ostsee,
+[00:32:44-5 @christopherzimmermann] sehr schnell darauf aufmerksam, dass Fischbestände keineswegs unendlich sind,
+[00:32:48-0 @christopherzimmermann] sondern eben endlich und wenn man nicht anfängt, sie vernünftig zu bewirtschaften,
+[00:32:52-6 @christopherzimmermann] dann haben die irgendwann ein Ende.
+[00:32:54-7 @christopherzimmermann] Das heißt nicht, dass sie aussterben, denn in aller Regel sind sie so weit verbreitet,
+[00:32:58-0 @christopherzimmermann] dass der letzte Fisch tatsächlich nicht gefischt werden kann.
+[00:33:01-2 @christopherzimmermann] Es bleiben immer Schwärme übrig, die so produktiv sind, dass sich auch katastrophal überfischte,
+[00:33:05-7 @christopherzimmermann] kollabierte Fischbestände innerhalb weniger Jahre erholen können.
+[00:33:09-5 @christopherzimmermann] Beispiel ist der Nordseehering mit der Erfindung der Ringwade.
+[00:33:12-2 @christopherzimmermann] In den 60er Jahre wurde der so überfischt, dass am Ende noch 50.000 Tonnen erwachsene Tiere übrig waren.
+[00:33:17-6 @christopherzimmermann] Normalerweise sollte der Bestand so bei 1,3 Millionen Tonnen groß sein.
+[00:33:21-9 @christopherzimmermann] Daraufhin wurde 1977 die Fischerei geschlossen und schon vier Jahre später konnte sie wieder eröffnet werden,
+[00:33:28-6 @christopherzimmermann] weil der Bestand in diesen vier Jahren so viel Nachwuchs produziert hat, dass der Bestand auf gutem Wege war.
+[00:33:33-6 @christopherzimmermann] Und ein paar Jahre später hatte er sich erholt.
+[00:33:35-3 @christopherzimmermann] Also marine Fischbestände sind unfassbar produktiv.
+[00:33:38-3 @christopherzimmermann] Im Grunde reicht theoretisch ein einziges Pärchen, um eine Bestand wieder aufzubauen.
+[00:33:42-2 @christopherzimmermann] Das will man natürlich nicht.
+[00:33:44-3 @christopherzimmermann] Und man muss eben nur dafür sorgen, dass die auch die Gelegenheit bekommen, das zu tun.
+[00:33:50-7 @christopherzimmermann] Mit der Industrialisierung sozusagen oder mit der technischeren Nutzung war dann klar,
+[00:33:55-5 @christopherzimmermann] wir brauchen ein gemeinsames Management, Fischbestände wandern,
+[00:33:58-7 @christopherzimmermann] halten sich nicht an nationalstaatliche Grenzen und wenn die deutsche Regierung beschließt,
+[00:34:02-6 @christopherzimmermann] wir setzen die Fangmengen so und so fest, wir setzen irgendeine Grenze fest und die anderen halten sich nicht,
+[00:34:07-4 @christopherzimmermann] macht das wenig Sinn.
+[00:34:08-8 @christopherzimmermann] Das führte schon 1902 dazu, dass eine internationale, die älteste internationale zwischenstaatliche Organisation überhaupt,
+[00:34:16-8 @christopherzimmermann] der internationale Rat für Meeresforschung in Kopenhagen gegründet wurde.
+[00:34:19-9 @christopherzimmermann] Und diese Organisation kümmert sich seit 1902 darum, die wissenschaftlichen Daten aus allen interessierten Ländern,
+[00:34:27-6 @christopherzimmermann] also allen Ländern, die auf einen bestimmten Fischbestand fischen, zusammenzutragen,
+[00:34:32-4 @christopherzimmermann] den Bestand zu begutachten und am Ende aus der Begutachtung Empfehlungen für die Politik abzuleiten,
+[00:34:38-2 @christopherzimmermann] wie man einen solchen Bestand nachhaltig bewirtschaften könnte.
+[00:34:42-5 @christopherzimmermann] Nun gibt es viele Leute, die sagen, das ist alles sehr aufwendig, das brauchen wir alles gar nicht.
+[00:34:46-7 @christopherzimmermann] Die kleine Küstenfischerei, wenn man die nur fördern würde, und die großen Trawler verbieten würde, dann wäre alles gut.
+[00:34:52-3 @christopherzimmermann] Das sehen wir völlig anders.
+[00:34:53-4 @christopherzimmermann] Erstens reicht auch die Kapazität der kleinen Küstenfahrzeuge dicke aus, um Bestände zu überfischen.
+[00:34:58-8 @christopherzimmermann] Es kommt nicht darauf an, ob es tausend kleine oder fünf große machen,
+[00:35:02-4 @christopherzimmermann] sondern es kommt am Ende nur darauf an, wie die entnehmen.
+[00:35:05-5 @christopherzimmermann] Und ein großes Fahrzeug kann exakt genauso nachhaltig fischen wie viele kleine.
+[00:35:10-0 @christopherzimmermann] All diese Fischereimethoden haben ihr Vorteile und ihre Nachteile.
+[00:35:13-1 @christopherzimmermann] Und deswegen können wir das gar nicht abwägen gegeneinander und sagen,
+[00:35:16-1 @christopherzimmermann] große Fahrzeuge sind schlecht, kleine Fahrzeuge sind gut oder genau andersrum.
+[00:35:20-6 @christopherzimmermann] Wir wissen, dass kleine Fahrzeuge größere Probleme bei der Einhaltung der Regeln und bei den Beifängen von meinetwegen Seevögeln haben.
+[00:35:27-3 @christopherzimmermann] Große Fahrzeuge fischen dafür in der Regel unselektiver,
+[00:35:30-0 @christopherzimmermann] haben also größere Probleme bei den unerwünschten Fischbeifängen.
+[00:35:33-5 @christopherzimmermann] Können natürlich viel mehr anrichten in der gleichen Zeiteinheit,
+[00:35:38-2 @christopherzimmermann] sind dafür aber viel leichter überwachbar, weil die vollgestopft sind mit technischen Möglichkeiten,
+[00:35:42-2 @christopherzimmermann] um zu sehen, was sie genau wo machen und so weiter.
+[00:35:45-3 @christopherzimmermann] Wichtig ist, dass man am Ende die Fanglimitationen einhält.
+[00:35:50-2 @christopherzimmermann] Die Forschung dafür ist relativ günstig.
+[00:35:54-3 @christopherzimmermann] So im langfristigen Schnitt geben wir ungefähr 2% für Forschung, für die Analyse der Fischbestände aus.
+[00:36:00-1 @christopherzimmermann] 2% vom Anlandeerlös und da beginnt die Wertschöpfungskette ja erst.
+[00:36:04-6 @christopherzimmermann] Da kommt die ganze Verarbeitung und der Handel dazu, also das ist vergleichsweise günstig.
+[00:36:08-6 @christopherzimmermann] Und wenn man das lassen würde und einfach sagen würde, wir geben die Nutzung der Fischbestände frei,
+[00:36:14-3 @christopherzimmermann] dann würden die allermeisten Fischbestände sehr sehr schnell zusammenbrechen.
+[00:36:16-7 @christopherzimmermann] Da kann man sie immer noch nutzen, aber nur ungefähr 10% der jetzigen Menge.
+[00:36:22-5 @christopherzimmermann] Insofern ist es keine gute Idee zu sagen, man kann das Management einfach lassen,
+[00:36:26-7 @christopherzimmermann] man braucht kein Fangmengenbegrenzung oder so was, die für Ausgleich sorgen.
+[00:36:31-6 @christopherzimmermann] Die Fangmengenbegrenzungen sollen dafür sorgen, dass Fischbestände optimal genutzt werden.
+[00:36:37-0 @christopherzimmermann] Nicht einfach nur genutzt werden, sondern optimal genutzt werden,
+[00:36:40-1 @christopherzimmermann] weil ein optimal genutzter Bestand liefert viel viel mehr Ertrag für die menschliche Ernährung als ein nicht optimal genutzter Bestand.
+[00:36:47-0 @timpritlove] Dieses Verständnis existiert schon seit 1902 oder das kam dann erst in der Folge?
+[00:36:50-9 @christopherzimmermann] Nein das existent im Grunde von Anfang an.
+[00:36:54-2 @christopherzimmermann] Was genau man jetzt unter optimaler Nutzung versteht, das hat sich im Lauf der Zeit geändert.
+[00:36:58-9 @christopherzimmermann] Das ist ein Konzept im Grunde, was in den 60er Jahren entwickelt wurde.
+[00:37:03-8 @christopherzimmermann] Das nennen wieder Maximum Sustainable Yield, also maximaler nachhaltiger Dauerertrag.
+[00:37:08-0 @christopherzimmermann] Das wurde dann in den 90er Jahren nochmal umdefiniert sozusagen,
+[00:37:12-7 @christopherzimmermann] wo man gesagt hat, nein der Vorsorgeansatz, dass wir nur versuchen, Schaden von den Fischbeständen abzuwehren,
+[00:37:19-0 @christopherzimmermann] also sie so groß zu halten, dass sie nicht deswegen weniger produktiv werden,
+[00:37:24-0 @christopherzimmermann] weil es nicht mehr genügend Elterntiere gibt, das ändern wir und wir sagen,
+[00:37:27-7 @christopherzimmermann] nein wir wollen, dass die Bestände noch größer sind, damit sie auch bei schwankenden Umweltbedingungen immer möglichst den maximal nachhaltigen Dauerertrag abgeben.
+[00:37:35-0 @christopherzimmermann] Und das Ganze mündete in die Johannesburg-Konferenz 2002, der auch die Europäische Union zugestimmt hat.
+[00:37:41-9 @christopherzimmermann] Seitdem haben wir eine allgemein global gültige Bewirtschaftungsregel für marine Fischbestände,
+[00:37:48-3 @christopherzimmermann] die sich eben daran orientiert, wir beschließen als Weltgemeinschaft, wir wollen marine Fischbestände,
+[00:37:54-7 @christopherzimmermann] wilde Fischbestände nutzen, wir wollen sie auf hohem Niveau nutzen,
+[00:37:58-0 @christopherzimmermann] aber wir wollen sie nicht übernutzen, weil sie dann nicht mehr den maximalen Ertrag liefern.
+[00:38:02-6 @timpritlove] Dem sind alle Staaten beigetreten oder auf welcher Ebene ist das, eine UN-Initiative?
+[00:38:08-6 @christopherzimmermann] Genau, das ist eine UN-Regel, und im Grunde haben alle Staaten weltweit, also es gibt sicher Ausnahmen von kleinen Staaten,
+[00:38:14-8 @christopherzimmermann] aber die wesentlichen Staaten, die Fischbestände bewirtschaften, unter anderem eben die Europäische Union,
+[00:38:19-6 @christopherzimmermann] die für uns maßgeblich ist, haben dieser Regel zugestimmt.
+[00:38:22-4 @christopherzimmermann] Und es hat dennoch 15-20 Jahre gedauert, bis die dann sozusagen in europäische Gesetzgebung hart überführt wurde.
+[00:38:30-0 @christopherzimmermann] Das haben wir erst seit 2014, seit der letzten Reform der gemeinsamen Fischereipolitik,
+[00:38:36-4 @christopherzimmermann] vorher hat sich der Gesetzgeber an diesen Richtlinien orientiert, aber es war kein festgeschriebenes Gesetz.
+[00:38:42-2 @christopherzimmermann] Seit 2014 muss der Ministerrat der europäische und die Europäische Kommission diesen Regeln folgen.
+[00:38:50-1 @timpritlove] Okay. Jetzt, also das beutetet ja, wenn man diese …
+[00:38:57-2 @timpritlove] Was war, diesen Maximum Yield, diesen optimale Ausschöpfung sozusagen der Fischmasse erzeugen will,
+[00:39:06-6 @timpritlove] muss das ja auch in irgendeiner Form quantifiziert werden.
+[00:39:09-6 @timpritlove] Also man muss ja die Bestände irgendwie kennen, messen, verfolgen, über einen längeren Zeitraum mitschreiben, quantifizieren,
+[00:39:17-6 @timpritlove] und natürlich auch die Entnahme sozusagen gegenrechnen.
+[00:39:22-5 @timpritlove] Ist stelle mir vor, dass das jetzt ein relativ komplexes Netzwerk von unterschiedlichen Sensoriken ist,
+[00:39:29-2 @timpritlove] sowohl wirtschaftlichen Sensoriken als auch konkreten auf der See-Sensoriken.
+[00:39:35-9 @timpritlove] Wie muss man sich das vorstellen, wie dieser Organismus zusammenarbeitet?
+[00:39:38-6 @timpritlove] Also wie schafft es … also beschränken wir uns jetzt mal nur auf die Ostsee, nicht die ganze Welt.
+[00:39:43-3 @timpritlove] Wie arbeiten die Anrainerstaaten zusammen, welche Rolle nimmt jetzt auch dieser Council da konkret ein und Ihr Institut?
+[00:39:53-4 @timpritlove] Was für Daten müssen überhaupt erst mal erhoben werden und wo kriegt man die her?
+[00:39:56-5 @christopherzimmermann] Also es fängt an damit, dass wir wie gesagt Landbewohner sind und das Meer für uns nicht nur ein bisschen mystisch,
+[00:40:02-0 @christopherzimmermann] sondern vor allen Dingen undurchsichtig und endlos ist.
+[00:40:05-1 @christopherzimmermann] Das ist auch tatsächlich so.
+[00:40:06-9 @christopherzimmermann] Wir können viele viele Proben nehmen, wir müssen viele viele Proben nehmen, aber sie werden immer ein Tropfen im Meer sein.
+[00:40:12-5 @christopherzimmermann] Also egal, wo wir eine Probe nehmen, es kann immer an der falschen Stelle sein.
+[00:40:16-0 @christopherzimmermann] Und statistisch kriegen wir das nur raus, indem wir unfassbar viele Proben nehmen.
+[00:40:19-8 @christopherzimmermann] Aber wir können am Ende eben nicht den Stöpsel ziehen, das Wasser rauslassen, Fische zählen, Wasser wieder reinlassen.
+[00:40:25-0 @christopherzimmermann] Sondern wir sind immer auf indirekte Methoden angewiesen, die eine gewisse Unsicherheit haben.
+[00:40:29-8 @christopherzimmermann] Weil wir nicht wissen, ob wir das, was wir da gefunden haben, eine Meile daneben genauso ist oder vielleicht völlig anders ist.
+[00:40:36-0 @timpritlove] Klar.
+[00:40:36-9 @christopherzimmermann] Um das rauszukriegen betreiben wir sehr sehr viel Aufwand.
+[00:40:39-5 @christopherzimmermann] Wir nehmen im Wesentlichen Daten aus der kommerziellen Fischerei.
+[00:40:43-3 @christopherzimmermann] Also die Anlandedaten, wir beproben die Anlandung sehr ausführlich.
+[00:40:47-8 @timpritlove] Also Anlandedaten heißt, was konkret an Fisch in den Häfen angeliefert wird?
+[00:40:51-2 @christopherzimmermann] Ganz genau.
+[00:40:51-9 @timpritlove] Was gewogen wird, aufgezeichnet wird etc..
+[00:40:54-5 @christopherzimmermann] Ganz genau, dafür gibt es Fangstatistiken, die sind inzwischen sehr gut und auch sehr verlässlich bei den allermeisten Fahrzeugen
+[00:40:59-5 @christopherzimmermann] oder Metiers, bei den allermeisten Fischereien.
+[00:41:02-1 @christopherzimmermann] Die beproben wir, gucken uns genau an, in welcher Altersstruktur liegen die vor.
+[00:41:05-8 @christopherzimmermann] Also wieviele dreijährige Dorsche wurden angelandet, vierjährige, fünfjährige.
+[00:41:09-2 @christopherzimmermann] In welchem Ernährungszustand waren?
+[00:41:11-2 @christopherzimmermann] Wie war das Geschlechterverhältnis Männchen, Weibchen?
+[00:41:13-7 @christopherzimmermann] In welchem Reifezustand waren die?
+[00:41:15-8 @christopherzimmermann] Das sind alles Daten, die uns am Ende helfen, zu beurteilen, ob der Bestand in gutem oder schlechtem Zustand ist.
+[00:41:20-8 @timpritlove] Wie, das wird jetzt bei jedem Fang, der im Hafen anlandet, wird einzeln geguckt, wie alt die Fische sind?
+[00:41:27-7 @christopherzimmermann] Nein natürlich nicht.
+[00:41:28-8 @christopherzimmermann] Wir nehmen Stichproben, wie man das üblicherweise macht, wenn also, keine Ahnung, 6.000 Tonnen Dorsch hat,
+[00:41:34-7 @christopherzimmermann] dann nehmen wir übers Jahr verteilt 50 oder 60 Proben, die ungefähr 300-350 Kilo umfangen.
+[00:41:42-4 @christopherzimmermann] Die werden dann analysiert.
+[00:41:44-4 @christopherzimmermann] Das ist immer noch eine ganze Menge Fisch, was dann hier durchs Labor geht.
+[00:41:46-9 @christopherzimmermann] Und dann wird das Alter bestimmt, das ist ein ziemlich aufwendiger Prozess,…
+[00:41:51-6 @timpritlove] Man schaut sich dann jeden einzelnen Fisch an?
+[00:41:53-8 @christopherzimmermann] Da schaut man sich jeden von dieser Unterproben, 350 Kilo, schauen wir uns jeden einzelnen Fisch an.
+[00:41:58-0 @timpritlove] So manuell auf den Tisch legen, gucken was ist das?
+[00:42:00-8 @christopherzimmermann] Genau.
+[00:42:01-7 @timpritlove] Gibt es keinen Scanner, wo man die irgendwie durchjagen kann?
+[00:42:03-8 @christopherzimmermann] Leider nicht, und die tragen auch keine Geburtsurkunden mit sich rum
+[00:42:07-0 @christopherzimmermann] und sie reagieren auch nicht Befragung, wie alt sie denn sind
+[00:42:09-7 @christopherzimmermann] und deswegen machen wir uns zunutze, dass es Hartstrukturen im Körper,
+[00:42:13-9 @christopherzimmermann] diese Gehörsteinchen, Otolithen, gibt, die Ringe wie ein Baumring anlegen.
+[00:42:17-9 @christopherzimmermann] Und idealerweise jedes Jahr einen neuen.
+[00:42:20-2 @christopherzimmermann] Da gibt es dann manchmal auch Zweifel, weil die leider zum Beispiel -
+[00:42:22-9 @christopherzimmermann] jetzt wird es wieder sehr Ostsee-spezifisch – auch Ringe anlegen, wenn sie den Wasserkörper ändern.
+[00:42:27-6 @christopherzimmermann] Also wenn sie von sehr salzarmem in sehr heizhaltiges Wasser kommen,
+[00:42:31-9 @christopherzimmermann] legen die einfach einen Ring an.
+[00:42:33-0 @christopherzimmermann] Und wenn sie das viermal innerhalb eines Jahres machen, legen die vier Ringe an,
+[00:42:38-9 @christopherzimmermann] was bei uns so aussieht in der Analyse, als ob es vier Jahre wären.
+[00:42:41-8 @christopherzimmermann] Da wird es sehr komplex, das ist aber überall woanders nicht so
+[00:42:44-0 @timpritlove] Okay, aber man muss schon den Fisch so richtig sezieren, entnehmen, genau drauf gucken, etc., also viel manuelle Arbeit?
+[00:42:50-1 @christopherzimmermann] Genau, jeder einzelne Fisch wird gründlich auseinandergenommen, auch was die Reife angeht
+[00:42:54-1 @christopherzimmermann] oder die Mageninhalte, den Ernährungszustand, das müssen wir mit jedem einzelnen Fisch machen.
+[00:42:58-3 @timpritlove] Okay, aber so rein jetzt von der Größe her, vom Gewicht her, kann man da jetzt keine Schlüsse draus ziehen?
+[00:43:03-5 @christopherzimmermann] Na da kann man schon Schlüsse daraus ziehen, aber die sind nicht exakt genug.
+[00:43:06-1 @christopherzimmermann] Unsere Modelle müssen ohnehin mit so vielen Unsicherheiten arbeiten,
+[00:43:09-4 @christopherzimmermann] dass wir da, wo wir es genauer machen können, natürlich versuchen, es so genau wie möglich zu machen.
+[00:43:12-8 @timpritlove] Verstehe.
+[00:43:14-1 @christopherzimmermann] Und über die Länge, da gibt es dann halt bestimmte Orte, je weiter der nach Osten geht, desto schlechter wächst er,
+[00:43:19-0 @christopherzimmermann] weil der physiologische Stress mit weniger Salzgehalt größer ist, deswegen wächst der schlechter.
+[00:43:23-7 @christopherzimmermann] Da kann man dann einen 30 cm langen Dorsch haben, der vielleicht drei Jahre alt ist,
+[00:43:28-0 @christopherzimmermann] während ein 30 cm langer Dorsch in der westlichen Ostsee wahrscheinlich ein zweijähriger ist.
+[00:43:32-3 @christopherzimmermann] Und diese Unsicherheit versuchen wir zu beseitigen, indem wir möglichst genau gucken, wie alt die sind.
+[00:43:38-4 @christopherzimmermann] Das ist die Beprobung der Anlandung, die so über den Daumen vielleicht 80%
+[00:43:43-0 @christopherzimmermann] oder der kommerziellen Fischerei, die ungefähr 80% unserer Daten ausmacht.
+[00:43:46-5 @christopherzimmermann] Wir schicken auch Beprober mit auf die Fahrzeuge, denn manchmal landet was über Bord, was wir auch gerne wissen wollen und so weiter.
+[00:43:53-2 @christopherzimmermann] Das machen dann die Beobachter an Bord.
+[00:43:55-8 @christopherzimmermann] Nun führt der Fischer ja ein kommerzielles Unternehmen, der will Geld verdienen,
+[00:44:00-3 @christopherzimmermann] und fischt deswegen da, wo er besonders hohe Dichten von Fisch hat,
+[00:44:03-5 @christopherzimmermann] um mit möglichst wenig Aufwand von Produktionsmitteln möglichst viel Fisch zu fangen.
+[00:44:08-1 @christopherzimmermann] Uns interessiert aber natürlich auch, wie sieht es woanders aus, wo der Fischer nicht hinkommt?
+[00:44:12-8 @christopherzimmermann] Wir wollen also gerne wissen, wie weit ist der ganze Bestand verbreitet
+[00:44:15-8 @christopherzimmermann] und in welchem Zustand ist er woanders als da, wo es diese befischbaren Konzentrationen gibt?
+[00:44:22-9 @christopherzimmermann] Wir wollen außerdem wissen, wieviel Nachwuchs kommt nach?
+[00:44:24-5 @christopherzimmermann] Denn gerade bei sehr intensiv genutzten Fischbeständen spielt die Anzahl der Jungtiere die entscheidende Rolle für die Vorhersage der Fangmöglichkeiten im nächsten Jahr.
+[00:44:34-7 @timpritlove] Sind denn diese Orte, wo jetzt viele Fische sind, konstant oder ändern die sich nicht auch?
+[00:44:40-8 @christopherzimmermann] Die ändern sich leider dauernd, deswegen muss man im Grunde das gesamte Gebiet abdecken.
+[00:44:43-9 @christopherzimmermann] Und die ändern sich zum Teil regelmäßig.
+[00:44:47-9 @christopherzimmermann] Also wir wissen, zu einer bestimmten Jahreszeit sitzen in aller Regel die großen Fische hier,
+[00:44:52-6 @christopherzimmermann] die großen Dorsche sitzen im ersten Quartal in den tiefen Becken der Ostsee, weil sie sich da zum Laichen vorbereiten oder zum Laichen versammeln.
+[00:44:59-9 @christopherzimmermann] Die jungen Tieren sitzen eher im Flachwasser, um den großen Tieren zu entgehen,
+[00:45:03-0 @christopherzimmermann] weil die großen Tiere die jungen Tiere sonst fressen würden, das macht also ökologische natürlich irgendwie Sinn, dass die sich aus dem Weg gehen.
+[00:45:10-1 @christopherzimmermann] Aber es gibt völlig unterschiedliche Fressplätze, zu verschiedenen Zeiten im Jahr sitzen die an unterschiedlichen Stellen.
+[00:45:16-6 @christopherzimmermann] Die fressen an unterschiedlichen Stellen, wo sie Laichen sind wieder andere Plätze und so weiter.
+[00:45:20-8 @christopherzimmermann] Das muss man also wissen, bevor man rausfährt und einfach mal irgendwie ein Netz reinhält und sagt,
+[00:45:25-9 @christopherzimmermann] Mensch alles voll mit Fisch, das funktioniert nicht so gut.
+[00:45:28-5 @christopherzimmermann] Und das versuchen wir mit den Forschungsschiffen, dafür brauchen wir diese hochspezialisierten Forschungsschiffe,
+[00:45:33-0 @christopherzimmermann] die dann jedes von den dreien 260-270 Tage im Jahr auf See sind.
+[00:45:38-1 @christopherzimmermann] Und mit denen machen wir genau das, wir fangen Jungtiere, die ein Fischer in der Regel vermeiden möchte,
+[00:45:42-7 @christopherzimmermann] einfach weil sie nicht gutes Geld bringen und einfach auch zu wenig sind sozusagen.
+[00:45:46-8 @christopherzimmermann] Das wollen wir aber wissen, wieviele Jungtiere gibt es?
+[00:45:50-0 @christopherzimmermann] Wir wollen die Umweltbedingungen mit erfassen, die den Fischer in der Regel erst mal nicht interessieren.
+[00:45:53-7 @christopherzimmermann] Entweder er kennt sie aus alter Erfahrung, aber der fängt jetzt nicht an,
+[00:45:56-7 @christopherzimmermann] Wassertemperatur und Salzgehalt und Sauerstoffgehalt zu messen, das machen wir dann.
+[00:46:01-7 @christopherzimmermann] Und wir wollen eben auch in den Gebieten fischen und wissen, was da los ist, in denen ein Fischer nicht fischt,
+[00:46:06-1 @christopherzimmermann] weil der von Vornherein davon ausgeht, da habe ich noch nie was gefangen, da ist auch weiter nichts.
+[00:46:09-9 @christopherzimmermann] Auch das müssen wir immer verifizieren.
+[00:46:11-9 @christopherzimmermann] Und dafür haben wir unsere eigenen Forschungsschiffe.
+[00:46:14-7 @christopherzimmermann] Diese Daten, die sogenannten Fischereiabhängigen, also die aus der kommerziellen Fischerei,
+[00:46:19-8 @christopherzimmermann] und die fischereiunabhängigen Daten, die wir selber erhoben haben, führen wir dann zusammen
+[00:46:24-9 @christopherzimmermann] und stecken sie in ein Modell, ein mathematisches Modell, was aus dem Ist-Zustand rückrechnet,
+[00:46:31-7 @christopherzimmermann] in welchem Zustand die Fische vor einem Jahr, vor zwei Jahren, vor drei Jahren gewesen sein müssen.
+[00:46:37-5 @christopherzimmermann] Das nennen wir die Rückschau, das ist also was, was längst vergangen ist.
+[00:46:40-2 @christopherzimmermann] Wir versuchen nur zu analysieren, wieviel Fisch gab es am 31.12. des letzten Jahres?
+[00:46:45-3 @christopherzimmermann] Und wenn das alles gut klappt und die Daten aus der kommerziellen Fischerei und der Forschungsfischerei gut übereinstimmen
+[00:46:50-9 @christopherzimmermann] und keine großen Fehler angezeigt werden oder große Unsicherheiten,
+[00:46:55-3 @christopherzimmermann] dann drehen wir uns um und machen das, was die Meteorologen auch machen,
+[00:46:59-6 @christopherzimmermann] wir versuchen eine Vorhersage zu rechnen.
+[00:47:02-1 @christopherzimmermann] Und anders als die Meteorologen, die relativ kurze Vorhersagezeiträume haben,
+[00:47:06-7 @christopherzimmermann] also anhand der Wetterdaten, die sie in den letzten zwei Monaten genommen haben, jetzt vorhersagen sollen, wie das Wetter morgen und übermorgen ist
+[00:47:13-0 @christopherzimmermann] und dann so ab nächste Woche wird es schon sehr unsicher, da geht diese Schere in der Tagesschau schon sehr weit auseinander
+[00:47:18-7 @christopherzimmermann] und man könnte irgendeine Temperatur zwischen 10 und 35 Grad haben, das ist dann ziemlich sinnlos.
+[00:47:23-7 @christopherzimmermann] Das ist bei uns ganz ähnlich, nur unsere Vorhersagezeiträume sind viel länger.
+[00:47:28-5 @christopherzimmermann] Denn wir treffen uns im Jahr 2018, um die Bestandsberechnung durchzuführen,
+[00:47:32-0 @christopherzimmermann] aber für 2018 sind die Quoten ja schon festgesetzt, die Fangmengen ja schon begrenzt.
+[00:47:37-8 @christopherzimmermann] Das heißt, die Politik will jetzt von uns wissen, wie viel man 2019 fangen kann.
+[00:47:41-3 @christopherzimmermann] Dazu kommt, dass wir gar nicht genau wissen, was denn am 01.01.2018 los war.
+[00:47:48-0 @christopherzimmermann] Der Meteorologe kann nach oben gucken oder seine vielen Wetterdatenschreiber auswerten,
+[00:47:53-9 @christopherzimmermann] wir müssen im Gruden das berechnen und Schlüsse ziehen darauf, in welchem Zustand dieser Fischbestand war.
+[00:47:59-8 @christopherzimmermann] Und um das noch schlimmer zu machen haben wir ein Jahr, nämlich das Zwischenjahr,
+[00:48:03-4 @christopherzimmermann] dieses Jahr 2018, in dem zwar gefischt wird, was aber noch nicht vorbei ist.
+[00:48:07-5 @christopherzimmermann] so dass wir gar nicht wissen, was in dem Jahr passiert.
+[00:48:10-6 @christopherzimmermann] Und natürlich hat das aktuelle Jahr den größten Einfluss auf den Zustand der Fischbestände.
+[00:48:14-9 @christopherzimmermann] Wir machen da das, was alle Forscher im Grunde machen, wenn man keine Daten hat tut man so,
+[00:48:19-3 @christopherzimmermann] als wenn alles stabil weiterginge.
+[00:48:20-9 @christopherzimmermann] Wenn es einen Trend gibt, dann setzen wir den Trend fort.
+[00:48:23-8 @christopherzimmermann] Wenn es keinen Trend gibt, dann sagen wir, es ist alles genau wie in den fünf Jahren zuvor.
+[00:48:27-2 @christopherzimmermann] Aber es gibt keinerlei Garantie dafür, dass das so ist.
+[00:48:30-0 @christopherzimmermann] Und ein sehr prominentes Beispiel ist der Regierungswechsel in Polen 2006/07,
+[00:48:35-8 @christopherzimmermann] damals als die Kaczynski-Regierung durch die Tusk-Regierung abgelöst wurde,
+[00:48:40-1 @christopherzimmermann] bis dahin hat die polnische Fischerei, das haben die selber so angegeben,
+[00:48:43-2 @christopherzimmermann] ungefähr das doppelte dessen an Dorsch gefischt, was sie durften.
+[00:48:47-5 @christopherzimmermann] Waren damals gerade der Europäischen Union beigetreten, da hat man die Augen zugedrückt,
+[00:48:50-6 @christopherzimmermann] aber wir wussten im Grunde alle, da wird viel mehr Dorsch entnommen als zugelassen.
+[00:48:55-7 @christopherzimmermann] Und das haben wir fortgeschrieben für das Zwischenjahr 2007 mit der neuen Regierung,
+[00:49:00-5 @christopherzimmermann] die gesagt hat, wir sind Europäer, wir halten uns selbstverständlich auch an die europäischen Regeln,
+[00:49:05-5 @christopherzimmermann] wurde diese illegale Überfischung von einem Jahr aufs andere beendet
+[00:49:09-7 @christopherzimmermann] und die polnische Regierung hat sogar mit der EU über Rückzahlungsmodalitäten verhandelt.
+[00:49:14-0 @christopherzimmermann] Also wie können wir den Schaden, den wir angerichtet haben, tatsächlich auch wieder zurückbezahlen?
+[00:49:18-1 @christopherzimmermann] Das war für uns Meeresbiologen…
+[00:49:20-5 @timpritlove] Unerwartet.
+[00:49:21-3 @christopherzimmermann] … erst mal unerwartet.
+[00:49:22-6 @christopherzimmermann] Und wenn man in einem Jahr viel mehr fischt, 30-40% mehr Fisch im Wasser lässt als wir das vorhergesagt haben,
+[00:49:29-8 @christopherzimmermann] dann kann sich so ein Bestand natürlich auch sehr schnell erholen.
+[00:49:33-1 @christopherzimmermann] Von daher rührt dieser Zwist, dass die Fischerei gesagt hat, ihr habt über Jahre gesagt,
+[00:49:37-3 @christopherzimmermann] der Bestand kann sich nicht erholen und nun erholt er sich doch, was seid denn ihr für Vorhersager?
+[00:49:41-9 @christopherzimmermann] Und wir sagen dann immer, naja wir haben immer gesagt, der Bestand wird sich nicht mit großer Sicherheit erholen, wenn es so weitergeht,
+[00:49:49-6 @christopherzimmermann] aber wenn irgendein wesentlicher Faktor geändert wird, wie, man fischt 30% weniger,
+[00:49:55-1 @christopherzimmermann] weil man die illegale Überfischung von 40% auf 2% reduziert durch einen Regierungswechsel in Polen,
+[00:50:01-8 @christopherzimmermann] dann hat das natürlich sehr positive Auswirkungen auf die Fischbestände.
+[00:50:05-4 @christopherzimmermann] Also stellen Sie sich vor, von uns wird verlangt, was von einem Meteorologen verlangt würde,
+[00:50:10-9 @christopherzimmermann] wenn man dem sagt, ich gebe dir Daten aus den letzten 2-3 Monaten, aber mit einer großen Unschärfe
+[00:50:16-0 @christopherzimmermann] und ich verbinde dir für die letzte Woche die Augen, aber du musst trotzdem sicher sagen,
+[00:50:20-2 @christopherzimmermann] wie nächstes Jahr das Wetter an Weihnachten wird.
+[00:50:24-3 @christopherzimmermann] Das ist fast unmöglich.
+[00:50:26-3 @christopherzimmermann] Und man kann da schon was machen, aber man muss immer wieder sagen,
+[00:50:29-9 @christopherzimmermann] die Unsicherheiten sind erheblich.
+[00:50:31-5 @christopherzimmermann] Unser Metier ist eine sehr unsichere Art der Forschung, es ist halt keine Physik, die exakt ist,
+[00:50:38-6 @christopherzimmermann] sondern es ist Biologie, es ist mit großen Unsicherheiten behaftet, die muss man kommunizieren.
+[00:50:43-9 @christopherzimmermann] Wir bemühen uns, das zu kommunizieren.
+[00:50:45-9 @christopherzimmermann] Ein gutes Management nimmt das auf und versteht, dass da eine gewisse Unsicherheit drin ist.
+[00:50:50-7 @christopherzimmermann] Das kann man uns im Ernst nicht vorwerfen, wir tun was wir können, um es präziser zu machen,
+[00:50:54-8 @christopherzimmermann] aber es wird immer unsicher bleiben.
+[00:50:57-1 @christopherzimmermann] Und wenn wir so in die Größenordnung 10-15% Unsicherheit kommen, dann ist das schon relativ gut.
+[00:51:02-6 @timpritlove] Im Prinzip ist das ja so gelebte Chaostheorie.
+[00:51:05-6 @timpritlove] Da kommen einfach viele Faktoren rein, die sich gar nicht so genau festlegen lassen.
+[00:51:10-8 @timpritlove] Dazu kommt dann sicherlich auch noch so der Einfluss es Klimawandels.
+[00:51:14-8 @timpritlove] Trotz alledem denke ich mir, müsste ja dann eigentlich über die Jahre sich bestimmte Verfahren dann auch bewährt haben
+[00:51:21-6 @timpritlove] oder weniger bewährt haben, so dass diese Modelle auch laufend angepasst werden?
+[00:51:25-7 @christopherzimmermann] Ganz genau, das passiert immer wieder.
+[00:51:27-7 @christopherzimmermann] Wir haben inzwischen regelmäßige Zyklen, alle 3-5 Jahre überprüfen wir unsere Modelle,
+[00:51:31-8 @christopherzimmermann] stellen alles auf den Prüfstand, alle Eingangsdaten in die Berechnung, das Berechnungsmodell selber,
+[00:51:37-0 @christopherzimmermann] die Settings, also die Stellschrauben, die wir in diesen Modellen natürlich immer haben
+[00:51:41-3 @christopherzimmermann] und fangen im Grunde nochmal von vorne an, immer in der Hoffnung, dass wir was verbessern.
+[00:51:46-0 @christopherzimmermann] Das bedeutet leider für die Fischerei und die Politik, dass es alle 3-5 Jahre auch zu erheblichen Änderungen in unserer Wahrnehmung eines Bestandes kommen kann.
+[00:51:54-4 @christopherzimmermann] Einfach nur, weil unsere Modelle sich ändern.
+[00:51:56-6 @christopherzimmermann] Und das ist wieder wahnsinnig schwer zu kommunizieren.
+[00:51:59-1 @christopherzimmermann] Also man kann inzwischen vergleichsweise leicht, wir können vergleichsweise leicht kommunizieren,
+[00:52:04-2 @christopherzimmermann] hier hat, wie beim westlichen Dorsch, beim Dorsch der westlichen Ostsee,
+[00:52:07-4 @christopherzimmermann] über Jahre eine Überfischung stattgefunden, das wissen wir auch seit 8-10 Jahren,
+[00:52:12-1 @christopherzimmermann] seit 7 Jahren empfehlen wir dringend, die Fangmengen deutlich stärker zu senken als sie gesenkt wurden.
+[00:52:17-3 @christopherzimmermann] Da gibt es viele Gründe, warum das nicht gemacht wurde, das ist auch alles verständlich, aber am Ende ist der Bestand kollabiert.
+[00:52:22-3 @christopherzimmermann] Das kann man ableiten.
+[00:52:23-4 @christopherzimmermann] Viel schwieriger ist es zu sagen, der Heringsbestand der westlichen Ostsee, dem geht es zurzeit gar nicht gut,
+[00:52:28-9 @christopherzimmermann] wir haben aber noch vorletztes Jahr gedacht, dass es ihm gut ginge und wir haben das Modell geändert,
+[00:52:33-1 @christopherzimmermann] wir haben die Stellschrauben geändert und sind jetzt der Ansicht, es geht ihm nicht gut.
+[00:52:37-0 @christopherzimmermann] Da ist kein einziger Fisch mehr gefangen worden, letztlich ist es nur unsere Wahrnehmung des Bestandes.
+[00:52:41-9 @christopherzimmermann] Und das an den Mann zu bringen, der Fischerei und der Politik zu erklären, ist deutlich schwieriger.
+[00:52:47-7 @timpritlove] Kann ich mir vorstellen, das hat so ein bisschen was von Weissagung.
+[00:52:52-2 @christopherzimmermann] Genau, und wir bemühen uns halt, nicht dieses Weißkittel oder Papstwahl und Rauch kommt raus
+[00:52:59-3 @christopherzimmermann] und entweder ihr nehmt das, weil es sind die besten Daten, die ihr kriegen könnt oder ihr lasst es bleiben, aber wir erklären es nicht,
+[00:53:04-2 @christopherzimmermann] sondern wir versuchen, es so transparent wie möglich zu machen.
+[00:53:06-7 @christopherzimmermann] Wir beteiligen die Fischerei immer wieder, gerade bei diesen fundamentalen Änderungen.
+[00:53:10-9 @christopherzimmermann] Wir laden sie immer wieder ein, eigene Daten mitzubringen, die wir dann gemeinsam mit ihnen analysieren und das funktioniert auch gut.
+[00:53:18-3 @christopherzimmermann] Und wenn es erst mal nur ist, dass die Fischerei Verständnis entwickelt für die Schwierigkeiten, die wir haben,
+[00:53:23-3 @christopherzimmermann] zu einer möglichst exakten Aussage über den Fischbestand zu kommen.
+[00:53:27-0 @christopherzimmermann] Idealerweise sieht die Fischerei und auch die Politik dann auch ein, wofür das alles nützlich ist.
+[00:53:32-4 @christopherzimmermann] Warum wir so was brauchen und warum der Verweis auf die Unsicherheit unserer Ergebnisse am Ende nicht dazu dienen kann,
+[00:53:39-3 @christopherzimmermann] die Fischereiforschung insgesamt zu diskreditieren und dann zu sagen, das brauchen wir eigentlich alles nicht.
+[00:53:43-9 @christopherzimmermann] Wenn ihr 20-30% Unsicherheit habt, dann brauchen wir es nicht.
+[00:53:46-8 @christopherzimmermann] Doch wir brauchen es trotzdem, weil die andere Option ist, es gar nicht zu managen
+[00:53:52-3 @christopherzimmermann] und dann wie gesagt kann man langfristig nur ungefähr 10-15% der Ressource nutzen.
+[00:53:57-1 @timpritlove] Ich meine, hier kann man ja wirklich mal betonen, dass hier alle im selben Boot sitzen.
+[00:54:00-5 @timpritlove] Diesmal passt der Begriff dann auch wirklich richtig gut.
+[00:54:05-2 @timpritlove] Ich könnte mir vorstellen, dass, wie in so vielen Bereichen, hier auch technologisch sich einiges dreht?
+[00:54:11-7 @timpritlove] Also andere Messmethoden, generelle andere Ansätze.
+[00:54:17-4 @timpritlove] Ich frage mich gerade, ob hier auch es in irgendeiner Form Unterstützung aus dem All geben kann, durch genauere Erdbeobachtung.
+[00:54:26-6 @timpritlove] Meeresströme werden ja sehr viel genauer analysiert, Temperaturmessung, andere Aspekte, Algenbildung.
+[00:54:32-7 @timpritlove] Das sind ja alles Dinge, die mittlerweile auch aus dem Weltall ganz gut beobachtet werden kann.
+[00:54:36-6 @timpritlove] Gibt es da auch schon Berührungspunkte mit der ESA zum Beispiel hier, um neue Erkenntnisse zu gewinnen?
+[00:54:42-8 @christopherzimmermann] Klar die gibt es, was immer wir an Daten bekommen können, sammeln wir natürlich.
+[00:54:46-4 @christopherzimmermann] Also wir sammeln nicht nur immer friedlich vor uns hin und haben Scheuklappen, was alle anderen Disziplinen angeht,
+[00:54:51-0 @christopherzimmermann] sondern wo immer Daten, die für uns relevant sein könnten, gesammelt werden, gucken wir uns das auch an.
+[00:54:56-7 @christopherzimmermann] Das große Problem bei der Satelliten-, also bei der Fernerkundung, ist im Grunde,
+[00:55:00-0 @christopherzimmermann] dass die Eindringtiefe zu flach ist.
+[00:55:02-8 @christopherzimmermann] Alles, was wir aus den Satelliten sehen, sind Oberflächendaten.
+[00:55:05-9 @christopherzimmermann] In sehr sehr günstigen Fällen, also ganz klares Wasser zum Beispiel, ist die Eindringtiefe vielleicht 30 Meter oder so was.
+[00:55:12-2 @christopherzimmermann] Aber wenn man sich vorstellt, dass die Ostsee alleine, also das Bornholm-Becken,
+[00:55:17-7 @christopherzimmermann] wo die meisten Dorsche rumschwimmen, ist so 60-80 Meter tief, im offenen Ozean ist das alles noch viel tiefer,
+[00:55:23-3 @christopherzimmermann] der Wasserkörper darunter ist für die Fischerei eigentlich der spannend,
+[00:55:26-7 @christopherzimmermann] und an der Oberfläche gibt es so einzelne Bestände, Makrelen zum Beispiel, die in der Nähe der Oberfläche wohnen,
+[00:55:32-5 @christopherzimmermann] aber insgesamt …
+[00:55:34-5 @timpritlove] Na gut, ich bin jetzt nicht davon ausgegangen, dass man mit dem Satelliten die Fische zählen kann,
+[00:55:37-3 @timpritlove] aber sozusagen weitere Parameter in die Gesamtrechnung mit einfließen zu lassen.
+[00:55:42-8 @christopherzimmermann] Genau, aber auch da habe ich dann die Oberflächentemperatur.
+[00:55:46-3 @christopherzimmermann] Mich interessiert aber die Insitu-Temperatur, also die Temperatur auf der Fangtiefe, da wo die Fische leben.
+[00:55:53-2 @christopherzimmermann] Und da gibt die Oberflächentemperatur einen guten Hinweis oder, was weiß ich,
+[00:55:55-4 @christopherzimmermann] die Entwicklung von Blaualgenblüten, die dann toxisch sein können, das kann man an der Oberfläche sehen
+[00:55:59-9 @christopherzimmermann] und das hat natürlich eine Auswirkung auch auf den Wasserkörper darunter,
+[00:56:03-3 @christopherzimmermann] aber letztlich kann ich dann nur mutmaßen, wie genau die Temperatur am Meeresboden war, wo die meisten Fische dann leben.
+[00:56:09-8 @timpritlove] Was sind denn andere Ansätze zur neuen Datenerhebung?
+[00:56:13-1 @timpritlove] Also gibt es Technologien, die jetzt einen größeren Impact haben?
+[00:56:17-1 @christopherzimmermann] Die gibt es, also wenn wir mal 20-30 Jahre in die Zukunft gucken, dann stellen wir fest,
+[00:56:20-8 @christopherzimmermann] dass diese Fahrzeuge, die Schiffe, die Forschungsschiffe, die wir benutzen, extrem teuer sind,
+[00:56:25-5 @christopherzimmermann] wir brauchen die wie gesagt als Plattform, aber das größte Schiff, was wir gerade ersetzen,
+[00:56:30-3 @christopherzimmermann] die Walter-Herwig, sozusagen der Stolz unserer Forschungsflotte kommt jetzt in die Jahre,
+[00:56:35-5 @christopherzimmermann] wird demnächst 30 Jahre alt und wird dann ausgemustert und durch einen Neubau ersetzt.
+[00:56:38-7 @christopherzimmermann] Und dieser Neubau kostet tatsächlich zwischen 80 und 100 Millionen Euro.
+[00:56:44-6 @christopherzimmermann] Da kann man, mein Institut hier hat 6 Millionen Euro gekostet.
+[00:56:48-3 @christopherzimmermann] Wenn man das vergleicht und die Lebensdauer des Instituts ist mit Sicherheit länger als die eines Forschungsschiffes,
+[00:56:53-3 @christopherzimmermann] was vielleicht so 30-35 Jahre alt wird.
+[00:56:55-8 @christopherzimmermann] Das bemühen wir uns vor allen Dingen kosteneffizienter zu machen.
+[00:56:58-9 @christopherzimmermann] Personal ist sehr teuer, gut ausgebildetes Personal ist sehr teuer.
+[00:57:01-9 @christopherzimmermann] Und da kann man mit ferngesteuerten oder sogar teilautonomen Vehikeln oder Wasservehikeln sicher einiges machen.
+[00:57:10-0 @christopherzimmermann] Also eine Vorstellung ist, dass wir unsere Akustik-Serways, wo wir versuchen,
+[00:57:14-1 @christopherzimmermann] mit Schallwellen kleine Schwarmfische aufzuspüren, weil die Beprobungsdichte muss sehr groß sein,
+[00:57:19-2 @christopherzimmermann] weil die sich in Schwärmen ballen und wenn man einen Schwarm verpasst,
+[00:57:22-4 @christopherzimmermann] dann denkt man, das Meer wäre leer, dabei war der Schwarm direkt daneben.
+[00:57:25-4 @christopherzimmermann] Wenn man einen Schwarm erwischt, denkt man, man könnte trockenen Fußes nach Schweden laufen,
+[00:57:28-7 @christopherzimmermann] dabei war das nur eine Momentaufnahme.
+[00:57:31-4 @christopherzimmermann] Das heißt, wir müssen da eine sehr große Beprobungsdichte haben und das kann man mit Schiffen nur gemeinsam machen.
+[00:57:37-9 @christopherzimmermann] So machen wir es bisher und sehr aufwendig machen über viele Wochen.
+[00:57:41-9 @christopherzimmermann] Man könnte sich aber vorstellen, dass dieses Schiff einfach als Basis für eine Flotte von Unterwasserrobotern dient,
+[00:57:48-3 @christopherzimmermann] von Unterwasserdrohnen sozusagen, die dann genau diese akustischen Messungen entweder in einem viel größeren Bereich gleichzeitig
+[00:57:55-9 @christopherzimmermann] oder mit viel höherer Auflösung betreiben und dann abends wieder auf das Forschungsschiff zurückkommen, aufgeladen werden,
+[00:58:01-3 @christopherzimmermann] die Daten werden runtergesogen sozusagen, gleich verarbeitet, ich denke da geht es hin.
+[00:58:07-2 @christopherzimmermann] Da gibt es die ersten Vorstellungen dazu, da gibt es die ersten fast anwendbaren Geräte,
+[00:58:14-0 @christopherzimmermann] die sind alle im Moment noch so teuer, dass sich das kaum jemand leisten kann,
+[00:58:16-5 @christopherzimmermann] aber früher oder später wird das so sein.
+[00:58:18-1 @timpritlove] Da tut sich ja gerade eine Menge.
+[00:58:19-9 @timpritlove] Und vor allem, die können sich ja im Prinzip auch selber aufladen, also ich habe auch schon verschiedene Beispiel von so Hochseedrohnen gesehen,
+[00:58:25-8 @christopherzimmermann] die halt Strömungen etc., Meerestemperatur messen, die im Prinzip autark sind.
+[00:58:30-3 @timpritlove] Also die einfach aufsteigen, so lange an der Sonne bleiben, bis sie ihre Akkus wieder geladen haben,
+[00:58:36-7 @timpritlove] sich dann absenken, ihre Messungen machen etc..
+[00:58:39-4 @timpritlove] Also das ist sozusagen ein Trend, der jetzt absehbar ist.
+[00:58:43-0 @timpritlove] Das klingt ja eigentlich recht verheißungsvoll.
+[00:58:45-5 @timpritlove] Das könnte ja bedeuten, dass dieses Problem der Auflösung oder eben auch der Frequenz oder eben beides
+[00:58:51-2 @timpritlove] signifikant sich ändern könnte.
+[00:58:54-3 @christopherzimmermann] Ja, es wird scher präziser, wie im Grunde seit 100 Jahren, seitdem wir das mit unseren internationalen Partnern betreiben.
+[00:59:01-6 @christopherzimmermann] Da war am Anfang der Schwerpunkt darauf, die Methoden zu harmonisieren, damit wir wirklich alle das gleiche machen.
+[00:59:06-1 @christopherzimmermann] Und das tun wir.
+[00:59:07-6 @christopherzimmermann] Jetzt ist der Schwerpunkt auf der technologischen Weiterentwicklung.
+[00:59:10-3 @christopherzimmermann] Dennoch werden wir auch durch Unterwasserdrohnen am Ende nicht wissen,
+[00:59:13-3 @christopherzimmermann] in welchem Ernährungszustand dieser oder jener Dorschbestand war.
+[00:59:16-5 @christopherzimmermann] Also auch dafür werden wir die Fische einfach weiter anfassen müssen.
+[00:59:19-3 @timpritlove] Ja klar.
+[00:59:20-5 @christopherzimmermann] Und um die anzufassen, müssen wir sie vorher fangen und das werden Drohnen erst mal nicht für uns tun.
+[00:59:24-4 @timpritlove] Wer weiß?
+[00:59:26-0 @christopherzimmermann] Wer weiß, also es bleibt dabei, wir werden solche Forschungsplattformen brauchen,
+[00:59:30-6 @christopherzimmermann] aber wir werden sie wahrscheinlicher viel sinnvoller und viel kostengünstiger einsetzen können.
+[00:59:34-5 @christopherzimmermann] Und können dann mehr Programme zur gleichen Zeit als wir es zurzeit können.
+[00:59:38-1 @christopherzimmermann] Das ist sozusagen die Forschungsseite, die Datenerhebungsseite aus der Forschung.
+[00:59:43-8 @christopherzimmermann] Es gibt aber natürlich auch die Datenerhebungsseite aus der kommerziellen Fischerei.
+[00:59:48-6 @christopherzimmermann] Und ich hatte schon gesagt, 80% der Daten kommen aus der kommerziellen Fischerei,
+[00:59:51-4 @christopherzimmermann] und da wissen wir von den großen Fahrzeugen sehr sehr gut Bescheid,
+[00:59:54-5 @christopherzimmermann] weil wir da Beobachter an Bord haben oder die lückenlos mit Satelliten überwacht werden,
+[00:59:58-6 @christopherzimmermann] wir wissen aber von den kleinen Fahrzeugen, also diesen Booten zwischen 5 und 8 Metern, sagen wir mal,
+[01:00:03-8 @christopherzimmermann] und aus der Nebenerwerbsfischerei und so weiter, da wissen wir tatsächlich relativ wenig.
+[01:00:07-6 @christopherzimmermann] Die meisten Fahrzeuge sind zu klein, um Beobachter mitnehmen zu können,
+[01:00:10-9 @christopherzimmermann] da können wir also nur nebenherfahren.
+[01:00:14-9 @christopherzimmermann] Das reicht aber nicht, weil wir keine flächendeckende Abdeckung hinbekommen.
+[01:00:18-6 @christopherzimmermann] Und auch da sitzen wir dran und haben im letzten Jahr eine Smartphone-Application entwickelt,
+[01:00:23-5 @christopherzimmermann] um die Fischer in die Lage zu versetzen, ihre genauen Fangpositionen anzugeben.
+[01:00:29-8 @christopherzimmermann] Und das so einfach wie möglich, wir wollen die ja nicht irgendwie knechten,
+[01:00:32-6 @christopherzimmermann] und natürlich beschweren die sich zurecht, dass es auf einem schaukelnden Boot,
+[01:00:35-9 @christopherzimmermann] wenn es nass ist und 1 Grad kalt oder so was, dann ist es schon schwierig, ein Smartphone zu bedienen.
+[01:00:41-2 @christopherzimmermann] Auch da arbeiten wir dran, dass man irgendwelche Bluetoothknöpfe hat, auf die man nur drauf haut,
+[01:00:46-1 @christopherzimmermann] die man irgendwo ans Ruderhaus klebt und dann haut man drauf und dann spielt sich das automatisch durch das Menü durch
+[01:00:51-0 @christopherzimmermann] und sagt halt, einmal drauf hauen ist Netz setzen, zweimal draufhauen ist Ende Netz setzen oder irgendwie so was.
+[01:00:57-9 @christopherzimmermann] Am Ende wird es in den nächsten paar Jahren technische Entwicklungen geben,
+[01:01:01-1 @christopherzimmermann] die uns ermöglichen, auch die Daten aus der kommerziellen Fischerei viel verlässlicher zu erheben
+[01:01:06-0 @christopherzimmermann] und das eben möglichst flächendeckend.
+[01:01:08-7 @christopherzimmermann] Nicht nur zum Wohle unserer Bestandsberechnung, was am Ende auch zum Wohle der Fischerei ist,
+[01:01:12-6 @christopherzimmermann] weil unsere Daten verlässlicher werden, sondern auch direkt zum Wohl der Fischerei,
+[01:01:17-0 @christopherzimmermann] weil wir am Ende die Fischerei nachhaltiger gestalten können.
+[01:01:20-8 @christopherzimmermann] Wenn wir also wissen, in der kleinen Stellnetzfischerei gibt es Probleme mit Seevogelbeifängen,
+[01:01:25-0 @christopherzimmermann] dann können wir versuchen, durch bessere Daten genau rauszukriegen,
+[01:01:28-0 @christopherzimmermann] wo ist denn die Überlappung, das Risiko am größten.
+[01:01:30-5 @christopherzimmermann] Und statt dann zu sagen, wie es einige Umweltverbände fordern, die Stellnetzfischerei sollte aus der Ostsee ganz ausgeschlossen werden,
+[01:01:36-6 @christopherzimmermann] weil wir es nicht akzeptabel finden, dass da so viele Enten oder meinetwegen auch Schweinswale oder so was drin landen,
+[01:01:42-5 @christopherzimmermann] könnte man das viel genauer fassen und sagen, zu dieser Zeit solltet ihr dort nicht fischen
+[01:01:46-1 @christopherzimmermann] oder eine alternative Fangtechnik verwenden, aber zu anderen Zeiten ist es gar nicht gefährlich,
+[01:01:50-9 @christopherzimmermann] weil da so gut wie keine Enten in euren Netzen landen.
+[01:01:54-2 @christopherzimmermann] Um das bestimmen zu können, brauchen wir viel mehr und viel besser Daten,
+[01:01:58-0 @christopherzimmermann] und die versuchen wir zu erheben.
+[01:01:59-9 @christopherzimmermann] Da kommt uns übrigens die aktuelle Datenschutzrichtlinie, die europäische, in die Quere,
+[01:02:05-0 @christopherzimmermann] weil auch das natürlich im Grunde personenbezogene Daten sind, die nicht für wissenschaftliche Zwecke,
+[01:02:09-5 @christopherzimmermann] sondern höchstens für Kontrollzwecke erhoben werden und wir haben große Probleme,
+[01:02:13-0 @christopherzimmermann] an diese Daten ranzukommen.
+[01:02:15-0 @christopherzimmermann] Also eigentlich müssen wir jeden einzelnen Fischer fragen, ob der damit einverstanden wäre, dass wir die Daten nutzen.
+[01:02:19-9 @timpritlove] Ja gut, aber das ist ja dann auch eine einmalige Geschichte oder?
+[01:02:22-9 @christopherzimmermann] Die Frage bei der Fischerei?
+[01:02:25-4 @christopherzimmermann] Na wir finden erst mal kaum Fischer, die sagen, jaja macht mal,
+[01:02:28-0 @christopherzimmermann] die einsehen, dass es zu ihrem Wohl ist unmittelbar.
+[01:02:32-5 @christopherzimmermann] Das ist also eine heiße Diskussion.
+[01:02:34-8 @christopherzimmermann] Und dann kommt die Bundesdatenschutzbeauftragte und sagt, nein nein,
+[01:02:37-5 @christopherzimmermann] Daten, die für Kontrollzwecke erhoben sind, können Sie leider nicht für wissenschaftliche Zwecke verwenden.
+[01:02:42-0 @christopherzimmermann] Andererseits möchte unser auftragegebendes Ministerium für die Ausweisung von Schutzgebieten
+[01:02:46-9 @christopherzimmermann] oder für die Datenlieferung an die Helsinki-Konvention oder so was halt genau wissen,
+[01:02:52-2 @christopherzimmermann] wo sich wieviele Fahrzeuge aufhalten, das kriegen wir wieder nur über diese Daten raus.
+[01:02:56-3 @timpritlove] Ja, die Datenschutzgrundverordnung, das wird sicherlich noch ein interessanter Prallbock der Realitäten werden im diesem Jahr,
+[01:03:02-6 @timpritlove] ich denke, das ist auch jedem klar, dass hier der erste Wurf sicherlich noch nicht überall perfekt sitzt.
+[01:03:10-3 @timpritlove] Aber auch um solche Fragen muss man sich ja letzten Endes kümmern.
+[01:03:16-4 @timpritlove] Was mir noch einfiel, es gibt ja auch so, wie heißt das, Rückwürfe, also wenn Fische gefangen werden,
+[01:03:24-3 @timpritlove] aber auch wieder zurück ins Meer gehen, aus welchen Gründen auch immer, also was sind da die Motivationen,
+[01:03:29-6 @timpritlove] das überhaupt zu tun und was muss man darüber wissen?
+[01:03:32-6 @christopherzimmermann] Da gibt es ganz verschiedene Motivationen.
+[01:03:35-2 @christopherzimmermann] In erster Näherung ist alles, was der Fischer für wertlos hält, geht wieder über Bord
+[01:03:38-8 @christopherzimmermann] oder ging wenigstens bisher wieder über Bord.
+[01:03:40-9 @christopherzimmermann] Dann gibt es aber eine Reihe von Regeln, die den Fischer zwingen, Fische über Bord zu schmeißen,
+[01:03:46-1 @christopherzimmermann] selbst wenn er für den Fischer wertvoll ist.
+[01:03:49-1 @christopherzimmermann] Bisher war es also so, dass die Quoten, die Fischereiquoten, die Fangmengenbegrenzung gar keine Fangmengenbegrenzung,
+[01:03:55-1 @christopherzimmermann] sondern Anlandemengenbegrenzungen waren.
+[01:03:57-4 @christopherzimmermann] Das heißt, der Fischer konnte weiter fischen, wenn er die Quote für eine Art aber ausgeschöpft hatte,
+[01:04:02-1 @christopherzimmermann] die ihm zugewiesene Quote, durfte er den Fisch nicht mehr anlanden und musste ihn dann über Bord schmeißen.
+[01:04:07-3 @christopherzimmermann] Dadurch wurde relativ viel Fisch vernichtet, der theoretisch anlande- und auch verzehrfähig war.
+[01:04:12-5 @christopherzimmermann] Das ist natürlich ein Irrsinn
+[01:04:12-4 @timpritlove] Weil die Fische dann schon sterben, wenn sie gefangen werden.
+[01:04:15-5 @christopherzimmermann] Genau, und das ist sehr unterschiedlich.
+[01:04:16-5 @christopherzimmermann] Es gibt Fische, die diesen Vorgang, also den Fang- und Sortiervorgang, vergleichsweise gut überleben,
+[01:04:21-6 @christopherzimmermann] aber die allermeisten Fische überleben den eben nicht, wenn die vier Stunden in einem Netz waren
+[01:04:25-5 @christopherzimmermann] und mit ihren Genossen zusammen in dem Netz gedrückt wurden und dann sagen wir mal noch 20 Minuten an der Luft getrocknet sind,
+[01:04:32-2 @christopherzimmermann] bis sie verarbeitet wurden, dann sind die Überlebenschancen gleich 0.
+[01:04:35-6 @christopherzimmermann] Es gibt bestimmte Fangtechniken, bei denen das anders ist, wenn die in großen Reusen gefangen werden,
+[01:04:39-0 @christopherzimmermann] bleiben die lebend, oder beim Angeln sind die Überlebensraten relativ groß, das wissen wir,
+[01:04:43-0 @christopherzimmermann] aber in der kommerziellen Fischerei, egal ob in der Stellnetzfischerei oder in der Schleppnetzfischerei,
+[01:04:47-6 @christopherzimmermann] sind die Überlebensraten sehr sehr gering.
+[01:04:50-6 @christopherzimmermann] Das hat Gesetzgeber dazu bewogen, im Rahmen der letzten Reform der gemeinsamen europäischen Fischereipolitik,
+[01:04:56-4 @christopherzimmermann] ein sogenanntes Anlandegebot vorzusehen.
+[01:04:59-3 @christopherzimmermann] Das heißt, alle quotierten Arten, die gefangen wurden, müssen mit an Land gebracht werden.
+[01:05:05-0 @christopherzimmermann] Das alleine wäre gar nicht nötig gewesen, man hätte es auch einfach dokumentieren können,
+[01:05:08-3 @christopherzimmermann] aber wichtig ist, sie müssen auf die Quote angerechnet werden,
+[01:05:11-6 @christopherzimmermann] und wenn die Quote ausgeschöpft ist, darf das Fahrzeug nicht mehr fahren.
+[01:05:15-0 @christopherzimmermann] Anders als bisher, wo der immer weiter fahren konnte, und einfach weiter gefischt hat,
+[01:05:18-7 @christopherzimmermann] und dann die Fische, für die er noch Quote hatte, raussortiert hat und die anderen über Bord geschmissen hat,
+[01:05:23-5 @christopherzimmermann] ist jetzt die Fischerei zu Ende, wenn man die erste Quote ausgeschöpft hat.
+[01:05:28-5 @timpritlove] Aber wie kann man denn die Fischer daran hindern, das einfach weiterhin zu tun?
+[01:05:32-6 @christopherzimmermann] Das genau ist die gute Frage, und leider hat der Gesetzgeber an dieser Stelle wieder ein Gesetz erlassen
+[01:05:37-6 @christopherzimmermann] ohne sich um die Implementierung, also die Umsetzung, zu kümmern.
+[01:05:41-0 @christopherzimmermann] Und das erweist sich jetzt als riesiger Nachteil, weil es tatsächlich fast keine Möglichkeit gibt,
+[01:05:46-2 @christopherzimmermann] der Fischerei gerichtsfest nachzuweisen, wenn sie doch weiter "discarded"
+[01:05:50-6 @christopherzimmermann] Und wir wissen, dass es einzelne Fischereien gibt, auch in der Ostsee,
+[01:05:52-8 @christopherzimmermann] wo die Discard-Raten sogar gestiegen sind nach Einführungen des Discard Bans, des Anlandeverbotes.
+[01:05:58-7 @christopherzimmermann] Das ist natürlich im Grunde unhaltbar, denn die Ehrlichen sind an dieser Stelle die Gelackmeierten.
+[01:06:03-2 @timpritlove] Ja, was könnte man denn tun?
+[01:06:04-3 @christopherzimmermann] Das, was man aus unserer Sicht tun könnte, wäre, für alle die gleichen Regeln erlassen und die lückenlos überwachen,
+[01:06:09-3 @christopherzimmermann] das kann man inzwischen mit elektronischen Möglichkeiten machen.
+[01:06:12-6 @christopherzimmermann] Das ist so dieses Stichwort, Kameras an Bord.
+[01:06:14-2 @christopherzimmermann] Ich kann gut verstehen, dass Fischer der Meinung sind, wir wollen nicht überwacht werden,
+[01:06:18-4 @christopherzimmermann] das will keiner von uns gerne, aber wir dürfen nicht vergessen,
+[01:06:21-6 @christopherzimmermann] der Fischer nutzt eine Ressource, die uns, der Gesellschaft, gehört,
+[01:06:25-0 @christopherzimmermann] er zahlt dafür nicht, er bekommt sie von uns zur Verfügung gestellt,
+[01:06:28-5 @christopherzimmermann] da können wir doch erwarten, dass er die von uns erlassenen Regeln einhält.
+[01:06:31-5 @christopherzimmermann] Und wenn er das möglicherweise nicht tut, dann muss man es besser kontrollieren.
+[01:06:36-8 @christopherzimmermann] Und was mir vorschwebt, ist, dass man sagt, wir wissen, in dieser Fischerei gibt es bis zu 20% Rückwürfe,
+[01:06:42-1 @christopherzimmermann] um auf der sicheren Seite zu sein, ziehen wir das ab von der Quote,
+[01:06:46-3 @christopherzimmermann] das heißt, der Fischer bekommt nur 80% seiner Quote, wenn er die zusätzlichen 20% haben möchte,
+[01:06:51-6 @christopherzimmermann] dann müsste er sich Kameras an Bord installieren oder elektronisches Monitoring installieren,
+[01:06:55-6 @christopherzimmermann] dann kann er die zusätzlichen 20% auch nutzen, hat einen Anreiz.
+[01:06:59-9 @christopherzimmermann] Aber wir adressieren auch, dass der Fischer sagt, ich will das nicht.
+[01:07:03-3 @christopherzimmermann] Kein Problem, wenn er das nicht will, dann fischt er halt bloß 80% der bisherigen Quote.
+[01:07:07-5 @timpritlove] Jetzt sind wir ja im Prinzip bei diesem Thema von der Datenerfassung schon zum eigentlichen Management gekommen.
+[01:07:13-9 @timpritlove] Die Frage, wie kann man generell Anreize schaffen, um die ganze Fischerei in einer Art und Weise ablaufen zu lassen,
+[01:07:20-0 @timpritlove] dass es eben für alle Beteiligten, also die Gesellschaft, die Umwelt, die Fische – gut, die Fische sind immer ein bisschen die Gelackmeierten -
+[01:07:27-7 @timpritlove] aber im Prinzip das ganze System rund zu machen.
+[01:07:31-6 @timpritlove] Das war jetzt so ein Beispiel, was sind denn so die anderen Politiken, auf die Sie so drängen als Institut?
+[01:07:37-8 @christopherzimmermann] Ja wir fangen erst mal an mit der Analyse, wie läuft es bisher?
+[01:07:42-1 @christopherzimmermann] Was machen wir bisher, damit es gut läuft?
+[01:07:44-1 @christopherzimmermann] Wo läuft es schlecht, was könnten wir tun, um den Problemen abzuhelfen?
+[01:07:50-1 @christopherzimmermann] Und wir sehen einfach, es gibt die europäische gemeinsame Fischereipolitik seit vielen Jahrzehnten,
+[01:07:55-6 @christopherzimmermann] und im Grunde läuft das immer gleich ab.
+[01:07:58-3 @christopherzimmermann] Wir als Eigentümer der Ressource erlassen eine Regel, die Regel wird von Schreibtischtätern,
+[01:08:04-9 @christopherzimmermann] wie wir natürlich letztlich auch sind, aber dann auch von den viel gescholtenen Bürokraten in Brüssel erlassen,
+[01:08:10-9 @christopherzimmermann] und der Fischer hat viel Zeit, sich darum zu kümmern, wie man die Regeln möglichst weit auslegt
+[01:08:15-4 @christopherzimmermann] bzw. wie man sie rechtskonform oder nicht rechtskonform umgeht.
+[01:08:20-3 @christopherzimmermann] Das, was wirklich fehlt, ist eine fundamentale Änderung, die immer Auge hat,
+[01:08:23-8 @christopherzimmermann] wir müssen die richtigen Anreize schaffen.
+[01:08:25-6 @christopherzimmermann] Wir brauchen im Grunde viel weniger Regeln, denn zurzeit kommt immer auf jede Regel,
+[01:08:29-5 @christopherzimmermann] die nicht funktioniert hat, eine neue Regel drauf, statt dass man die alte Regel abschafft.
+[01:08:33-1 @christopherzimmermann] Wir brauchen weniger neue Regeln, wir brauchen überhaupt aus unserer Sicht viel weniger Regeln
+[01:08:37-5 @christopherzimmermann] und stattdessen ein vernünftiges gut durchdachtes Anreizsystem.
+[01:08:41-1 @christopherzimmermann] Dann käme man mit sehr wenigen klaren Regeln mit möglichst wenig Ausnahmen klar.
+[01:08:48-0 @christopherzimmermann] Also zum Beispiel mit einer Fangmengenbegrenzung, die dann aber auch durchgehalten werden muss.
+[01:08:51-9 @christopherzimmermann] Da kann es keine Ausnahmen davon geben.
+[01:08:53-4 @christopherzimmermann] Das heißt, dann alles, was ich gefangen habe, muss auch mit, muss auf die Quote angerechnet werden.
+[01:08:58-1 @christopherzimmermann] Ich finde sogar, Fische, die nicht quotiert sind, sollten darauf angerechnet werden auf die eine oder andere Art und Weise,
+[01:09:03-7 @christopherzimmermann] denn da ist das Discarden nach wie vor möglich.
+[01:09:05-8 @christopherzimmermann] Aber dafür kann man all diese Spezialregeln, die inzwischen den Aufbau von Netzen,
+[01:09:11-4 @christopherzimmermann] die Anzahl der Maschen im Umfang des letzten Teils des Netzes und so weiter regulieren,
+[01:09:16-8 @christopherzimmermann] wenn ein Fischer sein Netz reparieren muss, dann gibt es Vorschriften, wie er das reparieren muss.
+[01:09:21-9 @christopherzimmermann] Ich kann verstehen, dass der Fischer am Ende sagt, wir stehen erstens immer mit einem Bein im Gefängnis
+[01:09:26-3 @christopherzimmermann] und wer soll das überhaupt alles im Kopf oder auf Papier haben?
+[01:09:30-4 @christopherzimmermann] Man müsste im Grunde Aktenordner mit an Bord nehmen, um da nachzugucken,
+[01:09:33-4 @christopherzimmermann] ob man sich noch regelkonform verhält.
+[01:09:35-3 @christopherzimmermann] Das würden wir gerne ändern.
+[01:09:37-3 @christopherzimmermann] Und dazu gehört, dass wir verstehen müssen, wie Fischer genau ticken.
+[01:09:41-0 @christopherzimmermann] Denn am Ende des Tages managen wir kein Fischbestände.
+[01:09:44-0 @christopherzimmermann] Der Biologie ist ziemlich egal, was wir hier so machen.
+[01:09:46-6 @christopherzimmermann] Die Fischbestände werden größer und kleiner je nach Umweltbedingungen und Fischereidruck.
+[01:09:51-4 @christopherzimmermann] Sondern wir managen menschliches Verhalten, in diesem Fall das Verhalten des Fischers.
+[01:09:55-4 @christopherzimmermann] Und eigentlich müsste die Intension dahingehen, Gesetze zu erlassen, deren Einhaltung im Interesse des Fischers ist.
+[01:10:03-2 @christopherzimmermann] Das erfordert ein ganz anderes Denken und das wird dann sehr sehr schwierig,
+[01:10:07-4 @christopherzimmermann] wenn man zum Beispiel mit Inspektoren verhandelt, die halt wissen wie es läuft normalerweise,
+[01:10:12-3 @christopherzimmermann] wie es in den letzten 45 Jahren gelaufen ist und die sagen,
+[01:10:15-0 @christopherzimmermann] ja aber das kann man nicht gerichtsfest nachweisen.
+[01:10:17-5 @christopherzimmermann] Und so was wie Beweislastumkehr, das ist so ein bisschen so mein Steckenpferd.
+[01:10:20-9 @christopherzimmermann] Ich bin der Meinung, wenn ein Fischer die von uns besessene Ressource benutzt,
+[01:10:25-6 @christopherzimmermann] dann könnten wir von ihm auch verlangen, dass er uns nachweist, dass er sich an die Regeln hält,
+[01:10:29-5 @christopherzimmermann] statt das andersrum zu machen.
+[01:10:30-6 @christopherzimmermann] Wir müssen immer gerichtsfest nachweisen, dass der Fischer sich an die Regeln hält.
+[01:10:33-6 @christopherzimmermann] Das ist in unserem Rechtssystem ganz schwierig durchzusetzen.
+[01:10:37-8 @christopherzimmermann] Aber auch dafür gibt es Beispiele.
+[01:10:38-6 @christopherzimmermann] Wenn einer von uns tankt an der Tankstelle, ist der sofort unter Generalverdacht,
+[01:10:42-7 @christopherzimmermann] der wird immer gefilmt, damit man, wenn er abhaut, ohne zu bezahlen, ihn verfolgen kann.
+[01:10:46-5 @christopherzimmermann] In dem Moment, wo er vernünftig bezahlt hat, wird das Band wieder gelöscht.
+[01:10:49-5 @christopherzimmermann] Kann man sich jetzt drüber streiten, ob das eine gute Methode ist,
+[01:10:53-1 @christopherzimmermann] Tankkunden unter Generalverdacht zu setzen, aber jeder von uns ist damit einverstanden,
+[01:10:57-4 @christopherzimmermann] am Anfang, an der Grenze der Tankstelle steht, Achtung hier wirst du gefilmt,
+[01:11:01-6 @christopherzimmermann] wenn du das nicht möchtest, tank doch woanders, sieh doch zu, wo du deinen Sprit her kriegst.
+[01:11:05-0 @christopherzimmermann] Und so was in der Art könnte man natürlich in der Fischerei auch machen.
+[01:11:08-4 @christopherzimmermann] Da muss man alle möglichen Randbedingungen beachten, wir wollen nicht den Fischer filmen,
+[01:11:11-8 @christopherzimmermann] sondern wir wollen die Fische filmen und so weiter, aber generell könnte man es der Fischerei überlassen,
+[01:11:16-2 @christopherzimmermann] wie sie ihre Fischerei möglichst, wie sie ihre Aktivität möglichst nachhaltig gestaltet,
+[01:11:21-0 @christopherzimmermann] solange wir nur die Rahmenbedingungen festsetzen und sagen, du fischt von dieser Art nicht mehr als das und das
+[01:11:26-1 @christopherzimmermann] und es ist deine Sache, uns nachzuweisen, wie du das machst.
+[01:11:29-2 @timpritlove] Und vor allem dann halt mit so einem angeschlossenen Belohnungssystem, umso mehr Konformität man zu diesen Datenerhebungen etc. macht,
+[01:11:37-0 @timpritlove] umso mehr extra bekommt man, um diese, vorhin fiel die Zahl, 20 %, das ist vielleicht schon mal ein ganz interessanter Bereich,
+[01:11:46-7 @timpritlove] um sozusagen mehr davon zu haben.
+[01:11:48-6 @christopherzimmermann] Das wäre dieses Anreizsystem, genau.
+[01:11:50-4 @christopherzimmermann] Und ich glaube daran, dass Menschen mit Anreizen viel besser funktionieren als mit Strafen,
+[01:11:54-4 @christopherzimmermann] insbesondere wenn die Strafen so wenig drakonisch sind, also im Grunde so läppisch sind,
+[01:11:58-4 @christopherzimmermann] dass man ohne weiteres durch ein illegales Verhalten einen Vorteil von einer Million Euro genießen kann,
+[01:12:04-2 @christopherzimmermann] und dann aber 10.000 Euro Bußgeld zahlt für die Verfälschung des Logbuchs oder so was,
+[01:12:08-8 @christopherzimmermann] das ist natürlich albern, das bringt keinen Fischer dazu, sich an die Regeln zu halten.
+[01:12:13-3 @christopherzimmermann] Entweder man muss die Strafen viel drakonischer machen, so wie das in Norwegen stattfindet,
+[01:12:17-3 @christopherzimmermann] da wird das Schiff dann für die ganze Saison an die Kette gelegt, das ist die eine Möglichkeit.
+[01:12:21-6 @christopherzimmermann] Ich halte es für besser, und so erziehe ich meine Kinder dann auch, auf positive Verstärkung zu setzen und zu sagen,
+[01:12:28-6 @christopherzimmermann] du wirst belohnt dafür, dass du bereit bist, mehr beizutragen, nachzuweisen,
+[01:12:33-0 @christopherzimmermann] dass du dich regelkonform verhältst.
+[01:12:34-4 @christopherzimmermann] Das haben wir getestet in der Nordsee mit einem Versuch, mit einem internationalen Experiment,
+[01:12:39-5 @christopherzimmermann] das hieß Catch-Quota-Management, wo es tatsächlich darum ging, nicht mehr die Anlandung,
+[01:12:43-2 @christopherzimmermann] sondern die Fänge zu betrachten.
+[01:12:45-3 @christopherzimmermann] Und da hat die Fischerei tatsächlich für die Nordseekabeljaufischerei 30% Zuschlag bekommen,
+[01:12:50-2 @christopherzimmermann] wenn sie sich lückenlos mit Kameras überwachen ließ.
+[01:12:53-5 @christopherzimmermann] Das hat wunderbar funktioniert.
+[01:12:54-7 @christopherzimmermann] Die berichtete Fangzusammensetzung dieser überwachten Fahrzeuge ist völlig anders,
+[01:13:00-1 @christopherzimmermann] als die Fangzusammensetzung der Fahrzeuge ohne Kamera,
+[01:13:02-3 @christopherzimmermann] was darauf hindeutet, dass egal, ob wir die auswerten oder nicht, die Bereitschaft der Fischerei,
+[01:13:06-7 @christopherzimmermann] das aufzuschreiben, was sie wirklich fängt, viel größer ist, also da gibt es Unterschiede,
+[01:13:12-0 @christopherzimmermann] was uns dann im Nachhinein auch zeigt, wie unzuverlässig tatsächlich unsere Fangstatistiken sind,
+[01:13:16-8 @christopherzimmermann] selbst bei den Fahrzeugen, von denen wir glauben, dass sie relativ gut sind.
+[01:13:20-8 @christopherzimmermann] Und das hat gut geklappt.
+[01:13:22-4 @christopherzimmermann] Die neue dänische Regierung hat diesen Versuch leider – die Dänen waren führend da –
+[01:13:26-2 @christopherzimmermann] wir waren sozusagen nur das vierte Rad am Wagen, waren nur mit wenigen Fahrzeugen beteiligt,
+[01:13:31-7 @christopherzimmermann] die neue dänische Regierung hat das leider eingestellt, was wir sehr bedauert haben,
+[01:13:35-5 @christopherzimmermann] aber Regierungen kommen und gehen und die dänische Fischerei war von diesem Experiment begeistert
+[01:13:40-9 @christopherzimmermann] und hat gesagt, das ist genau der richtige Weg, wir wollen, anders als unser Fischereiminister, im Grunde die Kameras gerne behalten.
+[01:13:48-4 @timpritlove] Ja, also da könnte man sozusagen mit einem belohnungsorientierten System für alle Beteiligten eigentlich das Leben einfacher machen,
+[01:13:54-8 @timpritlove] weil man erhält ja auch bessere Daten und damit noch bessere Vorhersage potenziell und dann haben ja alle was davon.
+[01:14:00-9 @christopherzimmermann] Ganz genau. Aber es erfordert eben, dass man das gesamte System, das gesamte Regelwerk einmal auf den Prüfstand stellt
+[01:14:07-6 @christopherzimmermann] und wirklich sozusagen mit dem eisernen Besen durchgeht und sagt,
+[01:14:10-8 @christopherzimmermann] diese ganzen Regeln, wo wir Fanggeräte exakt definieren, nur weil man es zufällig messen kann,
+[01:14:16-6 @christopherzimmermann] für die Nachhaltigkeit hat das im Grunde kaum eine Auswirkung.
+[01:14:19-2 @christopherzimmermann] Es geht nur darum, der Inspektor kann die Maschenweite im Steert messen.
+[01:14:23-3 @christopherzimmermann] Was weiter vorne passiert, ist egal, aber was hinten passiert, kann man messen.
+[01:14:26-6 @timpritlove] Was ist Steert?
+[01:14:27-3 @christopherzimmermann] Steert ist der hinterste Teil des Netzes, da wo die Fische am Ende dann gefangen werden,
+[01:14:30-6 @christopherzimmermann] wenn sie sich zurückfallen lassen.
+[01:14:32-4 @christopherzimmermann] Und das müsste man einfach wirklich ausmisten und da wird es dann sehr schwierig.
+[01:14:38-9 @timpritlove] Vielleicht nochmal ganz kurz zur Technologie, bevor wir vielleicht nochmal auch so insgesamt über die ernährungspolitischen Dimension der ganzen Geschichte diskutieren sollten.
+[01:14:54-8 @timpritlove] Die Fangtechniken, die haben sich ja über die Zeit auch sehr geändert, und es klang ja anfangs schon an,
+[01:15:00-9 @timpritlove] als halt sowieso noch wenig gefischt werden konnte, weil man einfach die Massen gar nicht bekommen hat,
+[01:15:04-3 @timpritlove] die Dampfmaschinen nicht hatte etc., alles nicht so ausgebildet war, gab es kein Problem,
+[01:15:12-7 @timpritlove] dann hat die Technologie dermaßen zugeschlagen, dass auf einmal viel zu viel möglich war.
+[01:15:17-8 @timpritlove] Wie haben sich denn die Fangtechniken jetzt entwickelt, was ist da so der aktuelle Trend auch,
+[01:15:25-7 @timpritlove] wie denn dieses Meer am besten bewirtschaftet werden sollte, um es möglichst nachhaltig einerseits und umweltverträglich zu machen?
+[01:15:33-7 @christopherzimmermann] Also mit Blick auf die Nachhaltigkeit kann man sagen, wenn wir es auf die Zielart beziehen,
+[01:15:39-0 @christopherzimmermann] ist eigentlich nur die Entnahmemenge wichtig.
+[01:15:41-1 @christopherzimmermann] Es spielt gar keine Rolle, ob man das mit passiven Methoden, also mit Stellnetzen oder Reusen fängt,
+[01:15:46-0 @christopherzimmermann] die Menge Fisch, oder ob man das mit Schleppnetzen fängt, am Ende kommt es nur darauf an,
+[01:15:50-0 @christopherzimmermann] wieviele Fische sterben bei diesem Vorgang, um uns als Nahrung für den Menschen zu dienen?
+[01:15:57-6 @christopherzimmermann] Es gab in den letzten, sagen wir mal, 100 Jahren so ein paar Technologiesprünge,
+[01:16:01-3 @christopherzimmermann] wo dann irgendeine neue Fischereimethode entwickelt wurde.
+[01:16:04-0 @christopherzimmermann] Ich habe vorhin schon gesagt, die Ringwadenfischerei, also die Fischerei mit Umschließungsnetzen,
+[01:16:08-1 @christopherzimmermann] die ganze Schwärme umkreisen kann, die war so effizient, dass die allermeisten kleinen Schwarmfische…
+[01:16:14-9 @christopherzimmermann] also die allermeisten großen Bestände kleiner Schwarmfische innerhalb von 6 oder 7 Jahren kollabierten.
+[01:16:22-2 @christopherzimmermann] Heringe in der Nordsee, atlanto-skandischer Hering, Makrele im Nordostatlantik.
+[01:16:26-7 @christopherzimmermann] Einer nach dem anderen wurde überfischt, bis die Fangmengen vernünftig begrenzt wurden.
+[01:16:31-9 @christopherzimmermann] Die Methode gibt es immer noch.
+[01:16:33-4 @christopherzimmermann] Die Methode ist grundsätzlich sehr gut, weil sie wenig unerwünschte Umweltauswirkungen hat.
+[01:16:38-1 @christopherzimmermann] Aber die Fangmengen muss man halt vernünftiger begrenzen.
+[01:16:41-8 @christopherzimmermann] Seitdem ist eigentlich relativ wenig passiert, muss man sagen.
+[01:16:45-1 @christopherzimmermann] Und wir sind immer wieder erstaunt, wenn wir jetzt sehen, was gibt es denn für Möglichkeiten,
+[01:16:49-5 @christopherzimmermann] neue politische Ansätze oder Managementansätze, wie das Anlandegebot umzusetzen,
+[01:16:55-2 @christopherzimmermann] wie wenig Entwicklung in die Fanggeräte gegangen ist in den letzten Jahren.
+[01:17:00-1 @christopherzimmermann] Und genau da setzen wir an.
+[01:17:01-1 @christopherzimmermann] Wir versuchen hier im Institut auch Schleppnetze zu entwickeln.
+[01:17:04-5 @christopherzimmermann] Und wir machen jetzt das gleiche auch mit der stillen Fischerei, also mit den Stellnetzen,
+[01:17:08-2 @christopherzimmermann] um die nachhaltiger zu gestalten.
+[01:17:10-5 @christopherzimmermann] Das heißt, bei den Schleppnetzen zum Beispiel, die sollen selektiver werden.
+[01:17:13-7 @christopherzimmermann] Wir wollen weniger unerwünschte Fische drin haben.
+[01:17:16-4 @christopherzimmermann] Und manchmal gibt es ganz einfache Lösungen.
+[01:17:19-2 @christopherzimmermann] Ein Schlitz in dem Zwischenteil des Netzes, wir nennen das Tunnel, an der richtigen Stelle,
+[01:17:24-7 @christopherzimmermann] mit Schwimmen oben und Gewichten unten, damit da so eine kleine linsenförmige Öffnung entsteht,
+[01:17:29-4 @christopherzimmermann] sorgt dafür, wenn man das geschickt macht und an der richtigen Stelle macht,
+[01:17:32-3 @christopherzimmermann] dass wir 80% der Plattfische aus dem Fang loswerden, aber die Dorsche zu 100% zurückhalten.
+[01:17:38-0 @timpritlove] Warum gehen da nicht alle durch?
+[01:17:39-7 @christopherzimmermann] Weil die Dorsche immer versuchen, in der Mitte zu bleiben.
+[01:17:42-4 @christopherzimmermann] Die haben Sensoren, die ihnen sagen, hier ist überall Netz und die versuchen genau in der Mitte zu bleiben,
+[01:17:46-6 @christopherzimmermann] während die Plattfische immer gerne mit dem Bauch irgendwas berühren wollen.
+[01:17:50-1 @christopherzimmermann] So sind die getrimmt, so sind die gepolt.
+[01:17:52-5 @christopherzimmermann] Und deswegen bleiben die am Netzboden.
+[01:17:54-8 @christopherzimmermann] Und wenn ich an dem Netzboden so eine Öffnung mache, dann entkommen die durch diese Öffnung,
+[01:17:58-7 @christopherzimmermann] während die Dorsche in der Mitte bleiben, funktioniert wunderbar.
+[01:18:01-9 @christopherzimmermann] Da muss man mit der Größe operieren und so weiter.
+[01:18:03-6 @christopherzimmermann] Das kann jeder Fischer an seinem eigenen Netz machen, kostet vielleicht 150 Euro für Material und anderthalb Stunden Zeit.
+[01:18:10-1 @christopherzimmermann] Es ist eine minimale Änderung, der Fischer kann das auch wieder zunähen, wenn er sagt,
+[01:18:13-3 @christopherzimmermann] nein ich will aber jetzt die Plattfische fangen.
+[01:18:15-8 @christopherzimmermann] Hat aber am Ende den Vorteil, dass ich weniger Plattfische fange, wenn ich die nicht haben will
+[01:18:21-2 @christopherzimmermann] und mehr Dorsch fange und dadurch auch noch die Selektivität der Dorsche hinten,
+[01:18:25-8 @christopherzimmermann] im hintersten Teil des Netzes, verbessere, denn bisher war es so, dass die Plattfische mitgefangen wurden
+[01:18:30-0 @christopherzimmermann] und dann wie so Briefmarken die Netzöffnungen zukleisterten
+[01:18:35-1 @christopherzimmermann] und die Dorsche, für die diese Netzöffnungen optimiert waren, konnten nicht mehr entkommen,
+[01:18:38-8 @christopherzimmermann] weil vor jeder großen Masche klebte ein Plattfisch.
+[01:18:43-0 @christopherzimmermann] Das vermeide ich, wenn ich die Plattfische einen Meter weit davor loswerde.
+[01:18:47-0 @christopherzimmermann] Mahnmal sind es also wirklich so kleine Modifikationen, die bisher niemand gemacht hat,
+[01:18:51-5 @christopherzimmermann] weil es kein Interesse daran gab, weil es auch von der Fischerei kein Interesse daran gab,
+[01:18:54-9 @christopherzimmermann] plötzlich mit der Einführung des Anlandegebotes gibt es einen Anreiz,
+[01:18:58-8 @christopherzimmermann] gibt es ein Interesse der Fischerei, weil die sehen, mit der neuen Regel limitiert meine Schollenquote zum Beispiel
+[01:19:05-2 @christopherzimmermann] die Ausschöpfung der Dorschquote.
+[01:19:07-7 @christopherzimmermann] Wenn ich das nicht möchte, muss ich sehen, dass ich unter Wasser, da wo sich das sortieren lohnt,
+[01:19:11-2 @christopherzimmermann] weil über Wasser sind die eh tot, da kann ich so viel sortieren wie ich möchte,
+[01:19:15-0 @christopherzimmermann] ich muss unter Wasser sortieren.
+[01:19:16-6 @christopherzimmermann] Und das ist so eine Möglichkeit, an der wir forschen.
+[01:19:19-0 @christopherzimmermann] Und je weniger Rocket Science das ist, und eben je billiger und je einfacher flächendeckend umsetzbar, desto besser.
+[01:19:26-1 @christopherzimmermann] Deswegen haben wir da auch keine Patente drauf oder so was, sondern wir wollen,
+[01:19:29-6 @christopherzimmermann] dass es in die Fischerei Eingang findet und die Fischerei sich auch möglichst kreative Gedanken macht,
+[01:19:34-3 @christopherzimmermann] denn nochmal, die haben sehr sehr viel Zeit, sich über so was Gedanken zu machen
+[01:19:38-6 @christopherzimmermann] und wenn wir die Erfahrung der Fischer abzapfen können für solche Veränderungen,
+[01:19:41-7 @christopherzimmermann] dann ist das für alle Beteiligten besser.
+[01:19:43-6 @timpritlove] Also bezieht sich hier die Neuentwicklung sozusagen nur auf Netze oder gibt es da auch noch andere technologische Bereiche,
+[01:19:52-0 @timpritlove] die hier betroffen sind?
+[01:19:54-2 @christopherzimmermann] Na in der Fangtechnik bezieht sich das im Moment auf Netze, aber eben auf viele verschiedene Netze.
+[01:19:57-8 @christopherzimmermann] Also wir versuchen zum Beispiel in der Stellnetzfischerei, wo Seevogel- und Schweinswalbeifänge das große Problem sind,
+[01:20:03-2 @christopherzimmermann] diese Netze sichtbarer zu machen.
+[01:20:04-3 @christopherzimmermann] Wir versuchen einerseits, meinetwegen kleine Luftblasen mit einzuschließen oder so was,
+[01:20:08-7 @christopherzimmermann] damit die Sonarsysteme der Schweinswale die besser erkennen können.
+[01:20:11-9 @christopherzimmermann] Wir bemühen uns aber auch, die Schweinswale aufmerksam zu machen.
+[01:20:15-0 @christopherzimmermann] Das erfinden wir dann nicht selber, aber wenn es dann um den Praxistest geht,
+[01:20:19-1 @christopherzimmermann] also das Gerät heißt Pal, das ist so eine Art Pinger, der nicht einfach nur Lärm macht
+[01:20:24-1 @christopherzimmermann] und die Tiere verscheucht, sondern der einen arteigenen Laut verwendet,
+[01:20:28-5 @christopherzimmermann] um die Schweinswale aufmerksam zu machen, hier droht eine Gefahr.
+[01:20:31-6 @christopherzimmermann] In der Hoffnung, dass der Schweinswal da seine Pingrate erhöht und dann das Netz,
+[01:20:35-4 @christopherzimmermann] was wir nun im nächsten Schritt versuchen, besser sichtbar zu machen für die Sonarortung der Schweinswale,
+[01:20:40-2 @christopherzimmermann] besser erkennt und dann eben nicht in dieses Netz gerät und darin ertrinkt.
+[01:20:44-4 @christopherzimmermann] Das ist also auf vielen verschiedenen Ebenen, da gibt es noch viele offene Baustellen, die wir klären müssen,
+[01:20:49-8 @christopherzimmermann] das dauert alles ein bisschen, aber wir können immerhin schon anfangen
+[01:20:52-1 @christopherzimmermann] und das Land Schleswig-Holstein hat einem Großversuch zugestimmt und finanziert den auch,
+[01:20:56-8 @christopherzimmermann] wo genau diese Schweinswalwarngeräte, diese neuartigen, flächendeckend in ungefähr 50% der Fischerei eingesetzt werden,
+[01:21:03-5 @christopherzimmermann] in der westlichen Ostsee, in schleswig-holsteinischen Gewässern.
+[01:21:06-1 @christopherzimmermann] Das finden wir sehr sehr spannend, begleiten diesen Versuch gerne weiter,
+[01:21:09-6 @christopherzimmermann] um zu sehen, ob es vielleicht Gewöhnungseffekte gibt.
+[01:21:11-5 @christopherzimmermann] Das sind alles Sachen, die wir uns jetzt angucken müssen, aber es kommt immer wieder darauf zurück,
+[01:21:17-5 @christopherzimmermann] wenn es technologische Lösungen für solche Probleme gibt, dann ist es für die Fischerei viel einfacher umsetzbar,
+[01:21:23-2 @christopherzimmermann] als wenn man sagt, ihr müsst eine bestimmte Fischereiart ganz sein lassen.
+[01:21:26-7 @christopherzimmermann] Oder ihr dürft in großen Gebietsteilen einfach überhaupt nicht mehr fischen.
+[01:21:30-6 @christopherzimmermann] Das ist für die Fischerei immer am schlimmsten.
+[01:21:35-8 @timpritlove] Im Vorgespräch klang auch an, dass Sie gerade, was diese Überzeugungsarbeit betrifft,
+[01:21:41-5 @timpritlove] sich hier auch wissenschaftlich neu aufstellen.
+[01:21:44-4 @timpritlove] Jetzt haben wir viel über Techniken und mathematische Dinge und Erfassung und Forschungsfahrten gesprochen,
+[01:21:50-8 @timpritlove] aber Sie wollen hier sozusagen auch wissenschaftlich aufrüsten, indem Sie die Sozialwissenschaften hier mit einbringen,
+[01:21:59-1 @timpritlove] was steckt da dahinter?
+[01:22:01-6 @christopherzimmermann] Na wir sind als Meeresbiologen oder Fischereibiologen natürlich überwiegend Biologen, Ökologen,
+[01:22:06-8 @christopherzimmermann] unsere Stammaufgabe ist, zu erklären, warum gibt es in einzelnen Jahren viel Nachwuchs
+[01:22:12-1 @christopherzimmermann] oder wenig Nachwuchs und so weiter.
+[01:22:14-2 @christopherzimmermann] Dann haben Sie schon angesprochen, wir haben eine große technische Abteilung,
+[01:22:17-8 @christopherzimmermann] das sind also überwiegend Ingenieure oder so was, die mit uns gut zusammenarbeiten,
+[01:22:20-8 @christopherzimmermann] aber ein ganz neues Feld ist eigentlich dieses Schaffen von Anreizsystemen.
+[01:22:25-0 @christopherzimmermann] Wo wir sehr schnell gemerkt haben, da kommen wir als Biologen einfach ans Ende unserer,
+[01:22:32-5 @christopherzimmermann] auch der, sagen wir mal, der wissenschaftlichen Herangehensweise, da wissen wir einfach nicht genug.
+[01:22:37-8 @christopherzimmermann] Wir wollen gerne wissen, was funktioniert bei Fischern?
+[01:22:41-5 @christopherzimmermann] Warum würde ein Fischer eine solche Regel anerkennen, aber eine andere nicht?
+[01:22:44-9 @christopherzimmermann] Da gibt es sehr überraschende Ergebnisse, wo Fischer sagen, ein Anreiz für uns wäre schon,
+[01:22:48-5 @christopherzimmermann] wenn der Tourist nicht in den Hafen kommt und uns morgens nach einer anstrengenden Ausfahrt,
+[01:22:52-6 @christopherzimmermann] die um 3 Uhr morgens bei 2 Grad Wassertemperatur begonnen hat, und dann sagt,
+[01:22:55-7 @christopherzimmermann] na habt ihr wieder das Meer leergefischt und das Ökosystem zerstört?
+[01:22:58-7 @christopherzimmermann] Also schon so was wäre ein Anreiz, das wollen wir gerne rauskriegen.
+[01:23:03-0 @christopherzimmermann] Und da kann man sich natürlich dauernd auch als Ökologe mit Fischern unterhalten,
+[01:23:06-0 @christopherzimmermann] aber es bleibt anekdotisch, wir wollen das gerne systematisieren und haben deswegen im Institut eine sozialwissenschaftliche Arbeitsgruppe gegründet,
+[01:23:14-2 @christopherzimmermann] die systematisch Fischer befragt zu verschiedenen Aspekten.
+[01:23:19-2 @christopherzimmermann] Das hat dann auch wieder Auswirkungen auf die Datenerhebung, weil wir an bestimmte Daten direkt gar nicht rankommen.
+[01:23:25-7 @christopherzimmermann] Zum Beispiel, wieviele Seevögel werden denn tatsächlich in der kleinen Küstenfischerei beigefangen
+[01:23:30-2 @christopherzimmermann] oder wie viele Schweinswale?
+[01:23:31-4 @christopherzimmermann] Gerade wenn es sehr sehr seltene Ereignisse sind, dann fallen die meistens unter den Tisch.
+[01:23:35-0 @christopherzimmermann] Oder es gibt einen Bias in der Erinnerung.
+[01:23:38-2 @christopherzimmermann] Der Fischer erinnert sich vielleicht da nicht dran.
+[01:23:39-5 @christopherzimmermann] Oder er erinnert sich an Schweinswale besonders gut, weil es ein so seltenes Ereignis ist,
+[01:23:43-4 @christopherzimmermann] dass er noch genau weiß, diesen Schweinswal habe ich vor 6 Jahren gefangen.
+[01:23:46-9 @christopherzimmermann] Das wollen wir alles ein bisschen systematisieren und haben deswegen eine sozialwissenschaftliche Arbeitsgruppe aufgebaut,
+[01:23:52-5 @christopherzimmermann] die wir jetzt auch mit Drittmittelprojekten und so was weiter ausbauen und die sehr sehr spannende Ergebnisse liefert.
+[01:23:58-5 @timpritlove] Solche Ideen haben ja meistens so eine Vorgeschichte.
+[01:24:01-0 @timpritlove] War das jetzt nur so ein Gefühl, dass das vielleicht helfen könnte oder wie kam es überhaupt zu dieser Initiative?
+[01:24:08-4 @christopherzimmermann] Na die Vorgeschichte fing eigentlich an mit den ersten Überlegungen für ein Anlandegebot in der Europäischen Union.
+[01:24:13-9 @christopherzimmermann] Und wir haben uns damals sehr schnell sozusagen auf die Seite der Befürworter geschlagen
+[01:24:18-3 @christopherzimmermann] und haben nicht gesagt, geht sowieso alles nicht, hat man noch nie probiert,
+[01:24:21-9 @christopherzimmermann] sondern wir sagten, ist ein interessanter Ansatz, aber nur dann, wenn man den Fischer auf der anderen Seite
+[01:24:26-6 @christopherzimmermann] von überflüssigem Regelwerk entlasten kann.
+[01:24:28-9 @christopherzimmermann] Am Ende ist, wie in der Europäischen Union so oft, es anders gekommen.
+[01:24:32-1 @christopherzimmermann] Auch dies ist wieder ein neues Regelwerk, was dazu kam zu dem schon bestehenden Regelwerk.
+[01:24:36-3 @christopherzimmermann] Aber in dieser Diskussion, was genau müssten wir für Regeln abschaffen,
+[01:24:39-8 @christopherzimmermann] weil sie sich als untauglich erwiesen haben oder die Fischerei knechten, belasten,
+[01:24:44-5 @christopherzimmermann] ohne dass es einen Einfluss auf die nachhaltige Nutzung der Ressourcen hat.
+[01:24:48-5 @christopherzimmermann] Und was ist wirklich neu?
+[01:24:50-1 @christopherzimmermann] Was ist was, wo der Fischer zustimmen könnte.
+[01:24:54-8 @christopherzimmermann] Da sind wir wieder bei der Geschichte, wir sitzen alle in einem Boot und wir werden solche Regeln bei der Unendlichkeit des Meeres
+[01:24:59-8 @christopherzimmermann] und der Schwierigkeit, die Fischerei lückenlos zu überwachen, werden wir nur hinbekommen,
+[01:25:04-8 @christopherzimmermann] wenn wir die Fischer mit ins Boot holen und die Fischer sagen, ja das ist eine gute Regel.
+[01:25:09-0 @christopherzimmermann] Ist vielleicht mühsam und wir wollen nicht so gerne Kameras an Bord haben, aber okay.
+[01:25:13-6 @christopherzimmermann] Wir sehen ein, um ein Levelplaying-Field, um die gleichen Bedingungen für die gesamte Fischerei zu schaffen,
+[01:25:18-5 @christopherzimmermann] ist das notwendig.
+[01:25:20-3 @christopherzimmermann] Und das war zu diesem Zeitpunkt, das ist nun auch schon 6-8 Jahre her,
+[01:25:24-1 @christopherzimmermann] war es eben anekdotisch.
+[01:25:26-0 @christopherzimmermann] Da sagt die eine Fraktion, aber ich habe das gehört und die andere Fraktion sagt,
+[01:25:29-3 @christopherzimmermann] wir haben aber was anderes gehört.
+[01:25:31-2 @christopherzimmermann] Dann gab es eine Zeit, in der wir uns sehr intensiv Gedanken gemacht haben über das Management von Anglern,
+[01:25:37-6 @christopherzimmermann] Auch das ein ganz wichtiges Thema, weil es einzelne Bestände, sehr wenige,
+[01:25:41-0 @christopherzimmermann] aber einzelne Bestände gibt, für die der Einfluss der Angelfischerei, der Freizeitfischerei sehr sehr hoch ist.
+[01:25:47-7 @christopherzimmermann] Der Dorsch der westlichen Ostsee ist ein solcher.
+[01:25:49-3 @christopherzimmermann] Inzwischen fangen die Freizeitfischer die Hälfte der Gesamtfangmenge.
+[01:25:54-6 @christopherzimmermann] Die andere Menge fangen die Berufsfischer.
+[01:25:56-9 @christopherzimmermann] Als wir das rausbekommen haben, waren wir selber sehr erstaunt, weil wir alle dachten,
+[01:25:59-8 @christopherzimmermann] das kann so viel nicht sein.
+[01:26:00-8 @timpritlove] Ja.
+[01:26:01-5 @christopherzimmermann] Zeigt aber eben auch, wie wichtig die Angelfischerei ist.
+[01:26:03-7 @christopherzimmermann] Da gibt es dann viele ökonomische Gesichtspunkte, die sehr deutlich machen,
+[01:26:07-8 @christopherzimmermann] dass die Küstenregionen im Grunde Angler unbedingt braucht, weil die sehr sehr viel Geld hier lassen.
+[01:26:13-1 @christopherzimmermann] Wir wollen also Angler möglichst wenig behindern in ihrer Ausübung,
+[01:26:16-5 @christopherzimmermann] andererseits müssen die Angler bei einem kollabierten Bestanden ihren Beitrag leisten.
+[01:26:20-7 @christopherzimmermann] Und auch da sind wir wieder dabei, dass wir sagen, welche Maßnahmen sind durchsetzbar,
+[01:26:25-2 @christopherzimmermann] also auch kontrollierbar, aber auch welche Maßnahmen sind akzeptabel für die Angelfischerei,
+[01:26:30-6 @christopherzimmermann] denn wir wollen die ja nicht abschrecken.
+[01:26:32-8 @christopherzimmermann] Und da fing es dann an, dass wir das systematisiert haben und inzwischen merken wir,
+[01:26:36-9 @christopherzimmermann] dass die Ergebnisse hoch spannend und wirklich zukunftsweisend sind,
+[01:26:40-5 @christopherzimmermann] bis wir das am Ende wirklich in die Politik umsetzen können, wird wahrscheinlich noch viel viel Zeit vergehen.
+[01:26:45-3 @christopherzimmermann] Auch weil das System selber extrem träge ist.
+[01:26:49-3 @christopherzimmermann] Es gibt halt sehr sehr viele Leute, da wo Entscheidungen getroffen werden
+[01:26:52-6 @christopherzimmermann] und auch da, wo Regeln kontrolliert werden, die sich nicht vorstellen können,
+[01:26:55-5 @christopherzimmermann] dass man sowas ganz anders machen könnte.
+[01:26:57-0 @timpritlove] Erinnert mich auch an ein anderes Gespräch, was wir hier beim Forschergeist schon geführt haben,
+[01:27:04-6 @timpritlove] auch um Wasserwirtschaft, wo auch die Arbeitsgruppe sehr interdisziplinär aufgestellt wurde,
+[01:27:10-9 @timpritlove] ganz bewusst auch um, gar nicht mal jetzt nur um – in diesem Fall ist es ja erst mal ein neues Forschungsergebnis,
+[01:27:17-2 @timpritlove] was dann noch mit einfließt – aber auch sozusagen, um auch die Auswirkungen der eigenen Forderungen
+[01:27:21-8 @timpritlove] und damit eben sozusagen, wie kommunizieren wir unsere Arbeit auch in die Politik rein,
+[01:27:27-0 @timpritlove] damit wir die gewünschten Effekte auch erzielen von Ergebnissen, die uns irgendwie total klar vorkommen.
+[01:27:32-5 @timpritlove] Man fragt sich ja immer, ja warum reagieren die denn nicht?
+[01:27:34-5 @timpritlove] Weil manchmal ist es ja auch ein Vermittlungsproblem
+[01:27:37-5 @timpritlove] Ist das vielleicht auch nochmal eine Linie, die sich hier entwickeln kann oder vielleicht schon Teil des Ganzen ist?
+[01:27:43-9 @christopherzimmermann] Ja das machen wir mehr als learning by doing natürlich seit vielen Jahren.
+[01:27:47-2 @christopherzimmermann] Wir sind Politikberater.
+[01:27:48-3 @christopherzimmermann] Wie gesagt, unsere Grundfinanzierung kommt von der Bundesregierung,
+[01:27:52-3 @christopherzimmermann] vom Landwirtschaftsministerium in diesem Fall und die erwarten von uns guten Rat.
+[01:27:56-1 @christopherzimmermann] Und natürlich haben wir über viele Jahre daran gefeilt, wie wir den Rat so formulieren können,
+[01:28:01-0 @christopherzimmermann] dass er beim Empfänger auch ankommt.
+[01:28:04-4 @christopherzimmermann] Also nichts ist schlimmer, ehrlich gesagt, für einen Politiker, als wenn die Wissenschaftler in typischen Wissenschaftlerkauderwelsch
+[01:28:11-5 @christopherzimmermann] auf eine klare Frage acht Seiten füllen, wo man am Ende sich durch die acht Seiten geackert hat
+[01:28:17-4 @christopherzimmermann] und dann sagt, was genau will er mir jetzt eigentlich sagen?
+[01:28:19-7 @christopherzimmermann] Und wir Wissenschaftler, gerade Grundlagenforscher, kennen das ja auch gut,
+[01:28:23-3 @christopherzimmermann] dass wir dauernd abwägen.
+[01:28:24-5 @christopherzimmermann] Also wir stellen die Unsicherheiten in den Vordergrund, das muss man manchmal,
+[01:28:27-9 @christopherzimmermann] um klarzumachen, verlass dich nicht drauf, dass es genauso kommt.
+[01:28:31-3 @christopherzimmermann] Wenn wir sagen, ein Bestand erholt sich, dann kann der sich auch schneller,
+[01:28:33-9 @christopherzimmermann] aber er kann sich auch viel langsamer erholen, Achtung Unsicherheit.
+[01:28:36-9 @christopherzimmermann] Aber man braucht am Ende irgendeine klare Botschaft.
+[01:28:40-2 @christopherzimmermann] Und wichtig auf der anderen Seite ist, dass nicht wir die Entscheidungen treffen.
+[01:28:43-8 @christopherzimmermann] Wir hören von den Umweltverbänden immer wieder, die Fischereipolitik wäre kein Problem,
+[01:28:47-9 @christopherzimmermann] wenn man die Politik nur verpflichten würde, dem wissenschaftlichen Rat zu folgen.
+[01:28:51-7 @christopherzimmermann] Dieser Meinung sind wir gar nicht, denn wir liefern bloß Optionen.
+[01:28:56-4 @christopherzimmermann] Die Entscheidung muss demokratisch legitimiert werden.
+[01:28:58-2 @christopherzimmermann] Mich wählt keiner, ich bin Bundesbeamter, ich versuche so gut wie möglich
+[01:29:02-1 @christopherzimmermann] und so verlässlich wie möglich Vorhersagen zu rechnen, und dann der Politik Optionen aufzuzeigen.
+[01:29:07-1 @christopherzimmermann] Und natürlich habe ich meine eigenen Präferenzen.
+[01:29:10-1 @christopherzimmermann] Aber am Ende sind es, sagen wir mal, drei Optionen, von denen ich sage,
+[01:29:12-5 @christopherzimmermann] die wird zu einer schnellen Erholung führen, aber dafür viele Arbeitsplätze kosten.
+[01:29:16-3 @christopherzimmermann] Dies ist der Mittelweg, dies ist die Option, wo der Bestand möglicherweise 20 Jahre braucht,
+[01:29:21-6 @christopherzimmermann] aber dafür ist es leichter an die Fischerei zu kommunizieren.
+[01:29:24-0 @christopherzimmermann] Welchen dieser Wege man geht, bleibt am Ende eine politische Entscheidung und das ist richtig so.
+[01:29:29-5 @christopherzimmermann] Denn diese Entscheidung kann ich als Biologe nicht fällen.
+[01:29:33-6 @christopherzimmermann] Und noch schwieriger wird es, wenn wir anfangen, bestimmte Fischarten gegeneinander abzuwägen.
+[01:29:37-7 @christopherzimmermann] Wir glauben inzwischen, dass wir bei einem sehr einfachen Ökosystem wie der Ostsee,
+[01:29:41-5 @christopherzimmermann] einfach deswegen, weil es wenig verschiedene Fischereien gibt, die alle an den gleichen Lebensstadien partizipieren,
+[01:29:47-3 @christopherzimmermann] es gibt wenig genutzte Fischbestände, die einfach miteinander interagieren.
+[01:29:51-4 @christopherzimmermann] Wir glauben, dass wir das System so einstellen könnten, dass es im Extrem Sprotten- und Herings-dominiert wäre
+[01:29:57-7 @christopherzimmermann] oder Dorsch-dominiert wäre.
+[01:29:59-0 @christopherzimmermann] Wir brauchen bloß jemanden, der uns sagt, was er möchte oder irgendwas dazwischen.
+[01:30:02-9 @christopherzimmermann] Und am Ende gibt es dafür keine biologische Lösung, solange nicht jemand sagt,
+[01:30:08-3 @christopherzimmermann] wir wollen es auf Protein optimieren oder wir wollen es auf Arbeitsplätze optimieren
+[01:30:12-4 @christopherzimmermann] oder wir wollen es auf Einkommen der Fischerei optimieren.
+[01:30:15-9 @christopherzimmermann] Das sind alles berechtigte Zielansätze, die wir nicht gegeneinander abwägen können.
+[01:30:21-9 @christopherzimmermann] Das haben wir der Politik vorgestellt und haben gesagt, jetzt seid ihr dran,
+[01:30:24-7 @christopherzimmermann] sagt uns, was wir ihr wollt.
+[01:30:25-9 @christopherzimmermann] Wir können versuchen, das so einzustellen.
+[01:30:27-8 @christopherzimmermann] Und die Politik hat abgewunken und gesagt, das geht nicht.
+[01:30:30-9 @christopherzimmermann] Weil die Skandinavier den größten Anteil an den Herings- und Sprottenfängen in der Ostsee haben
+[01:30:35-9 @christopherzimmermann] und natürlich sagen, oh ja wir wollen ein Sprotten- und Herings-dominiertes System,
+[01:30:38-7 @christopherzimmermann] weil wir dann da mehr ernten können.
+[01:30:40-5 @christopherzimmermann] Und die Deutschen, Dänen und Polen sagen, nein nein wir wollen natürlich ein Dorsch-dominiertes System,
+[01:30:46-0 @christopherzimmermann] denn das ist ja nun der König der Fische an der Stelle, das ist der Dorsch.
+[01:30:49-5 @christopherzimmermann] Also warum sollten wir was anderes wollen?
+[01:30:51-5 @christopherzimmermann] Das ist biologisch nicht lösbar, dafür braucht es einen gesellschaftlichen Konsens
+[01:30:55-0 @christopherzimmermann] und den können nicht wir Biologen herstellen, sondern dafür brauchen wir am Ende gewählte Politiker.
+[01:31:00-5 @christopherzimmermann] Und das ist genau richtig so.
+[01:31:01-6 @timpritlove] Na klar, aber es ist natürlich sinnvoll, wenn man sozusagen auch seine eigene Botschaft schon so austariert hat,
+[01:31:05-6 @timpritlove] und ich denke, den Politikern wird es natürlich auch entgegenkommen, wenn man sagt,
+[01:31:08-2 @timpritlove] hör mal, wir haben jetzt hier nicht nur Fische gezählt und irgendwie meeresbiologische Grundlagen erforscht,
+[01:31:13-9 @timpritlove] sondern wir haben halt hier auch mal so ganz konkret die sozialen Auswirkungen im Bezug auf den Tourismus etc. auch mit abgewogen,
+[01:31:21-3 @timpritlove] hier ist unsere Gesamtbotschaft, vielleicht passt das ja besser.
+[01:31:24-2 @christopherzimmermann] Ganz genau, und auch das ist in aller Regel nicht eine Gesamtbotschaft,
+[01:31:27-1 @christopherzimmermann] sondern es sind eben mindestens zwei oder drei verschiedene Botschaften.
+[01:31:29-9 @christopherzimmermann] Denn auch da gibt es wieder verschiedene Optionen.
+[01:31:32-2 @christopherzimmermann] Manchmal sind wir selbst überrascht, was passiert.
+[01:31:34-6 @christopherzimmermann] Also wir haben uns die Einführung der Tagesfangmengenbegrenzung in der Angelei leichter vorgestellt.
+[01:31:39-5 @christopherzimmermann] Wir haben offensichtlich nicht genügend auf dem Schirm gehabt, dass die allermeisten Touristen,
+[01:31:44-0 @christopherzimmermann] die Kutterausfahrten machen, aus Mittel- oder Süddeutschland kommen und sagen,
+[01:31:48-7 @christopherzimmermann] auch wenn ich in meinem Leben noch nicht mehr als fünf Dorsche gefangen habe,
+[01:31:51-3 @christopherzimmermann] wenn ich nicht mehr als fünf Dorsche fangen darf, dann komm ich nicht mehr.
+[01:31:54-7 @christopherzimmermann] Was dazu führt, dass es an der Küste ein großes Kuttersterben gibt und für die kann man keine Beihilfen locker machen,
+[01:32:00-1 @christopherzimmermann] weil es halt keine Fischereifahrzeuge sind.
+[01:32:03-0 @christopherzimmermann] Großes Problem, gehen wir jetzt als nächstes an.
+[01:32:05-3 @christopherzimmermann] Wenn wir Glück haben, erholt sich der Dorschbestand so schnell, dass das keine bleibenden Schäden verursacht.
+[01:32:10-6 @christopherzimmermann] Aber da gibt es tatsächlich einen Strukturwandel, auf den wir, muss ich ganz selbstkritisch sagen,
+[01:32:14-8 @christopherzimmermann] die Politik noch besser hätten aufmerksam machen können.
+[01:32:17-8 @christopherzimmermann] Aber als politikberatende Wissenschaftler genießen wir natürlich einerseits den großen Einfluss,
+[01:32:22-1 @christopherzimmermann] den wir auf so was wie Gesetzgebung oder Management haben, das ist viel größer
+[01:32:27-5 @christopherzimmermann] als der Einfluss der Elfenbeinturmforschung, aber wir müssen diese Linie zwischen
+[01:32:31-9 @christopherzimmermann] wissenschaftlich belegbarem Rat und Meinung ganz ganz klar ziehen
+[01:32:37-1 @christopherzimmermann] und wir müssen immer darauf achten, dass die Politik das letzte Wort hat.
+[01:32:40-2 @christopherzimmermann] Mein Lieblingsbeispiel ist die ganze Klimaerwärmungsdebatte und so weiter,
+[01:32:45-5 @christopherzimmermann] wo wir Wissenschaftler aus meiner Sicht völlig zu recht sehr früh gesagt haben,
+[01:32:48-8 @christopherzimmermann] Leute tut euch selbst einen Gefallen, mehr als zwei Grad Erwärmung bis so und so ist absolut indiskutabel,
+[01:32:55-6 @christopherzimmermann] aber wir haben es versäumt, der Politik klarzumachen, was die Folgen einer anderen Entscheidung sind.
+[01:33:01-1 @christopherzimmermann] Und am Ende hat die Politik fast flächendeckend rausgefunden, das Zwei-Grad-Ziel ist nicht zu halten.
+[01:33:06-1 @christopherzimmermann] Und dann passiert so was, aus meiner Wahrnehmung wenigstens, passiert so was wie,
+[01:33:09-6 @christopherzimmermann] die haben gesagt, die Welt geht unter, wenn wir mehr als zwei Grad Erwärmung zulassen,
+[01:33:13-5 @christopherzimmermann] da wir das nicht halten können, da geht die Welt halt unter, müssen wir uns darum nicht kümmern.
+[01:33:16-1 @christopherzimmermann] Statt sehr deutlich zu sagen, jedes Viertelgrad macht einen Unterschied.
+[01:33:20-2 @christopherzimmermann] Und wenn ihr Zweieinhalb Grad macht, dann hat das diese und jene ökonomischen Auswirkungen.
+[01:33:23-9 @christopherzimmermann] Und da war die Klimadebatte einfach nicht gut genug, und das versuchen wir
+[01:33:27-8 @christopherzimmermann] in unserem kleinen Bereich zu vermeiden.
+[01:33:31-1 @timpritlove] Zum Ausklang, auch wenn man damit hätte fast einsteigen können, wollte ich nochmal so ein bisschen auf die Metaebene kommen
+[01:33:40-8 @timpritlove] und die Frage so, welchen Beitrag sollte und kann das Meer zur Ernährung der Gesellschaft denn überhaupt beitragen?
+[01:33:50-9 @timpritlove] Das ist natürlich jetzt auch nichts neues und ist auch nicht so ohne weiteres wegzudenken.
+[01:33:56-1 @timpritlove] Also die Fischstäbchen werden auch weiterhin populär sein.
+[01:34:00-1 @timpritlove] Aber es stellt sich ja auch immer so diese Frage und es klang ja eben auch schon so an,
+[01:34:03-2 @timpritlove] so dieses, ist denn dieses Meer für uns beliebig ausbeutbar?
+[01:34:09-7 @timpritlove] Wie verhält sich das im Gesamtspiel der Nahrungsquellen?
+[01:34:15-6 @christopherzimmermann] Also das Meer ist natürlich nicht beliebig ausbeutbar, sondern auch die lebenden nachwachsenden Ressourcen des Meeres haben zwar den Vorteil,
+[01:34:22-6 @christopherzimmermann] dass sie nachwachsen, wenn man sie nachwachsen lässt, aber dafür braucht man ein gutes Management.
+[01:34:28-9 @christopherzimmermann] Auch dieser Lebensraum ist endlich sozusagen und es bedarf eines guten Managements.
+[01:34:33-7 @christopherzimmermann] Dass sich das lohnt, davon bin ich fest überzeugt, denn das Meer könnte tatsächlich …
+[01:34:38-1 @christopherzimmermann] Der Weltozean liefert zurzeit so zwischen 80-100 Millionen Tonnen Ertrag,
+[01:34:44-3 @christopherzimmermann] zum größten Teil für die menschliche Ernährung, aber nicht ausschließlich.
+[01:34:47-5 @christopherzimmermann] Und das könnte man um 10-20 Millionen Tonnen steigern diesen Ertrag,
+[01:34:51-7 @christopherzimmermann] wenn alle Fischbestände in gutem Zustand wären.
+[01:34:54-8 @christopherzimmermann] Das muss man immer wieder deutlich sagen.
+[01:34:55-9 @christopherzimmermann] Es lohnt sich, Fischbestände gut zu managen, sie größer werden zu lassen,
+[01:34:59-9 @christopherzimmermann] weil der Ertrag steigt.
+[01:35:01-6 @christopherzimmermann] Nun gibt es viele Leute, die einfach jahrelang immer wieder von kollabierenden Fischbeständen gehört haben
+[01:35:06-8 @christopherzimmermann] und der festen Überzeugung sind, das Meer ist im Grunde leergefischt.
+[01:35:10-4 @christopherzimmermann] Das Gegenteil ist der Fall.
+[01:35:11-5 @christopherzimmermann] Es ist tatsächlich so, dass rund 30% der Weltfischbestände, über die wir ausreichend Daten haben,
+[01:35:17-3 @christopherzimmermann] in schlechtem Zustand sind, also kollabiert oder überfischt oder sich erholend,
+[01:35:21-6 @christopherzimmermann] auch da gibt es welche darunter und so weiter,
+[01:35:24-0 @christopherzimmermann] aber der ganze Rest, insbesondere die 58% nach letzten Zahlen, die immer als bis an die Grenze befischt bezeichnet werden,
+[01:35:32-0 @christopherzimmermann] sind genau in dem Zustand, in dem wir sie haben wollen.
+[01:35:34-4 @christopherzimmermann] Nach dem UN-Abkommen in Johannesburg wollen wir Fischbestände so managen, dass sie bis an die Grenze befischt werden,
+[01:35:40-6 @christopherzimmermann] dann werden sie immer noch nachhaltig befischt, aber wir müssen natürlich viel über sie wissen
+[01:35:44-0 @christopherzimmermann] und wir müssen möglichst vorsichtig sein, damit wir sie nicht über die Grenze in den roten Bereich schieben.
+[01:35:48-6 @christopherzimmermann] Das Meer ist keineswegs leer gefischt, es gibt viele positive Beispiele dafür,
+[01:35:52-9 @christopherzimmermann] wie auch stark überfischte oder kollabierte Bestände sich erholt haben.
+[01:35:56-7 @christopherzimmermann] Keine dieser Meeresfischarten ist vom Aussterben bedroht, weil die Bestandsgrößen viel zu klein werden,
+[01:36:02-2 @christopherzimmermann] als dass sich eine kommerzielle Fischerei lohnen würde.
+[01:36:05-8 @christopherzimmermann] Und sie können sich sehr schnell erholen, siehe Beispiel Nordseehering
+[01:36:09-9 @christopherzimmermann] oder siehe jetzt Beispiel Dorsch der westlichen Ostsee, der im letzten Jahr als kollabiert galt
+[01:36:14-8 @christopherzimmermann] und wenn alles nur ein bisschen gut geht, dann ist der Anfang 2019 voll im grünen Bereich.
+[01:36:19-9 @christopherzimmermann] Ein einziger starker Jahrgang reicht am Ende aus, um den Bestand wieder in den grünen Bereich zu bringen,
+[01:36:24-6 @christopherzimmermann] wenn man rechtzeitig harte Einschnitte vorsieht und das Management entsprechend anpasst.
+[01:36:29-4 @christopherzimmermann] Und nicht sagt, wird schon nicht so schlimm werden.
+[01:36:31-7 @christopherzimmermann] Dann kann man auch dafür sorgen, dass so ein Bestand 20-30 Jahre lang sozusagen unter der wirtschaftlich sinnvollen nutzbaren Grenze ist.
+[01:36:39-1 @christopherzimmermann] Dass sich das lohnt, sieht man auch an der Ostsee.
+[01:36:41-7 @christopherzimmermann] In der Ostsee geht es fast allen Fischbeständen inzwischen wieder sehr sehr gut,
+[01:36:45-0 @christopherzimmermann] mit Ausnahme leider der beiden Brotfische der deutschen Fischerei,
+[01:36:48-4 @christopherzimmermann] dem Hering der westlichen Ostsee und dem Dorsch der westlichen Ostsee.
+[01:36:51-3 @christopherzimmermann] Das ist sehr sehr unglücklich, aber die allermeisten anderen Bestände sind in sehr gutem oder gutem Zustand.
+[01:36:57-3 @christopherzimmermann] Die Ostsee kann immer noch das erste vollständig nachhaltige bewirtschaftete Meer der Welt werden.
+[01:37:02-7 @christopherzimmermann] Und es lohnt sich auch deswegen, weil der Verzehr von wildem Meeresfisch ökologisch vorteilhaft ist.
+[01:37:08-2 @christopherzimmermann] Er ist einerseits ethisch vorteilhaft, weil diese Tiere, bis zu dem Moment,
+[01:37:11-6 @christopherzimmermann] wo sie uns ins Netz gingen, ein naturnahes Leben gelebt haben.
+[01:37:15-1 @christopherzimmermann] Wir haben also all die Probleme mit Massentierhaltung, die wir an Land haben, nicht.
+[01:37:18-9 @christopherzimmermann] Er ist aber auch ökologisch vorteilhaft, weil die Nahrungsumsetzungsraten von Fisch
+[01:37:23-9 @christopherzimmermann] extrem günstig sind.
+[01:37:24-9 @christopherzimmermann] Wenn wir uns angucken, welche food conversion ratios Fische haben,
+[01:37:30-4 @christopherzimmermann] dann ist es beim Lachs zum Beispiel 2:1.
+[01:37:32-5 @christopherzimmermann] Also zwei Teile Nahrung brauche ich, um einen Teil für den Menschen verwertbares Lebensmittel zu erzeugen.
+[01:37:40-5 @christopherzimmermann] Bei Hühnern ist es 3:1, bei Schweinen ist 4:1, bei Rindern ist 8:1.
+[01:37:44-6 @christopherzimmermann] das heißt, wenn ich das im globalen Zusammenhang sehe und nicht nur aus der Perspektive des Landnutzers,
+[01:37:50-1 @christopherzimmermann] der sich daran gewöhnt hat, dass wir an Land sowieso alles kaputt machen
+[01:37:52-9 @christopherzimmermann] und deswegen das Meer möglichst in Ruhe lassen sollen, dann ist es gut mehr Fisch zu essen.
+[01:37:57-8 @christopherzimmermann] Es wäre natürlich noch besser, mehr Gemüse und Getreide zu essen, keine Frage,
+[01:38:02-5 @christopherzimmermann] und für jeden vormaligen Fischesser, der durch die Fischführer der Umweltverbände am Ende zum Vegetarier wird,
+[01:38:08-4 @christopherzimmermann] ist das gut gelaufen, aber wenn ich Fisch substituiere mit Huhn, Schwein oder Rind,
+[01:38:13-8 @christopherzimmermann] dann habe ich ökologisch nichts gutes getan, im Gegenteil.
+[01:38:17-6 @christopherzimmermann] Das wäre andersrum besser, eine Rindfleischnahrung durch eine Fischnahrung zu substituieren,
+[01:38:25-2 @christopherzimmermann] einfach, weil dann mehr für alle übrig ist.
+[01:38:27-2 @christopherzimmermann] Und wenn wir uns angucken, steigende Weltbevölkerung, Nahrungsmittelknappheit, Proteinversorgung und so weiter,
+[01:38:32-5 @christopherzimmermann] dann werden wir um Fisch nicht drumrumkommen, es sei denn, es gelingt uns,
+[01:38:36-1 @christopherzimmermann] die allermeisten Menschen zu 100% Vegetariern zu machen.
+[01:38:40-5 @christopherzimmermann] Und deswegen mein Plädoyer, das Meer ist ein für den Menschen nutzbarer Raum.
+[01:38:45-5 @christopherzimmermann] Ich kann verstehen, warum es romantisch überfrachtet ist.
+[01:38:50-4 @christopherzimmermann] Wir haben an Land so viel kaputt gemacht, aber am Ende müssen wir das Ganze ganzheitlich betrachten
+[01:38:54-3 @christopherzimmermann] und da werden wir sehr sehr schnell sehen, wir sollten das Meer nutzen,
+[01:38:57-6 @christopherzimmermann] so nachhaltig, so vorsichtig wie möglich, aber wir sollten nicht einfach die Produktion an Land dafür intensivieren,
+[01:39:03-9 @christopherzimmermann] damit wir weniger Fisch ernten.
+[01:39:07-0 @timpritlove] Es gibt natürlich auch solche Trends wie, wie nennt man das, Aqua-Kultur-Farming, gerade im Lachsbereich ist das ja ein Thema.
+[01:39:20-1 @timpritlove] In einigen Ländern auch ziemlich dramatisch mit entsprechenden Folgen.
+[01:39:26-5 @timpritlove] Ist das überhaupt in der Ostsee ein Thema?
+[01:39:28-7 @christopherzimmermann] In der Ostsee ist es kein großes Thema, einfach, weil die, sagen wir mal,
+[01:39:32-7 @christopherzimmermann] die räumlichen, die morphologischen Gegebenheiten nicht gut sind.
+[01:39:35-8 @christopherzimmermann] Wenn man ein Land wie Norwegen ist, was überall tiefe geschützte Fjorde hat,
+[01:39:39-1 @christopherzimmermann] dann eignet sich das für Lachsfarmen besonders gut.
+[01:39:41-8 @christopherzimmermann] Die Ostsee hat überwiegend flache sandige Küsten, wo man sehr weit raus muss,
+[01:39:45-1 @christopherzimmermann] um solche Netzkäfiganlagen zu installieren und dann sind sie den offenen Wellen wieder ausgesetzt
+[01:39:49-8 @christopherzimmermann] und so geschützt, wie wir das eingangs besprochen haben, ist die Ostsee dann doch nicht.
+[01:39:53-8 @christopherzimmermann] Auch hier versinken großen Fähren einfach wegen Sturmschlag oder sowas.
+[01:39:57-3 @christopherzimmermann] Also es kann auch hier übel rau zugehen und in Abwesenheit von geschützten Buchten
+[01:40:03-4 @christopherzimmermann] ist das einfach kein gutes Gebiet für solche Offshore-Farmen.
+[01:40:07-3 @timpritlove] Das heißt, der Anteil ist relativ gering.
+[01:40:10-0 @timpritlove] Sind denn Fische, die aus so einem Aqua-Farming hervorgehen dann nicht mehr so Wildtiere
+[01:40:14-8 @timpritlove] und ist da die Qualität deutlich anders, weiß man da was drüber?
+[01:40:19-1 @christopherzimmermann] Na die Fische, die aus Aqua-Kulturen kommen, sind keine Wildtiere.
+[01:40:21-9 @christopherzimmermann] Das muss man ganz klar sagen.
+[01:40:23-0 @christopherzimmermann] Das Hausschwein, das wir selbst von einem Ökobauern beziehen, ist kein Wildschwein mehr.
+[01:40:28-8 @christopherzimmermann] Das ist ganz klar.
+[01:40:30-1 @christopherzimmermann] Also diese Vorteile, der hat sein Leben in Wildnis verbracht, wir haben keinen Einfluss auf seine Ernährung und so weiter,
+[01:40:36-7 @christopherzimmermann] wir haben keinen Einfluss, wie er sich vermehrt hat, das einzige, was wir tun können, ist,
+[01:40:40-2 @christopherzimmermann] ihn vorsichtig nutzen, damit der Bestand groß genug bleibt
+[01:40:43-4 @christopherzimmermann] Diese Vorteile gibt man auf, dafür hat man auf der anderen Seite den Vorteil,
+[01:40:48-6 @christopherzimmermann] dass man die Produktion zum Beispiel fast beliebig steigern kann.
+[01:40:51-1 @christopherzimmermann] Wie in der Massentierhaltung üblich.
+[01:40:53-9 @christopherzimmermann] Man hat also die gleichen Probleme, die wir in der Massentierhaltung an Land haben,
+[01:40:57-6 @christopherzimmermann] hat man auch, die kann man alle adressieren.
+[01:40:59-8 @christopherzimmermann] Und es gibt viele kluge Köpfe, ich bin nun kein Aqua-Kultur-Forscher,
+[01:41:03-6 @christopherzimmermann] aber es gibt viele kluge Köpfe, die sich Gedanken machen, wie man den Antibiotikaeinsatz immer weiter reduzieren kann,
+[01:41:09-5 @christopherzimmermann] zum Beispiel wie man die Haltungsdichten so macht, dass es auch tierfreundlich ist.
+[01:41:12-5 @christopherzimmermann] Wie man mit den Fäkalien aus diesen Anlagen umgeht, wie man verhindert,
+[01:41:17-2 @christopherzimmermann] dass es Escapees gibt, also hochgezüchtete, auf Produktion gezüchtet Lachse gibt,
+[01:41:21-8 @christopherzimmermann] die dann ausbrechen und sich mit den Wildbeständen vermischen und die schwächen,
+[01:41:25-9 @christopherzimmermann] einfach weil sie schneller wachsen, und deswegen einen Fortpflanzungserfolg haben,
+[01:41:29-1 @christopherzimmermann] Das kann man alles adressieren, da gibt es viele erfolgreiche Ansätze,
+[01:41:32-6 @christopherzimmermann] aber es sind halt völlig andere Probleme, als die, die wir haben, wenn wir Wildfisch nutzen.
+[01:41:37-4 @christopherzimmermann] Das sind alles Sachen, die wir uns im Wildfischbereich überhaupt nicht angucken müssen.
+[01:41:40-5 @timpritlove] Aber es klingt ja schon jetzt so ein bisschen, als wäre tendenziell zumindest diese Aqua-Kultur-Technik eher eine zweifelhafte Maßnahme?
+[01:41:49-0 @christopherzimmermann] Nein finde ich gar nicht.
+[01:41:50-4 @christopherzimmermann] Also ich glaube, wenn wir uns um Welternährung kümmern und nochmal im Hinterkopf haben,
+[01:41:54-1 @christopherzimmermann] dass die Nahrungsumsetzraten bei Fisch günstiger sind als bei den allermeisten anderen Tieren,
+[01:42:00-1 @christopherzimmermann] die wir so in der Landzucht haben, dann lohnt es sich viel mehr zu investieren,
+[01:42:03-7 @christopherzimmermann] auch in die Fischzucht.
+[01:42:05-2 @christopherzimmermann] Denn das wird aus Wildfischbeständen nicht alles ausreichend kommen können.
+[01:42:09-5 @christopherzimmermann] Selbst wenn wir sagen, die Wildfischbestände könnten, wenn sie alle in gutem Zustand sind,
+[01:42:13-1 @christopherzimmermann] 20 Millionen Tonnen mehr Ertrag pro Jahr liefern, wird das nicht reichen.
+[01:42:17-0 @christopherzimmermann] Das heißt, wir werden uns Gedanken machen müssen über Aqua-Kultur, die dauernd wächst und wächst und wächst
+[01:42:22-2 @christopherzimmermann] und ich glaube inzwischen bei 40 oder 50% der Gesamtfischproduktion der Welt ist.
+[01:42:28-3 @christopherzimmermann] Also Wildfischerei ist schon nur noch 50%.
+[01:42:31-5 @christopherzimmermann] Das wird auch weiter wachsen, bin ich ziemlich überzeugt davon, aber man muss sich eben dann sehr sorgfältig andere Probleme angucken,
+[01:42:37-7 @christopherzimmermann] und dann lohnt es sich vielleicht, auf Bioproduktion zu gehen und so weiter.
+[01:42:42-1 @christopherzimmermann] Aber auch da nochmal, in einem norwegischen Zuchtlachs sind heute schon weniger Antibiotika
+[01:42:46-4 @christopherzimmermann] als selbst in einem Ökorind, muss man einfach wissen.
+[01:42:53-0 @christopherzimmermann] Die Land- und die Wasserproduktion ist da sehr sehr unterschiedlich.
+[01:42:57-2 @timpritlove] Ja und vor allem die Bodenlandwirtschaft beeinflusst ja das Meer und durch Nährstoffe, die eingetragen werden aus der Landwirtschaft,
+[01:43:05-4 @timpritlove] also Düngemittel etc., andersrum ist das ja eher nicht so.
+[01:43:11-3 @christopherzimmermann] Ganz genau. Das Meer hat ein relativ, außer über Klima jetzt natürlich, einen relativ geringen Einfluss auf die terrestrischen Ökosysteme.
+[01:43:17-0 @christopherzimmermann] Andersrum wissen wir als spätestens seit letztem Jahr, dass auch die Überdüngung einen wesentlichen Einfluss darauf hat,
+[01:43:23-9 @christopherzimmermann] dass der Nachwuchs des Herings der westlichen Ostsee immer weniger wird.
+[01:43:27-1 @christopherzimmermann] Das ist ein Zusammenspiel aus Temperaturerwärmung in weiten Teilen der westlichen Ostsee
+[01:43:32-3 @christopherzimmermann] und Nährstoffeintrag.
+[01:43:33-6 @christopherzimmermann] Und an der Stelle wird es jetzt echt spannend, wie man das denn eigentlich abwägt.
+[01:43:37-0 @christopherzimmermann] Wir leben hier in einem Land, Mecklenburg-Vorpommern, was stolz auf eine florierende Landwirtschaft ist,
+[01:43:42-6 @christopherzimmermann] aber auch stolz auf den Tourismus und stolz auch auf die Fischerei ist.
+[01:43:46-0 @christopherzimmermann] Und an der Stelle muss man jetzt anfangen abzuwägen, könnte man verhindern,
+[01:43:50-0 @christopherzimmermann] dass so viele Nährstoffe, also vor allen Dingen Phosphate und Nitrate in die Küstengewässer eingetragen werden,
+[01:43:57-5 @christopherzimmermann] indem man breitere Uferstreifen an den Flüssen oder so was nutzungsfrei oder wenigstens düngemittelfrei lässt,
+[01:44:02-7 @christopherzimmermann] was dann möglicherweise wieder eine sehr positive Auswirkung auf die Entwicklung des Heringsbestandes hat.
+[01:44:08-5 @christopherzimmermann] Denn unsere Heringsfischer knapsen zurzeit durch den immer kleiner werdenden Bestand.
+[01:44:12-5 @christopherzimmermann] Und es ist nicht deren Schuld, sondern es ist sozusagen die Schuld der geänderten Umweltbedingungen und der Überdüngung.
+[01:44:19-6 @timpritlove] Sie sagten vorhin, die Ostsee kann vielleicht das erste nachhaltig bewirtschaftete Ökosystem oder Meeresökosystem werden,
+[01:44:29-2 @timpritlove] ist das sozusagen das Ziel, ist das ein weit ausgerufenes oder eher ein privates Ziel von Ihnen?
+[01:44:36-1 @christopherzimmermann] Na das ist mehr meine Vorhersage, um auch zu sagen, wir sind auf einem guten Weg dahin.
+[01:44:40-3 @christopherzimmermann] Wir sind gar nicht mehr so weit weg.
+[01:44:42-4 @christopherzimmermann] Wir haben in der Ostsee andere Probleme, menschengemachte Probleme, die auch bleiben werden.
+[01:44:46-7 @christopherzimmermann] Wenn wir so was wie Munitionsverklappung und seit vielen vielen Jahren weiß man,
+[01:44:50-8 @christopherzimmermann] dass die Dinger vor sich hin rotten, jetzt sind sie endlich so weit, dass sie Munitionsbestandteile freisetzen,
+[01:44:55-6 @christopherzimmermann] die dann natürlich auch irgendwie giftig sind.
+[01:44:57-9 @christopherzimmermann] Das ist alles auf relativ kleiner Skala, ist nicht so, dass man den Fisch nicht mehr essen kann.
+[01:45:01-4 @christopherzimmermann] Aber ich frage mich schon, wieso wartet man denn eigentlich 20 Jahre wissend, dass man sie jetzt noch händeln kann
+[01:45:06-3 @christopherzimmermann] und in 20 Jahren kann man sie nicht mehr händeln, weil die Granaten oder was weiß ich alle zerfallen.
+[01:45:10-2 @christopherzimmermann] Wir haben nach wie vor in der nördlichen Ostsee die Belastung mit Schwermetallen und auch mit DDT-Derivaten,
+[01:45:17-4 @christopherzimmermann] also irgendwie persistenten chlororganischen Stoffen und so weiter.
+[01:45:21-1 @christopherzimmermann] Die da vermutlich auch nie wieder rausgehen, wegen der tiefen Beckenstruktur.
+[01:45:25-2 @christopherzimmermann] Die werden einfach dauernd rezykliert und dann gelangen sie wieder in die Wassersäule und dann sinken sie wieder zu Boden und so weiter.
+[01:45:31-4 @christopherzimmermann] Solche Probleme können wir erst mal nicht lösen, aber die Probleme mit der Überfischung können wir lösen.
+[01:45:37-3 @christopherzimmermann] Und wir sind da auf einem sehr sehr guten Weg und deswegen aus Fischsicht,
+[01:45:41-1 @christopherzimmermann] nur darauf war das bezogen, denn andere Sachen haben wir nicht in der Hand,
+[01:45:44-2 @christopherzimmermann] kann es tatsächlich sein, dass in Europa die Ostsee das erste Gebiet ist,
+[01:45:48-8 @christopherzimmermann] in der keine einzige Fischart, kein einziger Fischbestand mehr überfischt ist.
+[01:45:52-5 @christopherzimmermann] Da wollen wir gerne hin.
+[01:45:55-0 @timpritlove] Dann wünsche ich Ihnen da noch viel Erfolg auf diesem Weg.
+[01:45:58-9 @timpritlove] Und bedanke mich für das ausführliche Gespräch über die Fischerei in der Ostsee.
+[01:46:03-9 @timpritlove] Und auch darüber hinaus und das hat ein paar interessante Einblicke gegeben.
+[01:46:09-6 @timpritlove] Mir und sicherlich auch allen, die hier zugehört habe, also vielen Dank.
+[01:46:13-2 @christopherzimmermann] Sehr gerne.
+[01:46:14-1 @timpritlove] Und vielen Dank fürs Zuhören hier bei Forschergeist.
+[01:46:17-3 @timpritlove] Uns gibt es dann auch bald wieder, wie immer.
+[01:46:20-1 @timpritlove] Ich sage, tschüss und bis bald.
+[01:46:22-3 Outro]

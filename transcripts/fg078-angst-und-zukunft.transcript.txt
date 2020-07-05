@@ -1,0 +1,1189 @@
+﻿[00:00:00-0 @intro]
+[00:00:43-3 @timpritlove] Hallo und herzlich willkommen zu Forschergeist dem Podcast des Stifterverbands für die deutsche Wissenschaft.
+[00:00:48-8 @timpritlove] Mein Name ist Tim Pritlove und ich begrüße alle zu Ausgabe 78 hier bei Forschergeist.
+[00:00:56-6 @timpritlove] Und ja, wie es so unsere Art ist, sprechen wir hier viel über Wissenschaft und manchmal konkreter und manchmal ein bisschen meta.
+[00:01:04-6 @timpritlove] Ich habe so den Eindruck, heute ist beides dran.
+[00:01:09-8 @timpritlove] Denn heute sprechen wir über Ängste aller Art, die Ängste, die die Gesellschaft so hat,
+[00:01:17-6 @timpritlove] die vielleicht aber auch die Wissenschaft mit sich herumträgt und vor allem wie man damit umgeht.
+[00:01:26-6 @timpritlove] Und dazu begrüße ich meinen Gesprächspartner, nämlich den Jan Kalbitzer, hallo Jan.
+[00:01:30-0 @jankalbitzer] Hallo.
+[00:01:31-0 @timpritlove] Jan, du bist Psychologe.
+[00:01:32-7 @jankalbitzer] Psychiater.
+[00:01:33-6 @jankalbitzer] Psychiater?
+[00:01:34-7 @jankalbitzer] Psychiater, gut, dass du Psychologe sagst, weil das eine Verwechslung ist, die oft kommt.
+[00:01:37-7 @timpritlove] Ja.
+[00:01:38-4 @jankalbitzer] Es gibt ja so mehrere Begriffe, die durch die Gegend laufen und ich werde in den Medien immer Psychologe genannt, wenn es schiefgeht.
+[00:01:45-2 @jankalbitzer] Und ich bin Psychiater, das heißt, ich bin Arzt.
+[00:01:48-2 @jankalbitzer] Es gibt diejenigen, die Medizin studieren, die können dann Facharzt für Psychiatrie und Psychotherapie werden.
+[00:01:54-3 @jankalbitzer] Und es gibt diejenigen, die Psychologie studieren, die können dann auch eine psychotherapeutische Weiterbildung machen
+[00:01:58-7 @jankalbitzer] und sind dann auch Psychotherapeuten.
+[00:01:59-6 @jankalbitzer] Also sowohl Psychologen als auch Ärzte können Psychotherapeuten sein, aber Psychiater können nur Ärzte sein, das ist ein Facharzt.
+[00:02:06-9 @jankalbitzer] Das heißt, wir können Medikamente zum Beispiel verschreiben.
+[00:02:09-3 @jankalbitzer] Und es gibt ja auch, wenn es in diese psychiatriekritischen Diskussionen geht, dann sind wir diejenigen,
+[00:02:14-3 @jankalbitzer] die häufig mehr Diagnosen vergeben, die Medikamente auch zwangsvergeben in Akutpsychiatrien.
+[00:02:23-0 @jankalbitzer] Das heißt, in dieser Debatte um die Psychiatrie sind wir diejenigen, die diesen ganzen medizinischen Teil machen.
+[00:02:30-8 @jankalbitzer] Und Psychologen sind dann auch Psychotherapeuten, auch in Kliniken tätig, machen auch ganz viel Forschung,
+[00:02:36-6 @jankalbitzer] und das Interessante ist, ich habe in …
+[00:02:39-9 @jankalbitzer] eigentlich habe ich angefangen zu forschen in Kopenhagen.
+[00:02:42-2 @jankalbitzer] Ich bin nach der Uni, nach dem Studium der Medizin in Hannover, bin ich dann nach Kopenhagen gegangen für ein PHD,
+[00:02:48-1 @jankalbitzer] aus privaten Gründen eigentlich nach Kopenhagen, weil ich da jemanden kannte.
+[00:02:52-7 @jankalbitzer] Und das ist eigentlich eine ganz interessante Geschichte.
+[00:02:55-8 @jankalbitzer] Also ich bin da an die Uniklinik Kopenhagen, die hatten eine Stelle ausgeschrieben in Neurowissenschaften, wo es um Hirnforschung ging
+[00:03:02-0 @jankalbitzer] mit Positronen Emissionstomographie, das ist eine Technik, wo man etwas radioaktives injiziert, was im Gehirn landet,
+[00:03:09-1 @jankalbitzer] zum Beispiel an die Serotonin-Rezeptoren oder -Transporter bindet, misst dann die Radioaktivität außerhalb des Gehirns
+[00:03:16-4 @jankalbitzer] und kann dann sagen, wie aktiv sind zum Beispiel die Serotonin-Transporter und sagt was über den Hirnstoffwechsel aus.
+[00:03:21-9 @jankalbitzer] Auf jeden Fall bin ich zum Institut hin und wusste gar nicht was die machen, ich wollte ja nur da jemanden besuchen in Kopenhagen
+[00:03:26-9 @jankalbitzer] und habe gesagt, ich würde gerne nach Dänemark kommen, um Dänisch zu lernen und Kierkegaard, den Philosophen, im Original zu lesen.
+[00:03:34-7 @jankalbitzer] Und das fanden die irgendwie cool und haben mich dann angenommen und damit fing meine wissenschaftliche Karriere an.
+[00:03:39-8 @jankalbitzer] Also ich habe vorher in Hannover studiert und einen mittelmäßigen Abschluss gehabt und wäre nie in diese wissenschaftliche Laufbahn gekommen.
+[00:03:45-4 @timpritlove] Was denn studiert?
+[00:03:47-2 @jankalbitzer] Medizin habe ich studiert und ein bisschen Philosophie nebenbei, aber nicht fertig.
+[00:03:51-3 @jankalbitzer] Und bin eigentlich über diese Abgebrühtheit in Kopenhagen in eine wissenschaftliche Laufbahn rein.
+[00:03:59-1 @jankalbitzer] Von Kopenhagen dann per Austausch nach Oxford.
+[00:04:01-2 @jankalbitzer] Und wenn man so ein paar Sachen auf seinem Lebenslauf stehen hat, so ein paar Stationen, dann wirkt sich das sehr positiv aus.
+[00:04:06-9 @jankalbitzer] Und ich glaube, ohne diese Zwischenstation wäre ich dann nachher auch nie an der Charité gelandet,
+[00:04:10-4 @jankalbitzer] um da irgendwie meine Weiterbildung zum Facharzt zu machen und zu forschen.
+[00:04:15-6 @jankalbitzer] Und deswegen muss man sagen, diese eine Aussage in diesem Institut.
+[00:04:20-2 @jankalbitzer] Ich hatte in einer Jugendherberge übernachtet und eine relativ schlechte Nacht gehabt, mir war wirklich alles egal.
+[00:04:24-3 @jankalbitzer] Und ich habe nur gesagt, ich möchte gern Kierkegaard im Original lesen und da haben die mich genommen
+[00:04:28-0 @jankalbitzer] und da bin ich in die Wissenschaft gekommen.
+[00:04:30-2 @jankalbitzer] Und das hat meinen wissenschaftlichen Weg sehr geprägt.
+[00:04:35-5 @jankalbitzer] Und da habe ich gemerkt, dass Psychologen, wenn wir jetzt nochmal über das Thema Psychologen, Psychiater reden,
+[00:04:40-5 @jankalbitzer] also mir geht es jetzt darum, wie beurteilen Leser einer Zeitung zum Beispiel, wenn es um einen Experten geht,
+[00:04:46-2 @jankalbitzer] den Unterschied zwischen Psychologen und Psychiater.
+[00:04:47-9 @jankalbitzer] Psychologen haben viel mehr methodische Kenntnisse als Psychiater meistens.
+[00:04:52-1 @jankalbitzer] Weil die Psychologiestudenten ganz viel über Methodik lernen, die machen ganz viel Statistik und Analyse,
+[00:04:57-8 @jankalbitzer] das lernen Ärzte in ihrem Studium nur sehr sehr wenig.
+[00:05:01-5 @jankalbitzer] Ärzte sehen dafür Patienten und kommen auch mit so einer gewissen Autorität daher,
+[00:05:04-9 @jankalbitzer] weil sie Ärzte sind und sagen, ja ich bin doch Arzt, ich sage das jetzt.
+[00:05:09-1 @jankalbitzer] Oft sind Psychologen aber mit einem besseren wissenschaftlichen Grundverständnis ausgestattet.
+[00:05:14-5 @jankalbitzer] In der Wahrnehmung ist es dann oft anders, dass die Ärzte mehr Autorität zugeordnet kriegen, wenn sie als Experten irgendwo auftreten,
+[00:05:21-5 @jankalbitzer] was auch teilweise deswegen gerechtfertigt ist, weil sie eben den Alltag sehen, den Patientenkontakt haben,
+[00:05:28-0 @jankalbitzer] aber wissenschaftlich denke ich, dass Psychologen, die in so Felder reingehen, oft nochmal eine bessere Anfangsausstattung haben.
+[00:05:33-4 @jankalbitzer] Das ändert sich dann, wenn man länger forscht, aber Psychologen haben da, um jetzt diesen Kreis zu schließen
+[00:05:38-9 @jankalbitzer] mit dem Unterschied zwischen Psychiatern und Psychologen, vom Studium her eine sehr viel bessere Grundausstattung als Ärzte meistens.
+[00:05:47-3 @timpritlove] Das heißt, du hast auch nicht unbedingt so ein Selbstverständnis als Wissenschaftler gehabt,
+[00:05:54-0 @timpritlove] jetzt nur von dem, was du studiert hast, also Medizinstudium kann man natürlich auch so und so verfolgen.
+[00:06:00-7 @jankalbitzer] Nein, ich bin da überhaupt nicht wissenschaftlich eingestiegen ursprünglich.
+[00:06:05-3 @jankalbitzer] Also ich habe dann da angefangen in Kopenhagen, es ging um die Analyse von Gehirnen.
+[00:06:11-3 @jankalbitzer] Also so Hirnscans zu untersuchen, eben mit Positronen-Emissions-Tomografie, PAT.
+[00:06:17-8 @jankalbitzer] Und ich wusste nicht genau wie das geht, ich kannte die Technik, aber ich hatte keine Ahnung, wie das genau geht.
+[00:06:24-3 @jankalbitzer] Und ich habe da wahnsinnig viel darüber gelernt, wie Forschung an sich stattfindet.
+[00:06:26-7 @jankalbitzer] Und damals, muss man sagen, war die Hirnforschung noch so ein bisschen hiper.
+[00:06:29-7 @jankalbitzer] Ich bin irgendwann mal abends in eine Kneipe gegangen und wollte da die Frau hinter der Bar anbaggern und meinte,
+[00:06:34-9 @jankalbitzer] ich bin Wissenschaftler an der Uni Kopenhagen und forsche über Gehirne und dann meinte sie nur so ganz trocken,
+[00:06:39-6 @jankalbitzer] das machen hier viele, bin ich total abgeblitzt.
+[00:06:43-9 @timpritlove] Stell dich hinten an.
+[00:06:45-9 @jankalbitzer] Genau, und das war peinlich, aber es war heilsam.
+[00:06:49-2 @jankalbitzer] Und die Sachen, die wir da machen mussten, waren zum Beispiel, man muss ja so ein Gehirn, was dreidimensional ist,
+[00:06:56-7 @jankalbitzer] irgendwie vergleichbar machen.
+[00:06:58-3 @jankalbitzer] Wenn man sagt, wir messen jetzt die Gehirne von 20 Menschen mit Depressionen und 20 Menschen, die keine Depression haben,
+[00:07:05-2 @jankalbitzer] und wollen gucken, was passiert da in bestimmten Hirnregionen, dann muss man es ja irgendwie vergleichbar machen.
+[00:07:09-8 @jankalbitzer] Da gibt es zwei Ansätze, entweder man morpht die Gehirne, dass sie alle gleich aussehen.
+[00:07:15-4 @jankalbitzer] Das heißt, man nimmt die individuellen Gehirne, die völlig unterschiedlich sind und quetscht die solange, bis die alle ähnlich aussehen,
+[00:07:20-6 @jankalbitzer] auf so einen Standardspace, wo man gar nicht, also mittlerweile hat man da so ein paar Studien dazu gemacht,
+[00:07:26-1 @jankalbitzer] das ist so ein bisschen verzerrt, aber auch so ein bisschen kann man auch Effekte sehen.
+[00:07:30-2 @jankalbitzer] Das ist die eine Methode, die man macht, man quetscht es auf einen Standardspace, was ganz interessant ist,
+[00:07:33-9 @jankalbitzer] weil damals der Standardspace, diese MNI-Standardspace vom Montreal Neurological Institute,
+[00:07:43-0 @jankalbitzer] der bestand vor allem aus Gehirnen von männlichen Wissenschaftlern, die sich da zur Verfügung gestellt hatten.
+[00:07:47-1 @jankalbitzer] Da muss man auch fragen, ist das das allgemeine Standardgehirn, auf das man die Gehirne aller Menschen quetschen sollte,
+[00:07:51-4 @jankalbitzer] wenn man sie vergleichbar machen will?
+[00:07:54-9 @jankalbitzer] Und dann untersucht man das Gehirn, indem es in einmal Regionen einteilt, die man anatomisch kennt,
+[00:08:01-7 @jankalbitzer] zum Beispiel das Frontalhirn oder den Hirnstamm und zum anderen macht man Voxel-Analysen, das heißt,
+[00:08:06-4 @jankalbitzer] man unterteilt das so in kleine Würfel, wenn man ein Bild untersucht, guckt man sich ja Pixel an, die sind zweidimensional,
+[00:08:11-9 @jankalbitzer] im Gehirn untersucht man Würfel, Voxel genannt, das sind so zum Beispiel 1x1x1 Millimeter große Kästchen
+[00:08:18-3 @jankalbitzer] und die vergleicht man alle einzeln statistisch miteinander.
+[00:08:22-1 @timpritlove] Also so ein dreidimensionales Pixel sozusagen.
+[00:08:24-6 @jankalbitzer] Genau, ein dreidimensionales Pixel.
+[00:08:26-9 @jankalbitzer] Und damals war es noch so, dass Gehirne oft einfach so ganz breit alle Voxel gleichzeitig untersucht wurden.
+[00:08:33-4 @jankalbitzer] Man guckte, wo kam da ein Effekt raus.
+[00:08:35-6 @jankalbitzer] Die meisten hätten das nicht überlebt, wenn man das für die multiple Testung korrigiert hätte.
+[00:08:42-8 @jankalbitzer] Also wenn irgendwie eine Frage tausendmal wiederholt, sagt irgendwann immer jemand ja, so ist es auch in der Statistik,
+[00:08:48-1 @jankalbitzer] wenn man alles mögliche testet, kommt immer was raus und dafür muss man dann korrigieren,
+[00:08:52-3 @jankalbitzer] was in den Zeiten noch ganz oft unzureichend gemacht wurde, als ich angefangen habe Neuroforschung zu machen.
+[00:08:58-1 @jankalbitzer] Was mir ziemlich schnell aufgefallen ist, dass das irgendwie weird ist, dass immer irgendwas rauskommt bei diesen ganzen Gehirnuntersuchungen.
+[00:09:04-6 @jankalbitzer] Oft in Regionen, von denen man das nicht erwartet hätte.
+[00:09:08-2 @jankalbitzer] Mittlerweile hat man das deutlich verbessert, man muss Studien präregistrieren, also vorher anmelden,
+[00:09:12-7 @jankalbitzer] sagen was man untersuchen will und muss sauber statistisch korrigieren.
+[00:09:16-0 @jankalbitzer] aber viele dieser frühen Hirnforschungsergebnisse waren einfach Bullshit.
+[00:09:20-4 @jankalbitzer] Also wenn es um die Frage ging, wo ist das moralische Gewissen des Menschen?
+[00:09:24-2 @jankalbitzer] Und dann findet man irgendeinen Bereich im Gehirn, wo man sagt, die Moralität findet mit so und so hoher Wahrscheinlichkeit immer da statt,
+[00:09:32-3 @jankalbitzer] das meiste davon ist nicht reproduzierbar gewesen.
+[00:09:35-7 @jankalbitzer] Ich glaube, dazu hattest du auch schon Sendungen zu diesen Fehlern.
+[00:09:38-1 @jankalbitzer] Das war auf jeden Fall der Bereich, in dem ich gestartet bin und relativ schnell gemerkt habe,
+[00:09:41-6 @jankalbitzer] ich war derjenige, der Methoden entwickeln musste, um diese Gehirne irgendwie vergleichbar zu machen.
+[00:09:46-8 @jankalbitzer] Wir hatten den anderen Ansatz, wir haben die Gehirne nicht gequetscht, sondern wir haben in jedem Gehirn die Regionen eingezeichnet
+[00:09:51-9 @jankalbitzer] in dem individuellen Gehirn und gesagt, wie hoch ist die Aktivität bei der Person in der Region
+[00:09:57-2 @jankalbitzer] und das dann zwischen den einzelnen Personen verglichen.
+[00:09:59-9 @jankalbitzer] Also ich habe immer einen Frontal dann eingezeichnet und dann gesagt, so hoch ist die Aktivität da
+[00:10:03-1 @jankalbitzer] und bei dem und bei dem und bei dem, ohne die Gehirne zu quetschen.
+[00:10:05-9 @jankalbitzer] Was wir da aber machen mussten, ist, dass wir zu jeder Person zu der Positronen-Emissions-Tomographie,
+[00:10:12-4 @jankalbitzer] wo man nur Aktivität sieht, noch ein Kernspinbild braucht, ein MRT, um die Regionen dann genauer zu sehen.
+[00:10:20-1 @jankalbitzer] Und die musste ich übereinanderlegen.
+[00:10:21-4 @jankalbitzer] Also das Positronen-Bild, wo man dann also bunte Regionen sieht, auf das Kernspinbild, um dann die Regionen einzeichnen zu können.
+[00:10:28-6 @jankalbitzer] Das war mein erster Job in der Wissenschaft und da habe ich viel methodischen Kram gemacht und wusste sehr wenig
+[00:10:34-6 @jankalbitzer] und bin da so reingestolpert, habe viele Fehler gemacht, die ich dann so nach und nach erkannt habe.
+[00:10:39-5 @jankalbitzer] Und das war so ganz hilfreich, um das Wissenschaftsgeschäft zu verstehen, weil ich gemerkt habe,
+[00:10:44-4 @jankalbitzer] ich mache irgendwas und da kommt was raus, was grandios aussieht, ich bin mir aber noch nicht sicher und merke dann so,
+[00:10:50-0 @jankalbitzer] wie der Druck entsteht, weil wir Forschungsgelder kriegen von Stiftungen, wir müssen irgendwas produzieren,
+[00:10:57-0 @jankalbitzer] von Kollegen oder Vorgesetzten, die dann sagen, Mensch lass uns das publizieren.
+[00:10:59-6 @jankalbitzer] Ich habe gesagt, ich bin noch nicht so ganz sicher.
+[00:11:01-2 @jankalbitzer] Ja, das muss jetzt mal langsam raus.
+[00:11:03-6 @jankalbitzer] So ist dann so der Betrieb, den habe ich da so kennengelernt.
+[00:11:06-1 @jankalbitzer] Und das hat mich damals schon total verunsichert.
+[00:11:08-2 @jankalbitzer] Was auch der Grund war, warum ich dann später, als ich an der Charité zum Thema Internet geforscht habe,
+[00:11:12-3 @jankalbitzer] einen ganz anderen Ansatz hatte und gesagt habe,
+[00:11:15-5 @jankalbitzer] ich will qualitativ forschen, ich will eigentlich nur erst mal den Leuten zuhören und gucken was die erzählen,
+[00:11:19-1 @jankalbitzer] wie das früher so in der Psychiatrie ganz häufig das Verfahren war.
+[00:11:23-7 @jankalbitzer] Es gab Psychiater, zum Beispiel der Bleuler, der die Schizophrenie geschrieben hat, der hat mit Menschen zusammengelebt über Jahre,
+[00:11:31-9 @jankalbitzer] die bestimmte Symptome hatten und hat den einfach zugehört und sich deren Verhalten angeguckt und versucht,
+[00:11:37-1 @jankalbitzer] das irgendwie zu beschreiben, und darüber versucht, so Prinzipien zu ermitteln.
+[00:11:41-2 @jankalbitzer] Das ist eher so ein qualitativer Forschungsansatz.
+[00:11:43-8 @jankalbitzer] Und den haben wir dann für unsere Forschung an der Charité gewählt.
+[00:11:47-1 @jankalbitzer] Als ich dann nachher an die Charité kam, habe ich erst mal eine Facharztausbildung gemacht und irgendwann angefangen,
+[00:11:50-4 @jankalbitzer] zum Thema Internet zu forschen, über die Frage, wie sich das auf die Psyche auswirkt.
+[00:11:54-9 @jankalbitzer] Da haben wir gesagt, wir wollen erst mal Geschichten sammeln.
+[00:11:56-5 @jankalbitzer] Wir haben jetzt hier einen Prozess, wo sich gesellschaftlich wahnsinnig viel verändert und da passiert was mit den Menschen
+[00:12:03-1 @jankalbitzer] und ich will einfach Menschen zuhören, die Krisen entwickeln und sagen, welche Auswirkung hat eigentlich diese Veränderung in der Gesellschaft,
+[00:12:11-8 @jankalbitzer] dass die Digitalisierung stattfindet auf die Psyche des Individuums und habe Geschichten gesammelt
+[00:12:15-6 @jankalbitzer] und geguckt, was passiert da drin?
+[00:12:17-0 @jankalbitzer] Dafür haben wir so qualitative Interviews gemacht letztendlich.
+[00:12:19-7 @timpritlove] Mit wem?
+[00:12:20-9 @jankalbitzer] Wir haben verschiedene Verfahrensweisen gewählt.
+[00:12:23-9 @jankalbitzer] Das eine war, dass wir gesagt haben, wir fragen allgemein Menschen in Krisen, welche Rolle spielt das Internet?
+[00:12:30-2 @jankalbitzer] Wir haben das überhaupt nicht irgendwie geframt, sondern einfach so …
+[00:12:31-8 @timpritlove] Also in psychischen Krisen?
+[00:12:33-3 @jankalbitzer] In psychischen Krisen, genau.
+[00:12:34-1 @jankalbitzer] Also Menschen, das waren Depressionen, das waren Angststörungen, aber insgesamt so die ins Krankenhaus kamen
+[00:12:40-0 @jankalbitzer] und sagen, ich bin gerade psychisch überlastet.
+[00:12:42-6 @jankalbitzer] Die haben wir dann gefragt und gesagt …
+[00:12:44-4 @timpritlove] Das ist doch bestimmt das Internet.
+[00:12:46-2 @jankalbitzer] Na wir haben versucht, möglichst offen wie möglich zu fragen und gesagt, welche Rolle spielt das Internet in Ihrem Leben?
+[00:12:53-8 @jankalbitzer] Wie nehmen Sie das wahr, um es eben offen zu lassen, weil wir das nicht vorher durch unsere Prämissen irgendwie beeinflussen wollten.
+[00:13:01-9 @jankalbitzer] Und das war so der eine Teil.
+[00:13:03-7 @jankalbitzer] Das haben wir bei einem Teil der Leute gemacht.
+[00:13:05-3 @jankalbitzer] Dann haben wir da noch so ein bisschen Kontraste gebildet, wie man sagt, dass wir gesagt haben,
+[00:13:08-6 @jankalbitzer] wir vergleichen ältere und junge, weil wir so eine Idee hatten, dass diejenigen, die aufgewachsen sind mit dem Internet,
+[00:13:13-7 @jankalbitzer] vielleicht anders darauf reagieren als diejenigen, die lange Lebenszeit ohne vorherige Internetnutzung hatten.
+[00:13:21-0 @timpritlove] Entschuldigung, ist das … ich meine, auf der einen Seite, wenn ich das jetzt richtig sehe,
+[00:13:25-7 @timpritlove] ist das ja dann an der Charité eine konkrete medizinische Arbeit gewesen.
+[00:13:29-6 @timpritlove] Leute kommen mit Probleme und es geht jetzt primär natürlich erst mal darum, dass die Hilfe suchen und die sie natürlich auch erhalten sollten.
+[00:13:36-0 @jankalbitzer] Ja.
+[00:13:36-8 @timpritlove] Und dann war quasi diese forschende Arbeit von euch da so eingebettet worden und wurde quasi so parallel mitgezogen?
+[00:13:43-3 @jankalbitzer] Genau, zusätzlich.
+[00:13:44-2 @jankalbitzer] Also wir sind auf die Stationen gegangen und haben gesagt, diejenigen Menschen, die hier mit einer Krise hergekommen sind,
+[00:13:50-2 @jankalbitzer] wer hätte denn Interesse daran, an so einer Studie teilzunehmen und dann haben wir angefangen so ein bisschen zu gucken,
+[00:13:54-0 @jankalbitzer] dass wir nicht immer die gleichen befragen.
+[00:13:55-7 @jankalbitzer] Da haben wir auch wieder so eine Kontrastierung gemacht, die ganz interessant war.
+[00:13:57-8 @jankalbitzer] Weil wir haben ältere Menschen befragt.
+[00:14:00-4 @jankalbitzer] Wir waren auf einer Station für psychiatrische Alterserkrankungen und hatten unter den Interessenten am Anfang vor allem Menschen mit Migrationshintergrund.
+[00:14:11-7 @jankalbitzer] Die sehr aufgeschlossen und positiv dem Internet gegenüber waren, weil das für sie eine ganz wichtige Rolle in der Kommunikation mit Angehörigen gespielt hat.
+[00:14:20-2 @jankalbitzer] Die schon ganz früh dabei waren und haben gemerkt, okay jetzt kriegen wir hier einen Bias und jetzt müssen wir gucken,
+[00:14:23-4 @jankalbitzer] dass wir noch Leute, die möglichst ihr ganzes Leben in Berlin verbracht haben und nicht so viele Freunde außerhalb von Berlin haben,
+[00:14:30-5 @jankalbitzer] sondern einen festen Bekanntenkreis in Berlin und immer in Berlin gelebt, das wäre so die ideale Kontrastrierungsgruppe,
+[00:14:35-8 @jankalbitzer] um zu gucken, wie geht es denen eigentlich damit, weil die nicht diesen Effekt da mit drin hatten,
+[00:14:41-4 @jankalbitzer] dass es für die Kommunikation über die Welt so eine sehr positive Rolle gespielt hat.
+[00:14:45-5 @jankalbitzer] Da konnten wir aber gar nicht so einen genauen Unterschied feststellen.
+[00:14:47-8 @jankalbitzer] Wo ich auch total überrascht war, wie Leute sehr früh eingestiegen sind.
+[00:14:53-1 @jankalbitzer] Ich weiß nicht, ob du dich an das Spiel Wikings erinnerst.
+[00:14:55-6 @jankalbitzer] Es gab mal so ein ganz frühes Spiel für, ich weiß gar nicht, auf welchem System das damals gespielt wurde, Wikings,
+[00:15:01-7 @jankalbitzer] da konnte ich mich aus meiner Kindheit noch dran erinnern, wo so einige Leute, die saßen mir gegenüber,
+[00:15:06-4 @jankalbitzer] so Mitte 70/Anfang 80, die dann so erzählten, wie sie so ihren ersten Internetanschluss hatten und dann so bestimmte Spiele gespielt hatten,
+[00:15:12-4 @jankalbitzer] an die ich mich aus meiner Kindheit erinnerte.
+[00:15:14-4 @jankalbitzer] Und meine Mutter hat mir dann nachher erzählt, dass sie eine Weile hatte, wo sie ganz viel Pacman gespielt hat,
+[00:15:20-6 @jankalbitzer] was ich natürlich als Kind nicht mitgekriegt haben, aber das war so neu da und da sie ganz viel Pacman damals gespielt,
+[00:15:25-7 @jankalbitzer] als die Computer kamen.
+[00:15:26-8 @jankalbitzer] Meine frühesten Erinnerungen sind, glaube ich, an so Spiele, Pacman und dann wahrscheinlich Larry Leisure,
+[00:15:33-5 @jankalbitzer] dieses Spiel mit diesem Draufgänger oder wie man den nennen mag.
+[00:15:35-7 @timpritlove] Ja.
+[00:15:36-4 @jankalbitzer] Mittlerweile würde man ihn Sexisten nennen.
+[00:15:39-2 @timpritlove] Wahrscheinlich.
+[00:15:40-9 @jankalbitzer] Wo meine Eltern sehr, wo ich die Ambivalenz meiner Eltern noch in Erinnerung habe, weil ich das Spiel auf Englisch gespielt habe
+[00:15:47-9 @jankalbitzer] und die einerseits ziemlich gut fanden, dass ich da quasi auf Englisch diese Spracheingaben mache, Englisch lese und alles mal nachgucke
+[00:15:53-9 @jankalbitzer] das hat mich sehr viel motiviert Englisch zu lernen, aber die Inhalte, es ging viel um Sexualität, ich war so gerade in der Pubertät,
+[00:16:00-3 @jankalbitzer] das war dann so ein bisschen so ein fragwürdiges Thema.
+[00:16:03-0 @timpritlove] Leisure Suit Larry.
+[00:16:07-7 @jankalbitzer] Ja genau, das schwappte irgendwo …
+[00:16:09-1 @jankalbitzer] Mein Vater ist ja Wissenschaftler und das schwappte irgendwo so aus der Wissenschaft.
+[00:16:12-9 @jankalbitzer] Also da kam sowieso relativ viel.
+[00:16:14-8 @jankalbitzer] Also als es so losging mit dem Netz, das war ja viel erst mal unter Wissenschaftlern verbreitet,
+[00:16:19-1 @jankalbitzer] da schwappte viel so in unseren Keller, will ich mal sagen, wo der Computer stand
+[00:16:24-0 @jankalbitzer] und da waren dann auf einmal Spiele drauf und Dinge möglich, die faszinierend waren für so einen 11/12-Jährigen.
+[00:16:29-9 @jankalbitzer] Und das kam halt aus diesem Kontext, fand ich auch nochmal rückblickend ganz interessant,
+[00:16:34-0 @jankalbitzer] dass das aus diese Instituten quasi so rübergeschwappt ist.
+[00:16:36-6 @jankalbitzer] Wir hatten so einen ersten Laptop, der hatte die Größe eines Schuhkartons und war sauschwer und wahrscheinlich sehr wertvoll
+[00:16:43-3 @jankalbitzer] und auf dem dann zu Hause gearbeitet wurde, ich glaube, 10.000 Mark hat der so gekostet.
+[00:16:47-1 @jankalbitzer] Das waren so die Dinge, die über die Forschung dann irgendwann so losgingen.
+[00:16:50-8 @timpritlove] Was war denn das Ergebnis bei dieser Befragung dann?
+[00:16:53-5 @timpritlove] Also was habt ihr denn herausgefunden, wie es den Leuten mit dem Internet so ging?
+[00:16:57-6 @jankalbitzer] Also unser Projekt war multizentrisch angelegt.
+[00:17:00-2 @jankalbitzer] Das heißt, wir hatten einmal in Münster in der Kommunikationswissenschaft Kollegen, die haben eine quantitative Befragung gemacht
+[00:17:10-9 @jankalbitzer] zusammen mit so Umfrageinstituten, die dann einfach Fragen rausgeschickt haben.
+[00:17:16-2 @jankalbitzer] Zum Beispiel wie korreliert Wohlbefinden mit Internetnutzung in zeitlichem Umfang?
+[00:17:22-1 @jankalbitzer] Oder wie ist es bei Menschen, die das Internet viel nutzen, haben die Charakteristika, die die Sucht erfüllen?
+[00:17:27-8 @jankalbitzer] Und in Berlin haben wir dazu geforscht, was da für Kausalitäten hinter stehen.
+[00:17:34-1 @jankalbitzer] Also die Idee war, dass in Münter Korrelationen erforscht werden, wo gar nicht klar ist, was ist die Henne und was ist das Ei?
+[00:17:41-5 @jankalbitzer] Also gehen Leute mehr ins Internet, weil sie frustriert sind oder werden sie frustriert, weil sie mehr im Internet sind?
+[00:17:47-3 @jankalbitzer] Das konnte man an deren Daten nicht sehen, sondern das ist das, was wir dann in Berlin in qualitativen langen Gesprächen erforschen,
+[00:17:53-5 @jankalbitzer] was ist die Ursache und was ist die Wirkung.
+[00:17:56-4 @jankalbitzer] Und das ließ sich in diesen Gesprächen nicht so genau sagen.
+[00:17:59-0 @jankalbitzer] Also was wir gesehen haben in diesen Gesprächen mit Menschen in Krisen war, dass niemand gesagt hat,
+[00:18:05-0 @jankalbitzer] ich habe ganz viel das Internet genutzt, dann bin ich in eine Krise geraten, also das Internet hat die quasi verursacht,
+[00:18:11-4 @jankalbitzer] aber dass es so einen Interaktionseffekt gab.
+[00:18:13-8 @jankalbitzer] Also dass Leute gesagt haben, die Krise fing so ein bisschen an, dann habe ich angefangen mehr im Netz rumzuhängen,
+[00:18:20-4 @jankalbitzer] mich auch so ein bisschen da rein zurückzuziehen.
+[00:18:21-6 @jankalbitzer] Also es gibt so bei depressiven Krisen manchmal so einen sozialen Rückzug, dass man weniger in Kontakt geht,
+[00:18:28-2 @jankalbitzer] auch die Herausforderung im Alltag meidet, also dass man Sachen liegen lässt und sich nicht so kümmert
+[00:18:32-7 @jankalbitzer] und dass das Netz ein Ort sein kann, wo man sich wahnsinnig gut drücken kann,
+[00:18:37-1 @jankalbitzer] wo Herausforderungen und gerade noch so ein bisschen Kontakte hält, so wie einem das passt.
+[00:18:41-2 @timpritlove] So ein Prokrastinationsparadies.
+[00:18:44-0 @jankalbitzer] Das auch, aber das ist mir zu negativ, also das hat auch positive Auswirkungen.
+[00:18:48-5 @jankalbitzer] Man weiß aus Studien mit Menschen, die ADHS haben, dass die Möglichkeit, die Eintauchtiefe selbst zu regulieren, dazu führt,
+[00:18:54-8 @jankalbitzer] dass die ihre Aufmerksamkeit viel besser steuern können.
+[00:18:57-1 @jankalbitzer] Also dass die sagen können, ich lese jetzt irgendwas, was eher intensiv ist, dann springe ich kurz zu einem Video
+[00:19:02-5 @jankalbitzer] und dann lese ich wieder einen leichteren Text, dass das durchaus positive Wirkungen hat bei manchen Menschen.
+[00:19:07-0 @jankalbitzer] Das war auch bei uns ein sehr positiver Effekt.
+[00:19:09-9 @timpritlove] Weil sie sozusagen in dem Moment nicht darunter leiden müssen unter ihrer Einschränkung,
+[00:19:15-4 @timpritlove] sondern genau das geliefert bekommen, was sie in dem Moment brauchen.
+[00:19:18-5 @timpritlove] Ich kann mich eh nicht konzentrieren, ich brauche jetzt kurz was anderes, das kriege ich auch, jetzt kann ich mich auch wieder mit dem ersten beschäftigen.
+[00:19:23-0 @jankalbitzer] Genau. Also dass man so hin und her springen kann und dadurch Wissen ganz anders aufnehmen kann.
+[00:19:27-0 @jankalbitzer] Und das war bei den Menschen in Krisen auch so, wie die das beschrieben haben.
+[00:19:30-7 @jankalbitzer] Also dass die sagen können, es tut auch eine Weile ganz gut, einfach zu Hause zu sitzen, sich den Herausforderungen nicht zu stellen,
+[00:19:36-2 @jankalbitzer] Essen zu bestellen und vielleicht in einem Forum zu sein, wo Menschen sind, denen es ähnlich geht, sich auszutauschen.
+[00:19:42-8 @jankalbitzer] Aber längerfristig ist es so, dass man in so eine Zwischenzone kommt, in so einen Graubereich,
+[00:19:47-0 @jankalbitzer] wo es einem dann nicht wieder richtig gut geht, aber auch nicht richtig schlecht
+[00:19:50-1 @jankalbitzer] und man deswegen keine Hilfe sucht und irgendwo dazwischen hängt.
+[00:19:53-3 @jankalbitzer] Und dass war so das Problematische, was immer wieder beschrieben wurde, was ich ganz interessant gefunden habe.
+[00:19:58-9 @jankalbitzer] Und ich habe dann auch so nachgefragt zum Beispiel, was denn fehlt.
+[00:20:05-2 @jankalbitzer] Also ich habe mit Experten auch gesprochen, wir haben Experteninterviews gemacht
+[00:20:08-9 @jankalbitzer] und wir haben Interviews gemacht mit Menschen in Krisen.
+[00:20:12-3 @jankalbitzer] Und gerade so Experten haben dann auch gesagt, dass ein Effekt ist bei Menschen, die dieses Phänomen haben,
+[00:20:18-3 @jankalbitzer] was aus meiner Sicht fälschlicherweise als Internetsucht beschrieben wird.
+[00:20:22-6 @jankalbitzer] Also Menschen, die im Netz in Spielen zum Beispiel versacken, so würde ich das nennen.
+[00:20:26-5 @jankalbitzer] Wenn die wieder rauskommen, haben die oft verlernt, Herausforderungen anzunehmen
+[00:20:29-8 @jankalbitzer] und bestimmte Intensitäten in sozialen Interaktionen auszuhalten.
+[00:20:33-7 @jankalbitzer] Also sich einem direkten Kontakt mit jemandem zu stellen, der vielleicht wütend ist, der schlecht drauf ist
+[00:20:38-4 @jankalbitzer] und eine Auseinandersetzung zu führen oder in den Alltag zu gehen und zu sagen, ich nehme jetzt mal die ganzen Unterlagen,
+[00:20:43-7 @jankalbitzer] fülle die aus und stelle einen Antrag beim Arbeitsamt, das ist dann ein riesiger Angang,
+[00:20:47-4 @jankalbitzer] wenn man gewohnt ist, vorher die ganze Zeit diese Eintauchtiefe selbst zu regulieren, die Herausforderungen selbst zu regulieren,
+[00:20:52-8 @jankalbitzer] was im Netz einfach wahnsinnig gut möglich ist die ganze Zeit.
+[00:20:55-4 @timpritlove] Auch für Schüler vielleicht ein Problem.
+[00:20:56-4 @jankalbitzer] Auch für Schüler zum Beispiel.
+[00:20:58-3 @jankalbitzer] Das heißt, dieses Verlernen des Annehmens von Herausforderungen das war ein ganz wesentliches Element.
+[00:21:07-1 @jankalbitzer] Und andersrum, wenn es um positive Effekte geht, ich habe oft dann gefragt, wenn wir jetzt mal nicht auf das Negative uns konzentrieren,
+[00:21:16-3 @jankalbitzer] sondern sagen, das Internet verändert alles, aber was möchten wir denn positiv erhalten an dem was vermeintlich vorher da war,
+[00:21:25-5 @jankalbitzer] dann ging es oft um den Blick des Menschen.
+[00:21:28-3 @jankalbitzer] Also Eltern sagen, dass sie sich wünschen, dass ihre Kinder in der Lage sind, anderen Menschen in die Augen zu schauen bei Gesprächen.
+[00:21:36-4 @jankalbitzer] Das hat mich total fasziniert.
+[00:21:38-1 @jankalbitzer] Und eine Aussage hat mich beeindruckt, dass jemand mir gesagt hat, wenn man so im Netz ist,
+[00:21:43-5 @jankalbitzer] dann ist man in seiner eigenen kleinen Welt.
+[00:21:45-8 @jankalbitzer] Was ich interessant fand, weil ich dachte, die Vernetzung führt eigentlich dazu, dass man in die große weite Welt rauskommt.
+[00:21:50-3 @jankalbitzer] Und habe dann nachgefragt, wie ist denn das gemeint, dieses eigene kleine Welt?
+[00:21:54-1 @jankalbitzer] Da ging es ganz viel darum, dass die Präsenz eines anderen Menschen eine bestimmte Relevanz hat
+[00:22:01-6 @jankalbitzer] und das für einige Menschen die nur entstehen kann, wenn diese andere Person neben ihnen sitzt oder anwesend ist,
+[00:22:08-1 @jankalbitzer] dass man spürt, da ist eine andere Person, die hat eine andere Sicht auf die Welt als ich, die hat eine ganz andere Wahrnehmung der Welt als ich,
+[00:22:17-1 @jankalbitzer] und ich muss aushalten, dass dieser Mensch mit dieser anderen Wahrnehmung da ist.
+[00:22:21-6 @jankalbitzer] Das kann herausfordernd sein, dass man in seiner eigenen Weltsicht hinterfragt und auch man nimmt eine Kritik wahr.
+[00:22:29-9 @jankalbitzer] Da ist jemand anderes, der blickt anders auf die Welt und dann denke ich, okay, das heißt, möglicherweise dass ich mich theoretisch irren kann in meinem Blick.
+[00:22:36-3 @timpritlove] Und die Person existiert auch in Fleisch und Blut und sitzt neben mir.
+[00:22:39-6 @jankalbitzer] Genau, die sitzt da und diese Präsenz hat eine besondere Bedeutung.
+[00:22:42-1 @jankalbitzer] Bei denen, die das als positives benannt haben, ging es darum zu sagen, es ist wichtig das zu erhalten, diese Präsenz
+[00:22:50-4 @jankalbitzer] und bei denjenigen, die gesagt haben, dass sie sich zurückgezogen haben zu sehr, ging es oft darum, diese Präsenz wieder aushalten zu lernen.
+[00:22:59-0 @jankalbitzer] Wenn sie aus der Krise kommen und sich zu viel ins Netz zurückgezogen hatten, aushalten zu lernen, da sind andere Menschen,
+[00:23:06-1 @jankalbitzer] die denken ganz anders als ich, die sind auch vielleicht nicht mit allem einverstanden was ich mache, aber die sind einfach da
+[00:23:11-7 @jankalbitzer] und die kann ich nicht wegtun.
+[00:23:12-9 @jankalbitzer] Der Rückzug davon eins der wichtigen Probleme war, die wir da so gehört haben.
+[00:23:21-3 @timpritlove] Und was war so die Erkenntnis aus dieser Studie letztlich?
+[00:23:28-5 @jankalbitzer] Die wichtigste Erkenntnis war, dass die Frage nicht beantwortbar ist.
+[00:23:33-4 @jankalbitzer] Und das war auch sehr stark damit verbunden, dass ich sehr an…
+[00:23:36-4 @timpritlove] Und die Frage in dem Moment ist, ist das Internet ein Suchtproblem oder was war die Frage?
+[00:23:41-8 @jankalbitzer] Ist das Internet schlecht für die Psyche?
+[00:23:46-1 @jankalbitzer] Also wir wollten nicht die Sucht erforschen, sondern wir hatten die Frage, wirkt sich das Internet negativ auf die psychische Gesundheit aus?
+[00:23:55-1 @jankalbitzer] Und wenn ja, wie?
+[00:23:58-2 @jankalbitzer] Und die Frage ist im Prinzip nicht beantwortbar aus verschiedenen Gründen.
+[00:24:01-7 @jankalbitzer] Das eine ist, die Menschen nutzen das Netz ganz unterschiedlich, ganz individuell.
+[00:24:06-7 @jankalbitzer] Dann ist es so, dass sich das Verhalten ständig verändert.
+[00:24:09-4 @jankalbitzer] Es gibt ganz interessante Studien dazu aus den USA, die Ende der 90er gemacht wurden, wo man geguckt hat,
+[00:24:13-9 @jankalbitzer] wie verändert sich die Psyche von Leuten, wenn sie ihren Internetanschluss, also damals noch mit Kabel, gekriegt haben zu Hause.
+[00:24:18-7 @jankalbitzer] Und dann war es so, dass in den ersten zwei Jahren erst mal die Stimmung schlechter wurde,
+[00:24:22-2 @jankalbitzer] soziale Kontakte nachgelassen haben und das haben die dann veröffentlicht.
+[00:24:25-6 @jankalbitzer] Aber weil das gute Forscher waren, haben sie dann noch eine Folgestudie gemacht und gesehen,
+[00:24:29-3 @jankalbitzer] nach so einer Gewöhnungsphase normalisiert sich das aber wieder.
+[00:24:33-8 @jankalbitzer] Das heißt, oft sind das Anfangseffekte, die dann nach einer Gewöhnung wieder raus sind.
+[00:24:37-1 @timpritlove] So Anpassungsprobleme, wenn ich in eine andere Stadt ziehe, dann ist am Anfang erst mal alles schwierig.
+[00:24:41-0 @timpritlove] Ich kenne die Strukturen nicht, ich habe keine Netzwerke etc., aber das löst sich dann vielleicht auch wieder auf.
+[00:24:45-1 @jankalbitzer] Das löst sich wieder auf, weil wir lernen müssen damit umzugehen.
+[00:24:47-1 @jankalbitzer] Da gibt es interessante Studien vom Bredow-Institut in Hamburg zu, die sagen, die negativen Auswirkungen des Internets in Familien
+[00:24:55-8 @jankalbitzer] kommen gar nicht unbedingt durch das Internet selbst, also nicht durch die Nutzung selbst, sondern durch das Streiten darüber.
+[00:25:02-2 @jankalbitzer] Dass es Streits gibt, wie das Internet in der Familie genutzt wird.
+[00:25:05-3 @jankalbitzer] Wie lange dürfen Kinder da dran, was ist gut was ist schlecht und was sollten sie stattdessen tun?
+[00:25:11-5 @jankalbitzer] Aber auch mit Eltern, also selbst mein Sechsjähriger sagt mir dann, wenn du jetzt dein Smartphone benutzt, darf ich dann bitte auch mal ans iPad?
+[00:25:17-0 @jankalbitzer] So was muss ja verhandelt werden.
+[00:25:18-5 @jankalbitzer] Und dass dieser Verhandlungsprozess eine große Anstrengung mit sich bringt, bei dem es gar nicht unbedingt um das Internet selbst geht,
+[00:25:25-3 @jankalbitzer] sondern dass es darum geht, Veränderungen zu verhandeln und neue Kulturen zu finden, um damit umzugehen.
+[00:25:31-2 @timpritlove] Jetzt bist du aber noch tätig als Psychiater?
+[00:25:36-0 @jankalbitzer] Ich bin noch als klinischer Psychiater tätig, aber nicht mehr als Wissenschaftler.
+[00:25:40-4 @jankalbitzer] Ende Mai letzten Jahres habe ich in der Charité aufgehört und bin ausgestiegen aus dem Forschungsbetrieb.
+[00:25:50-1 @jankalbitzer] Und der eine Faktor war einfach, dass ich gemerkt habe…
+[00:25:52-7 @jankalbitzer] Also das Projekt, was wir gemacht haben, ist einerseits, würde ich sagen, die Ergebnisse in Münster sind interessant
+[00:25:58-8 @jankalbitzer] und wissenschaftlich valide und wir hatten auch einen philosophischen Zweig, der erst in Tübingen war
+[00:26:04-4 @jankalbitzer] und jetzt in Paderborn ist, bei Tobias Matzner, der da einen Lehrstuhl hat, der für mich total hilfreich war,
+[00:26:10-0 @jankalbitzer] weil die vieles philosophisch hinterfragt haben.
+[00:26:12-3 @jankalbitzer] Was ist eigentlich eine Diagnose?
+[00:26:13-5 @jankalbitzer] Was ist eigentlich analog versus digital?
+[00:26:16-8 @jankalbitzer] Wenn ich hier noch von einer digitalen analogen Welt gesprochen habe am Anfang als Psychiater, haben die mir gesagt,
+[00:26:22-0 @jankalbitzer] du pass auf, Identität ist ein performativer Akt und alles was du da machst ist Teil deiner Identität, egal ob analog oder digital,
+[00:26:27-7 @jankalbitzer] du kannst nicht deinen analoge Identität von deiner digitalen trennen, es gibt nicht zwei Identitäten.
+[00:26:33-0 @jankalbitzer] Und da habe ich wahnsinnig viel gelernt über diesen philosophischen Teil.
+[00:26:37-2 @jankalbitzer] Die haben unglaublich viel gemacht auch zum Thema Kommunikation von Medienproblemen.
+[00:26:42-7 @jankalbitzer] Also wie geht man damit um in Schulen zum Beispiel?
+[00:26:46-4 @jankalbitzer] Aber ich würde sagen, in Berlin sind wir an unserer Fragestellung gescheitert.
+[00:26:50-5 @jankalbitzer] Also es ist einmal so, dass ich sagen würde, das Projekt hat nicht geklappt und da bin ich auch ziemlich überrascht gewesen von der Stiftung,
+[00:26:57-1 @jankalbitzer] wir sind ja gefördert worden von der Daimler und Benz Stiftung und ich habe letztes Jahr dem Geschäftsführer der Stiftung gesagt,
+[00:27:02-6 @jankalbitzer] also ich glaube, dass der Teil, den wir in Berlin gemacht haben, wissenschaftlich insofern gescheitert ist,
+[00:27:09-9 @jankalbitzer] als dass wir uns eine Frage gestellt haben, die mit unseren Möglichkeiten nicht beantwortbar ist,
+[00:27:14-7 @jankalbitzer] die ich aber auch gar nicht für beantwortbar halte, weil zu viele Prämissen da drin gesteckt haben,
+[00:27:20-8 @jankalbitzer] die ich dann nach und nach angefangen habe zu hinterfragen.
+[00:27:23-0 @timpritlove] Das ist ja auch eine wissenschaftliche Erkenntnis.
+[00:27:24-9 @jankalbitzer] Das ist richtig.
+[00:27:26-2 @jankalbitzer] Es war für mich, und da kommt der persönliche Teil, aber vor allem eine persönliche Erkenntnis, dass ich gemerkt habe,
+[00:27:30-4 @jankalbitzer] dass gerade in diesem Teil der Wissenschaft so viele Prämissen drin sind, dass ich das erst mal für mich klarkriegen musste.
+[00:27:39-5 @jankalbitzer] Also es gab einen Kongress, der veranstaltet wurde von der Bundessuchtbeauftragten zum Thema Generation internetsüchtig,
+[00:27:46-0 @jankalbitzer] stark befeuert durch einen Teil von Psychiatern und Psychologen, die ein großes Interesse an der Diagnose Internetsucht haben,
+[00:27:52-9 @jankalbitzer] wo ich den Eindruck hatte, es gibt die wissenschaftliche Grundlage gar nicht, um von einer Internetsucht zu sprechen.
+[00:27:59-7 @jankalbitzer] Ganz viele Wissenschaftler stellen sich hin und sagen, dann gehen sie ins Internet, dann ist das wie bei so einem einarmigen Bandit,
+[00:28:06-5 @jankalbitzer] Sie ziehen nach unten und dann passieren die gleichen Effekte wie bei der Spielsucht, nämlich Dopamin wird ausgeschüttet.
+[00:28:12-6 @jankalbitzer] Bei Dopaminausschüttung Sucht, jetzt werden sie süchtig und dann ist das fast wie Heroin.
+[00:28:17-9 @jankalbitzer] Das ist alles Quatsch, das ist völliger Bullshit.
+[00:28:21-4 @jankalbitzer] Dopamin wird auch ausgeschüttet, wenn man eine Abfuhr kriegt, wenn man jemanden anbaggert,
+[00:28:24-7 @jankalbitzer] weil Dopamin was mit Lernen zu tun hat.
+[00:28:26-2 @jankalbitzer] Dopamin wird bei Bewegung ausgeschüttet, Dopamin wird ständig ausgeschüttet.
+[00:28:31-3 @jankalbitzer] Also man wird ja auch nicht süchtig nach einer Abfuhr, nur weil man da Dopamin ausschüttet.
+[00:28:36-2 @jankalbitzer] Und die ganze Idee, dass Spiele so süchtig machen wie Heroin, das ist so ein Unsinn.
+[00:28:41-4 @jankalbitzer] Also Facebook, es gibt Leute, die sagen, dann loggen sie sich bei Facebook ein und dann ziehen sie nach unten zum erneuern
+[00:28:48-3 @jankalbitzer] wie bei einem einarmigen Bandit und dann wird Dopamin ausgeschüttet und dann werden sie süchtig nach Facebook.
+[00:28:52-6 @jankalbitzer] Das Problem ist nur, wenn sie von Heroin abhängig sind die Leute, dann geht das ja nicht einfach weg.
+[00:29:01-6 @jankalbitzer] Es ist ja nicht so, dass man von Heroin abhängig wird und dann sagt man irgendwann, ach Gott, also jetzt langweilt mich Heroin,
+[00:29:09-6 @jankalbitzer] aber jetzt höre ich auf.
+[00:29:10-3 @jankalbitzer] Bei Facebook ist das ja ganz oft so.
+[00:29:12-8 @jankalbitzer] Wir haben ja ganz viele Menschen, die ganz viel auf Facebook sind, das ganz viel nutzen und dann irgendwann genervt sind und sagen,
+[00:29:17-5 @jankalbitzer] ach Facebook nervt mich irgendwie, die Kommunikation da, da ist so viel Negatives und dann auch jetzt mit diesem Datenschutz und so was,
+[00:29:24-4 @jankalbitzer] ich höre auf damit.
+[00:29:26-3 @jankalbitzer] Ich habe noch nie jemanden erlebt, der das bei Heroin gemacht hat, ganz ehrlich.
+[00:29:28-7 @jankalbitzer] Und auch Alkoholsucht zum Beispiel wird ja auch gerne verglichen, dass jemand sagt so, nein also sorry, die Leute,
+[00:29:33-5 @jankalbitzer] die in der Kneipe rumhängen gehen mir so auf die Nerven, jetzt höre ich auf zu trinken.
+[00:29:37-2 @jankalbitzer] Wenn man körperlich süchtig ist danach funktioniert das so nicht.
+[00:29:40-0 @jankalbitzer] Das mag funktionieren, wenn man so einen Konsum hat, der schädlich ist, den Alkohol vielleicht nutzt, weil man nicht einschläft ohne Alkohol,
+[00:29:49-2 @jankalbitzer] wenn man gestresst ist, aber wenn man richtig körperlich abhängig ist und so war ja der Vergleich, dann sagt man nicht,
+[00:29:53-6 @jankalbitzer] ich bin genervt von Leuten in der Kneipe, ich höre auf Bier zu trinken, das ist so nicht.
+[00:29:57-5 @jankalbitzer] Und deswegen hinkt dieser Vergleich sehr und das hat mich an der Community einfach sehr gestört, dass ich gemerkt habe,
+[00:30:03-5 @jankalbitzer] man nennt das in der Soziologie Moral Panic, dass man wissenschaftliche Erkenntnisse nutzt,
+[00:30:08-6 @jankalbitzer] und das, was man für moralisch richtig hält, zu untermauern oder durchzusetzen.
+[00:30:13-9 @jankalbitzer] Und im Rahmen der HIV-Verbreitung damals war das häufig so, dass dann die Assoziation zu Homosexualität hergestellt wurde
+[00:30:24-1 @jankalbitzer] und bestimmte sexuelle Praktiken verdammt wurden und in Verbindung mit HIV und Aids gebracht wurden.
+[00:30:31-6 @jankalbitzer] Da ging es dann darum, das auch moralisch zu nutzen, diese Erkrankung, um Dinge zu verurteilen.
+[00:30:35-9 @jankalbitzer] Und mein Eindruck ist, dass beim Thema Internet und gerade Internetsucht was ganz ähnliches stattfindet.
+[00:30:41-6 @jankalbitzer] Und ich habe sehr gezweifelt an wissenschaftlichen Institutionen.
+[00:30:44-9 @jankalbitzer] Es gibt einige Wissenschaftler, die sehr davon profitieren, vor dem Internet zu warnen, die Bücher darüber schreiben,
+[00:30:52-5 @jankalbitzer] die sich gut verkaufen, die gut bezahlte Vorträge darüber halten.
+[00:30:56-2 @timpritlove] Manfred Spitzer zum Beispiel.
+[00:30:57-0 @jankalbitzer] Ich will das gar nicht mal so im Detail erwähne, weil ich das so schlimm finde.
+[00:30:59-9 @timpritlove] Ja.
+[00:31:00-6 @jankalbitzer] Und die Universitäten reagieren nicht darauf.
+[00:31:02-5 @jankalbitzer] Ich bin überhaupt nicht dafür, wissenschaftliche Meinungsfreiheit einzuschränken, aber wenn jemand seine Position an einer Universität nutzt,
+[00:31:10-0 @jankalbitzer] um unwissenschaftlich Angst zu machen, damit viel Geld zu verdienen, seine moralische Überzeugung zu verbreiten mit dem Habitus eines Wissenschaftlers,
+[00:31:20-0 @jankalbitzer] dann finde ich das moralisch hochgradig fragwürdig.
+[00:31:22-9 @jankalbitzer] Und dieses ganze Geschäft, was da stattfindet, es gibt ganz viele tolle Wissenschaftler, die man nicht hört und nicht sieht und die sehr leise sind,
+[00:31:28-8 @jankalbitzer] trotzdem habe ich angefangen damit zu hadern und das hat auch was mit meiner persönlichen Verfügbarkeit zu tun.
+[00:31:35-8 @jankalbitzer] Ich habe selber so eine Faszination dafür gewonnen und gemerkt, ich bekomme Zugänge zu Welten, die mich interessieren,
+[00:31:42-8 @jankalbitzer] wo ich viel mehr verstehe auch über das Internet als durch meine Forschung selbst.
+[00:31:48-3 @jankalbitzer] Und ist das eigentlich noch, also passt das noch zueinander?
+[00:31:51-6 @jankalbitzer] Also ich habe publizistisch angefangen zu arbeiten, ich habe ganz viel geschrieben.
+[00:31:54-6 @jankalbitzer] Zum Beispiel ich habe für Zeit online geschrieben, ich habe auch mal für die Welt geschrieben,
+[00:31:57-7 @jankalbitzer] weil ich wissen wollte, was passiert, wenn ich für Axel Springer Medien schreibe und habe danach immer in den Kommentarspalten mitdiskutiert
+[00:32:05-1 @jankalbitzer] und geguckt, wie Leute reagieren, bin mit denen in persönlichen Kontakt gekommen.
+[00:32:09-0 @jankalbitzer] Auf Twitter folgte mir die AfD als Account eine Weile und ich habe mit denen im Privatchat relativ viel kommuniziert
+[00:32:16-0 @jankalbitzer] und ich fand das fasziniert und ich bin dann zu einer AfD-Veranstaltung gegangen und habe mit den Leuten gesprochen.
+[00:32:20-7 @jankalbitzer] Und habe mit denen darüber gesprochen, warum die das machen, versucht deren Motive zu verstehen.
+[00:32:25-8 @jankalbitzer] Ich bin also in Welten reingekommen, die mir zugänglich wurden durch diese Arbeit, durch die Präsenz als Wissenschaftler.
+[00:32:31-5 @jankalbitzer] Habe aber irgendwann gemerkt, das, was ich jetzt mache, kann ich nicht mehr machen, wenn ich mit der Autorität als Wissenschaftler komme,
+[00:32:37-6 @jankalbitzer] weil ich finde, die publizistische Persona und die wissenschaftliche möchte ich nicht gleichzeitig benutzen, weil das nicht redlich ist.
+[00:32:46-3 @jankalbitzer] Und das war für mich ein persönlicher Konflikt, der dazu geführt hat, dass ich gesagt habe, ich finde den publizistischen Teil eigentlich spannender,
+[00:32:52-5 @jankalbitzer] ich finde das Diskutieren, so was wir hier auch machen, spannender als die Forschung und ich bin auch nicht so gut in der Forschung wie andere,
+[00:32:59-2 @jankalbitzer] deswegen möchte ich den anderen Teil mehr machen und das war dann so mein persönlicher Ausstieg.
+[00:33:03-7 @jankalbitzer] Und ich glaube, für mich war das ein großer Vorteil, weil es gibt ganz viele Leute, die in so einer Phase sind zwischen 30 und 40,
+[00:33:08-3 @jankalbitzer] sich so von Postdoc zu Postdoc hangeln nach dem PHD und dann irgendwann nicht mehr wissen, das sind immer nur Zeitverträge,
+[00:33:15-1 @jankalbitzer] geht es weiter mit mir in der wissenschaftlichen Welt?
+[00:33:17-9 @timpritlove] Großes Problem ja.
+[00:33:19-2 @jankalbitzer] Ich bin da total privilegiert als Arzt, weil ich als Arzt arbeiten kann, trotzdem war der Ausstieg für mich auch schwer,
+[00:33:24-3 @jankalbitzer] weil das einen totale Kränkung ist zu sagen, ich gehe jetzt raus aus der Charité, wo ich diesen Status habe, den aufzugeben.
+[00:33:30-6 @jankalbitzer] Und bevor ich ausgestiegen bin, habe ich eine Reise gemacht zu Kollegen, die ausgestiegen sind aus dieser Charité-Welt
+[00:33:36-3 @jankalbitzer] und irgendwas anderes machen an kleineren Unis oder sich klinisch nur noch betätigen und habe die befragt.
+[00:33:41-4 @jankalbitzer] Und eigentlich waren alle, die ich gefragt habe, frustriert und haben das irgendwie vermisst, da an der Charité gewesen zu sein.
+[00:33:48-4 @jankalbitzer] Der Glamour-Faktor Charité würde ich mal sagen.
+[00:33:51-9 @jankalbitzer] Ich habe eine Weile die Pressearbeit für unsere Abteilung gemacht.
+[00:33:54-4 @jankalbitzer] Das heißt, ich habe die Anrufe entgegengenommen, die für die Psychiatrie reinkamen von Presse draußen.
+[00:33:59-8 @jankalbitzer] Das waren so absurde Anfragen, die zum Teil kamen und trotzdem war es toll gefragt zu werden, das ist so eine Aufwertung, die stattfindet.
+[00:34:06-1 @jankalbitzer] Und ich bin von Facebook eingeladen worden, das war auch total faszinierend.
+[00:34:11-1 @jankalbitzer] Ich habe irgendwann einen Artikel über Facebook geschrieben für Zeit online, dann folgte mir jemand von Facebook.
+[00:34:16-1 @jankalbitzer] Dann habe ich auch wieder, genau auf Twitter folgte mir die Person von Facebook, da habe ich auch wieder im Privatchat Kontakt aufgenommen.
+[00:34:22-4 @jankalbitzer] Ich habe im Privatchat von Twitter die tollsten Leute kennengelernt, wirklich, ganz tolle Kontakte hergestellt.
+[00:34:27-8 @jankalbitzer] Das war ein ganz wichtiges Tor zur Gesellschaft für mich, Privatchats bei Twitter.
+[00:34:32-7 @jankalbitzer] Und bin dann bei Facebook in Berlin gewesen, bin auch bei einer Konferenz gewesen mit Monika Bickert, die zuständig ist für die Policy bei Facebook,
+[00:34:41-5 @jankalbitzer] die also entscheidet, was wird gelöscht, was wird nicht gelöscht, für ganz Facebook ist die für so was zuständig.
+[00:34:46-6 @jankalbitzer] Und das ist so interessant, was die da machen.
+[00:34:48-5 @jankalbitzer] Es tut mir leid, wenn ich jetzt schon wieder so einen Seitenweg nehme, Tim, aber die Sache ist, die Frage,
+[00:34:54-3 @jankalbitzer] dass ein internationales Unternehmen Kommunikationsregeln festlegt, die internationale Gültigkeit haben sollen,
+[00:35:03-1 @jankalbitzer] also eine Metaphysik der Sitten für die ganze Welt muss dieses Unternehmen irgendwie festlegen und das ist wahnsinnig kompliziert.
+[00:35:11-4 @jankalbitzer] Also wenn wir darüber diskutieren, wir möchten, dass deutsche Gesetze umgesetzt werden, ist ja die Frage, wo werden die umgesetzt?
+[00:35:17-6 @jankalbitzer] Also wenn ich in Berlin sitze, über VPN mich in Brasilien einwähle, da irgendwo im Chat bin und mit jemanden aus der Türkei,
+[00:35:26-8 @jankalbitzer] welche Gesetze werden da eigentlich angewandt?
+[00:35:28-6 @jankalbitzer] Das ist gar nicht so banal, so eine Frage zu beantworten.
+[00:35:31-9 @jankalbitzer] Weil wenn ich über Thor zum Beispiel reingehe und dann komme ich irgendwo in Brasilien raus und kommuniziere mit jemandem aus der Türkei,
+[00:35:37-2 @jankalbitzer] der dann vielleicht chinesischer Staatsbürger ist, wessen Gesetze gelten dann?
+[00:35:43-5 @jankalbitzer] Und solche Themen fand ich total interessant und wurde dann eingeladen, als Wissenschaftler doch mal nach Menlo Park Zu kommen.
+[00:35:51-3 @jankalbitzer] Ich stand also neben dieser Monika Bickert, die dann über WhatsApp gerade mit Marc Zuckerberg im Austausch war irgendwo in Berlin
+[00:35:56-5 @jankalbitzer] und dann sagte sie, Mensch, das ist doch spannend was du sagst, komm doch mal vorbei.
+[00:36:00-6 @jankalbitzer] Und dann hatte ich irgendwann so ein paar Vorgespräche und war eingeladen zu so einem Gespräch
+[00:36:04-8 @jankalbitzer] und bin dann nicht, weil meine Kinder krank waren, was ich auch ganz interessant fand,
+[00:36:08-2 @jankalbitzer] weil mir Kollegen erzählt haben, wie das da war.
+[00:36:10-7 @jankalbitzer] Dass man da als Wissenschaftler hinfährt und sitzt dann da und da sitzen Leute von Facebook und hören einem zu
+[00:36:16-2 @jankalbitzer] und sagen die ganze Zeit, das ist ja interessant was ihr uns erzählt, also geben dir total viele Props und positives Feedback diesen Wissenschaftlern,
+[00:36:22-1 @jankalbitzer] die sich total aufgewertet fühlen, weil da irgendwie die Top-Leute von Facebook sitzen, was ich ja auch selber schon gespürt hatte.
+[00:36:27-9 @jankalbitzer] Also ich hatte dann so einen Videochat mit Leuten von Facebook, da saßen so drei, nein vier, junge hübsche Menschen vor mir,
+[00:36:34-7 @jankalbitzer] die ganz interessiert daran waren, was ich zu sagen habe als Charité-Wissenschaftler.
+[00:36:39-1 @jankalbitzer] Und das ist total verführerisch, sich dann ernst genommen zu fühlen und zu sagen, Mensch da mache ich mit.
+[00:36:43-9 @jankalbitzer] Und der eine, mit dem ich gesprochen habe, der da hingefahren ist, hat sich Urlaub genommen, weil er es nicht in seiner Funktion als Wissenschaftler machen wollte.
+[00:36:48-1 @jankalbitzer] Alles total ambivalent für deutsche Wissenschaftler, wie gehe ich dahin, in welcher Rolle?
+[00:36:51-6 @jankalbitzer] Trotzdem hat es so was verführerisches.
+[00:36:53-7 @jankalbitzer] Und das sind so Sachen, die ich da so wahrgenommen habe, die musste ich erst mal für mich klarkriegen.
+[00:36:57-6 @jankalbitzer] Was ist das eigentlich alles, was darf ich eigentlich alles?
+[00:37:00-0 @jankalbitzer] Ich habe mich eingelassen auf Gespräche mit Leuten, die Lobbyisten sind, weil ich neugierig war,
+[00:37:06-1 @jankalbitzer] was wollen die eigentlich von mir als Wissenschaftler?
+[00:37:07-7 @jankalbitzer] Und an irgendeinem Punkt habe ich gemerkt, ich kann das nicht mehr in der Rolle als Wissenschaftler machen,
+[00:37:12-9 @jankalbitzer] es interessiert mich trotzdem sehr und habe dann gesagt, ich arbeite jetzt beruflich hauptsächlich als Psychiater,
+[00:37:17-4 @jankalbitzer] aber das geht nich mehr, das als Wissenschaftler weiterzumachen.
+[00:37:24-8 @timpritlove] Diese Arbeit als Wissenschaftler oder nicht so richtig als Wissenschaftler, also das ist ja so ein bisschen so ein Laufen auf den Grenzen.
+[00:37:42-1 @timpritlove] Wenn man dann auch in so einer Situation ist mit, okay jetzt haben wir hier geforscht, aber wir haben irgendwie am Ende festgestellt,
+[00:37:47-8 @timpritlove] wir haben entweder nicht die richtigen Fragen gestellt oder unsere Fragestellung war an sich schon falsch
+[00:37:53-6 @timpritlove] oder selbst wenn die angemessen wären, wir können hier zu keinen wirklichen Konklusionen kommen,
+[00:38:00-0 @timpritlove] wie ist denn das dann, wenn man so einen Auftraggeber auch noch hat oder so einen Förderer in Form einer Stiftung,
+[00:38:07-7 @timpritlove] wie kommuniziert man das dann da rein?
+[00:38:09-9 @jankalbitzer] Das ist eine echt gute Frage, ich habe da auch so ein bisschen angesetzt.
+[00:38:13-3 @jankalbitzer] Also ich habe das einen Weile vor mir hergeschoben, und so ein bisschen das immer wieder so ein bisschen gesagt auch,
+[00:38:18-3 @jankalbitzer] so irgendwie das funktioniert nicht so richtig, aber irgendwann Ende letzten Jahres war dann so der Punkt,
+[00:38:22-9 @jankalbitzer] wo ich zum Geschäftsführer von der Stiftung gesagt haben, das ist, wenn man nach der Fragestellung geht, gescheitert.
+[00:38:31-5 @jankalbitzer] Wie du schon gesagt hast, das ist auch einen Erkenntnis, die lässt sich nicht beantworten.
+[00:38:34-1 @jankalbitzer] Wir haben auch ganz viele interessante Sachen gefunden dabei.
+[00:38:39-6 @jankalbitzer] Aber letztendlich muss man sagen, im klassischen Sinne, dass wir eine Hypothese hatten, die wir untersucht haben
+[00:38:42-4 @jankalbitzer] und jetzt eine Antwort darauf haben, das ist nicht der Fall gewesen.
+[00:38:46-2 @jankalbitzer] Und der Geschäftsführer von der Stiftung hat total entspannt darauf reagiert.
+[00:38:50-3 @jankalbitzer] Der hat selber vorher Forschung gemacht und ist dann in die Stiftung reingegangen und hat total entspannt gesagt,
+[00:38:55-8 @jankalbitzer] so ist Forschung, so findet Forschung statt.
+[00:38:57-7 @jankalbitzer] Und das hat mich total berührt, weil ich gedacht habe, hey so muss es eigentlich sein.
+[00:39:03-1 @jankalbitzer] Also so, ich hatte Angst davor das zu sagen, das hat nicht geklappt und es liegt sowohl daran wie das Forschungsprojekt konzipiert war
+[00:39:11-1 @jankalbitzer] als auch an mir als Person möglicherweise, der ich da vielleicht nicht alles richtig gemacht habe.
+[00:39:16-1 @jankalbitzer] Und der hat gesagt, so ist es halt in der Forschung, es gibt auch Projekte, wo man am Ende sagen muss, das hat so nicht funktioniert.
+[00:39:22-4 @jankalbitzer] Und das ist auch eine valide Antwort.
+[00:39:24-7 @jankalbitzer] Das hat mich wirklich beeindruckt.
+[00:39:26-2 @jankalbitzer] Und ich habe überhaupt um diesen ganzen Prozess, ich war eine Weile ganz gut darin Anträge zu stellen,
+[00:39:31-4 @jankalbitzer] viel Faszination entwickelt für Geschäftsführer von Stiftungen und für Stiftungen insgesamt, wo ich dann so vorgesprochen habe,
+[00:39:39-2 @jankalbitzer] mich ganz viel mit denen unterhalten habe, weil diese Geschäftsführer oft Menschen sind,
+[00:39:44-6 @jankalbitzer] bei denen ganz viele Wissenschaftler mit aktuellen Projekten vorsprechen, die so einen bestimmten Habitus haben, um sich aufzuplustern,
+[00:39:51-2 @jankalbitzer] um zu sagen, wir haben da ein ganzes wichtiges Projekt, das ist ganz wichtig für die Menschheit, nur wir können das erforschen,
+[00:39:56-8 @jankalbitzer] weil wir am wichtigsten Institut sitzen und dann müssen diese Geschäftsführer und diese Stiftungen entscheiden,
+[00:40:01-5 @jankalbitzer] wem geben wir unser Geld?
+[00:40:02-9 @jankalbitzer] Was sind relevante Themen, was sind verlässliche Wissenschaftler?
+[00:40:06-2 @jankalbitzer] Welche Frage ist beantwortbar?
+[00:40:08-9 @jankalbitzer] Und das sind total interessante Gesprächspartner, die Leute, die in so Stiftungen drin sitzen, weil die die ganze Zeit eben diese Themen am Laufen haben.
+[00:40:17-2 @jankalbitzer] Die haben natürlich auch andere Themen am Laufen, nämlich welche Projekte fördern wir, damit wir als Stiftung gesehen und wahrgenommen werden,
+[00:40:23-5 @jankalbitzer] wie kommen wir als Stiftung selber in die Medien, um sichtbar zu werden, damit wir vielleicht wieder mehr Fördergelder kriegen?
+[00:40:30-6 @jankalbitzer] Die Daimler und Benz Stiftung ist unabhängig vom Konzern formal, aber trotzdem ist das Stiftungskapital vom Konzern.
+[00:40:38-7 @jankalbitzer] Und auch der Konzern kann das Geld, das Stiftungskapital aufstocken.
+[00:40:43-9 @jankalbitzer] Ich habe nie erlebt, dass der Konzern irgendwo da reingefunkt hat und mir haben auch die Leute …
+[00:40:48-4 @jankalbitzer] Also am Anfang habe ich so ein bisschen gesagt, Mensch Daimler Benz und so was, habe versucht, dass das auch technikrelevant ist und so was,
+[00:40:54-1 @jankalbitzer] da haben die mir ganz klar gesagt, auch der Vorstand der Stiftung, das ist für uns völlig irrelevant,
+[00:40:59-3 @jankalbitzer] ob Sie Daimler Benz interessant finden und ist auch völlig unwichtig, ob das technisch irgendwie interessant ist für Daimler und Benz,
+[00:41:07-5 @jankalbitzer] was hier erforscht wird, es geht darum, gute Forschung zu machen.
+[00:41:09-8 @jankalbitzer] Und das hat mich ziemlich beeindruckt von der Haltung und das hat sich eigentlich auch durchgezogen durch diese Interaktion mit der Stiftung.
+[00:41:15-6 @jankalbitzer] Es gab zwar einen Zusammenhang, aber für die war ganz wichtig, immer wieder zu betonen, es geht uns nicht darum,
+[00:41:22-4 @jankalbitzer] dass die Forschung irgendwie relevant für den Konzern sein muss.
+[00:41:24-8 @jankalbitzer] Kann man auch wieder diskutieren, ob es Feigenblatteffekte gab.
+[00:41:28-4 @jankalbitzer] Also ob man sagt, dass so eine Stiftung quasi positive Dinge fördert, damit der Konzern gut dasteht, war nie mein Eindruck.
+[00:41:37-1 @jankalbitzer] Also ich habe nie mitbekommen, dass der Konzern zum Beispiel jetzt mit der Forschung angegeben hat, die durch die Stiftung gemacht wurde.
+[00:41:42-7 @jankalbitzer] Deswegen ich habe da eine ganz gute Erfahrung mit gemacht zu sagen, es hat nicht geklappt.
+[00:41:47-4 @jankalbitzer] Ich habe mit dieser Stiftung ganz gute Erfahrungen gemacht, ich habe mir aber auch oft die Frage gestellt,
+[00:41:51-4 @jankalbitzer] wie ist das so mit der Unabhängigkeit von Stiftungen, wer funkt da eigentlich mit rein mit seinen Interessen?
+[00:41:57-6 @jankalbitzer] Und ich habe gemerkt, dass das wirklich interessant ist.
+[00:42:00-8 @jankalbitzer] Und dass dieser Punkte gerade von Stiftungen, von privaten Stiftungen, wie werden wir medial sichtbar, ein ziemlich relevanter Punkt ist.
+[00:42:08-3 @jankalbitzer] Wenn ich bei der Stiftung angefragt habe, haben mir die oft nach einer Weile gesagt, für uns ist es wichtig, dass wir gesellschaftlich was tun,
+[00:42:13-8 @jankalbitzer] dass wir gesellschaftlich relevante Themen bearbeiten, aber die Sichtbarkeit war auch immer wieder Thema,
+[00:42:19-0 @jankalbitzer] dass es darum ging, Themen zu bearbeiten, die auch sichtbar werden.
+[00:42:21-5 @jankalbitzer] Das haben Mitarbeiter auch immer wieder relativ schnell gesagt so.
+[00:42:24-8 @jankalbitzer] Das ist so ein bisschen das Spannungsfeld der Förderung gewesen.
+[00:42:27-3 @jankalbitzer] Aber letztendlich muss ich sagen, ich habe sehr sehr gute Erfahrungen damit gemacht, sehr offen damit umzugehen, wie wir forschen
+[00:42:32-6 @jankalbitzer] und wenn auch was schiefgeht.
+[00:42:34-2 @timpritlove] Jetzt hast du dir ja aber auch über ein paar andere Sachen Gedanken gemacht jenseits des Internets.
+[00:42:45-6 @timpritlove] Und heute wollen wir mal ja so ein bisschen auf die Zeit blicken und wie die Gesellschaft eigentlich mit sich selber klarkommt.
+[00:42:55-1 @timpritlove] Das fing ja ganz gut an dieses Jahrzehnt so.
+[00:43:00-6 @timpritlove] Erstmal drohte eine Kriegseskalation im Nahen Osten, dann wurde Australien von den größten Buschfeuern
+[00:43:12-1 @timpritlove] und längsten und langanhaltendsten Feuern seit der Geschichte, glaube ich, Australiens, soweit man sie kennt, belegt.
+[00:43:21-9 @timpritlove] Große Katastrophe.
+[00:43:23-3 @timpritlove] Der Klimawandel ist in zunehmendem Maße in der Debatte, befördert durch ziemlich dramatische Messungen,
+[00:43:30-8 @timpritlove] statistische Erhebungen über Temperatur sowohl in der Arktis als auch in der Antarktis heißeste Monate.
+[00:43:39-9 @timpritlove] Es nimmt eigentlich überhaupt gar kein Ende.
+[00:43:43-4 @timpritlove] Terrorangst ist auch immer mal wieder ein Thema.
+[00:43:47-8 @timpritlove] Wir nehmen die Sendung jetzt hier Ende Februar 2020 auf und haben gerade diese Anschläge in Hanau erlebt.
+[00:43:58-2 @timpritlove] Der Corona-Virus macht sich, jetzt durch Europa zu marschieren und hier auch alles lahmzulegen
+[00:44:07-1 @timpritlove] und von den politischen Problematiken in Großbritannien und in den USA möchte ich gar nicht erst anfangen.
+[00:44:13-8 @timpritlove] Also liegt einiges auf dem Tisch und so die Leute schieben dann doch sehr unterschiedliche Ängste auch mit sich rum.
+[00:44:24-8 @timpritlove] Und jetzt stellt sich natürlich so ein bisschen die Frage, was passiert da eigentlich und sind wir als Gesellschaft,
+[00:44:31-9 @timpritlove] als globale Gesellschaft, aber vielleicht eben auch hier als lokale deutsche mitteleuropäische Gesellschaft ausreichend gerüstet,
+[00:44:39-6 @timpritlove] mit der Komplexität unserer Welt überhaupt noch klarzukommen,
+[00:44:44-4 @timpritlove] so ein bisschen auch die Frage wie mit dem Internet so, oder nicht oder auf welche Art und Weise kann man das machen.
+[00:44:53-5 @timpritlove] Wie siehst du denn so die Dramatik der Situation?
+[00:44:56-6 @timpritlove] Ist alles ganz furchtbar und wir sollten in den Bunkerbau gehen, wie das in den 50er/60er Jahren schon mal ganz populär war?
+[00:45:05-7 @jankalbitzer] Die Sache ist und da habe ich auch Kollegen für kritisiert, dass Wissenschaftler sich oft mit Meinungen einmischen.
+[00:45:14-5 @jankalbitzer] Und ich muss sagen, gerade bei diesen gesellschaftlichen Veränderungen auf globaler Ebene,
+[00:45:20-9 @jankalbitzer] da ist bei mir schon noch irgendwie das wissenschaftliche Interesse im Vordergrund.
+[00:45:25-9 @jankalbitzer] Ich habe so ein bisschen eine schlechte Beobachterposition in der Mitte von Berlin.
+[00:45:29-3 @jankalbitzer] Das heißt, alles was irgendwie in Deutschland schiefgehen kann, kann auch in Berlin schiefgehen.
+[00:45:34-0 @jankalbitzer] Es würde vielleicht Sinn machen, so ein bisschen weiter außen zu stehen, vielleicht würde ich dann so ein bisschen entspannter sein,
+[00:45:39-2 @jankalbitzer] aber ich finde diese Prozesse gerade wahnsinnig interessant aus wissenschaftlicher Perspektive.
+[00:45:44-6 @jankalbitzer] Wie geht die moderne Gesellschaft mit Veränderungsprozessen um?
+[00:45:50-2 @jankalbitzer] Und gerade in Bezug auf das Internet und die Forschung, die wir da gemacht haben, bin ich ziemlich zuversichtlich,
+[00:45:57-7 @jankalbitzer] weil es große Ängste gab, was das Internet mit der Gesellschaft macht und es hat auch wahrscheinlich einige negative Effekte
+[00:46:05-4 @jankalbitzer] auf gesellschaftlicher Ebene gehabt, aber wir haben ein ganz frühes Bewusstsein von Dingen und wir reagieren sehr schnell
+[00:46:12-2 @jankalbitzer] aus der Zivilgesellschaft heraus.
+[00:46:15-2 @jankalbitzer] Also diese Prozesse, die möglicherweise dazu geführt haben, dass bestimmte Cluster von Leuten im Netz,
+[00:46:23-9 @jankalbitzer] die Meinungen gepostet haben, in bestimmte Richtungen einen Wahlausgang beeinflusst haben.
+[00:46:29-2 @jankalbitzer] Die Sache ist die, dass es das bei Obama ja auch schon gab.
+[00:46:32-8 @jankalbitzer] Und da bin ich dann wieder medienkritisch, dass ich sage, das haben wir nicht gut genug aufgearbeitet,
+[00:46:36-9 @jankalbitzer] dass Barack Obama schon im großen Stil Facebook-Daten benutzt hat, um Wähler ganz individuell anzusprechen
+[00:46:44-1 @jankalbitzer] und zu gucken, wem muss ich was sagen, damit der meine Kampagne gut findet?
+[00:46:48-3 @jankalbitzer] Da war Donald Trump ja nicht der erste.
+[00:46:51-0 @jankalbitzer] Und da glaube ich, dass wir da auch gerade als Wissenschaftler, aber auch Journalisten, viel mehr versuchen müssen,
+[00:47:01-1 @jankalbitzer] objektive Aufarbeitung zu leisten, um uns nicht angreifbar zu machen, parteiisch zu sein.
+[00:47:06-2 @jankalbitzer] Ich finde diese Prozesse primär wahnsinnig spannend, weil ich merke, wie schnell die Welt reagiert auf Dinge.
+[00:47:13-6 @jankalbitzer] Also wir haben strak reagiert auf die Verbreitung von Aggressionen und Hass im Internet.
+[00:47:19-1 @jankalbitzer] Es gibt gesetzliche Veränderungen, es gibt gesellschaftliche Veränderungen, dass es Bewegungen gab wie,
+[00:47:24-3 @jankalbitzer] ich bin hier, worauf reagiert wird, wenn es in irgendwelchen Bereichen hasserfüllte Angriffe gab.
+[00:47:30-3 @jankalbitzer] Wir lernen Verhaltensweisen wie man mit Trollen umgeht oder wie man mit Aggressionen im Netz umgeht,
+[00:47:35-9 @jankalbitzer] wir debattieren da sehr umfangreich drüber und gucken, was wir ändern können.
+[00:47:39-8 @jankalbitzer] Das heißt, wir nehmen ganz schnell wahr, was für Prozesse stattfinden und reagieren auch ganz schnell drauf.
+[00:47:44-1 @jankalbitzer] Das finde ich ganz positiv.
+[00:47:45-3 @jankalbitzer] Genauso beim Corona-Virus.
+[00:47:46-6 @jankalbitzer] Das Corona-Virus hat sich in China ausgebreitet und die Geschwindigkeit, mit der das erforscht wird und Maßnahmen ausprobiert werden ist atemberaubend.
+[00:47:55-4 @jankalbitzer] Und das finde ich faszinierend und auch ermutigend, muss ich sagen.
+[00:48:01-6 @jankalbitzer] Und genauso wie die Wahl von Donald Trump oder auch die Entwicklungen in England vom Brexit angefangen dazu führen,
+[00:48:12-4 @jankalbitzer] dass Menschen sich politisch und gesellschaftlich mobilisieren.
+[00:48:16-4 @jankalbitzer] Das heißt, wir haben Effekte und Gegeneffekte.
+[00:48:18-0 @jankalbitzer] Und ich glaube, da bin ich eher auf der Seite der Wissenschaftler.
+[00:48:21-9 @jankalbitzer] Genauso was den Klimawandel angeht, dass wir im letzten Jahr viel mehr Ökostrom produziert haben,
+[00:48:26-3 @jankalbitzer] weil es viel mehr Sonnenlicht gab und viel mehr Wind und dadurch der Anteil an Ökostrom größer war als erwartet.
+[00:48:34-0 @jankalbitzer] Das heißt, es gibt so synergistische Gegeneffekte offenbar.
+[00:48:38-0 @jankalbitzer] Da bin ich, glaube ich, zu sehr in der Faszination um Angst zu haben.
+[00:48:43-7 @jankalbitzer] Aber als Psychiater denke ich natürlich drüber nach, was die Angst mit den Menschen macht.
+[00:48:48-0 @jankalbitzer] Was passiert, wenn es hier kippt in Deutschland?
+[00:48:50-9 @timpritlove] Weil die Ängste sind da.
+[00:48:52-4 @jankalbitzer] Wenn die Ängste so stark sind.
+[00:48:53-1 @jankalbitzer] Genau, wenn Leute immer mehr anfangen Panikkäufe zu tätigen, sich in ihre Wohnung zurückzuziehen,
+[00:48:57-4 @jankalbitzer] nicht mehr am öffentlichen Leben teilzunehmen, das ist bedrohlich.
+[00:49:01-2 @jankalbitzer] Und auch da gibt es Entwicklungen im Internet, die man verfolgen kann, dass sich Menschen zurückziehen aus öffentlichen Debatten,
+[00:49:08-0 @jankalbitzer] weil sie das Gefühl haben, ich habe zu viel Angst vor persönlichen Angriffen, vor Hass und mache deswegen nicht mehr mit.
+[00:49:15-2 @jankalbitzer] Es gibt diese Stoischewsche Schweigespirale, dass Leute sich aus Diskursen zurückziehen aus Angst
+[00:49:23-2 @jankalbitzer] und da gibt es aus den USA eine ganz interessante Studie, dass Leuten Fragen gestellt wurden per Email
+[00:49:32-8 @jankalbitzer] und die sollten dann antworten und die eine Gruppe hat dann die Zusatzinfo gekriegt, dass man nicht sicherstellen könne,
+[00:49:39-1 @jankalbitzer] dass die Antworten nicht mitgelesen würden, zum Beispiel durch Geheimdienste.
+[00:49:42-8 @jankalbitzer] Und diejenigen, die diese Zusatzinfo gekriegt haben, haben deutlich angepasster und vorsichtiger auf die Fragen geantwortet.
+[00:49:49-3 @jankalbitzer] Das heißt, die Art und Weise, wie wir uns äußern, sogar in einem nicht-öffentlichen Schriftverkehr im Internet,
+[00:49:56-2 @jankalbitzer] ist beeinflusst von der Angst vor Überwachung, vor Hass, vor Angriffen.
+[00:50:03-3 @jankalbitzer] Und deswegen mache ich mir als Privatperson schon auch Sorgen darum, was diese Angst mit diesen Menschen machen kann.
+[00:50:10-0 @jankalbitzer] Gleichzeitig ist es wieder so, dass Angst eine ganz wichtige Triebfeder ist.
+[00:50:14-3 @jankalbitzer] Wir reagieren momentan sehr stark auf die Veränderungen durch den Klimawandel, weil viele Menschen Angst davor haben.
+[00:50:20-4 @jankalbitzer] Ohne diese Angst hätten die Menschen nicht reagiert.
+[00:50:22-6 @jankalbitzer] Und das hat Geta Thunberg ja auch in Davos bei ihrem ersten Vortrag da gesagt, i want you panic und dann möchte ich,
+[00:50:30-5 @jankalbitzer] dass ihr reagiert, das hat sie zu denen gesagt.
+[00:50:32-5 @jankalbitzer] Und ich glaube, dass das eine ganz ganz wichtige Triebfeder ist, Angst und Wut sind wichtige gesellschaftliche Triebfedern für Veränderungen,
+[00:50:39-2 @jankalbitzer] die es auch braucht, um zu mobilisieren.
+[00:50:43-4 @jankalbitzer] Und das ist eine Mischung, die sich nicht einfach so beurteilen lässt.
+[00:50:47-0 @jankalbitzer] Das heißt, wir haben viele Veränderungen, die stattfinden, die bedrohlich sind.
+[00:50:52-5 @jankalbitzer] Wir reagieren viel schneller als früher auf bedrohliche Veränderungen aus der Zivilgesellschaft heraus
+[00:50:57-5 @jankalbitzer] und die Ängste und die Wut, die wir entwickeln, führen auch zu positiven Entwicklungen.
+[00:51:02-0 @jankalbitzer] Auch zu negativen, aber auch zu positiven.
+[00:51:04-5 @jankalbitzer] Und deswegen lässt sich das nicht so einfach beurteilen.
+[00:51:07-4 @jankalbitzer] Mir ist dabei wichtig, dass wir sagen, wie kann man aus diesen Ängsten positive Entwicklungen ableiten?
+[00:51:14-5 @jankalbitzer] Und da gibt es zum Thema Klimawandel ganz schöne Studien aus den USA, was dazu führen kann,
+[00:51:18-2 @jankalbitzer] dass Klimaangst dazu führt, dass Menschen tätig werden und sich nicht zurückziehen in die Angst und nicht in die Lähmung.
+[00:51:24-2 @jankalbitzer] Da geht es darum, dass wir unsere Umwelt als handhabbar wahrnehmen und das Gefühl haben,
+[00:51:30-3 @jankalbitzer] ich kann selber in meinem persönlichen Umfeld etwas zum Positiven verändern.
+[00:51:35-0 @jankalbitzer] Dann kann aus der Angst positive Aktivität werden.
+[00:51:39-1 @jankalbitzer] Das heißt zum Beispiel, dass politische Spielräume geschaffen werden müssen, dass Menschen vor Ort in ihrem Umfeld etwas tun können für die Verbesserung.
+[00:51:48-5 @jankalbitzer] Und dann weiß man, dass es Ansteckungseffekte hat.
+[00:51:51-9 @jankalbitzer] Wenn wir also ein Haus haben, meinetwegen wir verändern die Gesetzeslage so,
+[00:51:55-6 @jankalbitzer] dass in Berlin jetzt auch auf Altbauten auf dem Dach Solarplatten abgebracht werden dürfen, um grüne Energie zu erzeugen.
+[00:52:04-2 @jankalbitzer] Und dann fängt eine Hausgemeinschaft an, die Fassade zu begrünen und Solarplatten darauf zu bauen,
+[00:52:08-5 @jankalbitzer] man hat ein gemeinsames Projekt, freuen sich daran, denen geht es gut, weil sie was positives tun.
+[00:52:13-1 @jankalbitzer] Die Nachbarn kriegen das mit und sagen, Mensch das ist schön und dann gibt es so einen Effekt, der dann weiterstrahlt in die Umgebung
+[00:52:18-2 @jankalbitzer] und fangen vielleicht auch an das zu machen, es erhöht sich zumindest die Wahrscheinlichkeit.
+[00:52:22-1 @jankalbitzer] Deswegen ist ganz wichtig zu sagen, wie können politische Spielräume geschaffen werden,
+[00:52:25-9 @jankalbitzer] damit aus dieser Angst und dieser Wut positive Effekte entstehen können.
+[00:52:31-0 @jankalbitzer] Und dazu gehört eben, lokal Möglichkeiten zu schaffen und auch lokale Möglichkeiten sichtbar zu machen.
+[00:52:36-4 @jankalbitzer] Und da sehe ich wieder ganz wichtige Effekte des Internets, um Plattformen zu bilden, dass man sagt,
+[00:52:42-7 @jankalbitzer] ich sehe hier was in meiner Region, da möchte ich was ändern, was gibt es hier, was sind die Daten dazu
+[00:52:46-8 @jankalbitzer] und welche Leute sind vielleicht schon aktiv und beteiligen sich da und machen schon was?
+[00:52:51-0 @jankalbitzer] Da können digitale Plattformen ganz viele Möglichkeiten bieten.
+[00:52:54-2 @jankalbitzer] Wenn diese digitale Plattformen aber mit dem Verdacht einhergehen, dass da Daten abgegriffen werden oder überwacht wird,
+[00:52:59-8 @jankalbitzer] wie das in vielen Smartcitys zum Beispiel schon der Fall ist, hat man einen gegenteiligen Effekt.
+[00:53:04-4 @jankalbitzer] Da gibt es Studien, die vergleichen Studien so aus der ehemaligen DDR, wenn Menschen das Gefühl haben, überwacht zu werden,
+[00:53:10-5 @jankalbitzer] dann ziehen sie sich aus dem öffentlichen Diskurs zurück und werden fremdenfeindlicher, also kritischer Fremdem und Neuem gegenüber.
+[00:53:18-0 @jankalbitzer] Das heißt, wenn wir diese Plattformen bauen digital, müssen wir sicherstellen, dass Menschen nicht Angst haben müssen, überwacht zu werden
+[00:53:24-0 @jankalbitzer] und dass ihre Daten gegen sie verwendet werden können, das ist so die Herausforderung.
+[00:53:28-7 @timpritlove] Ist natürlich jetzt leicht gesagt, die Politik muss ja nur Verbesserungen schaffen, damit Leute sich einbringen können.
+[00:53:38-2 @timpritlove] Es herrscht ja zumindest bei uns derzeit so ein bisschen dieses Gefühl vor, dass das halt nicht geschieht.
+[00:53:44-6 @timpritlove] Ganz im Gegenteil, also gerade wenn man jetzt mal so Bereiche wie Windkraft, Solarenergie sieht, wo die Förderungen zurückgehen,
+[00:53:51-3 @timpritlove] wo neue Regeln aufgestellt werden, die genauso ein Engagement ja noch schwieriger machen,
+[00:53:57-2 @timpritlove] man kann überhaupt gar keine neuen Windtürme aufbauen etc..
+[00:54:01-3 @timpritlove] Außerdem sind es ja auch oft Sachen, wo jetzt, sagen wir mal, der lokale Handlungsspielraum auch begrenzt ist.
+[00:54:06-0 @timpritlove] Also ich kann kein Windkraftteil aufbauen so in meinem Hof.
+[00:54:14-0 @timpritlove] Klar, ich kann irgendwo ein Solarpanel auf den Balkon legen, nur der Glaube, dass das groß was bewirkt, ist schwierig.
+[00:54:23-7 @timpritlove] Also da muss dann erst ein gewisser Schwellwert ja auch überwunden werden.
+[00:54:29-8 @timpritlove] Und es muss vielleicht auch so eine Angst erst mal überwunden werden, dass man überhaupt was beitragen kann.
+[00:54:38-4 @timpritlove] Also dass man dazu in der Lage ist, dass es nicht schon zu spät ist, was, glaube ich, auch auf der anderen Seite so ein hemmender Faktor sein kann.
+[00:54:44-5 @timpritlove] Dass, wenn so ein genereller Glaube vorherrscht mit, hilft ja nichts, bringt ja nichts, eh alles zu spät, ja ich gehe jetzt einfach nur noch in den Weltuntergang,
+[00:54:55-6 @timpritlove] der da hinten schön rötlich violett am Horizont strahlt und lasse es mir nochmal gut gehen und dann ist alles vorbei und was soll es.
+[00:55:06-3 @jankalbitzer] Also was die Politik angeht ist für mich der wesentliche Punkt, dass Politiker ja auch hilflos sind
+[00:55:12-1 @jankalbitzer] und denen muss man sagen, passt auf, es ist wichtig, nicht unbedingt große nationale internationale Maßnahmen zu beschließen,
+[00:55:18-9 @jankalbitzer] das ist auch wichtig, vieles kann nur auf globaler Ebene gelöst werden, aber für das Engagement der Bevölkerung
+[00:55:25-0 @jankalbitzer] und für die psychische Befindlichkeit der Bevölkerung ist es einerseits wichtig, lokale Spielräume zu schaffen,
+[00:55:31-9 @jankalbitzer] damit aus der Angst Engagement werden kann, also zu sagen, auch da ist es ganz wichtig, wenn wir fragen,
+[00:55:39-1 @jankalbitzer] wie gehen wir mit der Apokalypse-Angst der Menschen in der Gesellschaft um, dann muss man sagen,
+[00:55:43-7 @jankalbitzer] da muss insofern politisch gehandelt werden, als dass man einen Fokus legt auf lokale Handlungsspielräume.
+[00:55:49-5 @jankalbitzer] Das muss viel mehr ausgebaut werden.
+[00:55:51-9 @jankalbitzer] Beteiligung in der Stadtentwicklung zum Beispiel muss viel mehr ausgebaut werden, so dass Leute das Gefühl haben,
+[00:55:56-4 @jankalbitzer] sie können selber an der Klimafreundlichkeit ihrer Stadt hin zum Beispiel zur, man nennt es jetzt, Schwammstädte, Spongecity,
+[00:56:03-1 @jankalbitzer] die in Zeiten massiver Regen dann Feuchtigkeit aufsaugen und dann die zur Verfügung haben, wenn längere Trockenphasen da sind,
+[00:56:09-3 @jankalbitzer] wie können sich da zum Beispiel Menschen direkt beteiligen.
+[00:56:13-7 @jankalbitzer] Das ist einfach für die psychische Gesundheit wichtig.
+[00:56:15-5 @jankalbitzer] Gleichzeitig und das ist ein Punkt, den du auch genannt hast, es ist wichtig, keine Illusionen zu erzeugen.
+[00:56:20-1 @jankalbitzer] Also wenn jetzt die Ansage kommt, wir strengen uns alle an und fahren nicht mehr Auto und bauen Solarplatten auf die Dächer,
+[00:56:27-2 @jankalbitzer] dann können wir den Klimawandel vermeiden, dann erzeugt man eine Illusion, die gefährlich ist, weil die Leute in zehn Jahren dann sagen werden,
+[00:56:33-0 @jankalbitzer] wir haben alle Solarplatten auf die Dächer gebaut und wir haben aufgehört Auto zu fahren und jetzt ist trotzdem der Klimawandel da.
+[00:56:40-2 @jankalbitzer] Das heißt, man muss schon sagen, man kann das durch individuelle Maßnahmen nicht stoppen,
+[00:56:44-9 @jankalbitzer] es lässt sich nicht unbedingt alles aufhalten.
+[00:56:47-2 @jankalbitzer] Es gibt Veränderungen, aber man kann erstens was dagegen tun, dass es sich noch mehr verändert,
+[00:56:55-1 @jankalbitzer] das ist aber im individuellen Spielraum begrenzt, man kann aber auch was tun, um sich lokal anzupassen an Veränderungen.
+[00:57:00-8 @jankalbitzer] Wie zum Beispiel bei einer Schwammstadt, dass man sagt, wie gehen wir mit Flüssigkeitsspeichern um
+[00:57:05-4 @jankalbitzer] oder bauen wir jetzt noch mehr …
+[00:57:06-3 @jankalbitzer] Man hat ja gemerkt, dass das Grundwasser sich immer weiter erwärmt, weil es viel Kühlung gibt durch,
+[00:57:12-4 @jankalbitzer] es gibt zum Beispiel Büros, die machen dann so Erdbohrungen und kühlen ihre Büros durch die Kälte aus dem Boden.
+[00:57:20-2 @jankalbitzer] Oder andersrum gibt es auch Wärme, die aus dem Boden nach oben geführt wird, um im Winter zu wärmen.
+[00:57:26-9 @jankalbitzer] Und man weiß, dass dieser Effekt dazu führt, dass sich die Temperatur des Grundwassers anhebt
+[00:57:32-7 @jankalbitzer] und da möglicherweise Mikroorganismen verändern.
+[00:57:35-3 @jankalbitzer] Und so was ist etwas, was man lokal beeinflussen kann.
+[00:57:38-3 @jankalbitzer] Das heißt, wir können die Qualität des Berliner Trinkwassers dadurch beeinflussen wie neue Gebäude gebaut werden
+[00:57:46-1 @jankalbitzer] und wie die zum Beispiel ihr Temperaturkonzept aufbauen.
+[00:57:50-3 @jankalbitzer] Da kann man einiges machen, was unsere persönliche Anpassung an Veränderungen verbessert, die auf jeden Fall kommen werden.
+[00:57:55-7 @jankalbitzer] Also es ist beides.
+[00:57:56-4 @jankalbitzer] Man darf keine falsche Illusion machen, man muss sagen, es geht nicht nur um eine Verhinderung, sondern es geht auch um eine Anpassung
+[00:58:03-0 @jankalbitzer] und da muss man sagen, was können Menschen lokal tun, um sich besser anzupassen, damit es nicht nur in die Lähmung geht.
+[00:58:08-4 @jankalbitzer] Die Energie, die durch Angst und Wut auch sonst entstehen kann.
+[00:58:11-3 @timpritlove] Klingt schön, trotzdem hat man das Gefühl, dass viele auch so ein wenig verzweifeln an dieser Situation
+[00:58:19-2 @timpritlove] und sich doch eher so einem Fatalismus zuneigen und dann eben auch vielleicht in so eine Schockstarre geraten, sich komplett wegschließen,
+[00:58:29-8 @timpritlove] und nach mir die Sintflut.
+[00:58:32-9 @timpritlove] Was kann man denn tun für sich oder sein Umfeld?
+[00:58:39-7 @timpritlove] Ich meine, jetzt abgesehen von solchen Beteiligungen in Energiemaßnahmen und Stadtplanung, sondern einfach nur für sich selber,
+[00:58:47-7 @timpritlove] um an der Stelle auf so eine neue Resilienz vielleicht zu entwickeln, die man so noch nicht gehabt hat?
+[00:58:53-7 @jankalbitzer] Ich finde den Begriff der Filterblase da ganz interessant.
+[00:58:56-1 @jankalbitzer] Die Filterblase hat ja so einen negativen Beiklang bekommen.
+[00:59:00-9 @jankalbitzer] Dass wir uns in Filterblasen befinden, wo wir nur noch die Informationen kriegen von Leuten, die das gleiche denken wie man selbst
+[00:59:06-3 @jankalbitzer] und nur noch aus dem direkten Umfeld.
+[00:59:10-4 @jankalbitzer] Es gibt in der ökologischen Psychotherapie den Begriff der Nische.
+[00:59:15-3 @timpritlove] Es gibt eine ökologische Psychotherapie?
+[00:59:18-1 @jankalbitzer] Ja, der Mensch in seinem Ökosystem, ist ein ganz interessanter Bereich, weil die echt tolle Sachen gemacht haben.
+[00:59:24-1 @jankalbitzer] Da geht es nicht um Umweltökologie, sondern um die Ökologie des Miteinanders.
+[00:59:29-4 @jankalbitzer] Die menschlich psychischen Ökosysteme.
+[00:59:31-2 @timpritlove] Umweltpsychologie.
+[00:59:34-2 @jankalbitzer] Genau. Es geht nicht um Umweltpsychologie.
+[00:59:36-6 @jankalbitzer] Also da geht es eben nicht um die Natur als Umwelt, sondern es geht um die menschliche Umwelt, in der wir uns befinden.
+[00:59:41-9 @jankalbitzer] Und da geht es darum, dass wir Nischen brauchen, in denen wir uns geschützt und kompetent fühlen, um gesund zu bleiben.
+[00:59:49-1 @jankalbitzer] Und das ist ein Faktor, der mir ganz wichtig ist.
+[00:59:52-2 @jankalbitzer] Wir müssen uns einerseits Herausforderungen stellen und da ist auch wieder der Bogen zu unserer Internetforschung,
+[00:59:58-7 @jankalbitzer] wir müssen in der Lage sein, uns den Herausforderungen des Lebens zu stellen.
+[01:00:01-1 @jankalbitzer] Wir müssen in der Lage sein, die Fragen nach Fakten zu stellen und die Fakten auch auszuhalten.
+[01:00:07-4 @jankalbitzer] Das braucht es einerseits, andererseits, um diese Kraft zu haben, brauchen wir Nischen, in die wir uns zurückziehen können.
+[01:00:13-3 @jankalbitzer] Wir brauchen diese Kammer, in der wir manchmal sind und wo wir nicht überflutet werden von Informationen
+[01:00:18-5 @jankalbitzer] und nicht jedem Streit ausgeliefert sind und das Gefühl haben, ich poste jetzt noch irgendwas auf Facebook nachts um halb elf
+[01:00:26-1 @jankalbitzer] und dann schreibt irgendjemand vom anderen Ende der Welt, dass ich ein Idiot bin und ich ärgere mich darüber.
+[01:00:30-7 @jankalbitzer] Da braucht es auch manchmal eine Nische, in der man diesem Konflikt nicht ausgesetzt ist, sondern sich wohl und kompetent fühlt.
+[01:00:36-5 @jankalbitzer] Und das ist ein ganz ganz wichtiger Faktor, dass Menschen diese Nischen zugestehen und dass deswegen dieses Bedürfnis,
+[01:00:44-4 @jankalbitzer] sich zurückzuziehen in die Lähmung und in den Schutz, ist grundsätzlich kein falsches.
+[01:00:49-9 @timpritlove] Podcasts zum Beispiel.
+[01:00:51-5 @jankalbitzer] Podcasts hören zum Beispiel.
+[01:00:53-5 @jankalbitzer] Wobei jetzt wir in die weite Welt der Angst hinausgegangen sind und das ganz viele Themen sind,
+[01:00:57-8 @jankalbitzer] deswegen ist es vielleicht auch gar kein schlechtes abschließendes Thema dieser Nischen.
+[01:01:03-7 @jankalbitzer] Diese Nischen sich selbst zu schaffen ist erst mal was positives.
+[01:01:07-2 @jankalbitzer] Und es gibt Forschungen, theoretische Forschung, zu der Frage, hat Depression evolutionär mal Sinn gemacht?
+[01:01:15-8 @jankalbitzer] Also es gibt ja ganz viele Menschen, die Depressionen irgendwann entwickeln, da muss man sich ja fragen,
+[01:01:19-1 @jankalbitzer] ist das eine Reaktion des Menschen, die sinnvoll war, ist sie deswegen erhalten geblieben?
+[01:01:25-3 @jankalbitzer] Und da gibt es Theoretiker die sagen, dass eine Wirkung, Randolph Nesse heißt einer, der über so was geschrieben hat,
+[01:01:33-4 @jankalbitzer] ist Depression an Adaptation, ich glaube, so heißt der Artikel
+[01:01:40-5 @jankalbitzer] und der beschreibt unter anderem, dass dieser Rückzug der Depression viele positive Effekte auch haben kann.
+[01:01:45-6 @jankalbitzer] Zum Beispiel dass man Unterstützung durch andere mobilisiert, wenn einem alles zu viel wird,
+[01:01:50-1 @jankalbitzer] aber dass man sich auch rauszieht aus herausfordernden Umständen, die einem zu viel geworden sind
+[01:01:58-1 @jankalbitzer] und dann sich Schutz sucht, um wieder Kraft zu sammeln.
+[01:02:00-1 @jankalbitzer] Zum Beispiel evolutionär gesehen vielleicht aus einem Konkurrenzkampf.
+[01:02:02-3 @jankalbitzer] Wenn man immer wieder in Konkurrenzkampfkämpfen gescheitert ist, dass man irgendwann so eine Art Depression entwickelt,
+[01:02:07-1 @jankalbitzer] sich zurückzieht und nicht weiter kämpft, um sich nicht weiter zu verletzen, und man vielleicht entweder neue Kraft sammelt
+[01:02:12-7 @jankalbitzer] oder in ein anderes Territorium geht, aber erst mal Kräfte schont.
+[01:02:16-1 @jankalbitzer] Deswegen ist diese Rückzugsreaktion eine richtige.
+[01:02:20-6 @jankalbitzer] Sie wird dann problematisch, wenn man sich vollständig zurückzieht und der Antrieb immer mehr nachlässt.
+[01:02:24-9 @jankalbitzer] Weil das so ist, das hat auch mit der Entwicklung von Depressionen zu tun, Rückzug kann eine positive Reaktion sein,
+[01:02:32-3 @jankalbitzer] aber sie führt auch dazu, dass wir immer weniger positives Feedback kriegen.
+[01:02:36-6 @jankalbitzer] Wenn wir uns sozial zurückziehen, weniger mit Freunden machen, kriegen wir auch weniger positive Rückmeldungen,
+[01:02:41-4 @jankalbitzer] erleben weniger schöne Dinge, das heißt, wir haben weniger Verstärker für das Positive in unserem Leben.
+[01:02:48-6 @jankalbitzer] Und wenn man so weit in den Rückzug reinkommt, dass man keine Verstärker mehr hat, die einen zurückbringen ins Leben,
+[01:02:53-0 @jankalbitzer] dann ist die Gefahr, in so eine Depression abzurutschen und dann wird es problematisch.
+[01:02:58-4 @jankalbitzer] Das heißt, wir müssen einerseits sagen, der Rückzug ist eine legitime Entwicklung, auch das Umfeld.
+[01:03:03-1 @jankalbitzer] Nicht sofort, oh Gott oh Gott, du ziehst dich zurück, du liest die Nachrichten nicht mehr, ist nicht unbedingt eine schlechte Reaktion,
+[01:03:09-1 @jankalbitzer] aber wachsam zu sein und zu sagen, pass mal auf, so ein bisschen positive Dinge sollte man sich erhalten.
+[01:03:16-1 @jankalbitzer] Und ich glaube, dass der Punkt, den wir jetzt in dem Podcast auch machen können, ist zu sagen, es ist okay.
+[01:03:24-2 @jankalbitzer] Es ist okay, sich zurückzuziehen und nicht die ganze Welt sehen zu wollen.
+[01:03:26-7 @jankalbitzer] Es ist okay, sich nicht mit allem auseinandersetzen zu wollen und den ganzen Stress zu haben,
+[01:03:31-5 @jankalbitzer] man darf nur nicht verlernen, sich Herausforderungen zu stellen.
+[01:03:33-9 @jankalbitzer] Und das ist im Prinzip die gleiche Essenz, die ich auch aus der Internetforschung dann so mitgenommen habe,
+[01:03:39-3 @jankalbitzer] dass es ein wunderbarer Ort sein kann, wenn man ihn nicht nutzt, um sich soweit zurückzuziehen, dass man Herausforderungen,
+[01:03:46-5 @jankalbitzer] die durch die direkten Interaktionen mit Menschen entstehen, verlernt.
+[01:03:51-8 @jankalbitzer] Das würde ich so ein bisschen als die Gesamtessenz des Ganzen dann am Ende bezeichnen.
+[01:03:55-5 @jankalbitzer] Das ist keine Hypothese, die ich wissenschaftlich bewiesen habe, sondern das ist das, was ich in den Gesprächen,
+[01:04:01-0 @jankalbitzer] die ich als wissenschaftliche Interviews und auch mit Leuten darüber hinaus geführt habe, so mitgenommen habe.
+[01:04:07-0 @jankalbitzer] Diese Fähigkeit, Herausforderungen anzunehmen zu behalten.
+[01:04:10-3 @jankalbitzer] Menschen in die Augen zu blicken und die Präsenz des anderen aushalten zu können.
+[01:04:15-9 @jankalbitzer] Und es gibt einen Philosophen, Levinas heißt der, der hat über die Unendlichkeit des Anderen geschrieben.
+[01:04:22-1 @jankalbitzer] Der sagt, dass die Auseinandersetzung mit der Unverständlichkeit anderer Menschen ganz wichtig für uns ist,
+[01:04:28-7 @jankalbitzer] weil wir dadurch erstens ständig üben, uns verständlich zu machen.
+[01:04:36-0 @jankalbitzer] Also man wächst ja als Kind auf und denkt, die Welt ist so, wie man selber die sieht und irgendwann merkt man,
+[01:04:42-3 @jankalbitzer] man muss sich mit anderen austauschen und muss eine Übereinkunft darüber finden, was zum Beispiel ein Stuhl ist.
+[01:04:48-1 @jankalbitzer] Also ich sehe einen Stuhl möglicherweise anders als du, aber wir haben eine Übereinkunft dafür, das ist irgendwas wo man sich draufsetzt
+[01:04:54-0 @jankalbitzer] und der muss bestimmte Dinge können.
+[01:04:58-9 @jankalbitzer] Gleichzeitig haben wir vielleicht ganz andere Assoziationen zu Stühlen.
+[01:05:01-4 @jankalbitzer] Und dieses miteinander Ringen, so wie wir das auch in dem Podcast tun, ein gemeinsames Verständnis zu finden,
+[01:05:06-6 @jankalbitzer] die Welt irgendwie gemeinsam zu verstehen, das bringt uns Menschen zueinander.
+[01:05:10-5 @jankalbitzer] Das gibt uns etwas sehr positives in der zwischenmenschlichen Interaktion, was uns bestärkt
+[01:05:17-2 @jankalbitzer] und es hat den anderen positiven Effekt, dass es Demut lehrt in dem Sinne, dass meine eigene Sicht auf die Welt nicht die einzige
+[01:05:24-9 @jankalbitzer] und nicht die wichtigste ist, was sehr erleichternd sein kann, wenn man nur mit sich alleine ist und nur seinen eigenen Blick hat,
+[01:05:30-4 @jankalbitzer] dann fühlt man sich auch manchmal sehr verantwortlich und ist überfordert damit, alles irgendwie einschätzen zu müssen.
+[01:05:36-6 @timpritlove] Wo endet der Stuhl und wo fängt der Sessel an sozusagen.
+[01:05:40-1 @jankalbitzer] /lacht/ Genau, also solche Auseinandersetzungen zu führen.
+[01:05:44-1 @jankalbitzer] Wenn wir das jetzt führen würden, wenn wir hier sitzen würden, eine Stunde darüber reden würden,
+[01:05:48-3 @jankalbitzer] was ist eigentlich ein Stuhl, was ist ein Sessel, wir wären am Ende beide, wir würden rausgehen, wenn das ein spannendes Gespräch ist
+[01:05:53-9 @jankalbitzer] und uns wohlfühlen, weil wir miteinander gerungen haben, uns gegenseitig zu verstehen.
+[01:05:58-9 @jankalbitzer] Und das ist ein ganz wichtiger Prozess für Menschen, es ist ganz egal, um was es dabei geht.
+[01:06:03-2 @jankalbitzer] Und ich mache auch Therapien mit Gruppen, die ich anbiete, wo die Leute wahnsinnig viel mitnehmen,
+[01:06:07-2 @jankalbitzer] einfach nur, weil sie gemeinsam darüber reden, wie es ist Angst zu haben und sich auszutauschen,
+[01:06:11-0 @jankalbitzer] zu sehen, wie nehmen andere das wahr, wie gehen sie damit um.
+[01:06:14-1 @jankalbitzer] Und diesen Prozess aufrechtzuerhalten ist das wichtige.
+[01:06:18-3 @jankalbitzer] Also es sind große Herausforderungen, wir verstehen nicht alles, es gibt positive und negative Aspekte daran,
+[01:06:24-0 @jankalbitzer] es führt bei einigen Menschen zu Angst und Überforderung und es ist okay, sich dann zurückzuziehen,
+[01:06:29-7 @jankalbitzer] aber es ist wichtig, diese zwischenmenschliche Interaktion aufrechtzuerhalten in der Auseinandersetzung mit der Unverständlichkeit des anderen,
+[01:06:37-5 @jankalbitzer] die wir immer wieder akzeptieren, weil uns das auch ein bisschen was befreiendes gibt, dass das eigene nicht das wichtigste ist
+[01:06:43-2 @jankalbitzer] und man so ein bisschen da rauskommt aus der eigenen Weltsicht und sich auch wieder mehr als Teil der Gemeinschaft fühlt.
+[01:06:48-2 @jankalbitzer] Und wir wissen aus der psychologischen Forschung, dass es unheimlich zur Resilienz beiträgt und gut ist für die Psyche,
+[01:06:56-5 @jankalbitzer] wenn man das Gefühl hat, Teil von etwas zu sein, was größer ist als man selbst, das ist wahnsinnig schützend psychisch.
+[01:07:03-8 @jankalbitzer] Gerade in Zeiten wie jetzt, wo wir vor großen Herausforderungen stehen.
+[01:07:07-9 @timpritlove] Sagt sich natürlich leicht, den Diskurs zu pflegen, sich da Herausforderungen zu stellen oder überhaupt durch dieses Diskursische selber
+[01:07:18-2 @timpritlove] sozusagen wieder zu Glück zu finden, wenn man auf der anderen Seite feststellt, dass jetzt die Orte der neuen Diskurse,
+[01:07:26-2 @timpritlove] sprich die Onlinemedien, die Messenger etc., halt auch extrem vergiftet sind, eine Debattenkultur herrscht oder schnell umkippen kann zumindest,
+[01:07:40-3 @timpritlove] die Leute nachvollziehbarerweise vergrault oder sogar eben wiederum in neue Angst versetzt, weil es potenzielle Bedrohungen sind,
+[01:07:49-9 @timpritlove] die sich dort auftun.
+[01:07:53-4 @timpritlove] Mobs finden sich zusammen, Bedrohungsgruppen stellen sich da auf und es wird einem irgendwie alles an den Hals gewünscht,
+[01:08:00-4 @timpritlove] was gerade argumentativ greifbar ist.
+[01:08:06-1 @timpritlove] Siehst du das denn als vorübergehendes Phänomen oder nur etwas, was, wo sich, sagen wir mal, die gesellschaftliche Resilienz
+[01:08:14-5 @timpritlove] noch nicht weiter genug entwickelt hat oder ist es vielleicht gar nicht so ein großes Problem, als das wir es jetzt vielleicht gerade wahrnehmen?
+[01:08:22-3 @timpritlove] Also es ist ja schon real, das ist schon ein Teil unserer Realität derzeit, dass so eine Debatte nicht ohne weiteres zu führen ist
+[01:08:31-9 @timpritlove] und die Leute sich sehr schnell an die Gurgel springen.
+[01:08:34-8 @jankalbitzer] Also das Interessante ist ja China.
+[01:08:40-0 @jankalbitzer] China ist so wahnsinnig spannend für all diese Fragen, weil China ein absoluter Streber ist, was den Klimawandel angeht.
+[01:08:46-7 @jankalbitzer] Also China hat unheimlich gute Zahlen vorgelegt, was das CO2 und andere Messwerte angeht.
+[01:08:53-6 @jankalbitzer] Und weil es einfach von oben Dinge umsetzen kann im ganzen Staat.
+[01:09:00-6 @jankalbitzer] China hat rigoros reagiert auf das Corona-Virus und China kontrolliert das Netz relativ rigoros.
+[01:09:09-8 @jankalbitzer] Und gerade was den Klimawandel angeht muss man sagen, vielleicht rettet uns China.
+[01:09:17-5 @jankalbitzer] Wo wir dann sagen müssen, rechtfertigt das bestimmte Formen der politischen Handhabung von Prozessen,
+[01:09:27-1 @jankalbitzer] die wir in demokratischen Systemen eigentlich ablehnen?
+[01:09:31-3 @jankalbitzer] Diese Diskussion haben wir jetzt ja auch beim Corona-Virus, wenn überlegt wird, kann man auch in Deutschland ganze Gemeinden abriegeln?
+[01:09:36-9 @jankalbitzer] Jetzt ist heute in NRW einen Gemeinde quasi stillgelegt worden, Schulen, Kitas, der öffentliche Nahverkehr,
+[01:09:45-9 @jankalbitzer] weil es da einen Fall gab mit einer schweren Erkrankung, der aufgedeckt wurde.
+[01:09:51-1 @jankalbitzer] Und das ist so ein bisschen die Frage, wie weit ist man bereit, solche Schritte zu tun?
+[01:09:58-6 @jankalbitzer] Ich finde und da kommen wir wieder zu der Frage, was ist eine digitale, was ist eine analoge Welt?
+[01:10:03-6 @jankalbitzer] Und welchen Herausforderungen muss man sich stellen?
+[01:10:05-5 @jankalbitzer] Wenn Facebook zum Beispiel ganz ganz viele aggressive Posts löscht, einfach rausnimmt, dann verändert es damit auch die Realitätswahrnehmung.
+[01:10:14-7 @jankalbitzer] Also wir sehen bestimmte Dinge nicht.
+[01:10:17-2 @jankalbitzer] Und das ist genau dieses zweischneidige Schwert, es gab ja die Frage, ab wann darf WhatsApp von Jugendlichen genutzt werden,
+[01:10:23-1 @jankalbitzer] weil es auch dann Sexualstraftäter gibt, die sich Jugendlichen nähern können über WhatsApp.
+[01:10:31-1 @jankalbitzer] Ja, das große Problem ist, es gibt Sexualstraftäter, die sich über WhatsApp an Jugendliche ranmachen können,
+[01:10:36-9 @jankalbitzer] es gibt aber auch einen Vorteil daran, nämlich es ist nachweisbar.
+[01:10:41-2 @jankalbitzer] Das heißt, man kann nachverfolgen, man sieht es schriftlich, wann hat sich welcher Straftäter wem genähert?
+[01:10:47-1 @jankalbitzer] Und dann ist die Frage, wie darf man solche Daten nutzen, wie darf man die auswerten?
+[01:10:51-6 @jankalbitzer] Und ich glaube, dass das das Hauptproblem ist jetzt.
+[01:10:53-8 @jankalbitzer] Wenn wir darüber reden, was in Twitter diskutiert und gesagt werden darf und was sofort gelöscht werden muss,
+[01:11:00-4 @jankalbitzer] was angezeigt wird, dann sind wir genau in der Diskussion, wieviel der Realität lassen wir zu und müssen wir aushalten
+[01:11:10-7 @jankalbitzer] und wieviel darf und sollte nicht zugelassen werden, wieviel muss bestraft werden, das ist eine wahnsinnig komplizierte Frage,
+[01:11:15-4 @jankalbitzer] die hinter all dem steht, die überhaupt nicht leicht zu beantworten ist.
+[01:11:20-5 @jankalbitzer] Ich glaube, dass sich da schon ganz viel tut momentan, dass sich ganz neue Wege ergeben, wie Sachen angezeigt
+[01:11:27-9 @jankalbitzer] und dann auch gelöscht werden können.
+[01:11:31-4 @jankalbitzer] Und man merkt, dass es nicht ganz rund läuft, aber dass sich vieles auch schon da verbessert.
+[01:11:37-8 @jankalbitzer] Dass schneller zum Beispiel auf Twitter aggressive Kommentare gelöscht werden.
+[01:11:42-9 @jankalbitzer] Es werden immer wieder falsche Leute gesperrt, es werden immer wieder falsche Kommentare gelöscht und Dinge,
+[01:11:46-6 @jankalbitzer] die wirklich aggressiv sind, weil sie irgendwie klausuliert formuliert werden, werden nicht gelöscht.
+[01:11:51-6 @jankalbitzer] Aber wir reagieren darauf und wir führen die Debatte.
+[01:11:54-1 @jankalbitzer] Ich sehe eher das Problem da, dass sich Menschen vom Diskurs zurückziehen und sagen, ich will da nicht mehr mitdiskutieren.
+[01:11:59-7 @jankalbitzer] Robert Habeck war so ein Fall, der gesagt hat, ich gehe raus aus den sozialen Medien, weil ich dazu verführt werde,
+[01:12:07-4 @jankalbitzer] auf eine bestimmte Art und Weise zu reagieren, das war ja, nachdem er zweimal gesagt hat,
+[01:12:10-7 @jankalbitzer] wenn mehr grün gewählt wird, wird es demokratischer.
+[01:12:13-6 @jankalbitzer] Das war ja erst in Bayern und dann, glaube ich, in Thüringen, dass es da um die Wahlen ging und dann irgendwie die Prognose so ein bisschen war,
+[01:12:18-7 @jankalbitzer] irgendwie es wird grüner und dann hat er gesagt, endlich kommt die Demokratie, weil es mehr Stimmen für grün gab
+[01:12:28-0 @jankalbitzer] und hat dann gesagt, also jetzt verkürzt gesprochen, in den sozialen Medien wird man dazu verführt, Sachen auf eine bestimmte Art und Weise zu sagen.
+[01:12:36-7 @jankalbitzer] Und hat sich dann daraus zurückgezogen.
+[01:12:39-7 @jankalbitzer] Und so was finde ich total falsch.
+[01:12:40-5 @jankalbitzer] Ich finde, man muss sich um diesen Diskurs bemühen und nur dann kann er besser werden.
+[01:12:46-4 @jankalbitzer] Man kann auch sagen, irgendwas funktioniert gar nicht mehr.
+[01:12:47-9 @jankalbitzer] Man kann sagen, auf Twitter bestimmte Bereiche sind so von Aggressionen verseucht, wir machen das zu, wir gehen da nicht mehr hin,
+[01:12:53-7 @jankalbitzer] aber trotzdem muss es so sein, dass es Plattformen geben muss, auf denen wir gemeinsam darum ringen, einen guten Diskurs zu haben.
+[01:13:02-0 @jankalbitzer] Und das ist aus meiner Sicht der einzige Weg, wir müssen neue Kulturen aushandeln.
+[01:13:04-0 @timpritlove] Aber wie kann uns denn dann China retten?
+[01:13:05-8 @timpritlove] Weil die machen das ja nun nicht so.
+[01:13:09-8 @jankalbitzer] Ich glaube, dass uns China eben nicht retten kann.
+[01:13:13-1 @jankalbitzer] Ich glaube, dass der Preis zu hoch wäre, es so zu machen, wie China es macht.
+[01:13:17-1 @jankalbitzer] Dass wir sagen müssen, bestimmte Dinge können wir nicht so umsetzen und dass es genau darum geht zu sagen,
+[01:13:23-6 @jankalbitzer] aufgrund welcher Vorteile verzichten wir auf Zensur?
+[01:13:25-9 @jankalbitzer] Aufgrund welcher Vorteile verzichten wir auf drakonische Maßnahmen der Seuchenbekämpfung, die nur in China möglich sind.
+[01:13:32-1 @jankalbitzer] In Italien gibt es jetzt ja auch ähnliche Maßnahmen und rein juristisch wären auch in Deutschland ähnliche Maßnahmen möglich und umzusetzen.
+[01:13:40-1 @timpritlove] In digitaler Hinsicht jetzt oder?
+[01:13:41-6 @jankalbitzer] In digitaler Hinsicht und auch in was was die Seuchenbekämpfung angeht.
+[01:13:44-8 @timpritlove] Welche Maßnahmen meinst du da jetzt?
+[01:13:47-6 @jankalbitzer] Man könnte ja zum Beispiel sagen, dass man versucht, Zugangspunkte besser zu kontrollieren
+[01:13:54-0 @jankalbitzer] und bestimmte Kommunikation gar nicht mehr zuzulassen im Netz.
+[01:13:58-1 @jankalbitzer] Zum Beispiel wenn es dann um die Frage geht, ob aus Russland Beeinflussung von Wahlen stattfindet, könnte man sagen,
+[01:14:04-3 @jankalbitzer] Menschen müssen sich authentifizieren, wenn sie auf Twitter an einer Kommunikation teilnehmen wollen,
+[01:14:10-1 @jankalbitzer] sind damit juristisch besser verfolgbar, man kann nur mit seiner persönlichen Identität am Diskurs teilnehmen.
+[01:14:15-8 @jankalbitzer] Das wären relativ drakonische Maßnahmen, um das zu verbessern und zu sagen, man geht auch mit einer radikalen Strafverfolgung da rein,
+[01:14:22-4 @jankalbitzer] wenn Beleidigungen stattfinden.
+[01:14:24-1 @timpritlove] Wird aber wahrscheinlich nicht funktionieren.
+[01:14:25-8 @jankalbitzer] Einerseits wird es nicht funktionieren.
+[01:14:26-8 @jankalbitzer] Die Frage ist aber auch, welche Konsequenzen hätte das für den Dialog?
+[01:14:29-9 @jankalbitzer] Weil bestimmte Formen von Kommunikation eher möglich sind, wenn Leute anonym interagieren.
+[01:14:36-0 @jankalbitzer] Man muss sich den Arabischen Frühling zum Beispiel angucken.
+[01:14:38-5 @jankalbitzer] Und ich glaube auch, dass in Deutschland bestimmte Debatten nur möglich sind auf Twitter, weil die Leute da anonym miteinander kommunizieren
+[01:14:46-8 @jankalbitzer] und dass es deswegen auch einen Wert hat, Debatten anonym führen zu können.
+[01:14:50-1 @timpritlove] Im Gegensatz zu einer landläufigen Meinung, einer Sau, die ja viel durch das Dorf getrieben wurde,
+[01:14:56-8 @timpritlove] dass ja Hasskommunikation und irgendwie schwierige Auseinandersetzungen online im Wesentlichen durch Anonymität befördert sind.
+[01:15:07-0 @timpritlove] Ich habe eher den Eindruck, das Gegenteil ist wahr, dass diese ganzen Diskussionen sehr wohl bestenfalls pseudonym
+[01:15:12-9 @timpritlove] eigentlich sogar komplett mit Realnamen geführt werden, während die Anonymität eher noch so den Rückzugsraum für die Schützenswerte darstellt.
+[01:15:22-5 @jankalbitzer] Also es gibt sicherlich auch Leute, die unter dem Schutz der Anonymität aggressiv sind im Netz, das gibt es auch.
+[01:15:28-9 @jankalbitzer] Aber es gibt unglaublich viele Menschen, die unter ihrem Realnamen aggressiv sind.
+[01:15:34-5 @jankalbitzer] Und gerade wenn ich so Debatten nach Veröffentlichungen geführt habe und Leute nachgeguckt habe,
+[01:15:40-4 @jankalbitzer] das waren zum Teil Akademiker, also die an der Uni gelernt haben, die total aggressiv waren auf Facebook,
+[01:15:46-1 @jankalbitzer] als Reaktion auf einen Artikel, den ich geschrieben habe, das waren Lokalpolitiker
+[01:15:49-5 @jankalbitzer] und dann habe ich den manchmal geschrieben über ihren öffentlich zugänglichen Email-Account und gesagt,
+[01:15:56-8 @jankalbitzer] was sie denn so wütend gemacht hat?
+[01:15:58-1 @jankalbitzer] Die haben sich total auf die Füße getreten gefühlt und hatten das Gefühl, dass ich quasi so eine Art Stalking gemacht habe.
+[01:16:06-6 @jankalbitzer] Also die haben auf Facebook öffentlich aggressiv auf einen Artikel reagiert, den ich geschrieben habe.
+[01:16:11-4 @jankalbitzer] Und dann habe ich auf deren Profil geguckt und da stand, die arbeiten für die und die Uni und sind da und da.
+[01:16:15-5 @jankalbitzer] Dann habe ich auf deren Uni-Seite geguckt, die Email-Adresse genommen und denen geschrieben,
+[01:16:19-4 @jankalbitzer] ob wir vielleicht erst mal so direkt in Kontakt treten wollen, was sie so aggressiv macht.
+[01:16:22-2 @jankalbitzer] Da haben die zum Teil wahnsinnig wütend reagiert, dass ich da so ein Stalking machen würde,
+[01:16:26-5 @jankalbitzer] wo ich gesagt habe, aber Sie sind doch mit mir in Kontakt getreten.
+[01:16:29-5 @jankalbitzer] Das heißt, es gibt so eine, was ich gemerkt habe in diesen Diskursen, dass viele Menschen gar kein Bewusstsein für die Öffentlichkeit haben.
+[01:16:39-0 @jankalbitzer] Sie merken den Effekt der positiven Verstärkung, dass sie ganz viel positives Feedback kriegen, wenn sie was aggressives posten,
+[01:16:44-2 @jankalbitzer] aber ihnen ist gar nicht bewusst, dass sie da öffentlich agieren und welche Auswirkung dieses öffentliche Agieren auch hat.
+[01:16:51-6 @jankalbitzer] Und wenn ihnen das bewusst gemacht wird, reagieren sie zum Teil aggressiv oder peinlich berührt oder schockiert
+[01:16:59-1 @jankalbitzer] und machen Accounts zu und das ist aus meiner Sicht ein ganz wesentliches Element, dass noch kein Bewusstsein da ist für diese Öffentlichkeit,
+[01:17:08-4 @jankalbitzer] in der Menschen da agieren und welche Auswirkungen das öffentliche Agieren haben kann.
+[01:17:12-5 @timpritlove] Denkst du, dass das etwas ist, was sozusagen jetzt gerade erst eingepreist wird, was quasi so ein Anpassungsprozess der Gesellschaft ist
+[01:17:20-6 @timpritlove] auf die Präsenz digitaler Medien, dass wir das sozusagen einfach noch nicht so drin haben,
+[01:17:25-8 @timpritlove] wie eben alle anderen Sachen, die wir im Prinzip von Grund auf gelernt haben?
+[01:17:29-9 @timpritlove] Dass da jetzt eine Generation nachzieht, für die das ja selbstverständlich sein wird und die dann sozusagen mittel- oder langfristig
+[01:17:37-9 @timpritlove] auch eine entsprechende Änderung des gesamtgesellschaftlichen Standards herbeirufen wird.
+[01:17:45-0 @jankalbitzer] Ich hoffe das sehr.
+[01:17:46-2 @timpritlove] Hoffen tue ich das auch, die Frage ist, wird das passieren?
+[01:17:48-5 @jankalbitzer] Ich erlebe sehr viele jugendliche Menschen, die einen ziemlich klugen Blick auf das Netz haben
+[01:17:53-9 @jankalbitzer] und bestimmte Messenger-Dienste nicht mehr nutzen, andere sind da total naiv, will ich mal sagen.
+[01:17:59-7 @jankalbitzer] Ich habe in Schulen mit Schülern gesprochen und gefragt, was für sie Privatsphäre ist und da haben sie gesagt,
+[01:18:03-7 @jankalbitzer] wenn meine Eltern nicht mitlesen, was ich auf Instagram mache.
+[01:18:06-9 @jankalbitzer] Und da habe ich gesagt, ja gut, aber die Leute auf Instagram die dürfen es auswerten?
+[01:18:09-1 @jankalbitzer] Das war denen völlig egal, da ging es darum, dass die Eltern das nicht mitlesen.
+[01:18:12-4 @jankalbitzer] Die haben dann so einen Zweitaccount oder so, der dann irgendwie geheim ist, wo dann die harten Sachen gepostet werden.
+[01:18:17-4 @jankalbitzer] Wo es dann auch zum Beispiel darum geht, denen zu erklären, wie man sich schützt.
+[01:18:19-8 @jankalbitzer] ProFamilia macht da Bildung, wo sie sagen, wenn ihr schon Nacktfotos postet, dann wenigstens ohne Kopf,
+[01:18:24-7 @jankalbitzer] dass man euch nicht identifizieren kann, wenn ihr das irgendwann mal jemandem geschickt habt irgendwie als Liebesbeweis,
+[01:18:30-8 @jankalbitzer] ich schicke ein Nacktfoto an jemand anderen, dass die das nicht, wenn ihr euch trennt, wütend irgendwie für die ganze Schule posten.
+[01:18:36-9 @jankalbitzer] Ohne Kopf könnt ihr euch dann noch besser schützen, wenn ihr ein Bild ohne Kopf gemacht habt.
+[01:18:41-6 @jankalbitzer] Genau, aber bei manchen ist es totaler, bei anderen nicht.
+[01:18:43-7 @jankalbitzer] Ich habe schon Hoffnung, dass sich das entwickelt.
+[01:18:46-4 @jankalbitzer] Ich glaube andererseits auch, dass die Tatsache, dass öffentlich wird, was überhaupt an Diskursen da ist, auch einen positiven Effekt hat.
+[01:18:58-7 @jankalbitzer] Also einerseits ist es ganz furchtbar, dass viele grantige motzige Menschen viele böse Dinge im Netz sagen,
+[01:19:07-7 @jankalbitzer] andererseits haben die das in Vereinsheimen in den 80ern auch schon so gesagt.
+[01:19:11-7 @jankalbitzer] Und ich finde das auch durchaus, wenn wir jetzt mal von den Auswirkungen auf das Individuum,
+[01:19:16-4 @jankalbitzer] also wenn da mehrere Leute aggressiv ein Individuum angehen, was massive psychische Folgen haben kann,
+[01:19:21-7 @jankalbitzer] das will ich überhaupt nicht in Abrede stellen, aber dass man sieht, was überhaupt vorhanden ist, finde ich auch einen wichtige Effekt des Internets.
+[01:19:29-5 @jankalbitzer] Dass diese Debatten auf einmal in der Öffentlichkeit stattfinden, die oft am Stammtisch stattgefunden haben.
+[01:19:38-0 @jankalbitzer] Und dass Leute sich damit in Geheimforen zurückziehen, finde ich nicht unbedingt besser.
+[01:19:42-5 @jankalbitzer] Ich finde wichtiger, so Leute im Diskurs zu behalten und um die und mit denen zu ringen darum, warum was möglich sein darf
+[01:19:50-6 @jankalbitzer] und die auch mit einzubeziehen und nicht …
+[01:19:52-8 @jankalbitzer] es gab diese, wie heißt denn dieser Spieleserver, auf dem sich da Leute austauschen?
+[01:19:59-0 @timpritlove] Discord?
+[01:20:00-6 @jankalbitzer] Discord, es gab den Disord-Channel wo es um psychische Krankheiten ging.
+[01:20:03-4 @jankalbitzer] Das war auch mal so ein Skandal, wo es ein bisschen Beratung gab für Jugendliche im Discord-Channel,
+[01:20:09-4 @jankalbitzer] ich glaube, der junge Mann, der das gemacht hat, hat sich auf Twitter entweder mein oder dein Therapeut genannt
+[01:20:14-7 @jankalbitzer] und der hat da so eine Pseudoberatung angeboten und das war so ein bisschen fraglich, ist das jetzt schon Hilfe, ist das keine Hilfe
+[01:20:20-8 @jankalbitzer] und das war eher abgeschottet, das ist nicht so in der Öffentlichkeit wahrgenommen worden.
+[01:20:26-1 @jankalbitzer] So was finde ich viel problematischer als die Dinge, die in der Öffentlichkeit stattfinden.
+[01:20:30-9 @timpritlove] Also Discord muss man dazu sagen ist nicht ein Server, das ist eine Software, jeder kann sich sozusagen selber so ein System aufsetzen.
+[01:20:36-7 @jankalbitzer] Genau, da gab es einen Channel, den die genutzt haben, um sich da auszutauschen.
+[01:20:43-6 @jankalbitzer] Und so was finde ich viel problematischer, wenn es abseits der Öffentlichkeit stattfindet, wo man es nicht mitkriegt.
+[01:20:48-9 @jankalbitzer] Da finde ich besser, dass so Diskurse in der Öffentlichkeit stattfinden und dann muss man eben auch gucken,
+[01:20:54-1 @jankalbitzer] wie behält man Menschen im Diskurs, ohne ihnen alle Rechte einzugestehen.
+[01:20:59-4 @jankalbitzer] Also sozusagen es gibt Tabus, man darf Dinge nicht sagen und trotzdem wollen wir dich hier behalten, um mit dir zu diskutieren.
+[01:21:06-7 @jankalbitzer] Wahnsinnig schwierig, weil das Problem immer ist, dass man Menschen, die laut schreien, dass man denen viel mehr Raum gibt in so einer Debatte
+[01:21:12-7 @jankalbitzer] als denen, die leise sind und sich mehr um die kümmert.
+[01:21:16-0 @jankalbitzer] Trotzdem ist es möglicherweise erforderlich, diese Leute in der Debatte zu halten und sich mit denen auseinanderzusetzen.
+[01:21:21-0 @jankalbitzer] Das habe ich viel versucht in Foren, gerade bei Springer-Medien und fand das ganz schön spannend,
+[01:21:26-5 @jankalbitzer] dass man so Leute nicht verliert durch so eine Auseinandersetzung und auch persönlich mit denen in die Diskussion kommen kann
+[01:21:32-6 @jankalbitzer] und sehr klar sagen kann, ich bin absolut gegen Hetze, ich bin absolut dagegen Tabus zu brechen,
+[01:21:40-3 @jankalbitzer] aber inhaltlich bin ich bereit, über ziemlich viele Dinge zu diskutieren und diese Grenze zu ziehen, das hat erstaunlich gut funktioniert.
+[01:21:47-2 @jankalbitzer] Aber eher dann im persönlichen Zweiergespräch.
+[01:21:49-9 @timpritlove] Hast du nicht so den Eindruck, dass du da als alter weißer Mann Privilegienvorteile in der Debatte hattest?
+[01:21:57-4 @jankalbitzer] Ja, das auf jeden Fall.
+[01:22:00-3 @jankalbitzer] Das ist mir auch zurückgespiegelt worden, wenn jemand anders, eine Frau mit einem türkischen Namen so was gemacht hätte,
+[01:22:08-2 @jankalbitzer] wäre das möglicherweise schwieriger gewesen.
+[01:22:11-8 @jankalbitzer] Haben mir einige Menschen so zurückgemeldet, andere haben gesagt, dass es nicht so ist, dass gerade dann auch eine Offenheit zur Diskussion da war,
+[01:22:18-1 @jankalbitzer] aber sicherlich habe ich in meiner Position viele negative Effekte so nicht wahrgenommen, die andere Menschen im Netz mitkriegen.
+[01:22:25-7 @jankalbitzer] Ich habe ja auf Twitter lange versucht mich zu streiten, um die Dynamik von Streits zu untersuchen.
+[01:22:31-1 @jankalbitzer] Mir ist das nie gelungen, mich so richtig zu streiten mit jemandem.
+[01:22:34-4 @jankalbitzer] Ich bin einfach nicht in Streits geraten.
+[01:22:37-2 @jankalbitzer] Ich bin einmal fast in einen Streit geraten mit Jörg Kachelmann, der hat mich dann aber sofort geblockt
+[01:22:41-0 @jankalbitzer] und ansonsten ist es mir einfach nicht gelungen.
+[01:22:43-7 @jankalbitzer] Meistens bin ich dann irgendwann in so ein gegenseitiges Verständnis und freundschaftliches Gespräch geraten,
+[01:22:48-3 @jankalbitzer] was dann irgendwie im Privatchat weiterging.
+[01:22:51-9 @jankalbitzer] Manchmal habe ich mich mit den Leuten dann nochmal getroffen und mich unterhalten.
+[01:22:54-5 @timpritlove] Du wolltest dich über das Wetter streiten oder?
+[01:22:57-9 @jankalbitzer] Nein, ich habe mich über wirklich harte Sachen gestritten.
+[01:23:01-4 @jankalbitzer] Also es hat nie funktioniert, für mich hat das nie funktioniert.
+[01:23:07-8 @jankalbitzer] Ein paar Male haben mir Leute dann nicht mehr geantwortet dann irgendwann, aber meistens ist es dann irgendwann eine Auseinandersetzung geworden,
+[01:23:13-8 @jankalbitzer] wo ich gesagt habe, ich kann nicht tolerieren, wenn jemand gegen Minderheit hetzt, weil ich das grundsätzlich ablehne
+[01:23:20-4 @jankalbitzer] und ich kann nicht akzeptieren, dass Grenzen durch Tabubrüche immer weiter verschoben werden, weil ich glaube,
+[01:23:24-8 @jankalbitzer] dass es Tabus braucht in der Gesellschaft, auch wenn vielleicht Linke und Alternative Tabus zuerst in großem Maß mit gebrochen haben in der Moderen Zeit.
+[01:23:36-9 @jankalbitzer] Ich finde Tabubrüche nicht per se gerechtfertigt und finde wichtig, dass es diese Grenzen gibt jenseits der juristischen Grenzen.
+[01:23:44-6 @jankalbitzer] Und innerhalb dieses Rahmens waren oft wirklich gute Auseinandersetzungen möglich.
+[01:23:49-6 @jankalbitzer] Deswegen, also es hängt immer so ein bisschen von der eigenen Konstitution ab, aber wenn man sich selber eine Nische geschaffen hat,
+[01:23:55-0 @jankalbitzer] in der man sich wohl fühlt, kann ich sehr dazu raten, auch immer mal wieder rauszugehen und so Auseinandersetzungen zu führen,
+[01:24:01-1 @jankalbitzer] weil dadurch auch die Angst nachlässt.
+[01:24:03-7 @jankalbitzer] Also zu sagen, ich bin am Wochenende und abends in meiner Nische, ich habe zum Beispiel auf meinem Tablet keinen Browser
+[01:24:12-8 @jankalbitzer] und ich habe auch nur eine Tageszeitung, die ich immer wieder neu lade, die nicht so hektische Nachrichten hat
+[01:24:16-3 @jankalbitzer] wie jetzt die Online-Portale das haben und zu Hause und am Wochenende lese ich nur diese Tageszeitungen.
+[01:24:24-2 @jankalbitzer] Und lese nicht diese schnellen Nachrichten, die dann quasi durch die online-Seiten, wo es mehr um Klicks auch geht, durchflattern
+[01:24:30-2 @jankalbitzer] und ziehe mich bewusst zurück in meine Nische, in der ich mich mit den Sachen nicht so intensiv auseinandersetze,
+[01:24:35-5 @jankalbitzer] um unter der Woche den Debatten wieder besser gewappnet zu sein und auch sagen zu können,
+[01:24:39-9 @jankalbitzer] jetzt setze ich mich mal mit den Hardfacts zum Thema Corona auseinander oder zum Thema Klimawandel,
+[01:24:44-7 @jankalbitzer] um genau gucken zu können was ich mache oder diskutiere mal mit jemandem, der ziemlich harte rechte Meinungen vertritt
+[01:24:51-6 @jankalbitzer] und sage, es gibt Grenzen, aber über bestimmte Positionen bin ich bereit zu diskutieren.
+[01:24:57-1 @jankalbitzer] Da würde ich übrigens auch einen Unterschied zu Sascha Lobo machen, der ja gesagt hat, mit Rechts reden und dann so sagt,
+[01:25:04-8 @jankalbitzer] bestimmte Sachen da rede ich dann nicht mehr mit jemandem.
+[01:25:07-7 @jankalbitzer] Ich finde auch wichtig, die Tabus zu benennen, trotzdem denke ich, wenn die Gruppe immer größer wird derer, mit den wir nicht reden,
+[01:25:15-3 @jankalbitzer] weil wir so bestimmte Tabugrenzen definieren, Antisemitismus zum Beispiel.
+[01:25:20-1 @jankalbitzer] Wenn jemand antisemitische Dinge sagt, dann rede ich per se nicht mehr mit dem, das finde ich ein hehres Ziel,
+[01:25:31-2 @jankalbitzer] Das finde ich eigentlich richtig, die Sache ist nur, dass der Bevölkerungsanteil, den wir dann abspalten möglicherweise so groß ist,
+[01:25:38-4 @jankalbitzer] dass wir eine Spaltung kriegen, die uns als Gesellschaft zerstört.
+[01:25:42-0 @jankalbitzer] Und dann sind wir nicht mehr handlungsfähig und das heißt, obwohl man das für richtig hält zu sagen,
+[01:25:48-7 @jankalbitzer] bestimmte Tabugrenzen dürfen nicht gebrochen werden und die einzig redliche Reaktion darauf wäre,
+[01:25:54-0 @jankalbitzer] so jemanden komplett auszugrenzen aus der Auseinandersetzung.
+[01:25:57-0 @jankalbitzer] Da muss man sagen, dass es pragmatisch notwendig ist, die Tabugrenzen so zu ziehen, dass man nicht zu große Gruppen von der Gesellschaft abspaltet,
+[01:26:06-8 @jankalbitzer] weil es sonst einfach nicht mehr funktioniert.
+[01:26:08-8 @jankalbitzer] Das heißt, man muss mit Leuten in die Diskussion und Auseinandersetzung gehen, die man möglicherweise für politisch
+[01:26:17-4 @jankalbitzer] oder wo man denkt, dass das, was sie tun, politisch völlig verwerflich ist und was man total ablehnt, weil es anders nicht geht.
+[01:26:24-0 @jankalbitzer] Und um das zu können muss man eben sagen, was ist meine persönliche Basis, von der heraus ich handeln kann.
+[01:26:29-1 @timpritlove] Ich meine, an der Stelle muss man natürlich auch ein Gefühl entwickeln, weil es natürlich ein bisschen was anderes ist,
+[01:26:34-5 @timpritlove] ob ich mit jemanden in den Diskurs gehe, der mir Antisemitismus reindrücken will und auch ganz klar den Eindruck macht,
+[01:26:44-8 @timpritlove] dass ist eine bewusste Methode und da steckt eine viel tiefergehende Überzeugung dahinter und hier wird sozusagen so etwas quasi auch so als diskursische Waffe verwendet
+[01:26:58-4 @timpritlove] versus Leute, die dem halt nur auf den Leim gegangen sind, gar nicht bewusst eigentlich wissen, mit welchen Argumenten sie jetzt gerade um sich schleudern,
+[01:27:08-5 @timpritlove] weil es eben aus ihrer Nische, die entsprechend verseucht gewesen sein kann, wo man groß geworden ist,
+[01:27:13-8 @timpritlove] Familie, was auch immer, Beruf, was auch immer das soziale Umfeld ist, in dem man sich halt so rumtreibt,
+[01:27:21-0 @timpritlove] dass man dadurch einfach so sehr geprägt ist, dass man das gar nicht reflektiert, dass man das tut.
+[01:27:25-1 @timpritlove] So dieses, ich bin ja kein Nazi, aber …, das ist so dieses, ja ich verorte mich eigentlich gar nicht da, quatsche aber trotzdem den Scheiß nach,
+[01:27:37-1 @timpritlove] weil ich halt kurz gesagt gar nichts anderes gelernt habe oder so eine Dominanz hat.
+[01:27:42-5 @timpritlove] Das ist ja dann schon eher so der Ansatz, wo man sagen kann, hör mal, ich mache dir jetzt mal ein paar Sachen klar.
+[01:27:48-7 @timpritlove] Wenn man denn überhaupt diese Fähigkeit besitzt, sowohl das zu ertragen, herauszufiltern, womit habe ich es denn jetzt zu tun.
+[01:27:57-9 @timpritlove] Also das ist ja extrem schwierig, sich hier das passende Besteck zurechtzulegen oder überhaupt erst mal die Fähigkeit zu haben rauszufinden so,
+[01:28:07-1 @timpritlove] womit habe ich es jetzt zu tun, lohnt sich das Engagement an dieser Stelle?
+[01:28:10-5 @timpritlove] Und wenn es sich lohnt, wie gehe ich denn jetzt hier vor?
+[01:28:13-9 @timpritlove] Das ist ja ein extremer Aufwand und ich glaube, das ist auch etwas, vor dem viele Leute verzweifeln und dann sagen so,
+[01:28:20-1 @timpritlove] ist mir zu anstrengend, keine Ahnung, mit was für Leuten ich mich jetzt hier anlege, ich gehe dann mal weg,
+[01:28:25-2 @timpritlove] weil das macht mir einfach den Tag schlecht.
+[01:28:28-0 @jankalbitzer] Ja, und das ist legitim.
+[01:28:28-9 @jankalbitzer] Also zu sagen, wenn ich dem nicht mehr gewachsen bin, ziehe ich mich in meine Nische zurück, das ist legitim,
+[01:28:33-7 @jankalbitzer] das sollte man tun, man sollte es nur immer wieder ausprobieren und üben.
+[01:28:36-8 @jankalbitzer] Und da muss man gucken, wo ist ein Umfeld, wo ich es üben kann, ohne mich einerseits zu sehr zu gefährden.
+[01:28:40-3 @jankalbitzer] Also wenn ich als Einzelperson irgendwo hingehe zu einer großen Gruppe und sage, so jetzt möchte ich mal mit euch über eure falschen Auffassungen diskutieren,
+[01:28:47-8 @jankalbitzer] dann setzt man sich möglicherweise einer unnötigen Gefahr aus mit einem Ansatz, der möglicherweise nicht sehr zielführend ist.
+[01:28:54-4 @timpritlove] Als wäre man so wie die Zeugen Jehovas auf einmal bei der AfD auftaucht und sagt, guten Tag, wir möchten mit Ihnen über Rechtsextremismus sprechen.
+[01:29:00-6 @jankalbitzer] Also auch da bin ich wieder kritisch, ich bin ja zu AfD-Veranstaltungen hingegangen, um mir das anzugucken
+[01:29:06-3 @jankalbitzer] und mein Eindruck war, dass die Leute total offen mit mir alle geredet haben.
+[01:29:10-3 @jankalbitzer] Die hatten zwar eine ganz andere Meinung und haben das für totalen Bullshit gehalten, was ich gesagt habe,
+[01:29:15-3 @jankalbitzer] und zum Teil fand ich auch ganz furchtbar was die gesagt haben, aber es gab niemanden, der nicht mit mir reden wollte,
+[01:29:20-7 @jankalbitzer] weil bei vielen auch der Wunsch da war, mich zu überzeugen.
+[01:29:24-0 @jankalbitzer] Und deswegen sind die mit mir in die Auseinandersetzung gegangen.
+[01:29:25-4 @jankalbitzer] Und wenn man dann merkt, das bringt gar nichts, dann kann man auch sagen, das ist mir zu viel, aber das muss man austesten.
+[01:29:30-2 @jankalbitzer] Und ich hatte da so ein Schlüsselerlebnis.
+[01:29:32-0 @jankalbitzer] Es gibt einen Journalisten von der Süddeutschen Zeitung, ich habe jetzt den Namen vergessen,
+[01:29:36-6 @jankalbitzer] der aber in seinem Profil öffentlich schrieb, dass er Journalist für die Süddeutsche Zeitung ist, das war also, da stand quasi was öffentlich von der SZ drin,
+[01:29:45-9 @jankalbitzer] da ging es darum, dass Christian Lindner von der FDP damals so ein bisschen versucht hat, mit Äußerungen im AfD-Milieu zu fischen.
+[01:29:57-7 @jankalbitzer] Und dann ging es darum, irgendwie wie soll man damit umgehen?
+[01:30:03-5 @jankalbitzer] Er diskutiert mit Renate Künast auf Twitter und schrieb dann so, lieber die FDP im Bundestag, glaube ich,
+[01:30:08-5 @jankalbitzer] als die Spackos von der AfD.
+[01:30:10-9 @jankalbitzer] Und da habe ich drauf reagiert und dann geschrieben, unabhängig von der politischen Meinung finde ich das völlig inakzeptabel,
+[01:30:15-6 @jankalbitzer] dass jemand, der als Journalist objektive Berichte liefern soll und als Journalist auf Twitter auftritt, so einen Kommentar da raushaut.
+[01:30:24-4 @jankalbitzer] Zum einen den Begriff Spackos, aber zum anderen über eine Partei so zu schreiben als persönliche Meinung, finde ich komplett falsch.
+[01:30:30-5 @jankalbitzer] Und das war der Punkt, wo mir die AfD folgte und ich mit denen, weil ich habe gar nicht gesagt, dass ich AfD-Positionen teile,
+[01:30:36-0 @jankalbitzer] sondern ich habe nur gesagt, ich finde so eine Art des Umgangs nicht in Ordnung, wo ich mit denen im Privatchat sehr offen in die Diskussion gekommen bin.
+[01:30:44-3 @jankalbitzer] Also ich teile nicht deren Ansichten, ich glaube, ich habe niemanden konvertiert, aber ich habe verstanden,
+[01:30:49-9 @jankalbitzer] wie man mit einer bestimmten Art von Argumenten besser umgehen kann.
+[01:30:54-9 @jankalbitzer] Und das habe ich auch, als ich für die Welt was geschrieben habe und danach in den Kommentarspalten mitdiskutiert habe,
+[01:31:00-8 @jankalbitzer] auch da habe ich gelernt, es gibt Positionen, die ich wirklich wirklich schlimm finde, und dann zu trennen,
+[01:31:08-9 @jankalbitzer] es gibt Aspekte bei den Personen, das eine ist eine tiefe Verbitterung und Wut und das andere ist eine Selbstvergewisserung,
+[01:31:18-1 @jankalbitzer] ich schreibe etwas aggressives und kriege dann ganz viel positive Bestätigung von anderen, also da ist so ein Strom drin,
+[01:31:23-0 @jankalbitzer] wo man da verstärkt wird.
+[01:31:24-9 @jankalbitzer] Schlecky Silberstein hat das anhand seiner Mutter beschrieben, die in so eine …
+[01:31:28-4 @jankalbitzer] Also er beschreibt, dass seine Mutter in diesem Buch über das Internet, wie hieß das Buch von Schlecky Silberstein, „Das Internet muss weg“,
+[01:31:34-5 @jankalbitzer] da beschreibt er in so einem Kapitel über seine Mutter, wo er schreibt, dass sie in so eine rechte Blase gerät,
+[01:31:38-0 @jankalbitzer] weil sie dann anfängt, so rechte Dinge zu posten und ganz viele positive Nachrichten und Feedback dafür kriegt.
+[01:31:42-9 @jankalbitzer] Das Phänomen, wie so was entsteht, wollte ich übrigens mal untersuchen mit Luka Hammer, der auf Twitter relativ viele coole Analysen macht.
+[01:31:49-1 @jankalbitzer] Haben wir immer noch nicht umgesetzt.
+[01:31:50-4 @jankalbitzer] Auf jeden Fall diesen Effekt, dass es eine Verbitterung gibt, dass es eine positive Verstärkung gibt und dann,
+[01:31:57-9 @jankalbitzer] und da komme ich auch wieder zu den Dingen mit den moralischen Prämissen der Forschung zurück, die Vorstellung,
+[01:32:03-8 @jankalbitzer] dass viele journalistische Artikel und auch wissenschaftliche Stellungnahmen auf der Grundlage einer moralischen Haltung
+[01:32:12-1 @jankalbitzer] und auch einer moralischen Rechthaberei entstehen, gegen die man sich zur Wehr setzen will.
+[01:32:19-2 @jankalbitzer] Und wie man mit diesen verschiedenen Aspekten umgeht, fand ich ganz interessant.
+[01:32:22-6 @jankalbitzer] Mich interessiert vor allem die Verbitterung.
+[01:32:24-9 @jankalbitzer] Wie wird jemand so verbittert, dass er alle Hemmungen fahren lässt und hetzt und Tabus bricht?
+[01:32:30-0 @jankalbitzer] Da möchte ich den Menschen gerne begegnen.
+[01:32:32-0 @jankalbitzer] Muss mich aber auseinandersetzen damit, dass die die ganze Zeit total positives Feedback für ihre harten Kommentare gegen mich kriegen,
+[01:32:39-3 @jankalbitzer] was sie total verstärkt darin, harte Kommentare zu schreiben.
+[01:32:43-2 @jankalbitzer] Und gleichzeitig habe ich den Aspekt drin, dass, wenn ich den Eindruck erwecke, dass ich meine wissenschaftliche Position nutze,
+[01:32:50-8 @jankalbitzer] um meine persönliche Meinung zu verbreiten, mich total angreifbar mache, diese Aspekte waren da so alle mit drin.
+[01:32:57-0 @jankalbitzer] Und da hatte ich so ein Schlüsselerlebnis.
+[01:32:58-9 @jankalbitzer] Ich habe einen Artikel für die Welt geschrieben, der hieß „Rettet Frauke Petry“, wo ich geschrieben habe, dass wir Brücken bauen müssen.
+[01:33:05-8 @jankalbitzer] Frauke Petry ist ja damals aus der AfD ausgetreten, der AfD-Fraktion und da habe ich gesagt, Leute passt auf,
+[01:33:10-9 @jankalbitzer] wenn wir jetzt ein positives Beispiel setzen und sagen, wir nehmen dich zurück in die Mehrheitsgesellschaft,
+[01:33:14-1 @jankalbitzer] wenn du sagst, das mit der Hetze war völliger Mist, das geht gar nicht und das mit den Tabubrüchen ist nicht in Ordnung,
+[01:33:20-7 @jankalbitzer] dann nehmen wir dich zurück auf in die Mehrheitsgesellschaft.
+[01:33:23-7 @jankalbitzer] Wir müssen diesen Schritt machen, um die Spannung zu überwinden und mehr Menschen zurück zu gewinnen,
+[01:33:27-4 @jankalbitzer] vielleicht folgen dann ja noch mehr nach.
+[01:33:29-7 @jankalbitzer] Das habe ich geschrieben für die Welt und total aggressive Kommentare gekriegt, wo dann auch so drin stand von wegen,
+[01:33:36-7 @jankalbitzer] nicht die AfD sind diejenigen, die sich irren, sondern die, die sich als Mehrheitsgesellschaft bezeichnen
+[01:33:41-0 @jankalbitzer] und hier argumentiert jemand aus der rechthaberischen Position heraus.
+[01:33:45-4 @jankalbitzer] Und das ging auf einen Blog von einem Politiker namens Holger Arpel, heißt der glaube ich, der ist irgendwo in,
+[01:33:50-9 @jankalbitzer] lass mich nicht lügen, Mecklenburg-Vorpommern, da stand der vorm AfD-Ausschluss und der schrieb was sehr negatives über meinen Kommentar.
+[01:34:01-5 @jankalbitzer] Von wegen dass es wie so eine Sekte wäre für die ich schreibe oder so was.
+[01:34:08-0 @jankalbitzer] Kehret um hieß dieser Kommentar von ihm, glaube ich, auf seinem Blog.
+[01:34:10-9 @jankalbitzer] Und unter diesem Kommentar, ich lese ja wirklich alles, unter diesem Kommentar war eine Antwort von einer Person,
+[01:34:16-2 @jankalbitzer] einem AfD-Anhänger, der schrieb, wenn die AfD erst an der Macht ist, dann müssen wir aufpassen, dass wir nicht die gleichen Fehler machen wie die Leute jetzt,
+[01:34:25-9 @jankalbitzer] nämlich dass wie die Minderheitenmeinungen unterdrücken.
+[01:34:28-0 @jankalbitzer] Das heißt, der hat geglaubt, wenn ich die AfD unterstütze, werden Minderheitenmeinungen wieder stärker möglich
+[01:34:34-0 @jankalbitzer] und wenn wir dann an der Macht sind, müssen wir aufpassen, dass wir nicht die gleichen Fehler begehen, wie die, die jetzt da gerade an der Macht sind,
+[01:34:39-8 @jankalbitzer] und Minderheitenmeinungen unterdrücken.
+[01:34:41-4 @jankalbitzer] Das ist ja eine Haltung, die ich total teile, von der Person, die den Eindruck hat, die AfD würde das wiederherstellen.
+[01:34:49-0 @jankalbitzer] Wie trete ich zu so jemandem in Kontakt, der das da so sagt?
+[01:34:51-7 @jankalbitzer] Der mich als einen totalen Spinner empfindet, der seine Position als Wissenschaftler und seine Möglichkeit zu publizieren ausnutzt,
+[01:35:00-1 @jankalbitzer] um seine persönliche Meinung zu verbreiten, dessen Grundhaltung ich aber total teile, wenn es darum geht,
+[01:35:05-8 @jankalbitzer] dass alle Minderheiten geschützt werden müssen in ihrer Meinungsfreiheit und ihrer Möglichkeit auf Gesundheit und Entwicklung.
+[01:35:13-5 @jankalbitzer] Das sind total interessante Fragen, die sich aufgetan haben.
+[01:35:15-6 @jankalbitzer] Das kann man aber nur, wenn man nicht davon überwältigt ist oder sich zu großen Gefahren aussetzt oder das Gefühl hat, das geht gerade gar nicht.
+[01:35:23-1 @jankalbitzer] Das heißt, man muss für sich den Kontext suchen, in dem man üben kann und in dem das für einen möglich ist.
+[01:35:27-8 @jankalbitzer] Man muss also Herausforderungen langsam steigern und auch ein bisschen rumprobieren, bevor man so weiß, was ist so mein Umfeld.
+[01:35:32-5 @jankalbitzer] Und dazu möchte ich eigentlich animieren.
+[01:35:34-0 @jankalbitzer] Das ist alles, was ich immer wollte, im Bezug auf das Internet und jetzt auch auf gesellschaftspolitische Veränderungen,
+[01:35:39-9 @jankalbitzer] wir müssen spielerischer sein, wir müssen weniger Angst haben vor Fehlern.
+[01:35:42-0 @jankalbitzer] Wir müssen sagen, mein Gott, es wird vieles schieflaufen, so ist menschliche Entwicklung.
+[01:35:48-1 @jankalbitzer] Es findet viel Entwicklung im Spiel statt, wir brauchen neue Kulturen, wie wir mit Internet umgehen, wie wir online kommunizieren.
+[01:35:55-1 @jankalbitzer] Wir müssen ausprobieren, um das zu finden, wir können nicht jeden Fehler gleich verteufeln.
+[01:35:58-3 @jankalbitzer] Wir dürfen uns nicht verdammen, wenn wir Fehler machen, nicht alles ist gleich ein Scheitern, sondern der Mut zu spielen
+[01:36:03-0 @jankalbitzer] und auszuprobieren ist das, was es braucht, und die Stärke zu haben, sich zu trauen auszuprobieren, in der Familie auch zu sagen,
+[01:36:08-5 @jankalbitzer] okay, dann akzeptieren wir doch als Familie mal, dass alle die ganze Zeit Smartphones nutzen und gucken, wie es uns nach einer Woche geht.
+[01:36:15-6 @jankalbitzer] Am Esstisch, auf dem Sofa, alle benutzen nur noch ihr Smartphone, dann setzen wir uns nach einer Woche gemeinsam hin und sagen,
+[01:36:20-1 @jankalbitzer] wie geht es uns jetzt?
+[01:36:23-1 @jankalbitzer] Wir haben vielleicht alle viel weniger miteinander gestritten, weil wir die ganze Zeit hinter den Geräten waren.
+[01:36:27-9 @jankalbitzer] Andererseits vermissen wir uns vielleicht auch ein bisschen und sind auch so ein bisschen belämmert, weil wir die ganze Zeit auf diese Bildschirm gestarrt haben.
+[01:36:32-9 @jankalbitzer] Ich finde ja, das größte Problem des Internets ist der Weg, auf dem es zu uns gebracht wird, dieser dumme zweidimensionale Bildschirm,
+[01:36:37-9 @jankalbitzer] das finde ich total anstrengend.
+[01:36:40-2 @timpritlove] Außer Podcast, da geht es ja über Kopfhörer.
+[01:36:42-1 @jankalbitzer] Das ist auch immer der Punkt, wenn ich sage, dass ich internetsüchtig bin.
+[01:36:44-8 @jankalbitzer] Ich nutze das Internet jeden Tag mindestens zwölf Stunden hoch intensiv, weil ich Internetradio höre.
+[01:36:51-9 @jankalbitzer] Das ist Internetnutzung.
+[01:36:52-1 @jankalbitzer] Und genau diese Sachen, die Audionutzung des Internets wird immer unterschlagen, wenn es um Internetnutzung geht.
+[01:36:58-2 @timpritlove] Ohja generell wird da einiges unterschlagen.
+[01:36:59-4 @timpritlove] Ich musste auch schon früher immer lächeln bei den allerersten Internetbefragungen, die es ja schon vor 10-15 Jahre gab.
+[01:37:05-9 @timpritlove] Da war dann die erste Frage immer so, wieviele Stunden am Tag sind Sie denn im Internet?
+[01:37:11-2 @timpritlove] Wo ich halt immer nur drauf antworten konnte, ja immer.
+[01:37:15-1 @timpritlove] Ich bin immer im Internet.
+[01:37:18-6 @timpritlove] Das Internet will nicht unbedingt immer gerade was von mir, aber ich bin eigentlich immer bereit gewesen mit ihm zu interagieren,
+[01:37:24-6 @timpritlove] von daher war ich halt eigentlich immer da.
+[01:37:28-4 @timpritlove] So wie ich auch immer in meiner Wohnung vielleicht mal bin oder zumindest extrem oft.
+[01:37:33-6 @jankalbitzer] Da haben wir auch Befragungen übrigens zu gemacht.
+[01:37:35-4 @jankalbitzer] Wir haben gesagt, was unterscheidet eigentlich gesunde hochintensiv Nutzer von hochintensiv Nutzern, die sagen,
+[01:37:42-0 @jankalbitzer] sie sind davon krank geworden.
+[01:37:43-9 @jankalbitzer] Also wir haben versucht, Leute aus dem CCC-Umfeld zum Beispiel zu gewinnen für Befragungen, um zu gucken,
+[01:37:49-2 @jankalbitzer] Leute, die immer im Internet sind und denen es echt gut geht, was hält die eigentlich gesund, was sind denn die gesundhaltenden Faktoren,
+[01:37:55-5 @jankalbitzer] wenn man das Internet viel nutzt.
+[01:37:59-3 @jankalbitzer] Und andersrum, was sind bei hochintensiv Nutzern dann möglicherweise krankmachende Faktoren.
+[01:38:03-0 @jankalbitzer] Und ich habe durch diese ganze Arbeit und ich interagiere ja auch manchmal so als Außenstehender mit dem CCC-Umfeld,
+[01:38:09-0 @jankalbitzer] ein riesigen Respekt für diesen Mikrokosmos gewonnen, weil da viele Menschen sind, die in Krisen sind,
+[01:38:16-0 @jankalbitzer] die eine riesige Variation und Vielfalt an Lebensformen haben, die in der Mehrheitsgesellschaft,
+[01:38:23-6 @jankalbitzer] in der ich als Psychiater stattfinde, wahrscheinlich eine Diagnose kriegen würden.
+[01:38:27-3 @jankalbitzer] Im CCC-Umfeld gibt es diese Diagnosen nicht.
+[01:38:30-5 @jankalbitzer] Da ist diese Vielfalt erwünscht und wird auch geschützt und Menschen werden unterstützt.
+[01:38:34-7 @jankalbitzer] Natürlich kommt auch unter der vermeintlichen Vielfalt Aggression zustande und Rechtfertigungen, dass Leute sagen,
+[01:38:41-6 @jankalbitzer] Mensch ich will hier nicht als alter weißer Mann angegriffen werden, ich kann doch sagen was ich will, ich lasse mir hier nichts vorschreiben,
+[01:38:47-4 @jankalbitzer] auch das gibt es, genauso wie jenseits des CCC, aber grundsätzlich finde ich diese Offenheit unglaublich beeindruckend,
+[01:38:55-5 @jankalbitzer] die es in diesem Umfeld gibt.
+[01:38:56-9 @jankalbitzer] Zu sagen, wir unterstützen Menschen ohne dieses Clustersystem, psychiatrische Diagnosen zu haben,
+[01:39:01-6 @jankalbitzer] ohne darauf zu bestehen, dass der eine krank und der andere gesund ist.
+[01:39:04-7 @timpritlove] Wodurch hast du das wahrgenommen, wie hast du da jetzt gemessen?
+[01:39:08-6 @jankalbitzer] Ich habe zum einen einfach mich viel mit Leuten da unterhalten und zum anderen habe ich eine Weile eine beratende Funktion eingenommen
+[01:39:14-8 @jankalbitzer] für die Schiedsstelle des Chaos Computer Club.
+[01:39:18-7 @jankalbitzer] Es gibt seit jetzt, ich glaube, zwei Jahren diese Schiedsstelle, die über Fälle von Fehlverhalten entscheidet,
+[01:39:24-6 @jankalbitzer] ob es Fehlverhalten gibt, was so gravierend ist, dass jemand möglicherweise ausgeschlossen werden muss.
+[01:39:30-8 @timpritlove] Von Veranstaltungen.
+[01:39:32-3 @jankalbitzer] Von Veranstaltungen oder ob er eine Kontaktsperre kriegt auf einer Veranstaltung.
+[01:39:35-6 @jankalbitzer] Und da bin ich nicht der Entscheidet, sondern ich bin halt beratend dazu gezogen worden.
+[01:39:39-8 @jankalbitzer] Und habe darüber viel mitgekriegt über die Vielfalt, die akzeptiert wird, die eben nicht als Fehlverhalten gewertet wird in diesem Umfeld.
+[01:39:52-4 @jankalbitzer] Und das hat mich wirklich nachhaltig beeindruckt.
+[01:39:56-9 @jankalbitzer] Und gleichzeitig auch die Befragung von Menschen, die wahnsinnig viel Zeit da verbringen.
+[01:39:59-6 @jankalbitzer] Ich war auch auf CCC-Treffen und habe immer so ein bisschen gedacht, wie so ein Hippie-Camp, also es gibt viel Liebe und wenig Körperhygiene.
+[01:40:05-8 @jankalbitzer] Das hat sich ein bisschen geändert mittlerweile, aber es war schon manchmal so, dass da diese Schilder hingen, bitte einmal am Tag waschen
+[01:40:11-7 @jankalbitzer] und zweimal am Tag essen und die Atmosphäre war einfach großartig und es ging gar nicht darum, irgendwelche gesellschaftlichen Strukturen einzuhalten
+[01:40:22-4 @jankalbitzer] oder Anforderungen zu genügen, das finde ich großartig, das finde ich sehr förderungswürdig und unterstützenswert.
+[01:40:29-1 @jankalbitzer] Ich glaube, dass wir da viel lernen können.
+[01:40:30-8 @jankalbitzer] Und gerade vor dem Hintergrund der Frage, wie kann man gesund mit viel Internet umgehen, ist das CCC-Umfeld ein sehr positives Beispiel,
+[01:40:37-5 @jankalbitzer] wie man Plattformen entwickeln kann, auf denen man ohne Angst vor Überwachung sich miteinander auseinandersetzt
+[01:40:43-0 @jankalbitzer] und wie man übt, mit Trollverhalten umzugehen, wie man das einordnet.
+[01:40:46-7 @jankalbitzer] Da gibt es wahnsinnig viel Wissen dazu, was wir so gar nicht abfragen, aber da gibt es wahnsinnig viel Kompetenz.
+[01:40:55-1 @timpritlove] Ja, not all is lost, schließe ich jetzt mal aus deinen Ausführungen.
+[01:41:02-4 @timpritlove] Also auch wenn die aktuelle Situation und die schnelle Entwicklung durch Netze, digitale Kommunikation
+[01:41:11-8 @timpritlove] und die nicht enden wollende Flut von neuen Krisenpotenzialen, teilweise unüberwindbar vorkommt,
+[01:41:20-4 @timpritlove] ist es durchaus möglich, sich dem auch optimistisch entgegenzustellen.
+[01:41:25-4 @jankalbitzer] Das beste Antidot zu Angst ist Neugierde, deswegen finde ich das Format hier schön, den Forschergeist.
+[01:41:31-9 @jankalbitzer] Ich glaube, die Haltung zu sagen, ich will jetzt nicht böse klingen, ich weiß noch nicht so viel, aber ich frage mal,
+[01:41:39-8 @jankalbitzer] ich glaube, das ist eine super Haltung der Welt gegenüber.
+[01:41:44-1 @jankalbitzer] Weil die Neugierde, wie ich ja auch gesagt habe zu diesen ganzen Krisen, mich fasziniert das auch irgendwie ein Stück weit.
+[01:41:49-5 @jankalbitzer] Und ein Maß zu finden zwischen der Neugierde, dem neugierigen Herangehen an die Welt und gleichzeitig Maß auch Angst und Vorsicht,
+[01:41:59-2 @jankalbitzer] um dann auch zu reagieren, ist, glaube ich, der richtige Weg.
+[01:42:04-2 @jankalbitzer] Und wenn wir diese Neugierde mehr aktivieren können und sagen können, ich sehe die Prozesse,
+[01:42:08-7 @jankalbitzer] die sind besorgniserregend, wir müssen was ändern, aber ich beobachte auch fasziniert Dynamiken in das Neue hinein,
+[01:42:15-5 @jankalbitzer] dann können wir besser mit dem Wandel umgehen.
+[01:42:19-7 @timpritlove] Super, an der Stelle, denke ich, können wir dann das Buch erst mal zuschlagen.
+[01:42:25-2 @timpritlove] Viel Dank Jan.
+[01:42:25-8 @jankalbitzer] Danke dir.
+[01:42:25-9 @timpritlove] Für die Ausführungen und vielen Dank natürlich auch fürs Zuhören hier bei Forschergeist.
+[01:42:32-7 @timpritlove] Es geht bald wieder weiter.
+[01:42:33-6 @timpritlove] Bis dahin sage ich, tschüss und bis bald.
+[01:42:37-2 @outro]

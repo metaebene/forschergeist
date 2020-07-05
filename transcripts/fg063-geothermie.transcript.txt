@@ -1,0 +1,1044 @@
+﻿[00:00:00-0 Intro]
+[00:00:42-4 @timpritlove] Hallo und herzlich Willkommen zu Forschergeist, dem Podcast des Stifterverbands für die deutsche Wissenschaft.
+[00:00:48-0 @timpritlove] Mein Name ist Tim Pritlove und ich begrüße alle hier zur 63. Ausgabe unserer Gesprächsreihe über Wissenschaft, wissenschaftliche Forschung
+[00:00:56-6 @timpritlove] und was wir mit dieser alles so tolles anfangen können.
+[00:01:01-1 @timpritlove] Und heute geht es auch sehr in die Tiefe im wahrsten Sinne des Wortes.
+[00:01:07-8 @timpritlove] Wir wollen mal eintauchen in die Erdkruste und schauen, was man da alles so schönes heraus gewinnen.
+[00:01:15-1 @timpritlove] Vor allem nämlich Wärme.
+[00:01:16-8 @timpritlove] Sprich, wir reden über Geothermie und dafür begrüße ich meinen Gesprächspartner heute, nämlich Ingo Sass, schönen guten Tag.
+[00:01:24-1 @ingosass] Guten Tag Herr Pritlove.
+[00:01:26-2 @timpritlove] Herr Sass, Sie sind ja Geologe.
+[00:01:28-3 @ingosass] Ja, Diplomgeologe.
+[00:01:29-4 @timpritlove] Diplomgeologe, das ist toll.
+[00:01:33-8 @timpritlove] Aber auch nicht nur.
+[00:01:35-5 @ingosass] Auch ein bisschen Ingenieur.
+[00:01:37-5 @timpritlove] Ein bisschen Ingenieur, war da nicht noch was mit Paläontologie auch noch?
+[00:01:41-3 @ingosass] Ja, Paläontologie gehört auch zu meinem Berufsabschluss, den es heute gar nicht mehr gibt,
+[00:01:46-1 @ingosass] den Diplomgeologen und Paläontologen oder Paläontologin gibt es nicht mehr.
+[00:01:50-6 @timpritlove] Also in der Diplomvariante?
+[00:01:52-5 @ingosass] Auch nicht in der Mastervariante.
+[00:01:54-1 @timpritlove] Oh wirklich? Warum das denn nicht?
+[00:01:55-6 @ingosass] Weil man hat mittlerweile eine andere Struktur in den Geowissenschaften.
+[00:01:59-4 @ingosass] Man kann also angewandte Geowissenschaften studieren, das machen auch unsere Studenten in Darmstadt oder Studierenden in Darmstadt.
+[00:02:06-2 @ingosass] Und man kann Geowissenschaften eher grundständig studieren und eher in diesen Bereichen ist da mit die Paläontologie stärker vertreten.
+[00:02:16-5 @timpritlove] Okay.
+[00:02:18-7 @ingosass] Außerdem hat die Bedeutung der Paläontologie sich etwas reduziert in den letzten Jahren
+[00:02:22-7 @ingosass] und ich würde sagen, in den Geowissenschaften sind die meisten Anwendungen in der Mikropaläontologie.
+[00:02:29-0 @ingosass] Das können wir in Darmstadt aber nicht.
+[00:02:33-3 @timpritlove] Das heißt, das ist eher jetzt so ein bisschen als Hobby übrig geblieben, kann man das sagen?
+[00:02:36-3 @timpritlove] Ab und zu nochmal einen Dinosaurier ausgraben oder so?
+[00:02:38-9 @ingosass] Ach, mir hat das nie gefallen, auch als Student nicht.
+[00:02:41-6 @ingosass] Und mein Werdegang ist eben so, ich habe in Hamburg studiert und habe dann festgestellt,
+[00:02:47-5 @ingosass] im Hauptstudium musst du da einen Paläontologieschein machen, der bestand aus 300 Zeichnungen von wirbellosen Tieren.
+[00:02:54-1 @ingosass] Ich bin jetzt Linkshänder und nicht überbegabt, was das betrifft und ich habe mich dann entschlossen,
+[00:02:59-2 @ingosass] weil ich sowieso angewandte Geologie studieren wollte und Hydrogeologie, dass ich nach Karlsruhe gehe.
+[00:03:05-1 @ingosass] Da war die Paläontologie im Grundstudium abgehakt.
+[00:03:08-0 @ingosass] Und so bin ich einer der wenigen Geologen/Paläontologen meines Jahrgangs, der fast frei von Paläontologie zu seinem Berufsabschluss gekommen ist.
+[00:03:17-8 @timpritlove] Also ich verorte da schon eine gewisse Begeisterung für das andere Thema.
+[00:03:22-2 @timpritlove] Wie kommt man denn überhaupt drauf, Geologie sich so zu erarbeiten und dann studieren zu wollen?
+[00:03:28-4 @ingosass] Unsere typischen Studierenden wissen das nicht, was sie wollen, die Mehrheit, wenn sie beginnen.
+[00:03:34-3 @ingosass] Für mich selbst war es anders, ich habe eine Journalistenausbildung hinter mir
+[00:03:41-4 @ingosass] und wollte damals, das war die Zeit, als Geo und National Geographic und so weiter boomten,
+[00:03:46-8 @ingosass] ich wollte das damals machen und ich habe mir dann überlegt, ich will Wissenschaftsredakteur werden
+[00:03:51-6 @ingosass] und dann habe ich mir zum Studieren eine Naturwissenschaft ausgesucht, die ein breites Portfolio hat.
+[00:03:57-8 @ingosass] Also von der Biologie eben bis zur Physik und wo man überall hineinschnuppern kann und das habe ich dann begonnen.
+[00:04:05-3 @ingosass] Und nach Hamburg bin ich gegangen, weil das war die erste Uni, die mir zusagte.
+[00:04:08-6 @ingosass] Damals war die Zeit, da gab es überall einen hohen Numerus Clausus und man wusste nicht,
+[00:04:13-3 @ingosass] wo man dann wirklich landen würde.
+[00:04:15-5 @timpritlove] Also die Ihnen zusagte im Sinne von, wo Sie eine Zusage bekommen haben?
+[00:04:19-1 @timpritlove] Und nicht, weil die Ihnen zusagte, weil sie Ihnen gefiel?
+[00:04:20-7 @ingosass] Die waren die ersten, die sagten, ja komm zum Studieren, dann dachte ich, okay, bevor was anbrennt, gehst du lieber dahin.
+[00:04:24-9 @timpritlove] Ja okay. Na gut, ist ja nicht die schlechteste Wahl, nach Hamburg zu gehen.
+[00:04:29-9 @timpritlove] Und das wurde dann aber nichts mit der journalistischen Tätigkeit?
+[00:04:35-1 @ingosass] Ich habe ein Doppelstudium begonnen und habe dann nach zwei Wochen gemerkt, das geht schief.
+[00:04:40-8 @ingosass] Ich habe also noch Publizistik studiert und merkte sofort, mal abgesehen davon, dass die Studienpläne natürlich nicht gut zueinander passten,
+[00:04:49-8 @ingosass] dass mich das auch in kürzester Zeit überfordern würde.
+[00:04:53-2 @ingosass] Und außerdem war ich gezwungen, dann sehr sehr stark zu arbeiten in meinem Studium,
+[00:04:56-0 @ingosass] weil ich doch durch die Schule vielleicht nicht so richtig auf ein naturwissenschaftliches Studium vorbereitet war
+[00:05:03-6 @ingosass] und aber diese Arbeiterei hat mich so tief in das Fach geführt, dass ich eigentlich nach einem Semester wusste,
+[00:05:07-6 @ingosass] das ist es, dabei bleibst du.
+[00:05:10-4 @timpritlove] Okay. Und dann war es auch Liebe auf den ersten Blick?
+[00:05:15-2 @ingosass] Na auf den zweiten würde ich sagen, aber dann schon sehr stark.
+[00:05:17-7 @ingosass] Und da habe ich auch gemerkt, wie wichtig einzelne Professoren sind.
+[00:05:20-4 @ingosass] Ich erinnere mich an einen fantastischen Professor, Professor Wong, der mit uns Mathematik für Geowissenschaftler machte.
+[00:05:28-5 @ingosass] Und das Mathe war schon ein bisschen ein feindliches Thema für uns damals
+[00:05:34-2 @ingosass] und der hat uns die Dinge aber so nahegebracht, an praktischen geowissenschaftlichen Fragestellungen hat man schwierigste, wirklich schwierigste Nüsse zu knacken gehabt.
+[00:05:43-5 @ingosass] Und das haben wir gemeinsam getan so im – wie soll ich sagen – im Studierendenkollektiv
+[00:05:49-8 @ingosass] und hatten dann noch den entsprechenden Erfolg und das war ganz entscheidend für die Motivation für den Rest meines Studiums.
+[00:05:56-9 @timpritlove] Das dann auch in Hamburg beendet wurde?
+[00:06:01-0 @ingosass] Nein, ich bin dann nach dem Vordiplom nach Karlsruhe gegangen.
+[00:06:06-9 @timpritlove] Weil es da schöner ist und wärmer?
+[00:06:09-3 @ingosass] Würde ich nicht unbedingt sagen, aber in Karlsruhe konnte man damals eben angewandte Geologie vertiefen
+[00:06:15-6 @ingosass] und da Hydrogeologie und damals waren dort sehr exponierte Professoren dabei.
+[00:06:22-5 @ingosass] Außerdem war damals ein Geothermie-Projekt gerade in aller Munde.
+[00:06:28-0 @ingosass] Eben der erste Versuch, die Bohrungen in Bruchsal energetisch zu nutzen und das hat mich dann veranlasst, nach Karlsruhe zu gehen.
+[00:06:39-0 @ingosass] Weil im Grundstudium hatte ich Island durchquert zu Fuß und dort die damals beginnende Geothermie-Industrie mir selbst angeguckt in Island
+[00:06:49-7 @ingosass] und für mich die Entscheidung getroffen, das ist es, was du machen willst.
+[00:06:55-3 @timpritlove] In Island ist es dann auch noch auf eine Professur mal für Sie hinausgelaufen?
+[00:07:00-1 @ingosass] Ja, das war dann später.
+[00:07:01-1 @ingosass] Das war dann eine Gastprofessur im Rahmen eines Programmes Renewable Energy Science,
+[00:07:09-0 @ingosass] das wurde für einige Jahre von den Universitäten Reykjavik und Akureyri aufgelegt mit starker Industriebeteiligung
+[00:07:16-8 @ingosass] und dort konnten internationale Studenten in Trimestern ihren Master machen.
+[00:07:23-4 @ingosass] Und da durfte ich halt mitwirken und mit Lehre machen und das war schon sehr interessant und sehr wichtig.
+[00:07:33-6 @ingosass] Und das zeigt auch, das Programm war meiner Meinung nach auch sehr richtig, weil es die Interdisziplinarität des Faches halt reflektiert.
+[00:07:41-2 @ingosass] Es ist, wenn man Geothermie vertieft als Teil der erneuerbaren Energien Wissenschaften, sage ich mal und nicht so sehr als Teil der Geowissenschaften,
+[00:07:50-7 @ingosass] dann hat man sehr starke Bezüge in die Ingenieurwissenschaften und möglicherweise auch starke Bezüge in andere Bereiche.
+[00:08:00-2 @ingosass] Ich meine, Geothermie ist ja auch in aller Munde mit rechtlichen Fragen und Genehmigungsfragen etc. pp.
+[00:08:06-3 @ingosass] Und dieses Konzept der School of Renewable Energy Science, auch in der Verschneidung mit anderen Arbeitsgebieten in den erneuerbaren Energien,
+[00:08:16-2 @ingosass] hat meiner Meinung nach ein sehr sehr zukunftsweisendes Konzept gehabt.
+[00:08:20-2 @ingosass] Und ich würde das schon hervorragend finden, wenn wir so etwas in Deutschland hinbekämen.
+[00:08:31-8 @timpritlove] Island ist ja so ein bisschen wie das Mekka für Geothermiker oder?
+[00:08:36-0 @ingosass] Ist doch ein schönes Land.
+[00:08:37-2 @timpritlove] Ja, ich war noch nicht da, aber es dampft ja ganz ordentlich aus der Erde.
+[00:08:41-0 @ingosass] Ja natürlich, Island liegt ja auf dem mittelozeanischen mittelatlantischen Rücken und darunter ist ein Hotspot,
+[00:08:45-9 @ingosass] also eine Wärmeanomalie und das Ganze führt eben dazu, dass sich die Kruste über den Meeresspiegel erhebt
+[00:08:51-1 @ingosass] und mit vielen Vulkanen dann auch entsprechend warm ist.
+[00:08:53-3 @timpritlove] Das heißt, mehr Geothermie als in Island geht eigentlich gar nicht?
+[00:08:55-7 @ingosass] Geht eigentlich nicht.
+[00:08:56-3 @ingosass] Weil wenn es zu viel wird, wird es ja auch gefährlich.
+[00:08:58-2 @ingosass] So ein Vulkanausbruch ist ja nicht unbedingt geeignet für eine dauerhafte technische Anlage.
+[00:09:02-3 @timpritlove] Gibt es da aber auch.
+[00:09:03-4 @ingosass] Gibt es auch, ja.
+[00:09:04-5 @timpritlove] Aber dann auf der anderen Seite, da wo nicht so viele Leute wohnen.
+[00:09:07-3 @ingosass] Ja. Also in Island hat man eher das Problem, dass man mit der technischen Erschließung nicht zu nahe an die gefährlichen Zonen ran darf.
+[00:09:14-6 @ingosass] Und in Deutschland haben wir eher das Problem, dass wir die möglichst warmen Zonen aufsuchen müssen.
+[00:09:18-5 @timpritlove] Was ist denn so die geothermische Nutzungsrealität in Island?
+[00:09:21-9 @timpritlove] Man hört ja immer viel davon, dass das ein oder andere damit beheizt wird, aber welche Dimensionen hat das, wie weit geht das?
+[00:09:28-6 @ingosass] Ahja jetzt erwischen Sie mich natürlich nicht so ganz auf dem richtigen Fuß.
+[00:09:33-1 @ingosass] Meiner Kenntnis nach sind in Island 80% des Energiebedarfs wird über erneuerbare Quellen gedeckt
+[00:09:41-0 @ingosass] und ungefähr pari ist der Anteil Wasserkraft und Geothermie.
+[00:09:46-1 @ingosass] Und man hat natürlich enorme Stromüberschüsse in Island, vom Potenzial her allemal, aber auch von der technischen Nutzung
+[00:09:54-6 @ingosass] und das führt eben dazu, dass man zum Beispiel Aluminium-Schmelzwerke versucht in Island anzusiedeln,
+[00:10:00-4 @ingosass] weil das ist ein sehr stromintensiver Prozess, der …
+[00:10:05-0 @timpritlove] … der da ganz gut durchgeführt werden kann, weil da verbraucht man dann sozusagen keine Energie,
+[00:10:13-0 @timpritlove] die woanders falsch gewonnen worden wäre.
+[00:10:15-1 @ingosass] Ja, also der Strom wird halt in großen Mengen gebraucht für Aluminium-/Erzaufbereitung und das tut man dann in Island.
+[00:10:22-4 @ingosass] Steht stark in der Kritik, hat ökologisch nicht nur Vorteile.
+[00:10:28-9 @ingosass] Man muss sich natürlich auch fragen, ob es sinnvoll ist, zum Beispiel australische Bauxite um die Welt zu fahren,
+[00:10:35-6 @ingosass] um sie in Island aufzuschmelzen, das Rohaluminium zu gewinnen und dann diese Rohkörper dann wieder woanders hinzufahren und weiter zu verhütten und zu verarbeiten.
+[00:10:44-3 @ingosass] Und der Punkt steht auch stark in der Kritik, weil eigentlich die sekundäre Produktion in Island nicht angesiedelt ist.
+[00:10:52-9 @ingosass] Also es ist rein der Teil, der viel Strom bedarf, der wird in Island realisiert und der Rest in anderen Ländern, zum Beispiel auch in Deutschland und so weiter.
+[00:11:03-5 @timpritlove] Aber davon abgesehen kann man davon ausgehen, alles was beheizt wird in Island, kommt aus der Erde?
+[00:11:10-0 @ingosass] Ja, Reykjavik hat Straßenheizung, also Verzicht auf Streusalz, durch geothermische Quellen nicht überall, aber doch in signifikanten Bereichen.
+[00:11:20-9 @ingosass] Und wenn Sie mal nach Island fahren, also das, was sicherlich zur Kultur gehört dort, ist Thermalbaden.
+[00:11:26-9 @ingosass] Sie werden keinen größeren Weiler in Island finden mit mehr als 100 Einwohnern, der nicht über ein Thermalbad mit den schönen Hotspots verfügt.
+[00:11:37-4 @ingosass] Und wenn Sie da dann bei 39-41/42 Grad so im Nieselregen draußen sitzen und in die Landschaft schauen, dann ist das schon was ganz besonderes.
+[00:11:47-0 @timpritlove] Straßenheizung klingt auch toll.
+[00:11:50-4 @timpritlove] Ja, jetzt stehen wir ja vor großen Herausforderungen.
+[00:12:01-4 @timpritlove] Durch den Klimawandel stellen sich viele Fragen, wie man denn Energie gewinnen soll und hatten hier auch schon vor einigen Ausgaben ein Gespräch mit Volker Quaschning hier
+[00:12:18-9 @timpritlove] von der Universität hier in Berlin, der sehr eindringlich dargestellt hat, wieviel Nachholbedarf doch hier noch ist.
+[00:12:27-1 @timpritlove] Und auch herausgestellt hat, dass eben auch sehr viel Energie, die wir so überhaupt verbrauchen, in Heizungen geht, also in die Wärmeerzeugung.
+[00:12:36-7 @timpritlove] Dass das eigentlich so das größte Problem darstellt.
+[00:12:41-0 @timpritlove] Jetzt gibt es ja durchaus auch so Fernwärmesysteme, auch hier in Berlin hier und da, aber die kommen ja nicht aus der Erde.
+[00:12:49-1 @timpritlove] Welchen Beitrag kann denn die Wärme der Erde überhaupt leisten, wenn sie nicht so direkt an so einem Hotspot angelagert ist wie in Island?
+[00:13:02-9 @timpritlove] Welches Potenzial steckt da drin, wie tief muss man überhaupt rein in die Erde, um was davon zu haben?
+[00:13:09-5 @ingosass] Also um die Antwort kurz zu halten, die natürlich sehr sehr lang sein kann und ich halte eine zweisemestrige Vorlesung zu dem Thema,
+[00:13:20-0 @ingosass] kann man schon sagen, wenn wir technisch spindisieren und wenn wir uns mal lösen von regulativen Zwängen, von anderen einschränkenden Bedingungen,
+[00:13:34-7 @ingosass] von ökonomischen Fragestellungen, dann ist es vom Potenzial her so, dass wir einen Großteil der infrastrukturell bedingten Energieversorgung mit geothermischen Quellen beheizen könnten
+[00:13:45-7 @ingosass] oder aus geothermischer Speicherung versorgen können.
+[00:13:50-1 @ingosass] Das gilt besonders für den urbanen Raum.
+[00:13:52-6 @ingosass] Und der Wärmeverbrauch in Deutschland ist so, man kann das so als Faustregel sagen, ungefähr 50-60% des Gesamtenergieverbrauchs ist Gebäudewärme.
+[00:14:07-6 @ingosass] Das heißt also, der Beitrag zu dem, was wir als Energiewende bezeichnen, könnte in geothermischen Größenordnungen sehr sehr groß sein.
+[00:14:21-3 @timpritlove] Aber ab wann wird es denn sozusagen nutzbar?
+[00:14:23-1 @timpritlove] Wieviele Zentimeter oder Meter oder Kilometer müssen wir denn in die Erde vordringen, bis sozusagen diese dort vorherrschende Wärme für uns hilfreich wird?
+[00:14:34-2 @ingosass] Also die meisten Leute kennen ja so Erdwärmekollektoren, da verlegt man dann so Wärmeaustauscherschläuche in seinem Garten in einer Tiefe von 1,20-1,50 Meter
+[00:14:46-2 @ingosass] und da kann man in Verbindung mit einer Wärmepumpe natürlich schon sehr viel Primärenergie einsparen.
+[00:14:52-0 @ingosass] Vor allem man kann eben bis zum absoluten Nullpunkt theoretisch, das ist Minus 273,15 Grad Celsius, also 0 Kelvin, kann man natürlich einem Gegenstand oder einer Flüssigkeit Wärme entziehen.
+[00:15:08-4 @ingosass] Das wird natürlich mit zunehmender Abkühlung immer ineffizienter und deshalb streben wir danach, in der Geothermie eine möglichst hohe Quelltemperatur zu erschließen.
+[00:15:17-2 @ingosass] Deshalb baut man auch tief.
+[00:15:19-1 @timpritlove] Aber was bedeutet denn das 1,20 Meter?
+[00:15:22-4 @timpritlove] Was macht man denn da konkret?
+[00:15:24-0 @timpritlove] Pumpt man da Wasser in die Erde rein?
+[00:15:26-0 @ingosass] Ja, man nimmt … also das ist schon etwas spezielles.
+[00:15:31-9 @ingosass] Also man braucht im Prinzip Sickerwasser, also man kann so ein System nicht unter einem Gebäude oder unter einer versiegelten Fläche realisieren,
+[00:15:40-4 @ingosass] weil das Sickerwasser bringt einem natürlich zum Beispiel die sommerliche Wärme transportiert es in den Untergrund.
+[00:15:45-8 @ingosass] Sie kennen das, wenn Sie auf einem heißen Strand sind und Sie barfuß ins rettende Wasser laufen müssen und Sie auf einmal merken,
+[00:15:54-2 @ingosass] ich verbrenne mir die Füße oder meinen, Sie verbrennen sich die Füße, dann liegt das natürlich daran, dass dieser fast trockene Sand unheimlich stark aufgeheizt wird an der Oberfläche,
+[00:16:04-1 @ingosass] aber sobald sie fünf Zentimeter mit dem Fuß abschieben, merken Sie schon, es wird angenehm kühl.
+[00:16:09-4 @ingosass] So verhält man sich ja auch am Strand.
+[00:16:10-7 @ingosass] Das liegt eben daran, dass da kein Wasser ist, dass diese Wärme transportiert.
+[00:16:14-7 @ingosass] Sobald es da jetzt regnet, es Sickerwasser gibt oder eben die Dünung rüberstreicht, wird diese Energie in den Untergrund transportiert.
+[00:16:24-5 @ingosass] Und das funktioniert natürlich überall dort, wo die Sonne scheint und wo der Boden eben die nötige Permeabilität hat, um Wasser versickern zu lassen.
+[00:16:33-8 @ingosass] Und deshalb, also in offenen Flächen kann man dann Schläuche verlegen, durch die Schläuche lässt man ein, wir sagen, Wärmetauschermedium fließen.
+[00:16:43-4 @ingosass] Also in der Regel ist das Wasser mit einem Frostschutzzusatz und dann kann man über diese Wärmetauscherrohre diese „sommerlich versickerte Wärme“ im Winter entziehen.
+[00:16:57-9 @timpritlove] Das heißt, wir reden hier eigentlich gar nicht von einer Wärme der Erde selber, sondern eigentlich einer Wärme,
+[00:17:05-4 @timpritlove] die von oben durch die Sonne über das Wasser in diesen Boden abtaucht?
+[00:17:11-7 @ingosass] Ja, also die oberflächennahe Geothermie, wie wir sagen, ist sowieso im wesentlichen nichts anderes als eingespeicherte Solarthermie, also natürlich eingespeicherte Solarthermie.
+[00:17:20-7 @ingosass] Also wir haben den terrestrischen Wärmestrom, das sind, wenn es hochkommt, in Deutschland also 100 Milliwatt pro Quadratmeter, das was von unten kommt,
+[00:17:31-0 @ingosass] da können wir später drüber reden, wieso das kommt und das, was von oben kommt, ist fast eine Größenordnung mehr.
+[00:17:38-8 @ingosass] Also es kommt viel mehr Sonnenenergie von oben hinein und erwärmt dann eben das Grundwasser und so weiter.
+[00:17:45-3 @ingosass] Das kann man daran festmachen, wenn Sie bohren irgendwo in Deutschland, den obersten Grundwasserleiter anbohren,
+[00:17:50-9 @ingosass] der hat in der Regel die Temperatur, die Sie auch als mittlere Jahreslufttemperatur haben.
+[00:17:56-6 @ingosass] Das heißt, je höher Sie kommen zum Beispiel in den Alpen oder was weiß ich, im Harz oder sonst wo,
+[00:18:01-0 @ingosass] desto geringer ist natürlich die Jahresmitteltemperatur, desto geringer werden auch die Grundwassertemperaturen.
+[00:18:06-5 @ingosass] Und das ist auch der direkte Nachweis, dass diese Kopplung zwischen solarer Wärme und der Untergrunderwärmung besteht.
+[00:18:14-1 @ingosass] Und geothermische technische Systeme machen sich diesen Effekt zunutze.
+[00:18:18-1 @timpritlove] Das heißt, wenn wir von Geothermie sprechen, reden wir generell von Wärme im Kontext, dass sie sich in der Erde abspielt und dort Prozessen folgt?
+[00:18:31-9 @ingosass] Ja.
+[00:18:32-8 @timpritlove] Nicht unbedingt zwangsläufig die Erde und die von ihr selbst erzeugte Wärme aus dem Inneren?
+[00:18:41-1 @ingosass] Es trifft beides zu. Es gibt ein klar von Sonne und Wetter beeinflussten Teil der oberen Erdkruste,
+[00:18:50-0 @ingosass] das ist der Bereich, den wir so unter dem Begriff oberflächennahe Geothermie dann auch fassen im Wesentlichen
+[00:18:56-8 @ingosass] und natürlich ist mit zunehmender Tiefe nimmt die Effizienz dieser Transportprozesse in die Tiefe auch ab.
+[00:19:02-8 @ingosass] Also das liegt alleine schon daran, dass die Durchlässigkeit der Gesteine mit zunehmendem Druck ab
+[00:19:08-9 @ingosass] und deshalb auch die Sickerbewegung nicht mehr möglich ist, und dann haben Sie eben konduktiven Wärmetransport.
+[00:19:13-8 @ingosass] Der ist wesentlich langsamer und damit auch für technische Systeme eigentlich ineffizienter.
+[00:19:20-2 @ingosass] Und wir haben in der Erdkugel einmal einen großen Wärmespeicher, das ist sogenannte akkretionäre Wärme, das ist die Energie, die aus der Zeit der Erdentstehung gespeichert wurde
+[00:19:34-1 @ingosass] und wir haben natürlich einen großen ständig nachgelieferten Wärmeenergiebeitrag durch den natürlichen radioaktiven Zerfall,
+[00:19:43-3 @ingosass] das sind im Wesentlichen zwei Uranisotope, ein Thoriumisotop und ein Kaliumisotop, das da für den terrestrischen Wärmefluss sorgen.
+[00:19:53-2 @timpritlove] Ja, das heißt, das ist jetzt gar nicht mal unbedingt jetzt das Magma der Erde, was von innen alles aufheizt?
+[00:19:59-3 @ingosass] Nein, natürlich nicht.
+[00:20:01-6 @ingosass] Das Magma ist auch nur ein Ausdruck dieser Phänomene.
+[00:20:06-1 @timpritlove] Und nicht durch einfach die Beschaffenheit der Erde selber.
+[00:20:10-6 @ingosass] Nein, nein, wir haben ja jetzt Teile in den inneren Schichten der Erde sind ja flüssig
+[00:20:15-1 @ingosass] und das ist natürlich diese akkretionäre Hitzeenergie, die dort gespeichert wurde.
+[00:20:22-0 @ingosass] Der Mond ist halt zum Beispiel zu klein und ist über die Jahrmilliarden abgekühlt und kalt und tot quasi und das ist bei der Erde jetzt noch nicht der Fall.
+[00:20:31-7 @ingosass] Und natürlich gibt die Erde über Vulkanausbrüche und andere natürliche – wie soll ich das sagen – Fehlstellen, zum Beispiel Thermalquellen und ähnliches
+[00:20:46-0 @ingosass] gibt natürlich von dieser Energie Energie in die Atmosphäre ab.
+[00:20:50-7 @ingosass] Und wenn wir keinen Treibhauseffekt haben, dann geht diese Energie auch ins Weltall.
+[00:20:56-4 @ingosass] Und je stärker der Treibhauseffekt ist, desto mehr bleibt diese Energie eben in der Atmosphäre enthalten.
+[00:21:04-2 @timpritlove] Das heißt, allein durch die Gravitation der Erde, das sich zusammendrücken der Elemente entsteht keine neue Hitze?
+[00:21:11-5 @ingosass] Nein, die ist also durch … das ist im Wesentlichen der Vorgang, der sich in der Erdentstehung abgespielt hat und dort haben die Druck- und Temperaturverhältnisse geherrscht,
+[00:21:22-5 @ingosass] um eben diesen Zustand einzustellen.
+[00:21:25-3 @ingosass] Der wird jetzt quasi durch den natürlichen radioaktiven Zerfall und durch die bestehenden Druckverhältnisse aufrechterhalten.
+[00:21:33-4 @ingosass] Aber die Erde ist ganz eindeutig auf der abkühlenden Achse, für uns Menschen ist das nicht von Interesse vom Ablauf her,
+[00:21:42-9 @ingosass] also da brauchen wir auch nicht über Generationen sprechen, sondern da müssen wir vielleicht über zigtausende von Generationen sprechen,
+[00:21:49-9 @ingosass] und die Abgabe dieser Energie an die Atmosphäre hängt sehr stark von den Bedingungen der Atmosphäre ab.
+[00:21:59-1 @ingosass] Also es gab Zeiten in der Erdgeschichte, da gab es den Snowball Earth, da war die Erde komplett vergletschert
+[00:22:06-7 @ingosass] und da haben subglaziale Vulkanausbrüche so viel CO2 in die Atmosphäre geschleudert,
+[00:22:12-1 @ingosass] dass sich dann ein Treibhauseffekt bilden konnte und der Treibhauseffekt alleine ist es, der überhaupt Lebenswerte Temperaturen wieder auf der Erde eingestellt hat.
+[00:22:22-6 @ingosass] Und wenn Sie natürlich zu viel Treibhauseffekt machen, dann wird es zu warm, dann wird es wieder nicht lebenswert.
+[00:22:28-5 @ingosass] Wir sind ja im Moment stark bemüht, diesen Zustand auch mal am eigenen Leib zu erleben.
+[00:22:33-5 @timpritlove] Okay. Das heißt, im Prinzip sitzen wir auf einer großen Wärmebatterie, die irgendwann auch einfach mal alle sein wird, aber dauert bloß noch eine ganze Weile.
+[00:22:43-0 @ingosass] Ja, also Uran und Thorium haben ja Jahrmillionen an Halbwertzeiten, das heißt, da sind natürlich die Zerfallszeiten alleine schon sehr lang
+[00:22:51-8 @ingosass] und das ist natürlich auf geologischen Skalen misst man das natürlich.
+[00:22:55-5 @ingosass] Aber die Erde ist mitnichten mit einem konstanten Klima ausgestattet.
+[00:23:01-4 @ingosass] Da hat es in der Erdgeschichte schon verschiedene extreme Auswüchse gegeben, ohne anthropogenes CO2.
+[00:23:12-4 @timpritlove] Wer hält jetzt länger durch, unsere Sonne oder dieser Wärmespeicher in der Erde?
+[00:23:16-9 @ingosass] Ja, ich habe es jetzt nicht so genau im Kopf, also die Sonne hat, glaube ich, die Perspektive liegt so, ich bin jetzt auch kein Geophysiker, liegt so bei 2,1 Milliarden Jahre noch, dann ist sowieso Schluss.
+[00:23:25-6 @timpritlove] Ja. Aber das hält sich dann sozusagen die Waage?
+[00:23:28-7 @ingosass] Das ist für uns beide jetzt nicht so relevant.
+[00:23:31-7 @timpritlove] Nein, für uns sowieso nicht, aber Podcasts werden ja auch noch in Millionen Jahren gehört, ja sicherlich und da muss man dann auch schon darauf vorbereitet sein.
+[00:23:41-8 @timpritlove] Gut, also wir haben diese Wärme und wir würden sie jetzt gerne nutzen, weil wir das Problem haben,
+[00:23:51-2 @timpritlove] dass die ganzen anderen wärmeerzeugenden Systeme, die wir haben, leider zu diesem Klimawandel weiter beitragen.
+[00:24:01-7 @timpritlove] Welche Rolle spielt denn so die Geothermie derzeit überhaupt in der Energieerzeugung?
+[00:24:08-6 @timpritlove] Ist das nur alles eine theoretische Geschichte und findet im Wesentlichen alles nur in Island statt
+[00:24:14-1 @ingosass] oder haben wir jetzt außer diesen paar Leitungen in der Erde vor Einfamilienhäusern noch irgendwas signifikantes schon in Betrieb?
+[00:24:24-9 @ingosass] Ja, man muss natürlich schauen, wo man hinschaut.
+[00:24:26-6 @ingosass] Wenn man mal den globalen Maßstab nimmt, dann ist natürlich überall dort Geothermie relativ leicht zu erschließen, wo Plattengrenzen sind,
+[00:24:37-7 @ingosass] also wo tektonische Platten aneinander grenzen.
+[00:24:41-6 @ingosass] Das ist natürlich besonders der Fall in diesem Ring of Fire, diesem circumpazifischen Vulkanring,
+[00:24:48-1 @ingosass] das ist alles im Prinzip der Ausdruck einer Plattengrenze und dort gibt es in verschiedenen Ländern zum Teil erhebliche Nutzung der Geothermie durch vor allen Dingen Kraftwerke also Stromerzeugung.
+[00:25:00-7 @timpritlove] An welchen Orten ist das zum Beispiel?
+[00:25:01-5 @ingosass] Das ist zum Beispiel in Indonesien da ist das Wachstum sehr stark.
+[00:25:04-8 @ingosass] In Neuseeland ist es sehr stark.
+[00:25:07-4 @ingosass] USA ist immer noch Nummer 1 der geothermische Stromerzeugung.
+[00:25:10-8 @ingosass] Das liegt vor allen Dingen an einem riesigen Thermalfeld in Kalifornien, the Geysirs,
+[00:25:15-7 @ingosass] aber es gibt dort auch diverse andere signifikante Verstromungsnutzung.
+[00:25:20-5 @ingosass] Dann sehr sehr stark am Ausbau interessiert sind also besonders Argentinien und Chile.
+[00:25:28-9 @ingosass] Und in Malaysia tut sich sehr viel, in Mittelamerika gibt es verschiedene Aktivitäten.
+[00:25:37-2 @ingosass] Also es gibt dort wirklich signifikante Beiträge zur Stromerzeugung aus Geothermie, wie auch in Island.
+[00:25:44-0 @ingosass] Und ich habe es gar nicht im Kopf, ich glaube Island ist auch Nummer 4 nur weltweit.
+[00:25:49-0 @timpritlove] Ach guck an.
+[00:25:50-5 @ingosass] Aber ich bin jetzt auch wieder, wir erheben die Zahlen nur alle fünf Jahre, also ich weiß jetzt nicht,
+[00:25:55-6 @ingosass] und wir haben den World Geothermal Congress immer zum runden Zehnerjahr und zum Fünfer dazwischen,
+[00:26:03-8 @ingosass] das heißt, der nächste ist zufällig im Reykjavik im Jahr 2020, dann wird es neue Zahlen geben.
+[00:26:09-9 @timpritlove] Okay.
+[00:26:10-3 @ingosass] Ja also gut, dann Stromerzeugung begann in Europa aus der Geothermie, das war 1904 in Larderello in der Toskana.
+[00:26:20-0 @ingosass] Gino Riconti hat dort Trockendampf über eine Turbine geleitet und Strom erzeugt und Italien ist neben Island in Europa der wichtigste geothermische Stromerzeuger.
+[00:26:33-3 @ingosass] Eben auch vor allen Dingen durch die Nutzung in Larderello in der Toskana.
+[00:26:39-2 @ingosass] Aber es ist natürlich auch ein Vulkanland.
+[00:26:40-9 @ingosass] Ich meine, der Vesuv und der Etna sind ja allen bekannt oder wenn Sie liparische Inseln, phlegräische Felder, Stromboli nehmen,
+[00:26:49-4 @ingosass] dann weiß fast jeder verbindet natürlich mit diesen Namen auch Vulkanismus und letztendlich …
+[00:26:55-8 @timpritlove] Die Erdbeben.
+[00:26:58-3 @ingosass] … passt die Seismizität und die geothermische Nutzung im weitesten Sinne zusammen.
+[00:27:05-0 @ingosass] Und also das wäre der Teil, wo, wir sagen, die Früchte relativ niedrig hängen, wo man mit vergleichsweise flachen Bohrungen Strom erzeugen kann.
+[00:27:15-6 @ingosass] Das ist dann in Mitteleuropa, in Deutschland, in Frankreich, Polen und so weiter schon schwieriger.
+[00:27:22-2 @ingosass] Wir müssen noch erhebliche Bohrtiefen erreichen, um wirtschaftlich verstrombare Temperaturen zu erreichen.
+[00:27:28-5 @ingosass] Und es gibt in Deutschland, ich glaube, wir haben heute aktuell eine installierte elektrische Verstromungsleistung aus Geothermie in Deutschland von 38 Megawatt als Leistung.
+[00:27:41-0 @ingosass] Das macht dann so was bei 25 Gigawattstunden pro Jahr.
+[00:27:46-7 @timpritlove] Bleiben wir doch erst mal genau bei diesen Bereichen, Ring of Fire, also sagen wir mal, die Orte, wo es im wahrsten Sinne des Wortes naheliegend ist,
+[00:27:53-3 @timpritlove] diese Quellen zu erschließen.
+[00:27:57-0 @timpritlove] Was bedeutet denn das?
+[00:27:58-5 @timpritlove] Heißt es, dass da einfach die Erde generell wärmer ist?
+[00:28:02-1 @timpritlove] Oder wenn man tief bohrt, früher hohe Temperaturen entstehen, mehr zunimmt?
+[00:28:09-5 @timpritlove] Was muss man eigentlich sich erschließen oder was wird in diesen Regionen konkret erschlossen mit welcher Technik, um Strom erzeugen zu können?
+[00:28:19-2 @ingosass] Also nur 1% der ist kälter als 100 Grad der Erdmasse.
+[00:28:24-7 @ingosass] Wir laufen also eigentlich auf einer sehr sehr dünnen Kruste, ohne uns die Füße zu verbrennen.
+[00:28:30-6 @ingosass] Natürlich ist diese Kruste dann für menschliche Dimensionen doch noch sehr dick oder mächtig, wie wir sagen.
+[00:28:38-9 @ingosass] Also am mächtigsten, am dicksten ist die Kruste im Himalaya, da ist sie über 80 Kilometer dick
+[00:28:44-1 @ingosass] und dadrunter beginnt dann eine andere geophysikalische Schicht, wo sich das Gestein eben duktil verhält,
+[00:28:55-5 @ingosass] also ein Übergangszustand zwischen schmelzflüssig und fest, spröde.
+[00:29:02-6 @ingosass] Und in Schwächezonen der Erdkruste ist das dann zum Teil erheblich dünner.
+[00:29:07-8 @ingosass] Also wir haben in Deutschland auch eine, das ist der Oberrheingraben.
+[00:29:12-1 @ingosass] Dort sind wir deutlich unter 20 Kilometer Krustenmächtigkeit und da ist natürlich durch diesen Hitzetransport der Asthenosphäre ist natürlich eine geothermische Anomalie vorhanden.
+[00:29:28-0 @timpritlove] Was ist das für eine Sphäre?
+[00:29:29-8 @ingosass] Asthenosphäre.
+[00:29:31-8 @timpritlove] Die Asthenosphäre, das ist was?
+[00:29:33-3 @ingosass] Das ist der Bereich der Erde, der unter der spröden, starren Erdkruste liegt und sich über duktile Bewegungen eben auch einen konvektiven Energietransport zulässt.
+[00:29:46-5 @ingosass] Also Energie aus der tieferen Erdkruste nach oben transportiert.
+[00:29:52-4 @ingosass] Also konvektiv, konduktiv vielleicht ganz kurz den Exkurs.
+[00:29:56-5 @ingosass] Wenn Sie früher Thermopenscheiben hatten, ich meine, heute ist da ein Edelgas drin, Krypton oder sowas,
+[00:30:03-9 @ingosass] aber früher war das ja im Wesentlichen Luft zwischen zwei Scheiben, dann wirkt die Luft ja isolierend, dämmend.
+[00:30:08-6 @ingosass] Wenn Sie aber Ihren Fön benutzen, dann nutzen Sie Luft zum Energietransport, Sie trocknen damit ja die Haare und das ist sehr effizient.
+[00:30:18-7 @ingosass] Also Konvektion ist, wenn Sie Energie durch Masse transportieren, dadurch dass was fließt, strömt
+[00:30:24-1 @ingosass] und Konduktion ist, wenn Sie Energie durch einen Festkörper transportieren.
+[00:30:28-2 @ingosass] Dann ist das nur noch, dass Moleküle aneinanderstoßen und über diese Aneinanderstoßbewegung die Energie durch einen Festkörper transportieren.
+[00:30:36-5 @ingosass] Und das ist eben der Unterschied in der Erdkruste.
+[00:30:38-8 @ingosass] Der spröde Teil, also der Teil, der brechen kann, der auch beben kann, der kann natürlich nur mit Hilfe von Grundwasser konvektiv Wärme transportieren
+[00:30:50-9 @ingosass] oder eben mit Magma, da kommen wir wieder zum Thema und der Asthenosphärenteil, der kann duktil,
+[00:30:57-4 @ingosass] also über eine Fließbewegung Energie transportieren und damit schafft er viel mehr Energie an die Unterseite dieser spröden Erdplatten heran
+[00:31:08-7 @ingosass] und dort, wo die dünn sind, erst mal treibt es die Bewegung an der Erdplatten und zum anderen dort, wo die dann aus verschiedenen Gründen dünn sind,
+[00:31:17-7 @ingosass] das führt uns jetzt vielleicht zu weit, kann natürlich dann Energie zur Aufschmelzung von Gesteinen führen
+[00:31:25-8 @ingosass] und das sind dann eben Magmakammern und die können sich durch Vulkanismus äußern.
+[00:31:30-4 @ingosass] Und die sind dann eben technisch erreichbar.
+[00:31:33-4 @ingosass] Also man hat schon öfter mal in eine Magmakammer hineingebohrt.
+[00:31:39-4 @ingosass] Also in Island ist das so im Bereich 2010 war das, ja 2010 hat man mit einem Projekt IDDP1, Iceland Deep Drilling Project 1, eben in …
+[00:31:53-5 @ingosass] ich muss es jetzt überlegen, in ca. 2200 Meter basaltisches Magma in die Bohrung bekommen.
+[00:32:01-6 @ingosass] Das ist undramatisch, weil Sie kühlen ja die Bohrung von oben mit Wasser und das Magma verglast dann sofort.
+[00:32:08-3 @ingosass] Aber Sie können natürlich nicht mehr weiter bohren, Sie verlieren natürlich Ihre Bohrung.
+[00:32:12-1 @ingosass] Man kann dann noch verschiedene technische Maßnahmen machen, aber letztendlich ist da ein Erfolg sehr unwahrscheinlich mit heutigen Mitteln.
+[00:32:17-8 @ingosass] Das ist auch das Problem, das wir in der Geothermie haben,
+[00:32:21-2 @ingosass] wir wollen möglichst nah ran, also in der verstromungsorientierten Geothermie, wir wollen möglichst nahe ran an diese geothermischen Anomalien,
+[00:32:30-0 @ingosass] aber nicht so nahe ran, dass es für Mensch und Technik gefährlich wird.
+[00:32:34-5 @ingosass] Und ein Vulkan ist natürlich grundsätzlich mal eine gefährliche Angelegenheit, wenn der aktiv ist
+[00:32:40-7 @ingosass] und welche Unternehmung möchte schon die Investition durch Vulkanausbruch abschreiben?
+[00:32:50-2 @timpritlove] Also warum hat dann überhaupt die Magmakammer anbohren wollen?
+[00:32:54-7 @timpritlove] Because we can oder?
+[00:32:55-2 @ingosass] Nein, das war nicht gewollt, das ist geschehen.
+[00:32:55-5 @timpritlove] Ach so, das war keine Absicht?
+[00:32:57-2 @ingosass] Also das Projekt diente dazu, man wollte eine superkritische Lagerstätte erreichen, also in einen Temperatur- und Druckbereich hineingehen, wo Wasser über dem kritischen Punkt ist,
+[00:33:08-8 @ingosass] also bei Atmosphärenbedingungen bei etwa über 540 Grad Celsius
+[00:33:14-9 @ingosass] und auf diesem Weg dahin hat man halt über, da sind ja Klüfte und Spalten und Störungen im Gebirge,
+[00:33:22-6 @ingosass] über so eine Spalte hat man dann eben den Anschluss an eine Magmakammer erwischt
+[00:33:27-6 @ingosass] und das Magma schoss dann auch folgerichtig hinein und das war es dann.
+[00:33:33-9 @timpritlove] Verstehe.
+[00:33:34-4 @ingosass] Also es ist auch eine der Frontlinien der Forschung in der Geothermie zurzeit, dass man eben super heiße, super kritische Reservoire versucht zu erbohren.
+[00:33:44-9 @timpritlove] Das heißt…
+[00:33:46-0 @ingosass] oder sagen wir zu verstehen und zu erkunden und …
+[00:33:49-3 @timpritlove] Okay, also in Bereichen, wo man diese Asthenosphäre hat, also wo quasi eine hohe Temperatur der Erde sich durch fließendes Gestein, kann man das?
+[00:34:00-5 @ingosass] Ja.
+[00:34:01-6 @timpritlove] Also es ist nicht Magma, sondern es bewegt sich langsam.
+[00:34:03-1 @ingosass] Ja natürlich, das ist auch Magma, aber Magma entsteht eigentlich, das ist so, als ob Sie …
+[00:34:09-1 @ingosass] oder anders, Vulkanausbruch, ich mache es plakativer, entsteht so oft nach dem gleichen Prinzip wie,
+[00:34:16-7 @ingosass] das haben Sie schon mal erlebt, wenn Sie in der Küche in eine wirklich heiße Pfanne mit Fett Wasser reingießen,
+[00:34:22-9 @ingosass] dann haben Sie dieses Aufschäumen, kann gefährlich werden, wenn das Fett dann quasi explodiert
+[00:34:29-8 @ingosass] und daran sehen Sie natürlich, dass Wasser einen Schmelzpunkt erniedrigt.
+[00:34:36-3 @ingosass] Und ein reines Gestein ist bei viel höheren Temperaturen erst flüssig als ein Gestein, das Wasser enthält.
+[00:34:43-4 @ingosass] Und so ist die Wechselwirkung, wenn die Temperatur dann von unten aus der Asthenosphäre in die feste Kruste eindringt, dann ist die Wechselwirkung mit dem Wasser extrem wichtig
+[00:34:53-4 @ingosass] und wo ist auch Platz vorhanden, wo so eine Magmakammer sich bilden kann, das sind relativ komplexe gebirgsmechanische Betrachtungen.
+[00:35:05-6 @ingosass] Und so gibt es dann ganz unterschiedlich Typen und Arten von Vulkanen und Magmakammer und von ihrem Verhalten her auch sehr unterschiedlich.
+[00:35:14-8 @ingosass] Zum Beispiel in Island, wenn man da in den Norden geht, dieses Geothermiefeld von Grappa, da hat es mehrjährige Spalteneruptionen gegeben, aber die sind relativ ruhig.
+[00:35:26-4 @ingosass] Das ist dann ein andauernder Vulkanausbruch an einer dieser Spalten eben und da kommt ein basaltisches, ein sehr heißes Magma raus mit relativ wenig Wassergehalt
+[00:35:35-5 @ingosass] und das ist eine relativ ruhige Eruption dann.
+[00:35:38-5 @ingosass] Was in aller Munde wäre, wäre so Mount St. Helens, kennen Sie vielleicht noch?
+[00:35:42-5 @timpritlove] Ja, in den USA.
+[00:35:43-3 @ingosass] Kennen wir noch, in den 80er Jahren, da hat es halt bei so einem veritablen Berg den Kopf weggesprengt,
+[00:35:50-8 @ingosass] das war natürlich so eine sehr stark auch wasserbeladene Eruption, die wesentlich explosiver, wesentlich katastrophaler ablaufen.
+[00:36:00-0 @timpritlove] Sehr interessanter Fall.
+[00:36:01-2 @timpritlove] Nicht nur, weil danach so die Bergkuppe weg war, sondern danach ja auch alles vergiftet war über lange lange Zeit und sich dann in Jahrzehnten danach …
+[00:36:06-5 @ingosass] Ja gut, beim Vulkanausbruch kommen auch zum Teil unangenehme Stoffe mit zur Tagesoberfläche.
+[00:36:13-8 @ingosass] Das ist halt immer ein zweischneidiges Schwert.
+[00:36:15-2 @ingosass] Auf der einen Seite die hohe Fruchtbarkeit von vulkanischen Böden, auf der anderen Seite die sehr gefährlichen und auch lebensfeindlichen Randbedingungen.
+[00:36:22-6 @timpritlove] Aber auch ein super Forschungsgebiet, also ich habe so verschiedene Operationen gesehen, die dann halt über lange Zeit dann beobachtet haben, was danach passiert ist.
+[00:36:30-9 @ingosass] Ja, das ist ein Vorteil der Geothermie.
+[00:36:32-3 @ingosass] Wenn man da tätig ist, Sie haben ja immer an Plattengrenzen zu tun und an Plattengrenzen sind die Gebirge und die Gebirge sind die schönsten Orte auf der Welt.
+[00:36:40-0 @timpritlove] Alles Genießer sozusagen.
+[00:36:44-4 @timpritlove] Okay, also kommen wir zurück zu dieser Anwendung.
+[00:36:47-7 @timpritlove] Sprich, in den Gebieten, jetzt waren wir ja bei diesem Ring of Fire, also ein Gebiet, was sich quasi so am Außenrand des Pazifiks entlangschält,
+[00:36:58-2 @timpritlove] von Indonesien am asiatischen Festland entlang, über Alaska wieder runter, bis runter nach Chile,
+[00:37:06-8 @timpritlove] da ist sozusagen so ein, Hotspot ist jetzt vielleicht nicht die richtige Bezeichnung  oder kann man das schon sagen,
+[00:37:12-1 @timpritlove] auf jeden Fall, dort sind die Bedingungen gut.
+[00:37:15-0 @timpritlove] Sprich, wie weit muss man dann bohren, um auf welche Temperaturen dort zu kommen, ohne jetzt in eine Magmakammer zu bohren?
+[00:37:22-7 @ingosass] Okay, muss ich wieder vom Allgemeinen.
+[00:37:24-7 @ingosass] Also auf kontinentaler Kruste, also die Kruste, die quasi über dem Meeresspiegel heraus guckt,
+[00:37:31-5 @ingosass] haben wir eine durchschnittliche Temperaturzunahme von 3 Grad Celsius pro 100 Meter Tiefenzunahme.
+[00:37:39-3 @ingosass] Und in diesen vulkanischen Gebieten kann das bis auf 20 Grad Celsius pro 100 Meter anwachsen.
+[00:37:47-8 @ingosass] Dieser Gradient ist auch nicht gleichmäßig, der kann also in unterschiedlichen Tiefenabschnitten auch unterschiedliche Werte nehmen.
+[00:37:53-8 @ingosass] Grundwasser ist ja nicht nur etwas, was jetzt zum Beispiel einen Vulkanausbruch provoziert, sondern das wirkt natürlich auch kühlend auf so ein System.
+[00:38:01-0 @ingosass] Wenn Sie viel Regen haben, also zum Beispiel in Neuseeland an der Westküste haben Sie Niederschläge von über 10.000 Millimeter pro Jahr.
+[00:38:09-6 @ingosass] Also hier in Berlin haben wir vielleicht 650 Millimeter pro Jahr.
+[00:38:14-6 @ingosass] Und das führt natürlich zu einem enormen Druck in den Aquiphären, in den Grundwasserleitern.
+[00:38:21-7 @ingosass] Und bei doch relativ großer Nähe zu vulkanischen Vorkommen hat das auch einen enorm kühlenden Effekt.
+[00:38:28-3 @ingosass] Also es kommt ganz darauf an, wie die Situation da im einzelnen gegeben ist,
+[00:38:33-8 @ingosass] aber wir können eben sagen, dass wir aufgrund dieses Gradienten,
+[00:38:38-0 @ingosass] der Grundwasserverhältnisse, der Gesteinsverhältnisse, in so vulkanischen Gebieten bohrt man so 1.500-2.500 Meter Tiefe.
+[00:38:47-7 @ingosass] Das muss man tun, damit man vom Vulkan weg ist, Sie können ja nicht im Vulkan bohren, das kann ja unangenehme Folgen haben,
+[00:38:55-4 @ingosass] also entsteht eben diese Bohrtiefe eigentlich auch aus der Georisikoerwägung heraus.
+[00:39:02-6 @ingosass] Sie müssen ein bisschen weg davon, damit Sie sicher sind und so ist es dann eben normal.
+[00:39:08-3 @ingosass] Und in diesen Tiefen erreicht man in vulkanischen Gebieten dann eben Temperaturen von 180-250 Grad ungefähr, das wäre so die Standardnutzung.
+[00:39:17-0 @ingosass] Und wenn man dann noch einen trockenen Dampf hat, also einen Dampf, der nicht Wasser mitreißt und Wasser in Tröpfchenphase dabei hat,
+[00:39:24-9 @ingosass] das wäre dann Nassdampf, dann hat man einen ganz einfachen Kraftwerksprozess.
+[00:39:29-4 @ingosass] Das ist so, wie man den im Physikunterricht halt in der Schule dann lernt.
+[00:39:33-3 @ingosass] Also ich mache Dampf…
+[00:39:34-2 @timpritlove] Wo kommt dieser Dampf jetzt her?
+[00:39:35-0 @timpritlove] Aus dieser Bohrung von sich aus?
+[00:39:36-9 @ingosass] Ja ist ja klar, Sie haben natürlich Grundwasser, wassergesättigte Verhältnisse, das ist völlig normal.
+[00:39:42-7 @ingosass] Also wenn Sie in Deutschland Irgendwo, es wird ganz schwierig, in Deutschland 50 Meter tief zu bohren und trockene Verhältnisse zu haben.
+[00:39:52-4 @ingosass] Also die sind dann vielleicht trocken, weil das Gestein so dicht ist, dass kein Wasser nachfließt,
+[00:39:56-4 @ingosass] aber Sie sind da schon unter der Grundwasseroberfläche.
+[00:40:01-0 @ingosass] Und das ist natürlich auch in Indonesien oder ähnlichen Gebieten so oder in Island allemal,
+[00:40:06-4 @ingosass] das heißt, Sie sind da sowieso im wassergesättigten Bereich und dort, wo diese Temperaturen da sind, haben Sie eben Dampf.
+[00:40:12-5 @ingosass] Und die Temperaturen sind so hoch, dass der Dampf trocken ist, also das Wasser 100% in der Dampfphase.
+[00:40:19-9 @ingosass] Und wenn Sie es dann schaffen, diese Bohrung so zu erschließen, dass dieser Dampf rauskommt, das ist zum Beispiel in Larderello in der Historie der Fall gewesen,
+[00:40:29-5 @ingosass] dann haben Sie eben Trockendampf und dann haben Sie ein sogenanntes Single Flash Kraftwerk,
+[00:40:34-7 @ingosass] das heißt, Sie geben den Dampf auf die Turbine und haben Strom, machen Strom daraus.
+[00:40:39-7 @ingosass] So einfach ist es aber in den meisten Geothermieanwendungen eben nicht.
+[00:40:44-3 @timpritlove] Also im Prinzip, man braucht wirklich erst mal nur so ein Loch bohren, also ich meine, was heißt Loch bohren?
+[00:40:50-6 @timpritlove] Wie groß muss man sich das jetzt vorstellen?
+[00:40:53-0 @timpritlove] Wie groß muss so Bohrung sein, damit das alles funktioniert?
+[00:40:56-1 @ingosass] Also wenn Sie auf … also eine Bohrung wird teleskopiert, Sie fangen oben mit einem relativ großen Durchmesser an,
+[00:41:02-0 @ingosass] also ich sage mal, so einen Arm voll und Sie enden dann unten mit einem kleineren Durchmesser.
+[00:41:08-8 @ingosass] Und wenn Sie dort einen Durchmesser haben, durch den so ein Handball durchgeht, dann haben Sie schon einen vernünftigen Bohrdurchmesser unten.
+[00:41:14-4 @timpritlove] Okay, und da ist dann was drin?
+[00:41:17-5 @ingosass] Da ist dann zunächst mal nichts drin.
+[00:41:18-9 @ingosass] Und dann müssen wir entscheiden, ist das Gebirge standfest oder ist das Gebirge gebräch, wie wir sagen.
+[00:41:24-5 @ingosass] Also stürzt es ein?
+[00:41:26-1 @ingosass] Wenn es einstürzt, müssen wir ein Filterrohr einsetzen oder wir müssen ein Vollrohr einbauen und das dann von innen nach außen aufperforieren.
+[00:41:33-8 @timpritlove] Aber es könnte auch sein, dass man gar kein Rohr drin haben muss?
+[00:41:36-7 @ingosass] Ja, es kommt ganz auf die lokalen Verhältnisse an.
+[00:41:39-1 @timpritlove] Das heißt, wenn das so an sich stabil ist, man hat da einfach was rausgefräst, das fällt nicht in sich zusammen, dann kommt da einfach Dampf raus?
+[00:41:44-5 @ingosass] Ja, dann kommt einfach Dampf raus.
+[00:41:46-0 @ingosass] Das ist also jetzt so in Italien zum Beispiel der initiale Fall gewesen.
+[00:41:50-3 @ingosass] Man hat also die ersten Bohrungen, die man da abgetäuft hat in den ersten Jahren des letzten Jahrhunderts,
+[00:41:58-0 @ingosass] da war es nicht notwendig, die Bohrung zu verrohren.
+[00:42:01-0 @ingosass] Aber je nachdem wo man ist, also wenn wir jetzt zum Beispiel in den Oberrheingraben geben und dort bohren im Raum Karlsruhe oder ähnliches,
+[00:42:08-2 @ingosass] da müssen die meisten Bohrungen verrohrt werden, weil eben die Gebirgseigenschaften so sind,
+[00:42:12-6 @ingosass] dass das Loch nicht notwendigerweise über die gesamte erwartete Betriebsdauer stabil offen bleibt,
+[00:42:20-4 @ingosass] sondern zerfällt und dann verlieren Sie natürlich möglicherweise Dampfeintritt und so weiter.
+[00:42:26-4 @ingosass] Nach oben hin sind die Bohrungen sowieso verrohrt und einzementiert, um eben eine Verbindung zu oberflächennahen Schichten,
+[00:42:33-7 @ingosass] also auch zum oberflächennahen Grundwasser, Trinkwasser zu vermeiden.
+[00:42:39-0 @ingosass] Sie haben ja andere Nutzungen, die oben dran sind, gerade bei uns.
+[00:42:43-4 @ingosass] Wir sind ja nicht immer Irgendwo auf der Vulkaninsel, wo es sonst keine Nutzung gibt.
+[00:42:48-2 @ingosass] Wir haben ja in eng besiedelten Räumen auch multiple Nutzung des Untergrundes und verschiedene Ansprüche
+[00:42:56-9 @ingosass] und da ist das aus Sicherheitsgründen auf jeden Fall notwendig.
+[00:43:01-3 @ingosass] Es ist auch irgendwo im fernen Outback natürlich notwendig aus Sicherheitsgründen.
+[00:43:10-0 @timpritlove] In dieser oberrheinischen Tiefebene, Sie sagten ja, das wäre so ein bisschen die Ausnahme in Deutschland,
+[00:43:15-9 @timpritlove] da hätte man halt mal vergleichbare Bedingungen, während es überall sonst mit dem Temperaturanstieg bei Bohrungen jetzt nicht so viel mit daher ist.
+[00:43:24-4 @ingosass] Also es gibt in Deutschland drei größere Gebiete, die wir als geothermisch höffig??? bezeichnen,
+[00:43:30-6 @ingosass] die sind aus ganz unterschiedlichen Gründen geothermisch höffig ???.
+[00:43:34-0 @ingosass] Das ist einmal das norddeutsche Tieflandsbecken, dort sind eben durchlässige Schichten so tief abgesenkt im Laufe der Erdgeschichte,
+[00:43:43-6 @ingosass] dass sie eben ausreichend warmes Wasser für eine Stromerzeugung führen.
+[00:43:50-0 @ingosass] Dann gibt es den Bereich des Alpenvorlands, also der Großraum München, besonders der Südraum München,
+[00:43:56-7 @ingosass] wo die Alpen ältere Schichten überfahren haben und die quasi durch ihr Gewicht nach unten drücken
+[00:44:05-1 @ingosass] und dadurch haben wir dort in großer Tiefe bei eben auch entsprechender Durchlässigkeit Thermalwässer und die kann man nutzen.
+[00:44:13-8 @ingosass] Das geschieht auch im Münchner Raum im großtechnischen Maßstab.
+[00:44:18-6 @ingosass] Und dann haben wir den Oberrheingraben, das ist wieder ein anderer Mechanismus, dort ist eine alte, da tat sich in Zeiten des Tertiärs,
+[00:44:25-3 @ingosass] also vor mehr als 2 Millionen Jahren schickte sich der Oberrheingraben an, so eine Art Atlantik zu werden.
+[00:44:32-9 @ingosass] Es setzte dort also ein Krustenbruch ein und es setzte eine Dehnung der Kruste ein.
+[00:44:40-7 @ingosass] Und dort haben wir eben im Oberrheingraben eine sehr sehr dünne Kruste mit einer linearen Anomalie, die von Basel bis Frankfurt geht quasi.
+[00:44:53-4 @ingosass] Sehr unterschiedlich, dann lokal gibt es dann natürlich Maxima und Minima und das ist sehr differenziert im Detail,
+[00:45:00-1 @ingosass] aber dieses Rifting, also dieses Öffnen des Ozeans hat nicht stattgefunden und wir bezeichnen das heute als ein abgebrochenes Riftsystem.
+[00:45:12-1 @ingosass] Also ein abandoned Rift
+[00:45:14-7 @timpritlove] Gescheiterter Ozean sozusagen?
+[00:45:15-9 @ingosass] Ja, also sonst wäre eben, wenn man im Schwarzwald steht, die Pfalz in Amerika, so hat mal ein Kartierlehrer zu mir gesagt.
+[00:45:23-5 @timpritlove] Verstehe.
+[00:45:25-9 @timpritlove] Okay, also es gibt besonders gut geeignete Orte, da kann man dann mit relativ entspannten Tiefen extrem hohe Temperaturen erreichen
+[00:45:38-9 @timpritlove] und im Idealfall schießt da schon der Wasserdampf einem maximal gesättigt trocken entgegen
+[00:45:47-1 @timpritlove] und man muss eigentlich oben nur noch eine Turbine dranhalten und man hat Strom?
+[00:45:51-1 @ingosass] Ja.
+[00:45:53-6 @timpritlove] Habe ich richtig verstanden?
+[00:45:53-9 @ingosass] Ja ist klar, aber jetzt wohnen natürlich oft nicht viele Menschen in der Nähe von Vulkanen aus naheliegenden Gründen.
+[00:45:59-9 @timpritlove] Ja.
+[00:46:00-0 @ingosass] Das heißt, da muss man halt sehen, dass man auch dann Strom erzeugt, weil sich Strom natürlich viel besser transportieren lässt als Wärme zum Beispiel.
+[00:46:09-9 @ingosass] Und deshalb wir haben natürlich jetzt in Deutschland das Problem und die Chance, dass die Wärmesenken die Verbraucher auch auf der Anomalie sitzen.
+[00:46:19-9 @ingosass] Also wenn man jetzt München nimmt, sitzt am nördlichen Rand dieser extremen Anomalie und dort sind entsprechende Wärmesenken da.
+[00:46:28-7 @ingosass] Und dann wird natürlich auch die Wärmeerzeugung aus Geothermie interessant, aus tiefer Geothermie.
+[00:46:34-4 @timpritlove] Ja, aber vielleicht nochmal so zum Vergleich, also es gibt die idealen Orte, da ist man dann 1.000 Meter weiter drin und dann kommt es irgendwie alles schon so fertig
+[00:46:41-7 @timpritlove] und im Idealfall ist es geologisch so stabil, dass man das noch nicht mal weiter sichern muss.
+[00:46:46-8 @timpritlove] So an anderen Stellen muss man das vielleicht, aber ist trotzdem mit vergleichsweise beherrschbarem Aufwand leicht zu bohren.
+[00:46:53-3 @timpritlove] Was ist denn mit den anderen Orten, wo jetzt nur wenige Grad Steigerung sind?
+[00:46:57-7 @timpritlove] Kann man damit auch was anfangen oder ist das dann einfach nicht so geeignet?
+[00:47:00-4 @ingosass] Ja, also entweder Sie bohren tiefer.
+[00:47:02-2 @timpritlove] Ja.
+[00:47:03-4 @ingosass] Dann haben Sie natürlich auch mehr Temperatur.
+[00:47:05-6 @timpritlove] Ja, ist die Frage, wie tief kann man so bohren?
+[00:47:08-0 @ingosass] Das tiefste Loch der Welt ist 13,88 Kilometer tief, liegt auf Murmansk, war eine Forschungsbohrung der damaligen Sowjetunion.
+[00:47:15-6 @ingosass] Da wurde 35 Jahre dran gebohrt, aber ist eine wissenschaftliche Bohrung.
+[00:47:21-7 @ingosass] Deutschland schickte sich mal an, das tiefste Loch der Welt zu bohren, in der kontinentalen Tiefbohrung,
+[00:47:27-3 @ingosass] das war auch noch in Vorwendezeiten und dieses Loch hat eine Tiefe von, ich weiß es nicht genau, 9,2 Kilometer ungefähr.
+[00:47:36-4 @ingosass] Also es gibt nur eine handvoll Bohrungen, die diese magische 10 Kilometermarke überhaupt reißen, was die Tiefe betrifft.
+[00:47:45-4 @ingosass] Die meisten Bohrungen in der Tiefe sind sowieso gesteuert und nicht streng vertikal.
+[00:47:49-0 @ingosass] Also man muss unterscheiden immer, habe ich tatsächlich gebohrte Tiefe oder welche wirkliche Tiefe habe ich erreicht?
+[00:47:58-7 @ingosass] Also heute kann man sagen, also ein Routinejob in der Tiefbohrtechnik endet vielleicht so bei 5,5-6 Kilometer.
+[00:48:06-4 @timpritlove] Okay, das ist beherrschbar.
+[00:48:08-4 @ingosass] Dazwischen alles was tiefer geht, da haben wir es doch schon mit sehr sehr hohen Anforderungen zu tun und das hat schon einen starken F&E-Charakter.
+[00:48:18-1 @ingosass] Es gibt Erdölproduktions- und Erkundungsbohrungen schon aus den 70er Jahren.
+[00:48:27-5 @ingosass] Also mir fällt da eine im Wiener Becken ein in Österreich, die heißt Aderklar2, die ist 8 und ein paar Kilometer tief, ich glaube, 8,7 Kilometer tief.
+[00:48:39-2 @ingosass] Also man hat sowas auch industriell schon gemacht, aber da sind auch geologische Bedingungen, wo im Vorhinein schon klar war, dass das auch machbar ist.
+[00:48:47-6 @ingosass] Wir reden ja aber von Geothermie, wir wollen ja dahin, wo die Temperaturen hoch sind.
+[00:48:51-0 @ingosass] Das ist grundsätzlich bohrtechnisch anspruchsvoller, als wenn man auf Öl und Gas bohrt, wo man eigentlich natürlich nicht so hohe Temperaturen hat.
+[00:48:58-6 @ingosass] Da bohrt man ja an Stellen, wo man hohe Temperaturen vermeidet, weil sonst ist ja die Gaslagerstätte hinüber durch die Temperatur.
+[00:49:06-1 @ingosass] Und das heißt also, in der Geothermie gibt es diesen Zielkonflikt, in der Tiefengeothermie grundsätzlich dort, wo die Temperatur besonders vielversprechend ist,
+[00:49:19-3 @ingosass] sind in der Regel die bohrtechnischen Bedingungen besonders schwierig.
+[00:49:22-7 @ingosass] Und deshalb ist im Moment so bei 5,5-6 Kilometer das, was man technisch reproduzierbar und im großen Maßstab machen kann,
+[00:49:31-3 @ingosass] alles, was tiefer geht, ist noch stärker eine Einzelfallbetrachtung als ohnehin schon.
+[00:49:40-0 @timpritlove] Aber wenn ich jetzt mal das durchrechne, Sie sagten ja vorhin, 3 Grad pro 100 Meter, da ist man ja dann bei 5 Kilometer auch schon bei ganz ordentlichen Temperaturen.
+[00:49:47-9 @ingosass] Ja, da sind Sie in diesen verstromungsfähigen Temperaturen, also das hängt dann wieder von der geologischen Situation ab und dem Standort im Detail,
+[00:49:54-5 @ingosass] und die 3 Grad sind ja auch nur ein Mittelwert.
+[00:49:58-8 @ingosass] Also da haben wir natürlich dann eben 150-180-220 Grad und Sie können
+[00:50:05-2 @ingosass] in dem Temperaturenbereich gibt es verschiedene Kraftwerksanordnungen, mit denen man Strom erzeugen kann.
+[00:50:11-9 @ingosass] Und das ist auch in verschiedenen Bohrungen und Projekten ein Thema und an solchen Dingen arbeiten wir auch.
+[00:50:21-7 @timpritlove] Aber da lese ich doch jetzt eigentlich raus, dass man doch im Prinzip an sehr vielen Orten mal ein Loch machen könnte und dann kommt da Energie raus.
+[00:50:29-3 @ingosass] Das sehen wir so, ja.
+[00:50:30-9 @ingosass] Deshalb wird auch in der Geothermie geforscht.
+[00:50:34-4 @ingosass] Deutschland ist das zweitgrößte Mitglied, also wenn Sie Institutionen, Firmen und Mitglieder nehmen in der internationalen geothermischen Assoziation.
+[00:50:44-7 @ingosass] Da sehen Sie, dass da auch ein Exportinteresse dahinterstecken muss, das sind ja nicht nur Wissenschaftler, die da dabei sind.
+[00:50:50-5 @ingosass] Und also der deutsche Beitrag zu Geothermieforschung in der Welt ist sicherlich größer als das Potenzial, das wir terrestrisch selber haben.
+[00:51:00-4 @timpritlove] Gibt es denn da ein Umweltrisiko mit diesen Bohrungen?
+[00:51:03-7 @ingosass] Also erst mal ist das ein technisches Tun und es gibt da immer Risiken.
+[00:51:08-7 @ingosass] Und Sie bohren natürlich durch Schichten, die Sie manchmal auch nicht gut kennen und man versucht natürlich durch die Vorerkundung möglichst so viel zu erfahren,
+[00:51:18-1 @ingosass] dass man eben diese Risiken richtig einschätzt und damit auch beherrschen kann.
+[00:51:22-7 @ingosass] Aber es ist natürlich immer wieder vorgekommen, auch im Öl- und Gasbereich oder in der Tiefbohrtechnik zu anderem Grund, dass es zu Havarien gekommen ist oder anderen Dingen.
+[00:51:33-5 @timpritlove] Oder dass man auf was anderes gestoßen ist als man dachte?
+[00:51:36-3 @ingosass] Ja, es gibt in Deutschland in der Fachszene einen relativ berühmten Fall.
+[00:51:41-1 @ingosass] Man hat in Speyer, wann war denn das, so 2000 herum, hat man angefangen auf Geothermie zu bohren und ist dann ölfündig geworden.
+[00:51:54-5 @ingosass] Also diese Bohrung in Speyer ist heute eins der Ölfelder in Deutschland, das konstant mit den dauerhaft größten Förderbeitrag liefert.
+[00:52:07-4 @timpritlove] Ohne dass man damit gerechnet hätte?
+[00:52:08-6 @ingosass] Man hat damit nicht gerechnet, nein.
+[00:52:10-3 @ingosass] Also das war ein Geothermieprojekt und man hat das dann abgebrochen wegen der Ölfündigkeit und dort haben dann Kollegen die Gunst der Stunde genutzt
+[00:52:20-4 @ingosass] und sich eben da die Förderrechte gesichert und sind da heute, glaube ich, sehr erfolgreich, selbst jetzt in der letzten Phase,
+[00:52:26-8 @ingosass] wo der Ölpreis ja sehr sehr schlecht war.
+[00:52:29-8 @ingosass] Also diese Förderung in Speyer läuft durch.
+[00:52:33-2 @timpritlove] Aber das ist ja eher die Ausnahme, dass man auf Erdöl trifft.
+[00:52:35-5 @ingosass] Ja, wir haben fast überall im Untergrund Öl- und Gasphasen, also man findet immer in geringen Mengen Spurenöl und Gas, fast überall.
+[00:52:45-9 @ingosass] Zumindest in den sedimentären Teilen des Untergrundes.
+[00:52:51-6 @ingosass] Und das muss man dann im Einzelfall eben beurteilen, wann wird die Gasführung so stark, dass es Risiken für die Bohrung gibt, wann ist das nicht der Fall?
+[00:52:58-2 @ingosass] Also dass Sie zum Beispiel, wenn Sie auf Geothermie bohren, gerade in den oberflächennaheren zwei Kilometern,
+[00:53:04-9 @ingosass] dass Sie da auf Öl und Gas monitoren während Sie bohren, das ist völlig normal.
+[00:53:11-6 @timpritlove] Und außer dass man auf ein Erdölfeld stoßen kann, gibt es noch andere Risiken?
+[00:53:17-9 @ingosass] Ja, Sie können natürlich auf zum Beispiel gespanntes Grundwasser stoßen, auch oberflächennaher Bereich ist da vielleicht eher kritisch.
+[00:53:26-1 @ingosass] Das heißt, dass Ihnen das Grundwasser bis über die Geländeoberkante entgegenkommt,
+[00:53:30-1 @ingosass] da müssen Sie natürlich entsprechende Maßnahmen treffen durch Präventa und Absperrvorrichtungen.
+[00:53:36-3 @ingosass] Immer wenn Sie eine Flüssigkeit fördern, können Sie etwas fördern, was sonst noch so im Untergrund ist.
+[00:53:45-0 @ingosass] Also was weiß ich, metallische Verbindungen, die eben nicht gesund sind, also die toxisch sind etc. pp.
+[00:53:51-7 @ingosass] Das kann vorkommen, das gibt es in einzelnen Fällen.
+[00:53:54-8 @ingosass] Ich meine, das ist ja der Untergrund, den wir sonst auch zur Lagerstättenerkundung nutzen.
+[00:53:58-8 @ingosass] Und da, wo Sie zum Beispiel große Kupfervorkommen haben, haben Sie auch Begleitmetalle, die eben Schwermetalle sind oder seltene Erden.
+[00:54:06-9 @ingosass] Es kommt immer darauf an, was man damit macht.
+[00:54:10-4 @timpritlove] Aber es ist jetzt, sagen wir mal, eher eine Gefährdung, also es gefährdet eher die Bohrung als solche und es ist jetzt nicht unmittelbar ein großes Umweltrisiko
+[00:54:23-7 @timpritlove] oder heißt das schon so, dass wenn man da die falsche Stelle bohrt, dass dann Schwermetalle …
+[00:54:27-6 @ingosass] Wenn wir bohren und in Deutschland unter Bergrecht und unter Betriebsplanaufsicht, dann gehen wir eigentlich davon aus, dass eine sichere Angelegenheit ist.
+[00:54:36-8 @ingosass] Aber es ist nicht von vornherein klar, dass eine Bohrung erfolgreich ist.
+[00:54:40-1 @ingosass] Es gibt Bohrungen, die werden eingestellt, weil zum Beispiel dann die Risiken zu groß werden, dann muss die Bohrung aufgegeben werden, zementiert werden, rückgebaut werden.
+[00:54:47-7 @ingosass] Dann muss man sich überlegen, was man da tut.
+[00:54:50-2 @ingosass] Das ist aber kein Geothermiespezifikum.
+[00:54:54-0 @ingosass] Sondern das ist eine grundsätzliche Fragestellung der Tiefbautechnik.
+[00:54:59-9 @timpritlove] Gut, also ich meine, es ist auf jeden Fall nicht ohne Risiko, soviel kann man schon mal festhalten,
+[00:55:03-7 @timpritlove] aber das Risiko ist in gewisser Hinsicht auch abschätzbar.
+[00:55:07-8 @ingosass] Also Autofahren ist gefährlicher, ich meine das auch gar nicht lächerlich.
+[00:55:11-2 @ingosass] Und ich bin auch nicht jemand, der Risiken kleinredet oder unterschätzt.
+[00:55:15-5 @ingosass] Aber sicherlich gehen wir mit einem vollgetankten Auto wesentlich sorgloser um, als der Aufwand, der zum Teil bei Tiefbohrungen mit weniger toxischen, weniger explosiven Stoffen betrieben wird.
+[00:55:30-0 @timpritlove] Ja gut, meine Frage geht ja auch eher so ein bisschen in diese Richtung, was hält uns eigentlich davon ab,
+[00:55:35-0 @timpritlove] alle zwei Kilometer irgendwie so eine Bohrung zu haben und an der Stelle die auftretende Wärme einfach für Strom oder Wärmeenergie zu nutzen?
+[00:55:45-3 @ingosass] Also man kann das jetzt natürlich konfrontativ diskutieren, könnte man die Hypothese machen,
+[00:55:52-6 @ingosass] weil die Lobbyinteressen im Bereich Wind und Sonne stärker waren.
+[00:55:57-2 @timpritlove] Ich meine, hält uns technisch irgendwas davon ab?
+[00:55:59-8 @ingosass] Nein, würde ich sagen, nein, es ist vor allen Dingen, ich glaube, die Wahrnehmung von Geothermie und Geothermierisikey in der Gesellschaft und in der Politik, die hält uns eher davon ab.
+[00:56:14-9 @ingosass] Sehen Sie, wir leisten uns ja Windanlagen Offshore zu bauen, das fachliche Argument ist natürlich,
+[00:56:22-5 @ingosass] weil dort die 4.000 Volllaststunden entstehen können, weil natürlich in der Nordsee immer Wind geht.
+[00:56:30-0 @ingosass] Wir haben es aber, ich bin überzeugt davon, auch deshalb gemacht, weil wir den öffentlichen Widerstand so vermieden haben.
+[00:56:37-8 @timpritlove] Weil da wohnt ja keiner?
+[00:56:38-6 @ingosass] Ein Teil dieses Widerstandes hat man jetzt beim Bau der Stromtrassen in den Süden vermutlich.
+[00:56:43-4 @ingosass] Ich meine, vielleicht ist am Ende die Summe des Widerstandes gleich.
+[00:56:48-0 @ingosass] Weiß man nicht, wer weiß das schon.
+[00:56:49-3 @timpritlove] Weil man jetzt sozusagen die im Norden gewonnenen Energiemengen in den Süden transferieren muss und dafür die entsprechenden Leitungen braucht
+[00:56:53-3 @ingosass] Wir haben ja vier Hauptstromtrassen und große Projekte, große wichtige Infrastrukturprojekte, an denen wir übrigens auch beteiligt sind wissenschaftlich.
+[00:57:02-5 @ingosass] Aber ich glaube schon, dass man mit dem Offshore-Wind nicht nur einen hohen Wirkungsgrad für die Windstromerzeugung erzielt hat,
+[00:57:11-7 @ingosass] der immer noch weit unter dem von der Geothermieanlage liegt, aber das ist noch ein anderes Thema.
+[00:57:16-2 @ingosass] Man hat aber auch ein Teil der Probleme mal für ein paar Jahre Offshore gelagert
+[00:57:22-0 @ingosass] und die kommen jetzt durch den Trassenbau möglicherweise zurück.
+[00:57:25-9 @ingosass] Gesellschaftliche Akzeptanz von Technikmaßnahmen ist ein immer dringenderes Problem
+[00:57:32-1 @ingosass] und die Geothermie hat es da besonders hart erwischt.
+[00:57:35-8 @timpritlove] Dann malen wir doch jetzt mal eine rosige Zukunft auf Basis dessen, was Sie für technisch realisierbar halten
+[00:57:44-9 @timpritlove] und gehen wir mal davon aus, dass die Gesellschaft gerade nichts besseres zu tun hat, als Ihnen irgendwie Rückenwind zu geben.
+[00:57:50-0 @timpritlove] Was wäre denn eine realistische, bezahlbare über einen absehbaren Zeitraum entwickelbarer Beitrag der Geothermie, der auch sinnvoll wäre?
+[00:58:03-3 @timpritlove] Was brauchen wir denn am meisten?
+[00:58:03-9 @timpritlove] Brauchen wir Wärme, brauchen wir Strom, brauchen wir beides, schließt sich das nicht aus?
+[00:58:07-3 @ingosass] Also ich würde schon einen klaren Schwerpunkt bei Wärme sehen.
+[00:58:12-3 @ingosass] Das sieht man auch an den Geothermiezahlen.
+[00:58:15-0 @ingosass] Die Wärmenutzung ist wesentlich verbreiteter und der Wärmeanteil an den erneuerbaren Energien aus geothermischen Quellen ist deutlich erhöht.
+[00:58:25-1 @ingosass] Im Strombereich ist es so, wenn wir uns auf diese anomalen Zonen konzentrieren, die ich Ihnen ja nannte,
+[00:58:31-1 @ingosass] also ich sage mal, den Südraum München, dann Teile des norddeutschen Beckens, so vielleicht auf einer Linie nördlich Berlin, Hannover, dann nach Westen.
+[00:58:45-0 @ingosass] Und wenn man die Bereiche im Oberrheingraben nimmt, wo man bohren kann, Sie können ja schlecht mitten in einer Siedlung oder in einem Haus bohren
+[00:58:55-8 @ingosass] und man die Potenziale, die doch stark kartiert wurden in den letzten 10 Jahren dazukommt,
+[00:59:02-0 @ingosass] dann kann man vielleicht sagen, 5% Primärenergiebeitrag, also Strombeitrag aus Geothermie, wäre technisch mit heutigen Möglichkeiten machbar.
+[00:59:14-8 @timpritlove] Wieviele Orte müsste man dazu erschließen?
+[00:59:17-6 @ingosass] Auch das ist eine interessante und auch nicht leicht zu beantwortende Frage.
+[00:59:24-6 @ingosass] Am Anfang vor 15-20 Jahren, als man so verschiedene Alternativen zu Kernkraft, Kohlestrom diskutierte,
+[00:59:34-4 @ingosass] da waren in den politischen Köpfen der Republik immer noch diese Idee, ich schalte einen AKW-Block mit 1.000 Megawatt Leistung ab
+[00:59:45-2 @ingosass] und baue ein, was weiß ich, Windpark oder Geothermiekraftwerk oder Photovoltaikplant mit 500.000 Megawatt Leistung.
+[00:59:56-5 @ingosass] Das geisterte so da durch.
+[00:59:57-8 @ingosass] Das ist nicht so.
+[00:59:59-8 @ingosass] Das sehen Sie, wenn Sie heute durch den Rheingau fahren und die ganzen Windräder sehen
+[01:00:03-2 @ingosass] oder wenn Sie mal die Windparkkarte der Nordsee anschauen, dann ist das natürlich eine enorme Inanspruchnahme der Fläche
+[01:00:13-6 @ingosass] und da kann die Geothermie auch nicht substanziell etwas anderes liefern.
+[01:00:20-0 @ingosass] Also eine tiefengeothermische Stromerzeugungsanlage hat, wenn ich Lernkurve und alles mit verpreise,
+[01:00:28-4 @ingosass] was wir dazu noch bräuchten, die hat dann vielleicht 20-40 Megawatt Leistung.
+[01:00:33-6 @ingosass] das heißt, auch tiefe Geothermie ist zwar nicht so ein zersiedelndes Element wie jetzt Windkraft,
+[01:00:39-4 @ingosass] aber auch tiefe Geothermie besteht eben aus zum Beispiel 10 oder 50 Kleinanlagen, um ein wirklich großes Kohlekraftwerk zu ersetzen.
+[01:00:52-8 @ingosass] So diese Erkenntnis hat sich also in den letzten Jahren dann erst mal durchgesetzt.
+[01:00:57-7 @timpritlove] Das sind jetzt aber keine Anlagen, die jetzt so sichtbar raumgreifend sind wie eine Windanlage, sondern da ist dann sozusagen auf dem Loch nur noch etwas Gebäude und da findet der Prozess statt?
+[01:01:07-9 @ingosass] Ja da ist natürlich auf dem Loch … also es sind ja in der Regel auch mehrere Löcher,
+[01:01:11-1 @ingosass] also wir reden ja im Idealfall von einer Dublette, also einer Bohrung, wo man Dampf oder heißes Wasser entnimmt und in einer anderen Bohrung das wieder versenkt
+[01:01:21-2 @ingosass] und im Untergrund im Kreislauf führt.
+[01:01:24-8 @ingosass] Auch das ist ein Aspekt, was die Umweltfragen betrifft.
+[01:01:28-6 @ingosass] Sie entnehmen dann keine Stoffe, die irgendwie problematisch sind, sondern Sie führen die im Kreislauf.
+[01:01:35-5 @ingosass] Aber tatsächlich sind es natürlich bei einer Anlage, die jetzt mal theoretisch 20 Megawatt elektrische Leistung hat
+[01:01:41-0 @ingosass] und vielleicht noch dazu 50 oder 100 Megawatt thermische Leistung hintendran,
+[01:01:48-3 @ingosass] da würde man natürlich nicht mit zwei Bohrungen arbeiten.
+[01:01:50-4 @ingosass] Die Dublette ist nur ein Gedankenmodell, das sind dann vielleicht 15-20 Bohrungen,
+[01:01:55-0 @ingosass] die von einem Bohrpunkt aus mit Richtbohrtechnik so spinnenartig dann in das Reservoire hineingebohrt werden.
+[01:02:06-6 @ingosass] Und da wird natürlich eine Kraftwerksanlage drauf sein.
+[01:02:09-5 @ingosass] Die ist dann nicht so groß wie ein 500 Megawatt Kohlekraftwerk, die ist dann eben so groß wie ein 20 Megawatt Kraftwerk.
+[01:02:18-5 @ingosass] Mit Kühlern und Stationen und Transformatoren und Einbindungen und Sicherheitsbereich und Verwaltungsgebäude und was so dazu gehört.
+[01:02:27-8 @ingosass] Erneuerbare Energie ist ja nicht per se eine grüne Technik, sondern das ist vor allen Dingen eine Technik.
+[01:02:33-8 @ingosass] Und das betrifft Wind und Photovoltaik und die anderen.
+[01:02:37-8 @ingosass] Wir müssen akzeptieren, wenn wir weiter Strom und Energie verbrauchen in dem Maße, wie wir das tun, dann werden wir auch die technischen Anlagen dazu bauen müssen.
+[01:02:45-5 @ingosass] Und das gilt auch für die Geothermie.
+[01:02:47-4 @ingosass] Aber ein Großteil dieser Erzeugungselemente liegt natürlich im Untergrund und ist damit nicht sichtbar und verbraucht damit auch keinen Raum,
+[01:02:56-6 @ingosass] aber dass Geothermie, dass wir mal eine 1.000 Megawatt Geothermieanlage, die dann eben 1.000 Megawatt elektrische Leistung hat, an einem Ort bauen,
+[01:03:08-3 @ingosass] das halte ich mit heutiger Bohrtechnik und mit der Perspektive auf Tiefe und Temperatur, die wir erschließen können für Science Fiction.
+[01:03:19-1 @ingosass] Natürlich arbeitet man daran und denkt darüber nach und wir gehen auch Richtung superkritische Reservoire,
+[01:03:24-5 @ingosass] aber dass wir dort solche Größenordnungen erreichen, halte ich nicht für ein vernünftiges Planungskonzept und darauf sollten wir auch nicht warten.
+[01:03:31-4 @timpritlove] Ja, ich denke, dass wir dann auch mit kleineren Kraftwerken, die dann verteilt sind, die Energie auch sehr viel mehr in die Gebiete bringt, wo sie auch wirklich konkret gebraucht werden.
+[01:03:37-5 @ingosass] Ja.
+[01:03:38-2 @timpritlove] Weil wenn man jetzt einen Überschuss hat, müsste man den ja auch erst mal wieder transferieren und über neue Stromtrassen arbeiten.
+[01:03:42-3 @ingosass] Natürlich, das ist für die Nahwärmevesorgung auch wesentlich günstiger, weil Sie sonst riesige Netze brauchen,
+[01:03:47-4 @ingosass] aber das heißt natürlich auch, die Bevölkerung hat natürlich, wenn Sie gedanklich in so ein Gebiet hineingehen,
+[01:03:55-1 @ingosass] wie den Südraum von München, da haben Sie natürlich in jeder größeren Ortschaft mittlerweile eine nennenswerte Geothermieaktivität.
+[01:04:05-1 @ingosass] Wenn Sie an Unterhachingen vorbeifahren, das werden Sie so auf der Autobahn gar nicht wahrnehmen, dass die Anlage da ist,
+[01:04:10-5 @ingosass] aber wenn Sie da in ein bestimmtes Areal gehen, dann stehen Sie vor einem Gewerbegebäude.
+[01:04:17-8 @ingosass] Und da gibt es auch eben Kühler und da gibt es auch einen kleinen Kamin.
+[01:04:22-7 @timpritlove] Das heißt, es ist jetzt auch nicht theoretisch, es gibt diese Anlagen bereits?
+[01:04:25-0 @ingosass] Es gibt diese Anlagen, ja.
+[01:04:26-4 @timpritlove] In welcher Zahl?
+[01:04:28-9 @ingosass] Also ich …
+[01:04:29-4 @timpritlove] Größenordnung.
+[01:04:30-3 @ingosass] Größenordnung, also in München arbeitet man dran, die gesamte Fernwärmeversorgung auf geothermische Quellen umzustellen
+[01:04:37-7 @ingosass] und dort gibt es jetzt, also im Raum zwischen München und der Alpenkante, gibt es so eine Größenordnung von 50 Anlagen, die laufen.
+[01:04:46-5 @timpritlove] Und wieviel müssten es sein, um jetzt diese 5%, von denen Sie sprachen, für Bayern zu sichern?
+[01:04:51-1 @ingosass] Na gut, da müsste man da mehr Strom erzeugen, deshalb habe ich Ihnen ja gesagt, ich glaube, im Vorgespräch,
+[01:04:56-5 @ingosass] dass das wärmegeführte Anlagen sind, die erzeugen also nur Strom, wenn die Stadtwerke oder Versorgerverbünde keine Wärme abgeben können.
+[01:05:06-8 @ingosass] Man müsse dann das natürlich auf Strom umstellen und ich habe mir das noch nicht überlegt für den Bereich München,
+[01:05:15-3 @ingosass] ich kann das vielleicht für den Oberrheingraben sagen, da hätten wir quasi in der Nähe jeder 10.000-15.000 Leute-Siedlung eine geothermische Anlage.
+[01:05:31-7 @ingosass] Also Sie könnten von der einen die nächste sehen, so ähnlich wie die Bismarck-Türme.
+[01:05:35-8 @timpritlove] Und damit wäre dann aber auch schon eine relativ solide Wärmeversorgung für diese Besiedelungsgebiete möglich oder?
+[01:05:43-8 @ingosass] Also die würden ja Strom erzeugen dann, so wie wir das jetzt mal diskutiert haben.
+[01:05:48-5 @ingosass] Und dabei hätten wir soviel Co-Generation von Wärme, dass wir sicherlich stark drüber nachdenken würden,
+[01:05:56-2 @ingosass] wie bringen wir das als Prozesswärme in Produktionsprozesse unter und so weiter.
+[01:06:01-2 @ingosass] Also das wäre weit weitaus mehr als wir jemals an Gebäudewärme bräuchten.
+[01:06:06-1 @timpritlove] Für diese 10.000 Leute, die das betrifft?
+[01:06:09-5 @ingosass] Ja.
+[01:06:10-3 @timpritlove] Klingt ja eigentlich nach einer tollen Lösung.
+[01:06:11-1 @timpritlove] Man hat quasi kostenlose Heizung für alle, kann sogar noch, Prozesswärme bedeutet ja Wärme, die man im industriellen Bereich dann verwenden kann oder?
+[01:06:21-5 @ingosass] Ja, Sie kaufen keinen Brennstoff, so wie Sie keinen Wind kaufen, aber Sie haben natürlich schon Kosten, die Sie natürlich auch auf die Abnehmer dann umlegen müssen.
+[01:06:30-0 @timpritlove] Ja klar, aber es ist halt dann eben CO2-neutral und man muss nicht irgendwelche Dinosaurier verbrennen.
+[01:06:34-5 @ingosass] Ja, das ist auf jeden Fall so.
+[01:06:37-4 @timpritlove] Wenn es diese Anlagen jetzt schon gibt, was ist denn so der Hauptgrund dafür, dass wir jetzt diese Dichte, die wir jetzt gerade mal ausgerechnet haben,
+[01:06:46-4 @timpritlove] die ja ganz hilfreich werden, nicht haben?
+[01:06:50-2 @ingosass] Zum einen haben wir ein Phänomen, man kann eine Geothermieanlage nicht nach dem Prinzip Copy&Paste planen, weil die Untergrundverhältnisse sich ändern.
+[01:07:03-5 @ingosass] Sie müssen immer eine standortbezogene Planung, Konzept etc. pp. machen.
+[01:07:08-0 @ingosass] Also das heißt, diese Anlagen, was oben drauf ist Übertage, also die verfahrenstechnischen Anlagen,
+[01:07:14-8 @ingosass] da gibt es sozusagen von der Stange, das ist eine Bemessungsfrage.
+[01:07:18-2 @timpritlove] Wenn die Wärme erst mal da ist, weiß man, was man damit macht.
+[01:07:20-3 @ingosass] Ja, aber der Untergrundteil muss halt im einzelnen ingenieurtechnisch geplant und erschlossen werden
+[01:07:25-3 @ingosass] und das führt zu sehr lokalen Betrachtungen.
+[01:07:31-9 @ingosass] So dann ist in der Regel eine Geothermieanlage auch immer ein Eingriff, also wir reden weiterhin von tiefer Geothermie, möchte ich noch sagen,
+[01:07:41-9 @ingosass] ist ein Eingriff in die lokale Struktur und das wird halt wahrgenommen.
+[01:07:44-7 @ingosass] Und es hat halt in der Vergangenheit verschiedene Fälle gegeben, wo eben im Zusammenhang mit Geothermie künstliche Seismizität in Rede stand.
+[01:07:57-7 @ingosass] Also künstliche Mikroerdbeben, die erzeugt wurden durch das geothermische Tun und bohrtechnisch Tun.
+[01:08:04-8 @ingosass] Übrigens nicht nur in der Geothermie, also auch im Öl- und Gasbereich, was völlig „normal“ ist.
+[01:08:11-3 @ingosass] Und das hat besonders durch einen Vorfall in Basel zu einer sehr ungünstigen öffentlichen Wahrnehmung geführt.
+[01:08:21-4 @timpritlove] Was ist da passiert?
+[01:08:22-4 @ingosass] In Basel hat man ein Projekt gehabt, das hieß DHM, Deep Heat Mining, die Idee war, ich bohre zwei Bohrungen in den Untergrund
+[01:08:31-9 @ingosass] und nehme die eine Bohrung her und verpresse dort mit hohem Druck Wasser und durch diese Wasserverpressung erzeuge ich Risse im Gestein
+[01:08:41-3 @ingosass] und erhöhe die Permeabilität, damit ich später eben diese Kreislaufführung des Thermalwassers machen kann und verstromen kann.
+[01:08:48-9 @ingosass] Und das ist in Basel gewesen im Jahr …
+[01:08:56-9 @timpritlove] 2010 wurde es eingestellt, ich weiß nicht genau, wann es los ging.
+[01:08:59-4 @ingosass] Nein, das war 2004 oder so, glaube ich, Nikolausbeben 2004 müsste es gewesen sein.
+[01:09:05-6 @timpritlove] Erste Probebohrung 2005.
+[01:09:08-2 @ingosass] Dann war es … also 08.12.2005 war das dann, wo es ein seismisches Ereignis der Magnitude 3,1 oder 3,2 gegeben hat
+[01:09:20-9 @ingosass] und das steht auf jeden Fall im Zusammenhang mit dieser Aktivität.
+[01:09:26-2 @timpritlove] Dezember 2006 war das.
+[01:09:27-7 @ingosass] 2006 na gut, war es dann da.
+[01:09:30-3 @ingosass] Und steht auf jeden Fall im Zusammenhang mit dieser Aktivität und das Novum war …
+[01:09:36-4 @ingosass] Also man macht das in Norddeutschland schon seit 50 Jahren im Öl- und Gasbereich, aber natürlich nicht mitten in einer Stadt wie Basel.
+[01:09:46-3 @ingosass] Und es ist eben so, ich will jetzt auch nicht so in die Seismologie einsteigen, aber Sie können eben bei Beben in der Tiefe, in 5 Kilometer Tiefe ungefähr,
+[01:09:56-7 @ingosass] mit einer Magnitude von 3, da ist das Beben eben nicht nur spürbar, dass Sie also ein deutliches, wie sagt man, da flirren die Gläser im Schrank etc. pp.,
+[01:10:08-8 @ingosass] sondern das ist auch hörbar.
+[01:10:10-0 @ingosass] Und wenn Sie natürlich so ein seismisches Ereignis in einer dicht besiedelten Stadt auslösen und das knallt dann da.
+[01:10:18-8 @ingosass] Ich war nicht selbst dabei, also ich kenne auch nur die Medienberichte und die Berichte von Kolleginnen und Kollegen,
+[01:10:26-5 @ingosass] und dann ist natürlich die Wahrnehmung besonders deutlich.
+[01:10:31-1 @ingosass] Und dann gab es auch multiple Schadensmeldungen, also Risse im Putz und Mauerwerk und so weiter.
+[01:10:42-2 @ingosass] Und dann, glaube ich, ist etwas sehr verhängnisvolles passiert in Abstimmung mit dem Versicherer.
+[01:10:48-2 @ingosass] Der Versicherer des Projektes hat sich dann entschieden, also in einer Kosten-Nutzen-Abwägung, einen wesentlichen Teil dieser Schäden zu regulieren.
+[01:10:59-1 @ingosass] Die nicht evident mit dem seismischen Ereignis zusammenhängen.
+[01:11:01-3 @ingosass] Also wir wissen das aus anderen Fällen, wenn man zu den Leuten geht und sagt, also da hat ja die Erde gebebt, wo hat denn dein Haus Risse bekommen?
+[01:11:10-7 @ingosass] Dann fangen die meisten erst an zu schauen und da sind sehr sehr viele Risse dabei, die eben schon da waren oder ein großer Teil.
+[01:11:17-8 @ingosass] Also die Wahrnehmung ist da auch eine andere als das tatsächliche Schadenspotenzial,
+[01:11:22-4 @ingosass] aber es sind damals in Basel unbürokratisch eine enorme Anzahl an behaupteten Schäden reguliert worden
+[01:11:31-8 @ingosass] und in der medialen Wahrnehmung kam dann meiner Meinung nach heraus, dass also die Geothermie Schaden anrichtet, weil die haben das ja auch bezahlt, also haben sie es ja auch angerichtet,
+[01:11:40-2 @ingosass] das war eine versicherungsökonomisch und rechtliche Überlegung, die dazu geführt hat, keine fachtechnische.
+[01:11:49-9 @ingosass] Und dieses Thema Basel ist dann besonders in Deutschland und im Elsass, also in Frankreich, sehr sehr stark aufgegriffen worden
+[01:12:00-8 @ingosass] und ist von verschiedenen Bürgerinitiativen und Interessengruppen instrumentalisiert worden und das führte eben dazu,
+[01:12:10-1 @ingosass] dass es enormen öffentlichen Widerstand zum Teil für tiefe Geothermieprojekte gibt, also besonders im Oberrheingraben
+[01:12:23-5 @ingosass] und dieser öffentliche Widerstand hat halt auch schon sehr sehr viele Projekte, also das fündigste überhaupt zum Beispiel in Deutschland, das wir haben,
+[01:12:31-9 @ingosass] das wäre in Brühl bei Heidelberg, da ist schon eine Bohrung unten, da hat man dann mit verschiedenen Mitteln die zweite verhindert
+[01:12:41-5 @ingosass] und hat da eben dazu geführt, dass da viele Projekte in große Schwierigkeiten geraten sind oder auch gar nicht durchgeführt wurden
+[01:12:47-9 @ingosass] und mittlerweile ist es natürlich so, dass der Leumund der Geothermie durch diese Vorgänge nicht so gut ist
+[01:12:54-1 @ingosass] und wir auch Schwierigkeiten haben, eben auch Investoren zu finden, die sich des Themas annehmen.
+[01:13:00-4 @timpritlove] Ja, das ist auch so ein bisschen so eine gewisse Nähe zu den Problematiken, die das Fracking mit sich bringt,
+[01:13:06-9 @timpritlove] weil da ja auch solche Erdbeben induziert werden etc.
+[01:13:10-2 @ingosass] Ja, also Fracking ist natürlich auch ein Thema.
+[01:13:12-6 @ingosass] Ich bin auch an einem der Gutachten fürs Umweltbundesamt beteiligt gewesen zum Thema Fracking an dem ersten.
+[01:13:19-9 @ingosass] Und natürlich ist das für uns auch ein Thema, mit dem wir uns da sehr stark auseinandersetzen müssen.
+[01:13:27-2 @ingosass] Aber wissen Sie, wie wir ja vorhin anfingen, als ich so anfing zu studieren, dann machst du dieses Fach und dann arbeitest du eine Weile in der Industrie
+[01:13:36-7 @ingosass] und dann hast du die Chance zurückzugehen an die Universität, im Jahr 2005, also als die erneuerbaren Energien und die Notwendigkeit so am Horizont erschien
+[01:13:48-2 @ingosass] und dann denkst du, du machst Geothermie und gehörst zu den Guten und wenn du dann so da drinsteckst und du kommst dann zum Standort XY mit den berechtigten Fragen der Bürger,
+[01:14:01-9 @ingosass] und stellst dann auf einmal fest, du gehörst gar nicht zu den Guten, du gehörst zu den Bösen, die eine schadenbringende üble Technik …
+[01:14:12-3 @timpritlove] Also zumindest in der Wahrnehmung der Leute.
+[01:14:13-8 @ingosass] Ja, in der Wahrnehmung in der Leute bringt das etwas, das mussten wir erst lernen, auch in der Geothermiebranche.
+[01:14:20-5 @ingosass] Der Umgang mit der Öffentlichkeit auf den waren wir nicht vorbereitet, da will ich mich auch gar nicht ausnehmen.
+[01:14:25-1 @ingosass] Ich habe da auch ein paar Bürgertermine wahrgenommen in der Vergangenheit, da hätte ich mich auch geschickter verhalten können.
+[01:14:33-5 @ingosass] Bin ich im Nachgang ganz sicher.
+[01:14:35-6 @ingosass] Aber ist egal, dann lass uns doch lieber unsere Energie und unsere Produktion Irgendwo im Ausland machen, wo wir das dann vielleicht mit Kinderarbeit oder ganz andere Bedingungen haben
+[01:14:44-6 @ingosass] und da ist das dann alles gut, Hauptsache nicht vor meiner Tür.
+[01:14:47-5 @ingosass] Dieser deutsche Logikschluss, mit dem habe ich große Schwierigkeiten und da muss man sich immer sehr zusammennehmen,
+[01:14:56-8 @ingosass] da nicht noch deutlichere Worte zu finden.
+[01:14:59-0 @timpritlove] Na gut, aber um das mal auseinanderzuhalten, es gab einige Experimente, wie das immer so ist, wenn man versucht, große Schritte zu machen,
+[01:15:07-9 @timpritlove] dann fällt man halt auch manchmal hin, hat man auch gesehen, okay alles klar, das ist jetzt vielleicht keine gute Idee, da so vorzugehen.
+[01:15:16-1 @timpritlove] Aber das ändert ja nichts an der Tatsache, dass man eben sehr wohl mit kalkulierbarem Risiko und das Risiko im wesentlichen auf die Technik,
+[01:15:24-6 @timpritlove] quasi die Exploration selber im wesentlichen beschränkt ist, mit einem kalkulierbaren Risiko und damit eben auch mit einem kalkulierbaren finanziellen Aufwand
+[01:15:34-9 @timpritlove] Systeme bauen kann, die dauerhaft Energie liefern, ohne da noch groß was hinzuführen zu müssen und es liefert Strom und es liefert Wärme.
+[01:15:46-0 @timpritlove] Und die Systeme wären replizierbar, man muss bloß immer auf die jeweiligen lokalen Gegebenheiten Rücksicht nehmen, bzw. die in die Planung mit einfließen lassen?
+[01:15:56-9 @ingosass] Ja. Auch dieses Erzeugen von Seismizität, nichts ist ja nicht so schlecht, dass es nicht zu irgendetwas gut wäre.
+[01:16:05-0 @ingosass] Also natürlich sind die negativen Erfahrungen mittlerweile auch genutzt worden.
+[01:16:08-5 @ingosass] Es ist also die jüngste Tiefbohrung, die nicht fündig war aus anderen Gründen, aber die niedergebracht wurde,
+[01:16:15-4 @ingosass] war im südlichen Rhein-Main-Gebiet bei Trebur, dort ist also eine 4,7 Kilometer Bohrung ohne jedwedes seismisches Ereignis abgetäuft worden.
+[01:16:30-2 @ingosass] Also man hat mittlerweile auch Bohrtechnik und Überwachungstechnik soweit im Griff, dass das eigentlich kein Thema mehr ist.
+[01:16:36-7 @ingosass] Aber dieses Fanal von Basel das haftet uns wie Dreck an, also das ist ein großes Problem.
+[01:16:45-4 @ingosass] Und auch ein Problem ist natürlich die Art und Weise, wie wir öffentliche Auseinandersetzungen führen.
+[01:16:50-9 @ingosass] Die Experten sollten immer bei dem bleiben, was sie für richtig halten oder was richtig ist, das ist manchmal auch nicht klar zu trennen
+[01:17:00-3 @ingosass] und ein bewegter Bürger darf alles behaupten, ungeschützt und auch fortgesetzt, das ist natürlich auch ein Vorgang,
+[01:17:10-6 @ingosass] der möglicherweise irgendwann auch positive Entwicklungen in unserem Land so stark abbremsen wird, dass wir da noch an den Folgen schwer zu tragen haben werden.
+[01:17:22-9 @timpritlove] Jetzt muss ja nicht überall unbedingt immer neu gebohrt werden, es ist ja auch schon eine ganze Menge gebohrt worden
+[01:17:29-7 @timpritlove] und wenn man sich jetzt mal den Bergbau anschaut, insbesondere den Kohlebergbau im Ruhrgebiet und anderen Gegenden,
+[01:17:36-6 @timpritlove] da existieren jetzt riesige Durchlöcherungen der Erde, wenn man da runterfährt, da ist es auch sehr warm.
+[01:17:46-5 @timpritlove] Und das wird jetzt alles stillgelegt bzw. ist eigentlich weitgehend schon stillgelegt, Ende dieses Jahres ist dann auch der Kohlebergbau im Ruhrgebiet final abgeschlossen.
+[01:17:57-0 @timpritlove] Was kann man denn damit unter Umständen anfangen? Ist das in irgendeiner Form nutzbar?
+[01:18:02-9 @ingosass] Ja und es säuft ab, man lässt ja auch das Grundwasser wieder ansteigen.
+[01:18:06-1 @ingosass] Das ist sehr gut, wir hatten ja am Anfang Konvektion und Konduktion erklärt, das heißt, wir bringen natürlich durch das Absaufen einen konvektiven Wärmeträger.
+[01:18:16-3 @timpritlove] Aber es wird ja immer laufend rausgepumpt.
+[01:18:18-1 @ingosass] Hinein, nein, also es wird schon … also es gibt natürlich Ewigkeitslasten, bis zu einem gewissen Grad muss in vielen Bereichen aus anderen Gründen,
+[01:18:26-6 @ingosass] weil sich das Gelände gesenkt hat und so weiter gepumpt werden, aber doch erhebliche Teile der Strecken saufen ab.
+[01:18:32-8 @ingosass] Wir haben eine fantastische Kenntnis des Untergrundes, jedenfalls in dem Bereich, wo wir den Bergbau betrieben haben
+[01:18:42-3 @ingosass] und wir haben enorme Hohlraumpotenziale im Untergrund, große Volumina.
+[01:18:47-6 @ingosass] Und wenn wir die jetzt mit Wasser füllen, dann nehmen die natürlich die Umgebungstemperatur an und das folgt natürlich dem geothermischen Gradienten,
+[01:18:54-2 @ingosass] also haben wir in tiefen alten Schachtanlagen 50-60 Grad.
+[01:18:59-8 @timpritlove] Wie tief geht es so runter im Ruhrgebiet?
+[01:19:00-8 @ingosass] Im Ruhrgebiet, das ist ganz unterschiedlich, es gibt nicht so viel, was tiefer als 2.000 Meter geht.
+[01:19:08-1 @timpritlove] Okay, aber immerhin.
+[01:19:09-3 @ingosass] Und das ist ein enormes Potenzial und ich glaube, das wird auch genutzt.
+[01:19:15-1 @ingosass] Also es gibt verschiedene Projekte, von denen ich Kenntnis habe, wir arbeiten natürlich nicht im Ruhrgebiet, das tun natürlich dann da die Institutionen, die vor Ort sind,
+[01:19:28-3 @ingosass] und es gibt verschiedene Projekte, wo man eben diesen Untergrund als Wärmespeicher, als Wärmequelle nutzt und nachnutzen wird.
+[01:19:36-8 @ingosass] Und ich denke, im Bereich der Wärmeversorgung hat das Ruhrgebiet also ein enormes Potenzial aufgrund dieser Altbergbaustrukturen.
+[01:19:45-1 @timpritlove] Wie könnte da so ein Szenario aussehen?
+[01:19:48-4 @ingosass] Ja, Sie nehmen zum Beispiel ein altes Grubensystem, also ich habe, jetzt gerade in Bochum geschieht das jetzt aktuell und wird geplant
+[01:19:59-6 @ingosass] und man beabsichtigt auch die Umsetzung, ich halte eben auch ein gewisses Bergwerksvolumen offen, ich lasse das absaufen,
+[01:20:10-8 @ingosass] um eben Wasser da drin zu haben und ich kann dann unter Umständen auch diese Systeme nutzen, um volatil erneuerbare Energie,
+[01:20:19-9 @ingosass] also Solarthermie oder Kraftwerkabwärme sogar aktiv einzuspeichern, wenn ich sie nicht gebrauchen kann im Sommer und dann im Winter dort herauszufahren.
+[01:20:30-7 @ingosass] Also dort kann man mit relativ überschaubarem Aufwand, aber eben auch individuell wieder standortbezogen Planung machen,
+[01:20:42-3 @ingosass] die da einen großen Energiebeitrag liefern können.
+[01:20:46-2 @ingosass] Das Problem an solchen Aktivitäten ist in der Regel, wie beurteile ich die Gebirgsstruktur?
+[01:20:53-9 @ingosass] Und was muss ich tun, um eben auch einen Zustand im Bergwerk zu erhalten, den ich brauche?
+[01:20:58-8 @ingosass] Ich will dann ja auch nicht, dass es weiter verstürzt, die Grubenbaue, jedenfalls nicht in Größenordnungen.
+[01:21:05-1 @ingosass] Ich will ja nicht durch das geothermische Tun andere zusätzliche Risiken oder Probleme erzeugen.
+[01:21:11-4 @ingosass] Also da liegen die Planungsanforderungen eher auf dem Teil, wie gehe ich mit dem Altbergbau um und was sind da für Sicherungsmaßnahmen zu machen?
+[01:21:23-0 @ingosass] Weil natürlich der Stilllegungsbergbau, die Stilllegungsbetriebspläne haben natürlich zunächst mal keine Geothermienutzung und Nachnutzung im Kopf
+[01:21:33-2 @ingosass] und es gibt natürlich auch Betriebspläne für Kohlegewinnung und nicht für Erdwärmegewinnung, das ist auch rechtlich etwas anderes.
+[01:21:40-8 @ingosass] Aber grundsätzlich ist das Potenzial da im Ruhrgebiet sehr sehr groß durch den Bergbau.
+[01:21:49-5 @timpritlove] Und in Bochum gibt es, sagten Sie, so ein Geothermiezentrum, was sich also genauer mit dieser Frage auch auseinandersetzt?
+[01:21:55-6 @ingosass] Ja, das internationale Geothermiezentrum in Bochum ist eine Forschungs- und Lehreinrichtung, eng assoziiert an die Ruhr-Uni,
+[01:22:04-0 @ingosass] aber an der Hochschule Bochum installiert und dort fördert das Land Nordrhein-Westfalen namhaft,
+[01:22:15-3 @ingosass] ich habe da keine Summen im Kopf, ist vielleicht auch nicht interessant, also es sind mehrere Professuren und eine ganze Reihe von Mitarbeiterinnen und Mitarbeitern,
+[01:22:26-2 @ingosass] die da beschäftigt werden und diese Dinge werden natürlich bearbeitet an diesem internationalen Geothermiezentrum.
+[01:22:34-6 @ingosass] Und eben nicht nur auf der Forschungsseite, sondern auch auf der Umsetzungsseite.
+[01:22:40-2 @ingosass] Man ist da also zum Teil mit den Projekten auch sehr sehr umsetzungsnah unterwegs, was wichtig ist.
+[01:22:44-6 @ingosass] Weil man muss in der Geothermie einfach auch mal zeigen, hier schaut hin, da geht es, so geht es.
+[01:22:51-9 @ingosass] Wir brauchen auch so Leuchttürme, um eben auch andere und Zweifler zu überzeugen.
+[01:22:58-0 @timpritlove] Und die gibt es noch nicht?
+[01:23:00-5 @ingosass] Doch es gibt verschiedene, also es gibt München, den Großraum München, die Stadtwerke München stellen ihre Fernwärmeversorgung zu 100% auf Geothermie um.
+[01:23:08-8 @ingosass] Die bohren also ständig im Südraum von München.
+[01:23:14-8 @ingosass] Es gibt zum Beispiel für den Frankfurter Flughafen eine fertige Planung einer gigantisch großen oberflächennahen Geothermieanlage aus Erdwärmesonden.
+[01:23:27-5 @ingosass] Die ist leider auf Eis gelegt worden aus Genehmigungsgründen, aber das Potenzial ist damit mal dargestellt worden.
+[01:23:36-3 @ingosass] Es gibt im Ruhrgebiet verschiedenste Projekte, die natürlich immer dann zechebezogen sind und standortbezogen.
+[01:23:43-4 @ingosass] Also es gibt, ich bin sicher, ich kenne gar nicht alle, aber mit etwas Überlegung fallen mir sicherlich 20 Projekte ein,
+[01:23:52-7 @ingosass] wo man verschiedene Nutzung für Quartiersversorgung, Neubauerschließung, Prozesswärme, Wärmespeicherung etc. andenkt und umsetzt und zum Teil auch umgesetzt hat und schon im Betrieb hat.
+[01:24:08-1 @ingosass] Oder Pariser Becken zum Beispiel.
+[01:24:11-1 @ingosass] In Paris hat die Wärmeversorgung aus Geothermie eine lange Tradition und die wird jetzt in den jüngsten Jahren gerade nochmal sehr sehr stark verstärkt und verbessert,
+[01:24:24-1 @ingosass] aber auch dort ist eine geologische Struktur, die eben diese Nutzung besonders wirtschaftlich macht oder auch besonders einfach macht.
+[01:24:34-4 @timpritlove] Wenn ich Sie jetzt richtig verstanden habe, man kann jetzt die Geothermie nicht isoliert sehen, die Nutzung der Geothermie nicht isoliert sehen von dem generellen Wärmemanagement,
+[01:24:46-9 @timpritlove] wie wir in der Gesellschaft überhaupt mit Wärme umgehen.
+[01:24:52-6 @timpritlove] Abgesehen davon, dass man jetzt so konkrete Dinge und so naheliegende Sachen macht wie Fernwärme.
+[01:24:59-2 @timpritlove] Inwiefern muss man in dieses Wärmethema jetzt noch weiter und noch mehr auf der Metaebene denken,
+[01:25:09-1 @timpritlove] um sozusagen zu einer optimalen Nutzung zu kommen?
+[01:25:12-9 @ingosass] Okay, also politisch, erneuerbare Wärme vermeidet Treibhausgase.
+[01:25:21-4 @ingosass] Wir müssen die Wärmewende hinbekommen, weil dort verlieren wir sonst die Energiewende-
+[01:25:29-6 @ingosass] Also sowohl politisch als auch von den tatsächlichen naturwissenschaftlichen und technischen Zielen.
+[01:25:35-0 @ingosass] Das heißt, wir haben gar keine andere Chance als erneuerbare Wärmeversorgung in Größenordnungen bereitzustellen.
+[01:25:42-1 @ingosass] Wir können auch nicht warten, dass der Klimawandel so schnell vorangeht, dass wir keine Wärme mehr brauchen.
+[01:25:47-4 @ingosass] So schnell wir des dann doch nicht gehen.
+[01:25:49-2 @ingosass] Und ich bin überzeugt davon, das wird nicht ohne Geothermie gehen, weil wir werden den geothermischen Untergrund schon alleine deshalb brauchen,
+[01:25:59-1 @ingosass] um volatile, zum Beispiel solarthermisch gewonnene, Wärme im Untergrund zu speichern.
+[01:26:05-1 @ingosass] Und das wird nicht funktionieren in Deutschland, ich kann jetzt da mehr nur für Deutschland sprechen, weil die Regelungssituation in anderen Ländern zum Teil dramatisch anders ist als hier,
+[01:26:18-7 @ingosass] in Deutschland wird das nicht funktionieren, wenn wir es nicht schaffen, genehmigungsrechtlich, planungsrechtlich, eigentumsrechtlich, Großanlagen,
+[01:26:28-9 @ingosass] also Speicher mit Wärmeleistungen, Arbeit von 20-30-100 Gigawattstunden Wärme pro Jahr, im urbanen Bereich zu installieren.
+[01:26:43-6 @ingosass] Und dazu müssen Sie erst mal Flächen finden.
+[01:26:45-1 @ingosass] Und da überlegen Sie mal in Deutschland, stellen Sie sich vor, Sie besitzen ein Mietshaus
+[01:26:52-8 @ingosass] und jetzt kommt die Politik und sagt Ihnen, bei deiner nächsten Heizungsrenovierung verbieten wir dir eine hausbezogene Lösung,
+[01:27:02-8 @ingosass] du musst dich an den Großwärmespeicher um die Ecke anschließen.
+[01:27:11-1 @ingosass] Stellte Sie sich das mal vor, wie Sie das durchsetzen wollen?
+[01:27:13-6 @ingosass] Also uns fehlen unserer Meinung nach raumgreifend die rechtlichen Randbedingungen, um wirklich Wärmewende in Größenordnungen zu machen.
+[01:27:28-1 @ingosass] Ich denke, das ist logisch, ich will gar nicht gegen dieses klassische Beispiel der Geothermienutzung auf dem Einfamilienhausbereich sprechen.
+[01:27:41-1 @ingosass] Natürlich macht das Sinn und es ist auf jeden Fall sinnvoller, wir beide machen in unserem Haus oder in unserem Wohnhaus eine geothermische Energieversorgung, Wärmeversorugng
+[01:27:52-9 @ingosass] als eine, die auf fossilen Brennstoffen basiert oder auf anderen nicht nachhaltigen Lösungen.
+[01:28:00-5 @ingosass] Ich meine, auch Fernwärme, die aus fossilen Brennstoffen erzeugt wird, ist ja zwar vor Ort sauber, aber nicht an der Erzeugungsseite.
+[01:28:08-8 @ingosass] Aber das ist so, wie in allen Dingen, wenn Sie ein kleines System haben, das ist ineffizient per se,
+[01:28:15-6 @ingosass] weil Sie brauchen natürlich für ein kleines System Steuerungs-, Regelungstechnik, Sie brauchen Genehmigungsverfahren,
+[01:28:21-9 @ingosass] Sie brauchen Planung, Sie brauchen Hausanschlüsse etc. pp., Sie brauchen Bohrungen, Sie müssen das individuell durchziehen und Sie erschließen nur ein kleines Volumen am Untergrund.
+[01:28:29-9 @ingosass] Das heißt also, Ihre Verlustleistungen in den nicht erschlossenen Untergrund ist natürlich spezifisch größer.
+[01:28:35-8 @ingosass] Das heißt, dadurch frisst die Energiewende die Energiewende.
+[01:28:39-9 @timpritlove] Skaliert nicht...
+[01:28:40-8 @ingosass] Weil wir einfach zu ineffizient sind und auch unökonomisch.
+[01:28:45-8 @ingosass] Ja, Sie haben spezifisch relativ hohe Kosten.
+[01:28:48-8 @ingosass] Also es ist jetzt gerade im Moment etwa so, wenn wir durchschnittliche geothermische Bedingungen in einem x-beliebigen Baugebiet uns vorstellen,
+[01:28:58-1 @ingosass] dann ist geothermische Wärmeversorgung und Kälte, das können Sie ja gleichzeitig damit machen, Sie können ja mit Geothermie heizen und kühlen normalerweise mit der oberflächennahen,
+[01:29:08-4 @ingosass] dann ist das so gerade kompetetiv mit anderen Wärmeversorgungsmodellen.
+[01:29:15-0 @ingosass] Es wird ja zum Beispiel in Deutschland immer noch Gas- und Ölheizung zum Teil subventioniert, wie krank ist das eigentlich?
+[01:29:21-9 @timpritlove] Subventioniert?
+[01:29:22-0 @ingosass] Subventioniert, ja Sie können für Gasheizung mit erneuerbaren Anteilen, also wenn Sie zum Beispiel eine Solartherme koppeln mit einer Gasheizung,
+[01:29:32-0 @ingosass] kriegen Sie 20% fast unter Umständen der Investitionssumme gefördert.
+[01:29:37-4 @ingosass] Das ist natürlich vor dem Hintergrund aller Klima- und anderer Überlegungen und auch politischer Überlegungen und auch Abhängigkeiten,
+[01:29:46-1 @ingosass] die Deutschland dabei eingeht, ist für mich nicht nachvollziehbar.
+[01:29:51-7 @ingosass] Also das sind viele Randbedingungen, die da reinspielen, aber wenn man das alles nimmt, dann ist Geothermie halt bereits wettbewerbsfähig auf der Wärmeseite.
+[01:30:03-4 @ingosass] Wenn Sie einen Abschreibungszeitraum von 10-15 Jahren betrachten.
+[01:30:08-7 @ingosass] Wenn Sie das auf 2-3 Jahre betrachten, dann nicht, dann ist die Gastherme immer die billigere Lösung.
+[01:30:14-1 @ingosass] Aber mit der kaufen Sie ja ständig Brandstoff, mit einer Geothermielösung kaufen Sie nur den Brandstoffanteil vielleicht zu 25%.
+[01:30:23-5 @ingosass] Und natürlich ist es so, je länger Sie die Geothermieanlage betreiben, desto wirtschaftlicher wird das.
+[01:30:29-3 @ingosass] Und es muss unserer Mienung nach schon dringend so sein, dass die nicht nachhaltigen und ich halte jedwede Form von fossilen Rohstoffen verbrennende Energieversorgung für nicht nachhaltig.
+[01:30:44-1 @ingosass] Eine Gasversorgung ist zwar sauberer als eine braunkohlegestützte Versorgung, aber darum ist sie trotzdem nicht gut.
+[01:30:54-2 @ingosass] Und in diesem Punkt haben wir, glaube ich, viel viel mehr politische Arbeit zu tun und gesellschaftliche als technische.
+[01:31:02-0 @ingosass] Die Systeme stehen zur Verfügung, also die erneuerbaren Heiz- und Kühlsysteme sind extrem leistungsfähig und extrem sophistiziert
+[01:31:12-9 @ingosass] und nebenbei bemerkt, sie sind auch wirtschaftlich und arbeitsmarktpolitisch stehen sie auf sehr starken Füßen
+[01:31:23-5 @ingosass] und sind auch in der Lage, Exportfunktionen wahrzunehmen, die wir sonst so nicht haben.
+[01:31:29-9 @ingosass] Also um es kurz zu machen, ich bin überzeugt davon, dass es ein richtiger Weg ist, Geothermie zu fördern, zu unterstützen,
+[01:31:40-1 @ingosass] aber wir würden uns wünschen, dass wir die Förderschwerpunkte auf größere Einheiten legen.
+[01:31:46-2 @ingosass] Der Wirkungsgrad würde steigen, die Effizienz würde steigen, die spezifischen Kosten würden sinken.
+[01:31:50-9 @ingosass] Also pro Kilowattstunde Wärme zum Beispiel.
+[01:31:55-6 @ingosass] Und die geopolitische Abhängigkeit von Deutschland würde dramatisch sinken, von verschiedenen Faktoren.
+[01:32:03-2 @timpritlove] Was man nicht importieren muss, muss man nicht aushandeln und nicht bezahlen.
+[01:32:06-5 @ingosass] Und ich finde es auch im Sinne der Globalisierung also ein hochgradig kritisches Tun, wenn wir es uns leisten,
+[01:32:15-0 @ingosass] eine Gesellschaft mit dem höchsten spezifischen pro Kopf Energieverbrauch zu sein, dann bin ich der Meinung,
+[01:32:23-3 @ingosass] sind wir auch gezwungen, die heimischen Ressourcen zu nutzen und nicht unsere Energieprobleme sozusagen in anderen Ländern zu regeln, wie auch immer man das dann tut.
+[01:32:34-7 @ingosass] Und Geothermie ist natürlich standortunabhängig und geopolitisch auch besonders wertvoll.
+[01:32:41-7 @ingosass] Aber wir haben auf der anderen Seite eben diese Förderung, also nehmen wir die EnEv, die Energieeinsparverordnung, das ist eine Erfolgsgeschichte.
+[01:32:52-6 @ingosass] Man hat bei Neubauten Vorgaben gemacht, dass man den Dämmstandard immer erhöht hat, der spezifische Energieverbrauch unserer Neubauten geht seit Jahren dramatisch zurück, das ist ein großer Erfolg.
+[01:33:09-1 @ingosass] Ob die Ökobilanz ab einem gewissen Punkt allerdings noch sinnvoll ist, diese Frage wird nicht gestellt.
+[01:33:16-4 @ingosass] Sie müssen ja auch Dämmstoffe erzeugen, produzieren, in Umlauf bringen, verbauen oder auch die Kosten fürs Bauen und damit die entstehenden Kosten fürs Wohnen und Leben.
+[01:33:26-0 @ingosass] Wir haben ja gerade eine aktuelle Diskussion zu dem Thema, die sind dabei nicht verpreist.
+[01:33:32-4 @ingosass] Und wie gesagt, wir sind jetzt mit den Energieeinsparvorgaben an einem Punkt, wo wir mit enorm großem Aufwand nur noch einen geringen zusätzlichen Energieeinsparerfolg erzielen.
+[01:33:45-3 @ingosass] Geothermie ist halt grundlastfähig ist immer da, ich bin dafür, lasst es doch ruhig mal ein bisschen durchs Fenster ziehen, wenn wir auch günstiger bauen.
+[01:33:54-9 @ingosass] Weil wir dort, wenn wir eine reine Geothermienutzung haben, dann eben erneuerbar fahren und somit, wie sagt man,
+[01:34:04-4 @ingosass] ich benutze das Wort nicht so gerne, klimaneutral.
+[01:34:09-1 @timpritlove] Naja, ich meine, wenn die Energie sozusagen unproblematisch bezogen wird, kann man sich auch etwas weniger Effizienz in der Nutzung erlauben.
+[01:34:22-2 @ingosass] Ja, ich meine, wir verteuern natürlich durch die Energietechnik unser Wohnen enorm.
+[01:34:27-2 @ingosass] Ich meine, wir sind hier in Berlin, wir müssen ja nicht darüber reden, dass das zu kritischen sozialen Situationen führen wird und ich glaube, wir sind da erst am Anfang.
+[01:34:36-1 @timpritlove] Miete etc.
+[01:34:37-0 @ingosass] Ja, das ist nicht nur so, dass die Energiewende die Energiekosten zunächst erhöht, sondern durch die Vorgaben erhöht es auch den Quadratmeterpreis und damit letztendlich auch die Miete.
+[01:34:48-5 @ingosass] Außerdem, wenn man mit Architekten spricht, also vor ein paar Jahrzehnten hat man, glaube ich, noch 2% für Putz und sonstiges genommen,
+[01:34:57-1 @ingosass] ich glaube, mittlerweile nehmen die über 5% an.
+[01:34:59-8 @ingosass] Wir verbrauchen damit natürlich auch enorm viel Fläche, die wir nicht nutzen und bauen die zu durch Dämmung.
+[01:35:06-4 @ingosass] Man muss wirklich überlegen, inwieweit das ein in der Zukunft sinnvolles Handeln ist, ich möchte das nochmal betonen,
+[01:35:13-8 @ingosass] ich bin der Meinung, das ist bis zu einem gewissen Punkt sicherlich eine Erfolgsgeschichte, die EnEv,
+[01:35:22-0 @ingosass] aber wir kommen mit einer immer weiteren Verschärfung der Vorgaben der EnEv möglicherweise nicht zu dem Ziel, das eigentlich beabsichtigt ist.
+[01:35:32-8 @ingosass] Das man eigentlich erreichen will.
+[01:35:34-4 @ingosass] Das andere Problem an diesen Regelungen ist, wir hinken natürlich im Bereich Altbau komplett hinterher.
+[01:35:40-1 @ingosass] Also ich weiß nicht, Deutschland hat, glaube ich, so ungefähr 60 Millionen Gebäude und wir bauen ja nur 150-200.000 im Jahr dazu.
+[01:35:50-1 @ingosass] Das heißt, die EnEv greift ja im Neubaubereich.
+[01:35:53-1 @ingosass] Wir haben jetzt entsprechende komplementäre Regelungen für den Altbaubereich.
+[01:35:58-0 @ingosass] Aber im Altbaubereich da ist eigentlich das Problem und da ist die Masse und da ist auch die Zeitachse zu beachten, das wird so schnell nicht gehen.
+[01:36:09-5 @ingosass] Ich meine, man stelle sich vor, man besitzt ein Objekt und will es vermieten, das ist auch nicht jedermann in der Lage, dort die vielleicht technisch notwendigen und gewünschten Maßnahmen zu machen.
+[01:36:23-5 @ingosass] Und wenn man sie dann machen muss, werden sie so teuer, dass man einen enormen Impact auf die Mieten hat.
+[01:36:29-7 @ingosass] Also ich sehe schon das Geothermieproblem sehr sehr stark verknüpft oder das Wärmeproblem sehr sehr stark verknüpft auch mit gesellschaftlichen Problemen,
+[01:36:37-8 @ingosass] die man da antizipieren kann und in Beziehung setzen kann.
+[01:36:41-7 @timpritlove] Wenn ich es richtig verstanden habe, ist ja im Prinzip die Wärmeerzeugung über Geothermie auch eng verbunden mit dem Konzept von Fernwärme.
+[01:36:49-0 @timpritlove] Eigentlich ist das sozusagen zwangsläufige Kopplung.
+[01:36:52-3 @ingosass] Ja, wenn Sie wegkommen von diesen Parzellenlösungen.
+[01:36:57-8 @ingosass] Also mein Haus, dein Haus kriegt die Wärmepumpe, Sie bohren als mein Nachbar vielleicht 200 Meter tief,
+[01:37:07-1 @ingosass] weil ein Planungsbüro Sie so beraten hat, ich mache das vielleicht anders.
+[01:37:11-1 @ingosass] Möglicherweise konkurrieren wir sogar noch um die Erdwärme im Untergrund und entziehen uns die gegenseitig, das wird ja irgendwann passieren.
+[01:37:18-8 @ingosass] Da muss es raumordnerische, planerische Vorgaben geben, dass diese Einheiten möglichst groß werden, weil dann lohnen sich Nahwärmenetze und Fernwärmenetze.
+[01:37:27-6 @timpritlove] Was wäre Nahwärme, also von was für Bereichen reden wir da?
+[01:37:31-5 @ingosass] Also Nahwärme, da reden wir von, also ich trenne jetzt mal nicht Speicherung und Erzeugung, also wenn man eine Geothermieanlage hat,
+[01:37:40-5 @ingosass] dann wäre das so im Quartiersbereich, also im Stadtviertelbereich, das wäre Nahwärme.
+[01:37:46-1 @ingosass] Und wir bräuchten natürlich für den Heizungsbereich auch eine kalte Nahwärme, also typische Fernwärmenetze der älteren Generation,
+[01:38:02-1 @ingosass] die haben dann eben Temperaturen so von 80-90-100-110-120 Grad, je nachdem um was es sich handelt,
+[01:38:08-3 @ingosass] das ist natürlich etwas, wenn Sie sich überlegen, eine Solarthermieanlage in Spitzenzeiten, also senkrecht stehende Sonne im Hochsommer,
+[01:38:15-4 @ingosass] die bringt vielleicht 130-140 Grad nach unten theoretisch, aber in den Tagesrandzeiten und in den Jahresrandzeiten eben nur 70-80 Grad.
+[01:38:27-0 @ingosass] Das heißt also, selbst wenn man so einen Untergrundspeicher geothermisch auflädt auf 90 Grad, dann hat man in der Regel gar nicht die Möglichkeit, eben diese Vorlauftemperaturen zu erreichen.
+[01:38:40-8 @ingosass] Da spielt auch die Gebäudedämmung enorm rein.
+[01:38:42-6 @ingosass] Wenn Sie Gebäude dämmen und umbauen und energetisch nachrüsten, was meiner Meinung nach auch bis zu einem gewissen Grad extrem sinnvoll ist,
+[01:38:53-4 @ingosass] nur die Frage ist, wo legen wir die Messlatte für diesen Grad, dann kommen Sie natürlich mit den Vorlauftemperaturen noch runter.
+[01:39:02-7 @ingosass] Ein Nahwärmenetz, das mit geringerer Vorlauftemperatur gefahren wird, verliert spezifisch weniger Energie.
+[01:39:10-1 @ingosass] Wissen Sie auch, wenn Sie den Kaffee kochend eingießen, dann die ersten 5-10 Grad kühlen wesentlich schneller ab, als das was dann kommt
+[01:39:19-5 @ingosass] und das bedeutet, also da muss man schon einen Optimierungsprozess machen.
+[01:39:24-2 @ingosass] Das heißt, das was wir hier reden und was wir hier fordern ist wirklich ein planerischer Gesamteingriff.
+[01:39:32-8 @timpritlove] Auf Gemeindeebene vor allem.
+[01:39:33-1 @ingosass] Auf Stadtebene, also wir glauben vor allen Dingen, dass der urbane Raum ganz wichtig ist für die Energiewende.
+[01:39:39-9 @ingosass] Also natürlich kann man im ländlichen Raum eher eine Reihe von Insellösungen auch vielleicht projektieren und durchführen
+[01:39:47-3 @ingosass] und da wird wieder das Verhältnis von Erzeugungsort und Netzlänge wieder ökonomisch ungünstig.
+[01:39:54-9 @ingosass] Aber wenn man jetzt Großstädte nimmt, in Deutschland ja alle Orte ab 100.000 Einwohner, wir haben 63, glaube ich, Großstädte in Deutschland,
+[01:40:06-8 @ingosass] oder waren es 69, ach Gott.
+[01:40:13-1 @ingosass] Also auf jeden Fall kommt man dann dazu, da hat man eine enorme Dichte an Energiesenken, wir haben in den meisten Städten einen geologisch geeigneten Untergrund für geothermische Erzeugung
+[01:40:24-7 @ingosass] oder Speicherung, aber wir haben eine Förderungs- und Genehmigungsroutine, die eben übergreifende Lösungen nur da möglich macht,
+[01:40:36-7 @ingosass] wo ich einfach ein juveniles Gelände, zum Beispiel die Konversion eines Militärstandortes, aus einer Hand neu bebauen und entwickeln kann
+[01:40:46-9 @ingosass] und wo ich über einen Bebauungsplan zum Beispiel schon regele, dass jetzt, wenn wir bei dem Beispiel bleiben, Sie und ich mit unseren Objekten uns auch an diese geothermische Nahwärme anschließen müssen
+[01:40:58-3 @ingosass] oder von mir aus solarthermische Nahwärme oder was auch immer das dann ist, muss ja nicht immer Geothermie sein.
+[01:41:04-7 @timpritlove] Ja.
+[01:41:05-7 @ingosass] Und das ist aber, um eine Wärmewende zu schaffen, zu wenig.
+[01:41:09-0 @ingosass] So viele Flächen kommen in Deutschland nicht pro Jahr dazu, dass das einen signifikanten Impact haben würde.
+[01:41:15-4 @ingosass] Und bei den Einzellösungen, bei den Einzelhauslösungen, bei den Mehrparteienhauslösungen im Kleinen, da haben wir einfach einen zu geringen Wirkungsgrad der Gesamtanlage oder einen geringeren.
+[01:41:27-9 @ingosass] Das heißt, wir erhöhen damit spezifisch die Kosten je Kilowattstunde Wärme oder Kälte.
+[01:41:35-3 @timpritlove] Das heißt, wenn ich dem richtig gefolgt bin, wäre es konsequent, auf einer Großstadtebene zu sagen,
+[01:41:42-6 @timpritlove] okay wir gehen das jetzt mal an, wir loten jetzt erst mal entsprechende Orte aus, wo Wärme erzeugt oder gespeichert werden kann und dann entsprechend geothermisch oder solarthermisch erzeugt wird
+[01:41:56-5 @timpritlove] und planen damit auch sofort ein Verteilungsnetz und langfristig gibt es eine Anschlusspflicht.
+[01:42:03-3 @ingosass] Genau.
+[01:42:03-7 @timpritlove] Das heißt, die Dinge werden entwickelt und den Hauseigentümern wird gesagt, so hier innerhalb von 10 Jahren müsst ihr quasi den Anschluss an dieses Netz geschafft haben,
+[01:42:14-5 @timpritlove] sonst machen wir irgendwas, was euch nicht gefällt.
+[01:42:18-3 @ingosass] Und du stellst deine Hausfeuerung ein, was das Stadtklima direkt positiv beeinflusst, wir haben ja dann keine Emissionen mehr in der Stadt selber.
+[01:42:30-6 @timpritlove] Feinstaub, etc.
+[01:42:30-8 @ingosass] Vor dem Hintergrund einer NOx-Debatte in Deutschland.
+[01:42:36-1 @ingosass] Und du sorgst eben dafür, dass du dich anschließt, dass auch der Wärmepreis vernünftig ist.
+[01:42:43-9 @ingosass] Weil wer auch immer dieses Netz betreibt, muss ja kalkulieren können, Abschreibungen, Betrieb und so weiter.
+[01:42:50-8 @ingosass] Und wir brauchen ja Planungsgrößen, sonst wird ja nicht investiert.
+[01:42:55-5 @ingosass] Und die Zerlegung in Insellösungen führt eben zu einem nicht steuerbaren Energiemix, das ist schön und toll,
+[01:43:05-4 @ingosass] wenn wir verschiedene Energienutzungsformen und so weiter haben, aber es spricht den Notwendigkeiten der Energiewende, Klimaschutz, Stadtklimaverbesserung, läuft es unserer Meinugn nach entgegen.
+[01:43:19-0 @ingosass] Bei allem guten Willen, der dahintersteckt möglicherweise, ist es doch nicht die große Lösung, die wir gerne durchdenken würden, erarbeiten würden.
+[01:43:34-1 @timpritlove] Wenn man jetzt mal so in andere Länder blickt, wie geht es denn anderen Ländern in Europa derzeit mit entsprechender technischer Planung und Realität,
+[01:43:45-5 @timpritlove] die jetzt nicht gerade auf so einem Vulkan drauf sitzen?
+[01:43:49-3 @timpritlove] Reden wir jetzt wirklich nur in Deutschland davon und die anderen haben davon noch gar nichts gehört?
+[01:43:52-9 @timpritlove] Oder gibt es noch irgendwelche Länder, die da schon weiter vorangeschritten sind?
+[01:43:57-3 @ingosass] Also wir wissen aus Holland zum Beispiel, dass es die geothermische Speicherung und Nutzung in größeren Anlagen wesentlich weiter verbreitet ist,
+[01:44:07-1 @ingosass] da zirkulieren Zahlen im Moment von etwa 2.000 Anlagen, aber man muss sagen, diese Zahlen muss man dann auch sich vor Augen führen,
+[01:44:19-0 @ingosass] also da Sie ja mit jeder geothermischen Anlage heizen und kühlen können, also auch mit der kleinsten Hausanlage.
+[01:44:25-1 @ingosass] Sie können die Wärmepumpe so fahren, die kann ja als Kühlschrank oder als Heizung laufen.
+[01:44:30-1 @ingosass] Und da können Sie natürlich das sommerlich aufgeheizte Haus umgekehrt fahren und die Wärme in den Untergrund abführen, dann haben Sie auch eine Speicheranlage schon mit einer geringen Effizienz, aber Sie haben eine.
+[01:44:41-6 @ingosass] Also was man da genau mitzählt, weiß man nicht, aber in Holland, in Dänemark läuft die Erschließung von sogenannten Aquipährspeichern,
+[01:44:51-6 @ingosass] also von im Grundwasser erbohrten angelegten Speichern, im großtechnischen Maßstab.
+[01:44:58-3 @ingosass] Da muss man jetzt auch wieder dazu sagen, da gibt es sehr sehr viele so klassische Gewächshausanwendungen,
+[01:45:07-1 @ingosass] aber die Chance, dass Sie eine geothermische Tomate aus Holland bald hier kaufen oder dass Sie eine kaufen, die steigt mit jedem Tag.
+[01:45:13-7 @ingosass] Übrigens auch Island produziert Tomaten für den Export geothermisch.
+[01:45:21-7 @ingosass] Und in Dänemark ist das auch eine sehr starke Entwicklung, mit sehr starker Förderung, aber da hat man diesen Quartiersansatz schon viel viel stärker im Blick.
+[01:45:33-0 @ingosass] Also Dänemark ist ja einer, der am stärksten digitalisierten und überwachten Staaten in Europa.
+[01:45:40-0 @ingosass] Und man erhebt natürlich da wesentlich mehr auch energietechnische Daten, als das in allen anderen EU-Ländern der Fall ist
+[01:45:45-8 @ingosass] und damit hat man natürlich auch ein Planungsrandbedingungen, die dazu führen, dass man die Quartiere und Bereiche,
+[01:45:53-5 @ingosass] wo man gezielt so etwas tun kann, auch besser auswählt und dann ist aber auch der politische Wille dahinter, das umzusetzen.
+[01:46:00-0 @ingosass] Also ich würde sagen, viel Technologie ist in Deutschland entwickelt worden, wenn wir mal ans Jammern kommen,
+[01:46:05-9 @ingosass] aber umgesetzt wird es jetzt sehr sehr stark zum Beispiel bei unseren unmittelbaren Nachbarn im Norden und im Westen.
+[01:46:10-9 @ingosass] Dann die Schweiz ist sehr sehr stark in der Geothermienutzung, aber mit einem etwas anderen Konzept.
+[01:46:16-1 @ingosass] Also da ist man sehr stark auf der Erzeugungsseite, man hat auch einen anderen Untergrund.
+[01:46:20-6 @ingosass] Man ist ja doch im wesentlichen in den Alpen und im Alpenvorland, das ist ganz anders in Holland,
+[01:46:25-5 @ingosass] da ist man in diesen Tieflandsbecken mit großen mächtigen Aquiphären also Grundwasserleitern.
+[01:46:30-6 @ingosass] Also das sind auch andere Verhältnisse.
+[01:46:32-0 @timpritlove] Ja klar.
+[01:46:32-8 @ingosass] Aber ich würde nicht sagen, dass Deutschland die Rolle eines Primus hat.
+[01:46:38-2 @ingosass] Also in der Technologieentwicklung, Patentierung, einzelne Systeme, ist immer noch sehr viel,
+[01:46:43-2 @ingosass] es geht auch sehr viel in den Export, auch Engineering, aber in der eigenen Umsetzung sind wir schwach.
+[01:46:50-3 @ingosass] Also das Beispiel ist ganz klar wie TransRapid, also um TransRapid zu fahren, müssen Sie schon nach Shanghai.
+[01:46:57-9 @timpritlove] Ja, das stimmt.
+[01:47:01-7 @timpritlove] Ja, was kann man denn noch tun, um das Thema populärer zu machen, wenn so viel Potenzial drin steht, woran hapert es denn?
+[01:47:10-5 @ingosass] Also ich denke schon, viel geschieht ja so, das was der Nachbar, die Nachbarin kann und zeigt, das überlege ich mir dann vielleicht auch, ob ich das selber mache.
+[01:47:21-6 @ingosass] Also wir brauchen Demonstrationsprojekte.
+[01:47:24-1 @ingosass] Da müssen wahrscheinlich auch so Genehmigungs- und rechtliche Sonderräume geschaffen werden, damit man das umsetzen kann.
+[01:47:31-1 @ingosass] Ich meine, es sind ja Leute betroffen, die da wohnen, es kann ja nicht jeder heute in die Heizung investieren.
+[01:47:35-7 @ingosass] Manche vielleicht nie.
+[01:47:38-8 @ingosass] Da müssen ja Lösungen gefunden werden.
+[01:47:39-9 @ingosass] Aber man muss diesen gesamten Ansatz denken und man muss es tun, dann kommt die Energiewende vorwärts.
+[01:47:46-4 @ingosass] Wir schaffen es so nicht.
+[01:47:51-6 @ingosass] Und der Umstand, dass wir jetzt mit Strom heizen, also sozusagen mit der edelsten gewinnbaren Energieform, das ist natürlich auch im besonderen Maße ineffizient.
+[01:48:04-8 @ingosass] Und nicht unbedingt sinnvoll.
+[01:48:06-8 @ingosass] Und dann, was wir da noch zubauen müssten an Wind- und Photovoltaiksystemen, das kann man sich ja nicht vorstellen.
+[01:48:13-3 @ingosass] Ich weiß nicht, ob Sie mal durch Rhein-Hessen gefahren sind, und wo Sie vor 20 Jahren noch durch die Weinberge wandern konnten,
+[01:48:24-0 @ingosass] da wandern Sie jetzt heute durch die Rotorenwälder.
+[01:48:28-8 @timpritlove] Weil die Dichte, da so groß ist...
+[01:48:29-0 @ingosass] Ich bin überzeugt davon, damit wird es ein Ende haben, auch da wird die Bevölkerung irgendwann nicht mehr mitmachen und sagen, Schluss damit.
+[01:48:38-0 @timpritlove] Und Geothermie wäre auf jeden Fall eine Alternative?
+[01:48:42-0 @ingosass] Also den Heizungsbereich würden wir nicht sehen, der wäre ja unter unseren Füßen.
+[01:48:49-5 @timpritlove] Und das ist schon mal auch ein riesengroßer Anteil der Energie, die wir insgesamt verbrauchen.
+[01:48:55-3 @ingosass] Ja ich meine, es ist auch eine Frage des Platzverbrauchs.
+[01:49:00-3 @ingosass] Was wollen wir uns noch an Landschaftsverbrauch leisten?
+[01:49:03-5 @ingosass] Wem will Deutschland als Beispiel dienen in Entwicklungsländern oder in Schwellenländern?
+[01:49:13-1 @ingosass] Wir müssen doch in Deutschland anfangen, unsere Probleme in den Griff zu kriegen.
+[01:49:22-2 @ingosass] Und ich sehe das im Moment nicht, dass wir das wirklich mit den Möglichkeiten, die wir hätten, tun.
+[01:49:30-6 @timpritlove] Ja, was werden Sie denn jetzt selber voranbringen in diesem Bereich, um Fortschritte zu erzielen?
+[01:49:40-7 @timpritlove] Was ist denn so?
+[01:49:42-8 @ingosass] Was wir tun natürlich, in den letzten 10 Jahren haben sich auch nach dem Fachgebiet oder Lehrstuhl, den ich nun hier aufbauen durfte,
+[01:49:55-0 @ingosass] haben sich natürlich noch an verschiedenen anderen Standorten eben auch solche Ausbildungs- und Forschungsschwerpunkte gebildet.
+[01:50:03-8 @ingosass] Wir nehmen da in Darmstadt mithilfe des Stifterverbandes schon für uns in Anspruch, mit die ersten gewesen zu sein.
+[01:50:13-5 @ingosass] Wir bilden natürlich Leute aus, die Experten werden in diesem System.
+[01:50:19-5 @ingosass] Das bringt mich in ein ganz anderes Themenfeld, das mich sehr sehr stark bewegt.
+[01:50:23-3 @ingosass] Ich weiß nicht, ob die disziplinäre und fakultative Ausbildung überhaupt noch Zukunft hat.
+[01:50:30-5 @ingosass] Es sind so viele verschiedene Anforderungen an Menschen gestellt, die jetzt zum Beispiel Energiefragen bearbeiten, umsetzen müssen,
+[01:50:41-2 @ingosass] vermitteln müssen, kommunizieren müssen, was da alles notwendig ist.
+[01:50:44-7 @ingosass] Wir versuchen also ganz bewusst in Darmstadt eben, über diese Grenzen zu gehen.
+[01:50:48-6 @ingosass] Wir haben also einen interdisziplinären Studiengang eingerichtet an der TU Darmstadt Energieingenieur,
+[01:50:56-4 @ingosass] wo eben Ingenieuraktivitäten, naturwissenschaftliche Ausbildung miteinander verschmolzen wird.
+[01:51:07-8 @ingosass] Die Studierenden, die diesen Abschluss machen, wie sagt man, die gehen weg wie die vielbeschworenen warmen Semmeln, und die gehen einschlägig weg.
+[01:51:16-6 @ingosass] Also das heißt, die gehen auch tatsächlich in den Energiebereich.
+[01:51:20-2 @ingosass] Wir hatten in einem ersten Ansatz vor einigen Jahren versucht, das Ganze noch breiter zu fassen,
+[01:51:23-5 @ingosass] eben auch mit den Geisteswissenschaften, also Rechtswissenschaften, Wirtschaftswissenschaften und Sozialwissenschaften mit einzubeziehen,
+[01:51:34-8 @ingosass] das ist uns aber von der Deutschen Forschungsgemeinschaft nicht genehmigt worden damals, war vielleicht zu früh.
+[01:51:39-4 @ingosass] Ich glaube, heute wäre die Zeit reif, auch das zu versuchen.
+[01:51:42-5 @ingosass] Ist natürlich auch schwierig.
+[01:51:43-7 @ingosass] Sie können sozialwissenschaftliche Themen und ingenieurwissenschaftliche Themen dann so in einer Promotion oder so was zu verschneiden,
+[01:51:50-0 @ingosass] das ist schon für viele Fakultäten auch eine Zumutung.
+[01:51:57-1 @ingosass] Und unsere Wissenschaft ist da noch nicht bereit dafür.
+[01:52:00-5 @ingosass] Also wir müssen auf jeden Fall sehr sehr stark daran arbeiten, Ausbildung, Ausbildung und Forschung und Forschung in dem Bereich zu verstärken
+[01:52:08-4 @ingosass] und es muss, glaube ich, für die Wissenschaft auch selbstverständlicher werden, sich auch dazu zu äußern im öffentlichen Raum.
+[01:52:16-0 @timpritlove] Wenn ich Sie richtig verstehe, soll diese Interdisziplinarität gerade in der Ausweitung auf die Sozialwissenschaften die Leute nicht nur in die Lage versetzen, halt ihre Technik zu kennen und die energietechnischen Belange,
+[01:52:29-6 @timpritlove] sondern auch mehr darüber zu lernen und ein Gefühl dafür zu bekommen, wie setzt man das rechtlich durch?
+[01:52:37-4 @timpritlove] Welchen Einfluss muss man auf Öffentlichkeiten, Gemeinden etc. auswirken, um hier auch zum Ziel zu kommen?
+[01:52:46-2 @ingosass] Welche Mechanismen setze ich zum Beispiel mit so einem Vorschlag, den ich mal eben hier locker im Podcastinterview von mir gegeben habe,
+[01:52:55-6 @ingosass] was setze ich da an gesellschaftlichen Mechanismen möglicherweise in Kraft?
+[01:53:01-4 @ingosass] Was für Widerstände mobilisiere ich?
+[01:53:04-9 @ingosass] Wen betrifft das möglicherweise, obwohl das alles gut gemeint ist?
+[01:53:08-6 @ingosass] Also wir wollen ja nur das beste.
+[01:53:12-0 @ingosass] Und trotzdem wird es nicht nur Gewinner geben dabei.
+[01:53:15-3 @ingosass] Und diese Prozesse muss man verstehen.
+[01:53:19-6 @ingosass] Und ich glaube, wir sind erfolgreich auch als Nation, auch als Gesellschaft, wenn wir Natur- und Technikwissenschaften mit Sozialwissenschaften und Rechtswissenschaften verschneiden
+[01:53:30-2 @ingosass] und wieder zurückkommen zu einem konsensualen Vorgehen in der Gesellschaft, das sehe ich im Moment eher gefährdet.
+[01:53:38-1 @ingosass] Und die einzige Chance, die wir da haben, ist eben Bildung und Ausbildung.
+[01:53:43-1 @timpritlove] Wissenschaftler auch mehr als Allrounder wieder zu etablieren und nicht so sehr als Fachidioten.
+[01:53:46-9 @ingosass] Ja, man hat da ganz banale Probleme, wenn man so an der Universität arbeitet.
+[01:53:51-1 @ingosass] Also Sie haben zum Beispiel, ein Kollege/eine Kollegin geht in den Ruhestand und wir müssen eine neue Professur ausschreiben.
+[01:53:57-6 @ingosass] Da denken wir uns, wir machen ein tolles zukunftsorientiertes Cutting Edge Thema in diesen Lehrstuhl.
+[01:54:07-0 @ingosass] Dann kommen die Bewerberinnen und Bewerber und die können das dann vielleicht oder sie können es auch nicht,
+[01:54:12-6 @ingosass] aber was sie nicht können, ist die bodenständige Ausbildung liefern, weil die sind ja Superspezialisten in einem bestimmten Bereich,
+[01:54:20-4 @ingosass] und am Ende wird es dann so sein, dass dann sozusagen die Alten die Grundlagen vermitteln.
+[01:54:24-8 @ingosass] Und die werden dann irgendwann auch in den Ruhestand gehen und nur aus Spezialisten und Superspezialisten werden wir keine,
+[01:54:33-5 @ingosass] ich will gar nicht Ingenieurinnen und Ingenieure sagen, sondern Fachleute ausbilden, die eben so komplexe Vorgänge wie das Beispiel Energieversorgung hier antizipieren und umsetzen.
+[01:54:45-8 @ingosass] Das wird nicht funktionieren.
+[01:54:46-1 @ingosass] Sie können nicht fünf Spezialisten zusammensetzen und meinen, dann haben Sie im Mittel eine vernünftige Lösung.
+[01:54:53-4 @ingosass] Sie brauchen die Leute, die das vernetzen und die über die Disziplinen schreiten können.
+[01:54:59-5 @ingosass] Und ich glaube, das ist eine wichtige Aufgabe der Universität und ich glaube, das ist eine enorm wichtige Aufgabe auch von Stiftungen,
+[01:55:06-8 @ingosass] dass man genau in diesen Bereich hinein vielleicht auch gezielt mal etwas tut, was eben die Universität oder die Forschungsstruktur aus sich heraus gar nicht so schnell schafft.
+[01:55:18-3 @timpritlove] Erinnert mich auch an ein Gespräch hier aus unserer Serie, was ich vor einiger Zeit mit Uwe Schneidewind über transformative Wissenschaft geführt habe,
+[01:55:27-8 @timpritlove] wo genau diese Aspekte auch eine Rolle gespielt haben.
+[01:55:31-4 @timpritlove] Wer mag, kann auch da mal reinhören.
+[01:55:34-5 @timpritlove] Ansonsten an dieser Stelle bedanke ich mich, Herr Sass, für die Ausführungen zur Geothermie
+[01:55:41-9 @timpritlove]  und ja auch die Bedürfnisse der wissenschaftlichen Ausbildung, aber natürlich auch die Bedürfnisse der Öffentlichkeit,
+[01:55:52-1 @timpritlove] die hier sich noch ein bisschen mehr in Richtung Zukunft strecken muss.
+[01:55:56-7 @timpritlove] Vielen Dank und vielen Dank fürs Zuhören hier bei Forschergeist.
+[01:56:01-0 @timpritlove] Es geht bald wieder weiter.
+[01:56:02-9 @timpritlove] Bis dahin sage ich, tschüss und bis bald.
+[01:56:06-0 Outro]

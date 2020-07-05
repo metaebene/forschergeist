@@ -1,0 +1,3127 @@
+﻿WEBVTT
+
+00:00:42.401 --> 00:00:48.000
+<v timpritlove>Hallo und herzlich Willkommen zu Forschergeist, dem Podcast des Stifterverbands für die deutsche Wissenschaft.
+
+00:00:48.001 --> 00:00:56.600
+<v timpritlove>Mein Name ist Tim Pritlove und ich begrüße alle hier zur 63. Ausgabe unserer Gesprächsreihe über Wissenschaft, wissenschaftliche Forschung
+
+00:00:56.601 --> 00:01:01.100
+<v timpritlove>und was wir mit dieser alles so tolles anfangen können.
+
+00:01:01.101 --> 00:01:07.800
+<v timpritlove>Und heute geht es auch sehr in die Tiefe im wahrsten Sinne des Wortes.
+
+00:01:07.801 --> 00:01:15.100
+<v timpritlove>Wir wollen mal eintauchen in die Erdkruste und schauen, was man da alles so schönes heraus gewinnen.
+
+00:01:15.101 --> 00:01:16.800
+<v timpritlove>Vor allem nämlich Wärme.
+
+00:01:16.801 --> 00:01:24.100
+<v timpritlove>Sprich, wir reden über Geothermie und dafür begrüße ich meinen Gesprächspartner heute, nämlich Ingo Sass, schönen guten Tag.
+
+00:01:24.101 --> 00:01:26.200
+<v ingosass>Guten Tag Herr Pritlove.
+
+00:01:26.201 --> 00:01:28.300
+<v timpritlove>Herr Sass, Sie sind ja Geologe.
+
+00:01:28.301 --> 00:01:29.400
+<v ingosass>Ja, Diplomgeologe.
+
+00:01:29.401 --> 00:01:33.800
+<v timpritlove>Diplomgeologe, das ist toll.
+
+00:01:33.801 --> 00:01:35.500
+<v timpritlove>Aber auch nicht nur.
+
+00:01:35.501 --> 00:01:37.500
+<v ingosass>Auch ein bisschen Ingenieur.
+
+00:01:37.501 --> 00:01:41.300
+<v timpritlove>Ein bisschen Ingenieur, war da nicht noch was mit Paläontologie auch noch?
+
+00:01:41.301 --> 00:01:46.100
+<v ingosass>Ja, Paläontologie gehört auch zu meinem Berufsabschluss, den es heute gar nicht mehr gibt,
+
+00:01:46.101 --> 00:01:50.600
+<v ingosass>den Diplomgeologen und Paläontologen oder Paläontologin gibt es nicht mehr.
+
+00:01:50.601 --> 00:01:52.500
+<v timpritlove>Also in der Diplomvariante?
+
+00:01:52.501 --> 00:01:54.100
+<v ingosass>Auch nicht in der Mastervariante.
+
+00:01:54.101 --> 00:01:55.600
+<v timpritlove>Oh wirklich? Warum das denn nicht?
+
+00:01:55.601 --> 00:01:59.400
+<v ingosass>Weil man hat mittlerweile eine andere Struktur in den Geowissenschaften.
+
+00:01:59.401 --> 00:02:06.200
+<v ingosass>Man kann also angewandte Geowissenschaften studieren, das machen auch unsere Studenten in Darmstadt oder Studierenden in Darmstadt.
+
+00:02:06.201 --> 00:02:16.500
+<v ingosass>Und man kann Geowissenschaften eher grundständig studieren und eher in diesen Bereichen ist da mit die Paläontologie stärker vertreten.
+
+00:02:16.501 --> 00:02:18.700
+<v timpritlove>Okay.
+
+00:02:18.701 --> 00:02:22.700
+<v ingosass>Außerdem hat die Bedeutung der Paläontologie sich etwas reduziert in den letzten Jahren
+
+00:02:22.701 --> 00:02:29.000
+<v ingosass>und ich würde sagen, in den Geowissenschaften sind die meisten Anwendungen in der Mikropaläontologie.
+
+00:02:29.001 --> 00:02:33.300
+<v ingosass>Das können wir in Darmstadt aber nicht.
+
+00:02:33.301 --> 00:02:36.300
+<v timpritlove>Das heißt, das ist eher jetzt so ein bisschen als Hobby übrig geblieben, kann man das sagen?
+
+00:02:36.301 --> 00:02:38.900
+<v timpritlove>Ab und zu nochmal einen Dinosaurier ausgraben oder so?
+
+00:02:38.901 --> 00:02:41.600
+<v ingosass>Ach, mir hat das nie gefallen, auch als Student nicht.
+
+00:02:41.601 --> 00:02:47.500
+<v ingosass>Und mein Werdegang ist eben so, ich habe in Hamburg studiert und habe dann festgestellt,
+
+00:02:47.501 --> 00:02:54.100
+<v ingosass>im Hauptstudium musst du da einen Paläontologieschein machen, der bestand aus 300 Zeichnungen von wirbellosen Tieren.
+
+00:02:54.101 --> 00:02:59.200
+<v ingosass>Ich bin jetzt Linkshänder und nicht überbegabt, was das betrifft und ich habe mich dann entschlossen,
+
+00:02:59.201 --> 00:03:05.100
+<v ingosass>weil ich sowieso angewandte Geologie studieren wollte und Hydrogeologie, dass ich nach Karlsruhe gehe.
+
+00:03:05.101 --> 00:03:08.000
+<v ingosass>Da war die Paläontologie im Grundstudium abgehakt.
+
+00:03:08.001 --> 00:03:17.800
+<v ingosass>Und so bin ich einer der wenigen Geologen/Paläontologen meines Jahrgangs, der fast frei von Paläontologie zu seinem Berufsabschluss gekommen ist.
+
+00:03:17.801 --> 00:03:22.200
+<v timpritlove>Also ich verorte da schon eine gewisse Begeisterung für das andere Thema.
+
+00:03:22.201 --> 00:03:28.400
+<v timpritlove>Wie kommt man denn überhaupt drauf, Geologie sich so zu erarbeiten und dann studieren zu wollen?
+
+00:03:28.401 --> 00:03:34.300
+<v ingosass>Unsere typischen Studierenden wissen das nicht, was sie wollen, die Mehrheit, wenn sie beginnen.
+
+00:03:34.301 --> 00:03:41.400
+<v ingosass>Für mich selbst war es anders, ich habe eine Journalistenausbildung hinter mir
+
+00:03:41.401 --> 00:03:46.800
+<v ingosass>und wollte damals, das war die Zeit, als Geo und National Geographic und so weiter boomten,
+
+00:03:46.801 --> 00:03:51.600
+<v ingosass>ich wollte das damals machen und ich habe mir dann überlegt, ich will Wissenschaftsredakteur werden
+
+00:03:51.601 --> 00:03:57.800
+<v ingosass>und dann habe ich mir zum Studieren eine Naturwissenschaft ausgesucht, die ein breites Portfolio hat.
+
+00:03:57.801 --> 00:04:05.300
+<v ingosass>Also von der Biologie eben bis zur Physik und wo man überall hineinschnuppern kann und das habe ich dann begonnen.
+
+00:04:05.301 --> 00:04:08.600
+<v ingosass>Und nach Hamburg bin ich gegangen, weil das war die erste Uni, die mir zusagte.
+
+00:04:08.601 --> 00:04:13.300
+<v ingosass>Damals war die Zeit, da gab es überall einen hohen Numerus Clausus und man wusste nicht,
+
+00:04:13.301 --> 00:04:15.500
+<v ingosass>wo man dann wirklich landen würde.
+
+00:04:15.501 --> 00:04:19.100
+<v timpritlove>Also die Ihnen zusagte im Sinne von, wo Sie eine Zusage bekommen haben?
+
+00:04:19.101 --> 00:04:20.700
+<v timpritlove>Und nicht, weil die Ihnen zusagte, weil sie Ihnen gefiel?
+
+00:04:20.701 --> 00:04:24.900
+<v ingosass>Die waren die ersten, die sagten, ja komm zum Studieren, dann dachte ich, okay, bevor was anbrennt, gehst du lieber dahin.
+
+00:04:24.901 --> 00:04:29.900
+<v timpritlove>Ja okay. Na gut, ist ja nicht die schlechteste Wahl, nach Hamburg zu gehen.
+
+00:04:29.901 --> 00:04:35.100
+<v timpritlove>Und das wurde dann aber nichts mit der journalistischen Tätigkeit?
+
+00:04:35.101 --> 00:04:40.800
+<v ingosass>Ich habe ein Doppelstudium begonnen und habe dann nach zwei Wochen gemerkt, das geht schief.
+
+00:04:40.801 --> 00:04:49.800
+<v ingosass>Ich habe also noch Publizistik studiert und merkte sofort, mal abgesehen davon, dass die Studienpläne natürlich nicht gut zueinander passten,
+
+00:04:49.801 --> 00:04:53.200
+<v ingosass>dass mich das auch in kürzester Zeit überfordern würde.
+
+00:04:53.201 --> 00:04:56.000
+<v ingosass>Und außerdem war ich gezwungen, dann sehr sehr stark zu arbeiten in meinem Studium,
+
+00:04:56.001 --> 00:05:03.600
+<v ingosass>weil ich doch durch die Schule vielleicht nicht so richtig auf ein naturwissenschaftliches Studium vorbereitet war
+
+00:05:03.601 --> 00:05:07.600
+<v ingosass>und aber diese Arbeiterei hat mich so tief in das Fach geführt, dass ich eigentlich nach einem Semester wusste,
+
+00:05:07.601 --> 00:05:10.400
+<v ingosass>das ist es, dabei bleibst du.
+
+00:05:10.401 --> 00:05:15.200
+<v timpritlove>Okay. Und dann war es auch Liebe auf den ersten Blick?
+
+00:05:15.201 --> 00:05:17.700
+<v ingosass>Na auf den zweiten würde ich sagen, aber dann schon sehr stark.
+
+00:05:17.701 --> 00:05:20.400
+<v ingosass>Und da habe ich auch gemerkt, wie wichtig einzelne Professoren sind.
+
+00:05:20.401 --> 00:05:28.500
+<v ingosass>Ich erinnere mich an einen fantastischen Professor, Professor Wong, der mit uns Mathematik für Geowissenschaftler machte.
+
+00:05:28.501 --> 00:05:34.200
+<v ingosass>Und das Mathe war schon ein bisschen ein feindliches Thema für uns damals
+
+00:05:34.201 --> 00:05:43.500
+<v ingosass>und der hat uns die Dinge aber so nahegebracht, an praktischen geowissenschaftlichen Fragestellungen hat man schwierigste, wirklich schwierigste Nüsse zu knacken gehabt.
+
+00:05:43.501 --> 00:05:49.800
+<v ingosass>Und das haben wir gemeinsam getan so im – wie soll ich sagen – im Studierendenkollektiv
+
+00:05:49.801 --> 00:05:56.900
+<v ingosass>und hatten dann noch den entsprechenden Erfolg und das war ganz entscheidend für die Motivation für den Rest meines Studiums.
+
+00:05:56.901 --> 00:06:01.000
+<v timpritlove>Das dann auch in Hamburg beendet wurde?
+
+00:06:01.001 --> 00:06:06.900
+<v ingosass>Nein, ich bin dann nach dem Vordiplom nach Karlsruhe gegangen.
+
+00:06:06.901 --> 00:06:09.300
+<v timpritlove>Weil es da schöner ist und wärmer?
+
+00:06:09.301 --> 00:06:15.600
+<v ingosass>Würde ich nicht unbedingt sagen, aber in Karlsruhe konnte man damals eben angewandte Geologie vertiefen
+
+00:06:15.601 --> 00:06:22.500
+<v ingosass>und da Hydrogeologie und damals waren dort sehr exponierte Professoren dabei.
+
+00:06:22.501 --> 00:06:28.000
+<v ingosass>Außerdem war damals ein Geothermie-Projekt gerade in aller Munde.
+
+00:06:28.001 --> 00:06:39.000
+<v ingosass>Eben der erste Versuch, die Bohrungen in Bruchsal energetisch zu nutzen und das hat mich dann veranlasst, nach Karlsruhe zu gehen.
+
+00:06:39.001 --> 00:06:49.700
+<v ingosass>Weil im Grundstudium hatte ich Island durchquert zu Fuß und dort die damals beginnende Geothermie-Industrie mir selbst angeguckt in Island
+
+00:06:49.701 --> 00:06:55.300
+<v ingosass>und für mich die Entscheidung getroffen, das ist es, was du machen willst.
+
+00:06:55.301 --> 00:07:00.100
+<v timpritlove>In Island ist es dann auch noch auf eine Professur mal für Sie hinausgelaufen?
+
+00:07:00.101 --> 00:07:01.100
+<v ingosass>Ja, das war dann später.
+
+00:07:01.101 --> 00:07:09.000
+<v ingosass>Das war dann eine Gastprofessur im Rahmen eines Programmes Renewable Energy Science,
+
+00:07:09.001 --> 00:07:16.800
+<v ingosass>das wurde für einige Jahre von den Universitäten Reykjavik und Akureyri aufgelegt mit starker Industriebeteiligung
+
+00:07:16.801 --> 00:07:23.400
+<v ingosass>und dort konnten internationale Studenten in Trimestern ihren Master machen.
+
+00:07:23.401 --> 00:07:33.600
+<v ingosass>Und da durfte ich halt mitwirken und mit Lehre machen und das war schon sehr interessant und sehr wichtig.
+
+00:07:33.601 --> 00:07:41.200
+<v ingosass>Und das zeigt auch, das Programm war meiner Meinung nach auch sehr richtig, weil es die Interdisziplinarität des Faches halt reflektiert.
+
+00:07:41.201 --> 00:07:50.700
+<v ingosass>Es ist, wenn man Geothermie vertieft als Teil der erneuerbaren Energien Wissenschaften, sage ich mal und nicht so sehr als Teil der Geowissenschaften,
+
+00:07:50.701 --> 00:08:00.200
+<v ingosass>dann hat man sehr starke Bezüge in die Ingenieurwissenschaften und möglicherweise auch starke Bezüge in andere Bereiche.
+
+00:08:00.201 --> 00:08:06.300
+<v ingosass>Ich meine, Geothermie ist ja auch in aller Munde mit rechtlichen Fragen und Genehmigungsfragen etc. pp.
+
+00:08:06.301 --> 00:08:16.200
+<v ingosass>Und dieses Konzept der School of Renewable Energy Science, auch in der Verschneidung mit anderen Arbeitsgebieten in den erneuerbaren Energien,
+
+00:08:16.201 --> 00:08:20.200
+<v ingosass>hat meiner Meinung nach ein sehr sehr zukunftsweisendes Konzept gehabt.
+
+00:08:20.201 --> 00:08:31.800
+<v ingosass>Und ich würde das schon hervorragend finden, wenn wir so etwas in Deutschland hinbekämen.
+
+00:08:31.801 --> 00:08:36.000
+<v timpritlove>Island ist ja so ein bisschen wie das Mekka für Geothermiker oder?
+
+00:08:36.001 --> 00:08:37.200
+<v ingosass>Ist doch ein schönes Land.
+
+00:08:37.201 --> 00:08:41.000
+<v timpritlove>Ja, ich war noch nicht da, aber es dampft ja ganz ordentlich aus der Erde.
+
+00:08:41.001 --> 00:08:45.900
+<v ingosass>Ja natürlich, Island liegt ja auf dem mittelozeanischen mittelatlantischen Rücken und darunter ist ein Hotspot,
+
+00:08:45.901 --> 00:08:51.100
+<v ingosass>also eine Wärmeanomalie und das Ganze führt eben dazu, dass sich die Kruste über den Meeresspiegel erhebt
+
+00:08:51.101 --> 00:08:53.300
+<v ingosass>und mit vielen Vulkanen dann auch entsprechend warm ist.
+
+00:08:53.301 --> 00:08:55.700
+<v timpritlove>Das heißt, mehr Geothermie als in Island geht eigentlich gar nicht?
+
+00:08:55.701 --> 00:08:56.300
+<v ingosass>Geht eigentlich nicht.
+
+00:08:56.301 --> 00:08:58.200
+<v ingosass>Weil wenn es zu viel wird, wird es ja auch gefährlich.
+
+00:08:58.201 --> 00:09:02.300
+<v ingosass>So ein Vulkanausbruch ist ja nicht unbedingt geeignet für eine dauerhafte technische Anlage.
+
+00:09:02.301 --> 00:09:03.400
+<v timpritlove>Gibt es da aber auch.
+
+00:09:03.401 --> 00:09:04.500
+<v ingosass>Gibt es auch, ja.
+
+00:09:04.501 --> 00:09:07.300
+<v timpritlove>Aber dann auf der anderen Seite, da wo nicht so viele Leute wohnen.
+
+00:09:07.301 --> 00:09:14.600
+<v ingosass>Ja. Also in Island hat man eher das Problem, dass man mit der technischen Erschließung nicht zu nahe an die gefährlichen Zonen ran darf.
+
+00:09:14.601 --> 00:09:18.500
+<v ingosass>Und in Deutschland haben wir eher das Problem, dass wir die möglichst warmen Zonen aufsuchen müssen.
+
+00:09:18.501 --> 00:09:21.900
+<v timpritlove>Was ist denn so die geothermische Nutzungsrealität in Island?
+
+00:09:21.901 --> 00:09:28.600
+<v timpritlove>Man hört ja immer viel davon, dass das ein oder andere damit beheizt wird, aber welche Dimensionen hat das, wie weit geht das?
+
+00:09:28.601 --> 00:09:33.100
+<v ingosass>Ahja jetzt erwischen Sie mich natürlich nicht so ganz auf dem richtigen Fuß.
+
+00:09:33.101 --> 00:09:41.000
+<v ingosass>Meiner Kenntnis nach sind in Island 80% des Energiebedarfs wird über erneuerbare Quellen gedeckt
+
+00:09:41.001 --> 00:09:46.100
+<v ingosass>und ungefähr pari ist der Anteil Wasserkraft und Geothermie.
+
+00:09:46.101 --> 00:09:54.600
+<v ingosass>Und man hat natürlich enorme Stromüberschüsse in Island, vom Potenzial her allemal, aber auch von der technischen Nutzung
+
+00:09:54.601 --> 00:10:00.400
+<v ingosass>und das führt eben dazu, dass man zum Beispiel Aluminium-Schmelzwerke versucht in Island anzusiedeln,
+
+00:10:00.401 --> 00:10:05.000
+<v ingosass>weil das ist ein sehr stromintensiver Prozess, der …
+
+00:10:05.001 --> 00:10:13.000
+<v timpritlove>… der da ganz gut durchgeführt werden kann, weil da verbraucht man dann sozusagen keine Energie,
+
+00:10:13.001 --> 00:10:15.100
+<v timpritlove>die woanders falsch gewonnen worden wäre.
+
+00:10:15.101 --> 00:10:22.400
+<v ingosass>Ja, also der Strom wird halt in großen Mengen gebraucht für Aluminium-/Erzaufbereitung und das tut man dann in Island.
+
+00:10:22.401 --> 00:10:28.900
+<v ingosass>Steht stark in der Kritik, hat ökologisch nicht nur Vorteile.
+
+00:10:28.901 --> 00:10:35.600
+<v ingosass>Man muss sich natürlich auch fragen, ob es sinnvoll ist, zum Beispiel australische Bauxite um die Welt zu fahren,
+
+00:10:35.601 --> 00:10:44.300
+<v ingosass>um sie in Island aufzuschmelzen, das Rohaluminium zu gewinnen und dann diese Rohkörper dann wieder woanders hinzufahren und weiter zu verhütten und zu verarbeiten.
+
+00:10:44.301 --> 00:10:52.900
+<v ingosass>Und der Punkt steht auch stark in der Kritik, weil eigentlich die sekundäre Produktion in Island nicht angesiedelt ist.
+
+00:10:52.901 --> 00:11:03.500
+<v ingosass>Also es ist rein der Teil, der viel Strom bedarf, der wird in Island realisiert und der Rest in anderen Ländern, zum Beispiel auch in Deutschland und so weiter.
+
+00:11:03.501 --> 00:11:10.000
+<v timpritlove>Aber davon abgesehen kann man davon ausgehen, alles was beheizt wird in Island, kommt aus der Erde?
+
+00:11:10.001 --> 00:11:20.900
+<v ingosass>Ja, Reykjavik hat Straßenheizung, also Verzicht auf Streusalz, durch geothermische Quellen nicht überall, aber doch in signifikanten Bereichen.
+
+00:11:20.901 --> 00:11:26.900
+<v ingosass>Und wenn Sie mal nach Island fahren, also das, was sicherlich zur Kultur gehört dort, ist Thermalbaden.
+
+00:11:26.901 --> 00:11:37.400
+<v ingosass>Sie werden keinen größeren Weiler in Island finden mit mehr als 100 Einwohnern, der nicht über ein Thermalbad mit den schönen Hotspots verfügt.
+
+00:11:37.401 --> 00:11:47.000
+<v ingosass>Und wenn Sie da dann bei 39-41/42 Grad so im Nieselregen draußen sitzen und in die Landschaft schauen, dann ist das schon was ganz besonderes.
+
+00:11:47.001 --> 00:11:50.400
+<v timpritlove>Straßenheizung klingt auch toll.
+
+00:11:50.401 --> 00:12:01.400
+<v timpritlove>Ja, jetzt stehen wir ja vor großen Herausforderungen.
+
+00:12:01.401 --> 00:12:18.900
+<v timpritlove>Durch den Klimawandel stellen sich viele Fragen, wie man denn Energie gewinnen soll und hatten hier auch schon vor einigen Ausgaben ein Gespräch mit Volker Quaschning hier
+
+00:12:18.901 --> 00:12:27.100
+<v timpritlove>von der Universität hier in Berlin, der sehr eindringlich dargestellt hat, wieviel Nachholbedarf doch hier noch ist.
+
+00:12:27.101 --> 00:12:36.700
+<v timpritlove>Und auch herausgestellt hat, dass eben auch sehr viel Energie, die wir so überhaupt verbrauchen, in Heizungen geht, also in die Wärmeerzeugung.
+
+00:12:36.701 --> 00:12:41.000
+<v timpritlove>Dass das eigentlich so das größte Problem darstellt.
+
+00:12:41.001 --> 00:12:49.100
+<v timpritlove>Jetzt gibt es ja durchaus auch so Fernwärmesysteme, auch hier in Berlin hier und da, aber die kommen ja nicht aus der Erde.
+
+00:12:49.101 --> 00:13:02.900
+<v timpritlove>Welchen Beitrag kann denn die Wärme der Erde überhaupt leisten, wenn sie nicht so direkt an so einem Hotspot angelagert ist wie in Island?
+
+00:13:02.901 --> 00:13:09.500
+<v timpritlove>Welches Potenzial steckt da drin, wie tief muss man überhaupt rein in die Erde, um was davon zu haben?
+
+00:13:09.501 --> 00:13:20.000
+<v ingosass>Also um die Antwort kurz zu halten, die natürlich sehr sehr lang sein kann und ich halte eine zweisemestrige Vorlesung zu dem Thema,
+
+00:13:20.001 --> 00:13:34.700
+<v ingosass>kann man schon sagen, wenn wir technisch spindisieren und wenn wir uns mal lösen von regulativen Zwängen, von anderen einschränkenden Bedingungen,
+
+00:13:34.701 --> 00:13:45.700
+<v ingosass>von ökonomischen Fragestellungen, dann ist es vom Potenzial her so, dass wir einen Großteil der infrastrukturell bedingten Energieversorgung mit geothermischen Quellen beheizen könnten
+
+00:13:45.701 --> 00:13:50.100
+<v ingosass>oder aus geothermischer Speicherung versorgen können.
+
+00:13:50.101 --> 00:13:52.600
+<v ingosass>Das gilt besonders für den urbanen Raum.
+
+00:13:52.601 --> 00:14:07.600
+<v ingosass>Und der Wärmeverbrauch in Deutschland ist so, man kann das so als Faustregel sagen, ungefähr 50-60% des Gesamtenergieverbrauchs ist Gebäudewärme.
+
+00:14:07.601 --> 00:14:21.300
+<v ingosass>Das heißt also, der Beitrag zu dem, was wir als Energiewende bezeichnen, könnte in geothermischen Größenordnungen sehr sehr groß sein.
+
+00:14:21.301 --> 00:14:23.100
+<v timpritlove>Aber ab wann wird es denn sozusagen nutzbar?
+
+00:14:23.101 --> 00:14:34.200
+<v timpritlove>Wieviele Zentimeter oder Meter oder Kilometer müssen wir denn in die Erde vordringen, bis sozusagen diese dort vorherrschende Wärme für uns hilfreich wird?
+
+00:14:34.201 --> 00:14:46.200
+<v ingosass>Also die meisten Leute kennen ja so Erdwärmekollektoren, da verlegt man dann so Wärmeaustauscherschläuche in seinem Garten in einer Tiefe von 1,20-1,50 Meter
+
+00:14:46.201 --> 00:14:52.000
+<v ingosass>und da kann man in Verbindung mit einer Wärmepumpe natürlich schon sehr viel Primärenergie einsparen.
+
+00:14:52.001 --> 00:15:08.400
+<v ingosass>Vor allem man kann eben bis zum absoluten Nullpunkt theoretisch, das ist Minus 273,15 Grad Celsius, also 0 Kelvin, kann man natürlich einem Gegenstand oder einer Flüssigkeit Wärme entziehen.
+
+00:15:08.401 --> 00:15:17.200
+<v ingosass>Das wird natürlich mit zunehmender Abkühlung immer ineffizienter und deshalb streben wir danach, in der Geothermie eine möglichst hohe Quelltemperatur zu erschließen.
+
+00:15:17.201 --> 00:15:19.100
+<v ingosass>Deshalb baut man auch tief.
+
+00:15:19.101 --> 00:15:22.400
+<v timpritlove>Aber was bedeutet denn das 1,20 Meter?
+
+00:15:22.401 --> 00:15:24.000
+<v timpritlove>Was macht man denn da konkret?
+
+00:15:24.001 --> 00:15:26.000
+<v timpritlove>Pumpt man da Wasser in die Erde rein?
+
+00:15:26.001 --> 00:15:31.900
+<v ingosass>Ja, man nimmt … also das ist schon etwas spezielles.
+
+00:15:31.901 --> 00:15:40.400
+<v ingosass>Also man braucht im Prinzip Sickerwasser, also man kann so ein System nicht unter einem Gebäude oder unter einer versiegelten Fläche realisieren,
+
+00:15:40.401 --> 00:15:45.800
+<v ingosass>weil das Sickerwasser bringt einem natürlich zum Beispiel die sommerliche Wärme transportiert es in den Untergrund.
+
+00:15:45.801 --> 00:15:54.200
+<v ingosass>Sie kennen das, wenn Sie auf einem heißen Strand sind und Sie barfuß ins rettende Wasser laufen müssen und Sie auf einmal merken,
+
+00:15:54.201 --> 00:16:04.100
+<v ingosass>ich verbrenne mir die Füße oder meinen, Sie verbrennen sich die Füße, dann liegt das natürlich daran, dass dieser fast trockene Sand unheimlich stark aufgeheizt wird an der Oberfläche,
+
+00:16:04.101 --> 00:16:09.400
+<v ingosass>aber sobald sie fünf Zentimeter mit dem Fuß abschieben, merken Sie schon, es wird angenehm kühl.
+
+00:16:09.401 --> 00:16:10.700
+<v ingosass>So verhält man sich ja auch am Strand.
+
+00:16:10.701 --> 00:16:14.700
+<v ingosass>Das liegt eben daran, dass da kein Wasser ist, dass diese Wärme transportiert.
+
+00:16:14.701 --> 00:16:24.500
+<v ingosass>Sobald es da jetzt regnet, es Sickerwasser gibt oder eben die Dünung rüberstreicht, wird diese Energie in den Untergrund transportiert.
+
+00:16:24.501 --> 00:16:33.800
+<v ingosass>Und das funktioniert natürlich überall dort, wo die Sonne scheint und wo der Boden eben die nötige Permeabilität hat, um Wasser versickern zu lassen.
+
+00:16:33.801 --> 00:16:43.400
+<v ingosass>Und deshalb, also in offenen Flächen kann man dann Schläuche verlegen, durch die Schläuche lässt man ein, wir sagen, Wärmetauschermedium fließen.
+
+00:16:43.401 --> 00:16:57.900
+<v ingosass>Also in der Regel ist das Wasser mit einem Frostschutzzusatz und dann kann man über diese Wärmetauscherrohre diese „sommerlich versickerte Wärme“ im Winter entziehen.
+
+00:16:57.901 --> 00:17:05.400
+<v timpritlove>Das heißt, wir reden hier eigentlich gar nicht von einer Wärme der Erde selber, sondern eigentlich einer Wärme,
+
+00:17:05.401 --> 00:17:11.700
+<v timpritlove>die von oben durch die Sonne über das Wasser in diesen Boden abtaucht?
+
+00:17:11.701 --> 00:17:20.700
+<v ingosass>Ja, also die oberflächennahe Geothermie, wie wir sagen, ist sowieso im wesentlichen nichts anderes als eingespeicherte Solarthermie, also natürlich eingespeicherte Solarthermie.
+
+00:17:20.701 --> 00:17:31.000
+<v ingosass>Also wir haben den terrestrischen Wärmestrom, das sind, wenn es hochkommt, in Deutschland also 100 Milliwatt pro Quadratmeter, das was von unten kommt,
+
+00:17:31.001 --> 00:17:38.800
+<v ingosass>da können wir später drüber reden, wieso das kommt und das, was von oben kommt, ist fast eine Größenordnung mehr.
+
+00:17:38.801 --> 00:17:45.300
+<v ingosass>Also es kommt viel mehr Sonnenenergie von oben hinein und erwärmt dann eben das Grundwasser und so weiter.
+
+00:17:45.301 --> 00:17:50.900
+<v ingosass>Das kann man daran festmachen, wenn Sie bohren irgendwo in Deutschland, den obersten Grundwasserleiter anbohren,
+
+00:17:50.901 --> 00:17:56.600
+<v ingosass>der hat in der Regel die Temperatur, die Sie auch als mittlere Jahreslufttemperatur haben.
+
+00:17:56.601 --> 00:18:01.000
+<v ingosass>Das heißt, je höher Sie kommen zum Beispiel in den Alpen oder was weiß ich, im Harz oder sonst wo,
+
+00:18:01.001 --> 00:18:06.500
+<v ingosass>desto geringer ist natürlich die Jahresmitteltemperatur, desto geringer werden auch die Grundwassertemperaturen.
+
+00:18:06.501 --> 00:18:14.100
+<v ingosass>Und das ist auch der direkte Nachweis, dass diese Kopplung zwischen solarer Wärme und der Untergrunderwärmung besteht.
+
+00:18:14.101 --> 00:18:18.100
+<v ingosass>Und geothermische technische Systeme machen sich diesen Effekt zunutze.
+
+00:18:18.101 --> 00:18:31.900
+<v timpritlove>Das heißt, wenn wir von Geothermie sprechen, reden wir generell von Wärme im Kontext, dass sie sich in der Erde abspielt und dort Prozessen folgt?
+
+00:18:31.901 --> 00:18:32.800
+<v ingosass>Ja.
+
+00:18:32.801 --> 00:18:41.100
+<v timpritlove>Nicht unbedingt zwangsläufig die Erde und die von ihr selbst erzeugte Wärme aus dem Inneren?
+
+00:18:41.101 --> 00:18:50.000
+<v ingosass>Es trifft beides zu. Es gibt ein klar von Sonne und Wetter beeinflussten Teil der oberen Erdkruste,
+
+00:18:50.001 --> 00:18:56.800
+<v ingosass>das ist der Bereich, den wir so unter dem Begriff oberflächennahe Geothermie dann auch fassen im Wesentlichen
+
+00:18:56.801 --> 00:19:02.800
+<v ingosass>und natürlich ist mit zunehmender Tiefe nimmt die Effizienz dieser Transportprozesse in die Tiefe auch ab.
+
+00:19:02.801 --> 00:19:08.900
+<v ingosass>Also das liegt alleine schon daran, dass die Durchlässigkeit der Gesteine mit zunehmendem Druck ab
+
+00:19:08.901 --> 00:19:13.800
+<v ingosass>und deshalb auch die Sickerbewegung nicht mehr möglich ist, und dann haben Sie eben konduktiven Wärmetransport.
+
+00:19:13.801 --> 00:19:20.200
+<v ingosass>Der ist wesentlich langsamer und damit auch für technische Systeme eigentlich ineffizienter.
+
+00:19:20.201 --> 00:19:34.100
+<v ingosass>Und wir haben in der Erdkugel einmal einen großen Wärmespeicher, das ist sogenannte akkretionäre Wärme, das ist die Energie, die aus der Zeit der Erdentstehung gespeichert wurde
+
+00:19:34.101 --> 00:19:43.300
+<v ingosass>und wir haben natürlich einen großen ständig nachgelieferten Wärmeenergiebeitrag durch den natürlichen radioaktiven Zerfall,
+
+00:19:43.301 --> 00:19:53.200
+<v ingosass>das sind im Wesentlichen zwei Uranisotope, ein Thoriumisotop und ein Kaliumisotop, das da für den terrestrischen Wärmefluss sorgen.
+
+00:19:53.201 --> 00:19:59.300
+<v timpritlove>Ja, das heißt, das ist jetzt gar nicht mal unbedingt jetzt das Magma der Erde, was von innen alles aufheizt?
+
+00:19:59.301 --> 00:20:01.600
+<v ingosass>Nein, natürlich nicht.
+
+00:20:01.601 --> 00:20:06.100
+<v ingosass>Das Magma ist auch nur ein Ausdruck dieser Phänomene.
+
+00:20:06.101 --> 00:20:10.600
+<v timpritlove>Und nicht durch einfach die Beschaffenheit der Erde selber.
+
+00:20:10.601 --> 00:20:15.100
+<v ingosass>Nein, nein, wir haben ja jetzt Teile in den inneren Schichten der Erde sind ja flüssig
+
+00:20:15.101 --> 00:20:22.000
+<v ingosass>und das ist natürlich diese akkretionäre Hitzeenergie, die dort gespeichert wurde.
+
+00:20:22.001 --> 00:20:31.700
+<v ingosass>Der Mond ist halt zum Beispiel zu klein und ist über die Jahrmilliarden abgekühlt und kalt und tot quasi und das ist bei der Erde jetzt noch nicht der Fall.
+
+00:20:31.701 --> 00:20:46.000
+<v ingosass>Und natürlich gibt die Erde über Vulkanausbrüche und andere natürliche – wie soll ich das sagen – Fehlstellen, zum Beispiel Thermalquellen und ähnliches
+
+00:20:46.001 --> 00:20:50.700
+<v ingosass>gibt natürlich von dieser Energie Energie in die Atmosphäre ab.
+
+00:20:50.701 --> 00:20:56.400
+<v ingosass>Und wenn wir keinen Treibhauseffekt haben, dann geht diese Energie auch ins Weltall.
+
+00:20:56.401 --> 00:21:04.200
+<v ingosass>Und je stärker der Treibhauseffekt ist, desto mehr bleibt diese Energie eben in der Atmosphäre enthalten.
+
+00:21:04.201 --> 00:21:11.500
+<v timpritlove>Das heißt, allein durch die Gravitation der Erde, das sich zusammendrücken der Elemente entsteht keine neue Hitze?
+
+00:21:11.501 --> 00:21:22.500
+<v ingosass>Nein, die ist also durch … das ist im Wesentlichen der Vorgang, der sich in der Erdentstehung abgespielt hat und dort haben die Druck- und Temperaturverhältnisse geherrscht,
+
+00:21:22.501 --> 00:21:25.300
+<v ingosass>um eben diesen Zustand einzustellen.
+
+00:21:25.301 --> 00:21:33.400
+<v ingosass>Der wird jetzt quasi durch den natürlichen radioaktiven Zerfall und durch die bestehenden Druckverhältnisse aufrechterhalten.
+
+00:21:33.401 --> 00:21:42.900
+<v ingosass>Aber die Erde ist ganz eindeutig auf der abkühlenden Achse, für uns Menschen ist das nicht von Interesse vom Ablauf her,
+
+00:21:42.901 --> 00:21:49.900
+<v ingosass>also da brauchen wir auch nicht über Generationen sprechen, sondern da müssen wir vielleicht über zigtausende von Generationen sprechen,
+
+00:21:49.901 --> 00:21:59.100
+<v ingosass>und die Abgabe dieser Energie an die Atmosphäre hängt sehr stark von den Bedingungen der Atmosphäre ab.
+
+00:21:59.101 --> 00:22:06.700
+<v ingosass>Also es gab Zeiten in der Erdgeschichte, da gab es den Snowball Earth, da war die Erde komplett vergletschert
+
+00:22:06.701 --> 00:22:12.100
+<v ingosass>und da haben subglaziale Vulkanausbrüche so viel CO2 in die Atmosphäre geschleudert,
+
+00:22:12.101 --> 00:22:22.600
+<v ingosass>dass sich dann ein Treibhauseffekt bilden konnte und der Treibhauseffekt alleine ist es, der überhaupt Lebenswerte Temperaturen wieder auf der Erde eingestellt hat.
+
+00:22:22.601 --> 00:22:28.500
+<v ingosass>Und wenn Sie natürlich zu viel Treibhauseffekt machen, dann wird es zu warm, dann wird es wieder nicht lebenswert.
+
+00:22:28.501 --> 00:22:33.500
+<v ingosass>Wir sind ja im Moment stark bemüht, diesen Zustand auch mal am eigenen Leib zu erleben.
+
+00:22:33.501 --> 00:22:43.000
+<v timpritlove>Okay. Das heißt, im Prinzip sitzen wir auf einer großen Wärmebatterie, die irgendwann auch einfach mal alle sein wird, aber dauert bloß noch eine ganze Weile.
+
+00:22:43.001 --> 00:22:51.800
+<v ingosass>Ja, also Uran und Thorium haben ja Jahrmillionen an Halbwertzeiten, das heißt, da sind natürlich die Zerfallszeiten alleine schon sehr lang
+
+00:22:51.801 --> 00:22:55.500
+<v ingosass>und das ist natürlich auf geologischen Skalen misst man das natürlich.
+
+00:22:55.501 --> 00:23:01.400
+<v ingosass>Aber die Erde ist mitnichten mit einem konstanten Klima ausgestattet.
+
+00:23:01.401 --> 00:23:12.400
+<v ingosass>Da hat es in der Erdgeschichte schon verschiedene extreme Auswüchse gegeben, ohne anthropogenes CO2.
+
+00:23:12.401 --> 00:23:16.900
+<v timpritlove>Wer hält jetzt länger durch, unsere Sonne oder dieser Wärmespeicher in der Erde?
+
+00:23:16.901 --> 00:23:25.600
+<v ingosass>Ja, ich habe es jetzt nicht so genau im Kopf, also die Sonne hat, glaube ich, die Perspektive liegt so, ich bin jetzt auch kein Geophysiker, liegt so bei 2,1 Milliarden Jahre noch, dann ist sowieso Schluss.
+
+00:23:25.601 --> 00:23:28.700
+<v timpritlove>Ja. Aber das hält sich dann sozusagen die Waage?
+
+00:23:28.701 --> 00:23:31.700
+<v ingosass>Das ist für uns beide jetzt nicht so relevant.
+
+00:23:31.701 --> 00:23:41.800
+<v timpritlove>Nein, für uns sowieso nicht, aber Podcasts werden ja auch noch in Millionen Jahren gehört, ja sicherlich und da muss man dann auch schon darauf vorbereitet sein.
+
+00:23:41.801 --> 00:23:51.200
+<v timpritlove>Gut, also wir haben diese Wärme und wir würden sie jetzt gerne nutzen, weil wir das Problem haben,
+
+00:23:51.201 --> 00:24:01.700
+<v timpritlove>dass die ganzen anderen wärmeerzeugenden Systeme, die wir haben, leider zu diesem Klimawandel weiter beitragen.
+
+00:24:01.701 --> 00:24:08.600
+<v timpritlove>Welche Rolle spielt denn so die Geothermie derzeit überhaupt in der Energieerzeugung?
+
+00:24:08.601 --> 00:24:14.100
+<v timpritlove>Ist das nur alles eine theoretische Geschichte und findet im Wesentlichen alles nur in Island statt
+
+00:24:14.101 --> 00:24:24.900
+<v ingosass>oder haben wir jetzt außer diesen paar Leitungen in der Erde vor Einfamilienhäusern noch irgendwas signifikantes schon in Betrieb?
+
+00:24:24.901 --> 00:24:26.600
+<v ingosass>Ja, man muss natürlich schauen, wo man hinschaut.
+
+00:24:26.601 --> 00:24:37.700
+<v ingosass>Wenn man mal den globalen Maßstab nimmt, dann ist natürlich überall dort Geothermie relativ leicht zu erschließen, wo Plattengrenzen sind,
+
+00:24:37.701 --> 00:24:41.600
+<v ingosass>also wo tektonische Platten aneinander grenzen.
+
+00:24:41.601 --> 00:24:48.100
+<v ingosass>Das ist natürlich besonders der Fall in diesem Ring of Fire, diesem circumpazifischen Vulkanring,
+
+00:24:48.101 --> 00:25:00.700
+<v ingosass>das ist alles im Prinzip der Ausdruck einer Plattengrenze und dort gibt es in verschiedenen Ländern zum Teil erhebliche Nutzung der Geothermie durch vor allen Dingen Kraftwerke also Stromerzeugung.
+
+00:25:00.701 --> 00:25:01.500
+<v timpritlove>An welchen Orten ist das zum Beispiel?
+
+00:25:01.501 --> 00:25:04.800
+<v ingosass>Das ist zum Beispiel in Indonesien da ist das Wachstum sehr stark.
+
+00:25:04.801 --> 00:25:07.400
+<v ingosass>In Neuseeland ist es sehr stark.
+
+00:25:07.401 --> 00:25:10.800
+<v ingosass>USA ist immer noch Nummer 1 der geothermische Stromerzeugung.
+
+00:25:10.801 --> 00:25:15.700
+<v ingosass>Das liegt vor allen Dingen an einem riesigen Thermalfeld in Kalifornien, the Geysirs,
+
+00:25:15.701 --> 00:25:20.500
+<v ingosass>aber es gibt dort auch diverse andere signifikante Verstromungsnutzung.
+
+00:25:20.501 --> 00:25:28.900
+<v ingosass>Dann sehr sehr stark am Ausbau interessiert sind also besonders Argentinien und Chile.
+
+00:25:28.901 --> 00:25:37.200
+<v ingosass>Und in Malaysia tut sich sehr viel, in Mittelamerika gibt es verschiedene Aktivitäten.
+
+00:25:37.201 --> 00:25:44.000
+<v ingosass>Also es gibt dort wirklich signifikante Beiträge zur Stromerzeugung aus Geothermie, wie auch in Island.
+
+00:25:44.001 --> 00:25:49.000
+<v ingosass>Und ich habe es gar nicht im Kopf, ich glaube Island ist auch Nummer 4 nur weltweit.
+
+00:25:49.001 --> 00:25:50.500
+<v timpritlove>Ach guck an.
+
+00:25:50.501 --> 00:25:55.600
+<v ingosass>Aber ich bin jetzt auch wieder, wir erheben die Zahlen nur alle fünf Jahre, also ich weiß jetzt nicht,
+
+00:25:55.601 --> 00:26:03.800
+<v ingosass>und wir haben den World Geothermal Congress immer zum runden Zehnerjahr und zum Fünfer dazwischen,
+
+00:26:03.801 --> 00:26:09.900
+<v ingosass>das heißt, der nächste ist zufällig im Reykjavik im Jahr 2020, dann wird es neue Zahlen geben.
+
+00:26:09.901 --> 00:26:10.300
+<v timpritlove>Okay.
+
+00:26:10.301 --> 00:26:20.000
+<v ingosass>Ja also gut, dann Stromerzeugung begann in Europa aus der Geothermie, das war 1904 in Larderello in der Toskana.
+
+00:26:20.001 --> 00:26:33.300
+<v ingosass>Gino Riconti hat dort Trockendampf über eine Turbine geleitet und Strom erzeugt und Italien ist neben Island in Europa der wichtigste geothermische Stromerzeuger.
+
+00:26:33.301 --> 00:26:39.200
+<v ingosass>Eben auch vor allen Dingen durch die Nutzung in Larderello in der Toskana.
+
+00:26:39.201 --> 00:26:40.900
+<v ingosass>Aber es ist natürlich auch ein Vulkanland.
+
+00:26:40.901 --> 00:26:49.400
+<v ingosass>Ich meine, der Vesuv und der Etna sind ja allen bekannt oder wenn Sie liparische Inseln, phlegräische Felder, Stromboli nehmen,
+
+00:26:49.401 --> 00:26:55.800
+<v ingosass>dann weiß fast jeder verbindet natürlich mit diesen Namen auch Vulkanismus und letztendlich …
+
+00:26:55.801 --> 00:26:58.300
+<v timpritlove>Die Erdbeben.
+
+00:26:58.301 --> 00:27:05.000
+<v ingosass>… passt die Seismizität und die geothermische Nutzung im weitesten Sinne zusammen.
+
+00:27:05.001 --> 00:27:15.600
+<v ingosass>Und also das wäre der Teil, wo, wir sagen, die Früchte relativ niedrig hängen, wo man mit vergleichsweise flachen Bohrungen Strom erzeugen kann.
+
+00:27:15.601 --> 00:27:22.200
+<v ingosass>Das ist dann in Mitteleuropa, in Deutschland, in Frankreich, Polen und so weiter schon schwieriger.
+
+00:27:22.201 --> 00:27:28.500
+<v ingosass>Wir müssen noch erhebliche Bohrtiefen erreichen, um wirtschaftlich verstrombare Temperaturen zu erreichen.
+
+00:27:28.501 --> 00:27:41.000
+<v ingosass>Und es gibt in Deutschland, ich glaube, wir haben heute aktuell eine installierte elektrische Verstromungsleistung aus Geothermie in Deutschland von 38 Megawatt als Leistung.
+
+00:27:41.001 --> 00:27:46.700
+<v ingosass>Das macht dann so was bei 25 Gigawattstunden pro Jahr.
+
+00:27:46.701 --> 00:27:53.300
+<v timpritlove>Bleiben wir doch erst mal genau bei diesen Bereichen, Ring of Fire, also sagen wir mal, die Orte, wo es im wahrsten Sinne des Wortes naheliegend ist,
+
+00:27:53.301 --> 00:27:57.000
+<v timpritlove>diese Quellen zu erschließen.
+
+00:27:57.001 --> 00:27:58.500
+<v timpritlove>Was bedeutet denn das?
+
+00:27:58.501 --> 00:28:02.100
+<v timpritlove>Heißt es, dass da einfach die Erde generell wärmer ist?
+
+00:28:02.101 --> 00:28:09.500
+<v timpritlove>Oder wenn man tief bohrt, früher hohe Temperaturen entstehen, mehr zunimmt?
+
+00:28:09.501 --> 00:28:19.200
+<v timpritlove>Was muss man eigentlich sich erschließen oder was wird in diesen Regionen konkret erschlossen mit welcher Technik, um Strom erzeugen zu können?
+
+00:28:19.201 --> 00:28:24.700
+<v ingosass>Also nur 1% der ist kälter als 100 Grad der Erdmasse.
+
+00:28:24.701 --> 00:28:30.600
+<v ingosass>Wir laufen also eigentlich auf einer sehr sehr dünnen Kruste, ohne uns die Füße zu verbrennen.
+
+00:28:30.601 --> 00:28:38.900
+<v ingosass>Natürlich ist diese Kruste dann für menschliche Dimensionen doch noch sehr dick oder mächtig, wie wir sagen.
+
+00:28:38.901 --> 00:28:44.100
+<v ingosass>Also am mächtigsten, am dicksten ist die Kruste im Himalaya, da ist sie über 80 Kilometer dick
+
+00:28:44.101 --> 00:28:55.500
+<v ingosass>und dadrunter beginnt dann eine andere geophysikalische Schicht, wo sich das Gestein eben duktil verhält,
+
+00:28:55.501 --> 00:29:02.600
+<v ingosass>also ein Übergangszustand zwischen schmelzflüssig und fest, spröde.
+
+00:29:02.601 --> 00:29:07.800
+<v ingosass>Und in Schwächezonen der Erdkruste ist das dann zum Teil erheblich dünner.
+
+00:29:07.801 --> 00:29:12.100
+<v ingosass>Also wir haben in Deutschland auch eine, das ist der Oberrheingraben.
+
+00:29:12.101 --> 00:29:28.000
+<v ingosass>Dort sind wir deutlich unter 20 Kilometer Krustenmächtigkeit und da ist natürlich durch diesen Hitzetransport der Asthenosphäre ist natürlich eine geothermische Anomalie vorhanden.
+
+00:29:28.001 --> 00:29:29.800
+<v timpritlove>Was ist das für eine Sphäre?
+
+00:29:29.801 --> 00:29:31.800
+<v ingosass>Asthenosphäre.
+
+00:29:31.801 --> 00:29:33.300
+<v timpritlove>Die Asthenosphäre, das ist was?
+
+00:29:33.301 --> 00:29:46.500
+<v ingosass>Das ist der Bereich der Erde, der unter der spröden, starren Erdkruste liegt und sich über duktile Bewegungen eben auch einen konvektiven Energietransport zulässt.
+
+00:29:46.501 --> 00:29:52.400
+<v ingosass>Also Energie aus der tieferen Erdkruste nach oben transportiert.
+
+00:29:52.401 --> 00:29:56.500
+<v ingosass>Also konvektiv, konduktiv vielleicht ganz kurz den Exkurs.
+
+00:29:56.501 --> 00:30:03.900
+<v ingosass>Wenn Sie früher Thermopenscheiben hatten, ich meine, heute ist da ein Edelgas drin, Krypton oder sowas,
+
+00:30:03.901 --> 00:30:08.600
+<v ingosass>aber früher war das ja im Wesentlichen Luft zwischen zwei Scheiben, dann wirkt die Luft ja isolierend, dämmend.
+
+00:30:08.601 --> 00:30:18.700
+<v ingosass>Wenn Sie aber Ihren Fön benutzen, dann nutzen Sie Luft zum Energietransport, Sie trocknen damit ja die Haare und das ist sehr effizient.
+
+00:30:18.701 --> 00:30:24.100
+<v ingosass>Also Konvektion ist, wenn Sie Energie durch Masse transportieren, dadurch dass was fließt, strömt
+
+00:30:24.101 --> 00:30:28.200
+<v ingosass>und Konduktion ist, wenn Sie Energie durch einen Festkörper transportieren.
+
+00:30:28.201 --> 00:30:36.500
+<v ingosass>Dann ist das nur noch, dass Moleküle aneinanderstoßen und über diese Aneinanderstoßbewegung die Energie durch einen Festkörper transportieren.
+
+00:30:36.501 --> 00:30:38.800
+<v ingosass>Und das ist eben der Unterschied in der Erdkruste.
+
+00:30:38.801 --> 00:30:50.900
+<v ingosass>Der spröde Teil, also der Teil, der brechen kann, der auch beben kann, der kann natürlich nur mit Hilfe von Grundwasser konvektiv Wärme transportieren
+
+00:30:50.901 --> 00:30:57.400
+<v ingosass>oder eben mit Magma, da kommen wir wieder zum Thema und der Asthenosphärenteil, der kann duktil,
+
+00:30:57.401 --> 00:31:08.700
+<v ingosass>also über eine Fließbewegung Energie transportieren und damit schafft er viel mehr Energie an die Unterseite dieser spröden Erdplatten heran
+
+00:31:08.701 --> 00:31:17.700
+<v ingosass>und dort, wo die dünn sind, erst mal treibt es die Bewegung an der Erdplatten und zum anderen dort, wo die dann aus verschiedenen Gründen dünn sind,
+
+00:31:17.701 --> 00:31:25.800
+<v ingosass>das führt uns jetzt vielleicht zu weit, kann natürlich dann Energie zur Aufschmelzung von Gesteinen führen
+
+00:31:25.801 --> 00:31:30.400
+<v ingosass>und das sind dann eben Magmakammern und die können sich durch Vulkanismus äußern.
+
+00:31:30.401 --> 00:31:33.400
+<v ingosass>Und die sind dann eben technisch erreichbar.
+
+00:31:33.401 --> 00:31:39.400
+<v ingosass>Also man hat schon öfter mal in eine Magmakammer hineingebohrt.
+
+00:31:39.401 --> 00:31:53.500
+<v ingosass>Also in Island ist das so im Bereich 2010 war das, ja 2010 hat man mit einem Projekt IDDP1, Iceland Deep Drilling Project 1, eben in …
+
+00:31:53.501 --> 00:32:01.600
+<v ingosass>ich muss es jetzt überlegen, in ca. 2200 Meter basaltisches Magma in die Bohrung bekommen.
+
+00:32:01.601 --> 00:32:08.300
+<v ingosass>Das ist undramatisch, weil Sie kühlen ja die Bohrung von oben mit Wasser und das Magma verglast dann sofort.
+
+00:32:08.301 --> 00:32:12.100
+<v ingosass>Aber Sie können natürlich nicht mehr weiter bohren, Sie verlieren natürlich Ihre Bohrung.
+
+00:32:12.101 --> 00:32:17.800
+<v ingosass>Man kann dann noch verschiedene technische Maßnahmen machen, aber letztendlich ist da ein Erfolg sehr unwahrscheinlich mit heutigen Mitteln.
+
+00:32:17.801 --> 00:32:21.200
+<v ingosass>Das ist auch das Problem, das wir in der Geothermie haben,
+
+00:32:21.201 --> 00:32:30.000
+<v ingosass>wir wollen möglichst nah ran, also in der verstromungsorientierten Geothermie, wir wollen möglichst nahe ran an diese geothermischen Anomalien,
+
+00:32:30.001 --> 00:32:34.500
+<v ingosass>aber nicht so nahe ran, dass es für Mensch und Technik gefährlich wird.
+
+00:32:34.501 --> 00:32:40.700
+<v ingosass>Und ein Vulkan ist natürlich grundsätzlich mal eine gefährliche Angelegenheit, wenn der aktiv ist
+
+00:32:40.701 --> 00:32:50.200
+<v ingosass>und welche Unternehmung möchte schon die Investition durch Vulkanausbruch abschreiben?
+
+00:32:50.201 --> 00:32:54.700
+<v timpritlove>Also warum hat dann überhaupt die Magmakammer anbohren wollen?
+
+00:32:54.701 --> 00:32:55.200
+<v timpritlove>Because we can oder?
+
+00:32:55.201 --> 00:32:55.500
+<v ingosass>Nein, das war nicht gewollt, das ist geschehen.
+
+00:32:55.501 --> 00:32:57.200
+<v timpritlove>Ach so, das war keine Absicht?
+
+00:32:57.201 --> 00:33:08.800
+<v ingosass>Also das Projekt diente dazu, man wollte eine superkritische Lagerstätte erreichen, also in einen Temperatur- und Druckbereich hineingehen, wo Wasser über dem kritischen Punkt ist,
+
+00:33:08.801 --> 00:33:14.900
+<v ingosass>also bei Atmosphärenbedingungen bei etwa über 540 Grad Celsius
+
+00:33:14.901 --> 00:33:22.600
+<v ingosass>und auf diesem Weg dahin hat man halt über, da sind ja Klüfte und Spalten und Störungen im Gebirge,
+
+00:33:22.601 --> 00:33:27.600
+<v ingosass>über so eine Spalte hat man dann eben den Anschluss an eine Magmakammer erwischt
+
+00:33:27.601 --> 00:33:33.900
+<v ingosass>und das Magma schoss dann auch folgerichtig hinein und das war es dann.
+
+00:33:33.901 --> 00:33:34.400
+<v timpritlove>Verstehe.
+
+00:33:34.401 --> 00:33:44.900
+<v ingosass>Also es ist auch eine der Frontlinien der Forschung in der Geothermie zurzeit, dass man eben super heiße, super kritische Reservoire versucht zu erbohren.
+
+00:33:44.901 --> 00:33:46.000
+<v timpritlove>Das heißt…
+
+00:33:46.001 --> 00:33:49.300
+<v ingosass>oder sagen wir zu verstehen und zu erkunden und …
+
+00:33:49.301 --> 00:34:00.500
+<v timpritlove>Okay, also in Bereichen, wo man diese Asthenosphäre hat, also wo quasi eine hohe Temperatur der Erde sich durch fließendes Gestein, kann man das?
+
+00:34:00.501 --> 00:34:01.600
+<v ingosass>Ja.
+
+00:34:01.601 --> 00:34:03.100
+<v timpritlove>Also es ist nicht Magma, sondern es bewegt sich langsam.
+
+00:34:03.101 --> 00:34:09.100
+<v ingosass>Ja natürlich, das ist auch Magma, aber Magma entsteht eigentlich, das ist so, als ob Sie …
+
+00:34:09.101 --> 00:34:16.700
+<v ingosass>oder anders, Vulkanausbruch, ich mache es plakativer, entsteht so oft nach dem gleichen Prinzip wie,
+
+00:34:16.701 --> 00:34:22.900
+<v ingosass>das haben Sie schon mal erlebt, wenn Sie in der Küche in eine wirklich heiße Pfanne mit Fett Wasser reingießen,
+
+00:34:22.901 --> 00:34:29.800
+<v ingosass>dann haben Sie dieses Aufschäumen, kann gefährlich werden, wenn das Fett dann quasi explodiert
+
+00:34:29.801 --> 00:34:36.300
+<v ingosass>und daran sehen Sie natürlich, dass Wasser einen Schmelzpunkt erniedrigt.
+
+00:34:36.301 --> 00:34:43.400
+<v ingosass>Und ein reines Gestein ist bei viel höheren Temperaturen erst flüssig als ein Gestein, das Wasser enthält.
+
+00:34:43.401 --> 00:34:53.400
+<v ingosass>Und so ist die Wechselwirkung, wenn die Temperatur dann von unten aus der Asthenosphäre in die feste Kruste eindringt, dann ist die Wechselwirkung mit dem Wasser extrem wichtig
+
+00:34:53.401 --> 00:35:05.600
+<v ingosass>und wo ist auch Platz vorhanden, wo so eine Magmakammer sich bilden kann, das sind relativ komplexe gebirgsmechanische Betrachtungen.
+
+00:35:05.601 --> 00:35:14.800
+<v ingosass>Und so gibt es dann ganz unterschiedlich Typen und Arten von Vulkanen und Magmakammer und von ihrem Verhalten her auch sehr unterschiedlich.
+
+00:35:14.801 --> 00:35:26.400
+<v ingosass>Zum Beispiel in Island, wenn man da in den Norden geht, dieses Geothermiefeld von Grappa, da hat es mehrjährige Spalteneruptionen gegeben, aber die sind relativ ruhig.
+
+00:35:26.401 --> 00:35:35.500
+<v ingosass>Das ist dann ein andauernder Vulkanausbruch an einer dieser Spalten eben und da kommt ein basaltisches, ein sehr heißes Magma raus mit relativ wenig Wassergehalt
+
+00:35:35.501 --> 00:35:38.500
+<v ingosass>und das ist eine relativ ruhige Eruption dann.
+
+00:35:38.501 --> 00:35:42.500
+<v ingosass>Was in aller Munde wäre, wäre so Mount St. Helens, kennen Sie vielleicht noch?
+
+00:35:42.501 --> 00:35:43.300
+<v timpritlove>Ja, in den USA.
+
+00:35:43.301 --> 00:35:50.800
+<v ingosass>Kennen wir noch, in den 80er Jahren, da hat es halt bei so einem veritablen Berg den Kopf weggesprengt,
+
+00:35:50.801 --> 00:36:00.000
+<v ingosass>das war natürlich so eine sehr stark auch wasserbeladene Eruption, die wesentlich explosiver, wesentlich katastrophaler ablaufen.
+
+00:36:00.001 --> 00:36:01.200
+<v timpritlove>Sehr interessanter Fall.
+
+00:36:01.201 --> 00:36:06.500
+<v timpritlove>Nicht nur, weil danach so die Bergkuppe weg war, sondern danach ja auch alles vergiftet war über lange lange Zeit und sich dann in Jahrzehnten danach …
+
+00:36:06.501 --> 00:36:13.800
+<v ingosass>Ja gut, beim Vulkanausbruch kommen auch zum Teil unangenehme Stoffe mit zur Tagesoberfläche.
+
+00:36:13.801 --> 00:36:15.200
+<v ingosass>Das ist halt immer ein zweischneidiges Schwert.
+
+00:36:15.201 --> 00:36:22.600
+<v ingosass>Auf der einen Seite die hohe Fruchtbarkeit von vulkanischen Böden, auf der anderen Seite die sehr gefährlichen und auch lebensfeindlichen Randbedingungen.
+
+00:36:22.601 --> 00:36:30.900
+<v timpritlove>Aber auch ein super Forschungsgebiet, also ich habe so verschiedene Operationen gesehen, die dann halt über lange Zeit dann beobachtet haben, was danach passiert ist.
+
+00:36:30.901 --> 00:36:32.300
+<v ingosass>Ja, das ist ein Vorteil der Geothermie.
+
+00:36:32.301 --> 00:36:40.000
+<v ingosass>Wenn man da tätig ist, Sie haben ja immer an Plattengrenzen zu tun und an Plattengrenzen sind die Gebirge und die Gebirge sind die schönsten Orte auf der Welt.
+
+00:36:40.001 --> 00:36:44.400
+<v timpritlove>Alles Genießer sozusagen.
+
+00:36:44.401 --> 00:36:47.700
+<v timpritlove>Okay, also kommen wir zurück zu dieser Anwendung.
+
+00:36:47.701 --> 00:36:58.200
+<v timpritlove>Sprich, in den Gebieten, jetzt waren wir ja bei diesem Ring of Fire, also ein Gebiet, was sich quasi so am Außenrand des Pazifiks entlangschält,
+
+00:36:58.201 --> 00:37:06.800
+<v timpritlove>von Indonesien am asiatischen Festland entlang, über Alaska wieder runter, bis runter nach Chile,
+
+00:37:06.801 --> 00:37:12.100
+<v timpritlove>da ist sozusagen so ein, Hotspot ist jetzt vielleicht nicht die richtige Bezeichnung  oder kann man das schon sagen,
+
+00:37:12.101 --> 00:37:15.000
+<v timpritlove>auf jeden Fall, dort sind die Bedingungen gut.
+
+00:37:15.001 --> 00:37:22.700
+<v timpritlove>Sprich, wie weit muss man dann bohren, um auf welche Temperaturen dort zu kommen, ohne jetzt in eine Magmakammer zu bohren?
+
+00:37:22.701 --> 00:37:24.700
+<v ingosass>Okay, muss ich wieder vom Allgemeinen.
+
+00:37:24.701 --> 00:37:31.500
+<v ingosass>Also auf kontinentaler Kruste, also die Kruste, die quasi über dem Meeresspiegel heraus guckt,
+
+00:37:31.501 --> 00:37:39.300
+<v ingosass>haben wir eine durchschnittliche Temperaturzunahme von 3 Grad Celsius pro 100 Meter Tiefenzunahme.
+
+00:37:39.301 --> 00:37:47.800
+<v ingosass>Und in diesen vulkanischen Gebieten kann das bis auf 20 Grad Celsius pro 100 Meter anwachsen.
+
+00:37:47.801 --> 00:37:53.800
+<v ingosass>Dieser Gradient ist auch nicht gleichmäßig, der kann also in unterschiedlichen Tiefenabschnitten auch unterschiedliche Werte nehmen.
+
+00:37:53.801 --> 00:38:01.000
+<v ingosass>Grundwasser ist ja nicht nur etwas, was jetzt zum Beispiel einen Vulkanausbruch provoziert, sondern das wirkt natürlich auch kühlend auf so ein System.
+
+00:38:01.001 --> 00:38:09.600
+<v ingosass>Wenn Sie viel Regen haben, also zum Beispiel in Neuseeland an der Westküste haben Sie Niederschläge von über 10.000 Millimeter pro Jahr.
+
+00:38:09.601 --> 00:38:14.600
+<v ingosass>Also hier in Berlin haben wir vielleicht 650 Millimeter pro Jahr.
+
+00:38:14.601 --> 00:38:21.700
+<v ingosass>Und das führt natürlich zu einem enormen Druck in den Aquiphären, in den Grundwasserleitern.
+
+00:38:21.701 --> 00:38:28.300
+<v ingosass>Und bei doch relativ großer Nähe zu vulkanischen Vorkommen hat das auch einen enorm kühlenden Effekt.
+
+00:38:28.301 --> 00:38:33.800
+<v ingosass>Also es kommt ganz darauf an, wie die Situation da im einzelnen gegeben ist,
+
+00:38:33.801 --> 00:38:38.000
+<v ingosass>aber wir können eben sagen, dass wir aufgrund dieses Gradienten,
+
+00:38:38.001 --> 00:38:47.700
+<v ingosass>der Grundwasserverhältnisse, der Gesteinsverhältnisse, in so vulkanischen Gebieten bohrt man so 1.500-2.500 Meter Tiefe.
+
+00:38:47.701 --> 00:38:55.400
+<v ingosass>Das muss man tun, damit man vom Vulkan weg ist, Sie können ja nicht im Vulkan bohren, das kann ja unangenehme Folgen haben,
+
+00:38:55.401 --> 00:39:02.600
+<v ingosass>also entsteht eben diese Bohrtiefe eigentlich auch aus der Georisikoerwägung heraus.
+
+00:39:02.601 --> 00:39:08.300
+<v ingosass>Sie müssen ein bisschen weg davon, damit Sie sicher sind und so ist es dann eben normal.
+
+00:39:08.301 --> 00:39:17.000
+<v ingosass>Und in diesen Tiefen erreicht man in vulkanischen Gebieten dann eben Temperaturen von 180-250 Grad ungefähr, das wäre so die Standardnutzung.
+
+00:39:17.001 --> 00:39:24.900
+<v ingosass>Und wenn man dann noch einen trockenen Dampf hat, also einen Dampf, der nicht Wasser mitreißt und Wasser in Tröpfchenphase dabei hat,
+
+00:39:24.901 --> 00:39:29.400
+<v ingosass>das wäre dann Nassdampf, dann hat man einen ganz einfachen Kraftwerksprozess.
+
+00:39:29.401 --> 00:39:33.300
+<v ingosass>Das ist so, wie man den im Physikunterricht halt in der Schule dann lernt.
+
+00:39:33.301 --> 00:39:34.200
+<v ingosass>Also ich mache Dampf…
+
+00:39:34.201 --> 00:39:35.000
+<v timpritlove>Wo kommt dieser Dampf jetzt her?
+
+00:39:35.001 --> 00:39:36.900
+<v timpritlove>Aus dieser Bohrung von sich aus?
+
+00:39:36.901 --> 00:39:42.700
+<v ingosass>Ja ist ja klar, Sie haben natürlich Grundwasser, wassergesättigte Verhältnisse, das ist völlig normal.
+
+00:39:42.701 --> 00:39:52.400
+<v ingosass>Also wenn Sie in Deutschland Irgendwo, es wird ganz schwierig, in Deutschland 50 Meter tief zu bohren und trockene Verhältnisse zu haben.
+
+00:39:52.401 --> 00:39:56.400
+<v ingosass>Also die sind dann vielleicht trocken, weil das Gestein so dicht ist, dass kein Wasser nachfließt,
+
+00:39:56.401 --> 00:40:01.000
+<v ingosass>aber Sie sind da schon unter der Grundwasseroberfläche.
+
+00:40:01.001 --> 00:40:06.400
+<v ingosass>Und das ist natürlich auch in Indonesien oder ähnlichen Gebieten so oder in Island allemal,
+
+00:40:06.401 --> 00:40:12.500
+<v ingosass>das heißt, Sie sind da sowieso im wassergesättigten Bereich und dort, wo diese Temperaturen da sind, haben Sie eben Dampf.
+
+00:40:12.501 --> 00:40:19.900
+<v ingosass>Und die Temperaturen sind so hoch, dass der Dampf trocken ist, also das Wasser 100% in der Dampfphase.
+
+00:40:19.901 --> 00:40:29.500
+<v ingosass>Und wenn Sie es dann schaffen, diese Bohrung so zu erschließen, dass dieser Dampf rauskommt, das ist zum Beispiel in Larderello in der Historie der Fall gewesen,
+
+00:40:29.501 --> 00:40:34.700
+<v ingosass>dann haben Sie eben Trockendampf und dann haben Sie ein sogenanntes Single Flash Kraftwerk,
+
+00:40:34.701 --> 00:40:39.700
+<v ingosass>das heißt, Sie geben den Dampf auf die Turbine und haben Strom, machen Strom daraus.
+
+00:40:39.701 --> 00:40:44.300
+<v ingosass>So einfach ist es aber in den meisten Geothermieanwendungen eben nicht.
+
+00:40:44.301 --> 00:40:50.600
+<v timpritlove>Also im Prinzip, man braucht wirklich erst mal nur so ein Loch bohren, also ich meine, was heißt Loch bohren?
+
+00:40:50.601 --> 00:40:53.000
+<v timpritlove>Wie groß muss man sich das jetzt vorstellen?
+
+00:40:53.001 --> 00:40:56.100
+<v timpritlove>Wie groß muss so Bohrung sein, damit das alles funktioniert?
+
+00:40:56.101 --> 00:41:02.000
+<v ingosass>Also wenn Sie auf … also eine Bohrung wird teleskopiert, Sie fangen oben mit einem relativ großen Durchmesser an,
+
+00:41:02.001 --> 00:41:08.800
+<v ingosass>also ich sage mal, so einen Arm voll und Sie enden dann unten mit einem kleineren Durchmesser.
+
+00:41:08.801 --> 00:41:14.400
+<v ingosass>Und wenn Sie dort einen Durchmesser haben, durch den so ein Handball durchgeht, dann haben Sie schon einen vernünftigen Bohrdurchmesser unten.
+
+00:41:14.401 --> 00:41:17.500
+<v timpritlove>Okay, und da ist dann was drin?
+
+00:41:17.501 --> 00:41:18.900
+<v ingosass>Da ist dann zunächst mal nichts drin.
+
+00:41:18.901 --> 00:41:24.500
+<v ingosass>Und dann müssen wir entscheiden, ist das Gebirge standfest oder ist das Gebirge gebräch, wie wir sagen.
+
+00:41:24.501 --> 00:41:26.100
+<v ingosass>Also stürzt es ein?
+
+00:41:26.101 --> 00:41:33.800
+<v ingosass>Wenn es einstürzt, müssen wir ein Filterrohr einsetzen oder wir müssen ein Vollrohr einbauen und das dann von innen nach außen aufperforieren.
+
+00:41:33.801 --> 00:41:36.700
+<v timpritlove>Aber es könnte auch sein, dass man gar kein Rohr drin haben muss?
+
+00:41:36.701 --> 00:41:39.100
+<v ingosass>Ja, es kommt ganz auf die lokalen Verhältnisse an.
+
+00:41:39.101 --> 00:41:44.500
+<v timpritlove>Das heißt, wenn das so an sich stabil ist, man hat da einfach was rausgefräst, das fällt nicht in sich zusammen, dann kommt da einfach Dampf raus?
+
+00:41:44.501 --> 00:41:46.000
+<v ingosass>Ja, dann kommt einfach Dampf raus.
+
+00:41:46.001 --> 00:41:50.300
+<v ingosass>Das ist also jetzt so in Italien zum Beispiel der initiale Fall gewesen.
+
+00:41:50.301 --> 00:41:58.000
+<v ingosass>Man hat also die ersten Bohrungen, die man da abgetäuft hat in den ersten Jahren des letzten Jahrhunderts,
+
+00:41:58.001 --> 00:42:01.000
+<v ingosass>da war es nicht notwendig, die Bohrung zu verrohren.
+
+00:42:01.001 --> 00:42:08.200
+<v ingosass>Aber je nachdem wo man ist, also wenn wir jetzt zum Beispiel in den Oberrheingraben geben und dort bohren im Raum Karlsruhe oder ähnliches,
+
+00:42:08.201 --> 00:42:12.600
+<v ingosass>da müssen die meisten Bohrungen verrohrt werden, weil eben die Gebirgseigenschaften so sind,
+
+00:42:12.601 --> 00:42:20.400
+<v ingosass>dass das Loch nicht notwendigerweise über die gesamte erwartete Betriebsdauer stabil offen bleibt,
+
+00:42:20.401 --> 00:42:26.400
+<v ingosass>sondern zerfällt und dann verlieren Sie natürlich möglicherweise Dampfeintritt und so weiter.
+
+00:42:26.401 --> 00:42:33.700
+<v ingosass>Nach oben hin sind die Bohrungen sowieso verrohrt und einzementiert, um eben eine Verbindung zu oberflächennahen Schichten,
+
+00:42:33.701 --> 00:42:39.000
+<v ingosass>also auch zum oberflächennahen Grundwasser, Trinkwasser zu vermeiden.
+
+00:42:39.001 --> 00:42:43.400
+<v ingosass>Sie haben ja andere Nutzungen, die oben dran sind, gerade bei uns.
+
+00:42:43.401 --> 00:42:48.200
+<v ingosass>Wir sind ja nicht immer Irgendwo auf der Vulkaninsel, wo es sonst keine Nutzung gibt.
+
+00:42:48.201 --> 00:42:56.900
+<v ingosass>Wir haben ja in eng besiedelten Räumen auch multiple Nutzung des Untergrundes und verschiedene Ansprüche
+
+00:42:56.901 --> 00:43:01.300
+<v ingosass>und da ist das aus Sicherheitsgründen auf jeden Fall notwendig.
+
+00:43:01.301 --> 00:43:10.000
+<v ingosass>Es ist auch irgendwo im fernen Outback natürlich notwendig aus Sicherheitsgründen.
+
+00:43:10.001 --> 00:43:15.900
+<v timpritlove>In dieser oberrheinischen Tiefebene, Sie sagten ja, das wäre so ein bisschen die Ausnahme in Deutschland,
+
+00:43:15.901 --> 00:43:24.400
+<v timpritlove>da hätte man halt mal vergleichbare Bedingungen, während es überall sonst mit dem Temperaturanstieg bei Bohrungen jetzt nicht so viel mit daher ist.
+
+00:43:24.401 --> 00:43:30.600
+<v ingosass>Also es gibt in Deutschland drei größere Gebiete, die wir als geothermisch höffig??? bezeichnen,
+
+00:43:30.601 --> 00:43:34.000
+<v ingosass>die sind aus ganz unterschiedlichen Gründen geothermisch höffig ???.
+
+00:43:34.001 --> 00:43:43.600
+<v ingosass>Das ist einmal das norddeutsche Tieflandsbecken, dort sind eben durchlässige Schichten so tief abgesenkt im Laufe der Erdgeschichte,
+
+00:43:43.601 --> 00:43:50.000
+<v ingosass>dass sie eben ausreichend warmes Wasser für eine Stromerzeugung führen.
+
+00:43:50.001 --> 00:43:56.700
+<v ingosass>Dann gibt es den Bereich des Alpenvorlands, also der Großraum München, besonders der Südraum München,
+
+00:43:56.701 --> 00:44:05.100
+<v ingosass>wo die Alpen ältere Schichten überfahren haben und die quasi durch ihr Gewicht nach unten drücken
+
+00:44:05.101 --> 00:44:13.800
+<v ingosass>und dadurch haben wir dort in großer Tiefe bei eben auch entsprechender Durchlässigkeit Thermalwässer und die kann man nutzen.
+
+00:44:13.801 --> 00:44:18.600
+<v ingosass>Das geschieht auch im Münchner Raum im großtechnischen Maßstab.
+
+00:44:18.601 --> 00:44:25.300
+<v ingosass>Und dann haben wir den Oberrheingraben, das ist wieder ein anderer Mechanismus, dort ist eine alte, da tat sich in Zeiten des Tertiärs,
+
+00:44:25.301 --> 00:44:32.900
+<v ingosass>also vor mehr als 2 Millionen Jahren schickte sich der Oberrheingraben an, so eine Art Atlantik zu werden.
+
+00:44:32.901 --> 00:44:40.700
+<v ingosass>Es setzte dort also ein Krustenbruch ein und es setzte eine Dehnung der Kruste ein.
+
+00:44:40.701 --> 00:44:53.400
+<v ingosass>Und dort haben wir eben im Oberrheingraben eine sehr sehr dünne Kruste mit einer linearen Anomalie, die von Basel bis Frankfurt geht quasi.
+
+00:44:53.401 --> 00:45:00.100
+<v ingosass>Sehr unterschiedlich, dann lokal gibt es dann natürlich Maxima und Minima und das ist sehr differenziert im Detail,
+
+00:45:00.101 --> 00:45:12.100
+<v ingosass>aber dieses Rifting, also dieses Öffnen des Ozeans hat nicht stattgefunden und wir bezeichnen das heute als ein abgebrochenes Riftsystem.
+
+00:45:12.101 --> 00:45:14.700
+<v ingosass>Also ein abandoned Rift
+
+00:45:14.701 --> 00:45:15.900
+<v timpritlove>Gescheiterter Ozean sozusagen?
+
+00:45:15.901 --> 00:45:23.500
+<v ingosass>Ja, also sonst wäre eben, wenn man im Schwarzwald steht, die Pfalz in Amerika, so hat mal ein Kartierlehrer zu mir gesagt.
+
+00:45:23.501 --> 00:45:25.900
+<v timpritlove>Verstehe.
+
+00:45:25.901 --> 00:45:38.900
+<v timpritlove>Okay, also es gibt besonders gut geeignete Orte, da kann man dann mit relativ entspannten Tiefen extrem hohe Temperaturen erreichen
+
+00:45:38.901 --> 00:45:47.100
+<v timpritlove>und im Idealfall schießt da schon der Wasserdampf einem maximal gesättigt trocken entgegen
+
+00:45:47.101 --> 00:45:51.100
+<v timpritlove>und man muss eigentlich oben nur noch eine Turbine dranhalten und man hat Strom?
+
+00:45:51.101 --> 00:45:53.600
+<v ingosass>Ja.
+
+00:45:53.601 --> 00:45:53.900
+<v timpritlove>Habe ich richtig verstanden?
+
+00:45:53.901 --> 00:45:59.900
+<v ingosass>Ja ist klar, aber jetzt wohnen natürlich oft nicht viele Menschen in der Nähe von Vulkanen aus naheliegenden Gründen.
+
+00:45:59.901 --> 00:46:00.000
+<v timpritlove>Ja.
+
+00:46:00.001 --> 00:46:09.900
+<v ingosass>Das heißt, da muss man halt sehen, dass man auch dann Strom erzeugt, weil sich Strom natürlich viel besser transportieren lässt als Wärme zum Beispiel.
+
+00:46:09.901 --> 00:46:19.900
+<v ingosass>Und deshalb wir haben natürlich jetzt in Deutschland das Problem und die Chance, dass die Wärmesenken die Verbraucher auch auf der Anomalie sitzen.
+
+00:46:19.901 --> 00:46:28.700
+<v ingosass>Also wenn man jetzt München nimmt, sitzt am nördlichen Rand dieser extremen Anomalie und dort sind entsprechende Wärmesenken da.
+
+00:46:28.701 --> 00:46:34.400
+<v ingosass>Und dann wird natürlich auch die Wärmeerzeugung aus Geothermie interessant, aus tiefer Geothermie.
+
+00:46:34.401 --> 00:46:41.700
+<v timpritlove>Ja, aber vielleicht nochmal so zum Vergleich, also es gibt die idealen Orte, da ist man dann 1.000 Meter weiter drin und dann kommt es irgendwie alles schon so fertig
+
+00:46:41.701 --> 00:46:46.800
+<v timpritlove>und im Idealfall ist es geologisch so stabil, dass man das noch nicht mal weiter sichern muss.
+
+00:46:46.801 --> 00:46:53.300
+<v timpritlove>So an anderen Stellen muss man das vielleicht, aber ist trotzdem mit vergleichsweise beherrschbarem Aufwand leicht zu bohren.
+
+00:46:53.301 --> 00:46:57.700
+<v timpritlove>Was ist denn mit den anderen Orten, wo jetzt nur wenige Grad Steigerung sind?
+
+00:46:57.701 --> 00:47:00.400
+<v timpritlove>Kann man damit auch was anfangen oder ist das dann einfach nicht so geeignet?
+
+00:47:00.401 --> 00:47:02.200
+<v ingosass>Ja, also entweder Sie bohren tiefer.
+
+00:47:02.201 --> 00:47:03.400
+<v timpritlove>Ja.
+
+00:47:03.401 --> 00:47:05.600
+<v ingosass>Dann haben Sie natürlich auch mehr Temperatur.
+
+00:47:05.601 --> 00:47:08.000
+<v timpritlove>Ja, ist die Frage, wie tief kann man so bohren?
+
+00:47:08.001 --> 00:47:15.600
+<v ingosass>Das tiefste Loch der Welt ist 13,88 Kilometer tief, liegt auf Murmansk, war eine Forschungsbohrung der damaligen Sowjetunion.
+
+00:47:15.601 --> 00:47:21.700
+<v ingosass>Da wurde 35 Jahre dran gebohrt, aber ist eine wissenschaftliche Bohrung.
+
+00:47:21.701 --> 00:47:27.300
+<v ingosass>Deutschland schickte sich mal an, das tiefste Loch der Welt zu bohren, in der kontinentalen Tiefbohrung,
+
+00:47:27.301 --> 00:47:36.400
+<v ingosass>das war auch noch in Vorwendezeiten und dieses Loch hat eine Tiefe von, ich weiß es nicht genau, 9,2 Kilometer ungefähr.
+
+00:47:36.401 --> 00:47:45.400
+<v ingosass>Also es gibt nur eine handvoll Bohrungen, die diese magische 10 Kilometermarke überhaupt reißen, was die Tiefe betrifft.
+
+00:47:45.401 --> 00:47:49.000
+<v ingosass>Die meisten Bohrungen in der Tiefe sind sowieso gesteuert und nicht streng vertikal.
+
+00:47:49.001 --> 00:47:58.700
+<v ingosass>Also man muss unterscheiden immer, habe ich tatsächlich gebohrte Tiefe oder welche wirkliche Tiefe habe ich erreicht?
+
+00:47:58.701 --> 00:48:06.400
+<v ingosass>Also heute kann man sagen, also ein Routinejob in der Tiefbohrtechnik endet vielleicht so bei 5,5-6 Kilometer.
+
+00:48:06.401 --> 00:48:08.400
+<v timpritlove>Okay, das ist beherrschbar.
+
+00:48:08.401 --> 00:48:18.100
+<v ingosass>Dazwischen alles was tiefer geht, da haben wir es doch schon mit sehr sehr hohen Anforderungen zu tun und das hat schon einen starken F&E-Charakter.
+
+00:48:18.101 --> 00:48:27.500
+<v ingosass>Es gibt Erdölproduktions- und Erkundungsbohrungen schon aus den 70er Jahren.
+
+00:48:27.501 --> 00:48:39.200
+<v ingosass>Also mir fällt da eine im Wiener Becken ein in Österreich, die heißt Aderklar2, die ist 8 und ein paar Kilometer tief, ich glaube, 8,7 Kilometer tief.
+
+00:48:39.201 --> 00:48:47.600
+<v ingosass>Also man hat sowas auch industriell schon gemacht, aber da sind auch geologische Bedingungen, wo im Vorhinein schon klar war, dass das auch machbar ist.
+
+00:48:47.601 --> 00:48:51.000
+<v ingosass>Wir reden ja aber von Geothermie, wir wollen ja dahin, wo die Temperaturen hoch sind.
+
+00:48:51.001 --> 00:48:58.600
+<v ingosass>Das ist grundsätzlich bohrtechnisch anspruchsvoller, als wenn man auf Öl und Gas bohrt, wo man eigentlich natürlich nicht so hohe Temperaturen hat.
+
+00:48:58.601 --> 00:49:06.100
+<v ingosass>Da bohrt man ja an Stellen, wo man hohe Temperaturen vermeidet, weil sonst ist ja die Gaslagerstätte hinüber durch die Temperatur.
+
+00:49:06.101 --> 00:49:19.300
+<v ingosass>Und das heißt also, in der Geothermie gibt es diesen Zielkonflikt, in der Tiefengeothermie grundsätzlich dort, wo die Temperatur besonders vielversprechend ist,
+
+00:49:19.301 --> 00:49:22.700
+<v ingosass>sind in der Regel die bohrtechnischen Bedingungen besonders schwierig.
+
+00:49:22.701 --> 00:49:31.300
+<v ingosass>Und deshalb ist im Moment so bei 5,5-6 Kilometer das, was man technisch reproduzierbar und im großen Maßstab machen kann,
+
+00:49:31.301 --> 00:49:40.000
+<v ingosass>alles, was tiefer geht, ist noch stärker eine Einzelfallbetrachtung als ohnehin schon.
+
+00:49:40.001 --> 00:49:47.900
+<v timpritlove>Aber wenn ich jetzt mal das durchrechne, Sie sagten ja vorhin, 3 Grad pro 100 Meter, da ist man ja dann bei 5 Kilometer auch schon bei ganz ordentlichen Temperaturen.
+
+00:49:47.901 --> 00:49:54.500
+<v ingosass>Ja, da sind Sie in diesen verstromungsfähigen Temperaturen, also das hängt dann wieder von der geologischen Situation ab und dem Standort im Detail,
+
+00:49:54.501 --> 00:49:58.800
+<v ingosass>und die 3 Grad sind ja auch nur ein Mittelwert.
+
+00:49:58.801 --> 00:50:05.200
+<v ingosass>Also da haben wir natürlich dann eben 150-180-220 Grad und Sie können
+
+00:50:05.201 --> 00:50:11.900
+<v ingosass>in dem Temperaturenbereich gibt es verschiedene Kraftwerksanordnungen, mit denen man Strom erzeugen kann.
+
+00:50:11.901 --> 00:50:21.700
+<v ingosass>Und das ist auch in verschiedenen Bohrungen und Projekten ein Thema und an solchen Dingen arbeiten wir auch.
+
+00:50:21.701 --> 00:50:29.300
+<v timpritlove>Aber da lese ich doch jetzt eigentlich raus, dass man doch im Prinzip an sehr vielen Orten mal ein Loch machen könnte und dann kommt da Energie raus.
+
+00:50:29.301 --> 00:50:30.900
+<v ingosass>Das sehen wir so, ja.
+
+00:50:30.901 --> 00:50:34.400
+<v ingosass>Deshalb wird auch in der Geothermie geforscht.
+
+00:50:34.401 --> 00:50:44.700
+<v ingosass>Deutschland ist das zweitgrößte Mitglied, also wenn Sie Institutionen, Firmen und Mitglieder nehmen in der internationalen geothermischen Assoziation.
+
+00:50:44.701 --> 00:50:50.500
+<v ingosass>Da sehen Sie, dass da auch ein Exportinteresse dahinterstecken muss, das sind ja nicht nur Wissenschaftler, die da dabei sind.
+
+00:50:50.501 --> 00:51:00.400
+<v ingosass>Und also der deutsche Beitrag zu Geothermieforschung in der Welt ist sicherlich größer als das Potenzial, das wir terrestrisch selber haben.
+
+00:51:00.401 --> 00:51:03.700
+<v timpritlove>Gibt es denn da ein Umweltrisiko mit diesen Bohrungen?
+
+00:51:03.701 --> 00:51:08.700
+<v ingosass>Also erst mal ist das ein technisches Tun und es gibt da immer Risiken.
+
+00:51:08.701 --> 00:51:18.100
+<v ingosass>Und Sie bohren natürlich durch Schichten, die Sie manchmal auch nicht gut kennen und man versucht natürlich durch die Vorerkundung möglichst so viel zu erfahren,
+
+00:51:18.101 --> 00:51:22.700
+<v ingosass>dass man eben diese Risiken richtig einschätzt und damit auch beherrschen kann.
+
+00:51:22.701 --> 00:51:33.500
+<v ingosass>Aber es ist natürlich immer wieder vorgekommen, auch im Öl- und Gasbereich oder in der Tiefbohrtechnik zu anderem Grund, dass es zu Havarien gekommen ist oder anderen Dingen.
+
+00:51:33.501 --> 00:51:36.300
+<v timpritlove>Oder dass man auf was anderes gestoßen ist als man dachte?
+
+00:51:36.301 --> 00:51:41.100
+<v ingosass>Ja, es gibt in Deutschland in der Fachszene einen relativ berühmten Fall.
+
+00:51:41.101 --> 00:51:54.500
+<v ingosass>Man hat in Speyer, wann war denn das, so 2000 herum, hat man angefangen auf Geothermie zu bohren und ist dann ölfündig geworden.
+
+00:51:54.501 --> 00:52:07.400
+<v ingosass>Also diese Bohrung in Speyer ist heute eins der Ölfelder in Deutschland, das konstant mit den dauerhaft größten Förderbeitrag liefert.
+
+00:52:07.401 --> 00:52:08.600
+<v timpritlove>Ohne dass man damit gerechnet hätte?
+
+00:52:08.601 --> 00:52:10.300
+<v ingosass>Man hat damit nicht gerechnet, nein.
+
+00:52:10.301 --> 00:52:20.400
+<v ingosass>Also das war ein Geothermieprojekt und man hat das dann abgebrochen wegen der Ölfündigkeit und dort haben dann Kollegen die Gunst der Stunde genutzt
+
+00:52:20.401 --> 00:52:26.800
+<v ingosass>und sich eben da die Förderrechte gesichert und sind da heute, glaube ich, sehr erfolgreich, selbst jetzt in der letzten Phase,
+
+00:52:26.801 --> 00:52:29.800
+<v ingosass>wo der Ölpreis ja sehr sehr schlecht war.
+
+00:52:29.801 --> 00:52:33.200
+<v ingosass>Also diese Förderung in Speyer läuft durch.
+
+00:52:33.201 --> 00:52:35.500
+<v timpritlove>Aber das ist ja eher die Ausnahme, dass man auf Erdöl trifft.
+
+00:52:35.501 --> 00:52:45.900
+<v ingosass>Ja, wir haben fast überall im Untergrund Öl- und Gasphasen, also man findet immer in geringen Mengen Spurenöl und Gas, fast überall.
+
+00:52:45.901 --> 00:52:51.600
+<v ingosass>Zumindest in den sedimentären Teilen des Untergrundes.
+
+00:52:51.601 --> 00:52:58.200
+<v ingosass>Und das muss man dann im Einzelfall eben beurteilen, wann wird die Gasführung so stark, dass es Risiken für die Bohrung gibt, wann ist das nicht der Fall?
+
+00:52:58.201 --> 00:53:04.900
+<v ingosass>Also dass Sie zum Beispiel, wenn Sie auf Geothermie bohren, gerade in den oberflächennaheren zwei Kilometern,
+
+00:53:04.901 --> 00:53:11.600
+<v ingosass>dass Sie da auf Öl und Gas monitoren während Sie bohren, das ist völlig normal.
+
+00:53:11.601 --> 00:53:17.900
+<v timpritlove>Und außer dass man auf ein Erdölfeld stoßen kann, gibt es noch andere Risiken?
+
+00:53:17.901 --> 00:53:26.100
+<v ingosass>Ja, Sie können natürlich auf zum Beispiel gespanntes Grundwasser stoßen, auch oberflächennaher Bereich ist da vielleicht eher kritisch.
+
+00:53:26.101 --> 00:53:30.100
+<v ingosass>Das heißt, dass Ihnen das Grundwasser bis über die Geländeoberkante entgegenkommt,
+
+00:53:30.101 --> 00:53:36.300
+<v ingosass>da müssen Sie natürlich entsprechende Maßnahmen treffen durch Präventa und Absperrvorrichtungen.
+
+00:53:36.301 --> 00:53:45.000
+<v ingosass>Immer wenn Sie eine Flüssigkeit fördern, können Sie etwas fördern, was sonst noch so im Untergrund ist.
+
+00:53:45.001 --> 00:53:51.700
+<v ingosass>Also was weiß ich, metallische Verbindungen, die eben nicht gesund sind, also die toxisch sind etc. pp.
+
+00:53:51.701 --> 00:53:54.800
+<v ingosass>Das kann vorkommen, das gibt es in einzelnen Fällen.
+
+00:53:54.801 --> 00:53:58.800
+<v ingosass>Ich meine, das ist ja der Untergrund, den wir sonst auch zur Lagerstättenerkundung nutzen.
+
+00:53:58.801 --> 00:54:06.900
+<v ingosass>Und da, wo Sie zum Beispiel große Kupfervorkommen haben, haben Sie auch Begleitmetalle, die eben Schwermetalle sind oder seltene Erden.
+
+00:54:06.901 --> 00:54:10.400
+<v ingosass>Es kommt immer darauf an, was man damit macht.
+
+00:54:10.401 --> 00:54:23.700
+<v timpritlove>Aber es ist jetzt, sagen wir mal, eher eine Gefährdung, also es gefährdet eher die Bohrung als solche und es ist jetzt nicht unmittelbar ein großes Umweltrisiko
+
+00:54:23.701 --> 00:54:27.600
+<v timpritlove>oder heißt das schon so, dass wenn man da die falsche Stelle bohrt, dass dann Schwermetalle …
+
+00:54:27.601 --> 00:54:36.800
+<v ingosass>Wenn wir bohren und in Deutschland unter Bergrecht und unter Betriebsplanaufsicht, dann gehen wir eigentlich davon aus, dass eine sichere Angelegenheit ist.
+
+00:54:36.801 --> 00:54:40.100
+<v ingosass>Aber es ist nicht von vornherein klar, dass eine Bohrung erfolgreich ist.
+
+00:54:40.101 --> 00:54:47.700
+<v ingosass>Es gibt Bohrungen, die werden eingestellt, weil zum Beispiel dann die Risiken zu groß werden, dann muss die Bohrung aufgegeben werden, zementiert werden, rückgebaut werden.
+
+00:54:47.701 --> 00:54:50.200
+<v ingosass>Dann muss man sich überlegen, was man da tut.
+
+00:54:50.201 --> 00:54:54.000
+<v ingosass>Das ist aber kein Geothermiespezifikum.
+
+00:54:54.001 --> 00:54:59.900
+<v ingosass>Sondern das ist eine grundsätzliche Fragestellung der Tiefbautechnik.
+
+00:54:59.901 --> 00:55:03.700
+<v timpritlove>Gut, also ich meine, es ist auf jeden Fall nicht ohne Risiko, soviel kann man schon mal festhalten,
+
+00:55:03.701 --> 00:55:07.800
+<v timpritlove>aber das Risiko ist in gewisser Hinsicht auch abschätzbar.
+
+00:55:07.801 --> 00:55:11.200
+<v ingosass>Also Autofahren ist gefährlicher, ich meine das auch gar nicht lächerlich.
+
+00:55:11.201 --> 00:55:15.500
+<v ingosass>Und ich bin auch nicht jemand, der Risiken kleinredet oder unterschätzt.
+
+00:55:15.501 --> 00:55:30.000
+<v ingosass>Aber sicherlich gehen wir mit einem vollgetankten Auto wesentlich sorgloser um, als der Aufwand, der zum Teil bei Tiefbohrungen mit weniger toxischen, weniger explosiven Stoffen betrieben wird.
+
+00:55:30.001 --> 00:55:35.000
+<v timpritlove>Ja gut, meine Frage geht ja auch eher so ein bisschen in diese Richtung, was hält uns eigentlich davon ab,
+
+00:55:35.001 --> 00:55:45.300
+<v timpritlove>alle zwei Kilometer irgendwie so eine Bohrung zu haben und an der Stelle die auftretende Wärme einfach für Strom oder Wärmeenergie zu nutzen?
+
+00:55:45.301 --> 00:55:52.600
+<v ingosass>Also man kann das jetzt natürlich konfrontativ diskutieren, könnte man die Hypothese machen,
+
+00:55:52.601 --> 00:55:57.200
+<v ingosass>weil die Lobbyinteressen im Bereich Wind und Sonne stärker waren.
+
+00:55:57.201 --> 00:55:59.800
+<v timpritlove>Ich meine, hält uns technisch irgendwas davon ab?
+
+00:55:59.801 --> 00:56:14.900
+<v ingosass>Nein, würde ich sagen, nein, es ist vor allen Dingen, ich glaube, die Wahrnehmung von Geothermie und Geothermierisikey in der Gesellschaft und in der Politik, die hält uns eher davon ab.
+
+00:56:14.901 --> 00:56:22.500
+<v ingosass>Sehen Sie, wir leisten uns ja Windanlagen Offshore zu bauen, das fachliche Argument ist natürlich,
+
+00:56:22.501 --> 00:56:30.000
+<v ingosass>weil dort die 4.000 Volllaststunden entstehen können, weil natürlich in der Nordsee immer Wind geht.
+
+00:56:30.001 --> 00:56:37.800
+<v ingosass>Wir haben es aber, ich bin überzeugt davon, auch deshalb gemacht, weil wir den öffentlichen Widerstand so vermieden haben.
+
+00:56:37.801 --> 00:56:38.600
+<v timpritlove>Weil da wohnt ja keiner?
+
+00:56:38.601 --> 00:56:43.400
+<v ingosass>Ein Teil dieses Widerstandes hat man jetzt beim Bau der Stromtrassen in den Süden vermutlich.
+
+00:56:43.401 --> 00:56:48.000
+<v ingosass>Ich meine, vielleicht ist am Ende die Summe des Widerstandes gleich.
+
+00:56:48.001 --> 00:56:49.300
+<v ingosass>Weiß man nicht, wer weiß das schon.
+
+00:56:49.301 --> 00:56:53.300
+<v timpritlove>Weil man jetzt sozusagen die im Norden gewonnenen Energiemengen in den Süden transferieren muss und dafür die entsprechenden Leitungen braucht
+
+00:56:53.301 --> 00:57:02.500
+<v ingosass>Wir haben ja vier Hauptstromtrassen und große Projekte, große wichtige Infrastrukturprojekte, an denen wir übrigens auch beteiligt sind wissenschaftlich.
+
+00:57:02.501 --> 00:57:11.700
+<v ingosass>Aber ich glaube schon, dass man mit dem Offshore-Wind nicht nur einen hohen Wirkungsgrad für die Windstromerzeugung erzielt hat,
+
+00:57:11.701 --> 00:57:16.200
+<v ingosass>der immer noch weit unter dem von der Geothermieanlage liegt, aber das ist noch ein anderes Thema.
+
+00:57:16.201 --> 00:57:22.000
+<v ingosass>Man hat aber auch ein Teil der Probleme mal für ein paar Jahre Offshore gelagert
+
+00:57:22.001 --> 00:57:25.900
+<v ingosass>und die kommen jetzt durch den Trassenbau möglicherweise zurück.
+
+00:57:25.901 --> 00:57:32.100
+<v ingosass>Gesellschaftliche Akzeptanz von Technikmaßnahmen ist ein immer dringenderes Problem
+
+00:57:32.101 --> 00:57:35.800
+<v ingosass>und die Geothermie hat es da besonders hart erwischt.
+
+00:57:35.801 --> 00:57:44.900
+<v timpritlove>Dann malen wir doch jetzt mal eine rosige Zukunft auf Basis dessen, was Sie für technisch realisierbar halten
+
+00:57:44.901 --> 00:57:50.000
+<v timpritlove>und gehen wir mal davon aus, dass die Gesellschaft gerade nichts besseres zu tun hat, als Ihnen irgendwie Rückenwind zu geben.
+
+00:57:50.001 --> 00:58:03.300
+<v timpritlove>Was wäre denn eine realistische, bezahlbare über einen absehbaren Zeitraum entwickelbarer Beitrag der Geothermie, der auch sinnvoll wäre?
+
+00:58:03.301 --> 00:58:03.900
+<v timpritlove>Was brauchen wir denn am meisten?
+
+00:58:03.901 --> 00:58:07.300
+<v timpritlove>Brauchen wir Wärme, brauchen wir Strom, brauchen wir beides, schließt sich das nicht aus?
+
+00:58:07.301 --> 00:58:12.300
+<v ingosass>Also ich würde schon einen klaren Schwerpunkt bei Wärme sehen.
+
+00:58:12.301 --> 00:58:15.000
+<v ingosass>Das sieht man auch an den Geothermiezahlen.
+
+00:58:15.001 --> 00:58:25.100
+<v ingosass>Die Wärmenutzung ist wesentlich verbreiteter und der Wärmeanteil an den erneuerbaren Energien aus geothermischen Quellen ist deutlich erhöht.
+
+00:58:25.101 --> 00:58:31.100
+<v ingosass>Im Strombereich ist es so, wenn wir uns auf diese anomalen Zonen konzentrieren, die ich Ihnen ja nannte,
+
+00:58:31.101 --> 00:58:45.000
+<v ingosass>also ich sage mal, den Südraum München, dann Teile des norddeutschen Beckens, so vielleicht auf einer Linie nördlich Berlin, Hannover, dann nach Westen.
+
+00:58:45.001 --> 00:58:55.800
+<v ingosass>Und wenn man die Bereiche im Oberrheingraben nimmt, wo man bohren kann, Sie können ja schlecht mitten in einer Siedlung oder in einem Haus bohren
+
+00:58:55.801 --> 00:59:02.000
+<v ingosass>und man die Potenziale, die doch stark kartiert wurden in den letzten 10 Jahren dazukommt,
+
+00:59:02.001 --> 00:59:14.800
+<v ingosass>dann kann man vielleicht sagen, 5% Primärenergiebeitrag, also Strombeitrag aus Geothermie, wäre technisch mit heutigen Möglichkeiten machbar.
+
+00:59:14.801 --> 00:59:17.600
+<v timpritlove>Wieviele Orte müsste man dazu erschließen?
+
+00:59:17.601 --> 00:59:24.600
+<v ingosass>Auch das ist eine interessante und auch nicht leicht zu beantwortende Frage.
+
+00:59:24.601 --> 00:59:34.400
+<v ingosass>Am Anfang vor 15-20 Jahren, als man so verschiedene Alternativen zu Kernkraft, Kohlestrom diskutierte,
+
+00:59:34.401 --> 00:59:45.200
+<v ingosass>da waren in den politischen Köpfen der Republik immer noch diese Idee, ich schalte einen AKW-Block mit 1.000 Megawatt Leistung ab
+
+00:59:45.201 --> 00:59:56.500
+<v ingosass>und baue ein, was weiß ich, Windpark oder Geothermiekraftwerk oder Photovoltaikplant mit 500.000 Megawatt Leistung.
+
+00:59:56.501 --> 00:59:57.800
+<v ingosass>Das geisterte so da durch.
+
+00:59:57.801 --> 00:59:59.800
+<v ingosass>Das ist nicht so.
+
+00:59:59.801 --> 01:00:03.200
+<v ingosass>Das sehen Sie, wenn Sie heute durch den Rheingau fahren und die ganzen Windräder sehen
+
+01:00:03.201 --> 01:00:13.600
+<v ingosass>oder wenn Sie mal die Windparkkarte der Nordsee anschauen, dann ist das natürlich eine enorme Inanspruchnahme der Fläche
+
+01:00:13.601 --> 01:00:20.000
+<v ingosass>und da kann die Geothermie auch nicht substanziell etwas anderes liefern.
+
+01:00:20.001 --> 01:00:28.400
+<v ingosass>Also eine tiefengeothermische Stromerzeugungsanlage hat, wenn ich Lernkurve und alles mit verpreise,
+
+01:00:28.401 --> 01:00:33.600
+<v ingosass>was wir dazu noch bräuchten, die hat dann vielleicht 20-40 Megawatt Leistung.
+
+01:00:33.601 --> 01:00:39.400
+<v ingosass>das heißt, auch tiefe Geothermie ist zwar nicht so ein zersiedelndes Element wie jetzt Windkraft,
+
+01:00:39.401 --> 01:00:52.800
+<v ingosass>aber auch tiefe Geothermie besteht eben aus zum Beispiel 10 oder 50 Kleinanlagen, um ein wirklich großes Kohlekraftwerk zu ersetzen.
+
+01:00:52.801 --> 01:00:57.700
+<v ingosass>So diese Erkenntnis hat sich also in den letzten Jahren dann erst mal durchgesetzt.
+
+01:00:57.701 --> 01:01:07.900
+<v timpritlove>Das sind jetzt aber keine Anlagen, die jetzt so sichtbar raumgreifend sind wie eine Windanlage, sondern da ist dann sozusagen auf dem Loch nur noch etwas Gebäude und da findet der Prozess statt?
+
+01:01:07.901 --> 01:01:11.100
+<v ingosass>Ja da ist natürlich auf dem Loch … also es sind ja in der Regel auch mehrere Löcher,
+
+01:01:11.101 --> 01:01:21.200
+<v ingosass>also wir reden ja im Idealfall von einer Dublette, also einer Bohrung, wo man Dampf oder heißes Wasser entnimmt und in einer anderen Bohrung das wieder versenkt
+
+01:01:21.201 --> 01:01:24.800
+<v ingosass>und im Untergrund im Kreislauf führt.
+
+01:01:24.801 --> 01:01:28.600
+<v ingosass>Auch das ist ein Aspekt, was die Umweltfragen betrifft.
+
+01:01:28.601 --> 01:01:35.500
+<v ingosass>Sie entnehmen dann keine Stoffe, die irgendwie problematisch sind, sondern Sie führen die im Kreislauf.
+
+01:01:35.501 --> 01:01:41.000
+<v ingosass>Aber tatsächlich sind es natürlich bei einer Anlage, die jetzt mal theoretisch 20 Megawatt elektrische Leistung hat
+
+01:01:41.001 --> 01:01:48.300
+<v ingosass>und vielleicht noch dazu 50 oder 100 Megawatt thermische Leistung hintendran,
+
+01:01:48.301 --> 01:01:50.400
+<v ingosass>da würde man natürlich nicht mit zwei Bohrungen arbeiten.
+
+01:01:50.401 --> 01:01:55.000
+<v ingosass>Die Dublette ist nur ein Gedankenmodell, das sind dann vielleicht 15-20 Bohrungen,
+
+01:01:55.001 --> 01:02:06.600
+<v ingosass>die von einem Bohrpunkt aus mit Richtbohrtechnik so spinnenartig dann in das Reservoire hineingebohrt werden.
+
+01:02:06.601 --> 01:02:09.500
+<v ingosass>Und da wird natürlich eine Kraftwerksanlage drauf sein.
+
+01:02:09.501 --> 01:02:18.500
+<v ingosass>Die ist dann nicht so groß wie ein 500 Megawatt Kohlekraftwerk, die ist dann eben so groß wie ein 20 Megawatt Kraftwerk.
+
+01:02:18.501 --> 01:02:27.800
+<v ingosass>Mit Kühlern und Stationen und Transformatoren und Einbindungen und Sicherheitsbereich und Verwaltungsgebäude und was so dazu gehört.
+
+01:02:27.801 --> 01:02:33.800
+<v ingosass>Erneuerbare Energie ist ja nicht per se eine grüne Technik, sondern das ist vor allen Dingen eine Technik.
+
+01:02:33.801 --> 01:02:37.800
+<v ingosass>Und das betrifft Wind und Photovoltaik und die anderen.
+
+01:02:37.801 --> 01:02:45.500
+<v ingosass>Wir müssen akzeptieren, wenn wir weiter Strom und Energie verbrauchen in dem Maße, wie wir das tun, dann werden wir auch die technischen Anlagen dazu bauen müssen.
+
+01:02:45.501 --> 01:02:47.400
+<v ingosass>Und das gilt auch für die Geothermie.
+
+01:02:47.401 --> 01:02:56.600
+<v ingosass>Aber ein Großteil dieser Erzeugungselemente liegt natürlich im Untergrund und ist damit nicht sichtbar und verbraucht damit auch keinen Raum,
+
+01:02:56.601 --> 01:03:08.300
+<v ingosass>aber dass Geothermie, dass wir mal eine 1.000 Megawatt Geothermieanlage, die dann eben 1.000 Megawatt elektrische Leistung hat, an einem Ort bauen,
+
+01:03:08.301 --> 01:03:19.100
+<v ingosass>das halte ich mit heutiger Bohrtechnik und mit der Perspektive auf Tiefe und Temperatur, die wir erschließen können für Science Fiction.
+
+01:03:19.101 --> 01:03:24.500
+<v ingosass>Natürlich arbeitet man daran und denkt darüber nach und wir gehen auch Richtung superkritische Reservoire,
+
+01:03:24.501 --> 01:03:31.400
+<v ingosass>aber dass wir dort solche Größenordnungen erreichen, halte ich nicht für ein vernünftiges Planungskonzept und darauf sollten wir auch nicht warten.
+
+01:03:31.401 --> 01:03:37.500
+<v timpritlove>Ja, ich denke, dass wir dann auch mit kleineren Kraftwerken, die dann verteilt sind, die Energie auch sehr viel mehr in die Gebiete bringt, wo sie auch wirklich konkret gebraucht werden.
+
+01:03:37.501 --> 01:03:38.200
+<v ingosass>Ja.
+
+01:03:38.201 --> 01:03:42.300
+<v timpritlove>Weil wenn man jetzt einen Überschuss hat, müsste man den ja auch erst mal wieder transferieren und über neue Stromtrassen arbeiten.
+
+01:03:42.301 --> 01:03:47.400
+<v ingosass>Natürlich, das ist für die Nahwärmevesorgung auch wesentlich günstiger, weil Sie sonst riesige Netze brauchen,
+
+01:03:47.401 --> 01:03:55.100
+<v ingosass>aber das heißt natürlich auch, die Bevölkerung hat natürlich, wenn Sie gedanklich in so ein Gebiet hineingehen,
+
+01:03:55.101 --> 01:04:05.100
+<v ingosass>wie den Südraum von München, da haben Sie natürlich in jeder größeren Ortschaft mittlerweile eine nennenswerte Geothermieaktivität.
+
+01:04:05.101 --> 01:04:10.500
+<v ingosass>Wenn Sie an Unterhachingen vorbeifahren, das werden Sie so auf der Autobahn gar nicht wahrnehmen, dass die Anlage da ist,
+
+01:04:10.501 --> 01:04:17.800
+<v ingosass>aber wenn Sie da in ein bestimmtes Areal gehen, dann stehen Sie vor einem Gewerbegebäude.
+
+01:04:17.801 --> 01:04:22.700
+<v ingosass>Und da gibt es auch eben Kühler und da gibt es auch einen kleinen Kamin.
+
+01:04:22.701 --> 01:04:25.000
+<v timpritlove>Das heißt, es ist jetzt auch nicht theoretisch, es gibt diese Anlagen bereits?
+
+01:04:25.001 --> 01:04:26.400
+<v ingosass>Es gibt diese Anlagen, ja.
+
+01:04:26.401 --> 01:04:28.900
+<v timpritlove>In welcher Zahl?
+
+01:04:28.901 --> 01:04:29.400
+<v ingosass>Also ich …
+
+01:04:29.401 --> 01:04:30.300
+<v timpritlove>Größenordnung.
+
+01:04:30.301 --> 01:04:37.700
+<v ingosass>Größenordnung, also in München arbeitet man dran, die gesamte Fernwärmeversorgung auf geothermische Quellen umzustellen
+
+01:04:37.701 --> 01:04:46.500
+<v ingosass>und dort gibt es jetzt, also im Raum zwischen München und der Alpenkante, gibt es so eine Größenordnung von 50 Anlagen, die laufen.
+
+01:04:46.501 --> 01:04:51.100
+<v timpritlove>Und wieviel müssten es sein, um jetzt diese 5%, von denen Sie sprachen, für Bayern zu sichern?
+
+01:04:51.101 --> 01:04:56.500
+<v ingosass>Na gut, da müsste man da mehr Strom erzeugen, deshalb habe ich Ihnen ja gesagt, ich glaube, im Vorgespräch,
+
+01:04:56.501 --> 01:05:06.800
+<v ingosass>dass das wärmegeführte Anlagen sind, die erzeugen also nur Strom, wenn die Stadtwerke oder Versorgerverbünde keine Wärme abgeben können.
+
+01:05:06.801 --> 01:05:15.300
+<v ingosass>Man müsse dann das natürlich auf Strom umstellen und ich habe mir das noch nicht überlegt für den Bereich München,
+
+01:05:15.301 --> 01:05:31.700
+<v ingosass>ich kann das vielleicht für den Oberrheingraben sagen, da hätten wir quasi in der Nähe jeder 10.000-15.000 Leute-Siedlung eine geothermische Anlage.
+
+01:05:31.701 --> 01:05:35.800
+<v ingosass>Also Sie könnten von der einen die nächste sehen, so ähnlich wie die Bismarck-Türme.
+
+01:05:35.801 --> 01:05:43.800
+<v timpritlove>Und damit wäre dann aber auch schon eine relativ solide Wärmeversorgung für diese Besiedelungsgebiete möglich oder?
+
+01:05:43.801 --> 01:05:48.500
+<v ingosass>Also die würden ja Strom erzeugen dann, so wie wir das jetzt mal diskutiert haben.
+
+01:05:48.501 --> 01:05:56.200
+<v ingosass>Und dabei hätten wir soviel Co-Generation von Wärme, dass wir sicherlich stark drüber nachdenken würden,
+
+01:05:56.201 --> 01:06:01.200
+<v ingosass>wie bringen wir das als Prozesswärme in Produktionsprozesse unter und so weiter.
+
+01:06:01.201 --> 01:06:06.100
+<v ingosass>Also das wäre weit weitaus mehr als wir jemals an Gebäudewärme bräuchten.
+
+01:06:06.101 --> 01:06:09.500
+<v timpritlove>Für diese 10.000 Leute, die das betrifft?
+
+01:06:09.501 --> 01:06:10.300
+<v ingosass>Ja.
+
+01:06:10.301 --> 01:06:11.100
+<v timpritlove>Klingt ja eigentlich nach einer tollen Lösung.
+
+01:06:11.101 --> 01:06:21.500
+<v timpritlove>Man hat quasi kostenlose Heizung für alle, kann sogar noch, Prozesswärme bedeutet ja Wärme, die man im industriellen Bereich dann verwenden kann oder?
+
+01:06:21.501 --> 01:06:30.000
+<v ingosass>Ja, Sie kaufen keinen Brennstoff, so wie Sie keinen Wind kaufen, aber Sie haben natürlich schon Kosten, die Sie natürlich auch auf die Abnehmer dann umlegen müssen.
+
+01:06:30.001 --> 01:06:34.500
+<v timpritlove>Ja klar, aber es ist halt dann eben CO2-neutral und man muss nicht irgendwelche Dinosaurier verbrennen.
+
+01:06:34.501 --> 01:06:37.400
+<v ingosass>Ja, das ist auf jeden Fall so.
+
+01:06:37.401 --> 01:06:46.400
+<v timpritlove>Wenn es diese Anlagen jetzt schon gibt, was ist denn so der Hauptgrund dafür, dass wir jetzt diese Dichte, die wir jetzt gerade mal ausgerechnet haben,
+
+01:06:46.401 --> 01:06:50.200
+<v timpritlove>die ja ganz hilfreich werden, nicht haben?
+
+01:06:50.201 --> 01:07:03.500
+<v ingosass>Zum einen haben wir ein Phänomen, man kann eine Geothermieanlage nicht nach dem Prinzip Copy&Paste planen, weil die Untergrundverhältnisse sich ändern.
+
+01:07:03.501 --> 01:07:08.000
+<v ingosass>Sie müssen immer eine standortbezogene Planung, Konzept etc. pp. machen.
+
+01:07:08.001 --> 01:07:14.800
+<v ingosass>Also das heißt, diese Anlagen, was oben drauf ist Übertage, also die verfahrenstechnischen Anlagen,
+
+01:07:14.801 --> 01:07:18.200
+<v ingosass>da gibt es sozusagen von der Stange, das ist eine Bemessungsfrage.
+
+01:07:18.201 --> 01:07:20.300
+<v timpritlove>Wenn die Wärme erst mal da ist, weiß man, was man damit macht.
+
+01:07:20.301 --> 01:07:25.300
+<v ingosass>Ja, aber der Untergrundteil muss halt im einzelnen ingenieurtechnisch geplant und erschlossen werden
+
+01:07:25.301 --> 01:07:31.900
+<v ingosass>und das führt zu sehr lokalen Betrachtungen.
+
+01:07:31.901 --> 01:07:41.900
+<v ingosass>So dann ist in der Regel eine Geothermieanlage auch immer ein Eingriff, also wir reden weiterhin von tiefer Geothermie, möchte ich noch sagen,
+
+01:07:41.901 --> 01:07:44.700
+<v ingosass>ist ein Eingriff in die lokale Struktur und das wird halt wahrgenommen.
+
+01:07:44.701 --> 01:07:57.700
+<v ingosass>Und es hat halt in der Vergangenheit verschiedene Fälle gegeben, wo eben im Zusammenhang mit Geothermie künstliche Seismizität in Rede stand.
+
+01:07:57.701 --> 01:08:04.800
+<v ingosass>Also künstliche Mikroerdbeben, die erzeugt wurden durch das geothermische Tun und bohrtechnisch Tun.
+
+01:08:04.801 --> 01:08:11.300
+<v ingosass>Übrigens nicht nur in der Geothermie, also auch im Öl- und Gasbereich, was völlig „normal“ ist.
+
+01:08:11.301 --> 01:08:21.400
+<v ingosass>Und das hat besonders durch einen Vorfall in Basel zu einer sehr ungünstigen öffentlichen Wahrnehmung geführt.
+
+01:08:21.401 --> 01:08:22.400
+<v timpritlove>Was ist da passiert?
+
+01:08:22.401 --> 01:08:31.900
+<v ingosass>In Basel hat man ein Projekt gehabt, das hieß DHM, Deep Heat Mining, die Idee war, ich bohre zwei Bohrungen in den Untergrund
+
+01:08:31.901 --> 01:08:41.300
+<v ingosass>und nehme die eine Bohrung her und verpresse dort mit hohem Druck Wasser und durch diese Wasserverpressung erzeuge ich Risse im Gestein
+
+01:08:41.301 --> 01:08:48.900
+<v ingosass>und erhöhe die Permeabilität, damit ich später eben diese Kreislaufführung des Thermalwassers machen kann und verstromen kann.
+
+01:08:48.901 --> 01:08:56.900
+<v ingosass>Und das ist in Basel gewesen im Jahr …
+
+01:08:56.901 --> 01:08:59.400
+<v timpritlove>2010 wurde es eingestellt, ich weiß nicht genau, wann es los ging.
+
+01:08:59.401 --> 01:09:05.600
+<v ingosass>Nein, das war 2004 oder so, glaube ich, Nikolausbeben 2004 müsste es gewesen sein.
+
+01:09:05.601 --> 01:09:08.200
+<v timpritlove>Erste Probebohrung 2005.
+
+01:09:08.201 --> 01:09:20.900
+<v ingosass>Dann war es … also 08.12.2005 war das dann, wo es ein seismisches Ereignis der Magnitude 3,1 oder 3,2 gegeben hat
+
+01:09:20.901 --> 01:09:26.200
+<v ingosass>und das steht auf jeden Fall im Zusammenhang mit dieser Aktivität.
+
+01:09:26.201 --> 01:09:27.700
+<v timpritlove>Dezember 2006 war das.
+
+01:09:27.701 --> 01:09:30.300
+<v ingosass>2006 na gut, war es dann da.
+
+01:09:30.301 --> 01:09:36.400
+<v ingosass>Und steht auf jeden Fall im Zusammenhang mit dieser Aktivität und das Novum war …
+
+01:09:36.401 --> 01:09:46.300
+<v ingosass>Also man macht das in Norddeutschland schon seit 50 Jahren im Öl- und Gasbereich, aber natürlich nicht mitten in einer Stadt wie Basel.
+
+01:09:46.301 --> 01:09:56.700
+<v ingosass>Und es ist eben so, ich will jetzt auch nicht so in die Seismologie einsteigen, aber Sie können eben bei Beben in der Tiefe, in 5 Kilometer Tiefe ungefähr,
+
+01:09:56.701 --> 01:10:08.800
+<v ingosass>mit einer Magnitude von 3, da ist das Beben eben nicht nur spürbar, dass Sie also ein deutliches, wie sagt man, da flirren die Gläser im Schrank etc. pp.,
+
+01:10:08.801 --> 01:10:10.000
+<v ingosass>sondern das ist auch hörbar.
+
+01:10:10.001 --> 01:10:18.800
+<v ingosass>Und wenn Sie natürlich so ein seismisches Ereignis in einer dicht besiedelten Stadt auslösen und das knallt dann da.
+
+01:10:18.801 --> 01:10:26.500
+<v ingosass>Ich war nicht selbst dabei, also ich kenne auch nur die Medienberichte und die Berichte von Kolleginnen und Kollegen,
+
+01:10:26.501 --> 01:10:31.100
+<v ingosass>und dann ist natürlich die Wahrnehmung besonders deutlich.
+
+01:10:31.101 --> 01:10:42.200
+<v ingosass>Und dann gab es auch multiple Schadensmeldungen, also Risse im Putz und Mauerwerk und so weiter.
+
+01:10:42.201 --> 01:10:48.200
+<v ingosass>Und dann, glaube ich, ist etwas sehr verhängnisvolles passiert in Abstimmung mit dem Versicherer.
+
+01:10:48.201 --> 01:10:59.100
+<v ingosass>Der Versicherer des Projektes hat sich dann entschieden, also in einer Kosten-Nutzen-Abwägung, einen wesentlichen Teil dieser Schäden zu regulieren.
+
+01:10:59.101 --> 01:11:01.300
+<v ingosass>Die nicht evident mit dem seismischen Ereignis zusammenhängen.
+
+01:11:01.301 --> 01:11:10.700
+<v ingosass>Also wir wissen das aus anderen Fällen, wenn man zu den Leuten geht und sagt, also da hat ja die Erde gebebt, wo hat denn dein Haus Risse bekommen?
+
+01:11:10.701 --> 01:11:17.800
+<v ingosass>Dann fangen die meisten erst an zu schauen und da sind sehr sehr viele Risse dabei, die eben schon da waren oder ein großer Teil.
+
+01:11:17.801 --> 01:11:22.400
+<v ingosass>Also die Wahrnehmung ist da auch eine andere als das tatsächliche Schadenspotenzial,
+
+01:11:22.401 --> 01:11:31.800
+<v ingosass>aber es sind damals in Basel unbürokratisch eine enorme Anzahl an behaupteten Schäden reguliert worden
+
+01:11:31.801 --> 01:11:40.200
+<v ingosass>und in der medialen Wahrnehmung kam dann meiner Meinung nach heraus, dass also die Geothermie Schaden anrichtet, weil die haben das ja auch bezahlt, also haben sie es ja auch angerichtet,
+
+01:11:40.201 --> 01:11:49.900
+<v ingosass>das war eine versicherungsökonomisch und rechtliche Überlegung, die dazu geführt hat, keine fachtechnische.
+
+01:11:49.901 --> 01:12:00.800
+<v ingosass>Und dieses Thema Basel ist dann besonders in Deutschland und im Elsass, also in Frankreich, sehr sehr stark aufgegriffen worden
+
+01:12:00.801 --> 01:12:10.100
+<v ingosass>und ist von verschiedenen Bürgerinitiativen und Interessengruppen instrumentalisiert worden und das führte eben dazu,
+
+01:12:10.101 --> 01:12:23.500
+<v ingosass>dass es enormen öffentlichen Widerstand zum Teil für tiefe Geothermieprojekte gibt, also besonders im Oberrheingraben
+
+01:12:23.501 --> 01:12:31.900
+<v ingosass>und dieser öffentliche Widerstand hat halt auch schon sehr sehr viele Projekte, also das fündigste überhaupt zum Beispiel in Deutschland, das wir haben,
+
+01:12:31.901 --> 01:12:41.500
+<v ingosass>das wäre in Brühl bei Heidelberg, da ist schon eine Bohrung unten, da hat man dann mit verschiedenen Mitteln die zweite verhindert
+
+01:12:41.501 --> 01:12:47.900
+<v ingosass>und hat da eben dazu geführt, dass da viele Projekte in große Schwierigkeiten geraten sind oder auch gar nicht durchgeführt wurden
+
+01:12:47.901 --> 01:12:54.100
+<v ingosass>und mittlerweile ist es natürlich so, dass der Leumund der Geothermie durch diese Vorgänge nicht so gut ist
+
+01:12:54.101 --> 01:13:00.400
+<v ingosass>und wir auch Schwierigkeiten haben, eben auch Investoren zu finden, die sich des Themas annehmen.
+
+01:13:00.401 --> 01:13:06.900
+<v timpritlove>Ja, das ist auch so ein bisschen so eine gewisse Nähe zu den Problematiken, die das Fracking mit sich bringt,
+
+01:13:06.901 --> 01:13:10.200
+<v timpritlove>weil da ja auch solche Erdbeben induziert werden etc.
+
+01:13:10.201 --> 01:13:12.600
+<v ingosass>Ja, also Fracking ist natürlich auch ein Thema.
+
+01:13:12.601 --> 01:13:19.900
+<v ingosass>Ich bin auch an einem der Gutachten fürs Umweltbundesamt beteiligt gewesen zum Thema Fracking an dem ersten.
+
+01:13:19.901 --> 01:13:27.200
+<v ingosass>Und natürlich ist das für uns auch ein Thema, mit dem wir uns da sehr stark auseinandersetzen müssen.
+
+01:13:27.201 --> 01:13:36.700
+<v ingosass>Aber wissen Sie, wie wir ja vorhin anfingen, als ich so anfing zu studieren, dann machst du dieses Fach und dann arbeitest du eine Weile in der Industrie
+
+01:13:36.701 --> 01:13:48.200
+<v ingosass>und dann hast du die Chance zurückzugehen an die Universität, im Jahr 2005, also als die erneuerbaren Energien und die Notwendigkeit so am Horizont erschien
+
+01:13:48.201 --> 01:14:01.900
+<v ingosass>und dann denkst du, du machst Geothermie und gehörst zu den Guten und wenn du dann so da drinsteckst und du kommst dann zum Standort XY mit den berechtigten Fragen der Bürger,
+
+01:14:01.901 --> 01:14:12.300
+<v ingosass>und stellst dann auf einmal fest, du gehörst gar nicht zu den Guten, du gehörst zu den Bösen, die eine schadenbringende üble Technik …
+
+01:14:12.301 --> 01:14:13.800
+<v timpritlove>Also zumindest in der Wahrnehmung der Leute.
+
+01:14:13.801 --> 01:14:20.500
+<v ingosass>Ja, in der Wahrnehmung in der Leute bringt das etwas, das mussten wir erst lernen, auch in der Geothermiebranche.
+
+01:14:20.501 --> 01:14:25.100
+<v ingosass>Der Umgang mit der Öffentlichkeit auf den waren wir nicht vorbereitet, da will ich mich auch gar nicht ausnehmen.
+
+01:14:25.101 --> 01:14:33.500
+<v ingosass>Ich habe da auch ein paar Bürgertermine wahrgenommen in der Vergangenheit, da hätte ich mich auch geschickter verhalten können.
+
+01:14:33.501 --> 01:14:35.600
+<v ingosass>Bin ich im Nachgang ganz sicher.
+
+01:14:35.601 --> 01:14:44.600
+<v ingosass>Aber ist egal, dann lass uns doch lieber unsere Energie und unsere Produktion Irgendwo im Ausland machen, wo wir das dann vielleicht mit Kinderarbeit oder ganz andere Bedingungen haben
+
+01:14:44.601 --> 01:14:47.500
+<v ingosass>und da ist das dann alles gut, Hauptsache nicht vor meiner Tür.
+
+01:14:47.501 --> 01:14:56.800
+<v ingosass>Dieser deutsche Logikschluss, mit dem habe ich große Schwierigkeiten und da muss man sich immer sehr zusammennehmen,
+
+01:14:56.801 --> 01:14:59.000
+<v ingosass>da nicht noch deutlichere Worte zu finden.
+
+01:14:59.001 --> 01:15:07.900
+<v timpritlove>Na gut, aber um das mal auseinanderzuhalten, es gab einige Experimente, wie das immer so ist, wenn man versucht, große Schritte zu machen,
+
+01:15:07.901 --> 01:15:16.100
+<v timpritlove>dann fällt man halt auch manchmal hin, hat man auch gesehen, okay alles klar, das ist jetzt vielleicht keine gute Idee, da so vorzugehen.
+
+01:15:16.101 --> 01:15:24.600
+<v timpritlove>Aber das ändert ja nichts an der Tatsache, dass man eben sehr wohl mit kalkulierbarem Risiko und das Risiko im wesentlichen auf die Technik,
+
+01:15:24.601 --> 01:15:34.900
+<v timpritlove>quasi die Exploration selber im wesentlichen beschränkt ist, mit einem kalkulierbaren Risiko und damit eben auch mit einem kalkulierbaren finanziellen Aufwand
+
+01:15:34.901 --> 01:15:46.000
+<v timpritlove>Systeme bauen kann, die dauerhaft Energie liefern, ohne da noch groß was hinzuführen zu müssen und es liefert Strom und es liefert Wärme.
+
+01:15:46.001 --> 01:15:56.900
+<v timpritlove>Und die Systeme wären replizierbar, man muss bloß immer auf die jeweiligen lokalen Gegebenheiten Rücksicht nehmen, bzw. die in die Planung mit einfließen lassen?
+
+01:15:56.901 --> 01:16:05.000
+<v ingosass>Ja. Auch dieses Erzeugen von Seismizität, nichts ist ja nicht so schlecht, dass es nicht zu irgendetwas gut wäre.
+
+01:16:05.001 --> 01:16:08.500
+<v ingosass>Also natürlich sind die negativen Erfahrungen mittlerweile auch genutzt worden.
+
+01:16:08.501 --> 01:16:15.400
+<v ingosass>Es ist also die jüngste Tiefbohrung, die nicht fündig war aus anderen Gründen, aber die niedergebracht wurde,
+
+01:16:15.401 --> 01:16:30.200
+<v ingosass>war im südlichen Rhein-Main-Gebiet bei Trebur, dort ist also eine 4,7 Kilometer Bohrung ohne jedwedes seismisches Ereignis abgetäuft worden.
+
+01:16:30.201 --> 01:16:36.700
+<v ingosass>Also man hat mittlerweile auch Bohrtechnik und Überwachungstechnik soweit im Griff, dass das eigentlich kein Thema mehr ist.
+
+01:16:36.701 --> 01:16:45.400
+<v ingosass>Aber dieses Fanal von Basel das haftet uns wie Dreck an, also das ist ein großes Problem.
+
+01:16:45.401 --> 01:16:50.900
+<v ingosass>Und auch ein Problem ist natürlich die Art und Weise, wie wir öffentliche Auseinandersetzungen führen.
+
+01:16:50.901 --> 01:17:00.300
+<v ingosass>Die Experten sollten immer bei dem bleiben, was sie für richtig halten oder was richtig ist, das ist manchmal auch nicht klar zu trennen
+
+01:17:00.301 --> 01:17:10.600
+<v ingosass>und ein bewegter Bürger darf alles behaupten, ungeschützt und auch fortgesetzt, das ist natürlich auch ein Vorgang,
+
+01:17:10.601 --> 01:17:22.900
+<v ingosass>der möglicherweise irgendwann auch positive Entwicklungen in unserem Land so stark abbremsen wird, dass wir da noch an den Folgen schwer zu tragen haben werden.
+
+01:17:22.901 --> 01:17:29.700
+<v timpritlove>Jetzt muss ja nicht überall unbedingt immer neu gebohrt werden, es ist ja auch schon eine ganze Menge gebohrt worden
+
+01:17:29.701 --> 01:17:36.600
+<v timpritlove>und wenn man sich jetzt mal den Bergbau anschaut, insbesondere den Kohlebergbau im Ruhrgebiet und anderen Gegenden,
+
+01:17:36.601 --> 01:17:46.500
+<v timpritlove>da existieren jetzt riesige Durchlöcherungen der Erde, wenn man da runterfährt, da ist es auch sehr warm.
+
+01:17:46.501 --> 01:17:57.000
+<v timpritlove>Und das wird jetzt alles stillgelegt bzw. ist eigentlich weitgehend schon stillgelegt, Ende dieses Jahres ist dann auch der Kohlebergbau im Ruhrgebiet final abgeschlossen.
+
+01:17:57.001 --> 01:18:02.900
+<v timpritlove>Was kann man denn damit unter Umständen anfangen? Ist das in irgendeiner Form nutzbar?
+
+01:18:02.901 --> 01:18:06.100
+<v ingosass>Ja und es säuft ab, man lässt ja auch das Grundwasser wieder ansteigen.
+
+01:18:06.101 --> 01:18:16.300
+<v ingosass>Das ist sehr gut, wir hatten ja am Anfang Konvektion und Konduktion erklärt, das heißt, wir bringen natürlich durch das Absaufen einen konvektiven Wärmeträger.
+
+01:18:16.301 --> 01:18:18.100
+<v timpritlove>Aber es wird ja immer laufend rausgepumpt.
+
+01:18:18.101 --> 01:18:26.600
+<v ingosass>Hinein, nein, also es wird schon … also es gibt natürlich Ewigkeitslasten, bis zu einem gewissen Grad muss in vielen Bereichen aus anderen Gründen,
+
+01:18:26.601 --> 01:18:32.800
+<v ingosass>weil sich das Gelände gesenkt hat und so weiter gepumpt werden, aber doch erhebliche Teile der Strecken saufen ab.
+
+01:18:32.801 --> 01:18:42.300
+<v ingosass>Wir haben eine fantastische Kenntnis des Untergrundes, jedenfalls in dem Bereich, wo wir den Bergbau betrieben haben
+
+01:18:42.301 --> 01:18:47.600
+<v ingosass>und wir haben enorme Hohlraumpotenziale im Untergrund, große Volumina.
+
+01:18:47.601 --> 01:18:54.200
+<v ingosass>Und wenn wir die jetzt mit Wasser füllen, dann nehmen die natürlich die Umgebungstemperatur an und das folgt natürlich dem geothermischen Gradienten,
+
+01:18:54.201 --> 01:18:59.800
+<v ingosass>also haben wir in tiefen alten Schachtanlagen 50-60 Grad.
+
+01:18:59.801 --> 01:19:00.800
+<v timpritlove>Wie tief geht es so runter im Ruhrgebiet?
+
+01:19:00.801 --> 01:19:08.100
+<v ingosass>Im Ruhrgebiet, das ist ganz unterschiedlich, es gibt nicht so viel, was tiefer als 2.000 Meter geht.
+
+01:19:08.101 --> 01:19:09.300
+<v timpritlove>Okay, aber immerhin.
+
+01:19:09.301 --> 01:19:15.100
+<v ingosass>Und das ist ein enormes Potenzial und ich glaube, das wird auch genutzt.
+
+01:19:15.101 --> 01:19:28.300
+<v ingosass>Also es gibt verschiedene Projekte, von denen ich Kenntnis habe, wir arbeiten natürlich nicht im Ruhrgebiet, das tun natürlich dann da die Institutionen, die vor Ort sind,
+
+01:19:28.301 --> 01:19:36.800
+<v ingosass>und es gibt verschiedene Projekte, wo man eben diesen Untergrund als Wärmespeicher, als Wärmequelle nutzt und nachnutzen wird.
+
+01:19:36.801 --> 01:19:45.100
+<v ingosass>Und ich denke, im Bereich der Wärmeversorgung hat das Ruhrgebiet also ein enormes Potenzial aufgrund dieser Altbergbaustrukturen.
+
+01:19:45.101 --> 01:19:48.400
+<v timpritlove>Wie könnte da so ein Szenario aussehen?
+
+01:19:48.401 --> 01:19:59.600
+<v ingosass>Ja, Sie nehmen zum Beispiel ein altes Grubensystem, also ich habe, jetzt gerade in Bochum geschieht das jetzt aktuell und wird geplant
+
+01:19:59.601 --> 01:20:10.800
+<v ingosass>und man beabsichtigt auch die Umsetzung, ich halte eben auch ein gewisses Bergwerksvolumen offen, ich lasse das absaufen,
+
+01:20:10.801 --> 01:20:19.900
+<v ingosass>um eben Wasser da drin zu haben und ich kann dann unter Umständen auch diese Systeme nutzen, um volatil erneuerbare Energie,
+
+01:20:19.901 --> 01:20:30.700
+<v ingosass>also Solarthermie oder Kraftwerkabwärme sogar aktiv einzuspeichern, wenn ich sie nicht gebrauchen kann im Sommer und dann im Winter dort herauszufahren.
+
+01:20:30.701 --> 01:20:42.300
+<v ingosass>Also dort kann man mit relativ überschaubarem Aufwand, aber eben auch individuell wieder standortbezogen Planung machen,
+
+01:20:42.301 --> 01:20:46.200
+<v ingosass>die da einen großen Energiebeitrag liefern können.
+
+01:20:46.201 --> 01:20:53.900
+<v ingosass>Das Problem an solchen Aktivitäten ist in der Regel, wie beurteile ich die Gebirgsstruktur?
+
+01:20:53.901 --> 01:20:58.800
+<v ingosass>Und was muss ich tun, um eben auch einen Zustand im Bergwerk zu erhalten, den ich brauche?
+
+01:20:58.801 --> 01:21:05.100
+<v ingosass>Ich will dann ja auch nicht, dass es weiter verstürzt, die Grubenbaue, jedenfalls nicht in Größenordnungen.
+
+01:21:05.101 --> 01:21:11.400
+<v ingosass>Ich will ja nicht durch das geothermische Tun andere zusätzliche Risiken oder Probleme erzeugen.
+
+01:21:11.401 --> 01:21:23.000
+<v ingosass>Also da liegen die Planungsanforderungen eher auf dem Teil, wie gehe ich mit dem Altbergbau um und was sind da für Sicherungsmaßnahmen zu machen?
+
+01:21:23.001 --> 01:21:33.200
+<v ingosass>Weil natürlich der Stilllegungsbergbau, die Stilllegungsbetriebspläne haben natürlich zunächst mal keine Geothermienutzung und Nachnutzung im Kopf
+
+01:21:33.201 --> 01:21:40.800
+<v ingosass>und es gibt natürlich auch Betriebspläne für Kohlegewinnung und nicht für Erdwärmegewinnung, das ist auch rechtlich etwas anderes.
+
+01:21:40.801 --> 01:21:49.500
+<v ingosass>Aber grundsätzlich ist das Potenzial da im Ruhrgebiet sehr sehr groß durch den Bergbau.
+
+01:21:49.501 --> 01:21:55.600
+<v timpritlove>Und in Bochum gibt es, sagten Sie, so ein Geothermiezentrum, was sich also genauer mit dieser Frage auch auseinandersetzt?
+
+01:21:55.601 --> 01:22:04.000
+<v ingosass>Ja, das internationale Geothermiezentrum in Bochum ist eine Forschungs- und Lehreinrichtung, eng assoziiert an die Ruhr-Uni,
+
+01:22:04.001 --> 01:22:15.300
+<v ingosass>aber an der Hochschule Bochum installiert und dort fördert das Land Nordrhein-Westfalen namhaft,
+
+01:22:15.301 --> 01:22:26.200
+<v ingosass>ich habe da keine Summen im Kopf, ist vielleicht auch nicht interessant, also es sind mehrere Professuren und eine ganze Reihe von Mitarbeiterinnen und Mitarbeitern,
+
+01:22:26.201 --> 01:22:34.600
+<v ingosass>die da beschäftigt werden und diese Dinge werden natürlich bearbeitet an diesem internationalen Geothermiezentrum.
+
+01:22:34.601 --> 01:22:40.200
+<v ingosass>Und eben nicht nur auf der Forschungsseite, sondern auch auf der Umsetzungsseite.
+
+01:22:40.201 --> 01:22:44.600
+<v ingosass>Man ist da also zum Teil mit den Projekten auch sehr sehr umsetzungsnah unterwegs, was wichtig ist.
+
+01:22:44.601 --> 01:22:51.900
+<v ingosass>Weil man muss in der Geothermie einfach auch mal zeigen, hier schaut hin, da geht es, so geht es.
+
+01:22:51.901 --> 01:22:58.000
+<v ingosass>Wir brauchen auch so Leuchttürme, um eben auch andere und Zweifler zu überzeugen.
+
+01:22:58.001 --> 01:23:00.500
+<v timpritlove>Und die gibt es noch nicht?
+
+01:23:00.501 --> 01:23:08.800
+<v ingosass>Doch es gibt verschiedene, also es gibt München, den Großraum München, die Stadtwerke München stellen ihre Fernwärmeversorgung zu 100% auf Geothermie um.
+
+01:23:08.801 --> 01:23:14.800
+<v ingosass>Die bohren also ständig im Südraum von München.
+
+01:23:14.801 --> 01:23:27.500
+<v ingosass>Es gibt zum Beispiel für den Frankfurter Flughafen eine fertige Planung einer gigantisch großen oberflächennahen Geothermieanlage aus Erdwärmesonden.
+
+01:23:27.501 --> 01:23:36.300
+<v ingosass>Die ist leider auf Eis gelegt worden aus Genehmigungsgründen, aber das Potenzial ist damit mal dargestellt worden.
+
+01:23:36.301 --> 01:23:43.400
+<v ingosass>Es gibt im Ruhrgebiet verschiedenste Projekte, die natürlich immer dann zechebezogen sind und standortbezogen.
+
+01:23:43.401 --> 01:23:52.700
+<v ingosass>Also es gibt, ich bin sicher, ich kenne gar nicht alle, aber mit etwas Überlegung fallen mir sicherlich 20 Projekte ein,
+
+01:23:52.701 --> 01:24:08.100
+<v ingosass>wo man verschiedene Nutzung für Quartiersversorgung, Neubauerschließung, Prozesswärme, Wärmespeicherung etc. andenkt und umsetzt und zum Teil auch umgesetzt hat und schon im Betrieb hat.
+
+01:24:08.101 --> 01:24:11.100
+<v ingosass>Oder Pariser Becken zum Beispiel.
+
+01:24:11.101 --> 01:24:24.100
+<v ingosass>In Paris hat die Wärmeversorgung aus Geothermie eine lange Tradition und die wird jetzt in den jüngsten Jahren gerade nochmal sehr sehr stark verstärkt und verbessert,
+
+01:24:24.101 --> 01:24:34.400
+<v ingosass>aber auch dort ist eine geologische Struktur, die eben diese Nutzung besonders wirtschaftlich macht oder auch besonders einfach macht.
+
+01:24:34.401 --> 01:24:46.900
+<v timpritlove>Wenn ich Sie jetzt richtig verstanden habe, man kann jetzt die Geothermie nicht isoliert sehen, die Nutzung der Geothermie nicht isoliert sehen von dem generellen Wärmemanagement,
+
+01:24:46.901 --> 01:24:52.600
+<v timpritlove>wie wir in der Gesellschaft überhaupt mit Wärme umgehen.
+
+01:24:52.601 --> 01:24:59.200
+<v timpritlove>Abgesehen davon, dass man jetzt so konkrete Dinge und so naheliegende Sachen macht wie Fernwärme.
+
+01:24:59.201 --> 01:25:09.100
+<v timpritlove>Inwiefern muss man in dieses Wärmethema jetzt noch weiter und noch mehr auf der Metaebene denken,
+
+01:25:09.101 --> 01:25:12.900
+<v timpritlove>um sozusagen zu einer optimalen Nutzung zu kommen?
+
+01:25:12.901 --> 01:25:21.400
+<v ingosass>Okay, also politisch, erneuerbare Wärme vermeidet Treibhausgase.
+
+01:25:21.401 --> 01:25:29.600
+<v ingosass>Wir müssen die Wärmewende hinbekommen, weil dort verlieren wir sonst die Energiewende-
+
+01:25:29.601 --> 01:25:35.000
+<v ingosass>Also sowohl politisch als auch von den tatsächlichen naturwissenschaftlichen und technischen Zielen.
+
+01:25:35.001 --> 01:25:42.100
+<v ingosass>Das heißt, wir haben gar keine andere Chance als erneuerbare Wärmeversorgung in Größenordnungen bereitzustellen.
+
+01:25:42.101 --> 01:25:47.400
+<v ingosass>Wir können auch nicht warten, dass der Klimawandel so schnell vorangeht, dass wir keine Wärme mehr brauchen.
+
+01:25:47.401 --> 01:25:49.200
+<v ingosass>So schnell wir des dann doch nicht gehen.
+
+01:25:49.201 --> 01:25:59.100
+<v ingosass>Und ich bin überzeugt davon, das wird nicht ohne Geothermie gehen, weil wir werden den geothermischen Untergrund schon alleine deshalb brauchen,
+
+01:25:59.101 --> 01:26:05.100
+<v ingosass>um volatile, zum Beispiel solarthermisch gewonnene, Wärme im Untergrund zu speichern.
+
+01:26:05.101 --> 01:26:18.700
+<v ingosass>Und das wird nicht funktionieren in Deutschland, ich kann jetzt da mehr nur für Deutschland sprechen, weil die Regelungssituation in anderen Ländern zum Teil dramatisch anders ist als hier,
+
+01:26:18.701 --> 01:26:28.900
+<v ingosass>in Deutschland wird das nicht funktionieren, wenn wir es nicht schaffen, genehmigungsrechtlich, planungsrechtlich, eigentumsrechtlich, Großanlagen,
+
+01:26:28.901 --> 01:26:43.600
+<v ingosass>also Speicher mit Wärmeleistungen, Arbeit von 20-30-100 Gigawattstunden Wärme pro Jahr, im urbanen Bereich zu installieren.
+
+01:26:43.601 --> 01:26:45.100
+<v ingosass>Und dazu müssen Sie erst mal Flächen finden.
+
+01:26:45.101 --> 01:26:52.800
+<v ingosass>Und da überlegen Sie mal in Deutschland, stellen Sie sich vor, Sie besitzen ein Mietshaus
+
+01:26:52.801 --> 01:27:02.800
+<v ingosass>und jetzt kommt die Politik und sagt Ihnen, bei deiner nächsten Heizungsrenovierung verbieten wir dir eine hausbezogene Lösung,
+
+01:27:02.801 --> 01:27:11.100
+<v ingosass>du musst dich an den Großwärmespeicher um die Ecke anschließen.
+
+01:27:11.101 --> 01:27:13.600
+<v ingosass>Stellte Sie sich das mal vor, wie Sie das durchsetzen wollen?
+
+01:27:13.601 --> 01:27:28.100
+<v ingosass>Also uns fehlen unserer Meinung nach raumgreifend die rechtlichen Randbedingungen, um wirklich Wärmewende in Größenordnungen zu machen.
+
+01:27:28.101 --> 01:27:41.100
+<v ingosass>Ich denke, das ist logisch, ich will gar nicht gegen dieses klassische Beispiel der Geothermienutzung auf dem Einfamilienhausbereich sprechen.
+
+01:27:41.101 --> 01:27:52.900
+<v ingosass>Natürlich macht das Sinn und es ist auf jeden Fall sinnvoller, wir beide machen in unserem Haus oder in unserem Wohnhaus eine geothermische Energieversorgung, Wärmeversorugng
+
+01:27:52.901 --> 01:28:00.500
+<v ingosass>als eine, die auf fossilen Brennstoffen basiert oder auf anderen nicht nachhaltigen Lösungen.
+
+01:28:00.501 --> 01:28:08.800
+<v ingosass>Ich meine, auch Fernwärme, die aus fossilen Brennstoffen erzeugt wird, ist ja zwar vor Ort sauber, aber nicht an der Erzeugungsseite.
+
+01:28:08.801 --> 01:28:15.600
+<v ingosass>Aber das ist so, wie in allen Dingen, wenn Sie ein kleines System haben, das ist ineffizient per se,
+
+01:28:15.601 --> 01:28:21.900
+<v ingosass>weil Sie brauchen natürlich für ein kleines System Steuerungs-, Regelungstechnik, Sie brauchen Genehmigungsverfahren,
+
+01:28:21.901 --> 01:28:29.900
+<v ingosass>Sie brauchen Planung, Sie brauchen Hausanschlüsse etc. pp., Sie brauchen Bohrungen, Sie müssen das individuell durchziehen und Sie erschließen nur ein kleines Volumen am Untergrund.
+
+01:28:29.901 --> 01:28:35.800
+<v ingosass>Das heißt also, Ihre Verlustleistungen in den nicht erschlossenen Untergrund ist natürlich spezifisch größer.
+
+01:28:35.801 --> 01:28:39.900
+<v ingosass>Das heißt, dadurch frisst die Energiewende die Energiewende.
+
+01:28:39.901 --> 01:28:40.800
+<v timpritlove>Skaliert nicht...
+
+01:28:40.801 --> 01:28:45.800
+<v ingosass>Weil wir einfach zu ineffizient sind und auch unökonomisch.
+
+01:28:45.801 --> 01:28:48.800
+<v ingosass>Ja, Sie haben spezifisch relativ hohe Kosten.
+
+01:28:48.801 --> 01:28:58.100
+<v ingosass>Also es ist jetzt gerade im Moment etwa so, wenn wir durchschnittliche geothermische Bedingungen in einem x-beliebigen Baugebiet uns vorstellen,
+
+01:28:58.101 --> 01:29:08.400
+<v ingosass>dann ist geothermische Wärmeversorgung und Kälte, das können Sie ja gleichzeitig damit machen, Sie können ja mit Geothermie heizen und kühlen normalerweise mit der oberflächennahen,
+
+01:29:08.401 --> 01:29:15.000
+<v ingosass>dann ist das so gerade kompetetiv mit anderen Wärmeversorgungsmodellen.
+
+01:29:15.001 --> 01:29:21.900
+<v ingosass>Es wird ja zum Beispiel in Deutschland immer noch Gas- und Ölheizung zum Teil subventioniert, wie krank ist das eigentlich?
+
+01:29:21.901 --> 01:29:22.000
+<v timpritlove>Subventioniert?
+
+01:29:22.001 --> 01:29:32.000
+<v ingosass>Subventioniert, ja Sie können für Gasheizung mit erneuerbaren Anteilen, also wenn Sie zum Beispiel eine Solartherme koppeln mit einer Gasheizung,
+
+01:29:32.001 --> 01:29:37.400
+<v ingosass>kriegen Sie 20% fast unter Umständen der Investitionssumme gefördert.
+
+01:29:37.401 --> 01:29:46.100
+<v ingosass>Das ist natürlich vor dem Hintergrund aller Klima- und anderer Überlegungen und auch politischer Überlegungen und auch Abhängigkeiten,
+
+01:29:46.101 --> 01:29:51.700
+<v ingosass>die Deutschland dabei eingeht, ist für mich nicht nachvollziehbar.
+
+01:29:51.701 --> 01:30:03.400
+<v ingosass>Also das sind viele Randbedingungen, die da reinspielen, aber wenn man das alles nimmt, dann ist Geothermie halt bereits wettbewerbsfähig auf der Wärmeseite.
+
+01:30:03.401 --> 01:30:08.700
+<v ingosass>Wenn Sie einen Abschreibungszeitraum von 10-15 Jahren betrachten.
+
+01:30:08.701 --> 01:30:14.100
+<v ingosass>Wenn Sie das auf 2-3 Jahre betrachten, dann nicht, dann ist die Gastherme immer die billigere Lösung.
+
+01:30:14.101 --> 01:30:23.500
+<v ingosass>Aber mit der kaufen Sie ja ständig Brandstoff, mit einer Geothermielösung kaufen Sie nur den Brandstoffanteil vielleicht zu 25%.
+
+01:30:23.501 --> 01:30:29.300
+<v ingosass>Und natürlich ist es so, je länger Sie die Geothermieanlage betreiben, desto wirtschaftlicher wird das.
+
+01:30:29.301 --> 01:30:44.100
+<v ingosass>Und es muss unserer Mienung nach schon dringend so sein, dass die nicht nachhaltigen und ich halte jedwede Form von fossilen Rohstoffen verbrennende Energieversorgung für nicht nachhaltig.
+
+01:30:44.101 --> 01:30:54.200
+<v ingosass>Eine Gasversorgung ist zwar sauberer als eine braunkohlegestützte Versorgung, aber darum ist sie trotzdem nicht gut.
+
+01:30:54.201 --> 01:31:02.000
+<v ingosass>Und in diesem Punkt haben wir, glaube ich, viel viel mehr politische Arbeit zu tun und gesellschaftliche als technische.
+
+01:31:02.001 --> 01:31:12.900
+<v ingosass>Die Systeme stehen zur Verfügung, also die erneuerbaren Heiz- und Kühlsysteme sind extrem leistungsfähig und extrem sophistiziert
+
+01:31:12.901 --> 01:31:23.500
+<v ingosass>und nebenbei bemerkt, sie sind auch wirtschaftlich und arbeitsmarktpolitisch stehen sie auf sehr starken Füßen
+
+01:31:23.501 --> 01:31:29.900
+<v ingosass>und sind auch in der Lage, Exportfunktionen wahrzunehmen, die wir sonst so nicht haben.
+
+01:31:29.901 --> 01:31:40.100
+<v ingosass>Also um es kurz zu machen, ich bin überzeugt davon, dass es ein richtiger Weg ist, Geothermie zu fördern, zu unterstützen,
+
+01:31:40.101 --> 01:31:46.200
+<v ingosass>aber wir würden uns wünschen, dass wir die Förderschwerpunkte auf größere Einheiten legen.
+
+01:31:46.201 --> 01:31:50.900
+<v ingosass>Der Wirkungsgrad würde steigen, die Effizienz würde steigen, die spezifischen Kosten würden sinken.
+
+01:31:50.901 --> 01:31:55.600
+<v ingosass>Also pro Kilowattstunde Wärme zum Beispiel.
+
+01:31:55.601 --> 01:32:03.200
+<v ingosass>Und die geopolitische Abhängigkeit von Deutschland würde dramatisch sinken, von verschiedenen Faktoren.
+
+01:32:03.201 --> 01:32:06.500
+<v timpritlove>Was man nicht importieren muss, muss man nicht aushandeln und nicht bezahlen.
+
+01:32:06.501 --> 01:32:15.000
+<v ingosass>Und ich finde es auch im Sinne der Globalisierung also ein hochgradig kritisches Tun, wenn wir es uns leisten,
+
+01:32:15.001 --> 01:32:23.300
+<v ingosass>eine Gesellschaft mit dem höchsten spezifischen pro Kopf Energieverbrauch zu sein, dann bin ich der Meinung,
+
+01:32:23.301 --> 01:32:34.700
+<v ingosass>sind wir auch gezwungen, die heimischen Ressourcen zu nutzen und nicht unsere Energieprobleme sozusagen in anderen Ländern zu regeln, wie auch immer man das dann tut.
+
+01:32:34.701 --> 01:32:41.700
+<v ingosass>Und Geothermie ist natürlich standortunabhängig und geopolitisch auch besonders wertvoll.
+
+01:32:41.701 --> 01:32:52.600
+<v ingosass>Aber wir haben auf der anderen Seite eben diese Förderung, also nehmen wir die EnEv, die Energieeinsparverordnung, das ist eine Erfolgsgeschichte.
+
+01:32:52.601 --> 01:33:09.100
+<v ingosass>Man hat bei Neubauten Vorgaben gemacht, dass man den Dämmstandard immer erhöht hat, der spezifische Energieverbrauch unserer Neubauten geht seit Jahren dramatisch zurück, das ist ein großer Erfolg.
+
+01:33:09.101 --> 01:33:16.400
+<v ingosass>Ob die Ökobilanz ab einem gewissen Punkt allerdings noch sinnvoll ist, diese Frage wird nicht gestellt.
+
+01:33:16.401 --> 01:33:26.000
+<v ingosass>Sie müssen ja auch Dämmstoffe erzeugen, produzieren, in Umlauf bringen, verbauen oder auch die Kosten fürs Bauen und damit die entstehenden Kosten fürs Wohnen und Leben.
+
+01:33:26.001 --> 01:33:32.400
+<v ingosass>Wir haben ja gerade eine aktuelle Diskussion zu dem Thema, die sind dabei nicht verpreist.
+
+01:33:32.401 --> 01:33:45.300
+<v ingosass>Und wie gesagt, wir sind jetzt mit den Energieeinsparvorgaben an einem Punkt, wo wir mit enorm großem Aufwand nur noch einen geringen zusätzlichen Energieeinsparerfolg erzielen.
+
+01:33:45.301 --> 01:33:54.900
+<v ingosass>Geothermie ist halt grundlastfähig ist immer da, ich bin dafür, lasst es doch ruhig mal ein bisschen durchs Fenster ziehen, wenn wir auch günstiger bauen.
+
+01:33:54.901 --> 01:34:04.400
+<v ingosass>Weil wir dort, wenn wir eine reine Geothermienutzung haben, dann eben erneuerbar fahren und somit, wie sagt man,
+
+01:34:04.401 --> 01:34:09.100
+<v ingosass>ich benutze das Wort nicht so gerne, klimaneutral.
+
+01:34:09.101 --> 01:34:22.200
+<v timpritlove>Naja, ich meine, wenn die Energie sozusagen unproblematisch bezogen wird, kann man sich auch etwas weniger Effizienz in der Nutzung erlauben.
+
+01:34:22.201 --> 01:34:27.200
+<v ingosass>Ja, ich meine, wir verteuern natürlich durch die Energietechnik unser Wohnen enorm.
+
+01:34:27.201 --> 01:34:36.100
+<v ingosass>Ich meine, wir sind hier in Berlin, wir müssen ja nicht darüber reden, dass das zu kritischen sozialen Situationen führen wird und ich glaube, wir sind da erst am Anfang.
+
+01:34:36.101 --> 01:34:37.000
+<v timpritlove>Miete etc.
+
+01:34:37.001 --> 01:34:48.500
+<v ingosass>Ja, das ist nicht nur so, dass die Energiewende die Energiekosten zunächst erhöht, sondern durch die Vorgaben erhöht es auch den Quadratmeterpreis und damit letztendlich auch die Miete.
+
+01:34:48.501 --> 01:34:57.100
+<v ingosass>Außerdem, wenn man mit Architekten spricht, also vor ein paar Jahrzehnten hat man, glaube ich, noch 2% für Putz und sonstiges genommen,
+
+01:34:57.101 --> 01:34:59.800
+<v ingosass>ich glaube, mittlerweile nehmen die über 5% an.
+
+01:34:59.801 --> 01:35:06.400
+<v ingosass>Wir verbrauchen damit natürlich auch enorm viel Fläche, die wir nicht nutzen und bauen die zu durch Dämmung.
+
+01:35:06.401 --> 01:35:13.800
+<v ingosass>Man muss wirklich überlegen, inwieweit das ein in der Zukunft sinnvolles Handeln ist, ich möchte das nochmal betonen,
+
+01:35:13.801 --> 01:35:22.000
+<v ingosass>ich bin der Meinung, das ist bis zu einem gewissen Punkt sicherlich eine Erfolgsgeschichte, die EnEv,
+
+01:35:22.001 --> 01:35:32.800
+<v ingosass>aber wir kommen mit einer immer weiteren Verschärfung der Vorgaben der EnEv möglicherweise nicht zu dem Ziel, das eigentlich beabsichtigt ist.
+
+01:35:32.801 --> 01:35:34.400
+<v ingosass>Das man eigentlich erreichen will.
+
+01:35:34.401 --> 01:35:40.100
+<v ingosass>Das andere Problem an diesen Regelungen ist, wir hinken natürlich im Bereich Altbau komplett hinterher.
+
+01:35:40.101 --> 01:35:50.100
+<v ingosass>Also ich weiß nicht, Deutschland hat, glaube ich, so ungefähr 60 Millionen Gebäude und wir bauen ja nur 150-200.000 im Jahr dazu.
+
+01:35:50.101 --> 01:35:53.100
+<v ingosass>Das heißt, die EnEv greift ja im Neubaubereich.
+
+01:35:53.101 --> 01:35:58.000
+<v ingosass>Wir haben jetzt entsprechende komplementäre Regelungen für den Altbaubereich.
+
+01:35:58.001 --> 01:36:09.500
+<v ingosass>Aber im Altbaubereich da ist eigentlich das Problem und da ist die Masse und da ist auch die Zeitachse zu beachten, das wird so schnell nicht gehen.
+
+01:36:09.501 --> 01:36:23.500
+<v ingosass>Ich meine, man stelle sich vor, man besitzt ein Objekt und will es vermieten, das ist auch nicht jedermann in der Lage, dort die vielleicht technisch notwendigen und gewünschten Maßnahmen zu machen.
+
+01:36:23.501 --> 01:36:29.700
+<v ingosass>Und wenn man sie dann machen muss, werden sie so teuer, dass man einen enormen Impact auf die Mieten hat.
+
+01:36:29.701 --> 01:36:37.800
+<v ingosass>Also ich sehe schon das Geothermieproblem sehr sehr stark verknüpft oder das Wärmeproblem sehr sehr stark verknüpft auch mit gesellschaftlichen Problemen,
+
+01:36:37.801 --> 01:36:41.700
+<v ingosass>die man da antizipieren kann und in Beziehung setzen kann.
+
+01:36:41.701 --> 01:36:49.000
+<v timpritlove>Wenn ich es richtig verstanden habe, ist ja im Prinzip die Wärmeerzeugung über Geothermie auch eng verbunden mit dem Konzept von Fernwärme.
+
+01:36:49.001 --> 01:36:52.300
+<v timpritlove>Eigentlich ist das sozusagen zwangsläufige Kopplung.
+
+01:36:52.301 --> 01:36:57.800
+<v ingosass>Ja, wenn Sie wegkommen von diesen Parzellenlösungen.
+
+01:36:57.801 --> 01:37:07.100
+<v ingosass>Also mein Haus, dein Haus kriegt die Wärmepumpe, Sie bohren als mein Nachbar vielleicht 200 Meter tief,
+
+01:37:07.101 --> 01:37:11.100
+<v ingosass>weil ein Planungsbüro Sie so beraten hat, ich mache das vielleicht anders.
+
+01:37:11.101 --> 01:37:18.800
+<v ingosass>Möglicherweise konkurrieren wir sogar noch um die Erdwärme im Untergrund und entziehen uns die gegenseitig, das wird ja irgendwann passieren.
+
+01:37:18.801 --> 01:37:27.600
+<v ingosass>Da muss es raumordnerische, planerische Vorgaben geben, dass diese Einheiten möglichst groß werden, weil dann lohnen sich Nahwärmenetze und Fernwärmenetze.
+
+01:37:27.601 --> 01:37:31.500
+<v timpritlove>Was wäre Nahwärme, also von was für Bereichen reden wir da?
+
+01:37:31.501 --> 01:37:40.500
+<v ingosass>Also Nahwärme, da reden wir von, also ich trenne jetzt mal nicht Speicherung und Erzeugung, also wenn man eine Geothermieanlage hat,
+
+01:37:40.501 --> 01:37:46.100
+<v ingosass>dann wäre das so im Quartiersbereich, also im Stadtviertelbereich, das wäre Nahwärme.
+
+01:37:46.101 --> 01:38:02.100
+<v ingosass>Und wir bräuchten natürlich für den Heizungsbereich auch eine kalte Nahwärme, also typische Fernwärmenetze der älteren Generation,
+
+01:38:02.101 --> 01:38:08.300
+<v ingosass>die haben dann eben Temperaturen so von 80-90-100-110-120 Grad, je nachdem um was es sich handelt,
+
+01:38:08.301 --> 01:38:15.400
+<v ingosass>das ist natürlich etwas, wenn Sie sich überlegen, eine Solarthermieanlage in Spitzenzeiten, also senkrecht stehende Sonne im Hochsommer,
+
+01:38:15.401 --> 01:38:27.000
+<v ingosass>die bringt vielleicht 130-140 Grad nach unten theoretisch, aber in den Tagesrandzeiten und in den Jahresrandzeiten eben nur 70-80 Grad.
+
+01:38:27.001 --> 01:38:40.800
+<v ingosass>Das heißt also, selbst wenn man so einen Untergrundspeicher geothermisch auflädt auf 90 Grad, dann hat man in der Regel gar nicht die Möglichkeit, eben diese Vorlauftemperaturen zu erreichen.
+
+01:38:40.801 --> 01:38:42.600
+<v ingosass>Da spielt auch die Gebäudedämmung enorm rein.
+
+01:38:42.601 --> 01:38:53.400
+<v ingosass>Wenn Sie Gebäude dämmen und umbauen und energetisch nachrüsten, was meiner Meinung nach auch bis zu einem gewissen Grad extrem sinnvoll ist,
+
+01:38:53.401 --> 01:39:02.700
+<v ingosass>nur die Frage ist, wo legen wir die Messlatte für diesen Grad, dann kommen Sie natürlich mit den Vorlauftemperaturen noch runter.
+
+01:39:02.701 --> 01:39:10.100
+<v ingosass>Ein Nahwärmenetz, das mit geringerer Vorlauftemperatur gefahren wird, verliert spezifisch weniger Energie.
+
+01:39:10.101 --> 01:39:19.500
+<v ingosass>Wissen Sie auch, wenn Sie den Kaffee kochend eingießen, dann die ersten 5-10 Grad kühlen wesentlich schneller ab, als das was dann kommt
+
+01:39:19.501 --> 01:39:24.200
+<v ingosass>und das bedeutet, also da muss man schon einen Optimierungsprozess machen.
+
+01:39:24.201 --> 01:39:32.800
+<v ingosass>Das heißt, das was wir hier reden und was wir hier fordern ist wirklich ein planerischer Gesamteingriff.
+
+01:39:32.801 --> 01:39:33.100
+<v timpritlove>Auf Gemeindeebene vor allem.
+
+01:39:33.101 --> 01:39:39.900
+<v ingosass>Auf Stadtebene, also wir glauben vor allen Dingen, dass der urbane Raum ganz wichtig ist für die Energiewende.
+
+01:39:39.901 --> 01:39:47.300
+<v ingosass>Also natürlich kann man im ländlichen Raum eher eine Reihe von Insellösungen auch vielleicht projektieren und durchführen
+
+01:39:47.301 --> 01:39:54.900
+<v ingosass>und da wird wieder das Verhältnis von Erzeugungsort und Netzlänge wieder ökonomisch ungünstig.
+
+01:39:54.901 --> 01:40:06.800
+<v ingosass>Aber wenn man jetzt Großstädte nimmt, in Deutschland ja alle Orte ab 100.000 Einwohner, wir haben 63, glaube ich, Großstädte in Deutschland,
+
+01:40:06.801 --> 01:40:13.100
+<v ingosass>oder waren es 69, ach Gott.
+
+01:40:13.101 --> 01:40:24.700
+<v ingosass>Also auf jeden Fall kommt man dann dazu, da hat man eine enorme Dichte an Energiesenken, wir haben in den meisten Städten einen geologisch geeigneten Untergrund für geothermische Erzeugung
+
+01:40:24.701 --> 01:40:36.700
+<v ingosass>oder Speicherung, aber wir haben eine Förderungs- und Genehmigungsroutine, die eben übergreifende Lösungen nur da möglich macht,
+
+01:40:36.701 --> 01:40:46.900
+<v ingosass>wo ich einfach ein juveniles Gelände, zum Beispiel die Konversion eines Militärstandortes, aus einer Hand neu bebauen und entwickeln kann
+
+01:40:46.901 --> 01:40:58.300
+<v ingosass>und wo ich über einen Bebauungsplan zum Beispiel schon regele, dass jetzt, wenn wir bei dem Beispiel bleiben, Sie und ich mit unseren Objekten uns auch an diese geothermische Nahwärme anschließen müssen
+
+01:40:58.301 --> 01:41:04.700
+<v ingosass>oder von mir aus solarthermische Nahwärme oder was auch immer das dann ist, muss ja nicht immer Geothermie sein.
+
+01:41:04.701 --> 01:41:05.700
+<v timpritlove>Ja.
+
+01:41:05.701 --> 01:41:09.000
+<v ingosass>Und das ist aber, um eine Wärmewende zu schaffen, zu wenig.
+
+01:41:09.001 --> 01:41:15.400
+<v ingosass>So viele Flächen kommen in Deutschland nicht pro Jahr dazu, dass das einen signifikanten Impact haben würde.
+
+01:41:15.401 --> 01:41:27.900
+<v ingosass>Und bei den Einzellösungen, bei den Einzelhauslösungen, bei den Mehrparteienhauslösungen im Kleinen, da haben wir einfach einen zu geringen Wirkungsgrad der Gesamtanlage oder einen geringeren.
+
+01:41:27.901 --> 01:41:35.300
+<v ingosass>Das heißt, wir erhöhen damit spezifisch die Kosten je Kilowattstunde Wärme oder Kälte.
+
+01:41:35.301 --> 01:41:42.600
+<v timpritlove>Das heißt, wenn ich dem richtig gefolgt bin, wäre es konsequent, auf einer Großstadtebene zu sagen,
+
+01:41:42.601 --> 01:41:56.500
+<v timpritlove>okay wir gehen das jetzt mal an, wir loten jetzt erst mal entsprechende Orte aus, wo Wärme erzeugt oder gespeichert werden kann und dann entsprechend geothermisch oder solarthermisch erzeugt wird
+
+01:41:56.501 --> 01:42:03.300
+<v timpritlove>und planen damit auch sofort ein Verteilungsnetz und langfristig gibt es eine Anschlusspflicht.
+
+01:42:03.301 --> 01:42:03.700
+<v ingosass>Genau.
+
+01:42:03.701 --> 01:42:14.500
+<v timpritlove>Das heißt, die Dinge werden entwickelt und den Hauseigentümern wird gesagt, so hier innerhalb von 10 Jahren müsst ihr quasi den Anschluss an dieses Netz geschafft haben,
+
+01:42:14.501 --> 01:42:18.300
+<v timpritlove>sonst machen wir irgendwas, was euch nicht gefällt.
+
+01:42:18.301 --> 01:42:30.600
+<v ingosass>Und du stellst deine Hausfeuerung ein, was das Stadtklima direkt positiv beeinflusst, wir haben ja dann keine Emissionen mehr in der Stadt selber.
+
+01:42:30.601 --> 01:42:30.800
+<v timpritlove>Feinstaub, etc.
+
+01:42:30.801 --> 01:42:36.100
+<v ingosass>Vor dem Hintergrund einer NOx-Debatte in Deutschland.
+
+01:42:36.101 --> 01:42:43.900
+<v ingosass>Und du sorgst eben dafür, dass du dich anschließt, dass auch der Wärmepreis vernünftig ist.
+
+01:42:43.901 --> 01:42:50.800
+<v ingosass>Weil wer auch immer dieses Netz betreibt, muss ja kalkulieren können, Abschreibungen, Betrieb und so weiter.
+
+01:42:50.801 --> 01:42:55.500
+<v ingosass>Und wir brauchen ja Planungsgrößen, sonst wird ja nicht investiert.
+
+01:42:55.501 --> 01:43:05.400
+<v ingosass>Und die Zerlegung in Insellösungen führt eben zu einem nicht steuerbaren Energiemix, das ist schön und toll,
+
+01:43:05.401 --> 01:43:19.000
+<v ingosass>wenn wir verschiedene Energienutzungsformen und so weiter haben, aber es spricht den Notwendigkeiten der Energiewende, Klimaschutz, Stadtklimaverbesserung, läuft es unserer Meinugn nach entgegen.
+
+01:43:19.001 --> 01:43:34.100
+<v ingosass>Bei allem guten Willen, der dahintersteckt möglicherweise, ist es doch nicht die große Lösung, die wir gerne durchdenken würden, erarbeiten würden.
+
+01:43:34.101 --> 01:43:45.500
+<v timpritlove>Wenn man jetzt mal so in andere Länder blickt, wie geht es denn anderen Ländern in Europa derzeit mit entsprechender technischer Planung und Realität,
+
+01:43:45.501 --> 01:43:49.300
+<v timpritlove>die jetzt nicht gerade auf so einem Vulkan drauf sitzen?
+
+01:43:49.301 --> 01:43:52.900
+<v timpritlove>Reden wir jetzt wirklich nur in Deutschland davon und die anderen haben davon noch gar nichts gehört?
+
+01:43:52.901 --> 01:43:57.300
+<v timpritlove>Oder gibt es noch irgendwelche Länder, die da schon weiter vorangeschritten sind?
+
+01:43:57.301 --> 01:44:07.100
+<v ingosass>Also wir wissen aus Holland zum Beispiel, dass es die geothermische Speicherung und Nutzung in größeren Anlagen wesentlich weiter verbreitet ist,
+
+01:44:07.101 --> 01:44:19.000
+<v ingosass>da zirkulieren Zahlen im Moment von etwa 2.000 Anlagen, aber man muss sagen, diese Zahlen muss man dann auch sich vor Augen führen,
+
+01:44:19.001 --> 01:44:25.100
+<v ingosass>also da Sie ja mit jeder geothermischen Anlage heizen und kühlen können, also auch mit der kleinsten Hausanlage.
+
+01:44:25.101 --> 01:44:30.100
+<v ingosass>Sie können die Wärmepumpe so fahren, die kann ja als Kühlschrank oder als Heizung laufen.
+
+01:44:30.101 --> 01:44:41.600
+<v ingosass>Und da können Sie natürlich das sommerlich aufgeheizte Haus umgekehrt fahren und die Wärme in den Untergrund abführen, dann haben Sie auch eine Speicheranlage schon mit einer geringen Effizienz, aber Sie haben eine.
+
+01:44:41.601 --> 01:44:51.600
+<v ingosass>Also was man da genau mitzählt, weiß man nicht, aber in Holland, in Dänemark läuft die Erschließung von sogenannten Aquipährspeichern,
+
+01:44:51.601 --> 01:44:58.300
+<v ingosass>also von im Grundwasser erbohrten angelegten Speichern, im großtechnischen Maßstab.
+
+01:44:58.301 --> 01:45:07.100
+<v ingosass>Da muss man jetzt auch wieder dazu sagen, da gibt es sehr sehr viele so klassische Gewächshausanwendungen,
+
+01:45:07.101 --> 01:45:13.700
+<v ingosass>aber die Chance, dass Sie eine geothermische Tomate aus Holland bald hier kaufen oder dass Sie eine kaufen, die steigt mit jedem Tag.
+
+01:45:13.701 --> 01:45:21.700
+<v ingosass>Übrigens auch Island produziert Tomaten für den Export geothermisch.
+
+01:45:21.701 --> 01:45:33.000
+<v ingosass>Und in Dänemark ist das auch eine sehr starke Entwicklung, mit sehr starker Förderung, aber da hat man diesen Quartiersansatz schon viel viel stärker im Blick.
+
+01:45:33.001 --> 01:45:40.000
+<v ingosass>Also Dänemark ist ja einer, der am stärksten digitalisierten und überwachten Staaten in Europa.
+
+01:45:40.001 --> 01:45:45.800
+<v ingosass>Und man erhebt natürlich da wesentlich mehr auch energietechnische Daten, als das in allen anderen EU-Ländern der Fall ist
+
+01:45:45.801 --> 01:45:53.500
+<v ingosass>und damit hat man natürlich auch ein Planungsrandbedingungen, die dazu führen, dass man die Quartiere und Bereiche,
+
+01:45:53.501 --> 01:46:00.000
+<v ingosass>wo man gezielt so etwas tun kann, auch besser auswählt und dann ist aber auch der politische Wille dahinter, das umzusetzen.
+
+01:46:00.001 --> 01:46:05.900
+<v ingosass>Also ich würde sagen, viel Technologie ist in Deutschland entwickelt worden, wenn wir mal ans Jammern kommen,
+
+01:46:05.901 --> 01:46:10.900
+<v ingosass>aber umgesetzt wird es jetzt sehr sehr stark zum Beispiel bei unseren unmittelbaren Nachbarn im Norden und im Westen.
+
+01:46:10.901 --> 01:46:16.100
+<v ingosass>Dann die Schweiz ist sehr sehr stark in der Geothermienutzung, aber mit einem etwas anderen Konzept.
+
+01:46:16.101 --> 01:46:20.600
+<v ingosass>Also da ist man sehr stark auf der Erzeugungsseite, man hat auch einen anderen Untergrund.
+
+01:46:20.601 --> 01:46:25.500
+<v ingosass>Man ist ja doch im wesentlichen in den Alpen und im Alpenvorland, das ist ganz anders in Holland,
+
+01:46:25.501 --> 01:46:30.600
+<v ingosass>da ist man in diesen Tieflandsbecken mit großen mächtigen Aquiphären also Grundwasserleitern.
+
+01:46:30.601 --> 01:46:32.000
+<v ingosass>Also das sind auch andere Verhältnisse.
+
+01:46:32.001 --> 01:46:32.800
+<v timpritlove>Ja klar.
+
+01:46:32.801 --> 01:46:38.200
+<v ingosass>Aber ich würde nicht sagen, dass Deutschland die Rolle eines Primus hat.
+
+01:46:38.201 --> 01:46:43.200
+<v ingosass>Also in der Technologieentwicklung, Patentierung, einzelne Systeme, ist immer noch sehr viel,
+
+01:46:43.201 --> 01:46:50.300
+<v ingosass>es geht auch sehr viel in den Export, auch Engineering, aber in der eigenen Umsetzung sind wir schwach.
+
+01:46:50.301 --> 01:46:57.900
+<v ingosass>Also das Beispiel ist ganz klar wie TransRapid, also um TransRapid zu fahren, müssen Sie schon nach Shanghai.
+
+01:46:57.901 --> 01:47:01.700
+<v timpritlove>Ja, das stimmt.
+
+01:47:01.701 --> 01:47:10.500
+<v timpritlove>Ja, was kann man denn noch tun, um das Thema populärer zu machen, wenn so viel Potenzial drin steht, woran hapert es denn?
+
+01:47:10.501 --> 01:47:21.600
+<v ingosass>Also ich denke schon, viel geschieht ja so, das was der Nachbar, die Nachbarin kann und zeigt, das überlege ich mir dann vielleicht auch, ob ich das selber mache.
+
+01:47:21.601 --> 01:47:24.100
+<v ingosass>Also wir brauchen Demonstrationsprojekte.
+
+01:47:24.101 --> 01:47:31.100
+<v ingosass>Da müssen wahrscheinlich auch so Genehmigungs- und rechtliche Sonderräume geschaffen werden, damit man das umsetzen kann.
+
+01:47:31.101 --> 01:47:35.700
+<v ingosass>Ich meine, es sind ja Leute betroffen, die da wohnen, es kann ja nicht jeder heute in die Heizung investieren.
+
+01:47:35.701 --> 01:47:38.800
+<v ingosass>Manche vielleicht nie.
+
+01:47:38.801 --> 01:47:39.900
+<v ingosass>Da müssen ja Lösungen gefunden werden.
+
+01:47:39.901 --> 01:47:46.400
+<v ingosass>Aber man muss diesen gesamten Ansatz denken und man muss es tun, dann kommt die Energiewende vorwärts.
+
+01:47:46.401 --> 01:47:51.600
+<v ingosass>Wir schaffen es so nicht.
+
+01:47:51.601 --> 01:48:04.800
+<v ingosass>Und der Umstand, dass wir jetzt mit Strom heizen, also sozusagen mit der edelsten gewinnbaren Energieform, das ist natürlich auch im besonderen Maße ineffizient.
+
+01:48:04.801 --> 01:48:06.800
+<v ingosass>Und nicht unbedingt sinnvoll.
+
+01:48:06.801 --> 01:48:13.300
+<v ingosass>Und dann, was wir da noch zubauen müssten an Wind- und Photovoltaiksystemen, das kann man sich ja nicht vorstellen.
+
+01:48:13.301 --> 01:48:24.000
+<v ingosass>Ich weiß nicht, ob Sie mal durch Rhein-Hessen gefahren sind, und wo Sie vor 20 Jahren noch durch die Weinberge wandern konnten,
+
+01:48:24.001 --> 01:48:28.800
+<v ingosass>da wandern Sie jetzt heute durch die Rotorenwälder.
+
+01:48:28.801 --> 01:48:29.000
+<v timpritlove>Weil die Dichte, da so groß ist...
+
+01:48:29.001 --> 01:48:38.000
+<v ingosass>Ich bin überzeugt davon, damit wird es ein Ende haben, auch da wird die Bevölkerung irgendwann nicht mehr mitmachen und sagen, Schluss damit.
+
+01:48:38.001 --> 01:48:42.000
+<v timpritlove>Und Geothermie wäre auf jeden Fall eine Alternative?
+
+01:48:42.001 --> 01:48:49.500
+<v ingosass>Also den Heizungsbereich würden wir nicht sehen, der wäre ja unter unseren Füßen.
+
+01:48:49.501 --> 01:48:55.300
+<v timpritlove>Und das ist schon mal auch ein riesengroßer Anteil der Energie, die wir insgesamt verbrauchen.
+
+01:48:55.301 --> 01:49:00.300
+<v ingosass>Ja ich meine, es ist auch eine Frage des Platzverbrauchs.
+
+01:49:00.301 --> 01:49:03.500
+<v ingosass>Was wollen wir uns noch an Landschaftsverbrauch leisten?
+
+01:49:03.501 --> 01:49:13.100
+<v ingosass>Wem will Deutschland als Beispiel dienen in Entwicklungsländern oder in Schwellenländern?
+
+01:49:13.101 --> 01:49:22.200
+<v ingosass>Wir müssen doch in Deutschland anfangen, unsere Probleme in den Griff zu kriegen.
+
+01:49:22.201 --> 01:49:30.600
+<v ingosass>Und ich sehe das im Moment nicht, dass wir das wirklich mit den Möglichkeiten, die wir hätten, tun.
+
+01:49:30.601 --> 01:49:40.700
+<v timpritlove>Ja, was werden Sie denn jetzt selber voranbringen in diesem Bereich, um Fortschritte zu erzielen?
+
+01:49:40.701 --> 01:49:42.800
+<v timpritlove>Was ist denn so?
+
+01:49:42.801 --> 01:49:55.000
+<v ingosass>Was wir tun natürlich, in den letzten 10 Jahren haben sich auch nach dem Fachgebiet oder Lehrstuhl, den ich nun hier aufbauen durfte,
+
+01:49:55.001 --> 01:50:03.800
+<v ingosass>haben sich natürlich noch an verschiedenen anderen Standorten eben auch solche Ausbildungs- und Forschungsschwerpunkte gebildet.
+
+01:50:03.801 --> 01:50:13.500
+<v ingosass>Wir nehmen da in Darmstadt mithilfe des Stifterverbandes schon für uns in Anspruch, mit die ersten gewesen zu sein.
+
+01:50:13.501 --> 01:50:19.500
+<v ingosass>Wir bilden natürlich Leute aus, die Experten werden in diesem System.
+
+01:50:19.501 --> 01:50:23.300
+<v ingosass>Das bringt mich in ein ganz anderes Themenfeld, das mich sehr sehr stark bewegt.
+
+01:50:23.301 --> 01:50:30.500
+<v ingosass>Ich weiß nicht, ob die disziplinäre und fakultative Ausbildung überhaupt noch Zukunft hat.
+
+01:50:30.501 --> 01:50:41.200
+<v ingosass>Es sind so viele verschiedene Anforderungen an Menschen gestellt, die jetzt zum Beispiel Energiefragen bearbeiten, umsetzen müssen,
+
+01:50:41.201 --> 01:50:44.700
+<v ingosass>vermitteln müssen, kommunizieren müssen, was da alles notwendig ist.
+
+01:50:44.701 --> 01:50:48.600
+<v ingosass>Wir versuchen also ganz bewusst in Darmstadt eben, über diese Grenzen zu gehen.
+
+01:50:48.601 --> 01:50:56.400
+<v ingosass>Wir haben also einen interdisziplinären Studiengang eingerichtet an der TU Darmstadt Energieingenieur,
+
+01:50:56.401 --> 01:51:07.800
+<v ingosass>wo eben Ingenieuraktivitäten, naturwissenschaftliche Ausbildung miteinander verschmolzen wird.
+
+01:51:07.801 --> 01:51:16.600
+<v ingosass>Die Studierenden, die diesen Abschluss machen, wie sagt man, die gehen weg wie die vielbeschworenen warmen Semmeln, und die gehen einschlägig weg.
+
+01:51:16.601 --> 01:51:20.200
+<v ingosass>Also das heißt, die gehen auch tatsächlich in den Energiebereich.
+
+01:51:20.201 --> 01:51:23.500
+<v ingosass>Wir hatten in einem ersten Ansatz vor einigen Jahren versucht, das Ganze noch breiter zu fassen,
+
+01:51:23.501 --> 01:51:34.800
+<v ingosass>eben auch mit den Geisteswissenschaften, also Rechtswissenschaften, Wirtschaftswissenschaften und Sozialwissenschaften mit einzubeziehen,
+
+01:51:34.801 --> 01:51:39.400
+<v ingosass>das ist uns aber von der Deutschen Forschungsgemeinschaft nicht genehmigt worden damals, war vielleicht zu früh.
+
+01:51:39.401 --> 01:51:42.500
+<v ingosass>Ich glaube, heute wäre die Zeit reif, auch das zu versuchen.
+
+01:51:42.501 --> 01:51:43.700
+<v ingosass>Ist natürlich auch schwierig.
+
+01:51:43.701 --> 01:51:50.000
+<v ingosass>Sie können sozialwissenschaftliche Themen und ingenieurwissenschaftliche Themen dann so in einer Promotion oder so was zu verschneiden,
+
+01:51:50.001 --> 01:51:57.100
+<v ingosass>das ist schon für viele Fakultäten auch eine Zumutung.
+
+01:51:57.101 --> 01:52:00.500
+<v ingosass>Und unsere Wissenschaft ist da noch nicht bereit dafür.
+
+01:52:00.501 --> 01:52:08.400
+<v ingosass>Also wir müssen auf jeden Fall sehr sehr stark daran arbeiten, Ausbildung, Ausbildung und Forschung und Forschung in dem Bereich zu verstärken
+
+01:52:08.401 --> 01:52:16.000
+<v ingosass>und es muss, glaube ich, für die Wissenschaft auch selbstverständlicher werden, sich auch dazu zu äußern im öffentlichen Raum.
+
+01:52:16.001 --> 01:52:29.600
+<v timpritlove>Wenn ich Sie richtig verstehe, soll diese Interdisziplinarität gerade in der Ausweitung auf die Sozialwissenschaften die Leute nicht nur in die Lage versetzen, halt ihre Technik zu kennen und die energietechnischen Belange,
+
+01:52:29.601 --> 01:52:37.400
+<v timpritlove>sondern auch mehr darüber zu lernen und ein Gefühl dafür zu bekommen, wie setzt man das rechtlich durch?
+
+01:52:37.401 --> 01:52:46.200
+<v timpritlove>Welchen Einfluss muss man auf Öffentlichkeiten, Gemeinden etc. auswirken, um hier auch zum Ziel zu kommen?
+
+01:52:46.201 --> 01:52:55.600
+<v ingosass>Welche Mechanismen setze ich zum Beispiel mit so einem Vorschlag, den ich mal eben hier locker im Podcastinterview von mir gegeben habe,
+
+01:52:55.601 --> 01:53:01.400
+<v ingosass>was setze ich da an gesellschaftlichen Mechanismen möglicherweise in Kraft?
+
+01:53:01.401 --> 01:53:04.900
+<v ingosass>Was für Widerstände mobilisiere ich?
+
+01:53:04.901 --> 01:53:08.600
+<v ingosass>Wen betrifft das möglicherweise, obwohl das alles gut gemeint ist?
+
+01:53:08.601 --> 01:53:12.000
+<v ingosass>Also wir wollen ja nur das beste.
+
+01:53:12.001 --> 01:53:15.300
+<v ingosass>Und trotzdem wird es nicht nur Gewinner geben dabei.
+
+01:53:15.301 --> 01:53:19.600
+<v ingosass>Und diese Prozesse muss man verstehen.
+
+01:53:19.601 --> 01:53:30.200
+<v ingosass>Und ich glaube, wir sind erfolgreich auch als Nation, auch als Gesellschaft, wenn wir Natur- und Technikwissenschaften mit Sozialwissenschaften und Rechtswissenschaften verschneiden
+
+01:53:30.201 --> 01:53:38.100
+<v ingosass>und wieder zurückkommen zu einem konsensualen Vorgehen in der Gesellschaft, das sehe ich im Moment eher gefährdet.
+
+01:53:38.101 --> 01:53:43.100
+<v ingosass>Und die einzige Chance, die wir da haben, ist eben Bildung und Ausbildung.
+
+01:53:43.101 --> 01:53:46.900
+<v timpritlove>Wissenschaftler auch mehr als Allrounder wieder zu etablieren und nicht so sehr als Fachidioten.
+
+01:53:46.901 --> 01:53:51.100
+<v ingosass>Ja, man hat da ganz banale Probleme, wenn man so an der Universität arbeitet.
+
+01:53:51.101 --> 01:53:57.600
+<v ingosass>Also Sie haben zum Beispiel, ein Kollege/eine Kollegin geht in den Ruhestand und wir müssen eine neue Professur ausschreiben.
+
+01:53:57.601 --> 01:54:07.000
+<v ingosass>Da denken wir uns, wir machen ein tolles zukunftsorientiertes Cutting Edge Thema in diesen Lehrstuhl.
+
+01:54:07.001 --> 01:54:12.600
+<v ingosass>Dann kommen die Bewerberinnen und Bewerber und die können das dann vielleicht oder sie können es auch nicht,
+
+01:54:12.601 --> 01:54:20.400
+<v ingosass>aber was sie nicht können, ist die bodenständige Ausbildung liefern, weil die sind ja Superspezialisten in einem bestimmten Bereich,
+
+01:54:20.401 --> 01:54:24.800
+<v ingosass>und am Ende wird es dann so sein, dass dann sozusagen die Alten die Grundlagen vermitteln.
+
+01:54:24.801 --> 01:54:33.500
+<v ingosass>Und die werden dann irgendwann auch in den Ruhestand gehen und nur aus Spezialisten und Superspezialisten werden wir keine,
+
+01:54:33.501 --> 01:54:45.800
+<v ingosass>ich will gar nicht Ingenieurinnen und Ingenieure sagen, sondern Fachleute ausbilden, die eben so komplexe Vorgänge wie das Beispiel Energieversorgung hier antizipieren und umsetzen.
+
+01:54:45.801 --> 01:54:46.100
+<v ingosass>Das wird nicht funktionieren.
+
+01:54:46.101 --> 01:54:53.400
+<v ingosass>Sie können nicht fünf Spezialisten zusammensetzen und meinen, dann haben Sie im Mittel eine vernünftige Lösung.
+
+01:54:53.401 --> 01:54:59.500
+<v ingosass>Sie brauchen die Leute, die das vernetzen und die über die Disziplinen schreiten können.
+
+01:54:59.501 --> 01:55:06.800
+<v ingosass>Und ich glaube, das ist eine wichtige Aufgabe der Universität und ich glaube, das ist eine enorm wichtige Aufgabe auch von Stiftungen,
+
+01:55:06.801 --> 01:55:18.300
+<v ingosass>dass man genau in diesen Bereich hinein vielleicht auch gezielt mal etwas tut, was eben die Universität oder die Forschungsstruktur aus sich heraus gar nicht so schnell schafft.
+
+01:55:18.301 --> 01:55:27.800
+<v timpritlove>Erinnert mich auch an ein Gespräch hier aus unserer Serie, was ich vor einiger Zeit mit Uwe Schneidewind über transformative Wissenschaft geführt habe,
+
+01:55:27.801 --> 01:55:31.400
+<v timpritlove>wo genau diese Aspekte auch eine Rolle gespielt haben.
+
+01:55:31.401 --> 01:55:34.500
+<v timpritlove>Wer mag, kann auch da mal reinhören.
+
+01:55:34.501 --> 01:55:41.900
+<v timpritlove>Ansonsten an dieser Stelle bedanke ich mich, Herr Sass, für die Ausführungen zur Geothermie
+
+01:55:41.901 --> 01:55:52.100
+<v timpritlove>und ja auch die Bedürfnisse der wissenschaftlichen Ausbildung, aber natürlich auch die Bedürfnisse der Öffentlichkeit,
+
+01:55:52.101 --> 01:55:56.700
+<v timpritlove>die hier sich noch ein bisschen mehr in Richtung Zukunft strecken muss.
+
+01:55:56.701 --> 01:56:01.000
+<v timpritlove>Vielen Dank und vielen Dank fürs Zuhören hier bei Forschergeist.
+
+01:56:01.001 --> 01:56:02.900
+<v timpritlove>Es geht bald wieder weiter.
+
+01:56:02.901 --> 01:56:06.000
+<v timpritlove>Bis dahin sage ich, tschüss und bis bald.

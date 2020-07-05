@@ -1,0 +1,483 @@
+﻿WEBVTT
+
+00:00:44.401 --> 00:01:49.600
+<v timpritlove>Herzlich willkommen zu Forschergeist, dem Podcast des Stifterverbands für die deutsche Wissenschaft. Mein Name ist Tim Pritlove und ich begrüße alle hier zu einer neuen Runde, einer neuen Ausgabe, einem neuen Gespräch in unserer Serie, in der wir den Forschergeist ein wenig versuchen zu ergründen. Ein abstrakter Begriff, unter dem sich sicherlich jeder etwas anderes vorstellt, aber in gewisser Hinsicht hat man wahrscheinlich auch jemanden im Kopf, im Hinterkopf, der in gewisser Hinsicht auf eine vielfältige Art und Weise abstrahlt, die Dinge auf eine Art und Weise auch hinterfragt, zu ergründen versucht und dabei zu Lösungen kommt, die für andere vielleicht nicht ganz so offensichtlich sind. Und heute soll es auch tatsächlich mal um einen solchen Forschergeist ganz persönlich gehen. Eine Person aus der Geschichte, niemand weniger als Gottfried Wilhelm Leibniz.
+
+00:01:49.601 --> 00:01:59.000
+<v timpritlove>Und um darüber auch fachgerecht und kundig zu berichten zu können, begrüße ich Eberhard Knobloch, schönen guten Tag.
+
+00:01:59.001 --> 00:01:59.600
+<v eberhardknobloch>Guten Tag Herr Pritlove.
+
+00:01:59.601 --> 00:02:07.100
+<v timpritlove>Herzlich willkommen bei Forschergeist. Sie sind Wissenschaftshistoriker, kann man das so sagen?
+
+00:02:07.101 --> 00:02:07.700
+<v eberhardknobloch>Das ist genau richtig.
+
+00:02:07.701 --> 00:02:35.800
+<v timpritlove>Das ist genau richtig, das freut mich. Und waren auf vielfältige Art aktiv und sind es auch noch. Unter anderem durch Ihre Tätigkeit an der TU Berlin, am Institut für Philosophie, Literatur, Wissenschafts- und Technikgeschichte. Sind jetzt aber vor allem denke ich aktiv bei der Berlin-Brandenburgischen Akademie der Wissenschaften. Und der Herr Leibniz hat es Ihnen besonders angetan?
+
+00:02:35.801 --> 00:03:18.900
+<v eberhardknobloch>Also eindeutig, der begleitet mich seit 40 Jahren. Und das hat damit zu tun, dass er eben ein extrem interessanter Autor ist, der das meiste seines literarischen Schaffens nicht zu Lebzeiten veröffentlicht hat. Das bedeutet, wenn er von sich selbst gesagt hat, wer mich nur aus meinen Veröffentlichungen kennt, der kennt mich nicht, dann war das nicht kokett, dann war das die reine Wahrheit. Also man muss sich vorstellen, dass von seinem mathematischen Schaffen nur winzige Teile ans Licht der Öffentlichkeit gekommen sind, während der größte Teil des mathematischen Schaffens eben unentziffert noch immer in Hannover als Handschriften liegt.
+
+00:03:18.901 --> 00:03:29.500
+<v timpritlove>Kommen wir da auch vielleicht zunächst einmal auf Ihre Vita. Wie hat es denn bei Ihnen angefangen mit der Wissenschaft?
+
+00:03:29.501 --> 00:04:32.100
+<v eberhardknobloch>Also ursprünglich habe ich Mathematik und alte Sprachen studiert und war auch kurzfristig an einem altsprachlichen Gymnasium tätig. Damals, also Ende der 60er Jahre, war die große Zeit der Institutsneugründungen für Wissenschaftsgeschichte. Und damals hat mir dann jemand gesagt, bewirb dich doch da, du hast ja solche merkwürdigen Fächer. Und das hat sich dann auch ausgezahlt. Also ich wollte ursprünglich Lehrer werden, bin es ja dann auch, eben Hochschullehrer, aber die Kombination dieser Fächer hat sich eben als außerordentlich vorteilhaft erwiesen. Man muss sich vorstellen, dass die Handschriften von Leibniz ganz überwiegend, jedenfalls in der Mathematik, zu 80% auf Latein verfasst sind. Sie brauchen also gediehene Kenntnisse nicht nur in der Mathematik, sondern auch in Latein, um diese Dinge entziffern zu können. Andernfalls sehen Sie nur Zeichen oder, weil Sie eben dann die Sprache nicht wirklich beherrschen, können Sie die Dinge nicht entziffern.
+
+00:04:32.101 --> 00:04:35.700
+<v timpritlove>Aber das haben Sie dann getan?
+
+00:04:35.701 --> 00:04:36.500
+<v eberhardknobloch>Ja.
+
+00:04:36.501 --> 00:04:44.100
+<v timpritlove>Und wie hat sich das dann … - also aber jetzt stand Leibniz nicht gleich von Anfang an bei Ihnen im Forschungsmittelpunkt oder hat sich das schnell ergeben?
+
+00:04:44.101 --> 00:05:24.300
+<v eberhardknobloch>Also meine Dissertation ging um Leibniz, das war 1972. Die Habilitation das war allgemeiner und ja dann bin ich an der TU Berlin gelandet und dann kommen eben im Laufe des Lebens alle möglichen Ehrungen und jedenfalls zur Zeit, wie Sie ja gesagt haben, bin ich also überwiegend an der Berlin-Brandenburgischen Akademie der Wissenschaften, also als Mitglied tätig. Darf man hinzufügen, man wird dafür nicht bezahlt. Die Mitglieder arbeiten für die Ehre. Die Mitarbeiter, die haben dort einen ordentlichen Job, werden also akademisch angemessen bezahlt.
+
+00:05:24.301 --> 00:05:27.300
+<v timpritlove>Ja aber Ihre aktive Laufbahn ist ja in dem Sinne auch schon abgeschlossen?
+
+00:05:27.301 --> 00:05:28.600
+<v eberhardknobloch>Naja.
+
+00:05:28.601 --> 00:05:32.200
+<v timpritlove>Also aktiv, nein 'tschuldigung, also die offizielle Professorentätigkeit ist …
+
+00:05:32.201 --> 00:05:46.000
+<v eberhardknobloch>Ja die offizielle Professorentätigkeit ist in der Tat abgeschlossen, aber was man eben dann hat sind alle möglichen Einladungen. Und das sind die Streicheleinheiten dann des fortgeschrittenen Alters.
+
+00:05:46.001 --> 00:05:51.800
+<v timpritlove>Mit was für Leuten arbeiten Sie dort zusammen?
+
+00:05:51.801 --> 00:06:55.800
+<v eberhardknobloch>Also es sind zwei Arbeitsgruppen, die sich um die Edition von Leibniz’ Schriften kümmern. Das eine ist die Reihe 8, das sind die naturwissenschaftlichen, medizinischen und technischen Handschriften. Dort habe ich einen Philosophen, einen Wissenschaftshistoriker, einen Biochemiker und die mühen sich redlich mit meiner Unterstützung, diese Probleme sozusagen zu lösen. Und die andere Gruppe ist in Potsdam, aber es ist ja die Berlin-Brandenburgische Akademie, das heißt Potsdam ist damit natürlich auch angesagt, beschäftigen sich mit den politischen Schriften. Wobei man politische Schriften also sehr großzügig auslegen muss. Also politisch ist fast alles, wenn Sie so wollen, aber insbesondere auch Rechtsfragen. Es gibt keine eigene Reihe für Juristerei. Leibniz war ja promovierter Jurist. Und wenn es also darum geht, meinetwegen Finanztransaktionen zu machen – heute hochaktuell – dann ist das auch ein Thema, was in dieser Reihe 4 politische Schriften gehört.
+
+00:06:55.801 --> 00:07:03.700
+<v timpritlove>Sie sagten, ein Biochemiker ist in der anderen Gruppe, hat sich Leibniz auch mit solchen Fragen beschäftigt?
+
+00:07:03.701 --> 00:07:30.000
+<v eberhardknobloch>Ja, also die Ausdifferenzierung der Disziplin ist ja noch nicht über die Bühne gegangen zu seinen Lebzeiten. Also Botanik war zum Beispiel kein eigenes Fach. Und man kann auch nicht wirklich sagen, dass es damals Chemie oder dann spezieller Biochemie gab, aber ich meine die Probleme gab es schon, nur dass es eben noch keine wissenschaftliche Disziplin war.
+
+00:07:30.001 --> 00:08:08.600
+<v timpritlove>Ja. Dann kommen wir jetzt wahrscheinlich auch schon gleich eigentlich an den ersten Punkt. Das Bild von Leibniz ist davon geprägt, dass man ihn als Universalgelehrten wahrnimmt. Wie ja eigentlich auch viele Große ihrer Zeit, was schlicht glaube ich erst mal diesem Fall, den Sie ja auch schon geschildert haben, geschuldet ist, dass einfach diese Spezialisierung in bestimmte Wissenschaftsbereiche genauso wenig ausgeprägt war und etabliert war, wie der Begriff Wissenschaftler als solcher überhaupt.
+
+00:08:08.601 --> 00:09:04.000
+<v eberhardknobloch>Also um das zu verdeutlichen: Mathematik war ein Bestandteil der philosophischen Fakultät. Also das ist aus der mittelalterlichen Tradition erwachsen. Die sieben freien Künste waren bekanntlich an der philosophischen Fakultät. Und vier davon, die Quadrilliarden, das waren mathematische Disziplinen. Geometrie, Arithmetik, Musiktheorie und Astronomie. Also so wie Sie sagen war es, man studierte nicht Mathematik in dem Sinne. An der Universität war das Niveau entsprechend gering. Das hat sich bei Leibniz dann so ausgewirkt, dass er guten Glaubens war, als er die Universität beendet hatte, dass er also auf der Höhe der Zeit war. Das war er natürlich nicht. Denn die Forschung in der Mathematik spielte sich eben nicht an der Universität, sondern etwa an den Akademien ab. Vor allen Dingen damals an der französischen Académie des sciences.
+
+00:09:04.001 --> 00:10:06.200
+<v eberhardknobloch>Und er hat dadurch auch ein bisschen Probleme bekommen, weil er ja muss man schon so sagen, ein Stück weit sich überschätzt hat. Am Anfang, also weil er dachte, das habe ich doch schon alles drauf. Und er hat in Paris einen väterlichen Freund gefunden. Das ist also eine sehr positive Geschichte, Christian Heugens, also einer der ganz Großen, wahrscheinlich sogar de bedeutendste Physiker seiner Zeit. Denn er ist ja vor Newton tätig. Und Heugens hat gemerkt, der junge Mann Leibniz, der nach Paris kam, ist überaus begabt, aber hat also nicht wirklich die Kenntnisse, die er haben müsste, um sich als Mathematiker zu bezeichnen. Und dann kommt etwas merkwürdiges, aber es ging gut aus, Heugens stellte Leibniz eine Frage, die Summierung der reziproken Dreiecksahlen und Leibniz hat es lösen können.
+
+00:10:06.201 --> 00:10:52.700
+<v eberhardknobloch>Wir können so sagen, hätte Leibniz diese Aufgabe nicht gelöst, hätte wahrscheinlich, also kann man wirklich voraussagen, hätte Heugens gedacht, nein also mit dem gebe ich mich nicht länger ab. Aber die Sache hatte also eine positive Wendung bezogen und er hat also Leibniz einschlägige Forschungsliteratur seiner Zeit in der Mathematik angeraten. Und Leibniz hat sich dann also mit Feuereifer reingestürzt. Hier ist also eine berühmte Geschichte. Als er nach Paris kommt war er – muss man so sagen – mathematischer Ignorant. Und als er Paris vier Jahre später wieder verließ war er einer der bedeutendsten Mathematiker seiner Zeit. Das zeigt also bereits, dass wir hier mit einem Ausnahmemenschen zu tun haben. Das ist also nicht ohne weiteres möglich. Ich meine innerhalb von vier Jahren von null sozusagen an die Spitze kommt.
+
+00:10:52.701 --> 00:11:02.000
+<v timpritlove>Wie ist denn das mit Ihrem Faible für die Mathematik? Sie sind ja jetzt nicht irgendwie Historiker geworden, um sich im wesentlichen mit Formeln zu beschäftigen.
+
+00:11:02.001 --> 00:11:53.100
+<v eberhardknobloch>Ja schauen Sie, Sie sehen ja, ich habe meine Star- und Lieblingsfächer studiert, also Mathematik und alte Sprachen. Und wollte und bin ja auch Gymnasiallehrer kurzfristig geworden. Dass ich dann später Wissenschafts- und Technikhistoriker wurde war nicht eingeplant. Aber ich sagte Ihnen ja, damals 69/68 war die Zeit der Gründungen. Damals war man der Ansicht, alle möglichen Denkschriften haben das unterstrichen, die Wissenschaftsgeschichte – und das ist ja sehr richtig – ist eine Brückendisziplin. Die soll sozusagen zwischen Geistes- und Naturwissenschaften vermitteln. Und ich denke, Kraft meiner eigenen Fächer, kann ich das wohl besonders glaubwürdig vertreten. Also mit anderen Worten, es waren Zufälligkeiten im Spiel. Also wie das im Leben so spielt.
+
+00:11:53.101 --> 00:12:19.100
+<v timpritlove>Ja, oder man könnte auch fast sagen, das war schon fast zwangsläufig, dass Sie ihm sozusagen dann über den Weg laufen. Bleiben wir vielleicht kurz nochmal bei Leibniz’ Lebenswandel. Ich weiß nicht, vielleicht ist es sinnvoller, noch ein bisschen weiter zurückzuschauen, um sozusagen sein Wirken zu verstehen. Also er kommt ja aus Leipzig. Ich weiß nicht, wann hat er sozusagen erste Auffälligkeiten gezeigt, die wichtig wären?
+
+00:12:19.101 --> 00:13:09.900
+<v eberhardknobloch>Also ich finde das wichtig, dass wir das ansprechen. Denn da zeigt sich auch schon ein Problem der damaligen Zeit. Sein Vater ist Jurist, also Professor für Jura, er studiert ja dann auch Jura bzw. promoviert er in Jura. Er ist geboren am 21. Juni 1646. Der Leibniz-Tag ist aber der 01. Juli. Da kann man schon wieder fragen, wie ist denn das jetzt wieder möglich? Das liegt daran – ist nicht so hinreichend bekannt – im protestantischen Sachsen galt noch der alte Kalender, man sprach vom alten Stil. Weil der Papst das neue System in Kraft gesetzt hatte, waren die Protestanten der Ansicht, das geht uns nichts an. Obwohl es ja dringenden Handlungsbedarf gab. Und ja heute ist das klar, 1700 wurde das umgeschaltet.
+
+00:13:09.901 --> 00:13:14.700
+<v timpritlove>Also es galt der julianische Kalender sozusagen dort noch im Erzgebirge, während der Rest schon den gregorianischen hatten.
+
+00:13:14.701 --> 00:14:16.500
+<v eberhardknobloch>Ja daraus wurde der gregorianische. Er hat mit 16 Jahren angefangen zu studieren, das war gar nicht mal so früh und mit 20 Jahren hat er promoviert mit Glanz und Glorie. Da war er sehr stolz drauf, aber das war auch so. Man konnte damals – und er eben besonders früh – Latein fließend. Man sprach ja Latein. Die Reden wurden auf Latein gehalten. Und er hat – wahrscheinlich stimmt es einigermaßen, man kann es ja nicht nachprüfen – er hat von sich berichtet, er hat also mit  acht Jahren – überlegen Sie – Latein gelernt als Autodidakt. Hat also alte Autoren wie Livius, ein Historiker des römischen Altertums, gelesen mit Abbildungen und hat versucht anhand der Abbildungen zu verstehen, was der  Text aussagt. Jedenfalls so schilderte er es. Und dann nach und nach hat er sich das also angeeignet. Aber klar ist, er konnte in jungen Jahren Latein perfekt. Und dann geht es aber so weiter. Da er so eine glorreiche Promotion hingelegt hat, wurde ihm eine Professur angeboten.
+
+00:14:16.501 --> 00:15:19.100
+<v eberhardknobloch>Und da merkt man, Leibniz ist schon selbstbewusst, er war nicht von fehlendem Selbstbewusstsein angekränkelt. Also Professur war nicht das was er sich vorstellte. Er sah sich also für zu höherem berufen. Überlegen Sie, wie das heute wäre, wenn jemand die Gelegenheit hätte, Professor zu werden. Also er ging dann zunächst in die Dienste von Fürsten und wurde auf diese Weise auch nach Paris geschickt in einer politischen Mission. Das ist auch nicht uninteressant. Damals hatte ja Ludwig XIV. Die Deutschen geärgert, also etwa den Pfälzer Krieg herbeigeführt unter einem Vorwand. Und Leibniz sollte eine Audienz bei Ludwig XIV. Erreichen und ihm sozusagen klarmachen, er soll doch lieber seine militärischen Kräfte nach Ägypten lenken. Die Tragik ist, zu einer Audienz ist es nie gekommen. Leibniz wurde gar nicht vorgelassen, aber er blieb in Paris. Und das haben wir angesprochen, diese vier Pariser Jahre sind für ihn beliebig prägend.
+
+00:15:19.101 --> 00:15:32.400
+<v eberhardknobloch>Also da hat er seine entscheidenden Einsichten in der Differenzial- und Integralrechnung, auch wenn er erst deutlich später – das war damals nicht unüblich – seine Ergebnisse zu veröffentlichen begann.
+
+00:15:32.401 --> 00:16:11.500
+<v timpritlove>Wie muss man sich das vorstellen? Der Vater Jurist, er selber halt jetzt ambitioniert, aber die Karriere des Wissenschaftlers als solche gibt es ja in dem Sinne ja eigentlich noch nicht, sondern man stellt sich breit auf, man hat Interessen, forscht hier, ist aber dann zwangsläufig durch die gehobene gesellschaftliche Stellung einfach in anderen politischen Szenen unterwegs, Aufträgen. Also wie hat sich das sozusagen aussortiert beim ihm sozusagen seine Rolle in der Gesellschaft und seine selbstinduzierte, sein Forschungsdrang?
+
+00:16:11.501 --> 00:17:14.700
+<v eberhardknobloch>Also das was das Bild, was er von sich selbst hatte. Schon die Tatsache, dass er mit 20 promovieren wollte, brachte ihm ein Problem an der Universität Leipzig ein. Die haben gesagt, das ist uns hier zu jung, war natürlich ein Vorwand. Also ist er nach Altdorf gegangen, gibt es ja heute nicht mehr die Universität, aber das Gebäude gibt es noch. Und in Altdorf hat er dann promoviert. Das hat ihm natürlich die Leipziger Universität nicht besonders sympathisch gemacht. Aber er gehört – wir würden sagen – dem gehobenem Bürgertum an. Also Akademikerhaushalt. Und er sah seine Rolle – wir würden sagen – in der Politikberatung. Und das hat er gemacht. Also von Boyneburg, um mal einen Namen zu nennen, von Schönborn, der Mainzer Erzbischof. Und da fühlte er sich ein Stück weit wohl, sozusagen in der Nähe der Mächtigen. Und er hat darunter Zeit seines Lebens eigentlich gelitten, muss man schon so sagen. Er hat natürlich gewusst, dass er die meisten seiner Zeitgenossen geistig haushoch überragt, also das konnte nicht ausblieben.
+
+00:17:14.701 --> 00:17:33.200
+<v eberhardknobloch>Aber wenn es um Hackordnung am Hofe ging, etwa in Hannover, dann war er ganz unten angesiedelt. Und die Hofschranzen, so muss man jetzt doch böse sagen, haben ihn das fühlen lassen. Die haben natürlich auch gemerkt, der Kerl ist intelligenter als wir, aber das spielte dann keine Rolle. Also er war Hofrat …
+
+00:17:33.201 --> 00:17:42.300
+<v timpritlove>Beziehungsweise das könnte ja auch eher ein Grund gewesen sein für eine Ausgrenzung, weil ja Leute, die nun potentiell intelligenter sind, auch eine Gefahr für den eigenen Status bedeuten können.
+
+00:17:42.301 --> 00:18:45.000
+<v eberhardknobloch>So ist das. Also er hat über sein Leben hinweg die Nähe der Mächtigen gesucht. Und er war in Wien, übrigens ohne sich abzumelden, nur um mal auch da aufzuzeigen, dass er also sich letztlich grenzwertig verhalten hat. Also er wurde ja bezahlt. Und sein Chef war also der Kurfürst in Hannover. Also es hätte sich wohl gehört, ihm mitzuteilen, dass er jetzt mal nach Wien geht. In Wien war aber der deutsche Kaiser, also Leopold I. Und dort blieb er jetzt volle zwei Jahre, Sie müssen sich das auf der Zunge zergehen lassen, vollbezahlt zwei Jahre. Und dann hat man ihm gesagt, du musst jetzt zurückkommen, dein Chef wird zunehmend böse. Ja ich kann nicht, ich bin gerade krank. Ein bisschen später, ja ich kann jetzt nicht, ich bin jetzt in der Rehabilitationsphase und so. Also das war schon merkwürdig. Er hatte versucht damals vergeblich, in Wien eine Akademie zu gründen. Und er wurde Reichshofrat, das schon, er bekam dafür auch Geld. Und er sollte eigentlich der Präsident der Reichsakademie in Wien werden, dazu kam es nicht zu Lebzeiten.
+
+00:18:45.001 --> 00:19:04.500
+<v eberhardknobloch>Also die österreichische Akademie in Wien ist erst Mitte des 19. Jahrhunderts gegründet worden, aber sie führen sich, das wird immer anerkannt, auf Leibniz zurück. Also am Hauptgebäude der österreichischen Akademie ist eine Tafel, wo diese Rolle von Leibniz gewürdigt wird.
+
+00:19:04.501 --> 00:19:34.200
+<v timpritlove>Also er drängt auch sozusagen in die Struktur der Lehre mit rein. Ich wollte nochmal kurz nachfragen, diese Rolle als politischer Berater, was hat ihn denn da primär für qualifiziert? Also ist jetzt einfach das Jurastudium selbst sozusagen schon die Qualifikation dafür gewesen? Weil man jetzt einfach politische Beratung im Sinne von, wie spricht man Recht, wie macht man Gesetze, ist das die Form von politischer Beratung oder wie muss man sich das vorstellen?
+
+00:19:34.201 --> 00:20:36.300
+<v eberhardknobloch>Also erstens so ist es sicherlich, aber darüber hinaus war er eben auch universell gebildet. Also er hat sich ja auch als Historiker betätigt. Und es ist immer angesagt in der Politik, über historische Zusammenhänge Bescheid zu wissen. Er war sozusagen in diesem Sinn akzeptiert in Hannover, zunächst vom Herzog Johann Friedrich, später also die Nachfolger waren dann der Kurfürst oder König und die haben ihn dann auch mit geheimen Missionen betraut. Das hat dazu geführt, als er starb 1716, dass sofort sein Nachlass versiegelt wurde, weil das Herrscherhaus zurecht Sorge hatte, da gibt es möglicherweise Dokumente, die nicht an die Öffentlichkeit kommen sollten. Positiv gewendet hat das den Erfolg, dass der Leibniz Nachlass, bis auf geringe Ausnahmen, in London an der Royal Society gibt es was, in Paris und so, das sind gemessen am Gesamtnachlass aber nur wenige Blätter.
+
+00:20:36.301 --> 00:20:50.000
+<v eberhardknobloch>Dass der Nachlass also zusammengeblieben ist, der ist zu 90-95% heute in einem feuersicheren Raum in der Leibniz-Bibliothek in Hannover.
+
+00:20:50.001 --> 00:20:54.200
+<v timpritlove>Aus dem Sie sich dann auch kräftig bedienen konnten sozusagen?
+
+00:20:54.201 --> 00:21:02.200
+<v eberhardknobloch>Ja ich muss schon fragen, aber ich habe so ein bisschen Card-Blanche.
+
+00:21:02.201 --> 00:21:27.700
+<v timpritlove>Das ist doch schön. Also ich fass das mal so ein bisschen zusammen. Also er ist sozusagen in die Jura hineingeboren worden, weil man ja nicht selten einfach das getan hat, was schon die Eltern einem vorgeben. Ist aber im Prinzip gleich in eine sehr vielfältige Rolle gekommen. Ist das normal, also ist das jetzt sozusagen zu erwarten gewesen oder war das bei ihm schon was besonderes, dass er so breit sich aufgestellt hat von Vornherein?
+
+00:21:27.701 --> 00:22:23.200
+<v eberhardknobloch>Also das war mit Sicherheit was besonderes. Es war sein Ziel. Also in der Umgebung der Mächtigen Berater zu spielen. Und hat das ja auch gesagt. Er mahnte die Mächtigen, diejenigen anzuhören, die keine Macht aber Verstand haben. Und meinte damit natürlich in erster Linie sich selbst. Das ist ja auch oft gelungen, oft ist es allerdings auch nicht gelungen. Also um etwas kurioses zu berichten, er hatte den Auftrag nachzuweisen, dass ein bestimmter Kandidat der einzig mögliche und beste Kandidat für die polnische Königswahl ist. Das hat er gemäß dieser Idee von der Mathesis Universalis, also man kann sozusagen die Mathematik auf alles anwenden, indem man erst definiert und dann Sätze beweist. Er hat also das haarklein nachgewiesen, dass nur ein bestimmter Kandidat in Frage kommt. Das Problem war allerdings nur, die Wahl fand statt, bevor seine Schrift rauskam. Also das muss ihn auch etwas gefrustet haben.
+
+00:22:23.201 --> 00:22:42.200
+<v eberhardknobloch>Aber an sich ist das natürlich ein Missbrauch der Mathematik. Das war eine politische Auftragsarbeit. Er sollte, da gab es bestimmte Verflechtungen zwischen den Herrscherhäusern, er sollte eben nachweisen, dass dieser Kandidat der einzig richtige ist. Seine Hausaufgaben hat er erledigt, aber er kam etwas zu spät.
+
+00:22:42.201 --> 00:22:43.700
+<v timpritlove>Und dann wurde es auch ein anderer?
+
+00:22:43.701 --> 00:22:51.300
+<v eberhardknobloch>Ja wurde ein anderer. Obwohl er doch nun haarklein nachgewiesen hat, dass der andere nur in Frage kommt.
+
+00:22:51.301 --> 00:22:55.000
+<v timpritlove>Und hätte das einen Einfluss gehabt, wenn diese Schrift rechtzeitig veröffentlicht worden wäre?
+
+00:22:55.001 --> 00:22:56.500
+<v eberhardknobloch>Nein.
+
+00:22:56.501 --> 00:22:56.800
+<v timpritlove>Auch nicht.
+
+00:22:56.801 --> 00:22:57.000
+<v eberhardknobloch>Glaube ich nicht.
+
+00:22:57.001 --> 00:23:04.300
+<v timpritlove>Weil das im Prinzip dann auch schon wieder ein wenig an der Realität vorbei ist irgendwie mit so einer Nerdlogik sozusagen da ranzugehen?
+
+00:23:04.301 --> 00:23:58.400
+<v eberhardknobloch>Ja da ich Mathematiker bin, das ist wirklich ein Missbrauch der Mathematik. Ich kann doch jetzt nicht, auch wenn es in der Philosophie sogar gemacht wird. Philosophie More Geometrico ist ja der Ausdruck dafür. Also nach geometrischer Weise. Also das ist im Anschluss an Euklid natürlich gemeint, dem antiken Autor der Elemente, wo man eben mit Definitionen anfängt und Axiome an den Anfang stellt und dann Sätze formuliert, die man auseinander ableitet. Und wenn Leibniz so etwas macht dann deshalb, er hat das nicht erfunden, aber er hat das auch betrieben, diese Mathisis Universales, die universelle mathematische Methode, damit meinte man eben, dass man mit dieser euklidischen Methode Definitionen, Axiome, Sätze, die man beweist, mehr oder weniger überall durchkommen kann. Das würden wir heute nicht akzeptieren.
+
+00:23:58.401 --> 00:24:12.700
+<v timpritlove>Ist interessant, weil er ja im Prinzip als politischer Berater dann auch sehr viel eigentlich mit der politischen Realität zu tun gehabt haben muss, aber dann trotzdem versucht hat, seine Ideen dort anzubringen.
+
+00:24:12.701 --> 00:24:43.300
+<v eberhardknobloch>Weil wir haben es ja schon gesagt, es ist eben vieles auch nicht gelungen. Das muss man ihm ja nicht unbedingt ankreiden. Er war für Ludwig XIV. Offenbar nicht bedeutend genug. Warum er soll er denn, der war ja bürgerlich, warum soll er denn diesen bürgerlichen jungen Mann, der war ja damals noch jung, 46 geboren, 72 kommt er nach Paris, 26 Jahre alt, also warum soll er denn den empfangen, der damals mächtigste Herrscher hieß Ludwig XIV. Also wenn Sie jetzt versuchsweise in die Person des Ludwigs XIV. versetzen, dann würde man sagen …
+
+00:24:43.301 --> 00:24:49.000
+<v timpritlove>Also der Sonnenkönig, so der über le Roi-Soleil.
+
+00:24:49.001 --> 00:25:00.100
+<v eberhardknobloch>Also das ist der Staatsabsolutismus. Also ich hätte mich gewundert, wenn Leibniz vorgelassen worden wäre. Also das ist eigentlich nachvollziehbar.
+
+00:25:00.101 --> 00:25:23.200
+<v timpritlove>Also war er eigentlich Freidenker, aber irgendwie im System zumindest und er gilt ja heute auch als Vordenker der Aufklärung, der generellen gesellschaftlichen Bewegung so Vernunft, Verstand, sozusagen als Teil der allgemeinen Entscheidungsmethode zu machen. Das passt ja dann wiederum ganz gut zusammen.
+
+00:25:23.201 --> 00:25:55.100
+<v eberhardknobloch>Eindeutig. Also er war Rationalist und das bedeutet, es geht wesentlich über den Verstand. Und er formulierte entsprechend Prinzipien. Nichts ohne zureichenden Grund. Oder Prinzip der Identität oder Prinzip des Gleichen, was nicht unterscheidbar ist und dergleichen mehr. Also er war eindeutig theoriegeleitet. Was aber nicht bedeutet, dass er nicht auch einen deutlichen Bezug zur Praxis hergestellt hat. 
+
+00:25:55.101 --> 00:27:00.600
+<v eberhardknobloch>Das vielleicht berühmteste Motto, dass er von sich zurecht in Anspruch nahm, war, Theoria cum Praxi, Theorie zusammen mit Praxis. Also sein klares Anliegen war, auch wenn er in der Mathematik natürlich hochkomplexe reimtheoretische Sachverhalte studierte, sein Anliegen war klar, also Wissenschaft insbesondere auch mit einem sozialen Anliegen zu betreiben. Das finde ich also sehr sympathisch. Wenn es um die Gründung der Brandenburgischen Sozietät der Wissenschaften ging, die wurde 1700 bekanntlich gegründet im März, aus der dann nach vielen Umbenennungen die heutige Berlin-Brandenburgische Akademie der Wissenschaften hervorgegangen ist. Wenn es also um die Gründung dieser Sozietät ging, dann hat er in die Denkschriften, von denen er viele verfasst hat, reingeschrieben, also es gehört zu den Aufgaben der Akademiker, also der Akademiemitglieder, sich um den Lebensstandard der Bevölkerung zu kümmern.
+
+00:27:00.601 --> 00:27:08.200
+<v eberhardknobloch>Und den Handwerksmann von seinem elenden Lose zu befreien. Das finde ich schon bedeutsam.
+
+00:27:08.201 --> 00:27:12.600
+<v timpritlove>Das ist ja schon fast Kommunist.
+
+00:27:12.601 --> 00:28:05.500
+<v eberhardknobloch>Also ich sollte mal so sagen, er war kein Revolutionär. Die Gesellschaftsordnung stammt von Gott. Gott hat die Welt so eingerichtet, so ist jetzt so. Aber man kann die Welt verbessern. Dieses Wort von der besten aller möglichen Welten bedeutet ja eben nicht, dass es die beste ist und die beste aller möglichen. Und die Vollkommenheit der Welt besteht darin, dass sie vervollkommnet werden kann. Das finde ich schon ziemlich subtil. Also überlegen Sie. Und das hat der also auch massiv betrieben. Um mal ein schönes Beispiel zu geben, was mir auch hochaktuell zu sein scheint, er hat sich ja auch mit Finanz- und Versicherungsmathematik abgegeben. Und hat zu den Landesherren gesagt, also den Kurfürsten in Hannover, zum König in Berlin, zum Kaiser in Wien, also was die Leute nicht haben kann man von ihnen nicht pressen.
+
+00:28:05.501 --> 00:28:59.900
+<v eberhardknobloch>Damit meinte er, wer also durch unverschuldetes Unglück vor dem Nichts steht, der wird sozusagen dem Staat zur Last fallen, verhungern lassen kann man ihn auch nicht. Also wird er Bettler und muss irgendwie unterstützt werden. Also Leibniz bemühte sich die Landesherren davon zu überzeugen, dass es auch in ihrem Interesse ist, öffentliche Versicherungsanstalten einzurichten. Denn wer eben nichts hat, der kann auch keine Steuern zahlen und das ist à la longue auch gelungen. Also er hat aber auch gesagt, Solidarität, das ist das ja hier, eine Risikogemeinschaft. Jeder zahlt einen kleinen Obolus, das kann er, und wenn es zum Schadensfall, zu einem nicht versuchten Schadensfall kommt, steht die Gemeinschaft für ihn ein. Das ist ja eine Solidargemeinschaft. Aber er hat explizit gesagt, dass die Solidarität eben keine Einbahnstraße ist.
+
+00:28:59.901 --> 00:29:17.600
+<v eberhardknobloch>Er hat also, wenn wir jetzt von seinen sozialen Anliegen sprechen, er hat also explizit auch gesagt, niemand ist so lahm, dass er nicht zu einer Arbeit fähig sein könnte. Also wir haben hier heute etwas andere Vorstellungen, wenn ich das richtig sehe. Also die Vorstellung, dass man …
+
+00:29:17.601 --> 00:29:21.800
+<v timpritlove>Klingt aber auch schon ein bisschen nach Hartz IV so.
+
+00:29:21.801 --> 00:30:04.700
+<v eberhardknobloch>Ja. Also dass man sozusagen auf Kosten andere lebt und jetzt Bedingungen stellt, bevor man Arbeit aufnimmt, das wäre ihm nicht in den Sinn gekommen, das muss man schon so sagen. Er hatte keinen Wohlfahrtsstaats, er hat einen Sozialstaat vor Augen. Also der Staat sozusagen ist schon für seine Landsleute verantwortlich, aber das muss auf Gegenseitigkeit beruhen. Der Einzelne, das ist ein wichtiges Credo von Leibniz, der Einzelne ist um des Gemeinwohlswillen, das ist ein ganz wichtiger Begriff, das Gemeinwohl, Comune monum, um des Gemeinwohlswillen verpflichtet, sich um die Gemeinschaft nach Kräften, wie er sie eben hat, zu kümmern und vor allen Dingen für sich selbst zu sorgen, damit er nicht der Gemeinschaft zur Last fällt. Ist ja eigentlich ein sehr vernünftiges Prinzip.
+
+00:30:04.701 --> 00:30:34.200
+<v timpritlove>Was wir heute in gewisser Hinsicht voraussetzen, das hat sich etabliert, aber war damals fast noch revolutionär. Was waren denn seine Vorbilder oder hat er das alles aus sich selbst heraus entwickelt? Also gibt es Personen der Zeitgeschichte oder jetzt auch aus seinem persönlichen Umfeld, die ihn jetzt vor allem so in eine bestimmte Richtung getragen haben oder auf dessen Arbeit er aufgebaut hat oder war er da eigentlich eher ein isolierter Denker?
+
+00:30:34.201 --> 00:31:28.100
+<v eberhardknobloch>Also wir können ein paar Namen nennen, die ihn ein Stück weit mit geprägt haben. Ich nenne sie gleich, aber es bleibt dabei, dass er eben sehr für sehr unabhängig dachte. Das sehen wir ja an der bloßen Tatsache, dass er meint mit 20, Professur ist für ihn nicht der richtige Weg, er möchte Politikberatung in der Nähe der Mächtigen tun. Also er hat in Jena vorübergehend studiert bei Erhard Weigel und Weigel hat verschiedene Zahlensysteme betrachtet. Und das könnte eine Anregung für Leibniz gewesen sein, sich für das Dualsystem zu interessieren. Leibniz hat das sehr intensiv studiert, aber nicht erfunden. Und ja ein anderer Autor, der ihn im philosophischen Bereich stark geprägt hat, das ist ein antiker Autor, das ist Aristoteles, so komisch wie das klingt.
+
+00:31:28.101 --> 00:31:56.600
+<v eberhardknobloch>Also Begriffe wie Entelechie, das ist also von Aristoteles übernommen und andere Dinge, dass eine Bewegung nicht ohne Beweger existiert, das sind klar aristotelische Einflüsse. Und wenn man so will ist Leibniz ein Stück weit auch Aristoteliker geworden und geblieben. Also natürlich nicht in Reinkultur. Aber einige zentrale Ideen stammen eindeutig von dort.
+
+00:31:56.601 --> 00:32:07.100
+<v timpritlove>Aber das war es schon? Es gab jetzt keine unmittelbaren Gelehrten, auch nicht in seinem Umfeld oder in seiner Nähe, mit denen er sich jetzt intensiver ausgetauscht hätte?
+
+00:32:07.101 --> 00:33:14.800
+<v eberhardknobloch>Also wir erwähnten ja schon, er ging nach Paris und traf dort auch Christian Heugens und Heugens hat ihn geprägt. Er hat ihn Zeit seines Lebens sehr geschätzt. Er war deutlich älter als er selbst und hat ihn sozusagen angeleitet. Er hat also Leibniz die einschlägige neue mathematische Literatur gegeben und ihn dadurch auch beeinflusst. Und in Paris hat er auch – das war damals nun mal das geistige Weltzentrum – viele Kollegen getroffen, von denen er jedenfalls angeregt wurde. Mariot, um mal ein Beispiel zu geben, ein Physiker. Oder war in London zweimal, also er ist von Paris aus nach London gegangen. Hat zwar nicht Newton selbst getroffen, aber er hat andere englische Mathematiker getroffen. Und ja also insgesamt denke ich ist der Einfluss von anderen begrenzt.
+
+00:33:14.801 --> 00:33:51.600
+<v timpritlove>Also es gab Einfluss, aber keine besonders überragend Person, die jetzt alles da überstrahlt hätte. Kommen wir mal zu der konkreten Auswirkung auf die Wissenschaft oder auf seine wissenschaftlichen Errungenschaften und technischen Errungenschaften, die ja auch ein ganz wichtiger Teil seines Lebens waren. Vor allem hat er sich der Mathematik verpflichtet gefühlt kann man sagen?
+
+00:33:51.601 --> 00:34:49.800
+<v eberhardknobloch>Ja. Er hat sich vor allen Dingen als Mathematiker gefühlt und selbst gesagt, dass seine Philosophie stark von der Mathematik beeinflusst ist. Wir können das auch noch ein bisschen ausführen. Also es ist keine Frage, dass er mit der Erfindung der Differential- und Integralrechnung eine überragende, alles überragende Erfindung gemacht hat, die für den Rest der Zeiten gar nicht zu überschätzen ist. Und das passierte eben in Paris. Er hatte da eine enorme Kreativphase. Und während er sonst, jedenfalls in den meisten Fällen, seine Handschriften nicht datierte, was ein Problem bei der Edition ist, hat er diese Handschriften datiert, weil er selbst merkte, hier habe ich etwas großartiges gefunden. Das geht in den Oktober/November 1675 und etwa neun Jahre später hat er dann diese Dinge auch veröffentlicht.
+
+00:34:49.801 --> 00:35:19.900
+<v eberhardknobloch>Also was ist ein Differential? Dazu sollten wir auch noch was sagen. Das ist also sozusagen die Differenz zwischen zwei unendlich benachbarten Punkten. Das ist nicht wohl definiert, wie man merkt. Also bekanntlich gibt es topologisch gesprochen in dem Bereich der reellen Zahlen keine Nachbarn. Wir können nicht eine reelle Zahl nehmen und jetzt die nächstgrößere, das funktioniert nicht, weil das Kontinuum das nicht kennt.
+
+00:35:19.901 --> 00:35:22.700
+<v timpritlove>Weil man immer noch eine Kommastelle hinzufügen kann.
+
+00:35:22.701 --> 00:36:22.000
+<v eberhardknobloch>So ist das, es gibt immer noch was dazwischen. Aber was mir jetzt doch wichtig ist, ist das folgende. Er hat verschiedenste Rechtfertigungen später vorgetragen, weil er ja auch kritisiert wurde. Das sei ja keine anständige Mathematik. War also mit unendlich klein zu arbeiten unendlich groß. Und er hat dazu mal bei einer Veröffentlichung gesagt, ich verwende nur andere Ausdrücke, aber im Prinzip mache ich das was Archimedes gemacht hat. Archimedes also der bedeutendste Mathematiker des Altertums. Der ja auch Integrationsaufgaben, also Flächenberechnungen, durchgeführt hat. Und nun kommt der eigentliche Witz, das stimmt sogar. Also es wurde bis in unsere Tage immer wieder angezweifelt. Und man liest dann auch weiter in verschiedensten Büchern, er wusste ja selbst nicht, womit er da umgeht und so, das stimmt eben nicht.
+
+00:36:22.001 --> 00:37:18.900
+<v eberhardknobloch>Sondern Leibniz hat in Paris eine, nicht nur eine, die längste mathematische Abhandlung verfasst, mit deren Hilfe er Mitglied der Académie des sciences werden wollte. Diese bloße Tatsache ist Beweis genug, dass es sich hier um eine extrem wichtige Abhandlung handelt. 130 Seiten in der Erstedition. Die Erstedition kommt aber erst 1993 zustande. Also ich darf einfach mal sagen, das war ich dann. Aber dort findet man eine exakte Grundlegung der Infinitisimalgeometrie und das bedeutet, er hat eine Nominaldefinition gegeben von unendlich klein und übrigens von unendlich groß auch. Was ist unendlich klein, kleiner als jede gegebene Größe. Also diese Botschaft möchte rüberkommen. Kleiner als jede gegebene Größe.
+
+00:37:18.901 --> 00:38:18.500
+<v eberhardknobloch>Das bedeutet, ich kann sozusagen jederzeit die Größe unterbieten, die Sie mir jetzt nennen. Kleiner als jede gegebene, das ist der Witz an der Gesichte und im 19. Jahrhundert hat das Karl Weierstraß sozusagen perfektioniert. Aber in Wirklichkeit ist das eine Nominaldefinition, es ist einfach umständlich zu sagen, kleiner als jede gegebene Größe, das ist jetzt unendlich klein. Und entsprechend, unendlich groß, größer als jede gegebene Größe. Sie bemerken, das ist jetzt nicht aktual unendlich. Es gibt kein Unendlich für Leibniz in der Mathematik, sondern das ist eine Variable. Geht ja nicht anders. Aber ich kann das erfüllen. Und was jetzt für mich, also ich denke für Jedermann, hochinteressant ist, ist, er hat das natürlich nicht sofort gefunden. Er hat also in den nachgelassenen Schriften nach einer geeigneten Definition von unendlich klein zunächst mal gesucht. Und hat unter anderem probiert, kleiner als jede angebbare Größe.
+
+00:38:18.501 --> 00:38:50.700
+<v eberhardknobloch>Und dann hat er gemerkt, wenn ich so definiere, dann muss diese Größe zwingend gleich null sein. Kleiner als jede angebbare Größe das kann ich nur erfüllen, wenn ich null setze. Andernfalls kann ich das mit dem jede angebbare nicht erfüllen. Das hat er also über Bord geworfen und dann später eben dafür die völlig einwandfreie Definition genommen, kleiner als jede gegebene Größe. Das ist im Lateinischen nur der Unterschied von zwei Buchstaben.
+
+00:38:50.701 --> 00:38:53.500
+<v timpritlove>Angebbar und gegeben.
+
+00:38:53.501 --> 00:39:05.700
+<v eberhardknobloch>Ja das ist ein winziger Unterschied, aber er ist essentiell. Und ich sage das deshalb, weil der große Leonhard Euler, einer der nun größten Mathematiker, diesen Schritt nicht gemacht hat, war für mich wirklich hochinteressant.
+
+00:39:05.701 --> 00:39:10.200
+<v timpritlove>Also heißt das angebbar im Sinne von alles was theoretisch geändert werden könnte versus …?
+
+00:39:10.201 --> 00:40:09.700
+<v eberhardknobloch>Also wir sind im Bereich der reellen Zahlen. Und unendlich klein ist schon ziemlich klein, das ist ja klar. Aber die Frage ist, kann man das jetzt präzisieren, kann man definieren, was man darunter versteht? Also das soll ja nicht dem Gefühl überlassen werden, ich werde jetzt ganz klein, das ist ja nicht wohldefiniert. Und wenn ich jetzt sage, unendlich klein bedeutet, kleiner als jede angebbare Größe, wir sind nur im Bereich der positiven Zahlen, der positiven reellen Zahlen, dann ist das nur erfüllbar, wenn ich wirklich null setze. Da kann man sofort, angenommen es wäre nicht null, dann kann man doch sofort einen Widerspruch herbeiführen. Weil nicht null ist bedeutet, es ist eine Differenz zwischen null und dieser unendlich kleinen Größe. Diese unendlich kleine Größe sollte doch aber kleiner als jede angebbare sein und ist sie doch nicht mehr, wenn sie jetzt nicht null ist. Also Leonhard Euler hat eine Nullenrechnung entwickelt und ist nicht von dieser natürlich unsinnigen Definition abgegangen.
+
+00:40:09.701 --> 00:41:09.700
+<v eberhardknobloch>Also kleiner als jede angebbare. Euler hat, das ist für mich merkwürdig, anders kann man es gar nicht sagen, dass er als herausragender Mathematiker nicht gemerkt hat, dass das ja ein Holzweg war. Also er hat Nullenrechnung betrieben und nachher zwischen großen und kleinen Nullen unterschieden. Das ist natürlich gehobener Unfug. Gut, also wir stellen fest, zwei der ganz großen Geistesgrößen haben zunächst, Leibniz zunächst, die gleiche Idee gehabt. Leibniz stellt fest, damit kann ich aber nichts anstellen in der Mathematik. Was soll ich denn mit der null? Ich brauche also etwas was ungleich null ist. Und diese Definition, kleiner als jede gegebene Größe, ist tadellos. Also bei Weierstraß heißt das Epsilon Delta. Sie geben eine Größe vor und ich kann kleiner werden, kein Problem. Ich brauche bloß eine 10 hoch minus andere Potenz zu nehmen. 10 hoch minus 100, wenn Ihnen das nicht klein genug ist, nehme ich eben 10 hoch minus 1000. Also das ist ja noch oben unbegrenzt. Und das ist wissenschaftsgeschichtlich schon hochinteressant.
+
+00:41:09.701 --> 00:41:52.300
+<v timpritlove>Also er hat sich sagen wir mal vor allem, ich meine ich weiß nicht wie viele ähnliche oder vergleichbare Forschung der Mathematik auch schon vorher getan wurden, aber ich deute das jetzt mal auch so ein bisschen als ein extremes Interesse auch am Abstrakten. Vorher wird sich die Mathematik vor allem lange auch erst einmal mit dem Grundsätzlichen, überhaupt dem Errechnen von Formeln etc., also einfach erst mal das Handwerkszeug zu machen, aber irgendwann beginnt ja auch so diese Auseinandersetzung mit dem scheinbar unfassbaren, dem nicht in der Realität so ohne weiteres produzierbaren entwickelt zu haben.
+
+00:41:52.301 --> 00:42:50.300
+<v eberhardknobloch>Ja die Frage ist, so ist ja der newtonsche Ansatz, wie können wir Bewegungsvorgänge fassen? Die sind ja kontinuierlich und Newton hat das also anders als Leibniz gemacht. Newton hat ebenfalls unendlich kleine Größen verwendet, aber sie später nicht mehr benutzt oder jedenfalls weitgehend nicht mehr benutzt. Und was wir jetzt genannt haben, das ist ja vielleicht auch wichtig, ist sozusagen die herausragende, alles überstrahlende Erfindung. Wir sollten aber ausdrücklich erwähnen, dass Leibniz in vielen anderen mathematischen Disziplinen also Ergebnisse antizipiert hat, ohne dass die Mitwelt das merkte, weil er seine Ergebnisse zunehmend wenig bis gar nicht publiziert hat. Das ist ja der Grund, warum heute das Edieren seiner Schriften so schwierig ist.
+
+00:42:50.301 --> 00:43:51.300
+<v eberhardknobloch>Es sind handgeschriebene, oft sehr krakelige Manuskripte und die müssen erst mal entziffert werden. Und dann sind sie eben noch in Latein. Und dazu gehört zum Beispiel die Determinantentheorie. Also Determinanten, Leute würden die als Abbildungen gekennzeichnet, damals war das ein bisschen anders. Man hat also ein Zahlenschema, damals nur ein Zahlenschema, ein quadratisches Zahlenschema, und ordnet diesem Zahlenschema eine Zahl zu. Und die Determinantentheorie spielt noch heute in der Physik eine große Rolle. Was er dort gemacht hat, er hat nicht nur eine Notation eingeführt, die völlig in Ordnung ist, er hat also sozusagen Indizes verwendet und er hat grundlegende Sätze der Determinantentheorie abgeleitet. Also zum Beispiel das Entwickeln einer Determinante nach den Elementen einer Zeile oder Spalte. Das ist der sogenannte lablacesche Entwicklungssatz. Laplace ist deutlich später.
+
+00:43:51.301 --> 00:44:54.200
+<v eberhardknobloch>Ja und das trifft aber auch auf andere Bereiche zu. Also Determinantentheorie war für ihn eine Anwendung der Kombinatorik. Und die Kombinatorik war für ihn eine sehr allgemeine Wissenschaft. Also im besten Sinne sozusagen das Zusammenstellen, Kombinieren von Begriffen, von Elementen, von Zahlen und so weiter. Und in dem Zusammenhang hat er eben sich für symmetrische Funktionen interessiert. Symmetrische Funktionen sind Funktionen, deren Wert sich nicht ändert, wenn man zwei Variable austauscht. Und symmetrische Funktionen das ist natürlich mit einem stark kombinatorischen Element, spielten für ihn eine überragende Rolle bei dem Versuch, die Gleichung fünften Grades mit Algorithmen zu lösen. Er war wie alle seiner Zeit überzeugt, das geht, es ist zwar schwierig und umständlich, aber wenn man nur durchhält und hinreichend viel rechnet, müsste das möglich sein.
+
+00:44:54.201 --> 00:44:57.900
+<v timpritlove>Was ist das für ein Problem?
+
+00:44:57.901 --> 00:45:59.100
+<v eberhardknobloch>Also wir wissen, dass wir bis zur Gleichung vierten Grades die Lösung durch einen Wurzelausdruck darstellen können. Also Sie erinnern sich bei der quadratischen Gleichung, das ist noch elementar, bei der kubischen geht es auch, das ist eine Sache der Renaissance und auch die des vierten Grades ist also durch Radikale, sagen wir heute, lösbar. Und so lag jetzt doch die Überlegung nahe, na gut bis zum vierten Grad geht, es wird jetzt schwieriger, weil also irgendwie mehr zu rechnen ist, aber es müsste doch gehen. Dass es nicht geht ist also erst seit Anfang des 19. Jahrhunderts bekannt, dank eines Norwegers Abel, Niels Henrik Abel und Évariste Galois. Die haben dann nachgewiesen, es geht grundsätzlich nicht. Aber Leibniz war eben überzeugt und er hat, wenn Sie so wollen, als Mittel zum Zweck, um die Gleichung fünften Grades sozusagen durch Radikale zu lösen, diese Theorie der symmetrischen Funktion ausgearbeitet.
+
+00:45:59.101 --> 00:46:56.200
+<v eberhardknobloch>Und er kannte den Hauptsatz der Theorie der symmetrischen Funktion. Also der besagt, dass symmetrische Funktionen mit Hilfe von sogenannten elemtarsymmetrischen Funktionen dargestellt werden kann. Ja und damit einher geht sein Interesse für additive Zahlentheorie. Ich kann das vielleicht an einem Beispiel klar machen. Wir nehmen uns irgendeine natürliche Zahl, 4, 6, 7 oder so etwas und suchen nach der Anzahl der Möglichkeiten, diese natürlich Zahl 4, 6 oder 7 in Summanden zu zerlegen, meinetwegen in drei. Bei 4 ist das 1+1+2. Und mehr ist auch nicht. Es sollen ja drei Summanden sein. Also Sie können jetzt die Reihenfolge vertauschen, aber das ändert ja nichts am Befund. Bei 6 ist das schon ein bisschen mehr. Da müssen sie jetzt eben überlegen, also 3+2+1, 4+1+1 und so weiter. Also nur um den Kerngedanken zu vermitteln. Und das ist auch schwierig.
+
+00:46:56.201 --> 00:47:45.300
+<v eberhardknobloch>Additive Zahlentheorie ist nicht so einfach. Und da hat er auch Teilergebnisse erzielt. Weil die Zahl der symmetrischen Funktion eines Grades darauf hinausläuft, dass man die Zerlegung des Grades in Summanden kennt. So gibt das eine das andere. Eigentlich will er die Algebra verbessern, indem er die Gleichung fünften Grades durch Radikale löst. Er meint, mit Hilfe der symmetrischen Funktion geht das. Geht nicht. Aber entwickelt tatsächlich wichtige Ergebnisse zu dieser Theorie. Und weil diese Anzahl der symmetrischen Funktionen eines bestimmten Grades durch Zerlegung des Grades in Summanden gelöst werden kann, interessiert er sich für additive Zahlentheorie. So hängt irgendwie übertrieben gesprochen alles mit allem zusammen.
+
+00:47:45.301 --> 00:48:14.800
+<v timpritlove>Wir hatten ja … ich hatte ja vorhin auch gefragt, ob er sozusagen auch beeinflusst war, Vorbilder hatte von anderen Denkern, Philosophen, vielleicht auch Mathematikern vorher. Mir ist gerade aufgefallen, dass er ja im Prinzip zum selben Zeitraum gelebt hat wie Isaac Newton, hatten die denn in irgendeiner Form, waren die in Verbindung? Gab es da eine Kommunikation, wusste man überhaupt voneinander?
+
+00:48:14.801 --> 00:49:14.800
+<v eberhardknobloch>Also zunächst, ich werde gleich ein paar Namen mal nennen, es gibt schon Mathematiker, das hat er auch gern bekannt, die ihn beeinflusst haben. Aber wir müssen eben bedenken, noch gibt es kaum wissenschaftliche Zeitschriften. Also es gibt die offizielle Zeitschrift der Royal Society und der Akademie de Science. Aber in Deutschland gibt es noch keine. Die Acta Eruditorum, die in Leipzig erscheinen, erscheinen ab 1682, also relativ spät. Und das heißt, man war eigentlich auf brieflichen Verkehr angewiesen und entsprechend trifft das auch auf Leibniz zu. Er hat mit über 1000 Briefpartnern korrespondiert und darunter waren entsprechend – also wir können jetzt ein bisschen vereinfacht sagen – fast alle Wissenschaftler von Rang und Namen seiner Zeit. Und mit Blick auf die Entstehungsgeschichte seiner Differential- und Integralrechnung hat er ja wiederholt dazu Stellung bezogen, wer ihn angeregt hat.
+
+00:49:14.801 --> 00:50:11.600
+<v eberhardknobloch>Und dazu gehört Blaise Pascal. Es ist also jemand, der starb 1662, da war Leibniz noch sehr jung, 16 Jahre. Aber das ändert nichts daran, dass das, was der Pascal gemacht hatte mit einem infinitesimalen Dreieck, das hat bei ihm ein Licht angezündet. Er hat gemerkt, dass was der am Kreis macht, das kann ich an jeder Kurve machen. Und das war für ihn ein entscheidender Gedanke. Im Übrigen er hat auf der anderen Seite auch gesagt, der war dann aber schon tot bevor er geboren war, dass Galilei, was in meinen Augen auch wichtig ist, Galilei also der Autor ist, der ihn am meisten beeinflusst hat. Also es gibt schon, er war jetzt nicht mehr wirklich Zeitgenosse von Leibniz, er war dann inzwischen tot.
+
+00:50:11.601 --> 00:51:09.700
+<v eberhardknobloch>Aber es gibt schon Personen, denen er einiges verdankt. Und ich sage das auch deshalb, weil er ja zu unrecht – das Thema ist heute denke ich ad acta gelegt – zu unrecht sozusagen beschuldigt wurde, unredlich gehandelt zu haben, indem er von anderen etwas übernommen hat. Also nach allem was wir heute wissen ist das nicht der Fall. Sondern was er von sich sagte, also nachher als der Streit mit Newton losging, das trifft zu, wir können es dadurch überprüfen, weil inzwischen die betreffenden Handschriften aus der Pariser Zeit, 6 Bände liegen ja vor, 30 sollen es mal werden. Überlegen Sie, so ein Band hat 800-900 Seiten Druckseiten. Weil die betreffenden Bände also inzwischen vorliegen mit den Aufzeichnungen aus der Pariser Zeit. Und da kann man genau nachvollziehen, ja was Leibniz sagte trifft zu.
+
+00:51:09.701 --> 00:51:15.600
+<v timpritlove>Was war jetzt der Disput mit Newton? Bin mir nicht ganz sicher, dass ich das richtig verstanden habe.
+
+00:51:15.601 --> 00:52:11.000
+<v eberhardknobloch>Also Newton war früher dran, hat aber wesentlich später als er veröffentlicht. Ursprünglich waren die beiden sehr gut aufeinander zu sprechen. Wir sollten das festhalten, weil es später eben zu einem unerquicklichen Streit kam. Der Witz ist aber, die beiden haben schon gemerkt, dass sie in dem Anderen Geist vom gleichen Geiste hatten. Der Newton hatte von Leibniz gewusst und der Leibniz hat von Newton gewusst, gar keine Frage. Newton hat an Leibniz indirekt zwei Briefe geschickt, die gingen über den Sekretar der Royal Society, das war ein Deutscher, Oldenburg, und äußert sich in diesen beiden Briefen voller Hochachtung über Leibniz. Er hätte sicherlich etwas gleichwertiges, wenn nicht sogar etwas bedeutenderes als er selbst, Newton, gefunden. Überlegen Sie ja? 
+
+00:52:11.001 --> 00:53:08.700
+<v eberhardknobloch>Und dann 1693 schreibt Leibniz an Newton und Newton halbes Jahr später an Leibniz einen direkten Brief. Wenn Sie diese Briefe lesen, die sind natürlich ediert inzwischen, dann können Sie nur sagen, mehr Freundschaft geht gar nicht. Also Newton zu Leibniz, denn meine Freundschaft zu dir ist für mich wichtiger als meine mathematischen Resultate. Und ich möchte dir versichern, dass ich dich also auch trotz des langen Schweigens extrem schätze als Freund und so weiter. Und dann stellt sich die Frage, warum es dann zu diesem höchst unerquicklichen Streit kam. Ja das waren die Adlati, die Leute aus der dritten Reihe. Also es gab ein Fatue Duelliere, ein schweizer Hugenotte, der nach England ausgewandert war und in der Umgebung von Newton tätig war. Und der fing an, wir würden sagen zu stänkern. 
+
+00:53:08.701 --> 00:54:02.800
+<v eberhardknobloch>Er hat dem Newton gesagt, also nach meinem Dafürhalten hat der Leibniz von dir deine zentralen Ideen genommen. Sie müssen dazu wissen, 1684 hat Leibniz veröffentlicht, zu diesem Zeitpunkt, also das Differential, hat Newton noch nichts veröffentlicht von seinen Dingen, nochmal viel später erst 1705 und noch später nach seinem Tode. Also der Fatue Duelliere fängt damit an, so rumzupiken und Newton hat das zunächst nicht zu ernst genommen. Dann aber gibt es noch einen, einen Engländer John Keill und der sagt ziemlich unverblümt zu Newton, ich kann mir das nur so erklären, der hat dich plagiiert. Und das lief darauf hinaus, dass Leibniz es nicht für möglich hielt, das Newton das glaubt, was ihm da gesagt wird. Er hat die Situation falsch eingeschätzt.
+
+00:54:02.801 --> 00:54:56.200
+<v eberhardknobloch>Sondern er hat also um eine Richtigstellung – er war ja Mitglied der Royal Society – der Royal Society gebeten. Und nun kommt das schlimme, das ist jetzt aber deutlich später, 1712. Newton war zu diesem Zeitpunkt schon beliebig verärgert und hat dieses Machwerk, muss man schon sagen, in Eigenregie redigiert und auch verfasst. Und das geht natürlich nicht. Sie können jetzt nicht Richter und Ankläger in einer Sache sein. Daran ist nichts zu beschönigen, aber es greift zu kurz. Wenn man sozusagen die Dinge vom Ende aufdröselt, man muss schon mal gucken, was vorher gelaufen ist. Also wir halten fest, es war ein völlig überflüssiger Streit, der sich allerdings Jahre, Jahrzehnte, Jahrhunderte fast ausgewirkt hat und ursprünglich haben die beiden sich sehr einander geschätzt.
+
+00:54:56.201 --> 00:55:14.400
+<v timpritlove>Eine weitere Errungenschaft Leibniz’ war ja dann auch ganz technischer Natur. Ihm ist es gelungen, eine Rechenmaschine zu bauen, derer gab es so viele nicht damals, eigentlich keine.
+
+00:55:14.401 --> 00:56:15.500
+<v eberhardknobloch>Also man kann sagen, es gab zwei. Wilhelm Schickard in Tübingen und von Blaise Pascal in Paris. Aber beide Maschinen waren keine vier-Spezies-Maschinen, das heißt die konnten nur addieren und subtrahieren. Also das ist ohne wenn und aber eine überragende Erfindungsleistung von Leibniz, dass er tatsächlich die erste vier-Spezies-Rechenmaschine hat bauen lassen. Er hat sie konzipiert und er war darauf angewiesen, dass er Feinmechaniker fand, die das umsetzen konnten. Und nun kommt eben so eine gewisse Tragik wieder ins Spiel. Er hatte damit schon früh begonnen und im Endeffekt hat ihn seine Rechenmaschine sein ganzes Leben lang begleitet. Er hat dann sehr viel Geld aus eigenem Vermögen ausgegeben, um das zu erzwingen. Er hat also mehrere Maschinen gebaut, heute gibt es nur noch eine, also das Original. Die ist natürlich in einem feuersicheren Raum in der Leibniz Bibliothek.
+
+00:56:15.501 --> 00:57:17.900
+<v eberhardknobloch>Aber zurück zu sozusagen zu den Anfängen, als er das erste Mal nach London ging, hat er die Maschine dabei und es kam was kommen musste, sie ging nicht. Also das entscheidende war natürlich die Multiplikation und Division. Addieren und Subtrahieren das hatte man schon vorher drauf. Das war nicht so spannend. Er war immer noch recht jung. Er hatte sich unfreiwillig gerade als mathematischer Ignorant geoutet. Er meinte nämlich, er hat da Dinge gefunden, die sind doch interessant und da hat ihn ein John Pell, das ist ein englischer Mathematiker, wieso ist das hier neu, das hat doch der Gabriel Mouton längst veröffentlicht. Leibniz war völlig perplex und war gezwungen, so eine Art Ehrenerklärung abzugeben. Diese Dinge haben später eine Rolle gespielt, als der Streit zwischen ihm und Newton eskalierte. Dann erinnerte man sich, der junge Mann das war doch der Angeber, der damals mit einer nichtfunktionierenden Rechenmaschine bei uns hier antrat und sich doch unfreiwillig als Ignorant äußerte.
+
+00:57:17.901 --> 00:58:20.600
+<v eberhardknobloch>Ja so war das halt. Aber das ändert nichts daran, dass er tatsächlich also kurzfristig – so müsste man vielleicht sagen – eine Maschine hatte, die wirklich ging, aber eben nur sehr kurzfristig. Man liest auch heute noch überwiegend, das stimmt so ganz nicht, dass die eigentlich nie ging. Also das wäre noch schlimmer. Aber Tatsache ist, sie ging fast nie. DAs ist also nun leider doch der Fall. Und das kann man natürlich jetzt auch erklären. Die Ganggenauigkeit war so präzise, dass die Feinmechaniker seiner Zeit eigentlich überfordert waren. Also sie mussten da Bruchteile eines Grades, also ein Grad jetzt 360° sind ein Kreis, da hinbekommen, damit die Maschine lief, also die Zahnräder ineinandergriffen, aber nicht sozusagen sich gar nicht treffen konnten. Und das war ein Kernproblem. Aber was wir erwähnen sollten …
+
+00:58:20.601 --> 00:58:45.200
+<v timpritlove>Aber es ist bewiesen, dass das Prinzip funktioniert hat. Also hätte man es genauso gut bauen können, wie er es sich ausgedacht hat, also er hat sagen wir mal die richtige Analyse vorgenommen und auch eine richtige Lösung gefunden, bloß nicht unbedingt jetzt berücksichtigt, was die Grenzen der Fertigungstechnik damals waren?
+
+00:58:45.201 --> 00:59:38.600
+<v eberhardknobloch>Ja danke dass Sie sagen, das ist so. Also es war nicht seine Schuld. Also es war die Situation, die ihm da Probleme bereitete. Und er hat zwei Erfindungen gemacht, die später in dem Rechenmaschinenbau Anwendung fanden. Das ist das sogenannte Sprossenrad, das ist ein Zahnrad, wo man die Anzahl der Zähne sozusagen vergrößern und verkleinern kann, indem man einen Hebel umlegt. Das ist für die Zehnerabtragung ganz wichtig. Oder die Staffelwalze, die das gleich macht auf andere technische Weise. Also Staffelwalze und Sprossenrad sind zentrale Elemente seiner Rechenmaschine, die waren vollkommen neu, vollkommen in Ordnung und wie gesagt, es ist ein Stück weit Tragik, dass er nicht den durchschlagenden Erfolg hatte.
+
+00:59:38.601 --> 00:59:41.600
+<v timpritlove>Ja aber soweit muss man es ja überhaupt erst mal treiben.
+
+00:59:41.601 --> 00:59:43.600
+<v eberhardknobloch>Ja.
+
+00:59:43.601 --> 00:59:55.500
+<v timpritlove>In mein Leben trat Leibniz durch das duale Zahlensystem, auch dort hat er ja Verdienste, aber er war jetzt auch nicht der erste, der überhaupt über Zahlensysteme nachgedacht hat oder?
+
+00:59:55.501 --> 01:00:57.800
+<v eberhardknobloch>Ja. Also wir wissen heute, dass das duale Zahlensystem, wenn Sie so wollen, essentielle für die Entwicklung der Computertechnik war, da geht es natürlich um Elektrotechnik. Wir haben eben nur zwei Zustände, an und aus, aber das kommt ja auf dasselbe hinaus, wenn Sie 0 und 1 sagen. Er hat sich für das duale Zahlensystem überaus stark interessiert, weil er der Hoffnung war, dass sich bestimmte Eigenschaften von Zahlen dadurch besser zeigen. Also zum Beispiel die Wiederholung von Ziffern. Das ist nicht mehr ganz einfach, wenn auch nicht wirklich schwierig, einen Dezimalbruch in ein duales System umzuschreiben. Er hat auch einen Zahlenwandler konzipiert. Das macht man heute auch an der Schule, weil das lehrreich ist. Was ist sozusagen eine Eigenschaft der Darstellung? Was ist eine Eigenschaft der Zahl? Das sind ja zwei verschiedene Dinge. Und die Eigenschaft der Zahl hängt natürlich nicht von der Darstellung ab.
+
+01:00:57.801 --> 01:01:06.600
+<v eberhardknobloch>Also er hat große Hoffnung auf das duale Zahlensystem gesetzt. Wir müssen eigentlich sagen, die haben sich nicht bewahrheitet.
+
+01:01:06.601 --> 01:01:20.300
+<v timpritlove>Also er hat sich sozusagen analytische Erkenntnisse versprochen und hat gar nicht so sehr gesehen, dass er im Prinzip die Grundlage für eine effiziente Maschinenumsetzung von Rechnern …?
+
+01:01:20.301 --> 01:02:11.400
+<v eberhardknobloch>Ja. Also er hat ja auch, das ist ja vielleicht auch interessant, eine duale Rechenmaschine konzipiert, allerdings nicht selbst gebaut. Die wurde von einem mir befreundeten Kollegen, Ludolf von Mackensen, gebaut. Und heute gibt es da noch eine verbesserte Version davon in der Dauerausstellung der leibnizschen Modelle in der Leibniz Universität Hannover. Also er hat da schon sich massiv engagiert. Man muss aber eben bedenken, seine Konstruktionsskizzen waren, sagen wir es mal vorsichtig, nicht vorbildlich. Also jemand der jetzt als Techniker damit umgehen sollte, hätte sich da schon mehr Geduld gewünscht von Herrn Leibniz und genauere Angaben. Etwa was die Proportionen betrifft der Größe und dergleichen. Also er hat es seinen Technikern auch nicht eigentlich leicht gemacht.
+
+01:02:11.401 --> 01:02:14.600
+<v timpritlove>Eine Tischlerausbildung wäre vielleicht noch ganz hilfreich gewesen.
+
+01:02:14.601 --> 01:02:19.600
+<v eberhardknobloch>Ja wahrscheinlich.
+
+01:02:19.601 --> 01:02:28.100
+<v timpritlove>Aber wenn die auch gebaut worden ist und die Maschine quasi auf 0 und 1 Basis basiert, hat er, kann man ja schon fast sagen, den Computer erfunden?
+
+01:02:28.101 --> 01:02:29.300
+<v eberhardknobloch>Naja gut …
+
+01:02:29.301 --> 01:02:32.500
+<v timpritlove>Nicht den elektrischen, aber vielleicht den mechanischen
+
+01:02:32.501 --> 01:02:47.800
+<v eberhardknobloch>Aber wie gesagt nochmal, er hat sie konzipiert und nach den leibnizschen Konzepten hat der Kollege Mackensen die Maschine … aber das ist jetzt in den 70er Jahren des vergangenen Jahrhunderts gebaut.
+
+01:02:47.801 --> 01:02:49.700
+<v timpritlove>Also hat ein bisschen gedauert, bis es auch jemand bauen konnte?
+
+01:02:49.701 --> 01:02:50.500
+<v eberhardknobloch>Ja.
+
+01:02:50.501 --> 01:02:51.900
+<v timpritlove>Aber funktioniert hat es auch?
+
+01:02:51.901 --> 01:03:54.200
+<v eberhardknobloch>Ja. Vielleicht nicht uninteressant: Leibniz war ja eben immer alles zugleich. Philosoph und wenn Sie so wollen auch Theologe. Also die Religion hat für ihn eine extrem wichtige Rolle gespielt. DAs hat ja mit seiner Idee von der besten aller möglichen Welten zu tun. Also er hat die Idee nicht selbst in die Welt gesetzt, aber sie sehr schön gefunden, dass wir in 0 und 1 sozusagen ein Symbol der göttlichen Schöpfung haben. Um aus Nichts etwas zu schaffen reicht die 1. Und das ist der Herzog von Braunschweig-Wolfenbüttel gewesen, der hat das sozusagen gesagt und Leibniz ist da sofort auf den fahrenden Zug aufgesprungen und hat auch eine Medaille konzipiert, die dann allerdings zu seinen Lebzeiten gar nicht geprägt wurde. Die ist dann auch sehr viel später erst. Aber sagen wir mal diese Überhöhung eines, wenn Sie so wollen sogar trivialen, mathematischen Sachverhalts, also dass man mit der Basis zwei die Zahlen darstellen kann, das ist nun wirklich jedem Grundschüler schon zugänglich.
+
+01:03:54.201 --> 01:04:48.300
+<v eberhardknobloch>Das ist aber typisch für ihn. Also wenn wir sagen nach Leibniz, es ist die beste aller möglichen Welten, dann ist das zwingend durch sein Gottesverständnis nötig. Denn es wäre sozusagen Blasphemie, Gotteslästerung, wenn wir Gott unterstellen, er wäre unter seinen Möglichkeiten geblieben. Wenn wir sagen, das ist nicht die beste aller möglichen, der Mann ist ja allmächtig, also dann hätten wir da ein echtes Problem. Also er musste sozusagen aufgrund des Gottesverständnisses lehren, die beste aller möglichen. Und natürlich sofort dieses Problem der Theodizee, die Rechtfertigung Gottes angesichts des Bösen in der Welt. Wir erleben das ja gerade heute ja jeden Tag neu. Also eine unfriedliche Welt. Wie kann man denn das jetzt erklären, wenn es doch ein gütiger Gott ist? Wenn Sie nicht gläubig sind werden Sie das alles nicht akzeptieren. 
+
+01:04:48.301 --> 01:05:27.900
+<v eberhardknobloch>Aber für den gläubigen Protestanten Leibniz war das nötig, denn damit der Mensch schuldig werden kann oder eben nicht schuldig werden kann, muss er die Entscheidungsfreiheit haben, ganz entscheidender Punkt für seine Philosophie. Wenn alles vorherbestimmt ist, das ist ja dann die Prädestination, dann können Sie nur sagen, ja dann bin ich erst recht nicht schuld, das war ja vorher klar, ich bring den da jetzt um, ich brauche Geld, kann mich also keiner belangen. Also es hängt also da auch alles wieder mit allem zusammen.
+
+01:05:27.901 --> 01:06:30.300
+<v timpritlove>Ich glaube aus heutiger Sicht hat man so ein bisschen Probleme, so Wissenschaft und theologische Theorien oder überhaupt das Problem der Weltanschauung innerhalb einer Gesellschaft, die einfach - diese Gottesexistenz einfach nicht auch nur in den Fundamenten, also nicht im geringsten anzweifeln würde oder auch einfach nicht angezweifelt hat bzw. jeden sofort auf den Scheiterhaufen gestellt hat, der sich das getraut hat. Wie muss man sich das vorstellen, wie Leute wie Leibniz das zusammengebracht haben? Also Sie haben jetzt schon 1-2 Beispiele genannt und auch diesen schönen Blick, eine göttliche Welt muss ja sozusagen vollkommen sein, also muss man sie auch vollkommener machen können, das ist ja schon mal ein schöner Spin. Ich frage mich nur so, inwiefern war das sozusagen in ihm oder inwiefern war das wissenschaftliches Marketing, um sozusagen auch seine Arbeit in der realen Welt durchführen zu können?
+
+01:06:30.301 --> 01:07:10.300
+<v eberhardknobloch>Tja, also wir müssen bei ihm Philosophie und Theologie zusammen denken. Dazu gehört sein starkes Harmoniebedürfnis. Das hat auch damit zu tun. Er war ja auf Ausgleich aus. Und wenn er also Gott eine tragende Rolle zusprach, dann eben deshalb, weil er gläubiger Protestant war. Also wenn er Mathematik betrieb, war er ja gleichzeitig eben auch Protestant. Und das spielte auch eine bestimmte Rolle.
+
+01:07:10.301 --> 01:07:12.700
+<v timpritlove>Aber es war jetzt kein Widerspruch für ihn?
+
+01:07:12.701 --> 01:08:12.000
+<v eberhardknobloch>Also ich denke nicht. Er war eben alles zugleich. Also Sie wissen ja auch, der Vorwurf von uns Nachgeborenen gegen uns Nachgeborene, dass wir sozusagen parzellieren, das geht aber nicht anders, wenn man überhaupt dieses gigantische Material mal edieren will. Aber man darf eben nicht vergessen, dass die Dinge miteinander zusammenhängen. Also meinetwegen auch ein Prinzip – er nennt das das Kontinuitätsprinzip – also dahinter steckt die Überzeugung, die dann inzwischen als falsch nachgewiesen wurde. Die Natur macht keine Sprünge. Also es gibt immer nur gleitende Übergänge. Und in diesem Sinne ist die Ruhe eine unendlich kleine Bewegung. Also das sagt er explizit so, weil er andernfalls nicht den Übergang von Ruhe in Bewegung hinkriegt. Und Sie bemerken, dann braucht er natürlich auch einen vernünftigen Begriff von unendlich klein.
+
+01:08:12.001 --> 01:08:26.300
+<v eberhardknobloch>Also das hatten wir ja vorhin besprochen, wir sagen, kleiner als die gegebene Größe, kommt das hin. Es muss nicht null sein, ist auch nicht null, aber es ist eben beliebig klein.
+
+01:08:26.301 --> 01:08:56.600
+<v timpritlove>Jetzt hatte ja auch das klang ja schon streckenweise an, hatte er ja auch ein eigenes Bedürfnis und Bestreben die Lehre voranzubringen, Schulen zu gründen, Akademien zu gründen, zu beeinflussen. Welche Dimension hat die Lehre und seine Auswirkung auf Ausbildungssysteme gehabt?
+
+01:08:56.601 --> 01:09:21.500
+<v eberhardknobloch>Ja ich denke er war nicht so sehr an allgemeinbindenden Schulen oder Universitäten interessiert, wohl aber an Akademien. Dort wurde ja in der Regel nicht gelehrt. Die Akademien waren eben der Zusammenschluss von vielen Gelehrten, die in der Zusammenarbeit miteinander Probleme lösen konnten, die der einzelne nicht lösen konnte. Das war seine Kernidee.
+
+01:09:21.501 --> 01:09:23.200
+<v timpritlove>Also mehr eine Forschungsgemeinschaft.
+
+01:09:23.201 --> 01:10:19.200
+<v eberhardknobloch>Ja genau das. Und wie so immer war auch hier der Anfang eher betröppelt. Die Akademie wurde auf dem Papier 17 … also jetzt die einzige, die zu seinen Lebzeiten gegründet wurde … 1700 gegründet, aber es passierte dann erst mal nicht viel. Natürlich brauchen Sie auch fähige Leute, die sich die Aufgabe zu eigen machen. Und Leibniz pendelte zwischen Hannover und Berlin, geriet in Spionageverdacht, weil das ja zwei Herrscherhäuser waren. Das eine waren die Welfen, das andere waren die Hohenzollern. Also irgendwann hat man in Berlin gesagt, was macht der denn hier in Berlin, und in Hannover sagte man, was macht denn der da in Hannover? Also er hat 1710 den ersten Band der sogenannte Miscellania Berolinensia herausgebracht, das wurde sehr gelobt, das war der erste Jahrgang der akademieeigenen Zeitschrift.
+
+01:10:19.201 --> 01:10:40.600
+<v eberhardknobloch>Und Sie sehen darin auch wieder, noch gab es nur ganz wenige. Aber dann gab es eine lange Durstphase für die Sozietät nach 1711 kam Leibniz nicht mehr nach Berlin. Er war sehr verärgert, weil man – wir müssen so sagen – hinter seinem Rücken da allerhand Entscheidungen getroffen hatte, er war doch aber der Präsident.
+
+01:10:40.601 --> 01:10:45.400
+<v timpritlove>Also wir reden ja von der königlich-preußischen Akademie der Wissenschaften?
+
+01:10:45.401 --> 01:10:48.200
+<v eberhardknobloch>Ja ist schon richtig. Später war sie königlich.
+
+01:10:48.201 --> 01:10:51.300
+<v timpritlove>Oder kurfürstlich-brandenburgische Sozietät der Wissenschaften.
+
+01:10:51.301 --> 01:11:52.000
+<v eberhardknobloch>Genau. Also wir reden von der kurfürstlich-brandenburgischen Sozietät und er hat eben bewusst Sozietät gesagt, um den Gemeinschaftsgedanken zu betonen. Akademie klingt so ein bisschen abgehoben. Die Akademiker, die kümmern sich da um ihre esoterischen Probleme. Und das geht wieder auf sein soziales Anliegen. Also wir haben das erwähnt, die Sozietät sollte zwar auch theoretische Probleme lösen, aber eben nicht nur. Theoria cum Praxi. Und ob es nun um Deichbau geht oder es gab ja in Brandenburg Überschwemmungen bis in unsere Tage bekanntlich und das war auch ein Thema bei seinem Eintreten für die Gründung von öffentlichen Assekuranzen. Die Schäden, die am häufigsten auftraten, waren natürlich Feuer- und Wasserschäden. Und entsprechend hat er das auch explizit benannt.
+
+01:11:52.001 --> 01:12:09.400
+<v timpritlove>Ja deswegen dachte ich glaube auch eben, dass sozusagen ein Lehraspekt dabei auch sein muss. Also dass sozusagen diese Inklusion, dieser soziale Aspekt ja zwangsläufig sich auch in Lehre umsetzt, aber das war es eigentlich weniger, sondern es war eher die Durchlässigkeit für Leute, in diese Akademien aufsteigen zu können?
+
+01:12:09.401 --> 01:13:10.000
+<v eberhardknobloch>Ja eigentlich schon. Also nochmal, die Universitäten waren keine Forschungseinrichtungen. Man vermittelte sozusagen das Wissen der Antike und des Mittelalters. Also Cum grano salis, also will sagen, mit kleinen Unterschieden. Aber im Großen und Ganzen spielte sich an den Universitäten keine Forschung im nennenswerten Maße ab. Das änderte sich natürlich später. Aber zunächst eben noch nicht. Die Akademie oder Sozietät sollte zum Ruhme des Königs beitragen, aber durfte nichts kosten. Das erinnert auch gern an heutige Zustände. Und das bedeutet, Leibniz hat nicht nur die Konzeption der Sozietät entwickelt, sondern auch Ideen, wie man denn die neue Einrichtung finanzieren könnte. Und von verschiedenen Möglichkeiten, die er erwogen hat, war eine nur erfolgreich und das war das sogenannte Kalenderprivileg. Also alle die in Brandenburg Preußen einen Kalender vertreiben wollten, waren an das Privileg der Akademie gebunden. Und das brachte tatsächlich genau …
+
+01:13:10.001 --> 01:13:11.800
+<v timpritlove>Ein Kalender?
+
+01:13:11.801 --> 01:14:08.900
+<v eberhardknobloch>Ja. Man möchte es nicht für möglich halten. Das ging bis zum Beginn des 19. Jahrhunderts. Also auch der große Friedrich oder Friedrich II. Hat an diesem Finanzierungssystem nichts geändert. Zwar blühte die Akademie unter ihm auf, aber es ändert nichts daran, dass die Einnahmen aus dem Kalenderprivileg kamen. Das ändert sich wirklich erst zu Beginn des 19. Jahrhunderts. Also wegen dieser Kalender, wo eben verschiedenste Interessen bedient werden sollten, für den Bauern, für den Städter, für den Astrologiegläubigen, die gab es zu allen Zeiten, waren dort Informationen sozusagen und die sollten dann auch der Wirklichkeit entsprechen. Und da brauchte man schon einen Astronom, der das beurteilen konnte. Also der beobachtete und gegebenenfalls wusste, wann denn nun eine Mondfinsternis oder Sonnenfinsternis oder was sonst da an Erscheinungen auftritt, zustande kommt.
+
+01:14:08.901 --> 01:15:07.200
+<v eberhardknobloch>Wir sollten es noch ansprechen, er hat Forschungsprogramme projektiert und dazu gehört, dass er Peter dem Großen dem I. Dem russischen Zaren, den er ja dreimal getroffen hat, was auch interessant ist und er wurde russischer Justizrat, nahegelegt hat in mehreren Denkschriften, den Erdmagnetismus zu erforschen. Und hat ihm explizit aufgeschrieben in dem riesigen Reich Russland sind keine hindernden Grenzen. Er kann also jetzt sozusagen Erdmagnetismus beliebig genau erforschen. Dazu gehören drei Größen. DAs eine ist die Deklination, also die Abweichung von der Nordrichtung, das andere ist die Inklination, das ist die Abweichung von der Waagerechten und damals für ihn nur jedenfalls damals noch keine Rolle gespielt hat die Intensität, mit der der Magnetismus wirkt. Das war eine Sache später.
+
+01:15:07.201 --> 01:16:05.800
+<v eberhardknobloch>Aber was vielleicht doch auch sehr interessant ist, eine andere Lichtgestalt der deutschen Geistesgeschichte Alexander von Humboldt hat bei seiner Durchreise durch Moskau sich die Denkschriften von Leibniz für den Zaren zeigen lassen. Und hat das in seinem berühmten Werk dem Kosmos auch thematisiert. Also er hat gesagt, ist ja unglaublich was der große Leibniz damals schon konzipiert hatte. Also man kann so sagen, was Leibniz dem Zaren vorgeschlagen hat, das hat Alexander von Humboldt eingelöst. Und zwar sehr erfolgreich, weil Alexander von Humboldt extrem renommiert war. Er ist in einer Gewaltreise, neun Monate, durch das russische Reich gereist und hat eben bei seiner Rede in der Petersburger Akademie der Wissenschaften dieses Thema nochmal aufgegriffen. Und das finde ich schon großartig. Also wir haben mit den beiden Leibniz und Alexander von Humboldt zwei Deutsche, die auch in finstersten Zeiten des kalten oberhalb aller Stänkereien waren.
+
+01:16:05.801 --> 01:16:27.300
+<v eberhardknobloch>Also die Gründung der russischen Akademie ist maßgeblich von Leibniz beeinflusst. Und die Geschichten der russischen Akademien thematisieren das immer sehr positiv und Humboldt sowieso. Also Humboldt wurde Mitglied der russischen Akademie, das ging ja bei Leibniz nicht, weil er ja schon tot war. Also das ist irgendwie sehr erfreulich.
+
+01:16:27.301 --> 01:17:02.500
+<v timpritlove>Was bleibt jetzt von Leibniz so? Die einzelnen Errungenschaften haben wir ja teilweise beleuchtet. Wer hat sich später vor allem auf ihn berufen? Also was war sagen wir mal das Ergebnis seines Vermächtnisses? Was haben seine Erfindungen, seine Überlegungen und seine philosophischen Ergebnisse ausgelöst? Wer hat darauf aufgebaut? Was ist sozusagen dadurch überhaupt erst ermöglicht worden?
+
+01:17:02.501 --> 01:17:56.900
+<v eberhardknobloch>Also in der Philosophie ist nun einmal seine sogenannte Monadologie das mit Abstand berühmteste, was er dort geschaffen hat. Seine Lösung des Leib-Seele-Problems. Wie hängt der Leib mit der Seele zusammen? Und Monaden sind materielose Substanzen. Das Ganze wird jetzt beliebig theoretisch. Und bei der Schöpfung der Welt hat Gott die Monaden geschaffen, alle. Die können auch nicht untergehen. Und wenn man so will ist das wieder mal ein Überbleibsel der platonischen Unsterblichkeitslehre für die Seele. Also er hat sich da durchaus auch in der Antike bedient. Die Monadologie ist weiterhin heute ein ernstbenommenes philosophisches Angebot und ich kenne viele viele Philosophen, die noch immer nach den letzten Feinheiten dieser Theorie suchen.
+
+01:17:56.901 --> 01:18:49.900
+<v eberhardknobloch>Etwas anderes ist die Theodizee, das ist natürlich nach wie vor auch von Bedeutung. Denn also für alle, die jetzt an Gott glauben, ist das eben schwer zu verstehen, warum Gott das Böse in der Welt zulässt. Aber natürlich überragend, das hatten wir ja schon gesagt, ist ganz eindeutig seine Erfindung der Differential- und Integralrechnung. Also er war relativ bald in Kontinentaleuropa der führende Mann. Und es heißt, ob nun, in der Regel, es gab da auch Ausnahmen, aber in der Regel hatte man sich der leibnizschen Symbolik bedient, also des Integralzeichens, hat jeder irgendwann mal von uns kennengelernt oder eben von Dx Dy. Und die Bedeutung dieser Erfindung kann man wirklich nicht überschätzen. Und der Newton …
+
+01:18:49.901 --> 01:18:54.700
+<v timpritlove>Weil das ein mathematischer Meilenstein ist, auf dem einfach ganz viele andere Sachen basieren?
+
+01:18:54.701 --> 01:19:46.900
+<v eberhardknobloch>Eindeutig, man kann sagen beliebig bedeutend. Gut Newton hatte da sozusagen doch Pech, seine Notation war eben sehr unglücklich. Man kann also schon bei mehreren Variablen schwer mit seiner Notation arbeiten, aber es führte zunächst dazu, weil sich die Engländer um ihren Heros Newton scharten, das vorübergehend die englische Mathematik von der Entwicklung auf Kontinentaleuropa abgekoppelt wurde. Es war eigentlich eine tragische Entwicklung. Es gab weiterhin tüchtige Mathematiker in England natürlich, aber die Musik spielte eindeutig in Frankreich. Wenn Sie jetzt die Größen nehmen da, also Lagrange, Laplace und so weiter oder natürlich auch Euler, der diese Dinge extrem weiterentwickelt hat, also die Musik spielte eindeutig in Europa. Also wir haben jetzt mal die Highlights genannt.
+
+01:19:46.901 --> 01:20:03.900
+<v timpritlove>Ja ich meine bei so einem Leben kann man natürlich viel erzählen. Aber vielleicht zum Schluss so die Frage, wir haben ja hier den Titel Forschergeist. Ich weiß nicht, was Sie so grundsätzlich mit dem Begriff vielleicht assoziieren, aber Leibniz war einer oder?
+
+01:20:03.901 --> 01:20:19.000
+<v eberhardknobloch>Also eindeutig. Ja wir können sagen, der bedingungslose Wille, das Wissen der Menschen zu erweitern, das ist sozusagen Forschergeist im besten Sinne ohne wenn und aber.
+
+01:20:19.001 --> 01:20:42.400
+<v timpritlove>Ja Herr Knobloch, ich denke jetzt haben wir es ganz gut zusammengefasst. Ich bedanke mich sehr für die Ausführungen hier zu Leibniz, dem Forschergeist. Nicht dem einzigen, aber auf jeden Fall einen der wesentlichen Vordenker von Forschung an sich und eben auch verknüpft mit vielen Errungenschaften.
+
+01:20:42.401 --> 01:20:45.800
+<v eberhardknobloch>Ja gern geschehen, es hat mir Spaß gemacht.
+
+01:20:45.801 --> 01:20:56.600
+<v timpritlove>Und vielen Dank auch hier wieder fürs Zuhören bei Forschergeist, geht wieder bald weiter und ich sage, tschüss und bis bald.
+
+

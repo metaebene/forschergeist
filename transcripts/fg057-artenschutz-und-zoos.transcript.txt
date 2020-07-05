@@ -1,0 +1,1065 @@
+﻿[00:00:00-0 Intro]
+[00:00:42-8 @timpritlove] Hallo und herzlich willkommen zu Forschergeist,
+[00:00:45-1 @timpritlove] dem Podcast des Stifterverbands für die deutsche Wissenschaft.
+[00:00:48-3 @timpritlove] Mein Name ist Tim Pritlove
+[00:00:50-1 @timpritlove] und ich begrüße alle zu Nummer 57 in unserer Gesprächsserie rund um die Wissenschaft im weitesten Sinne.
+[00:00:58-3 @timpritlove] Und heute gehen wir auch mal ganz weit raus.
+[00:01:01-1 @timpritlove] Konkret hat mich der Weg allerdings erst mal nur bis nach Frankfurt geführt.
+[00:01:06-0 @timpritlove] Ich sitze hier im Gesellschaftshaus des zoologischen Gartens in Frankfurt und begrüße meinen Gesprächspartner,
+[00:01:14-6 @timpritlove] den ehemaligen Direktor des Frankfurter Zoos, Manfred Niekisch, schönen guten Tag.
+[00:01:18-8 @manfredniekisch] Guten Tag.
+[00:01:20-8 @timpritlove] Herr Niekisch, Sie sind jetzt im Ruhestand, kann man das so sagen?
+[00:01:23-5 @manfredniekisch] Ja.
+[00:01:25-2 @timpritlove] Trifft nicht so richtig der Begriff oder?
+[00:01:28-5 @manfredniekisch] Der Begriff greift nur ein bisschen.
+[00:01:30-4 @manfredniekisch] Formal greift er, denn ja es ist ein bisschen wie Weihnachten, man weiß, das kommt,
+[00:01:35-8 @manfredniekisch] man weiß auch genau wann es kommt und dann ist es plötzlich da und man sagt,
+[00:01:40-8 @manfredniekisch] huch ist es schon so weit wieder?
+[00:01:43-9 @manfredniekisch] Nein, in dem Fall war also die Sache, dass ich tatsächlich vom Magistrat gebeten worden bin,
+[00:01:49-5 @manfredniekisch] ein Jahr länger zu machen als die normale Erreichung des Pensionsalters es zugelassen hätte.
+[00:01:55-9 @timpritlove] Ja.
+[00:01:56-3 @manfredniekisch] Und dadurch habe ich nochmal ein extra Jahr gehabt, um Dinge auf den Weg zu bringen bzw. Projekte abzuschließen.
+[00:02:01-8 @manfredniekisch] Und das habe ich mit großer großer Freude getan.
+[00:02:05-0 @timpritlove] Aber so richtig ruhig ist es noch nicht geworden?
+[00:02:08-7 @manfredniekisch] Ich habe ja nebenbei schon immer einige Aktivitäten gehabt,
+[00:02:12-2 @manfredniekisch] unter anderem im Sachverständigenrat für Umweltfragen oder als Vizepräsident der zoologischen Gesellschaft Frankfurt,
+[00:02:18-9 @manfredniekisch] die unabhängig vom Zoo ist.
+[00:02:20-9 @manfredniekisch] Und das sind Aktivitäten, für die ich mir immer gewünscht habe, mehr Zeit zu haben.
+[00:02:26-9 @manfredniekisch] Die habe ich jetzt und die Zeitfenster sind auch ganz schnell zugegangen,
+[00:02:31-3 @manfredniekisch] weil in dem Moment, wo ruchbar wurde, dass es tatsächlich ernst wird mit meiner Pensionierung,
+[00:02:36-9 @manfredniekisch] alle möglichen Institutionen und Leute kamen und sagten,
+[00:02:41-0 @manfredniekisch] ach jetzt, wo Sie pensioniert sind, hätten Sie doch bestimmt Zeit, mit uns mal und so weiter und so weiter.
+[00:02:47-2 @manfredniekisch] Also ich habe nach wie vor mehr als genug zu tun.
+[00:02:51-2 @manfredniekisch] Muss mich besser organisieren, weil ich nicht mehr die Bürozeit sozusagen habe, um mich zu organisieren,
+[00:02:58-3 @manfredniekisch] die ja auch ein äußerlicher Taktgeber ist, sondern ich muss selber entscheiden, was mache ich und was mache ich nicht.
+[00:03:05-2 @manfredniekisch] Und da ist die Gefahr, dass man zu viel zusagt, eben größer, als wenn man von Vornherein sagt,
+[00:03:10-3 @manfredniekisch] ich kann gar nicht neben dem Posten eines Zoodirektors noch viel mehr nebenbei machen.
+[00:03:17-4 @timpritlove] Ja, das kann ich mir vorstellen, dass Sie da ein gefragter Mann sind.
+[00:03:22-3 @timpritlove] Ich würde ganz gerne mal noch ein bisschen zurückblättern an Ihre Anfänge, wie Sie überhaupt zu diesem Thema,
+[00:03:28-9 @timpritlove] und letztlich auch zu diesem Beruf oder dieser Berufung gekommen sind.
+[00:03:34-2 @timpritlove] Haben Sie es schon immer mit Tieren gehabt?
+[00:03:35-7 @manfredniekisch] Ja, da müssen wir ziemlich weit zurückblättern, nämlich so weit, wie ich denken kann.
+[00:03:41-3 @manfredniekisch] Ich habe mich immer für Tiere interessiert und für mich war das allergrößte,
+[00:03:45-5 @manfredniekisch] wenn in der Zeit in Nürnberg, wo ich groß geworden bin, das damals noch schwer vom Krieg geschädigt war,
+[00:03:53-2 @manfredniekisch] der Krieg war natürlich schon ein paar Jahre vorbei, wenn mich da mein Vater auf den Rücksitz des Fahrrads gepackt hat,
+[00:03:59-4 @manfredniekisch] das war so eine einfache Metallschüssel, kann man sagen, und mit mir an irgendeinen Tümpel geradelt ist,
+[00:04:05-2 @manfredniekisch] unter anderem abgesoffene Bombenkrater und ich durfte dort Molche fangen und Frösche.
+[00:04:10-6 @manfredniekisch] Und dann hat mir meine Mutter immer eine Waschschüssel geliehen, die habe ich dann mit Fliegendraht abgedeckt
+[00:04:16-6 @manfredniekisch] und da habe ich meine ersten Tiere gehalten.
+[00:04:18-6 @manfredniekisch] Da ging es los und mir war immer klar, ich will etwas mit Tieren machen beruflich.
+[00:04:24-4 @timpritlove] Und wie kam es dann dazu?
+[00:04:26-9 @manfredniekisch] Es kam dann so dazu, dass ich zunächst mal Biologie studiert habe.
+[00:04:32-2 @manfredniekisch] Und dieses Studium hat mir sehr viel Spaß gemacht.
+[00:04:36-2 @manfredniekisch] Ich habe am Anfang gedacht, ich studiere für Lehramt und mach das gemeinsam mit dem Fach Germanistik.
+[00:04:42-5 @manfredniekisch] Das hat sich aber herausgestellt war völlig unmöglich, schon von den Stundenplänen her.
+[00:04:47-5 @manfredniekisch] Und außerdem habe ich mir gesagt, nein ich will ja Biologe werden, ich studiere richtig Biologie.
+[00:04:52-4 @manfredniekisch] Das heißt, ich habe dann erst mal das Diplom gemacht, habe viel Zeit im Gelände verbracht für meine Diplomarbeit,
+[00:04:58-2 @manfredniekisch] die habe ich nämlich gemacht über einheimische Kröten.
+[00:05:01-7 @manfredniekisch] Und ich habe dann einen Krötenzaun aufgebaut, um zu sehen, wie die Erdkröten wandern, wann sie wandern
+[00:05:08-3 @manfredniekisch] und ob so ein Zaun überhaupt etwas bringt.
+[00:05:11-2 @manfredniekisch] Das war einer der ersten Krötenzäune.
+[00:05:12-9 @timpritlove] Also ein Krötenzaun, um die Kröten jetzt vor der Straße zu schützen?
+[00:05:16-1 @manfredniekisch] Die Kröten davon abzuhalten, dass sie über eine vielbefahrene Straße laufen nachts,
+[00:05:21-6 @manfredniekisch] die ihren Lebensraum zerschneidet.
+[00:05:23-8 @manfredniekisch] Die Kröten waren zuerst da, später kam die Straße.
+[00:05:26-9 @manfredniekisch] Und heute ist das ja Gang und Gäbe, dass man das macht, um diesen Massentod der Kröten auf der Straße zu vermeiden.
+[00:05:34-1 @manfredniekisch] Das spielte sich ab im Februar/März nachts bei Regen 6-10 Grad, das war nicht immer lustig.
+[00:05:42-5 @manfredniekisch] Lustig war nur, wenn ich dann nachts die Kröten fotografiert habe mit meinem Blitzlicht,
+[00:05:47-7 @manfredniekisch] dann sind die Autos auf der Straße immer auf die Bremse gestiegen, fragen Sie mich nicht warum,
+[00:05:51-7 @manfredniekisch] die haben halt gedacht, sie sind gerade geblitzt worden, ich habe das aber für die Kröten gemacht, nicht für die Autos.
+[00:05:56-9 @manfredniekisch] Naja, wie auch immer.
+[00:06:00-3 @manfredniekisch] Dann habe ich mir gesagt, jetzt wäre es eigentlich schön, für die Doktorarbeit mal über eine Art zu arbeiten,
+[00:06:08-6 @manfredniekisch] die tagaktiv ist und bei Sonne vor allem, bei schönem Wetter, da bin ich auf die Gelbbauchunke gekommen.
+[00:06:13-4 @timpritlove] Damit Sie auch selber mal wieder ein bisschen Sonne sehen?
+[00:06:15-8 @manfredniekisch] Genau das und auch weil die Nachbarn sich schon immer gewundert haben,
+[00:06:20-3 @manfredniekisch] dass ich immer im zeitigen Frühjahr nachts mit der Taschenlampe bei Regen losgelaufen bin.
+[00:06:25-9 @manfredniekisch] Das war also der Dorfbevölkerung nicht so ganz klar, was ich da eigentlich mache, bis ich es ihnen dann erzählt habe.
+[00:06:31-9 @timpritlove] Das sind immer die interessantesten Berufe, wo die Leute sich wundern, was man da eigentlich macht.
+[00:06:36-1 @manfredniekisch] Richtig. Und auch die Kommentare, die man dann hört.
+[00:06:40-1 @manfredniekisch] Also ich kann mich erinnern, ich war dann nachts in einer Sandgrube und das war zu den Zeiten des Terrorismus,
+[00:06:46-3 @manfredniekisch] wo also jeder Angst hatte, Ende der 60er/Mitte der 70er Jahre und bin dann mit meiner Taschenlampe rumgelaufen
+[00:06:54-7 @manfredniekisch] und plötzlich stand eine Polizeistreife vor mir und sagte, was machen Sie da?
+[00:07:01-1 @manfredniekisch] Ich hatte natürlich die Genehmigung des Grubenbetreibers, da drin zu sein.
+[00:07:04-3 @manfredniekisch] Und ich habe denen das erklärt und die haben es mir erst nicht geglaubt
+[00:07:08-4 @manfredniekisch] und dann kam aber eine Polizistin, die wohl gedacht hat, sie müsste ihre Kollegen erst mal sichern,
+[00:07:12-8 @manfredniekisch] aus dem Hinterhalt gesprungen und sagte, wo wo sind die Kröten?
+[00:07:16-5 @manfredniekisch] Ich habe nämlich zu Hause auch einen Molch.
+[00:07:18-4 @manfredniekisch] Gut, und das war der Beginn einer langen Freundschaft.
+[00:07:22-4 @timpritlove] Mit der Polizistin?
+[00:07:24-0 @manfredniekisch] Die sind dann mit mir durch die Gegend gezogen in dieser Sandgrube an dem Abend.
+[00:07:28-1 @timpritlove] Also keine Terroristen mehr gesucht, sondern Kröten.
+[00:07:31-1 @manfredniekisch] Nein das Thema war vorbei.
+[00:07:32-2 @manfredniekisch] Also es hat mir sehr sehr viel Spaß gemacht, ich habe viel Feldarbeit gemacht.
+[00:07:36-0 @manfredniekisch] Und bin dann über einen Auftrag des Bundesamtes für Ernährung und Forstwirtschaft, das gab es damals noch in dieser Form,
+[00:07:45-6 @manfredniekisch] gebeten worden, ein Erkennungshandbuch für das Washingtoner Artenschutzübereinkommen zu überarbeiten.
+[00:07:52-2 @manfredniekisch] Das heißt, ein Handbuch, damit Zöllner am Frankfurter Flughafen oder sonst irgendwo in Deutschland Tiere,
+[00:07:59-1 @manfredniekisch] die an der Grenze nach Deutschland reingebracht werden sollten, identifizieren können
+[00:08:03-6 @manfredniekisch] und diese Identifikation dient dann dazu zu sagen, okay das Tier darf importiert werden oder es darf nicht importiert werden.
+[00:08:11-7 @manfredniekisch] So bin ich also ans Bundesamt gekommen und dann hat der WWF Deutschland,
+[00:08:16-3 @manfredniekisch] der World Wildlife Fund, wie er damals hieß, eine Stelle eingerichtet,
+[00:08:20-8 @manfredniekisch] wo es speziell um die Beobachtung des Handels mit wildlebenden Tieren und Pflanzen geht.
+[00:08:25-7 @manfredniekisch] Und die habe ich aufgrund dieser Vorarbeiten und meiner ganzen Kontakte und meines Engagements bekommen.
+[00:08:31-3 @manfredniekisch] Das war also mein beruflicher Einstieg in den Naturschutz.
+[00:08:35-5 @manfredniekisch] Ehrenamtlich war ich schon vorher im Naturschutz aktiv, allerdings eben nur im heimischen Bereich.
+[00:08:41-3 @manfredniekisch] Das war eine wahnsinnig spannende Zeit und wir haben ein internationales Netzwerk aufgebaut, das es heute noch gibt.
+[00:08:47-8 @manfredniekisch] Das heißt Traffic Trade Records Analysis of Fauna and Flora in Commerce.
+[00:08:54-1 @manfredniekisch] Also die Beobachtung von Fauna und Flora im Handel, um zu sehen, welche Formen des Handels gefährden denn Tier- und Pflanzenarten?
+[00:09:03-2 @manfredniekisch] Welche Tier- und Pflanzenarten tauchen im Handle auf?
+[00:09:06-5 @manfredniekisch] Bei welchen ist es unproblematisch und vor allem, wie kann diesen illegalen Handel stoppen?
+[00:09:12-1 @manfredniekisch] Da gab es dann auch eine große internationale Konvention dazu, das Washingtoner Artenschutzübereinkommen.
+[00:09:18-1 @manfredniekisch] Und da habe ich mich nicht nur engagiert, sondern war auch bei vielen dieser Konferenzen.
+[00:09:23-5 @manfredniekisch] Zumal in der Anfangszeit Mitglied der deutschen Regierungsdelegation.
+[00:09:29-1 @manfredniekisch] Das war also wirklich eine spannende Zeit, aber ich irgendwie gemerkt, mein Bild von den bösen Wilderern,
+[00:09:37-5 @manfredniekisch] die die armen Tiere fangen und dann hier auf den Markt bringen, das bekommt doch immer mehr Risse.
+[00:09:44-0 @manfredniekisch] Denn ich war dann unter anderem in Indonesien unterwegs, um zu sehen, wo eigentlich diese ganzen illegalen Kakadus herkommen.
+[00:09:51-6 @manfredniekisch] Und musste dort feststellen, die Leute, die die fangen, sind nicht böse Wilderer, sondern arme Bauern,
+[00:09:59-3 @manfredniekisch] die gar keine andere Chance hatten, als sich ein bisschen Geld mit Tierhandel zu verdienen.
+[00:10:04-8 @manfredniekisch] weil sie nämlich vom Militär aus ihrem Dorf vertrieben worden waren, dort sollte nämlich ein Golfplatz für das Militär gebaut werden.
+[00:10:11-9 @manfredniekisch] Und dann habe ich gesagt, nein dieser Ansatz, nur hinter Tierfängern und Schmugglern herzulaufen, der ist zwar wichtig,
+[00:10:18-5 @manfredniekisch] aber das reicht mir nicht, zumal nicht am Anfang meiner beruflichen Tätigkeit.
+[00:10:23-1 @manfredniekisch] Und ich habe dann angefangen, mich um die Projekte der lokalen Bevölkerung zu kümmern,
+[00:10:28-4 @manfredniekisch] und habe als allererstes mal angefangen, bei WWF damals ein Tropenwaldprogramm aufzubauen.
+[00:10:35-0 @manfredniekisch] Also ein Programm zum Schutz der tropischen Wälder.
+[00:10:40-3 @manfredniekisch] Da ging es nicht nur darum, den Wald zu erhalten, sondern sich auch Gedanken zu machen, warum gehen die Wälder kaputt
+[00:10:46-0 @manfredniekisch] und wie kann man die lokale Bevölkerung unterstützen, dass sie ihre Wälder selber schützt.
+[00:10:52-2 @manfredniekisch] Denn ich hatte allzu oft gemerkt, die lokale Bevölkerung weiß schon, was sie am Wert ihres Waldes hat,
+[00:10:59-9 @manfredniekisch] aber sie hat keine Möglichkeiten, ihn zu erhalten.
+[00:11:02-7 @manfredniekisch] Einfach weil der momentane Druck zu groß ist.
+[00:11:05-9 @manfredniekisch] Armut erlaubt keine langfristige Planung und Armut erlaubt auch keine langfristig sinnvolle Ressourcennutzung,
+[00:11:13-9 @manfredniekisch] sondern da geht es darum, schnell zu nehmen, was man kriegen kann.
+[00:11:18-2 @manfredniekisch] Und das hat mich sehr fasziniert.
+[00:11:20-5 @manfredniekisch] Dann hatte ich aber auf einmal mehr zu tun mit ländlicher Bevölkerung als mit Tieren
+[00:11:26-0 @manfredniekisch] und fand das auch noch wichtiger, als mich jetzt um Tiere zu kümmern.
+[00:11:31-2 @manfredniekisch] Das mündete dann dahin, dass ich von einer Gruppe von Freunden in München gefragt wurde,
+[00:11:38-9 @manfredniekisch] ob ich nicht Lust hätte, eine Tropenwaldorganisation aufzubauen und wie ich das machen würde.
+[00:11:44-6 @manfredniekisch] Und das war für mich eine große Chance.
+[00:11:46-7 @manfredniekisch] Weil ich nämlich gesehen hatte, dass der WWF als große weiße westlich bestimmte Organisation,
+[00:11:54-1 @manfredniekisch] mit einer bestimmten Philosophie und Strategie, einiges tun kann,
+[00:11:58-2 @manfredniekisch] aber was mich viel mehr interessierte war, Projekte zu finden, die die lokale Bevölkerung selber durchführt vor Ort,
+[00:12:07-8 @manfredniekisch] unterstützt mit einem kleinen Brückenkopf, der Geld sammelt, in Deutschland.
+[00:12:12-2 @manfredniekisch] Das war mein Konzept und wir haben die Tropenwaldstiftung OroVerde gegründet,
+[00:12:16-6 @manfredniekisch] die gibt es bis heute noch, die ist stark gewachsen und verfolgt immer noch dieses Konzept,
+[00:12:23-6 @manfredniekisch] hier mit einem kleinen Brückenkopf Projekte der einheimischen Bevölkerung vor Ort zu unterstützen.
+[00:12:29-6 @timpritlove] Grünes Gold.
+[00:12:31-1 @manfredniekisch] Grünes Gold, das war der Name und der kam auch ganz gut an.
+[00:12:36-8 @manfredniekisch] Allerdings wurden wir manchmal ein bisschen überschätzt, wenn ich in Lateinamerika unterwegs war,
+[00:12:41-3 @manfredniekisch] dort ist OroVerde nämlich eine große hochwertige Hotelkette und die dachten, wir hängen da mit drin.
+[00:12:48-3 @manfredniekisch] Das war aber nicht so.
+[00:12:51-8 @timpritlove] Ja. Das heißt, eigentlich von Anfang an war Ihr biologisches ausgerichtete Interesse auch immer sehr schnell dann in so einem aktivistischen Feld unterwegs.
+[00:13:06-2 @timpritlove] Dass man gesehen hat, da ist was aus dem Lot geraten und wir müssen Maßnahmen ergreifen, um das zu korrigieren?
+[00:13:15-8 @manfredniekisch] Es war, ich weiß nicht, ob man das Aktivismus nennen sollte, aber es war auf jeden Fall im sehr angewandten aktiven Bereich.
+[00:13:22-9 @manfredniekisch] Aktivismus hat immer so den Beigeschmack von wenig Planung, aber das kann man sich im Naturschutz nicht leisten.
+[00:13:29-8 @manfredniekisch] Wir müssen sehr gut planen, und zwar nicht nur, damit die Projekte erfolgreich sind, sondern weil wir auch unseren Spendern verantwortlich sind,
+[00:13:37-5 @manfredniekisch] was mit deren Geld passiert.
+[00:13:39-8 @manfredniekisch] Und das war auch schon eine teilweise harte Zeit, Geld zu sammeln.
+[00:13:43-7 @manfredniekisch] Denn wir haben bei dieser Stiftung OroVerde am Anfang keine große Finanzausstattung gehabt.
+[00:13:49-6 @manfredniekisch] Das war eigentlich ein Sprung ins kalte Wasser.
+[00:13:52-1 @manfredniekisch] Und wir hatten einen sehr aktiven Vorstandsvorsitzenden, der gesagt hat, okay ich gebe euch für ein halbes Jahr Geld,
+[00:14:00-1 @manfredniekisch] damit ihr arbeiten könnt und ich zahle ein halbes Jahr eure Gehälter, aber dann müsst ihr schauen, wie ihr auf die Beine kommt.
+[00:14:06-6 @manfredniekisch] Und der hat sich dann sehr aktiv eingebracht.
+[00:14:09-0 @manfredniekisch] Immer wieder Freunde zu sich nach Hause eingeladen, Werbung gemacht, Geld gesammelt.
+[00:14:13-2 @manfredniekisch] Heute läuft das sehr viel besser und nicht mehr so ganz von der Hand in den Mund,
+[00:14:18-5 @manfredniekisch] weil wir bei OroVerde, ich bin da jetzt Ehrenvorsitzender, Ehrenpräsident, aber nicht mehr im aktiven Geschäft.
+[00:14:24-5 @manfredniekisch] Über die EU und andere Stellen, über die Bundesministerien Projekte gefördert kriegen,
+[00:14:31-6 @manfredniekisch] die die Existenz von OroVerde längerfristig absichern.
+[00:14:35-7 @timpritlove] War das dann schon die letzte Station, bevor es hier zum Zoo ging?
+[00:14:41-7 @manfredniekisch] Das war noch nicht die letzte Station, ganz im Gegenteil, es waren sehr intensive zehn Jahre, die ich das bei OroVerde gemacht habe.
+[00:14:49-3 @timpritlove] Wo befinden wir uns denn jetzt in der Zeitachse ungefähr?
+[00:14:51-6 @manfredniekisch] Wir befinden uns jetzt in der Zeitachse 98-2008.
+[00:14:59-1 @manfredniekisch] In dieser Zeit war ich nicht nur sehr viel unterwegs, sondern man hat auch dann gemerkt,
+[00:15:04-9 @manfredniekisch] dass ich diese Verbindung von Naturschutz und Entwicklungspolitik verfolge.
+[00:15:10-2 @manfredniekisch] Und ich habe da eine ganze Reihe von Gutachten gemacht für die deutsche Entwicklungshilfe, speziell für die Gesellschaft für technische Zusammenarbeit.
+[00:15:18-9 @manfredniekisch] Und die bezogen sich nicht nur auf unsere eigenen Projekte, sondern ich habe dann eben auch Aufgaben gekriegt,
+[00:15:25-6 @manfredniekisch] wie beispielsweise festzustellen international die Rolle von Naturschutzorganisationen im Naturschutz in verschiedenen Ländern.
+[00:15:34-0 @manfredniekisch] Ansatzpunkte für die deutsche Entwicklungszusammenarbeit.
+[00:15:37-6 @manfredniekisch] Ich habe eine ganze Reihe von Gutachten gemacht in Vietnam und habe auch in Vietnam durch Verbindungen,
+[00:15:43-8 @manfredniekisch] die ich dorthin bekommen hatte, über zehn Jahre immer mit drei- bis vierwöchigen Aufenthalten und Lehrauftrag an der Universität Hanoi gekriegt.
+[00:15:52-6 @manfredniekisch] Und dann wollte die deutsche Entwicklungshilfe auch in Vietnam aktiv werden und hat mich gebeten, da ein bisschen mit zu stützen,
+[00:16:01-1 @manfredniekisch] was ich sehr sehr gern getan habe.
+[00:16:04-6 @manfredniekisch] Und gleichzeitig wurde eben immer deutlicher, Naturschutz müsste eine Aufgabe der Entwicklungszusammenarbeit werden.
+[00:16:12-8 @manfredniekisch] Also was haben wir getan?
+[00:16:14-5 @manfredniekisch] Ich habe den Auftrag bekommen von der Gesellschaft für technische Zusammenarbeit, ein Heftchen zu schreiben
+[00:16:19-9 @manfredniekisch] über Naturschutz als Aufgabe der Entwicklungszusammenarbeit.
+[00:16:23-9 @manfredniekisch] Da hieß es dann in weiten Kreisen der GTZ damals, mein Gott, sollen wir das jetzt auch noch machen?
+[00:16:32-1 @manfredniekisch] Aber heute ist das, wie es so schön auf deutsch heißt, Mainstream.
+[00:16:36-0 @manfredniekisch] Der Schutz der Natur, der Schutz der Biodiversität.
+[00:16:39-7 @manfredniekisch] All diese Aktivitäten haben also eine Reihe von Papieren ergeben.
+[00:16:44-5 @manfredniekisch] Und dann wurde in Greifswald eine Professur für internationalen Naturschutz ausgeschrieben,
+[00:16:51-4 @manfredniekisch] die erste und einzige in Deutschland, die der Stifterverband fünf Jahre finanziert hat,
+[00:16:58-2 @manfredniekisch] allerdings nur mit der Zusage, dass es danach eine Stelle wird, die von der Universität voll weitergeführt wird mit bestimmten Bedingungen.
+[00:17:08-2 @manfredniekisch] Darauf hat sich die Universität Greifswald damals eingelassen und ich habe dann den Ruf auf diese Stelle gekriegt,
+[00:17:13-9 @manfredniekisch] was mich sehr gefreut hat.
+[00:17:17-1 @manfredniekisch] Und ich hatte jetzt auf einmal eine ganz spannende Chance.
+[00:17:19-4 @manfredniekisch] Ich konnte nämlich das, was ich vorher beim WWF und vor allem bei OroVerde an Projektarbeit gemacht habe,
+[00:17:26-5 @manfredniekisch] wissenschaftlich aufbereiten.
+[00:17:28-7 @manfredniekisch] Das heißt, ich konnte zurückblicken, Studenten in die Projekte schicken und sagen, guck doch mal, wie sich das entwickelt hat,
+[00:17:34-8 @manfredniekisch] machen wir mal eine Auswertung, beispielsweise zur Rolle der Nutzgärten in Vietnam zur Nachhaltigkeit eines Fischersystems im Mekong-Delta,
+[00:17:45-8 @manfredniekisch] in dem ich vorher auch einige Gutachten gemacht hatte und und und.
+[00:17:49-6 @manfredniekisch] Das war sehr sehr spannend.
+[00:17:51-1 @timpritlove] Das hat wahrscheinlich auch nicht so jede Organisation, diesen Bonus, so eine nachgestellte wissenschaftliche Auswertung zu machen von den Projekten?
+[00:17:59-8 @manfredniekisch] Für mich persönlich war das ein riesiges Glück, denn solche Projekte, wenn die offiziell gemacht werden,
+[00:18:08-0 @manfredniekisch] haben eben eine ganz intensive Umsetzungsphase, aber leider keine intensive Nachbereitungsphase,
+[00:18:14-4 @manfredniekisch] wo dann auch mal offen geguckt wird, ist das denn ein Erfolg oder ist da irgendwas völlig schief gelaufen?
+[00:18:20-5 @manfredniekisch] Es gibt natürlich Projektevaluierungen, aber wir sind schon sehr kritisch und wissenschaftlich dran gegangen,
+[00:18:25-6 @manfredniekisch] auch mit der Zielsetzung, dann zu sehen, wie können wir dieses Projekt weiterführen oder ist es gar nicht sinnvoll, das weiterzuführen?
+[00:18:33-2 @manfredniekisch] Insbesondere in Vietnam hat sich da unheimlich viel machen lassen, denn damals gab es praktisch noch keine ausländischen Hilfsorganisationen in Vietnam.
+[00:18:43-1 @manfredniekisch] Die Amerikaner durften noch nicht, da gab es diesen no trade with the enemy act, der immer noch galt.
+[00:18:49-8 @manfredniekisch] Und durch meine freundschaftlichen Beziehungen zu einem sehr charismatischen lieben Professor an der Universität Hanoi
+[00:18:57-7 @manfredniekisch] hatte ich eben die Chance, da ganz tief einzutauchen und habe hervorragende Kontakte bekommen,
+[00:19:04-6 @manfredniekisch] mit denen ich dann diese Projekte geplant habe.
+[00:19:06-6 @timpritlove] Wie war denn so die Quote bei den Auswertungen?
+[00:19:08-9 @timpritlove] Was hat man denn festgestellt?
+[00:19:11-3 @manfredniekisch] Die Quote bei den Auswertungen war im Prinzip gut, und eine ganze Reihe von Projekten laufen auch heute noch.
+[00:19:18-7 @manfredniekisch] Aber manche Projekte sind eben einfach abgeschlossen.
+[00:19:21-4 @manfredniekisch] Wir haben zum Beispiel in Kuba dazu beigeholfen, einen Nationalpark einzurichten.
+[00:19:28-7 @manfredniekisch] Und das war wahnsinnig spannend.
+[00:19:30-4 @manfredniekisch] Wir sind mit den Zirkeln ganz nahe an Fidel Castro zusammengekommen, denn ohne den lief natürlich damals nichts.
+[00:19:38-3 @manfredniekisch] Ihn selber haben wir aber nicht zu Gesicht bekommen.
+[00:19:41-4 @manfredniekisch] Und mich hat damals immer gereizt, in Länder zu gehen, wo noch nichts oder ganz wenig läuft.
+[00:19:46-8 @manfredniekisch] Wir haben damals von der deutschen Vertretung in Kuba inoffiziell Unterstützung gekriegt,
+[00:19:52-2 @manfredniekisch] offiziell durften die das damals noch nicht, aber diese inoffizielle Unterstützung, die war schon sehr sehr gut.
+[00:19:58-8 @manfredniekisch] Und über unsere Kontakte zur Nationalparkverwaltung und so weiter konnten wir dann wirklich ein schönes Projekt auf die Beine stellen,
+[00:20:05-7 @manfredniekisch] nur als der Nationalpark dann stand, so was dauert ja auch ein paar Jahre, da ist dann die Kooperation zu Ende gewesen,
+[00:20:13-3 @manfredniekisch] und von den Leuten, die das damals mit angeschoben haben, ist heute keiner mehr im Amt, einfach aus Altersgründen.
+[00:20:19-6 @manfredniekisch] Und ich habe gerade bei einem privaten Besuch in Kuba meine alten Kollegen von der Universität wieder besucht
+[00:20:26-3 @manfredniekisch] und die sagten, Mensch Manfred, das war damals ja eine ganz tolle Zeit, aber es erinnert sich so in der Verwaltung heute gar keiner mehr dran, 
+[00:20:34-8 @manfredniekisch] wer eigentlich am Anfang dieses Projektes stand.
+[00:20:39-8 @manfredniekisch] Ich habe gleich in den ersten Jahren in Kuba eine große Ehrung erfahren, die mich trotzdem mit einem Fragezeichen zurückgelassen hat.
+[00:20:48-8 @manfredniekisch] Wir haben nämlich bei den ersten Besuchen in dem Nationalpark, in den keine Straße reinführte,
+[00:20:54-9 @manfredniekisch] von dem dortigen ehemaligen kommandierenden General, Kommandant de Pancho,
+[00:21:00-3 @manfredniekisch] der hat uns seine Fahrzeuge zur Verfügung gestellt und ich durfte einen alten russischen Jeep fahren,
+[00:21:05-5 @manfredniekisch] mit dem ich dann das erst Mal da hoch gefahren bin, da gab es noch keine Straße da rein.
+[00:21:10-5 @manfredniekisch] Die Bevölkerung hatte eigentlich in diesem Nationalpark nie Fremde gesehen, denn es gab dort keine Touristen.
+[00:21:17-7 @timpritlove] War das im Westen oder im Osten?
+[00:21:18-8 @manfredniekisch] Das war ganz im Osten, im extremen Osten Kubas.
+[00:21:21-9 @timpritlove] Baracoa
+[00:21:23-3 @manfredniekisch] Baracoa genau.
+[00:21:24-1 @manfredniekisch] Da sind wir also reingefahren, und durch ein ausgetrocknetes Bachbett, das war schon ziemlich gut,
+[00:21:29-7 @manfredniekisch] aber ich war es ja gewohnt, im Gelände zu fahren.
+[00:21:32-3 @manfredniekisch] Und da oben bin ich dann in einer Pfütze fast steckengeblieben, also in so einem kleinen Tümpel
+[00:21:37-4 @manfredniekisch] und da hat man rundherum die Vegetation ein bisschen weggehauen oder wir haben dann gezogen und gezerrt,
+[00:21:42-4 @manfredniekisch] den Jeep auch wieder freibekommen, denn diese russischen Jeeps sind unverwüstlich, 
+[00:21:46-4 @manfredniekisch] kommt man auch überall durch.
+[00:21:48-4 @manfredniekisch] Und dann sind wir also da rein.
+[00:21:50-4 @manfredniekisch] Bei meinem nächsten Besuch in Kuba hatte man Karten gezeichnet von diesem Nationalpark und der von uns gemachten Zufahrt
+[00:21:57-8 @manfredniekisch] und da gab es dann einen Punkt, den hatten die genannt, nämlich diesen Tümpel, der Tümpel vom Manfred.
+[00:22:05-6 @manfredniekisch] El Charco de Manfred.
+[00:22:07-6 @manfredniekisch] Ich habe gesagt, hättet ihr nicht wenigstens den höchsten Berg nehmen können oder einen besonders schönen See oder was?
+[00:22:14-6 @manfredniekisch] Gut, die Pfütze vom Manfred heißt bis heute noch so und es macht Spaß, das war schon schön.
+[00:22:20-2 @timpritlove] Da sind wir immerhin wieder bei den Kröten.
+[00:22:22-4 @manfredniekisch] Und da sind wir wieder bei den Kröten, meine Affinität zu den Reptilien und Amphibien habe ich nie verloren,
+[00:22:27-7 @manfredniekisch] Die ist gewachsen und ich beschäftige mich da immer noch sehr stark damit.
+[00:22:32-1 @manfredniekisch] Allerdings heute, auch aus Zeitgründen, weniger mit den Tieren selber als vielmehr mit der Geschichte ihrer Erforschung.
+[00:22:40-6 @manfredniekisch] Und mit bibliophilen Themen, mit Biografien und und und.
+[00:22:47-3 @manfredniekisch] Also eine Beschäftigung, die mehr am Schreibtisch und in der Bibliothek stattfindet, als mit den Tieren im Gelände.
+[00:22:54-3 @manfredniekisch] Dazu hat mir in den letzten Jahren die Zeit gefleht, aber das kommt jetzt, wo ich pensioniert bin,
+[00:22:59-2 @manfredniekisch] mit Sicherheit wieder, dass ich mich mal einfach eine Stunde an einen Tümpel setze und gucke,
+[00:23:03-8 @manfredniekisch] was da so passiert.
+[00:23:05-4 @timpritlove] In Frankfurt gab es dann aber auch nochmal eine Aktivität an der Universität?
+[00:23:10-9 @manfredniekisch] Als ich dann aufgrund meiner ganzen Gutachten und Arbeiten, die mir als eine die Leistung der Habilitation bei weitem übersteigende Leistung anerkannt worden ist,
+[00:23:22-0 @manfredniekisch] damit hatte ich die Voraussetzungen, eine Professur zu kriegen.
+[00:23:26-1 @manfredniekisch] Da sind wir jetzt also wieder in Greifswald.
+[00:23:28-8 @manfredniekisch] Das hat dazu geführt, dass ich eben in Greifswald eine gute Plattform hatte, auch mit den Arbeiten meiner Studenten.
+[00:23:35-4 @manfredniekisch] Und ich wusste ja, wo Leute gefragt sind, die nicht die ganz großen Spezialisten in einer bestimmten Tier- oder Pflanzengruppen sind,
+[00:23:45-2 @manfredniekisch] sondern die Landschaft bewerten können.
+[00:23:47-6 @manfredniekisch] Das heißt, die ins Gelände gehen und sagen, was ist hier das Problem?
+[00:23:51-4 @manfredniekisch] Aha, wie können wir eine Lösung basteln?
+[00:23:53-5 @manfredniekisch] Solche Leute waren und sind immer noch sehr gesucht, und ich konnte dann meine Studenten eigentlich von Anfang an in Stellen vermitteln,
+[00:24:02-0 @manfredniekisch] etwa bei der internationalen Naturschutzunion, etwa beim Bundesamt für Naturschutz oder auch bei der Gesellschaft für technische Zusammenarbeit,
+[00:24:11-8 @manfredniekisch] für die ich damals diese Gutachten gemacht hatte.
+[00:24:15-1 @manfredniekisch] Also hatte ich sehr schnell ein gutes und schönes Netzwerk, das bis heute übrigens trägt.
+[00:24:21-0 @manfredniekisch] Und diese zehn Jahre an der Uni waren ganz toll, bis die Stadt Frankfurt kam mit der Idee, den Frankfurter Zoo wieder zu einem Naturschutzzoo zu machen.
+[00:24:35-2 @manfredniekisch] Das heißt also, zu einem Zoo zu machen, in dem nicht nur Tiere gezeigt werden, sondern der, wie Grzimek das angefangen hatte,
+[00:24:43-0 @manfredniekisch] sich intensiv um Naturschutz kümmert innerhalb und außerhalb der Zoomauern.
+[00:24:49-1 @manfredniekisch] Und diese Stelle habe ich zu meiner großen Überraschung und Freude bekommen,
+[00:24:53-6 @manfredniekisch] denn ich hatte mal, als ich fünf oder sechs war und eine Tante mich gefragt hat, was ich denn werden wollte,
+[00:24:59-4 @manfredniekisch] habe ich gesagt, Bernhard Grzimek.
+[00:25:02-3 @manfredniekisch] Und auf einmal war ich es fast, also einer der Nachfolger von Bernhard Grzimek, eine spannende Zeit.
+[00:25:10-0 @timpritlove] Bernhard Grzimek für die älteren unter uns sicherlich ein Name, den man kaum erklären muss.
+[00:25:16-7 @timpritlove] Vielleicht bei den Jüngeren nicht mehr ganz so bekannt, war ja eigentlich eine fast schon ikonische Figur des kann man sagen Tier- und Naturschutzes,
+[00:25:28-8 @timpritlove] weil er ja auch im Fernsehen aufgetreten ist mit seinen unnachahmlichen Auftritten mit Tieren vor der Kamera,
+[00:25:36-2 @timpritlove] mit seiner sanften Art und war damals einfach bekannt im ganzen Land.
+[00:25:42-2 @timpritlove] Und ja war dann quasi auch hier Ihr Vorgänger.
+[00:25:47-3 @manfredniekisch] War hier mein Vorgänger und er war vor allem mein Vorbild.
+[00:25:49-3 @manfredniekisch] Wir hatten lange keinen eigenen Fernseher, den haben wir erst zu Hause bei meinen Eltern 1968 bekommen
+[00:25:56-6 @manfredniekisch] und ich durfte dann als Kind immer abends zum Gemüsehändler gehen, der hatte in seinem Wohnzimmer eine Fernseher,
+[00:26:02-1 @manfredniekisch] und durfte da Bernhard Grzimek sehen, das war das erste, was ich abends im Fernsehen gucken durfte.
+[00:26:07-1 @manfredniekisch] War herrlich, und ich war dann auch mal als 13-Jähriger mit meinem Vater in Frankfurt.
+[00:26:12-6 @manfredniekisch] Der war hier zu einer Tagung, hat mich abgesetzt, ich bin in den Zoo und da stand Bernhard Grzimek, es war unglaublich.
+[00:26:20-5 @manfredniekisch] Blauer Mantel, weißer Schal, eine beeindruckende Person, ich war hin und weg.
+[00:26:26-4 @manfredniekisch] Er hat mich natürlich überhaupt nicht wahrgenommen.
+[00:26:29-6 @manfredniekisch] Das war mein erstes Zusammentreffen mit Grzimek.
+[00:26:31-9 @manfredniekisch] Und dann hatte ich in der Zeit beim WWF, also in der beruflichen Anfangszeit im Naturschutz, eine Kampagne gestartet,
+[00:26:40-5 @manfredniekisch] unter dem Motto, lasst den Fröschen ihre Schenkel.
+[00:26:44-4 @manfredniekisch] Da ging es drum, den Froschschenkelhandel einzudämmen oder zu verbieten.
+[00:26:50-4 @manfredniekisch] Ich habe erst mal mit Köchen gesprochen, wie damals bekannten Sterneköche und habe gesagt,
+[00:26:57-6 @manfredniekisch] wisst ihr eigentlich, was das für eine Sauerei ist?
+[00:27:00-9 @manfredniekisch] Nicht nur, was die Tierquälerei angeht, sondern auch, wie die Froschschenkel behandelt werden,
+[00:27:06-4 @manfredniekisch] damit die überhaupt chemisch einigermaßen in Ordnung sind, denn die kommen aus Bangladesch,
+[00:27:10-3 @manfredniekisch] werden mit versautem Eis, mit kontaminiertem Eis transportiert und so, das ist also alles nicht …
+[00:27:17-2 @manfredniekisch] die werden in Chlorlauge getunkt, um überhaupt chemisch rein zu sein.
+[00:27:22-1 @manfredniekisch] Und da haben einige Chefköche gesagt, nein wussten wir nicht, und haben das aus dem Programm genommen.
+[00:27:26-0 @manfredniekisch] Es gab dann auf meine Initiative hin, hat das indische Fischereiministerium eine große Konferenz gemacht in Kalkutta,
+[00:27:36-4 @manfredniekisch] The Trade In Froglegs Via Enviromental Considerations.
+[00:27:42-6 @manfredniekisch] War also auch eine Sache, die viel Aufmerksamkeit erregt hat und ich saß in meinem Büro beim WWF 
+[00:27:48-4 @manfredniekisch] und habe mich über den Erfolg der Kampagne doch gefreut, ich war überrascht, weil ich nicht gedacht habe, dass das so viel Unterstützung gibt,
+[00:27:54-8 @manfredniekisch] gerade aus Indien und gerade von den Reisbauern, die wäre nämlich sauer, weil ihnen die Froschfänger die ganzen Felder zertrampeln.
+[00:28:03-1 @manfredniekisch] Und in Bangladesch, wir haben dann einen Film darüber gedreht, in Bangladesch hat uns der Chef der Kinderklinik gesagt,
+[00:28:10-4 @manfredniekisch] dass durch das Wegfangen der Frösche so viele Pestizide eingesetzt werden, dass es bei den Kindern in den Dörfern größte gesundheitliche Probleme gibt,
+[00:28:21-4 @manfredniekisch] denn da ist DDT und alles mögliche eingesetzt worden, um die Plagen zu bekämpfen, 
+[00:28:26-8 @manfredniekisch] also alle möglichen Schädlinge, von Ratten und Insekten angefangen, die sonst von den Fröschen kurzgehalten werden.
+[00:28:35-2 @manfredniekisch] Da gibt es also auch soziale und ökologische Argumente gegen diesen Froschschenkelhandel.
+[00:28:41-5 @manfredniekisch] Das haben wir alles publiziert und eines Tages schellt das Telefon und Bernhard Grzimek ist dran selber mit seiner näselnden Stimme und sagt,
+[00:28:50-0 @manfredniekisch] junger Mann, was Sie da machen finde ich gut, da mache ich mit, kommen Sie mal rüber.
+[00:28:54-5 @manfredniekisch] Und das war für mich natürlich jetzt der Ritterschlag, dass der große, als Zoodirektor längst pensionierte Bernhard Grzimek mit mir noch zusammenarbeiten wollte
+[00:29:05-9 @manfredniekisch] und wir haben dann einiges zusammen gemacht.
+[00:29:08-3 @manfredniekisch] Das war sehr sehr interessant.
+[00:29:09-5 @manfredniekisch] Und das hat mir später, ohne dass ich das damals auch nur ahnen konnte, sehr geholfen, als ich selber Zoodirektor war
+[00:29:16-3 @manfredniekisch] und jeder sagte, wie ist das denn damals, kannte Sie den Grzimek, wie hat er Sie beeinflusst und so weiter.
+[00:29:22-8 @manfredniekisch] Und ich konnte sagen, ja ich kenne den, ich habe mit dem zusammengearbeitet.
+[00:29:26-0 @manfredniekisch] Ein Journalist hat gesagt, sagen Sie warum haben Sie eigentlich nur zwei Jahre mit dem zusammengearbeitet?
+[00:29:30-8 @manfredniekisch] Da habe ich gesagt, ganz einfach, weil er danach gestorben ist, also da konnte ich nicht länger mit ihm zusammenarbeiten.
+[00:29:35-1 @manfredniekisch] Aber das war doch eine für mich unglaublich interessante Zeit und von der habe ich in meinen Startjahren als Zoodirektor sehr gezehrt und auch bis zum Schluss.
+[00:29:47-2 @manfredniekisch] Allein die Frage, wie ist das denn als Nachfolger vom Grzimek, sind das nicht sehr große Fußstapfen, die er hinterlassen hat?
+[00:29:54-4 @manfredniekisch] Und ich habe immer gesagt, der hat eine wunderbare Basis hinterlassen, auf der man aufbauen kann.
+[00:30:00-2 @manfredniekisch] Parallel zu diesem ganzen Hauptberuflichen hat sich dann entwickelt, dass ich eben beispielsweise Vizepräsident der zoologischen Gesellschaft Frankfurt wurde,
+[00:30:10-1 @manfredniekisch] die ja von Grzimek wiederbelebt worden war.
+[00:30:13-0 @manfredniekisch] Die ist 1915 pleite gegangen im ersten Weltkrieg und war gegründet worden, um den Frankfurter Zoo zu finanzieren 1885.
+[00:30:24-3 @manfredniekisch] Dann ist die zoologische Gesellschaft pleite gegangen, aber der Zoo war so ein Erfolg, dass ihn die Stadt Frankfurt übernommen hat
+[00:30:32-7 @manfredniekisch] und seitdem ist der Frankfurter Zoo ein städtischer Zoo.
+[00:30:37-3 @manfredniekisch] Grzimek kam dann und hat gesehen, als städtischer Beamter und Zoodirektor kann er nicht viel im Naturschutz machen,
+[00:30:43-3 @manfredniekisch] er brauchte ein privates Fundraising-Instrument und hat die zoologische Gesellschaft wiederentdeckt,
+[00:30:50-3 @manfredniekisch] reaktiviert, hat sich zu ihrem Präsidenten gemacht und hat dann, das ist vielen gar nicht bewusst,
+[00:30:56-4 @manfredniekisch] für die zoologische Gesellschaft in seinen Fernsehsendungen Geld gesammelt.
+[00:31:01-0 @manfredniekisch] Das war also überwiegend Geld, das gar nicht in den Zoo ging, sondern in den Aufbau der zoologischen Gesellschaft.
+[00:31:07-8 @manfredniekisch] Und wir zehren bei der zoologischen Gesellschaft heute noch von Bernhard Grzimek und seinem Engagement.
+[00:31:14-0 @manfredniekisch] Wir kriegen heute noch Erbschaften von Leuten, die sich auf Bernhard Grzimek beziehen, das ist ganz erstaunlich.
+[00:31:20-0 @manfredniekisch] Aber das sind eben nich die Jüngeren, die Sie gerade angesprochen haben.
+[00:31:23-7 @timpritlove] Ja die leben ja dann auch noch.
+[00:31:28-6 @timpritlove] Also wann sind Sie dann hier Direktor geworden beim Zoo?
+[00:31:34-4 @manfredniekisch] Ich bin 2008 hier Direktor geworden und habe das dann bis Ende 2017 gemacht, also volle zehn Jahre.
+[00:31:43-0 @timpritlove] Was ist das Erbe von Bernhard Grzimek?
+[00:31:48-4 @timpritlove] Was ist da von ihm aufgebaut worden?
+[00:31:51-0 @timpritlove] Weil er steht ja so ein bisschen als so Repräsentant und Identifikationsfigur oder eine zumindest …
+[00:31:59-3 @timpritlove] Also es gibt auch noch andere Namen, die man nennen kann, Heinz Sielmann hat glaube ich in der Zeit auch sehr viel beeinflusst.
+[00:32:05-2 @timpritlove] Sicherlich gibt es auch noch andere Personen, die vielleicht der Öffentlichkeit nicht ganz so bekannt sind,
+[00:32:10-3 @timpritlove] aber er steht so ein bisschen repräsentativ auch für so ein Wiederentdecken des Naturgedankens, so würde ich das mal interpretieren.
+[00:32:17-1 @manfredniekisch] Ja. Also Bernhard Grzimek war eine sehr komplexe Persönlichkeit, das muss man sagen.
+[00:32:22-3 @manfredniekisch] Er hatte auch einige schräge Seiten, beispielsweise seine Vorliebe für Scherzartikel, das ist ein eigenes Kapitel.
+[00:32:29-8 @manfredniekisch] Aber belieben wir mal bei seinen beruflichen Leistungen.
+[00:32:32-3 @manfredniekisch] Bernhard Grzimek hat als erster nicht nur die Zoos mit dem Naturschutz verknüpft, sondern auch dafür gesorgt,
+[00:32:40-0 @manfredniekisch] dass dieses Konkurrenzdenken unter deutschen Zoodirektoren aufhörte und die sich zusammengetan haben
+[00:32:47-3 @manfredniekisch] in einem Verband der Zoodirektoren.
+[00:32:50-2 @manfredniekisch] Bernhard Grzimek hat ganz neue Konzepte in den Zoo gebracht.
+[00:32:53-7 @manfredniekisch] Er kam ja nicht aus einem Zoo, sondern war einfach ein tierlieber Mensch, gelernter Veterinärmediziner.
+[00:33:00-0 @manfredniekisch] Und er kam also mit einem Blick auf den Zoo, den damals nicht jeder hatte.
+[00:33:04-9 @manfredniekisch] Er hat eine Zooschule eingerichtet, wo also Kinder ganz speziell unterrichtet wurden in Dingen, die mit Tieren zu tun hatten.
+[00:33:12-9 @manfredniekisch] Er hat moderne Konzepte eingeführt wie beispielsweise, das klingt jetzt sehr hochtrabend, the Frankfurt System.
+[00:33:20-8 @manfredniekisch] The Frankfurt System ist einfach eine Plastikklappe an einem Loch zwischen Innen- und Außengehege,
+[00:33:27-6 @manfredniekisch] so dass die Tiere selber entscheiden können, wann sie rein und raus wollen.
+[00:33:31-5 @manfredniekisch] Bernhard Grzimek habt in der Umweltbildung unheimlich viel getan, aber sich beispielsweise auch engagiert für die Schaffung des Nationalparks Bayrischer Wald,
+[00:33:40-8 @manfredniekisch] das weiß kaum jemand.
+[00:33:42-4 @manfredniekisch] Er ist im Fernsehen aufgetreten gegen die, wie er es nannte, KZ-Haltung der Hühner.
+[00:33:48-1 @manfredniekisch] Da ist er schwer angefeindet worden, weil man sagte, man kann die Hühnerhaltung nicht mit einem KZ vergleichen.
+[00:33:53-7 @manfredniekisch] Bernhard Grzimek hat diese Formulierung nie zurückgenommen, er hat sie aber auch nie wieder benutzt.
+[00:34:00-6 @manfredniekisch] Also er hat sich gegen Massentierhaltung eingesetzt, er hat sich gegen die Pelztier-Mafia – war es damals zum großen Teil noch -
+[00:34:08-7 @manfredniekisch] eingesetzt und auch das hat uns sehr verbunden, weil ich eben auch den illegalen Pelzhandel mitverfolgt habe.
+[00:34:17-6 @timpritlove] Jetzt kommen wir doch mal so ein bisschen auf die Problematik Artenschutz, Naturschutz, wie er sich heute darstellt.
+[00:34:29-7 @timpritlove] Ich meine, es ist offensichtlich, es wird eine Menge Schindluder getrieben mit der Natur weltweit.
+[00:34:36-3 @timpritlove] Und auch nicht erst seit ein paar Jahren.
+[00:34:40-6 @timpritlove] Klimawandel, Vermüllung der Meere, man könnte jetzt hier eine sehr lange Liste machen.
+[00:34:45-9 @timpritlove] All diese ganzen menschlichen Aktivitäten haben eine Dimension angenommen, wo halt auch in zunehmendem Maße von einem ausgeweiteten Artensterben berichtet wird.
+[00:34:57-1 @timpritlove] Was dann wiederum ganz andere Implikationen nach sich zieht.
+[00:35:01-1 @timpritlove] Was ist so Ihre Sicht der Dinge, wie die Menschheit dasteht, bzw. wie die Natur insgesamt dasteht?
+[00:35:13-8 @timpritlove] Unter dem Gesichtspunkt, dass sich die Menschheit so breitmacht.
+[00:35:17-2 @manfredniekisch] Also wenn man sich die aktuelle Situation anschaut, muss man ganz klar sagen, wir hatte noch nie eine solche Ausrottungswelle
+[00:35:24-0 @manfredniekisch] und ich sage das ganz bewusst, ich sage nicht, ein Artensterben.
+[00:35:27-0 @manfredniekisch] Die Arten sterben nicht, die werden ausgerottet durch alles mögliche.
+[00:35:30-7 @manfredniekisch] In Deutschland ist ein großer Faktor die Landwirtschaft.
+[00:35:33-5 @manfredniekisch] International ist es natürlich die Umgestaltung von natürlichen Flächen in Nutzland oder der Verlust dieser Flächen durch Erosionen,
+[00:35:43-3 @manfredniekisch] weil sie falsch genutzt worden sind.
+[00:35:44-8 @manfredniekisch] Es ist die Abholzung der Wälder zugunsten von Soja.
+[00:35:49-6 @manfredniekisch] Die Abholzung der Mangroven zugunsten von Shrimpsfarmen.
+[00:35:52-1 @manfredniekisch] Die Abholzung der Tropenwälder zugunsten von Palmöl und und und.
+[00:35:58-4 @manfredniekisch] Das sind großflächige Störungen, die wir in dieser Dimension noch nie hatten.
+[00:36:03-4 @manfredniekisch] Und deswegen spricht man ja heute auch von unserem Zeitalter als dem Anthropozän.
+[00:36:09-6 @manfredniekisch] Das heißt, einem Zeitalter, in dem der Mensch wie nie zuvor die Erde gestaltet hat.
+[00:36:14-1 @manfredniekisch] Der Mensch beeinflusst heute Natur, ähnlich wie das Überschwemmungen, Tektonik, Krankheitsepedemien und ähnliches tun.
+[00:36:25-5 @manfredniekisch] Er gestaltet das Gesicht der Erde, die Oberfläche der Erde, völlig neu mit weitreichenden Auswirkungen.
+[00:36:35-1 @manfredniekisch] Eine Kollegin von mir hat gerade in 9.000 Meter Tiefe in den Meeren Plastik entdeckt.
+[00:36:40-1 @manfredniekisch] Also wir sind wirklich auch da präsent mit unserem Müll und anderem, wo wir eigentlich physisch selber gar nicht hinkommen.
+[00:36:49-3 @timpritlove] An der Stelle erlauben Sie mir den Hinweis auf die 39. Ausgabe vom Forschergeist, wo genau das das Thema ist, das Anthropozän.
+[00:36:58-8 @timpritlove] Dort habe ich mich mit Reinhold Leinfelder unterhalten über das Thema und den Aspekt auch schon einmal aufgegriffen.
+[00:37:05-2 @timpritlove] Aber gerade so unter dem Aspekt Artenschutz, was hat das jetzt für Auswirkungen?
+[00:37:10-4 @manfredniekisch] Also der Schutz von einzelnen Arten ist immer noch wichtig, und vor allem ist es etwas, was in der Öffentlichkeit verständlich ist.
+[00:37:17-9 @manfredniekisch] Wenn man sagt, man bekämpft Wilderei bei den Elefanten, man bekämpft die Wilderei bei den Nashörnern und ähnliches,
+[00:37:25-3 @manfredniekisch] das versteht die Bevölkerung.
+[00:37:27-2 @manfredniekisch] Und da ist auch eine große Rolle der Zoos, charismatische Tierarten so zu zeigen, dass man sich erstens vorstellen kann,
+[00:37:35-1 @manfredniekisch] wie sie im Freiland leben und zweitens etwas erfährt über den Zustand ihrer wildlebenden Populationen.
+[00:37:41-7 @manfredniekisch] Das ist eine ganz wichtige Sache und auch da hat Bernhard Grzimek hervorragendes geleistet.
+[00:37:47-9 @manfredniekisch] Wir können diese Arten als Flagship-Species nehmen, wir können sie als Aushängeschilder nehmen,
+[00:37:54-9 @manfredniekisch] aber es muss heute schon ganz erheblich und im Wesentlichen um den Schutz der Lebensräume gehen.
+[00:38:00-1 @manfredniekisch] Und das ist eine große Herausforderung und da braucht man einen langen Atem, gute Strategien
+[00:38:06-9 @manfredniekisch] und vor allem die richtigen Leute vor Ort, um da Erfolge zu haben.
+[00:38:12-1 @manfredniekisch] Wir haben, wie gesagt, ein Artensterben, wie wir es nie zuvor hatten, sondern wir haben es heute mit einer dramatisch zunehmenden Ausrottungswelle zu tun
+[00:38:22-3 @manfredniekisch] und die muss gestoppt werden.
+[00:38:25-7 @manfredniekisch] Das „Gute“ ist, dass die Menschen schuld sind an dieser Ausrottungswelle.
+[00:38:34-1 @manfredniekisch] Gut ist das deswegen, weil das auch impliziert, dass es die Menschen sind, die etwas dagegen tun können,
+[00:38:39-2 @manfredniekisch] denn sie haben es ja ausgelöst.
+[00:38:41-5 @timpritlove] Welche Initiativen gibt es denn, die sich jetzt diesem Problem der Ausrottung der Arten auch explizit entgegenstellen?
+[00:38:48-7 @manfredniekisch] Das spielt sich auf ganz unterschiedlichen Ebenen ab.
+[00:38:53-5 @manfredniekisch] Das kann eine kleine lokale Naturschutzorganisation sein, die eine Schmetterlingswiese erhalten will,
+[00:39:00-6 @manfredniekisch] einen Magerrasen erhalten will und das geht hin eben bis zu den großen Naturschutzorganisationen,
+[00:39:07-5 @manfredniekisch] wie der zoologischen Gesellschaft Frankfurt beispielsweise, die sich heute vermehrt einsetzt für den Erhalt von den ganz großen Schutzgebieten,
+[00:39:17-8 @manfredniekisch] indem wir beispielsweise Ranger unterstützen in ihrer Arbeit, sie ausrüsten mit modernem Equipment.
+[00:39:25-3 @manfredniekisch] Wir haben gerade von der Bundesregierung übergeben bekommen drei Kleinflugzeuge für Afrika, um die Wilderei zu bekämpfen,
+[00:39:32-6 @manfredniekisch] ein spezielles Modell, Husky heißt das, das besonders tief und besonders langsam fliegen kann,
+[00:39:38-5 @manfredniekisch] wie man das für die Bekämpfung der Wilderei braucht.
+[00:39:41-5 @manfredniekisch] Wir helfen mit bei der Sicherung der Parkgrenzen und das aber immer in Kooperation mit den lokalen oder nationalen Behörden dort
+[00:39:51-5 @manfredniekisch] und mit der einheimischen Bevölkerung.
+[00:39:53-9 @manfredniekisch] Naturschutz gegen die Bevölkerung kann nicht funktionieren.
+[00:40:00-5 @timpritlove] Und auf nationaler Ebene?
+[00:40:04-3 @manfredniekisch] Auf nationaler Ebene haben wir ja leider jetzt ganz aktuell die Situation, dass der neue bayrische Ministerpräsident Söder den dritten Nationalpark für Bayern gekippt hat.
+[00:40:15-9 @manfredniekisch] Dieses  Hauen und Stechen um den geplanten Nationalpark Spessart, der ja dann auch nicht kam,
+[00:40:22-2 @manfredniekisch] ist eigentlich unsäglich.
+[00:40:24-0 @manfredniekisch] Denn egal, wo wir hinschauen, auch in Deutschland, es gab immer wieder Widerstände gegen die Einrichtung von Nationalparken.
+[00:40:32-3 @manfredniekisch] Aber keine dieser Regionen würde heute ihren Nationalpark wieder abschaffen wollen.
+[00:40:37-9 @manfredniekisch] Sondern die sind alle glücklich, dass sie ihn haben.
+[00:40:40-4 @manfredniekisch] Das sind Erfolgsmodelle nicht nur ökologisch, sondern auch für den Tourismus und wirtschaftlich.
+[00:40:46-1 @manfredniekisch] Es entstehen ja ganz neue Arbeitsplätze.
+[00:40:48-6 @manfredniekisch] Und da gibt es immer wieder Berechnungen, wenn ein Nationalpark eingerichtet wird, das sind ja dann oft Waldgebiete,
+[00:40:54-1 @manfredniekisch] dann gehen so und so viele Plätze in der Holzwirtschaft verloren, weil kein Holzeinschlag mehr stattfinden darf.
+[00:40:59-3 @manfredniekisch] Also einmal kann man einige dieser Zahlen anzweifeln, man muss aber die Sorgen der Leute ernst nehmen,
+[00:41:06-5 @manfredniekisch] und wenn man dann mal zeigt, was da an neuen Impulsen entsteht, etwa durch Tourismusführer,
+[00:41:14-9 @manfredniekisch] durch Tourismus, der dort hinkommt, und die Leute können dann Zimmer vermieten,
+[00:41:19-4 @manfredniekisch] etwa durch die Einrichtung von Informationszentren, wo auch wieder Personal gebraucht wird und und und
+[00:41:26-4 @manfredniekisch] dann sieht man, was das für ein riesiger positiver Wirtschaftsfaktor ist.
+[00:41:29-8 @manfredniekisch] Insofern sind die Widerstände überhaupt nicht nachvollziehbar.
+[00:41:33-7 @timpritlove] Aber nur mit Nationalparks alleine ist es ja sicherlich nicht getan?
+[00:41:37-7 @manfredniekisch] Mit Nationalparks alleine ist es nicht getan, aber die sind sozusagen das Rückgrat des Naturschutzes.
+[00:41:45-1 @manfredniekisch] Und was uns jetzt große Sorgen macht im nationalen Bereich ist das Insektensterben,
+[00:41:50-6 @manfredniekisch] das sich ja für jeden spürbar auswirkt.
+[00:41:55-1 @manfredniekisch] Und dass es so wenig Schmetterlinge gibt, das ist einfach schade, aber dagegen kann man etwas tun.
+[00:42:01-6 @manfredniekisch] Allerdings reicht es nicht, ein Insektenhotel auf den Balkon zu hängen, das ist eine kleine Hilfe für die Bienen beispielsweise,
+[00:42:08-8 @manfredniekisch] aber wir fordern schon, dass sich da auch politisch viel mehr tut, wir brauchen dringend eine Reform der europäischen Agrarpolitik,
+[00:42:17-7 @manfredniekisch] denn, ich muss es nochmal sagen, der Hauptverursacher des Artensterbens in Deutschland ist die Landwirtschaft.
+[00:42:25-2 @manfredniekisch] Ich sage nicht, die Bauern sind die Schuldigen, denn die stehen unter einem erheblichen Druck,
+[00:42:30-2 @manfredniekisch] die haben wenig wirtschaftliche Bewegungsmöglichkeiten, aber die sind auch die, die traditionell eigentlich die Erhalter des Bodens,
+[00:42:39-3 @manfredniekisch] die Hüter der Scholle sind und deswegen müssen sie politisch die Möglichkeit bekommen, sich auch für den Schutz ihrer Heimat
+[00:42:48-1 @manfredniekisch] und der Böden und der Schmetterlingswiesen einzusetzen.
+[00:42:51-6 @timpritlove] Was ist der Auslöser dieses Insektensterbens?
+[00:42:55-1 @manfredniekisch] Das Insektensterben hat viele Ursachen.
+[00:42:57-0 @manfredniekisch] Einmal ist es die Überdüngung der offenen Flächen durch die Landwirtschaft.
+[00:43:03-7 @manfredniekisch] Zweitens ist es die … Überdüngung heißt ein hoher Stickstoffeintrag, und dieser Stickstoffeintrag führt dazu,
+[00:43:11-5 @manfredniekisch] dass die Pflanzendecke vereinheitlicht, dass nur noch Pflanzen vorkommen, die mit dem großen Nährstoffangebot zurechtkommen
+[00:43:21-1 @manfredniekisch] und die ganzen wertvollen Pflanzen, die in Konkurrenz mit schnellwüchsigen Pflanzen gar nicht überleben können,
+[00:43:28-5 @manfredniekisch] wie beispielsweise viele Orchideen, das ist ganz schädlich für die Schmetterlinge und andere Insekten.
+[00:43:35-5 @manfredniekisch] Also es ist die Überdüngung, es ist die Monotonisierung der Landschaft, dadurch dass eben der Anbau intensiviert wird.
+[00:43:44-2 @manfredniekisch] Es werden jede Menge Gifte eingesetzt, um die Nutzpflanzen vor Schädlingen, „Schädlingen“, zu schützen.
+[00:43:53-4 @manfredniekisch] Und ganz aktuell, wenn man jetzt sieht, wie da wieder diskutiert wird über diesen Schmetterling,
+[00:43:59-2 @manfredniekisch] der die Eichenwälder kaputt frisst und dann wird da mit jeder Menge Gift drauf gehauen,
+[00:44:04-0 @manfredniekisch] das ist ein absoluter Wahnsinn, weil mit dem Gift vernichtet man nicht nur das, was die Förster für Schädlinge halten,
+[00:44:10-8 @manfredniekisch] sondern auch die Insekten, die die Schädlinge in Schach halten könnten.
+[00:44:15-5 @manfredniekisch] Da muss man einfach etwas längerfristig und etwas vernünftiger denken.
+[00:44:19-8 @manfredniekisch] Unter normalen Umständen würden diese Spannerraupen es nicht schaffen, einen Eichenwald dauerhaft zu zerstören.
+[00:44:27-5 @manfredniekisch] Klar das sieht nun mal nicht schön aus, wenn die alles Grün weggefressen haben, aber das kann ja kein Kriterium sein,
+[00:44:33-6 @manfredniekisch] um da solche rissigen Giftaktionen zu machen.
+[00:44:36-3 @timpritlove] Wir sprechen von den Eichenspinnern?
+[00:44:37-7 @manfredniekisch] Eichenspinnern ja.
+[00:44:40-9 @timpritlove] Was machen wir da jetzt?
+[00:44:42-7 @manfredniekisch] Also es gibt noch eine ganze Reihe von anderen Gründen.
+[00:44:46-3 @manfredniekisch] Man könnte durch eine bessere Strukturierung der Landschaft als Strukturvielfalt, durch eine Umstellung der Agrarpolitik,
+[00:44:54-6 @manfredniekisch] das ist natürlich ein bisschen schwieriger, aber auch durch Schutzstreifen, etwa an Gewässerrändern entlang von Wegen,
+[00:45:03-0 @manfredniekisch] durch die Nichtbefestigung von Wegen, durch eine bessere Wiederbewaldung in vielen Bereichen,
+[00:45:11-0 @manfredniekisch] durch eine Schaffung von Wäldern, die artenreich sind und nicht einfach Holzäcker, schon eine ganze Menge für die Insekten erreichen.
+[00:45:19-6 @timpritlove] Sind denn das jetzt Vorschläge von Ihnen, von einer kleinen Gruppe, oder würden Sie sagen, das ist auch wissenschaftlich schon lange Zeit erarbeitet
+[00:45:29-3 @timpritlove] und sollte eigentlich vorherrschendes Wissen sein auf der Ebene, wo solche Entscheidungen getroffen werden können?
+[00:45:36-9 @manfredniekisch] Interessanterweise ist das Insektensterben ja nicht festgestellt worden durch große wissenschaftliche Studien,
+[00:45:43-0 @manfredniekisch] sondern in Deutschland durch zwei kleine private Initiativen, eine in Krefeld und eine in Regensburg,
+[00:45:49-3 @manfredniekisch] die Vergleichsflächen untersucht haben und festgestellt haben über die Jahre, dass die Insekten so stark zurückgehen.
+[00:45:54-7 @timpritlove] Also die Insektenfallen aufgestellt haben über einen längeren Zeitraum und beobachtet haben, wie viel sich dort getan hat?
+[00:46:00-3 @manfredniekisch] Zum Teil quantitativ, zum Teil auch qualitativ, indem sie sagten, wir haben hier Berichte von vor 50 Jahren,
+[00:46:05-9 @manfredniekisch] wo die und die und die Schmetterlingsarten hier vorkamen und die kommen jetzt definitiv nicht mehr hier vor
+[00:46:12-4 @manfredniekisch] oder früher waren sie häufig und heute sind sie sehr selten.
+[00:46:14-7 @manfredniekisch] Und aus dieser Besorgnis heraus sind eine ganze Reihe von Initiativen entstanden.
+[00:46:20-8 @manfredniekisch] Es gibt heute keinen Zweifel mehr, warum diese Insekten zurückgegangen sind.
+[00:46:26-7 @manfredniekisch] Es gibt aber leider eine mangelnde Umsetzung dieser Erkenntnisse.
+[00:46:30-5 @manfredniekisch] Und das haben wir ja oft überhaupt in der ganzen Europäischen Union, die ja fast bestimmend ist für die Agrarpolitik,
+[00:46:36-7 @manfredniekisch] da kann Deutschland allein wenig machen, haben wir hervorragende Naturschutzgesetze, Gesetze zum Schutz der Umwelt,
+[00:46:44-3 @manfredniekisch] wo es fehlt ist die Umsetzung.
+[00:46:46-1 @manfredniekisch] Also was nützen uns die besten Gesetze, wenn sie nicht richtig angewendet werden.
+[00:46:51-1 @manfredniekisch] Also wir haben keinen Zweifel mehr, woran die Insekten sterben, wir machen gerade im Sachverständigenrat für Umweltfragen ein Gutachten zu diesem Thema.
+[00:47:00-5 @manfredniekisch] Denn die neue Umweltministerin hat ja angekündigt, dass sie sofort ein Aktionsprogramm zum Schutz der Insekten auflegen will
+[00:47:09-1 @manfredniekisch] und wir wollen ihr auch mit auf den Weg geben, dass das nicht so ganz einfach ist,
+[00:47:15-0 @manfredniekisch] sondern dass man da schon wirklich an den Rädern drehen muss, die das Insektensterben verursachen.
+[00:47:22-2 @manfredniekisch] Also beispielsweise die Land- und Forstwirtschaft mit unterschiedlichen Aspekten.
+[00:47:27-7 @manfredniekisch] Aber auch der Gifteinsatz allgemein und und und, auch die Landschaftsplanung natürlich.
+[00:47:34-0 @timpritlove] Erklären Sie mir doch nochmal, warum das ein großes Problem ist.
+[00:47:37-4 @timpritlove] Ich meine, jetzt könnte man ja sagen, waren eh zu viele Mücken auf der Terrasse, mir doch egal.
+[00:47:43-1 @timpritlove] Was kümmern mich die Insekten, die stören ja nur.
+[00:47:47-8 @manfredniekisch] Ja, Mark Twain hat gesagt, kein Tier ist umsonst erschaffen, aber die Moskitos sind verdammt nah dran.
+[00:47:55-3 @manfredniekisch] Und da hat er für viele recht.
+[00:47:56-6 @manfredniekisch] Man muss aber auch was anderes sehen.
+[00:47:58-6 @manfredniekisch] Die Insekten haben einmal eine sehr sehr wichtige Bedeutung als Bestäuber, als Bestäuber von Zierpflanzen, wenn man die so klassifizieren will,
+[00:48:07-7 @manfredniekisch] aber auch von Nutzpflanzen.
+[00:48:08-7 @manfredniekisch] Das heißt, sie sind eigentlich die potenziellen Verbündeten der Bauern.
+[00:48:14-5 @manfredniekisch] Dann geht es ja nicht nur um die Honigbienen, denn die Honigbienen könnte man fast als Haustiere bezeichnen,
+[00:48:20-3 @manfredniekisch] die müssen ja vom Menschen gepäppelt werden, um da zu sein, um den Winter zu überleben und dann bestäuben zu können,
+[00:48:27-1 @manfredniekisch] sondern es geht auch um die vielen Wildbienen und Hummeln, die als Bestäuber wichtig sind, das ist ein ganz praktischer Aspekt.
+[00:48:35-4 @manfredniekisch] Dann sind Insekten natürlich auch von der Biomasse her ganz bedeutsam und stellen das Futter dar für eine große Zahl von Vögeln,
+[00:48:45-5 @manfredniekisch] von Fledermäusen, von Amphibien und Reptilien, das heißt, denen geht die Nahrung verloren.
+[00:48:52-3 @manfredniekisch] Und es gibt ja inzwischen einige Untersuchungen auch durch Citizen Sience, dass die Singvögel bei uns sehr stark zurückgehen,
+[00:48:59-9 @manfredniekisch] und das kann durchaus auch zu tun haben und wird auch zu tun haben mit dem Insektensterben.
+[00:49:07-6 @manfredniekisch] Diese Insekten, die manchem lästig vorkommen, sind aber eben ein ganz zentrales Element der Biodiversität in Deutschland,
+[00:49:16-8 @manfredniekisch] wegen ihrer Masse und wegen ihrer Vielfalt und Insekten sind ja auch natürliche Schädlingsbekämpfer.
+[00:49:24-6 @manfredniekisch] Es gibt eine ganze Reihe von Wespen beispielsweise oder dem eben schon beschriebenen Eichenspanner,
+[00:49:31-4 @manfredniekisch] die aus Sicht der Nutzer als Schädlinge zu titulierenden Tiere vernichten, indem sie beispielsweise ihre Eier da reinlegen
+[00:49:42-3 @manfredniekisch] und die so umbringen.
+[00:49:43-9 @manfredniekisch] Also es ist ein riesiges Paket von sehr komplexen Wechselwirkungen, in denen die Insekten stehen als nützliche Tiere
+[00:49:54-4 @manfredniekisch] unmittelbar für jeden, der Pflanzen mag oder produziert, aber eben auch als Teil dieses Nahrungsfilzes
+[00:50:02-1 @manfredniekisch] als ein elementarer Teil der Grundalgen der Ernährung für viele andere Tiere.
+[00:50:10-8 @timpritlove] Also man hat es hier mit einer Überlebenskette zu tun, die also weit in Flora und Fauna eingreift.
+[00:50:19-2 @timpritlove] Was passiert denn, wenn wir uns da nicht besser aufstellen?
+[00:50:22-8 @timpritlove] Womit ist denn dann zu rechnen?
+[00:50:25-1 @manfredniekisch] Das sehen wir schon in einigen Regionen der Welt, also beispielsweise in China,
+[00:50:29-8 @manfredniekisch] wo jetzt angefangen wird, intensivst die Bienenhaltung auszuweiten,
+[00:50:35-6 @manfredniekisch] Weil es im Moment noch so ist, dass in den Obstbaumplantagen Menschen mit Pinseln reinklettern
+[00:50:42-1 @manfredniekisch] und die Obstbäume künstlich bestäuben.
+[00:50:45-0 @manfredniekisch] Das ist überhaupt nicht auf Dauer durchhaltbar und kann man auch nur machen für einige besonders wirtschaftlich interessante Arten von Nutzpflanzen,
+[00:50:56-0 @manfredniekisch] also beispielsweise Äpfel oder Zitrusfrüchte.
+[00:50:59-4 @manfredniekisch] Aber es gibt eine ganze Reihe von Nutzpflanzen, die bei uns durchaus Gang und Gäbe sind,
+[00:51:07-9 @manfredniekisch] die aber auf die Bestäubung angewiesen sind, die dann der Mensch gar nicht mehr machen kann,
+[00:51:13-0 @manfredniekisch] einfach wegen der Massenfrage.
+[00:51:18-0 @timpritlove] Das heißt…?
+[00:51:18-2 @manfredniekisch] Es gibt auch zum Beispiel in Südostasien, da gibt es verschiedene wichtige Nutzpflanzen, die für die Ernährung wichtig sind,
+[00:51:26-8 @manfredniekisch] die sind abhängig vom Vorhanden intakter Wälder.
+[00:51:30-9 @manfredniekisch] Weil nämlich in ausgeräumten Gebieten, in den Zeiten, wo nicht gerade Blüten der Nutzpflanzen da sind,
+[00:51:40-5 @manfredniekisch] die Insekten ja auch überleben müssen.
+[00:51:42-8 @manfredniekisch] Und wenn ein intakter Wald da ist, da ist das ganze Jahr irgendwo etwas am Blühen und liefert Nahrung für Insekten
+[00:51:49-6 @manfredniekisch] oder auch für Fledermäuse, die ja auch eine große Rolle spielen bei der Bestäubung.
+[00:51:57-1 @timpritlove] Wenn man jetzt mal so das Bedrohungsszenario…
+[00:52:01-0 @timpritlove] Ich sage mal so, der Mensch will ja glaube ich dann doch immer so spüren, dass es ihn auch selbst betrifft.
+[00:52:07-7 @timpritlove] Was sind denn die Konsequenzen für den Menschen?
+[00:52:11-1 @manfredniekisch] Das ist eine ganz spannende Frage, weil wir nämlich im Naturschutz zu lange uns auf Tiere und Pflanzen konzentriert haben
+[00:52:20-7 @manfredniekisch] und nicht so sehr in Betracht gezogen haben, was das denn für die Gesundheit der Menschen bedeutet.
+[00:52:28-0 @manfredniekisch] Da gibt es natürlich sich widersprechende Studien, aber wir haben ja auch und der Staat hat eine gewisse Pflicht zur Vorsorge,
+[00:52:37-1 @manfredniekisch] zur Risikovorsorge, zur Gefahrenabwendung, und nicht nur zur Heilung, wenn die Gefahr eingetreten ist.
+[00:52:43-8 @manfredniekisch] Und beispielsweise sind die Stickoxide in der Luft, das weiß man ja durch die Diesel-Diskussion, höchstschädlich für den Menschen.
+[00:52:51-6 @manfredniekisch] Und diese Stickoxide kommen eben nicht nur aus Auspuffen, sondern beispielsweise auch durch die vielen Stickstoffverbindungen,
+[00:52:59-9 @manfredniekisch] die in der Luft unterwegs sind.
+[00:53:01-6 @manfredniekisch] Stickstoff selber ist sehr inert, aber die Stickstoffverbindungen machen das Ganze so problematisch.
+[00:53:08-1 @manfredniekisch] Wir haben, was die Gesundheit des Menschen angeht, ja auch die reine Staubbelastung schon als ein wirkliches Problem.
+[00:53:16-5 @manfredniekisch] Dazu kommen Gifte in der Landwirtschaft, von deren Wirkung wir noch nicht genau kennen,
+[00:53:23-3 @manfredniekisch] etwa das Glyphosat, von dem wir ja annehmen, dass es Krebs erregt.
+[00:53:27-9 @manfredniekisch] Aber selbst, wenn es nicht kanzerogen wäre, muss man sagen, das gehört überhaupt nicht in die Landschaft,
+[00:53:35-2 @manfredniekisch] das darf überhaupt nicht angewendet werden, denn wir wissen, dass es bei einigen Tiergruppen,
+[00:53:40-1 @manfredniekisch] etwa bei den Amphibien, größte Schäden hervorruft.
+[00:53:42-5 @timpritlove] Also Glyphosat wird ja vor der Ernte ausgebracht, um sozusagen alles erst mal wegzuhauen, was dort eine Konkurrenz für die eigentlich geplante Nutzpflanze sein könnte
+[00:53:52-4 @timpritlove] und das ist dann so quasi jedes Mal so die Napalmbombe, die man über das Ökosystem abwirft und damit sozusagen nur,
+[00:54:01-7 @timpritlove] um eine einzige Pflanze züchten zu können, alle anderen Entwicklungen im Prinzip im Keim erstickt.
+[00:54:07-5 @manfredniekisch] Und das ist genau diese monokausale Betrachtung, ich habe eine Pflanze, von der ich etwas will,
+[00:54:12-6 @manfredniekisch] ich habe einen Schädling, der diese Pflanze schädigt, also hau ich den Schädling kaputt.
+[00:54:17-0 @manfredniekisch] Was ich dabei für das ganze Umfeld kaputt mache und ob das der Pflanze wirklich nutzt, wenn der Schädling weg ist,
+[00:54:24-3 @manfredniekisch] das fragt ja dann kaum einer mehr.
+[00:54:27-2 @manfredniekisch] Und wenn Sie sich die ganze Diskussion um den Borkenkäfer anschauen, der Borkenkäfer ist ein Segen für den deutschen Wald.
+[00:54:34-3 @manfredniekisch] Der Borkenkäfer steht in einer uralten Beziehung zu den Weißtannen, das hat ja nicht erst der Mensch erfunden.
+[00:54:41-5 @manfredniekisch] Der Borkenkäfer ist natürlich immer dann schädlich, wenn ich Holz produzieren will und das möglichst noch in Monokulturen.
+[00:54:49-4 @manfredniekisch] Ansonsten schauen Sie sich die Flächen am Arber an, das sieht natürlich vielleicht nicht schön aus,
+[00:54:55-1 @manfredniekisch] dass da so viele tote Bäume rumstehen, aber wenn man sich anschaut, was da an Jungwuchs nachkommt, das ist einfach fantastisch.
+[00:55:02-9 @manfredniekisch] Und insofern ist der Borkenkäfer ein Erneuerer des Waldes.
+[00:55:06-9 @timpritlove] Aber ich wollte nochmal kurz … gerade die Diskussion um Glyphosat finde ich insofern jetzt ganz interessant,
+[00:55:12-2 @timpritlove] weil wir auf der einen Seite sagen, okay man muss jetzt vielleicht auch mal die Schäden für den Menschen sozusagen unmittelbar aufzeigen,
+[00:55:18-9 @timpritlove] ich habe aber immer so den Eindruck, dass gerade bei diesem Glyphosat diese Diskussion, ja kann Krebs erregen,
+[00:55:24-6 @timpritlove] irgendwie auch nicht so richtig greift.
+[00:55:26-8 @timpritlove] Weil dieses „kann Krebs erregen“ gilt ja mehr oder weniger für alles.
+[00:55:30-3 @timpritlove] Bei manchen Sachen weiß man, es ist unmittelbar und dann ist es auch leicht nachweisbar.
+[00:55:34-9 @timpritlove] Aber vieles, wie generell in der Krebsforschung, ist halt unklar, wirkt sich statistisch aus, ist irgendwie nicht unmittelbar erfahrbar.
+[00:55:45-2 @timpritlove] Denken Sie, das es ein Fehler ist sozusagen?
+[00:55:47-2 @timpritlove] Also sozusagen taktisch unklug ist, diesen Aspekt zerstört Grundlage für Biodiversität zu bringen?
+[00:55:58-3 @timpritlove] Und man ist quasi gezwungen, die Argumentation in der Öffentlichkeit über diese unmittelbare oder nicht direkt unmittelbare Menschenschädlichkeit zu führen?
+[00:56:06-5 @timpritlove] Oder gibt es nicht auch einen Weg, diese Debatte unter dem Deckmantel Biodiversität an erster Stelle zu führen?
+[00:56:12-3 @manfredniekisch] Wir müssen beides machen.
+[00:56:13-5 @manfredniekisch] Wir dürfen nichts erfinden, wir dürfen nichts dramatisieren, aber wir müssen schon darauf hinweisen,
+[00:56:18-3 @manfredniekisch] dass wir da, wo wir deutliche Hinweise haben, dass es ein Risiko gibt, warnen müssen.
+[00:56:24-9 @manfredniekisch] Und es ist ja nicht nur ein Umweltgift, das wir haben, sondern wir erzeugen für Mensch, Tier und Pflanze insgesamt einen Umweltstress,
+[00:56:34-2 @manfredniekisch] der durch den Klimawandel natürlich noch stark beschleunigt wird.
+[00:56:38-8 @manfredniekisch] Und dieser Umweltstress setzt sich zusammen aus vielen Faktoren und da sind die Gifteinsätze und das Glyphosat eben nur eine.
+[00:56:47-4 @manfredniekisch] Aber es ist eben ein gewichtiger Faktor.
+[00:56:49-9 @manfredniekisch] Und wir müssen versuchen, da wo immer es geht, an den Stellschrauben zu drehen, die den Umweltstress,
+[00:56:55-6 @manfredniekisch] die die Giftbelastung der Umwelt insgesamt erhöht …
+[00:56:58-8 @manfredniekisch] Dazu gehört aber beispielsweise auch, dass wir eben keine Braunkohle mehr verbrennen und die ganze Schwefelverbindungen in die Luft jagen.
+[00:57:08-8 @timpritlove] Kommen wir mal ein bisschen mehr auf die Rolle der Zoos, die sich ja in gewisser Hinsicht mehr auf die großen Tiere stürzt.
+[00:57:17-6 @timpritlove] Also weiß nicht, gibt es im Zoo Frankfurt auch eine Insektenabteilung? Vermutlich.
+[00:57:24-2 @manfredniekisch] Ja, wir haben natürlich eine Insektenabteilung, weil man da vieles zeigen kann.
+[00:57:29-1 @manfredniekisch] Und Zoos sind für Besucher da.
+[00:57:32-8 @manfredniekisch] Ein Zoo, in den keine Besucher kommen, der hat seinen Sinn verspielt.
+[00:57:38-3 @manfredniekisch] Also brauchen wir attraktive Anlagen, in denen die Besucher Tiere sehen können.
+[00:57:46-2 @manfredniekisch] Das steht aber alles unter dem Primat, dass sich das Tier auch wohlfühlt.
+[00:57:52-1 @manfredniekisch] Hier in Frankfurt legen wir großen Wert drauf und wir sind nicht die einzigen, dass unsere Tiere Rückzugsmöglichkeiten haben.
+[00:57:59-2 @manfredniekisch] Das heißt, wenn die nicht gesehen werden wollen, können die sich zurückziehen.
+[00:58:03-6 @manfredniekisch] Und wir sehen es besonders schön bei unseren Gorillas, da gibt es Phasen, wo wir den Eindruck haben,
+[00:58:09-1 @manfredniekisch] dass die es genießen, dass Besucher da sind.
+[00:58:12-2 @manfredniekisch] Die Besucher sind Teil des Unterhaltungsprogramms für unsere Affen.
+[00:58:15-7 @manfredniekisch] Es gibt aber auch Phasen, wo dann unser Gorilla-Mann sagt, nein ich will jetzt mal meine Ruhe haben
+[00:58:20-5 @manfredniekisch] und da muss er sich zurückziehen können.
+[00:58:23-0 @manfredniekisch] Also kein Stress für die Tiere.
+[00:58:24-5 @manfredniekisch] Ich habe auch schon Beschwerden gekriegt, dass unsere Brillenbär-Anlage so dicht bepflanzt ist,
+[00:58:29-6 @manfredniekisch] dass man die Tiere ja gar nicht richtig sieht und da kann ich immer nur sagen, ich war wochenlang in den Anden unterwegs
+[00:58:35-6 @manfredniekisch] im Lebensraum der Brillenbären, habe nicht einen gesehen.
+[00:58:39-5 @manfredniekisch] Wenn jemand im Zoo keine Brillenbären sieht in der Anlage, dann sind die entweder nicht auf der Anlage
+[00:58:45-2 @manfredniekisch] oder man muss einfach nur fünf Minuten warten und dann kommen sie schon.
+[00:58:49-7 @manfredniekisch] Also Zoos sind für Besucher da, aber die Tiere sollen nicht auf dem Präsentierteller sofort sichtbar sein.
+[00:58:58-4 @timpritlove] Das war ja sicherlich nicht immer so?
+[00:59:00-0 @manfredniekisch] Das war überhaupt nicht immer so, sondern man hat über viele Jahre …
+[00:59:04-5 @manfredniekisch] die Zoos haben ja gemeinsame Wurzeln mit der Menagerie, wo es also drum geht, Tiere vorzustellen,
+[00:59:11-0 @manfredniekisch] die besonders wild sind, an die man besonders nah rankommt.
+[00:59:15-5 @manfredniekisch] Eisbären hinter dicken Gitterstäben, die sich nicht verstecken konnten, das war bis in die 50er Jahre durchaus Gang und Gäbe.
+[00:59:24-8 @manfredniekisch] Das ist hoffentlich für immer vorbei.
+[00:59:27-5 @manfredniekisch] Und Zoo ist leider kein geschützter Begriff.
+[00:59:31-2 @manfredniekisch] Es gibt in Deutschland schätzungsweise 300 Zoos, davon sind gerade mal etwas mehr als 70 im Verband der zoologischen Gärten zusammengeschlossen,
+[00:59:40-7 @manfredniekisch] alle anderen qualifizieren sich nicht, diese Standars zu erfüllen.
+[00:59:45-4 @manfredniekisch] Und die schlimmsten Feinde der wissenschaftlich geführten Zoos sind die schlechten Zoos.
+[00:59:51-2 @manfredniekisch] Denn das sind die Bilder, die im Kopf bleiben.
+[00:59:54-3 @manfredniekisch] Und mit schlechte Zoos meine ich, wo die Tiere nicht so präsentiert werden können, dass sie sich wirklich wohlfühlen,
+[01:00:02-3 @manfredniekisch] was eben auch heißt, dass die nicht nur gut ernährt sein müssen, sondern sich eben auch mal nicht zeigen können.
+[01:00:08-4 @manfredniekisch] Und da gibt es nach wie vor große Missstände, auch wenn sich das in den letzten Jahren durch eine Verbesserung der gesetzlichen Lage
+[01:00:16-4 @manfredniekisch] und das Wirken der wissenschaftlich geführten Zoos doch stark verbessert hat.
+[01:00:22-7 @timpritlove] Das heißt, die wenigsten Zoos sind wissenschaftlich geführt?
+[01:00:25-6 @manfredniekisch] Das heißt, weltweit kann man das mit Sicherheit noch deutlicher sagen, die wenigsten Zoos sind wissenschaftlich geführt.
+[01:00:33-2 @manfredniekisch] In China, schätzen wir, gibt es tausende vielleicht 10.000 Zoos und ich glaube drei sind wissenschaftlich geführt und erfüllen die Kriterien.
+[01:00:42-1 @manfredniekisch] Die Definition für einen Zoo in der europäischen Gemeinschaft ist relativ krude, da heißt es nämlich,
+[01:00:49-9 @manfredniekisch] ein Zoo ist eine Einrichtung, der eine nennenswerte Zahl von Tieren hält
+[01:00:55-3 @manfredniekisch] und diese acht Tage im Jahr oder sieben Tage im Jahr der Öffentlichkeit zugänglich macht.
+[01:01:01-2 @manfredniekisch] Also da sind überhaupt keine Qualitätskriterien drin und deswegen muss man sagen, wir brauchen wirklich eine Verbesserung der schlechten Zoos.
+[01:01:14-1 @manfredniekisch] Die bekannten großen Zoos, die haben zum Teil Altlasten, das muss man ganz klar sagen, man kann nicht alles auf einmal neu bauen,
+[01:01:21-0 @manfredniekisch] aber die sind doch alle auf einem sehr guten Weg und manchmal gibt es auch große Missverständnisse.
+[01:01:27-5 @manfredniekisch] Also ich kenne einen Zoo, der hat eine völlig gestörten Schimpansen.
+[01:01:32-7 @manfredniekisch] Wenn man den sieht, kann einem das Tier nur leid tun.
+[01:01:36-2 @manfredniekisch] Und dann gibt es viele, die sagen, ach ist der schlecht gehalten.
+[01:01:38-3 @manfredniekisch] Man muss aber wissen, dass dieser Schimpanse aus einer miserablen Privathaltung in den Zoo gekommen ist
+[01:01:45-6 @manfredniekisch] und die Mitarbeiter des Zoos haben sich dann intensivst bemüht, diesem Tier ein einigermaßen angenehmes Leben zu ermöglichen.
+[01:01:53-9 @manfredniekisch] Und das gelingt natürlich nur mit Abstrichen, wenn dieses Tier schon älter und durch die vorhergehende Haltung so schwer geschädigt ist.
+[01:02:02-2 @manfredniekisch] Aber das ist nichts, was man dem Zoo anlasten kann, sondern das muss man aus der Geschichte des Tieres erklären.
+[01:02:08-8 @timpritlove] Welche Zoos in Deutschland würden Sie jetzt so als erstes nennen, unter dem Aspekt wissenschaftlich geführt Vorbild für andere?
+[01:02:18-8 @manfredniekisch] Ich könnte jetzt natürlich eine ganze Reihe von Zoos aufzählen, nämlich insgesamt über 70, für die das alle zutrifft,
+[01:02:27-3 @manfredniekisch] da sind kleinere dabei, da sind größere dabei, aber die Größe eines Zoos spielt eigentlich nicht die Rolle,
+[01:02:33-2 @manfredniekisch] sondern die Frage ist immer, passt die Anzahl und Auswahl der Tiere zu meinem eigenen Zoo?
+[01:02:40-0 @manfredniekisch] Es gibt natürlich unterschiedliche Konzepte.
+[01:02:42-1 @manfredniekisch] Wir sind ein Zoo, der mitten in der Stadt liegt.
+[01:02:45-7 @manfredniekisch] Wir haben früh schon Schulklassen und Kindergärten hier.
+[01:02:48-1 @manfredniekisch] Das heißt, wir versuchen unseren Zoo als eine grüne Insel in der Stadt zu präsentieren mit einer Klassenzimmerfunktion.
+[01:02:56-9 @manfredniekisch] Das ist uns ganz wichtig, denn wir haben über 1000 geführte Gruppen pro Jahr im Zoo, das ist eine ganze Menge.
+[01:03:03-4 @manfredniekisch] Und die Schulklassen können sich da auch thematisch einiges ausstellen bzw. zusammensuchen und zusammenstellen an Führungen.
+[01:03:12-9 @manfredniekisch] Es gibt andere Zoos, die haben ein ganz anderes Konzept, die gehen eher in Richtung Vergnügungspark mit Tieren,
+[01:03:20-1 @manfredniekisch] was ich in keiner Weise abwertend meine, denn das ist an sich noch nichts schlimmes.
+[01:03:24-0 @manfredniekisch] Es geht dann nur immer drum, sind die Tiere vernünftig gehalten oder sind die nur Teil eines Vergnügungspark
+[01:03:31-6 @manfredniekisch] und dienen nur der Belustigung des Menschen, das würde ich dann nicht mehr als wissenschaftlich geführten Zoo bezeichnen.
+[01:03:37-4 @manfredniekisch] Das gibt es aber auch kaum noch.
+[01:03:39-6 @manfredniekisch] Und dann gibt es eben Zoos, die liegen in einer großen Landschaft, mit vielleicht einem herrlichen Blick von irgendeiner Anhöhe über das Tal oder die Stadt.
+[01:03:49-7 @manfredniekisch] Das sind dann wieder ganz andere Konzepte.
+[01:03:52-9 @manfredniekisch] Also dieser große Erholungspark, irgendwo draußen vor den Toren einer Stadt, ist etwas anderes als der Stadtzoo in Frankfurt,
+[01:04:01-2 @manfredniekisch] wo rundrum Häuser sind.
+[01:04:04-8 @timpritlove] Was genau meinen Sie denn, wenn Sie von wissenschaftlicher Führung sprechen?
+[01:04:08-9 @timpritlove] Also wie wirkt sich das aus, was unterscheidet einen Zoo, der wissenschaftlich geführt ist, von einem, der dieses Placet vielleicht nicht verdient?
+[01:04:22-2 @manfredniekisch] Ein wissenschaftlich geführter Zoo ist ein Zoo, der geführt wird von Leuten, die die neuesten Erkenntnisse der Wissenschaft
+[01:04:30-6 @manfredniekisch] in Richtung Tierernährung, Tierverhalten, Veterinärmedizin, Besucherlenkung berücksichtigt und umsetzt.
+[01:04:39-5 @timpritlove] Nur berücksichtigt oder auch selber erforscht?
+[01:04:43-2 @manfredniekisch] Das gehört natürlich dazu.
+[01:04:44-4 @manfredniekisch] Denn solche Erkenntnisse fallen ja nicht vom Himmel.
+[01:04:48-2 @manfredniekisch] Es gibt einen intensiven Austausch im Verband der zoologischen Gärten zwischen den Zoodirektoren,
+[01:04:53-8 @manfredniekisch] was erfolgreiche Konzepte sind, was weniger erfolgreich ist.
+[01:04:58-3 @manfredniekisch] Und ich kann da als Beispiel anführen eine rein wissenschaftliche Studie, die in Frankfurt gelaufen ist,
+[01:05:05-2 @manfredniekisch] wo es um das Schlafverhalten von jungen Giraffen ging.
+[01:05:09-7 @manfredniekisch] Eine chronobiologische Arbeit.
+[01:05:12-0 @manfredniekisch] Und da ist festgestellt worden, dass diese jungen Giraffen Tiefschlafphasen haben und dann so Phasen,
+[01:05:20-2 @manfredniekisch] in denen sie halbwach oder ganz wach sind.
+[01:05:23-0 @manfredniekisch] Und es ist durch Zufall festgestellt worden, dass eine neugeborene Giraffe immer kürzere Wachphasen hatte
+[01:05:32-0 @manfredniekisch] und die Tiefschlafphasen immer häufiger und immer länger wurden.
+[01:05:36-8 @manfredniekisch] Und da hat man sich gefragt, warum?
+[01:05:38-6 @manfredniekisch] Und hat festgestellt, dass diese Giraffe zwar, diese junge Giraffe, gerade geboren, von der Mutter gesäugt wurde,
+[01:05:45-1 @manfredniekisch] aber offensichtlich nicht genug Milch bekam.
+[01:05:48-8 @manfredniekisch] Das heißt, die hat ihren Stoffwechsel runtergefahren und schlief dann möglichst viel,
+[01:05:52-5 @manfredniekisch] einfach weil sie geschwächt war.
+[01:05:54-0 @manfredniekisch] Und als wir dann mit der Flasche rangegangen sind und das Tier von Hand ernährt haben, also zugefüttert haben,
+[01:06:00-6 @manfredniekisch] weil sie von der Mutter nicht genug Milch kriegt, was man ja nicht messen kann, da kam die sehr schnell wieder zu Kräften.
+[01:06:06-8 @manfredniekisch] Und deswegen haben wir gesagt, Leute, wenn bei euch Giraffen geboren werden, schaut euch die Schlafphasen an
+[01:06:12-2 @manfredniekisch] und wenn das Jungtier zu oft schläft, dann mangelt es an der Milchversorgung der Mutter, da kann man was dagegen tun.
+[01:06:19-5 @manfredniekisch] Wir tauschen uns sehr intensiv aus über die Haltung und Aufzucht von Menschenaffen beispielsweise.
+[01:06:26-4 @manfredniekisch] Da gibt es einen regen Austausch, aber wir tauschen uns auch aus über Besucherkonzepte.
+[01:06:31-4 @manfredniekisch] Es gibt einmal im Jahr ein Treffen der deutschen Zoodirektoren, wo all das auf der Tagesordnung steht
+[01:06:39-3 @manfredniekisch] und da lernen wir voneinander und sind auch alle bemüht, dieses Wissen an andere weiter zu geben.
+[01:06:45-8 @manfredniekisch] Denn wir wollen ja nicht besser sein als andere Zoos.
+[01:06:48-7 @manfredniekisch] Wir sind auch keine Konkurrenten.
+[01:06:50-9 @manfredniekisch] Also wir haben hier in Frankfurt ja die Situation, dass wenige Kilometer von hier der Opel-Zoo ist.
+[01:06:56-7 @manfredniekisch] Und ich bin immer wieder gefragt worden, wie steht ihr zu der Konkurrenz vom Opel-Zoo?
+[01:07:00-6 @manfredniekisch] Und ich habe immer gesagt, wir sind keine Konkurrenten.
+[01:07:02-9 @manfredniekisch] Wenn es dem Opel-Zoo gut geht, dann geht es ja uns nicht schlechter, sondern dann geht es uns auch gut,
+[01:07:07-8 @manfredniekisch] weil wir beide ein gutes Image haben.
+[01:07:09-2 @manfredniekisch] Wir kooperieren, wir bilden die Lehrlinge gemeinsam aus und die wissenschaftlich geführten Zoos haben ein gemeinschaftliches Interesse
+[01:07:18-6 @manfredniekisch] und stellen eben nicht den kommerziellen Aspekt über das Wohl der Tiere, sondern ganz im Gegenteil.
+[01:07:26-3 @timpritlove] Aber ich denke mal, dieser Austausch ist ja nicht nur zwischen Zoos, sondern das wird ja auch mit anderen Fakultäten anderer Universitäten und anderer…
+[01:07:36-1 @manfredniekisch] Das ist natürlich richtig.
+[01:07:39-4 @manfredniekisch] Wir tauschen uns nicht nur unter den Zoos aus, sondern beispielsweise kooperieren wir ja auch mit Universitäten.
+[01:07:45-5 @manfredniekisch] Es gibt Universitäten, die beschäftigen sich beispielsweise mit Veterinärmedizin, mit Verhaltensforschung,
+[01:07:52-8 @manfredniekisch] aber auch mit Fragen des Tierwohls, also des Wohlergehens der Tiere
+[01:07:58-5 @manfredniekisch] und da kooperieren wir mit sehr vielen und der Frankfurter Zoo hält das für so wichtig,
+[01:08:04-5 @manfredniekisch] dass er sogar an der Universität Frankfurt eine Professur finanziert, die sich mit den Fragen der Zootierhaltung beschäftigt.
+[01:08:10-8 @manfredniekisch] Die ist gerade besetzt worden und da erwarten wir uns schon Interessante Gespräche und interessante Ergebnisse.
+[01:08:19-0 @manfredniekisch] Also es geht nicht nur innerhalb der Zoos, sondern Zoos können ja nur sehr beschränkt selber Wissenschaft betreiben,
+[01:08:24-3 @manfredniekisch] selber Forschungsprojekte machen, da geht es schon darum, dass man mit Universitäten zusammenarbeitet
+[01:08:31-6 @manfredniekisch] und es sind auch eine ganze Reihe von solchen Arbeiten hier auch an der Uni Frankfurt entstanden,
+[01:08:36-3 @manfredniekisch] wo wir als Zoo die Fragestellung geliefert haben und die Arbeitsmöglichkeiten.
+[01:08:41-5 @manfredniekisch] Also beispielsweise zum Einfluss der Besucher auf die Haltung der Fingertiere.
+[01:08:47-6 @manfredniekisch] Die Fingertiere sind …
+[01:08:48-9 @timpritlove] Fingertiere sind was für Tiere?
+[01:08:49-8 @manfredniekisch] Fingertiere heißen auch Aye Ayes, das sind diese merkwürdigen katzengroßen Tiere, mit einem buschigen Schwanz,
+[01:08:56-6 @manfredniekisch] großen Ohren, die in Madagaskar leben, nachtaktiv sind und einen verlängerten Finger haben,
+[01:09:03-4 @manfredniekisch] mit dem sie Maden aus dem Holz stochern.
+[01:09:07-0 @manfredniekisch] Und deren Verhalten, wie das beeinflusst wird durch Besucher, das war eine ganz interessante Arbeit.
+[01:09:13-3 @manfredniekisch] Aber wir haben jetzt auch eine Arbeit laufen über die Vergesellschaftung von Brillenbären mit Waldhunden.
+[01:09:19-9 @manfredniekisch] Das hat noch nie jemand probiert und da haben wir jemanden dran, der schaut sich an, wie funktioniert das denn?
+[01:09:24-9 @manfredniekisch] Und die Ergebnisse sind natürlich dann auch für andere Zoos interessant, weil wir sagen,
+[01:09:28-7 @manfredniekisch] nun guckt mal, es funktioniert, könnt ihr auch machen.
+[01:09:32-4 @timpritlove] Geht es denn nur um die Tierhaltung?
+[01:09:35-9 @timpritlove] Oder gibt es hier auch Erkenntnisse und Austausch mit Tieren, die jetzt in freier Wildbahn in Deutschland leben?
+[01:09:44-1 @manfredniekisch] Der Frankfurter Zoo hat kaum einheimische Tiere, zumindest nicht in seinen Gehegen.
+[01:09:49-7 @manfredniekisch] Im Zoo selber ja, wir haben hier Marder, wir haben hier Füchse, wir haben hier eine ganze Reihe von Singvögeln,
+[01:09:55-5 @manfredniekisch] die gar nicht zum Zoo gehören, aber im Zoo leben, eben weil wir eine solche Insel in der Stadt sein wollen.
+[01:10:04-9 @manfredniekisch] Eine grüne Insel mit einem großen Teich.
+[01:10:07-4 @manfredniekisch] Es gibt auch Zoos, die kümmern sich sehr viel stärker um einheimische Tiere, die haben wir aber gar nicht.
+[01:10:13-0 @manfredniekisch] Nur etwa in unserem benachbarten und befreundeten Opel-Zoo, die haben durchaus einheimische Tiere.
+[01:10:18-9 @manfredniekisch] Oder wenn wir denken an andere Zoos, die dann auch bei Wiederansiedlungsprojekten von Luchs und ähnlichem unterstützen.
+[01:10:26-7 @manfredniekisch] Das ist schon interessant.
+[01:10:27-8 @manfredniekisch] Der Frankfurter Zoo hat unterstützt bei der Wiederansiedlung von Nashörnern
+[01:10:32-1 @manfredniekisch] und bei der Wiederansiedlung von goldgelben Löwenäffchen in Brasilien.
+[01:10:37-0 @manfredniekisch] Das ist heute nicht mehr der Fall bei den Löwenäffchen, weil die Population inzwischen vor Ort so gut geworden ist,
+[01:10:44-3 @manfredniekisch] dass man gar keine Tiere mehr aussetzen muss.
+[01:10:46-4 @manfredniekisch] Und bei den Nashörnern ist einfach das Problem, die kann man im Moment deswegen nicht auswildern,
+[01:10:51-7 @manfredniekisch] weil der Druck der Wilderei so groß ist, dass man die etwas überspitzt gesagt, am liebsten dann gleich zu Hause totschlagen kann,
+[01:11:00-5 @manfredniekisch] dann spart man sich den Transport.
+[01:11:00-9 @manfredniekisch] Das Risiko, dass die dann vor Ort getötet werden, ist einfach zu groß.
+[01:11:06-3 @timpritlove] Sehen Sie sich denn als Zoo auch so als Teil der Wissenschaftskommunikation?
+[01:11:13-0 @manfredniekisch] Nicht alle Zoos sind mit Wissenschaftlern gesegnet, sondern die Stellen sind beschränkt.
+[01:11:20-0 @manfredniekisch] Und die Wissenschaftler, die in Zoos sitzen als Zoologen, als Veterinäre sind meist mit ihrer Zooarbeit ziemlich ausgelastet,
+[01:11:28-3 @manfredniekisch] können also selber keine Forschung betreiben.
+[01:11:31-0 @manfredniekisch] Aber wie gesagt, wir bieten Forschungsthemen an.
+[01:11:34-9 @manfredniekisch] Machen bis zu einem gewissen Grad auch selber Forschung und ich denke schon,
+[01:11:39-6 @manfredniekisch] dass wir Teil der Wissenschaftsgemeinschaft sind.
+[01:11:42-4 @manfredniekisch] Vielleicht sind wir eher der Teil der Wissenschaft, die ins Angewandte geht, das ist die Hauptaufgabe der Zoos.
+[01:11:50-3 @manfredniekisch] Aber ich denke, das ist eine Befruchtung in zwei Richtungen, wir liefern Input für die Wissenschaft
+[01:11:56-9 @manfredniekisch] und die Wissenschaft liefert Ergebnisse, die wir umsetzen können.
+[01:11:59-9 @timpritlove] Na ich sprach ja konkret die Kommunikation an, die ja jetzt wirklich auf sozusagen Nichtwissenschaftler hin ausgerichtet ist,
+[01:12:05-6 @timpritlove] also auf die Öffentlichkeit hin ausgerichtet.
+[01:12:07-5 @timpritlove] Weil Sie haben es ja gesagt, über 1000 Führungen im Jahr, das sind ja hier fast jeden Tag drei Stück.
+[01:12:16-8 @timpritlove] Diese Rolle, erlerntes, erforschtes, gesichertes, ausdiskutiertes Wissen auch der Öffentlichkeit zugänglich zu machen,
+[01:12:26-0 @timpritlove] das scheint doch hier schon verankert zu sein?
+[01:12:27-7 @manfredniekisch] Ein Zoo muss Öffentlichkeitsarbeit betreiben.
+[01:12:31-2 @manfredniekisch] Ob das mehr in die Richtung Werbung geht oder mehr in die Richtung Wissenschaftskommunikation,
+[01:12:38-1 @manfredniekisch] das bleibt jedem Zoo selber überlassen, wichtig ist, dass man dabei glaubwürdig bleibt,
+[01:12:42-4 @manfredniekisch] das ist ja ganz wesentlich, dass man seine Glaubwürdigkeit nicht verliert,
+[01:12:47-4 @manfredniekisch] aber ein Zoo ist eine öffentliche Einrichtung, muss für die Öffentlichkeit da sein
+[01:12:52-8 @manfredniekisch] und hat die Verpflichtung, zu informieren über wissenschaftliche Themen, Ergebnisse, die zoorelevant sind.
+[01:13:01-7 @manfredniekisch] Die meisten unserer Besucher kommen ja nicht her, um mit dem erhobenen Zeigefinger einen Vortrag über irgendetwas zu hören,
+[01:13:09-4 @manfredniekisch] sondern die kommen zunächst mal, weil sie Tiere sehen wollen.
+[01:13:11-9 @manfredniekisch] Und über das Interesse am Tier kann man dann auch wissenschaftlich gesicherte Dinge vermitteln,
+[01:13:19-0 @manfredniekisch] die den Besucher, die Besucherin interessieren.
+[01:13:24-1 @timpritlove] Woran messen Sie den Erfolg eines Zoos?
+[01:13:29-7 @manfredniekisch] Der Erfolg eines Zoos ist natürlich ganz unterschiedlich messbar.
+[01:13:34-3 @manfredniekisch] Also einmal sind es die Besucherzahlen.
+[01:13:35-7 @manfredniekisch] Nehmen die zu, nehmen die ab?
+[01:13:38-7 @manfredniekisch] Das ist ein ganz guter Erfolgsindikator.
+[01:13:41-3 @manfredniekisch] Der zweite Indikator ist, und das ist jetzt keine Reihenfolge, was wichtiger ist, sondern das ist ein Paket von Merkmalen,
+[01:13:50-3 @manfredniekisch] also der nächste Indikator wäre, wie geht es denn den Tieren?
+[01:13:54-7 @manfredniekisch] Sind die gut untergebracht, fühlen die sich wohl?
+[01:13:58-3 @manfredniekisch] Vermehren die sich?
+[01:13:59-4 @manfredniekisch] Vermehrung allein muss noch nicht ein Kriterium sein für die Qualität der Haltung, sie ist es aber sehr oft.
+[01:14:06-8 @manfredniekisch] Wenn Sie Tiere schlecht halten, dann vermehren die sich unter Umständen eben viel weniger, als wenn die gut gehalten sind.
+[01:14:13-0 @manfredniekisch] Das gilt insbesondere bei den größeren schwierigeren Tieren, wie etwa den Menschenaffen.
+[01:14:18-9 @manfredniekisch] Also da kann man durchaus Geburtszahlen, die Lebensdauer der Tiere mit einrechnen.
+[01:14:24-9 @manfredniekisch] Und man muss natürlich auch, wenn man sich über den Erfolg eines Zoos Gedanken macht, anschauen,
+[01:14:31-6 @manfredniekisch] sind wir denn objektiv wirklich auf dem aktuellsten Stand des Wissens, mit dem was wir hier machen?
+[01:14:41-8 @manfredniekisch] Und wenn wir das nicht sind, was hat das für Gründe und wie können wir da hinkommen?
+[01:14:46-5 @timpritlove] Gibt es denn für solche Parameter so eine Art öffentlichen Index?
+[01:14:49-5 @timpritlove] Werden solche Zahlen konsequent erhoben und veröffentlicht und verglichen?
+[01:14:55-1 @manfredniekisch] Weil Zoos so unterschiedlich sind, kann man da schwer nur Vergleiche machen.
+[01:15:00-7 @manfredniekisch] Es gibt immer wieder Rankings, die dann in verschiedenen Gruppen, das richtet sich meist nach den Besucherzahlen,
+[01:15:09-1 @manfredniekisch] schauen, welches sind die schönsten Zoos?
+[01:15:12-2 @manfredniekisch] Welches sind die erfolgreichsten Zoos?
+[01:15:14-5 @manfredniekisch] Aber das ist immer ein Mix.
+[01:15:16-5 @manfredniekisch] Denn ein Zoo, der sehr viel Fläche hat und vielleicht die Hälfte seiner Fläche noch gar nicht mal als Zoo nutzt,
+[01:15:23-4 @manfredniekisch] sondern einfach brachliegen lässt für die Zukunft, hat natürlich eine andere Situation,
+[01:15:28-2 @manfredniekisch] als beispielsweise der Zoo in Frankfurt, wo wirklich jeder Quadratmeter genutzt werden muss,
+[01:15:34-4 @manfredniekisch] einfach weil wir zu wenig Platz haben.
+[01:15:36-7 @manfredniekisch] Dazu kommt, dass die Zoos auch von, das sagte ich gerade schon, vom Konzept her unterschiedlich sind,
+[01:15:43-2 @manfredniekisch] und es auch sehr darauf ankommt, wer denn der Träger eines solchen Zoos ist.
+[01:15:47-9 @manfredniekisch] Frankfurt ist ein öffentlicher Zoo, den die Stadt Frankfurt finanziert.
+[01:15:53-6 @manfredniekisch] Das heißt, ich stehe nicht unter dem Druck als Zoodirektor, all das Geld, das ich ausgeben will, auch zu erwirtschaften.
+[01:16:01-9 @manfredniekisch] Das kann ich gar nicht, weil beispielsweise der städtische Zoo in Frankfurt gar nichts verkaufen darf außer Eintrittskarten.
+[01:16:07-9 @manfredniekisch] Also wir dürfen keine Plüschtiere, Bücher oder sonst was verkaufen, um Geld zu verdienen.
+[01:16:13-4 @manfredniekisch] Ein privater Zoo und da gibt es eine ganze Menge, hat es da sehr viel leichter.
+[01:16:17-8 @manfredniekisch] Und privat heißt nicht, dass die einer Person gehören, sondern beispielsweise dass das eine Aktiengesellschaft ist,
+[01:16:23-4 @manfredniekisch] eine GmbH, also da gibt es alle Rechtsformen
+[01:16:28-5 @manfredniekisch] Und auch unterschiedliche Vorstellungen, ein Zoo, der nicht öffentlich gefördert wird, muss, um vernünftig Tiere halten zu können,
+[01:16:36-2 @manfredniekisch] das Geld erwirtschaften.
+[01:16:37-9 @manfredniekisch] Der Opel-Zoo ist ein Zoo, der durch eine Stiftung finanziert ist.
+[01:16:42-3 @manfredniekisch] Und wenn da ein Finanzloch entsteht, da kommt nicht die Stadt und sagt, okay wir halten den Minimalbetrieb aufrecht,
+[01:16:50-4 @manfredniekisch] sondern dann kann der sozusagen zu machen, oder muss seine Aktivitäten in vielen Bereichen reduzieren.
+[01:16:56-4 @manfredniekisch] Hier in Frankfurt, wir sind öffentlich gefördert, wir sind ein Zoo der Stadt, das heißt wir machen am Jahresanfang ein Budget.
+[01:17:02-8 @manfredniekisch] Und natürlich versuchen wir, möglichst viele Besucher zu haben, aber unsere Einnahmen sollen,
+[01:17:08-4 @manfredniekisch] und das ist politisch gewünscht, sich eben nicht daran interessieren, wie viel muss ich denn einnehmen.
+[01:17:14-9 @manfredniekisch] Sondern zunächst mal, und das finde ich eine wahnsinnig schöne Sache, muss sich die Frage gestellt werden,
+[01:17:21-5 @manfredniekisch] und stellt sich der Frankfurter Zoo und der Magistrat der Stadt, die Stadtverordnetenversammlung, die Frage,
+[01:17:28-3 @manfredniekisch] was ist denn sozial verträglich?
+[01:17:30-2 @manfredniekisch] Was ist denn ein Eintrittspreis, den sich jeder leisten kann?
+[01:17:34-5 @manfredniekisch] Und so kommt es, dass Sie für einen Familienkarte in Frankfurt oft weniger bezahlen als mancher Zoo für einen einzelnen Erwachsenen verlangt.
+[01:17:45-4 @manfredniekisch] Weil wir eben nicht unter dem Druck stehen, alles Geld erwirtschaften zu müssen bevor wir es ausgeben können.
+[01:17:53-9 @timpritlove] Jetzt stehen Zoos natürlich auch selbstverständlich, wie wir alle, auch so in der öffentlichen Kritik.
+[01:18:06-1 @timpritlove] Es gibt ja immer wieder Auseinandersetzungen mit Leuten, die der Meinung sind, Zoos wären ja an sich eine schlechte Idee.
+[01:18:12-3 @timpritlove] Warum halten wir denn überhaupt die Tiere bei uns in der Stadt?
+[01:18:16-2 @timpritlove] Was soll denn das?
+[01:18:16-7 @timpritlove] Lasst doch die Tiere da sein, wo sie hingehören.
+[01:18:24-3 @timpritlove] Was ficht uns das an?
+[01:18:25-9 @timpritlove] Diese Debatten werden Sie sicherlich kennen, besser als ich, ich kenne sie nämlich nicht wirklich.
+[01:18:30-7 @timpritlove] Was muss man da, welche Diskussionen laufen da, wie gehen Sie damit um?
+[01:18:34-9 @manfredniekisch] Also zunächst mal muss man sagen, dass man mit konstruktiver Kritik natürlich immer umgehen kann,
+[01:18:40-0 @manfredniekisch] indem man sagt, ist da was dran, und wenn ja, wie können wir dieser Kritik begegnen, wie können wir Missstände abschaffen?
+[01:18:47-1 @manfredniekisch] Das ist aber in der Regel nicht der Fall.
+[01:18:50-1 @manfredniekisch] Sondern in der Regel kommt massive Kritik von Leuten, die grundsätzlich keine Zoos mögen.
+[01:18:56-1 @manfredniekisch] Da kann man nur sagen, ich muss auch kein Fußball mögen, ich muss auch keinen Spinat mögen.
+[01:19:01-6 @manfredniekisch] Es gibt Leute, die mögen Zoos nicht, gut aus.
+[01:19:04-7 @manfredniekisch] Aber deswegen darf man noch nicht die Existenzberechtigung infrage stellen, denn viele Menschen mögen Zoos eben.
+[01:19:12-7 @manfredniekisch] Und dann kommt es zu einer ganzen Reihe von Missverständnissen, weil viele Zoogegner,
+[01:19:18-5 @manfredniekisch] wenn man mit ihnen diskutiert und das tue ich ja am laufenden Band sozusagen, gar nicht wissen,
+[01:19:23-4 @manfredniekisch] was hinter einem Zoo alles steht.
+[01:19:25-5 @manfredniekisch] Also beispielsweise dass es Zuchtbücher gibt, wo genauestens kontrolliert wird, welches Tier mit welchem zusammenkommt,
+[01:19:34-5 @manfredniekisch] damit es keine Inzucht gibt.
+[01:19:36-3 @manfredniekisch] Dass es Vorschriften gibt, wie ein Tier zu halten ist, Mindestgrößen und so weiter.
+[01:19:42-5 @manfredniekisch] Aber auch solche Missverständnisse wie das Gitter Gefängnis signalisieren.
+[01:19:47-2 @manfredniekisch] Gitter sind wunderbar, denn durch Gitter riechen Sie, sehen Sie Tiere.
+[01:19:52-9 @manfredniekisch] Aber eben es dürfen nicht nur Gitter sein.
+[01:19:54-9 @manfredniekisch] Wenn Sie ein Tier durch Glas sehen, ist das schön, aber der Geruch ist derselbe, ob da ein Goldfisch hinter dem Glas ist oder ein Löwe.
+[01:20:03-9 @manfredniekisch] Deswegen haben diese Gitter schon Vorteile, aber sie suggerieren halt Gefängnis.
+[01:20:08-6 @manfredniekisch] Und da bin ich beim Thema Haltung in Gefangenschaft.
+[01:20:11-6 @manfredniekisch] Was kaum jemand weiß, der Zoos kritisiert, ist, dass diese Tiere ja nicht in der Natur fehlen.
+[01:20:18-1 @manfredniekisch] Die waren auch nie in der Natur, die kommen auch nicht in der Natur.
+[01:20:21-4 @manfredniekisch] Kein verantwortungsvoller Zoo fängt heute Tiere in der Natur, sondern die sind alle schon in Zoos geboren
+[01:20:29-4 @manfredniekisch] und deswegen ist dieses Wort Gefangenschaft für fast alle Tiere unzutreffend, denn die sind nie gefangen worden.
+[01:20:36-8 @manfredniekisch] Und die fühlen sich auch nicht wie Gefangene.
+[01:20:39-8 @manfredniekisch] Wenn ich bei meinen Bonobos oder Gorillas auf die Anlage gehen würde, die würden mich zerfetzen.
+[01:20:46-0 @manfredniekisch] Nicht, weil sie mich nicht mögen, sondern weil ich ein Eindringling bin in ihr Territorium.
+[01:20:52-5 @manfredniekisch] Die wissen genau, wo die Grenze ist, und die wissen, du bist der Chef auf der einen Seite und der Gorilla-Mann ist der Chef auf der anderen Seite.
+[01:21:00-4 @manfredniekisch] Das heißt, die fühlen sich wirklich als Grundstücksbesitzer und fühlen sich da wohl.
+[01:21:07-4 @manfredniekisch] Immer unter der Bedingung, dass diese Gelände auch gut gestaltet sind, das ist klar.
+[01:21:12-6 @manfredniekisch] Aber das ist ja eine Grundvoraussetzung bei einem vernünftigen Zoo, dass die Tiere auf der Fläche,
+[01:21:18-9 @manfredniekisch] auf der sie untergebracht sind, das finden, was sie zum Leben brauchen.
+[01:21:23-0 @manfredniekisch] Dann gibt es solche Argumente wie, ja ein Eisbär der bewegt sich ja im freien Lebensraum hunderte bis tausende von Kilometern,
+[01:21:33-3 @manfredniekisch] um Nahrung zu finden, das stimmt.
+[01:21:36-1 @manfredniekisch] Das braucht er aber im Zoo nicht, denn er würde es auch in der Natur nicht tun, wenn ihn nicht der Hunger, die Suche nach Nahrung dazu brächte.
+[01:21:44-4 @manfredniekisch] Jetzt muss er sagen, ja aber der hat doch dann den Bewegungsdrang.
+[01:21:47-7 @manfredniekisch] Richtig, aber er muss nicht laufen, um sein Futter zu finden, das kriegt er ja im Zoo.
+[01:21:52-5 @manfredniekisch] Aber man kann sich und muss sich jede Menge Tricks einfallen lassen, damit es dem Tier nicht langweilig wird.
+[01:21:59-1 @manfredniekisch] Dass die Bewegung haben, dass die Abwechslung haben, dass die Aufgabe lösen müssen.
+[01:22:04-2 @manfredniekisch] Also unsere Menschenaffen, unsere Bären und so weiter, die haben ständig irgendwelche Spielereien,
+[01:22:09-5 @manfredniekisch] um sich Nahrung zu erschließen, um sich Nahrung zu erarbeiten.
+[01:22:13-3 @manfredniekisch] Die kriegen nicht einfach einen Futternapf hingestellt und sind ständig satt.
+[01:22:18-8 @manfredniekisch] Die Tiere, die in der Natur sind, haben einen erheblichen Stress, an Hunger, an Durst, an Feinden.
+[01:22:26-1 @manfredniekisch] Diesen Stress können und wollen wir ihnen in einem Zoo nicht bieten.
+[01:22:30-3 @manfredniekisch] Aber diese Vorstellung, Tiere in der Natur, das ist das Paradies und Tiere im Zoo, das ist das Gefängnis, ist absoluter Quatsch.
+[01:22:42-1 @timpritlove] Ich will Sie jetzt nicht nach Ihrem Lieblingstier fragen, aber …
+[01:22:44-2 @manfredniekisch] Das können Sie tun.
+[01:22:46-5 @timpritlove] Okay, dann bin ich auch gespannt auf die Antwort … sagen Sie doch erst mal.
+[01:22:54-8 @manfredniekisch] Das ist eine Frage, die wird ein Zoodirektor immer wieder gefragt.
+[01:22:57-7 @manfredniekisch] Es gibt eigentlich drei Fragen, die häufig sind, wenn man Zoodirektor ist.
+[01:23:01-1 @manfredniekisch] Nämlich erstens, wann werden die Löwen gefüttert, zweitens, wo sind die Toilette und drittens, was ist denn Ihr Lieblingstier?
+[01:23:08-1 @timpritlove] Ja okay.
+[01:23:08-6 @manfredniekisch] Und ich sage dann immer, ein Zoodirektor muss alle seine Tiere lieben, der kann, wie ein Familienvater das ja auch nicht kann,
+[01:23:16-0 @manfredniekisch] nicht sagen, ja dieses Kind ist mir lieber als das andere.
+[01:23:20-4 @manfredniekisch] Deswegen muss das Lieblingstier ein Tier sein, das außerhalb der Konkurrenz der Zootiere läuft.
+[01:23:26-5 @manfredniekisch] Das ist schon mal das erste Kriterium.
+[01:23:28-0 @manfredniekisch] Und da habe ich mir die Gelbbauchunke ausgesucht.
+[01:23:32-6 @timpritlove] Die hatten wir ja schon.
+[01:23:33-0 @manfredniekisch] Erstens läuft die … aber das hat ja Gründe, dass wir die hatten.
+[01:23:37-3 @manfredniekisch] Also erst mal lebt die außerhalb der Konkurrenz der Zootiere.
+[01:23:40-5 @manfredniekisch] Zweitens hat sie eine herzförmige Pupille, wer hat das schon.
+[01:23:44-5 @manfredniekisch] Und drittens verdanke ich ihr meinen Doktortitel.
+[01:23:46-5 @manfredniekisch] Das ist ja schon was, das sind drei gute Gründe, die Gelbbauchunke zu mögen.
+[01:23:52-3 @manfredniekisch] Nein, aber man ernsthaft, es gibt natürlich Tiere, wo man eine persönliche Beziehung aufbaut.
+[01:23:58-7 @manfredniekisch] Also wenn man bei den Menschenaffen ist und man merkt, dass die auf einen als Individuum reagieren,
+[01:24:05-7 @manfredniekisch] das ist schon was.
+[01:24:06-8 @manfredniekisch] Wenn Sie vor einer Python-Anlage stehen und der Python schaut Sie an, da kommt wenig persönliches rüber.
+[01:24:13-2 @manfredniekisch] Also da ist Interaktion und da sind auch Emotionen.
+[01:24:17-6 @timpritlove] Darauf wollte ich eigentlich ein bisschen hinaus, weil mir geht es selber auch so.
+[01:24:21-6 @manfredniekisch] Weil ich bei den allermeisten Tieren mir denke, okay wir bewohnen zwar denselben Planeten,
+[01:24:27-0 @timpritlove] aber wir haben einfach mal einen komplett anderen Film.
+[01:24:30-7 @timpritlove] Aber wenn man sich Gorillas und Orang Utans anschaut, da wird mir irgendwie anders.
+[01:24:38-7 @timpritlove] Ich kann es gar nicht so richtig beschrieben, allein wahrscheinlich auch deshalb, weil ich letztlich viel zu wenig Zeit damit verbracht habe.
+[01:24:46-0 @timpritlove] Sie sind ja diesen Tieren häufiger gegenüber, was geht Ihnen da durch den Kopf?
+[01:24:54-8 @manfredniekisch] Also da geht mir sehr viel durch den Kopf, denn da entstehen durchaus Gefühle und persönliche Bindungen.
+[01:25:02-9 @manfredniekisch] Nicht nur dem Zoodirektor gegenüber, sondern wir haben beispielsweise einen jungen Gorilla retten können,
+[01:25:08-2 @manfredniekisch] weil die Gorilla-Mutter ein sehr gutes Verhältnis zu einer Tierpflegerin hatte.
+[01:25:13-5 @manfredniekisch] Die Tierpflegerin saß 24 Stunden vor dem Gehege der Mutter mit dem Jungtier, hat das hochgepäppelt, bis es stabil war
+[01:25:21-0 @manfredniekisch] und dann haben wir es nach einigen Tagen der Mutter wiedergegeben.
+[01:25:24-2 @manfredniekisch] Die Mutter wäre durchgedreht, die Gorilla-Mutter, wenn das ein Pfleger gewesen wäre, den sie nicht mag.
+[01:25:30-9 @manfredniekisch] Also da gibt es solche ganz persönlichen Beziehungen.
+[01:25:32-9 @timpritlove] Aber warum war das Tier überhaupt gefährdet?
+[01:25:34-7 @manfredniekisch] Das Tier war gefährdet, weil es eine Zwillingsgeburt war, der eine Zwilling war unterentwickelt und ist gestorben
+[01:25:39-2 @manfredniekisch] und der andere war so schwach, dass wir gesagt haben, es gibt zwei Möglichkeiten, wir lassen ihn bei der Mutter,
+[01:25:43-9 @manfredniekisch] dann stirbt er garantiert, oder wir päppeln ihn intensivst ein paar Tage auf und geben ihn der Mutter zurück.
+[01:25:49-8 @manfredniekisch] Das hat sich wunderbar machen lassen.
+[01:25:52-8 @manfredniekisch] Also da gibt es persönliche Beziehungen, die sich auch darin äußern, dass beispielsweise unser Bonobo-Mann,
+[01:25:59-4 @manfredniekisch] die hießen früher mal Zwergschimpansen, aber der tobt jedes Mal gegen die Scheibe, wenn ich komme,
+[01:26:04-9 @manfredniekisch] um mir zu zeigen, ich bin hier der Boss, du kannst der Boss auf der anderen Seite sein, aber da ist dann schon ein Rangkampf sozusagen,
+[01:26:14-1 @manfredniekisch] auf den ich mich natürlich nicht einlassen kann, weil ich da unterliegen würde.
+[01:26:18-9 @timpritlove] Aber man wird individuell erkannt?
+[01:26:20-6 @manfredniekisch] Man wird individuell erkannt.
+[01:26:22-2 @manfredniekisch] Das hat sehr leidvoll der Kölner Zoodirektor erfahren, als dem mal die Schimpansen abgehauen sind,
+[01:26:29-1 @manfredniekisch] ist nur einer schwerverletzt worden von dem Schimpansen, das war nämlich er.
+[01:26:33-6 @manfredniekisch] Den hat der Schimpansen-Mann total zusammengebissen, weil er eben den Anführer treffen wollte, nicht seine Pfleger.
+[01:26:39-8 @manfredniekisch] Da wird man schon individuell erkannt.
+[01:26:41-5 @manfredniekisch] Übrigens nicht nur bei den Gorillas oder bei den Orang Utans, über die wir gerade gesprochen haben,
+[01:26:47-3 @manfredniekisch] auch bei den Nashornleguanen.
+[01:26:49-2 @manfredniekisch] Wenn der vertraute Pfleger zu den Nashornleguanen reingeht, die füttert, der kann die auf den Arm nehmen,
+[01:26:55-9 @manfredniekisch] der kann die am Nacken kraulen und es passiert gar nichts.
+[01:26:59-5 @manfredniekisch] Wenn ich reingehe, gibt es Panik, weil die mich nicht kennen.
+[01:27:04-6 @manfredniekisch] Und das ist ein langer Prozess, bis einen ein Tier akzeptiert.
+[01:27:08-7 @manfredniekisch] Also da entstehen durchaus persönliche Verbindungen, die auch schnell mal kippen können.
+[01:27:14-8 @manfredniekisch] Dazu ein Beispiel, wir haben einen Anruf vom Flughafen Frankfurt gekriegt, da sein ein Tiger in einer unsicheren Kiste angeliefert worden,
+[01:27:23-1 @manfredniekisch] und der darf weder auf den Flieger noch zurück auf den LKW, entweder wir übernehmen den hier,
+[01:27:28-9 @manfredniekisch] solange bis eine vernünftige Transportkiste da ist oder er wird erschossen.
+[01:27:32-6 @manfredniekisch] Und da haben wir natürlich gesagt, na dann übernehmen wir, den retten wir den Tiger.
+[01:27:37-3 @manfredniekisch] Und haben ihn erst mal in die Bärenanlage gebracht, also in das Haus, wo auch die Bären sind, aber in einem anderen Abteil.
+[01:27:46-3 @timpritlove] Wie kurzfristig mussten Sie da reagieren?
+[01:27:49-0 @manfredniekisch] Stunde.
+[01:27:50-2 @manfredniekisch] Und wir hatten gerade dieses Haus fertig, das hat also insofern gut gepasst.
+[01:27:54-8 @manfredniekisch] Und ich war da in einer Besprechung, kam etwas später hin.
+[01:27:58-3 @manfredniekisch] Der Tiger in dieser Kiste hat gebrüllt, war verletzt, es roch nach Urin und so weiter und er hat einen unglaublichen Krach gemacht.
+[01:28:06-8 @manfredniekisch] Und ich habe festgestellt, dass die Bärenmutter mit den Jungen hinten in dem Trakt diesen ganzen Krach ja hören musste.
+[01:28:14-6 @manfredniekisch] Und habe mir naiv wie ich war gedacht, da gehe ich jetzt hin und beruhige die oder schau wenigstens mal,
+[01:28:20-8 @manfredniekisch] dass nichts passiert.
+[01:28:21-7 @manfredniekisch] Die hat mich danach wochenlang gehasst, weil sie nämlich den ganzen Krach mit mir und meinem Erscheinen assoziiert hat.
+[01:28:29-1 @manfredniekisch] Und es hat mich viele Nüsschen und Äpfel gekostet, die dann davon zu überzeugen, dass ich ein lieber Mensch bin.
+[01:28:37-3 @timpritlove] Und was ist aus dem Tiger geworden?
+[01:28:38-6 @manfredniekisch] Der Tiger ist dann bei uns ein paar Tage gehalten worden, bis eine sichere Transportkiste da war und dann ist er weiter.
+[01:28:44-7 @manfredniekisch] Der war auf einem Transport von einem nichtdeutschen Zoo in einen anderen Zoo außerhalb Deutschlands,
+[01:28:50-6 @manfredniekisch] welchen weiß ich jetzt nicht mehr.
+[01:28:53-0 @timpritlove] Und hat sich denn der Tiger dann auch an diese Situation so schnell gewöhnen können?
+[01:28:59-0 @manfredniekisch] Ja, der hatte ja keine andere Wahl.
+[01:29:01-2 @manfredniekisch] Es ging ihm auf jeden Fall bei uns besser als in dieser Transportkiste.
+[01:29:06-2 @timpritlove] Ja okay, das ist nachvollziehbar.
+[01:29:10-4 @timpritlove] Vielleicht nochmal so, weil mich das auch auch interessiert, wie muss man sich die Organisation eines solchen Zoos vorstellen?
+[01:29:25-9 @timpritlove] Wie findet so ein Zoo seinen Modus operandi?
+[01:29:29-5 @timpritlove] Das sind natürlich Dinge, die jetzt über Jahre, Jahrzehnte gewachsen sind und wo sich die Dinge nicht von heute auf morgen ändern.
+[01:29:38-7 @timpritlove] Aber wenn man jetzt neu in so ein Zoosystem dazustößt, hier irgendeine Rolle einnimmt,
+[01:29:48-4 @timpritlove] also jetzt keine Verwaltungsrolle ist, sondern sozusagen Pflegerrollen, Leute, die sozusagen auf dem Zoogelände selber aktiv werden,
+[01:29:57-2 @timpritlove] wie lange dauert das, bis man da reinkommt, was muss man verstehen, was muss man lernen,
+[01:30:03-2 @timpritlove] um in so ein System eintauchen zu können?
+[01:30:06-4 @manfredniekisch] Das komplexeste in einem Zoo ist sicherlich die Mitarbeiterschaft.
+[01:30:10-2 @manfredniekisch] Das heißt, man muss wissen, wie die Mitarbeiterinnen und Mitarbeiter ticken.
+[01:30:14-6 @manfredniekisch] Was die für Vorstellungen haben, was die für Wünsche haben, was die Individuen im Zoo wollen?
+[01:30:21-0 @manfredniekisch] Da gibt es welche, die sagen, ich möchte Revierleiter werden, ich möchte nach oben kommen.
+[01:30:24-8 @manfredniekisch] Und andere sagen, lass mich in Ruhe meinen Job machen, ich bin froh, wenn ich jeden Tag bei den Tieren sein darf.
+[01:30:30-9 @manfredniekisch] Also diese ganze komplexe Geschichte der Mitarbeiterführung, das ist etwas, von dem hängt das Wohl und Wehe eines Zoos
+[01:30:38-4 @manfredniekisch] und eines Zoodirektors ab, das ist ganz klar.
+[01:30:41-6 @manfredniekisch] Und da hat man eben viel mehr mit Menschen zu tun als mit Tieren.
+[01:30:45-3 @manfredniekisch] Ansonsten ist natürlich die Frage, welche Geschichte hat der Zoo?
+[01:30:50-6 @manfredniekisch] Wir sind da doch schon ein bisschen traditionsbewusst.
+[01:30:53-5 @manfredniekisch] Was erwartet sich der Träger des Zoos von einem Zoodirektor und der Mannschaft?
+[01:31:00-2 @manfredniekisch] Wie ist der Tierbestand?
+[01:31:01-7 @manfredniekisch] Sind da eventuell zu viele Tiere da?
+[01:31:04-2 @manfredniekisch] Sind die falschen Tiere da?
+[01:31:05-8 @manfredniekisch] Sind zu wenige Tiere da?
+[01:31:07-7 @manfredniekisch] Wir haben eine ganze Reihe von Tierarten abgeschafft, weil wir gesagt haben, die können wir nicht vernünftig halten.
+[01:31:12-6 @timpritlove] Zum Beispiel?
+[01:31:13-7 @manfredniekisch] Zum Beispiel unsere Rappenantilopen.
+[01:31:16-7 @manfredniekisch] Und wir haben andere Tiere angeschafft, die wir vorher nicht hatten.
+[01:31:21-4 @manfredniekisch] Wir haben beispielsweise auch die Brillenbären angeschafft mit einer ganz neuen Anlage,
+[01:31:28-0 @manfredniekisch] die wir speziell für die gebaut haben, weil wir gesagt haben, wir brauchen Bären, wir wollen Bären haben,
+[01:31:33-6 @manfredniekisch] die gibt es auch in anderen Zoos, wir können von dort welche bekommen.
+[01:31:37-9 @manfredniekisch] Und wir wollen Bären haben, die man sommers und winters sehen kann.
+[01:31:42-8 @manfredniekisch] Vorher hatten wir zwei tropische Bärenarten, Lippenbären und Malaienbären.
+[01:31:49-5 @manfredniekisch] Die haben wir abgegeben, weil man die nämlich nur im Sommer sah, im Winter waren die in einem geheizten Haus,
+[01:31:55-2 @manfredniekisch] wo die Besucher nicht hin konnten und die Anlage war auch einfach völlig veraltet, das war ein Zementgraben aus den 50er Jahren.
+[01:32:04-1 @manfredniekisch] Also da muss man sich zum Teil beschränken, muss man zum Teil Tierarten austauschen.
+[01:32:08-8 @manfredniekisch] Und dann haben wir aber beispielsweise eben auch Tierarten angeschafft, wie die Ameisenbären oder die Waldhunde,
+[01:32:16-0 @manfredniekisch] weil man die Waldhunde etwa mit den Bären auf einer Anlage halten kann und dann haben alle Späßchen.
+[01:32:22-8 @manfredniekisch] Für die Bären ist ein bisschen mehr los, für die Waldhunde auch und die Besucher sehen auch dann etwas,
+[01:32:27-4 @manfredniekisch] wenn die Bären faul unterm Busch liegen und nichts tun.
+[01:32:30-9 @timpritlove] Das hatte ich mich vorhin schon gefragt, aber dann nicht zur Frage formuliert, ist denn das ein Trend,
+[01:32:37-7 @timpritlove] dass man versucht, kompatible Tiergruppen in denselben Bereich zu finden?
+[01:32:43-1 @timpritlove] Weil als wir davon gesprochen haben, dass Tiere ja schon immer in dieser Situation waren,
+[01:32:46-9 @timpritlove] ist natürlich in gewisser Hinsicht auch so ein bisschen öde, wenn sie immer nur unter sich selber sind.
+[01:32:50-5 @manfredniekisch] Richtig. Das ist …
+[01:32:51-7 @timpritlove] Ist das so Teil der Forschung?
+[01:32:52-9 @manfredniekisch] Das ist ein Trend, und es ist mit Sicherheit ein Trend hier bei uns in Frankfurt.
+[01:32:58-0 @manfredniekisch] Denn die Tiere sind ja in der Natur auch nicht allein.
+[01:33:00-8 @timpritlove] Ja eben.
+[01:33:01-6 @manfredniekisch] Und wenn wir uns beispielsweise anschauen, wir haben eine Anlage, da sind Erdferkel drin, da ist eine Eule drin,
+[01:33:08-3 @manfredniekisch] da sind die Buschbabys drin, da sind die Springhasen drin, alles in einer Anlage.
+[01:33:13-3 @manfredniekisch] All diese Tiere haben unterschiedliche Aktivitätsrhythmen.
+[01:33:16-9 @manfredniekisch] Und wenn ein Besucher hinkommt und die Erdferkel schlafen, dann hat er immer noch andere Tiere, die er da sehen kann.
+[01:33:23-2 @manfredniekisch] Und wenn die Erdferkel aktiv sind und andere Tiere sich zurückziehen, ist auch wieder was los.
+[01:33:28-6 @manfredniekisch] Und die Erdferkel merken eben auch, dass sie nicht allein sind.
+[01:33:31-9 @manfredniekisch] Das heißt, es riecht ein bisschen anders, die Gerüche verändern sich, je nachdem wo so ein Buschbaby gerade markiert hat.
+[01:33:38-7 @manfredniekisch] Es ist immer irgendetwas los, das ist spannender für die Tiere und es ist spannender für die Besucher
+[01:33:44-3 @manfredniekisch] und gleichzeitig kann man auf relativ wenig Fläche auch ein bisschen mehr an Tierarten zeigen, ohne da bestimmte Grenzen zu überschreiten.
+[01:33:53-8 @timpritlove] Sind denn das immer Tiere, die auch in ihrem natürlichen Habitat auf demselben Fleck miteinander auskommen würden,
+[01:34:00-1 @timpritlove] oder kommen hier auch Tierarten zusammen, die eigentlich sonst so sich nie gesehen hätten?
+[01:34:04-7 @manfredniekisch] Wir haben, und das haben eigentlich alle Zoos, die Tendenz, nur Tiere miteinander zu vergesellschaften,
+[01:34:12-5 @manfredniekisch] die auch in der Natur gemeinsam vorkämen.
+[01:34:15-4 @manfredniekisch] Es gibt aber beispielsweise den Fall eines einsamen Elefanten in einem Zoo, der nicht allein sein sollte,
+[01:34:22-3 @manfredniekisch] der Freundschaft geschlossen hat mit einer Ziege.
+[01:34:25-0 @manfredniekisch] Und da waren eben Ziege und Elefant dann.
+[01:34:27-2 @manfredniekisch] Aber sagen wir mal mehr aus sozialen Gründen als aus biologischen Gründen.
+[01:34:31-7 @manfredniekisch] Ansonsten ist es schon so, wir halten nur Tiere zusammen, die auch im selben Lebensraum vorkommen.
+[01:34:39-4 @manfredniekisch] Das stößt an Grenzen, Löwen und Zebras kommen in der Natur im selben Lebensraum vor,
+[01:34:44-0 @manfredniekisch] bei uns im Zoo nicht.
+[01:34:46-8 @timpritlove] Ja. Ist das so eine psychologische Begleitungsziege sozusagen?
+[01:34:51-6 @manfredniekisch] Bei dem Elefanten war das eine psychologische Assistenz.
+[01:34:54-9 @timpritlove] Und das hat geholfen?
+[01:34:55-7 @manfredniekisch] Das hat geholfen.
+[01:34:56-5 @timpritlove] Woran merkt man das?
+[01:34:57-5 @manfredniekisch] Das merkt man daran, dass die sehr gut interagiert haben, dass sich der Elefant nicht allein gefühlt hat.
+[01:35:02-3 @manfredniekisch] Es ist natürlich ein Notbehelf, nur für mehr Elefanten war in diesem Zoo kein Platz und inzwischen ist der auch gestorben aus Altersgründen.
+[01:35:11-5 @timpritlove] Was macht die Ziege jetzt?
+[01:35:12-3 @manfredniekisch] Die Ziege hat sich neue Freunde gesucht, wie das Ziegen halt so machen.
+[01:35:15-5 @timpritlove] Okay, die sind da nicht so?
+[01:35:17-4 @manfredniekisch] Nein, die sind da unempfindlich.
+[01:35:19-6 @timpritlove] Jetzt ist das ja nicht mehr Ihre Aufgabe, aber Gedanken werden Sie sich ja wahrscheinlich darum trotzdem machen,
+[01:35:24-2 @timpritlove] wohin sollte denn die Reise gehen für die Zoos?
+[01:35:27-2 @timpritlove] Jetzt gibt es viel Geschichte, viel hat sich geändert, die ganze Ausrichtung ist anders,
+[01:35:31-2 @timpritlove] es gibt diese wissenschaftliche Komponente, es gibt permanent angepasste, sich weiterentwickelnde Haltungsformen,
+[01:35:39-1 @timpritlove] Kombination von Tieren etc., wie man mit den Tieren umgeht.
+[01:35:42-5 @timpritlove] Wo geht die Reise hin?
+[01:35:44-1 @timpritlove] Was sehen Sie ist die Aufgabe von Zoos sowohl für sich sich selber zu entwickeln als auch, was ist die Aufgabe von Zoos in der Gesellschaft
+[01:35:54-2 @timpritlove] und dann halt auch in der wissenschaftlichen Forschung, auch in Hinblick auf den Artenschutz,
+[01:35:57-8 @timpritlove] den wir anfangs diskutiert haben?
+[01:36:00-7 @manfredniekisch] Ich glaube, Zoos haben in der Zukunft eine große Aufgabe und eine sehr sehr wichtige Berechtigung,
+[01:36:08-2 @manfredniekisch] die wird ja oft hinterfragt.
+[01:36:10-2 @manfredniekisch] Dazu gehört erstens, dass die Tiere optimal gehalten sind, dazu gehört zweitens,
+[01:36:15-6 @manfredniekisch] dass Information vermittelt wird, der Bildungsauftrag der Zoos ist ganz wichtig.
+[01:36:21-3 @manfredniekisch] Dazu gehört, dass sich Zoos im Zoo bemühen um den Naturschutz.
+[01:36:26-9 @manfredniekisch] Einmal, indem sie Besuchern sagen, was man für den Naturschutz tun kann, aber auch indem sie beispielsweise Tiere züchten,
+[01:36:34-9 @manfredniekisch] die in der Natur bedroht sind, um Zoopopulationen aufzubauen stabile.
+[01:36:40-5 @manfredniekisch] Und die Zoos sollten sich alle soweit sie das können und so viel sie das können engagieren im Naturschutz außerhalb der Zoomauern.
+[01:36:51-7 @manfredniekisch] Viele Zoos können keine Naturschutzprojekte selber machen, brauchen sie auch gar nicht,
+[01:36:56-5 @manfredniekisch] dazu gibt es die Profis, dazu gibt es Naturschutzorganisationen, die spezialisiert sind auf so was.
+[01:37:01-7 @manfredniekisch] Aber Zoos können beispielsweise Geld sammeln für den Naturschutz.
+[01:37:07-0 @manfredniekisch] Und wir haben hier in Frankfurt natürlich die besonders glückliche Situation,
+[01:37:10-9 @manfredniekisch] dass der Zoo Frankfurt und die zoologische Gesellschaft Frankfurt, die ja formalrechtlich überhaupt nicht miteinander verknüpft sind,
+[01:37:18-9 @manfredniekisch] dass die so eng kooperieren und die zoologische Gesellschaft Frankfurt macht weltweit Naturschutzprojekte,
+[01:37:26-0 @manfredniekisch] was wir als Zoo gar nicht könnten.
+[01:37:28-5 @manfredniekisch] Aber wir können der zoologischen Gesellschaft anbieten beispielsweise, die Büros in unserem Haus
+[01:37:35-7 @manfredniekisch] und die Plattform des Frankfurter Zoos, um ihre Botschaften zu verbreiten, um Geld zu sammeln und so weiter.
+[01:37:43-6 @timpritlove] Ja Herr Niekisch, haben Sie noch einen letzten Gedanken, den wir noch nicht gestriffen haben,
+[01:37:50-6 @timpritlove] den Sie vielleicht hier noch mit auf den Weg geben wollen?
+[01:37:53-7 @manfredniekisch] Ich habe noch viele Gedanken und ich hoffe, dass ich die Diskussion um die Zoos, wie sie von ihren Gegnern geführt,
+[01:38:04-1 @manfredniekisch] versachlicht wird, dass die Gegner sich die Argumente anschauen für den Zoo und gegen den Zoo.
+[01:38:11-0 @manfredniekisch] Und ich bin sicher, wer sich die Argumente sorgfältig anschaut und gegeneinander abwägt, er wird zu der Erkenntnis kommen,
+[01:38:18-9 @manfredniekisch] Zoos werden immer wichtiger und verlieren nicht ihre Daseinsberechtigung.
+[01:38:25-6 @timpritlove] Ja dann bleibt mir nur noch, danke zu sagen für das Gespräch.
+[01:38:29-1 @manfredniekisch] Ich danke Ihnen.
+[01:38:29-5 @timpritlove] Für die tiefen Einblicke hier in die Situation des Artenschutzes und die Situation der Zoos, der zoologischen Gärten.
+[01:38:38-4 @timpritlove] Und das war es hier bei Forschergeist mit dieser Ausgabe.
+[01:38:43-3 @timpritlove] Ich bedanke mich natürlich auch bei allen, die hier zuhören.
+[01:38:47-2 @timpritlove] Das war es für heute, wir kommen wieder, ich sage, tschüss und bis bald.
+[01:38:51-7 Outro]

@@ -1,0 +1,1046 @@
+[00:00:00-2 Intro]
+[00:00:43-0 @timpritlove] Hallo und herzlich Willkommen zu Forschergeist, dem Podcast des Stifterverbands für die deutsche Wissenschaft.
+[00:00:48-7 @timpritlove] Mein Name ist Tim Pritlove und ich begrüße alle hier zu einer neuen Ausgabe, einem neuen Blick in die Welt.
+[00:00:57-0 @timpritlove] Wir reden über Wissenschaft, wir reden über Bildung, wir reden über Digitalisierung,
+[00:01:01-9 @timpritlove] aber wir reden auch über die Welt im Ganzen, und haben das hier schon mehrfach getan,
+[00:01:07-7 @timpritlove] insbesondere das Thema Klimawandel kommt uns jetzt hier immer wieder neu vor die Flinte und so soll es auch sein.
+[00:01:15-8 @timpritlove] Und unter all den Gesprächen, die wir zu diesem Thema schon geführt haben,
+[00:01:20-0 @timpritlove] war auch die Ausgabe Nummer 23 vom Anfang 2016, mit Franz Josef Rademacher,
+[00:01:28-1 @timpritlove] und da haben wir gesprochen über die Welt in Balance und mal eine Analyse gezogen,
+[00:01:34-2 @timpritlove] wie es denn nun eigentlich so steht um den Planeten, und welche Maßnahmen nun eigentlich erforderlich wären,
+[00:01:41-1 @timpritlove] und wie man über das ganze Thema auch nachdenken muss.
+[00:01:44-8 @timpritlove] Auf die Sendung verweise ich deshalb, weil wir Herrn Radermacher heute das zweite Mal begrüßen können bei Forschergeist.
+[00:01:52-5 @timpritlove] Herzlich willkommen, Herr Radermacher.
+[00:01:54-4 @franzjosefradermacher] Ja, ich grüße Sie.
+[00:01:56-5 @timpritlove] Denn wir möchten das Thema noch ein weiteres Mal aufgreifen.
+[00:02:01-2 @timpritlove] Vielleicht nochmal kurz zu Ihnen, ganz so ausführlich, wie wir es das letzte Mal gemacht haben,
+[00:02:06-5 @timpritlove] möchte ich jetzt in Ihr Leben nicht nochmal einsteigen, aber vielleicht schauen wir auch einfach mal auf was sich bei Ihnen so verändert hat seit Anfang 2016.
+[00:02:18-3 @timpritlove] Sie sind ja schon sehr lange beim FAW in Ulm, Forschungsinstitut für anwendungsorientierte Wissensverarbeitung,
+[00:02:25-4 @timpritlove] das ist so ein bisschen Ihre Heimstätte, Ihre zentrale Wirkungsstätte,
+[00:02:29-4 @franzjosefradermacher] Ja, richtig.
+[00:02:30-2 @timpritlove] kann man sagen, Sie sind aber in verschiedenen anderen Organisationen berufen,
+[00:02:35-3 @timpritlove] die Liste ist sehr lang, konkret ist jetzt, glaube ich, seit 2018 ein Engagement an der Zeppelin-Universität in Friedrichshafen dazugekommen.
+[00:02:45-9 @timpritlove] Was machen Sie dort?
+[00:02:47-6 @franzjosefradermacher] Ich bin dort Professor für digitale Transformation, bin auch Botschafter für digitale Transformation.
+[00:02:54-9 @franzjosefradermacher] In Baden-Württemberg kam bei mir die Emeritierung, nach Verlängerung ist es mit 68 dann soweit.
+[00:03:04-9 @franzjosefradermacher] Und dann kam das Angebot von Friedrichshafen, das ist eine private Universität, da sind die Regeln andere.
+[00:03:13-4 @timpritlove] Sie können es nicht lassen, sozusagen?
+[00:03:15-1 @franzjosefradermacher] Gut, ich bin froh, dass ich zumindest in einem gewissen Umfang weiter viel Kontakt mit Studenten habe.
+[00:03:23-3 @franzjosefradermacher] Das hat mehrere Dimensionen, das eine ist die Vermittlung von Inhalten und das Heranwachsen von jungen Leuten,
+[00:03:30-3 @franzjosefradermacher] die diese Inhalte in besonderer Weise verstehen,
+[00:03:33-2 @franzjosefradermacher] aber das andere ist auch die Wechselwirkung im Bereich von Magisterarbeiten, potentiell Promotionen usw.
+[00:03:40-5 @franzjosefradermacher] Also das war mir schon eine Freude, dass da weiter diese Möglichkeiten bestehen, und darum habe ich das gerne angenommen.
+[00:03:48-9 @timpritlove] Wir haben beim letzten Gespräch schon gemerkt, Sie sind halt ein wacher Beobachter der Zeit,
+[00:03:54-6 @timpritlove] unter anderem auch im Club of Rome aktiv, das heißt, Sie geraten auch viel in Kontakt mit Leuten,
+[00:04:00-7 @timpritlove] die vielleicht nicht nur über die Welt nachdenken, sondern auch einen Einfluss auszuüben in der Lage sind,
+[00:04:06-6 @timpritlove] mindestens in der Debatte, wenn nicht sogar auf der politischen Entscheidungsebene.
+[00:04:12-5 @timpritlove] Und ich stelle immer oft fest bei Leuten, die so sehr an der Realitätsfront sind, dass dann auch so eine gewisse,
+[00:04:19-3 @timpritlove] wie soll ich sagen, Depression ist vielleicht zu weit gegriffen, 
+[00:04:24-5 @timpritlove] aber doch zumindest eine gewisse Grundskepsis ob der allgemeinen Entwicklungen herauszulesen ist.
+[00:04:31-7 @timpritlove] Bei Ihnen habe ich so den Eindruck, dass Sie eigentlich immer noch sehr vom Optimismus getragen sind.
+[00:04:35-8 @timpritlove] Ist das so geblieben?
+[00:04:39-7 @franzjosefradermacher] Meine Haltung ist mehr die:
+[00:04:41-8 @franzjosefradermacher] Wir sind in einer schwierigen Situation,
+[00:04:45-4 @franzjosefradermacher] es gibt aber immer auch vernünftige Möglichkeiten, Dinge zu versuchen,
+[00:04:52-0 @franzjosefradermacher] und wenn man es richtig macht, kann man auch Partner finden, sowohl in der Wirtschaft, wie in der Politik, wie in der Zivilgesellschaft.
+[00:05:01-4 @franzjosefradermacher] Also ich habe immer wieder Glück gehabt, starke Umfelder, mit denen man Dinge bewegen kann.
+[00:05:09-1 @franzjosefradermacher] Insofern ist die Lage für mich keine hoffnungslose Lage, aber eine sehr schwierige.
+[00:05:14-7 @timpritlove] Seit 2016 hat sich ja vor allem auch das politische Kräftespiel in den USA merklich verändert,
+[00:05:21-8 @timpritlove] sicherlich nicht unbedingt gerade das, was man Rückenwind für die Klimadebatte nennen könnte.
+[00:05:26-6 @timpritlove] Wie haben Sie das wahrgenommen?
+[00:05:29-5 @franzjosefradermacher] Also zunächst einmal sehe ich immer die Klimadebatte auch im Kontext anderer Themen.
+[00:05:36-2 @franzjosefradermacher] Und Klima ist heute nicht primär ein Umweltthema, obwohl die meisten das so sehen.
+[00:05:43-1 @franzjosefradermacher] Klima hat sehr viel zu tun mit Energie, deshalb mit Fragen der Macht,
+[00:05:48-8 @franzjosefradermacher] hat sehr viel zu tun mit Geopolitik, sehr viel zu tun mit Reichtum, 
+[00:05:54-6 @franzjosefradermacher] aber natürlich indirekt dann auch mit Arbeitsplätzen und sozialen Fragen.
+[00:06:00-3 @franzjosefradermacher] Also insofern sind viele Themen irgendwo mit dem Klimathema eng verbunden
+[00:06:06-3 @franzjosefradermacher] und natürlich sind alle diese Fragen auch sehr verbunden mit der Veränderung der Verhältnisse
+[00:06:13-7 @franzjosefradermacher] in Bezug auf die Einkommensverteilung infolge der Globalisierung, wie auch infolge der Digitalisierung,
+[00:06:21-0 @franzjosefradermacher] und wenn man verstehen will, wie Trump möglich wurde, oder wenn man den Brexit verstehen will,
+[00:06:28-6 @franzjosefradermacher] oder wenn man auch die Veränderungen bei uns verstehen will, dann haben die auch viel damit zu tun,
+[00:06:35-4 @franzjosefradermacher] dass die Globalisierung und die Digitalisierung Verlierer erzeugt.
+[00:06:41-3 @franzjosefradermacher] In einem Umfeld, wo insgesamt die Wirtschaft wächst, gibt es Gruppen, die zumindest relativ deutlich verlieren.
+[00:06:50-2 @franzjosefradermacher] Diese Gruppen sehen nicht ein, warum die Globalisierung zu ihren Lasten läuft,
+[00:06:54-7 @franzjosefradermacher] also der Industriearbeiter in den USA sieht nicht ein,
+[00:06:59-2 @franzjosefradermacher] warum die Verbesserung der Lebenssituation des chinesischen Arbeiters zu seinen Lasten geht,
+[00:07:06-3 @franzjosefradermacher] während die Millionäre in seinem Land daran verdienen, dass sie das organisieren.
+[00:07:11-8 @franzjosefradermacher] Und da tun sich auch Elemente sozialer Spaltung auf, und die haben wir bei uns auch,
+[00:07:18-0 @franzjosefradermacher] und da kommen dann die verschiedenen Themen zusammen, und wenn man etwas genauer hinein schaut,
+[00:07:24-6 @franzjosefradermacher] wie bei uns zum Beispiel Aufnahme von Migranten praktisch umgesetzt wird,
+[00:07:30-8 @franzjosefradermacher] oder wenn man sich jetzt anguckt in Frankreich, wie versucht wird, das Umweltproblem zu lösen,
+[00:07:37-8 @franzjosefradermacher] dann löst man es oft zu Lasten der Situation sozial Schwacher.
+[00:07:42-7 @franzjosefradermacher] Das heißt, die Belastungen aus den Prozessen landen auch noch bei den sozial Schwächeren,
+[00:07:50-3 @franzjosefradermacher] die irgendwann das einfach nicht mehr mitmachen.
+[00:07:53-6 @franzjosefradermacher] Also es gibt gut situierte, weltoffene, sich grün gebende Personen mit hohem Gebäudebestand in Großstädten Deutschlands,
+[00:08:06-3 @franzjosefradermacher] die verdienen an den Migranten und reden gut über das globale Miteinander und dass wir alle füreinander da sein müssen.
+[00:08:15-9 @franzjosefradermacher] Aber ausbaden müssen es Leute, die irgendwann die Mieten nicht mehr zahlen können.
+[00:08:21-0 @franzjosefradermacher] Und beim Klima ist das so ein bisschen ähnlich.
+[00:08:23-2 @franzjosefradermacher] Da sind Leute, für die spielt Geld keine Rolle, aber zum Schluss soll es jemand bezahlen,
+[00:08:29-5 @franzjosefradermacher] der mit seinem Auto nicht mehr fahren darf, obwohl er sein Auto unbedingt braucht,
+[00:08:34-4 @franzjosefradermacher] und das Auto der größte materielle Besitz ist, den er hat.
+[00:08:39-9 @franzjosefradermacher] Und das macht die Situation so schwierig.
+[00:08:43-8 @timpritlove] Jetzt gab es ja das Abkommen von Paris, da wurde viel gejubelt, ein Durchbruch ist gefeiert worden,
+[00:08:55-5 @timpritlove] ich denke, die Stimmung war allgemein dann doch erstmal sehr positiv,
+[00:09:01-3 @timpritlove] wenn man jetzt mal darauf zurückblickt, was seitdem passiert ist und welche Wirkung das so entfaltet hat:
+[00:09:08-7 @timpritlove] Welche Bedeutung hat dieses Abkommen, und hat es wirklich dazu geführt, dass sich etwas ändert?
+[00:09:20-3 @franzjosefradermacher] Ich nehme jetzt mal die Position des Wissenschaftlers
+[00:09:24-0 @franzjosefradermacher] und gehe zurück nach Kopenhagen.
+[00:09:28-0 @franzjosefradermacher] Bis Kopenhagen wollten eigentlich alle, die wissenschaftlich-mathematisch an das Klimaproblem herangingen,
+[00:09:36-4 @franzjosefradermacher] ein globales Cap-and-Trade-System etablieren, bei dem die Menschheit einen Pfad der CO2-Reduktion global festlegt,
+[00:09:49-2 @franzjosefradermacher] an den verbliebenen Emissionspotentialen Eigentumsrechte verteilt, zum Beispiel pro Kopf gleiche Rechte auf Emission,
+[00:10:00-1 @franzjosefradermacher] diese Rechte dann handelbar macht, und dann ökonomisch betrachtet, die beste Alokation dieser Recht erreicht hätte,
+[00:10:10-8 @franzjosefradermacher] und damit würde man das Klimaproblem, dann hätte man es so gelöst.
+[00:10:16-5 @franzjosefradermacher] So ein bisschen, wie wir das mit unserem,
+[00:10:20-0 @franzjosefradermacher] mit der Umsetzung des Kioto-Protokolls in Europa für die Hälfte der europäischen Industrie mit unseren Zertifikaten machen.
+[00:10:27-3 @franzjosefradermacher] Dieses System funktioniert, hat viele Probleme, weil es ein rein europäisches System ist,
+[00:10:34-3 @franzjosefradermacher] hätte man das globale Cap-and-Trade-System hinbekommen, hätte man eine Lösung für das Klimaproblem gehabt.
+[00:10:41-2 @franzjosefradermacher] In Kopenhagen ist das gescheitert.
+[00:10:44-4 @franzjosefradermacher] Und zwar weil der US-Präsident und der chinesische Premier entschieden haben, dass es unmöglich ist,
+[00:10:50-7 @franzjosefradermacher] sich auf ein solches System zu verständigen.
+[00:10:53-7 @timpritlove] Wohl gemerkt noch Obama.
+[00:10:56-1 @franzjosefradermacher] Noch Obama, und die haben, wenn man so will, den gordischen Knoten dann durchschlagen,
+[00:11:02-1 @franzjosefradermacher] und haben gesagt, okay, wir machen es jetzt anders, jetzt sagt jeder, was er freiwillig zu tun bereit ist.
+[00:11:10-5 @franzjosefradermacher] Wir haben nur ein halbes Jahr nach Kopenhagen in einer wissenschaftlichen Publikation beschrieben, wo sich das jetzt hinbewegen wird
+[00:11:22-2 @franzjosefradermacher] und das ist so in etwa das, was in Paris herausgekommen ist.
+[00:11:26-7 @franzjosefradermacher] Und es war vollkommen klar, was rauskommen würde, dass nämlich das, was materiell versprochen wird,
+[00:11:33-5 @franzjosefradermacher] bei Weitem nicht ausreicht, um das Zwei-Grad-Ziel zu erreichen.
+[00:11:38-1 @franzjosefradermacher] Denn hätte man mit freiwilligen Zusagen das Zwei-Grad-Ziel erreichen können,
+[00:11:45-4 @franzjosefradermacher] hätte man es ja gleich in Kopenhagen machen können,
+[00:11:48-0 @franzjosefradermacher] und in Kopenhagen war es viel einfacher, weil da war sozusagen die Zusage des Einen immer bindend an die Zusage des Anderen,
+[00:11:56-0 @franzjosefradermacher] also spieltheoretisch war Kopenhagen viel günstiger für eine Lösung, die viel einspart, als Paris,
+[00:12:02-9 @franzjosefradermacher] weil in Paris sagt jeder, was er zu tun bereit ist, und da er unterstellt,
+[00:12:08-0 @franzjosefradermacher] dass der andere sowieso auch nicht besonders viel tut, wird keiner besonders viel tun, 
+[00:12:13-0 @franzjosefradermacher] also wird in Paris eine Lücke rauskommen, die deutlich größer ist als alles, worüber man in Kopenhagen diskutiert hat.
+[00:12:21-4 @franzjosefradermacher] Das war in einer rein mathematischen Betrachtung alles vorher klar.
+[00:12:25-5 @franzjosefradermacher] Das spricht nicht gegen Paris, weil man ja die andere Lösung nicht politisch durchsetzen konnte,
+[00:12:33-4 @franzjosefradermacher] das war die Erkenntnis von Kopenhagen.
+[00:12:35-3 @franzjosefradermacher] Nach der Erkenntnis von Kopenhagen sind die freiwilligen Zusagen von Paris das Beste, was man kriegen kann,
+[00:12:42-8 @franzjosefradermacher] aber da ist eine riesige Lücke, das ist die sogenannte Paris-Lücke.
+[00:12:48-0 @franzjosefradermacher] Die Paris-Lücke beträgt für das Zwei-Grad-Ziel auf das Jahr 2050 bezogen ungefähr 500 Milliarden Tonnen CO2.
+[00:13:06-2 @franzjosefradermacher] Also wir haben eine Riesenlücke, wir müssen 500 Milliarden Tonnen über die nächsten 33 Jahre mehr einsparen, als die Zusagen von Paris beinhalten,
+[00:13:19-7 @franzjosefradermacher] wobei die Zusagen von Paris bei den ökonomisch schwächeren Ländern außerdem gekoppelt sind an massive Geldflüsse
+[00:13:30-6 @franzjosefradermacher] von den reichen Ländern in die schwächeren Länder.
+[00:13:34-4 @franzjosefradermacher] Das heißt, die haben zugesagt, bestimmte Einsparungen zu leisten,
+[00:13:38-7 @franzjosefradermacher] aber nur unter der Bedingung, dass Geld fließt, und das mindeste, was fließen muss, sind ab 2020 100 Milliarden Dollar pro Jahr,
+[00:13:51-0 @franzjosefradermacher] und im Moment weißt kein Mensch, wo diese 100 Milliarden Dollar herkommen sollen.
+[00:13:56-0 @franzjosefradermacher] Also ist zu Paris Folgendes zu sagen:
+[00:13:59-7 @franzjosefradermacher] Es ist schön, dass man sich auf Ziele verständigt hat.
+[00:14:04-0 @franzjosefradermacher] Wie üblich bei internationalen Deklarationen dieser Art, wurde aber Verantwortung und Geld vergessen.
+[00:14:13-7 @franzjosefradermacher] Also wir haben Dinge miteinander abgesprochen, für die wir nicht klären konnten, wer die Verantwortung hat und wer es bezahlt,
+[00:14:24-5 @franzjosefradermacher] und um das zu erreichen, was man das Zwei-Grad-Ziel nennt,
+[00:14:31-2 @franzjosefradermacher] brauchen wir etwa 500 Milliarden Tonnen mehr CO2-Einsparungen bis 2050 und dafür braucht man nach meinen Schätzungen etwa 500 Milliarden pro Jahr,
+[00:14:48-7 @franzjosefradermacher] das ist die Lücke, und dann kommt in Paris noch dazu, dass man plötzlich auf den Gedanken kam,
+[00:14:54-2 @franzjosefradermacher] dass man statt zwei Grad anderthalb will.
+[00:14:57-4 @franzjosefradermacher] Gut, ich habe jetzt über die zwei Grad gesprochen, von denen wir Welten entfernt sind,
+[00:15:03-5 @franzjosefradermacher] würde man nach anderthalb Grad wollen, müssen wir sicher nochmal 200-250 Milliarden Tonnen in den nächsten 33 Jahren einsparen,
+[00:15:13-4 @franzjosefradermacher] also zusätzlich, was nochmal massive Mehrkosten verursachen würde, wobei kein Mensch weiß, wo das Geld herkommen soll.
+[00:15:25-2 @timpritlove] Das klingt jetzt nicht so optimistisch.
+[00:15:29-4 @franzjosefradermacher] Nein, das ist realistisch, und mir geht es in der ganzen Debatte ohnehin darum,
+[00:15:37-5 @franzjosefradermacher] dass viel mehr Realismus einziehen muss, weil viel zu viele Leute einfach so vor sich hin träumen,
+[00:15:45-5 @franzjosefradermacher] und mal so nebenbei so irgendwas unterstellen, und sagen, ja stellen wir uns mal vor,
+[00:15:51-2 @franzjosefradermacher] wir erhöhen den Anteil der Erneuerbaren alle 10 Jahre im Sinne von Verdopplung, dann werden wir das schon hinkriegen.
+[00:15:59-5 @franzjosefradermacher] Es wird aber nicht gefragt, ob es lebenspraktisch möglich ist, diese ganzen Verdopplungen überhaupt hinzubekommen.
+[00:16:06-4 @franzjosefradermacher] Ich will das Problem mal an folgender Beobachtung klar machen:
+[00:16:10-5 @franzjosefradermacher] Heute emittiert China mehr CO2 als die USA, Europa und Japan zusammen.
+[00:16:20-2 @franzjosefradermacher] Die meisten bei uns glauben immer noch, die USA seien das Problem -
+[00:16:25-0 @franzjosefradermacher] Nein, das eigentliche Problem sind die Chinesen.
+[00:16:28-7 @franzjosefradermacher] Wir tauchen da alle kaum noch auf.
+[00:16:32-2 @franzjosefradermacher] Das ist jetzt kein Vorwurf gegen die Chinesen, sondern das ist die Kehrseite der ökonomischen Erfolge Chinas.
+[00:16:42-0 @franzjosefradermacher] China hat mit Blick auf die Milleniumsentwicklungsziele der Vereinten Nationen den größten Beitrag geleistet,
+[00:16:50-0 @franzjosefradermacher] Menschen aus der Armut herauszuholen.
+[00:16:53-0 @franzjosefradermacher] Das sind die Industriearbeiter in China und die Milliardäre in China, das ist ein großer Erfolg, die Menschen sind aus der Armut raus.
+[00:17:02-0 @franzjosefradermacher] Die Gegenseite ist: China hat in unserem Jahr 2017 Hundert mal so viel Beton verbaut wie Deutschland.
+[00:17:13-5 @franzjosefradermacher] China hat in 5 Jahren so viel Beton verbaut wie die USA im ganzen letzten Jahrhundert.
+[00:17:21-0 @franzjosefradermacher] Und China hat jetzt pro Kopf höhere CO2-Emissionen als Europa,
+[00:17:28-1 @franzjosefradermacher] aber es gibt in Europa nur ein drittel so viel Menschen wie in China.
+[00:17:34-0 @franzjosefradermacher] Insofern ist jetzt China das Problem, aber letztlich ist auch China nicht das Problem.
+[00:17:41-2 @franzjosefradermacher] China darf nach Paris-Vertrag seine Emissionen weiter erhöhen, wird sie wohl die nächsten 20 Jahre noch um 2 Milliarden erhöhen,
+[00:17:50-4 @franzjosefradermacher] aber das ist gar nicht das Hauptproblem.
+[00:17:52-3 @franzjosefradermacher] Das Hauptproblem ist Indien und Afrika.
+[00:17:55-8 @franzjosefradermacher] Da sitzen heute 3 Milliarden Menschen und in der Zeit, über die wir reden, werden daraus 4.
+[00:18:03-0 @franzjosefradermacher] Diese sind heute bei einer Tonne pro Kopf, die Chinesen sind bei 7,5, die Europäer bei 6,8, die Deutschen bei 11.
+[00:18:15-0 @franzjosefradermacher] Wenn die Inder und die Afrikaner sich auch nur in Richtung 3-4 Tonnen pro Kopf bewegen,
+[00:18:22-7 @franzjosefradermacher] das wäre dann das halbe heutige chinesische Niveau, dann kommt in diesen beiden Riesen-,
+[00:18:33-7 @franzjosefradermacher] sagen wir mal ökonomischen Einheiten, indischer Subkontinent und Afrika,
+[00:18:39-2 @franzjosefradermacher] da kommt mehr CO2 dazu als China heute überhaupt emittiert.
+[00:18:45-8 @franzjosefradermacher] Also da kommt nochmal mehr dazu als USA, Europa und Japan zusammen, da kommt mehr dazu als wir zu dem Zeitpunkt eigentlich noch auf der ganzen Welt emittieren dürften,
+[00:18:59-0 @franzjosefradermacher] wenn wir das 1,5-Grad-Ziel erreichen wollen.
+[00:19:05-1 @franzjosefradermacher] Nun, da ist für jeden, der ein bisschen Mathematik kann, natürlich klar, wenn man überhaupt eine Lösung finden will,
+[00:19:14-0 @franzjosefradermacher] dann müssen entweder die ganzen Menschen in Indien und in Pakistan und in Afrika arm bleiben,
+[00:19:22-2 @franzjosefradermacher] das ist dann die Lösung, die emittieren wenig CO2 weil sie arm sind,
+[00:19:28-4 @franzjosefradermacher] dann hört da aber das Bevölkerungswachstum nicht auf,
+[00:19:32-0 @franzjosefradermacher] oder die haben den Wohlstandszuwachs, dann muss irgendeiner finanzieren, dass dieser Wohlstandszuwachs klimaneutral passiert.
+[00:19:43-0 @franzjosefradermacher] Das heißt, die größte Herausforderung, meiner Ansicht nach, ist heute, Technik, Geld und Gehirn der reichen Welt zu mobilisieren,
+[00:19:52-4 @franzjosefradermacher] um für Afrika, den indischen Subkontinent und weitere Länder klimaneutrales Wachstum zu ermöglichen,
+[00:20:01-0 @franzjosefradermacher] damit nicht der chinesische Weg zu Wohlstand repliziert wird, weil man kann ihn nicht replizieren,
+[00:20:09-1 @franzjosefradermacher] wenn man das Zwei-Grad-Ziel einhalten will, von einem 1,5-Grad-Ziel gar nicht zu reden.
+[00:20:16-5 @timpritlove] Ist denn nicht in China auch schon ein Menge passiert?
+[00:20:19-6 @timpritlove] Also ich meine, am Anfang hat man extrem auf Kohlekraftwerke gesetzt und im Prinzip den ganzen Raubbau genauso erstmal eingeleitet,
+[00:20:27-8 @timpritlove] wie man das aus den USA und Europa auch kannte, aber mittlerweile ist doch auch in China ein wenig die Einsicht eingekehrt, dass es so nicht weitergehen kann.
+[00:20:38-2 @franzjosefradermacher] Ich sage mal einmal ja,
+[00:20:40-5 @franzjosefradermacher] aber das Ja hilft gar nichts, weil eigentlich merkt man ja an Ihrer Frage, wie wir alle systematisch damit beschäftigt sind, uns zu belügen.
+[00:20:50-0 @franzjosefradermacher] Wir sehen doch, dass in 20 Jahren es tatsächlich so ist, dass die Chinesen mehr emittieren als die Amerikaner, die Europäer und die Japaner zusammen.
+[00:21:03-0 @franzjosefradermacher] Und jetzt erzählen wir uns die Story, dass aber die Chinesen ja jetzt viel erkannt haben, und dass sie ja viel machen.
+[00:21:10-8 @franzjosefradermacher] Ja, aber die selben Chinesen bestehen darauf, dass sie ein Entwicklungsland sind, 
+[00:21:18-0 @franzjosefradermacher] und dass sie noch 20 Jahre lang ihre CO2-Emissionen erhöhen dürfen, und das werden sie auch machen.
+[00:21:27-0 @timpritlove] Also dürfen auf Basis des Pariser Abkommens, was das pro Person festlegt.
+[00:21:31-8 @franzjosefradermacher] Nein, nicht pro Person, sondern das ganze Pariser Abkommen lebt davon, dass die Nicht-Industrieländer noch das Recht haben,
+[00:21:42-4 @franzjosefradermacher] CO2-Emissionen zu erhöhen, bei denen ist die Messlatte, nach der man guckt,
+[00:21:49-0 @franzjosefradermacher] das ist sozusagen Wachstum des CO2 im Verhältnis zum Wachstum des BIP, also bei denen sollen die Emissionen langsamer wachsen als der Wohlstand wächst,
+[00:22:01-6 @franzjosefradermacher] weil man ja diesen Ländern zugesteht, dass sie Wohlstand brauchen.
+[00:22:06-0 @franzjosefradermacher] Es gibt das sogenannte Nachhaltigkeitsziel Nummer 8, da wird allen diesen Ländern ein materielles BIP-Wachstum von mindestens 7 Prozent
+[00:22:19-3 @franzjosefradermacher] auf dem Weg zur Nachhaltigkeit zugestanden,
+[00:22:22-1 @franzjosefradermacher] damit man aus der Armut rauskommt, ja?
+[00:22:p25-5 @franzjosefradermacher] Man muss aus der Armut raus, auch China hat immer noch viel an der Armutsfrage zu tun,
+[00:22:30-5 @franzjosefradermacher] und deshalb macht China alles gleichzeitig,
+[00:22:33-0 @franzjosefradermacher] kein Mensch macht so viel Kohle wie China, China macht auch Atomkraftwerke, China macht ganz viel erneuerbare Energie,
+[00:22:41-2 @franzjosefradermacher] China macht ganz viel Aufforstung, aber China sind auch 1,4 Milliarden Menschen und ein ziemlich klimaineffizientes System,
+[00:22:51-3 @franzjosefradermacher] das heißt, die Chinesen haben pro Kopf mehr Emission als die Europäer,
+[00:22:56-0 @franzjosefradermacher] aber ihre Wirtschaftsleistung liegt unterhalb der Hälfte der Europäer pro Kopf.
+[00:23:02-0 @franzjosefradermacher] Das heißt, die erzeugen relativ viel CO2 für jede Wertschöpfungseinheit, weil sie noch nicht so durchoptimiert sind wie wir.
+[00:23:11-6 @franzjosefradermacher] Sich so durchzuoptimieren wie wir kostet ganz viel Geld,
+[00:23:15-3 @franzjosefradermacher] und da braucht man sehr viel Zeit.
+[00:23:17-8 @franzjosefradermacher] Da sind wir, also wir sind - relativ betrachtet - sauber, pro Wertschöpfungseinheit,
+[00:23:24-7 @franzjosefradermacher] haben aber natürlich die meisten Wertschöpfungseinheiten pro Kopf,
+[00:23:29-0 @franzjosefradermacher] weshalb wir die reiche Welt sind und die Chinesen sind immer noch, man würde sagen ein Schwellenland,
+[00:23:36-7 @franzjosefradermacher] unter den ärmeren Ländern jetzt vorne, aber längst nicht da wo wir sind, was den Wohlstand anbelangt.
+[00:23:46-4 @timpritlove] Ja, Sie sagten ja gerade, bei Indien muss man es jetzt hinbekommen und bei Afrika auch,
+[00:23:50-6 @timpritlove] von vornherein diesen wirtschaftlichen Wohlstand klimaneutral zu gestalten.
+[00:23:55-0 @franzjosefradermacher] Ja.
+[00:23:56-0 @timpritlove] Meine Frage ging eben in die Richtung, naja, könnte man ja im Prinzip auch genauso für Chinas weiteren Wachstumsanspruch genauso formulieren.
+[00:24:06-5 @franzjosefradermacher] Könnte man, es wäre nur politisch noch schwieriger, den Bevölkerungen der wohlhabenden Länder zu vermitteln,
+[00:24:17-2 @franzjosefradermacher] dass sie viel eigenes Geld nach China transferieren,
+[00:24:21-0 @franzjosefradermacher] um in China klimaneutrale Wachstumsprozesse zu ermöglichen,
+[00:24:26-6 @franzjosefradermacher] wo wir ja China zunehmend als einen großen Konkurrent sehen,
+[00:24:31-1 @franzjosefradermacher] und die USA sich geradezu in einer industriepolitisch-militärischen Auseinandersetzung mit China um die Weltherrschaft sehen,
+[00:24:40-5 @franzjosefradermacher] und da wird man dem, mit dem man um die Weltherrschaft ringt
+[00:24:42-7 @franzjosefradermacher] und der gerade einen Flugkörper auf die andere Seite vom Mond geschickt hat,
+[00:24:47-4 @franzjosefradermacher] dem wird man nicht noch das Geld schicken, damit er seine Industriewachstumsprozesse klimaneutral gestalten kann.
+[00:24:55-1 @franzjosefradermacher] Das wird man nicht machen.
+[00:24:57-0 @franzjosefradermacher] Das wird man vielleicht bei Indien machen, am ehesten noch bei Afrika.
+[00:25:02-9 @franzjosefradermacher] In Wirklichkeit machen wir das ja nicht, ich habe ja nur gesagt, was man logisch-mathematisch
+[00:25:07-0 @timpritlove] Machen müsste, ja.
+[00:25:08-3 @franzjosefradermacher] eigentlich tun müsste, wir tun es ja nicht, und weil wir es nicht tun, werden wir auch das Klimaproblem nicht lösen,
+[00:25:16-1 @franzjosefradermacher] es sei denn es tut es jemand anderes.
+[00:25:19-0 @timpritlove] Aber angenommen wir würden es dann doch tun wollen, was würden wir denn dann konkret tun?
+[00:25:22-7 @timpritlove] Also was bedeutet denn, Indien und Afrika ein klimaneutrales Wachstum ermöglichen durch Geld?
+[00:25:30-5 @timpritlove] Was soll dieses Geld konkret bewirken?
+[00:25:35-5 @franzjosefradermacher] Gut, da kommen wir zu Überlegungen und einem Gedankenumfeld,
+[00:25:40-5 @franzjosefradermacher] das sich vor allen Dingen auch mit dem Club of Rome und dem Senat der Wirtschaft
+[00:25:46-4 @franzjosefradermacher] in der Wechselwirkung mit dem Ministerium für wirtschaftliche Zusammenarbeit entwickelt hat,
+[00:25:52-5 @franzjosefradermacher] und dieses läuft unter der Überschrift eines Marshall-Plans mit Afrka,
+[00:25:58-2 @franzjosefradermacher] also nicht ein Marshall-Plan für Afrika, sondern ein Marshall-Plan mit Afrika.
+[00:26:03-6 @franzjosefradermacher] Und diese Überlegungen zielen darauf, dass die afrikanische Bevölkerung sich in den nächsten 35 Jahren verdoppeln wird.
+[00:26:15-0 @franzjosefradermacher] Also Afrika wird von 1,2 Milliarden auf 2,4 Milliarden Menschen im Jahr 2050 anwachsen.
+[00:26:25-7 @franzjosefradermacher] Afrika ist einem gewissen Sinne der Problemkontinent, ist aber ein Kontinent, in dem sich die Zukunft der Menschheit entscheiden wird,
+[00:26:34-9 @franzjosefradermacher] wegen dieses wahnsinnigen Wachstums der Bevölkerung.
+[00:26:39-7 @franzjosefradermacher] Und die Frage ist: Ist Wohlstand mit Blick auf 2050 für dann 2,4 Milliarden Menschen in Afrika möglich?
+[00:26:50-6 @franzjosefradermacher] Das wäre ganz wichtig, damit dann das Bevölkerungswachstum irgendwann aufhört,
+[00:26:56-4 @franzjosefradermacher] weil die ungünstigsten Prognosen für Afrika sind 4,5 Milliarden Menschen am Ende des Jahrhunderts,
+[00:27:03-9 @franzjosefradermacher] also eine weitere Verdopplung nach 2050.
+[00:27:08-1 @franzjosefradermacher] Wenn man die nicht will, braucht man Wohlstand in Afrika.
+[00:27:12-9 @franzjosefradermacher] Man muss jetzt überlegen, wie könnte dieser Wohlstand klimaneutral aussehen?
+[00:27:18-0 @franzjosefradermacher] Unser früherer Bundespräsident Köhler hat eine wichtige Zahl abgeleitet und in die politische Debatte gebracht:
+[00:27:26-4 @franzjosefradermacher] Ein vernünftiger Weg in die Zukunft heißt: 20 Millionen neue Arbeitsplätze in Afrika,
+[00:27:33-0 @franzjosefradermacher] jedes Jahr, 30 Jahre lang, also 600 Millionen neue Arbeitsplätze in Afrika in den nächsten 30 Jahren,
+[00:27:43-2 @franzjosefradermacher] und die Frage ist ja jetzt im Raum, wo sind diese Arbeitsplätze, wo ist dieser Wohlstandsaufbau, in einer klimaneutralen Weise?
+[00:27:52-6 @franzjosefradermacher] Nun, ich beschreibe jetzt die drei Hauptkomponenten, und das sind auch die drei Hauptkomponenten,
+[00:27:58-0 @franzjosefradermacher] die wir im Rahmen des Marshall-Plans verfolgen:
+[00:28:02-3 @franzjosefradermacher] Der erste große Hebel ist Aufforstung: Aufforstung, Aufforstung, Aufforstung.
+[00:28:12-0 @franzjosefradermacher] Weltweit gibt es eine Milliarde Hektar degradierter Böden in den Tropen, frühere Regenwaldflächen, heute ausgelaugt.
+[00:28:24-7 @franzjosefradermacher] In Afrika etwa 200 Millionen Hektar.
+[00:28:30-0 @franzjosefradermacher] Diese ganzen Gebiete müssen aufgeforstet werden.
+[00:28:33-9 @franzjosefradermacher] Und diese Aufforstung bringt eine Menge benefits verschiedenster Art, im Sinne der Nachhaltigkeitsziele der Vereinten Nationen.
+[00:28:44-8 @franzjosefradermacher] Weil das den Boden schützt, vor Erosion, weil das den Wasserhaushalt stabilisiert, die Biodiversität erhöht,
+[00:28:54-1 @franzjosefradermacher] weil das materielle Ressourcen sind, die nachwachsen, zum Beispiel für Hausbau, weil man da Nahrung produzieren kann,
+[00:29:03-7 @franzjosefradermacher] weil da Arbeitsplätze entstehen - die ganze Holzkette ist zentral für eine vernünftige Zukunft der Menschheit.
+[00:29:11-9 @franzjosefradermacher] Klimatechnisch ist der entscheidende Effekt das Binden von CO2, das in der Atmosphäre ist, im Holz.
+[00:29:22-0 @franzjosefradermacher] Das nennt man biologische Sequestrierung, man holt mit dem Wachsen der Bäume den Kohlenstoff aus der Atmosphäre,
+[00:29:31-6 @franzjosefradermacher] und das Potential ist etwa 10 Tonnen pro Jahr und Hektar.
+[00:29:40-2 @timpritlove] Tonnen CO2?
+[00:29:41-0 @franzjosefradermacher] CO2, also wenn man diese Karte voll spielt, weltweit,
+[00:29:45-4 @franzjosefradermacher] kann man etwa 10 Milliarden Tonnen CO2 pro Jahr auf diese Weise der Atmosphäre entziehen.
+[00:29:55-1 @franzjosefradermacher] Das ist etwa die Größenordnung der chinesischen Emissionen, dass man mal sieht, um welche Volumina es geht.
+[00:30:01-6 @franzjosefradermacher] Also man hat einen gigantischen ökonomischen Wachstumsprozess, der einem eine tolle erneuerbare Ressource bringt,
+[00:30:09-5 @franzjosefradermacher] und während all dieses Wachstum stattfindet und die Arbeitsplätze geschaffen werden,
+[00:30:15-4 @franzjosefradermacher] holt man aus der Atmosphäre CO2 raus.
+[00:30:19-7 @franzjosefradermacher] Das ist die Schiene Nummer 1.
+[00:30:23-0 @franzjosefradermacher] Schiene Nummer 2 ist die Landwirtschaft.
+[00:30:26-2 @franzjosefradermacher] Dazu muss man wissen, dass in den Böden der Welt etwa zweimal so viel CO2 gebunden ist wie in der Atmosphäre,
+[00:30:37-6 @franzjosefradermacher] und dass einer der wichtigen Treiber des Klimaproblems die Freisetzung von CO2 aus den Böden ist,
+[00:30:47-0 @franzjosefradermacher] und das müssen wir umdrehen.
+[00:30:48-8 @timpritlove] Unter anderem ja auch die Permafrostböden, zum Beispiel in ...
+[00:30:52-0 @franzjosefradermacher] Ja, und das ist natürlich jetzt schon ein Kipppunkt, wo sich jetzt die Prozesse selber beschleunigen.
+[00:30:58-6 @franzjosefradermacher] Ich will aber darauf hinaus, dass auch die normale Landwirtschaft, die wir betreiben,
+[00:31:03-4 @franzjosefradermacher] sehr viel CO2 freisetzt, weil sie letzten Endes die Bodenbiotopgemeinschaften zerreist,
+[00:31:14-1 @franzjosefradermacher] und damit das Bindepotential des Bodens für CO2 abnimmt.
+[00:31:20-5 @franzjosefradermacher] Die wichtigste Komponente zur CO2-Bindung im Boden ist Humus.
+[00:31:26-2 @franzjosefradermacher] Was man tun muss ist, systematisch Humusbildung stärken.
+[00:31:31-3 @franzjosefradermacher] Eine der günstigsten Methoden ist, dass man aus Pflanzenresten und Holzresten eine Biokohle erzeugt,
+[00:31:39-3 @franzjosefradermacher] so etwas wie Holzkohle, und dass man letzten Endes diese in die Erde bringt,
+[00:31:45-7 @franzjosefradermacher] und dann wird der Boden zu einer Senke für Kohlenstoff.
+[00:31:49-5 @franzjosefradermacher] Also man holt den Kohlenstoff aus der Erde, mit den fossilen Energieträgern, das Ganze geht in die Luft,
+[00:31:56-8 @franzjosefradermacher] wird mit den biologischen Prozessen der Luft wieder entzogen, und wenn man klug ist,
+[00:32:02-4 @franzjosefradermacher] und das am Ende in Pflanzen und Holzkohle verwandelt,
+[00:32:06-0 @franzjosefradermacher] die man nicht energetisch nutzt, sondern in die Erde tut, dann wird das zu einer Senke für Kohlenstoff,
+[00:32:13-5 @franzjosefradermacher] das Ganze fördert massiv die Humusbildung, verbessert massiv die landwirtschaftliche Produktivität,
+[00:32:20-9 @franzjosefradermacher] und im Prinzip kann man sogar semiaride Böden, das sind die Böden, die in der Wüstenausbildung entstehen, in Afrika im großen Stil,
+[00:32:30-1 @franzjosefradermacher] diese Böden kann man reaktivieren.
+[00:32:32-4 @franzjosefradermacher] Also in der richtigen Strategie werden kaputte Böden reaktiviert für Landwirtschaft, man geht massiv in die Humusbildung,
+[00:32:41-1 @franzjosefradermacher] man verbessert massiv die landwirtschaftliche Produktion, man schafft massiv Arbeitsplätze,
+[00:32:47-2 @franzjosefradermacher] und in diesem Prozess holt man auch wieder das CO2 aus der Atmosphäre raus, und das sind wieder 10 Tonnen pro Hektar und Jahr,
+[00:32:57-0 @franzjosefradermacher] was sich so erreichen lässt, und es gibt wieder auf der Welt Flächen in der Größenordnung von 100, von 1000 Millionen Hektar,
+[00:33:10-4 @franzjosefradermacher] also eine Milliarde Hektar gibt es auch an dieser Stelle, und potentiell kann man wiederum etwa pro Jahr 10 Milliarden Tonnen aus der Atmosphäre rausholen,
+[00:33:21-3 @franzjosefradermacher] wie bei der Aufforstung, und dann hat man den zweiten Baustein.
+[00:33:25-6 @franzjosefradermacher] Zusammen kann man damit die Hälfte der heutigen CO2-Emissionen letztlich eliminieren,
+[00:33:35-0 @franzjosefradermacher] und die Situation deutlich verbessern.
+[00:33:37-6 @timpritlove] Kurze Nachfrage:
+[00:33:38-4 @timpritlove] Diese Biokohle, wie wird die denn erzeugt?
+[00:33:41-1 @timpritlove] Also was ist das für ein Prozess, den man hier einleiten muss?
+[00:33:43-8 @timpritlove] Den Begriff kenne ich so noch nicht.
+[00:33:45-0 @franzjosefradermacher] Also dies wird so erzeugt wie auch die Holzkohle erzeugt wird,
+[00:33:48-5 @franzjosefradermacher] das ist die sogenannte Pyrolyse.
+[00:33:51-0 @franzjosefradermacher] Das ist eine unvollständige Verbrennung, und als Ergebnis dieser unvollständigen Verbrennung hat man ein Material,
+[00:33:59-7 @franzjosefradermacher] das zu 80 Prozent Kohlenstoff ist.
+[00:34:03-6 @franzjosefradermacher] Für uns war diese Holzkohle früher ein entscheidender Energieträger.
+[00:34:09-4 @franzjosefradermacher] Das ist er nebenbei gesagt in Afrika immer noch.
+[00:34:12-4 @franzjosefradermacher] Hunderte Millionen Menschen in Afrika kochen mit Holzkohle, in Afrika werden nach wie vor Regenwälder zerstört,
+[00:34:23-2 @franzjosefradermacher] um aus dem Holz Holzkohle zu machen für das Kochen.
+[00:34:26-8 @franzjosefradermacher] Genau das alles darf nicht stattfinden, sondern die Regenwälder müssen stehen bleiben,
+[00:34:33-2 @franzjosefradermacher] aus allem Restholz muss Holzkohle werden, aber die Holzkohle wird nicht energetisch genutzt, sondern geht in die Erde,
+[00:34:41-4 @franzjosefradermacher] genauso wie Pflanzenreste, Pflanzenreste dürfen nicht abgefackelt werden, was heute üblich ist,
+[00:34:47-9 @franzjosefradermacher] nach der Ernte Abfackeln, nein, Pflanzenreste müssen eingesammelt werden, sie müssen über Pyrolyse in Pflanzenkohle verwandelt werden,
+[00:34:57-5 @franzjosefradermacher] da sind dann die Mineralien drin und der Kohlenstoff, und das muss in die Erde,
+[00:35:03-0 @franzjosefradermacher] und damit verbessert sich die Leistungsfähigkeit der Böden.
+[00:35:06-8 @franzjosefradermacher] Das Ganze ist natürlich mühselig, das Ganze braucht Arbeitskräfte.
+[00:35:12-6 @franzjosefradermacher] Das Ganze kostet Geld, also das Klimaproblem zu managen kostet natürlich Geld, irgendeiner muss das alles bezahlen,
+[00:35:22-7 @franzjosefradermacher] wenn es aber jemand bezahlt, bezahlt man die Arbeitsplätze, die wiederum diese Pflanzenreste über Pyrolyse in Kohle verwandeln,
+[00:35:30-6 @franzjosefradermacher] die man in die Erde tut, und das ist der Ansatz, wie man das Klimaproblem löst.
+[00:35:36-3 @timpritlove] Da würde auch das Geld dann zum Einsatz kommen, was ...
+[00:35:37-7 @franzjosefradermacher] Natürlich, da kommt all das Geld zum Einsatz.
+[00:35:41-5 @franzjosefradermacher] Natürlich brauchen die Leute dann zum Beispiel eine andere Möglichkeit zu heizen und zu kochen, und das ist jetzt die dritte Komponente.
+[00:35:49-2 @franzjosefradermacher] Die dritte Komponente sind synthetische Kraftstoffe, die klimaneutral sind.
+[00:35:56-0 @franzjosefradermacher] Also der Ansatz besteht im Grunde genommen darin, dass man mit erneuerbaren Energien,
+[00:36:01-3 @franzjosefradermacher] zum Beispiel aus der Sahara,
+[00:36:03-9 @franzjosefradermacher] Wasser aufspaltet über Elektrolyse, man bekommt den Wasserstoff und man bekommt den Sauerstoff.
+[00:36:11-0 @franzjosefradermacher] Dieser Wasserstoff ist natürlich ein entscheidender Energieträger,
+[00:36:17-6 @franzjosefradermacher] aber man würde diesen Wasserstoff jetzt mit CO2 kombinieren.
+[00:36:22-3 @franzjosefradermacher] Diese Kombination führt zu Methanol,
+[00:36:26-0 @franzjosefradermacher] und die Ökonomie, die sich daraus ableitet, ist die sogenannte Methanolökonomie.
+[00:36:31-7 @franzjosefradermacher] Ich persönlich glaube, dass wenn wir das Klimaproblem lösen wollen,
+[00:36:36-6 @franzjosefradermacher] die Energie auf dieser Welt etwa zur Hälfte in elektrischem Strom und zur Hälfte methanolbasiert sein wird.
+[00:36:46-2 @franzjosefradermacher] Und Methanol ist eine Flüssigkeit so ähnlich wie Öl, mit Methanol kann man alles machen, was man mit Öl macht,
+[00:36:54-6 @franzjosefradermacher] und noch einiges dazu, Methanol ist ein idealer Ausgangsstoff für Benzin und Diesel und Heizöl und alles mögliche andere,
+[00:37:03-2 @franzjosefradermacher] und wir sollten in den Sonnengürteln der Welt das Methanol produzieren,
+[00:37:09-8 @franzjosefradermacher] und indem wir das Methanol über die Nutzung von CO2 aus Energieproduktionsanlagen,
+[00:37:18-1 @franzjosefradermacher] aus Stahlanlagen usw. herstellen, das dort sowieso generierte CO2 einfangen,
+[00:37:28-8 @franzjosefradermacher] und in das Methanol einbringen, dieses setzen wir dann im Verkehr ein, und dann sind wir die Hälfte der CO2-Emissionen los.
+[00:37:37-5 @timpritlove] Weil man an der Stelle einen neutralen Zyklus geschaffen hat?
+[00:37:40-3 @franzjosefradermacher] Weil man einen Zyklus geschaffen hat, und das, was bisher einfach in die Atmosphäre geht,
+[00:37:45-3 @franzjosefradermacher] geht nochmal in einer Zwischenform in das Methanol und geht dann erst in die Atmosphäre,
+[00:37:51-9 @franzjosefradermacher] und wenn man weiß, dass der Verkehr und alles, was da dran hängt, alles, was an diesen Energieformen hängt,
+[00:37:58-3 @franzjosefradermacher] etwa ein Viertel unserer heutigen Emissionen ist, ist man dieses Viertel los.
+[00:38:06-1 @timpritlove] Wie bekannt ist dieser Plan?
+[00:38:09-6 @timpritlove] Sind Sie der Einzige, der das formuliert, oder ist das schon etwas, was so in dieser Form weit diskutiert wird?
+[00:38:15-7 @franzjosefradermacher] Nein, ich verdanke das ja anderen, ich bin ja nicht der, der das erfunden hat.
+[00:38:19-0 @franzjosefradermacher] Es gibt da eine lange deutsche Tradition, die geht bis in die Zeit des dritten Reichs zurück,
+[00:38:25-3 @franzjosefradermacher] als man sich hier unabhängig machen wollte von Öl, weil wir für die Kriegsmaschine Deutschlands nicht sicher waren,
+[00:38:33-2 @franzjosefradermacher] dass wir immer genügend Öl haben würden.
+[00:38:36-1 @franzjosefradermacher] Heute ist der größte Methanolproduzent der Welt China.
+[00:38:40-5 @franzjosefradermacher] Also in chinesischem Benzin ist heute immer mindestens 15 Prozent Methanol beigemischt.
+[00:38:48-2 @franzjosefradermacher] Ich sagte eben, die Chinesen machen alles, die machen eben auch Methanol.
+[00:38:53-9 @franzjosefradermacher] Dass man aus Methanol das Rückgrat der gesamten Energiewirtschaft, da wo sie nicht elektrisch ist, machen kann,
+[00:39:03-9 @franzjosefradermacher] thematisieren heute verschiedene Autoren, auch Nobelpreisträger, die aus diesem Gebiet kommen.
+[00:39:11-0 @franzjosefradermacher] Ich habe da eine lange Verbindung zu Leuten, die von der RWTH Aachen kommen,
+[00:39:16-9 @franzjosefradermacher] da ist der frühere Forschungschef von Lurgi(?) dabei,
+[00:39:20-6 @franzjosefradermacher] da sind Leute von Degussa dabei,
+[00:39:23-0 @franzjosefradermacher] also das ist eine deutsche,
+[00:39:26-0 @franzjosefradermacher] sagen wir mal in der Chemie wissenschaftlich verfolgte Tradition,
+[00:39:32-5 @franzjosefradermacher] die allerdings im Moment in der Debatte zu kurz kommt,
+[00:39:37-2 @franzjosefradermacher] sie taucht jetzt aber auf, häufig unter der Überschrift Power to Liquid.
+[00:39:43-8 @franzjosefradermacher] Und das ist meiner Ansicht nach der Weg, den man auch für Afrika gehen muss,
+[00:39:49-4 @franzjosefradermacher] wir nennen das Desertec 2.0.
+[00:39:52-8 @franzjosefradermacher] Also die unglaubliche solare Kraft in der Wüste aktivieren zur Produktion von Methanol,
+[00:40:02-4 @franzjosefradermacher] das dann die Basis wird für die Versorgung Afrikas mit flüssigen Energieträgern,
+[00:40:08-7 @franzjosefradermacher] aber auch die Basis wird für uns in Europa, und das ist die entscheidende Alternative dazu,
+[00:40:16-5 @franzjosefradermacher] dass wir glauben, wir müssten alle Häuser energetisch sanieren, ganz teure Prozesse für wenig Klimaeffekt,
+[00:40:25-2 @franzjosefradermacher] und dass wir glauben, wir müssten alle Autos in Elektroautos verwandeln.
+[00:40:30-1 @franzjosefradermacher] Das ist ist ein absurdes Programm, und es gibt eine Alternative zu diesem absurden Programm.
+[00:40:36-6 @franzjosefradermacher] Und das ist eine Alternative, die gleichzeitig den sich entwickelnden Ländern wie in Afrika
+[00:40:42-6 @franzjosefradermacher] eine enorme Entwicklungschance eröffnet.
+[00:40:45-5 @timpritlove] Desertec muss man vielleicht nochmal kurz erläutern, wird nicht jedem gewahr sein, war so ein großindustrielles Programm,
+[00:40:52-4 @timpritlove] was im Wesentlichen auf der Idee fußt, dass man im Norden Afrikas, den besonders heißen und geeigneten Stellen,
+[00:41:00-5 @timpritlove] mit entsprechenden solarthermischen Anlagen vor allem Energie erzeugt, und diese mit Gleichstromleitungen nach Europa transferiert,
+[00:41:09-6 @timpritlove] aber natürlich auch in der Region selber zur Anwendung bringt.
+[00:41:14-0 @timpritlove] Da ist es nie so richtig dazu gekommen, weil es vor allem an der politischen Gesamtkonstellation gescheitert ist,
+[00:41:20-4 @timpritlove] Sicherheitsfragen, derzeit kann man sich das, glaube ich, überhaupt nicht vorstellen.
+[00:41:24-7 @timpritlove] Wenn ich den Ansatz jetzt richtig verstanden habe, ist das hier eigentlich das ähnliche Ziel,
+[00:41:29-7 @timpritlove] nämlich gerade diese von Energiearmut, natürlich auch wirtschaftlicher Instabilität geprägten Gegenden,
+[00:41:38-3 @timpritlove] auch von Flüchtlingsproblematiken stark geprägten Gegenden,
+[00:41:42-9 @timpritlove] dahingehend aufzurüsten, die dort in nahezu unbegrenzter Menge vorhandene Sonnenenergie zu nutzen,
+[00:41:50-1 @timpritlove] aber eben jetzt nicht, um Strom unmittelbar nach Europa zu pumpen,
+[00:41:54-2 @timpritlove] sondern um eben hier diese chemischen Prozesse zu nutzen, um Methanol zu erzeugen und damit dann einen neutralen Kreislauf zu befördern.
+[00:42:04-8 @franzjosefradermacher] Ja, so ist es gut beschrieben.
+[00:42:06-3 @franzjosefradermacher] Der Club of Rome war ja immer wesentlich involviert in die Entwicklung der Desertec-Ideen,
+[00:42:13-8 @franzjosefradermacher] diese Ideen sind auch absolut valide, man muss wissen,
+[00:42:17-2 @franzjosefradermacher] dass heute der größte Komplex zur Produktion erneuerbarer Energie in der Sahara in Ouarzazate in Marokko situiert ist.
+[00:42:29-4 @franzjosefradermacher] Übrigens mit starker Beteiligung der Bundesregierung, also Deutschland, KfW, war da wesentlich beteiligt,
+[00:42:36-6 @franzjosefradermacher] Minister Müller, BMZ, war da wesentlich involviert, also Ouarzazate zeigt genau die Leistungsfähigkeit der Idee.
+[00:42:45-5 @franzjosefradermacher] Was man verstehen muss sind zwei Dinge:
+[00:42:49-6 @franzjosefradermacher] Zum Einen haben die Deutschen mit dem erneuerbaren Energiegesetz,
+[00:42:54-3 @franzjosefradermacher] mit der Bevorzugung von in Deutschland hergestellter erneuerbarer Energie,
+[00:43:01-6 @franzjosefradermacher] einem Konkurrenzprodukt aus Afrika von vornherein die Luft abgedrückt.
+[00:43:06-0 @franzjosefradermacher] Also wir fördern die Innovation bei uns, wir fördern sie nicht in Afrika,
+[00:43:12-4 @franzjosefradermacher] mit der Förderung in Deutschland machen wir den afrikanischen Prozess tot.
+[00:43:17-5 @franzjosefradermacher] Das ist die eine Seite.
+[00:43:19-4 @franzjosefradermacher] Die zweite Seite ist, es gibt keine Leitungen, und bei uns gibt es genügend Leute,
+[00:43:24-7 @franzjosefradermacher] die Leitungen verhindern, die verhindern sogar Leitungen aus Norddeutschland in den Süden,
+[00:43:30-7 @franzjosefradermacher] weil ihr Programm ist, dass auf jedem Dach Photovoltaikanlagen stehen, die würden sich ökonomisch nicht rechnen,
+[00:43:38-1 @franzjosefradermacher] aber die rechnen sich, wenn es keine Alternative gibt, also muss man die Alternative verhindern.
+[00:43:43-1 @franzjosefradermacher] Deshalb ist Desertec schlicht daran gescheitert, dass wir, aus welchem Grund auch immer,
+[00:43:48-6 @franzjosefradermacher] gar nicht bereit waren, die Energie abzunehmen.
+[00:43:52-7 @franzjosefradermacher] Deshalb geht Desertec 2 jetzt auf eine Flüssigkeit, die vom Typ Öl ist,
+[00:43:58-5 @franzjosefradermacher] und für diese Flüssigkeiten haben wir andere Transportmöglichkeiten,
+[00:44:03-2 @franzjosefradermacher] und das sind Transportmöglichkeiten, die kann man nicht dadurch ausschließen,
+[00:44:07-7 @franzjosefradermacher] dass man keine Leitungen zulässt, weil es eben diese Transportmöglichkeiten,
+[00:44:12-6 @franzjosefradermacher] die Schiffe und alles, schon gibt, also man kann das Methanol nach Europa bringen, 
+[00:44:18-6 @franzjosefradermacher] und das Methanol ist auch so preiswert produzierbar, dass es hier konkurrenzfähig ist,
+[00:44:25-7 @franzjosefradermacher] das heißt, es gibt es auch keine deutsche Struktur, die das Methanol vom Markt ausschließen würde,
+[00:44:33-1 @franzjosefradermacher] bis auf Regulierungen, das heißt, der entscheidende Punkt ist heute,
+[00:44:36-4 @franzjosefradermacher] auch wenn man das ganze Theater um die Automobile sieht, um die Automobilindustrie
+[00:44:42-0 @franzjosefradermacher] und die Flottenwerte der Automobilindustrie,
+[00:44:45-0 @franzjosefradermacher] wir müssen natürlich von Brüssel her eine Regulierung bekommen, bei der ein klimaneutrales Methanol
+[00:44:52-7 @franzjosefradermacher] dann in Flottenwerten auch so gerechnet wird, dass das keine Belastung der Atmosphäre darstellt,
+[00:45:03-0 @franzjosefradermacher] dass man dieses Methanol nutzt, oder anders ausgedrückt,
+[00:45:06-8 @franzjosefradermacher] wenn man das CO2 einspart in Afrika, in der dortigen Stahl- und Energieproduktion,
+[00:45:14-4 @franzjosefradermacher] um es ins Methanol zu bringen, dann muss dieser Effekt anerkannt werden, wenn man jetzt mit diesem Methanol
+[00:45:23-3 @franzjosefradermacher] und dem daraus gewonnenen Benzin bei uns mit dem Auto fährt, und wenn man das nicht anerkennt,
+[00:45:29-0 @franzjosefradermacher] dann kann man natürlich den Klimaeffekt nicht schöpfen, der in der Sache drin liegt.
+[00:45:34-4 @franzjosefradermacher] Man landet also zum Schluss immer bei Regulierungsfragen.
+[00:45:37-7 @franzjosefradermacher] Sie können sicher sein, dass starke Kräfte in Europa alles tun werden, damit das nicht zugelassen wird,
+[00:45:45-2 @franzjosefradermacher] weil diese Konkurrenz nicht gewollt wird, weil man das Elektroauto will,
+[00:45:50-5 @franzjosefradermacher] egal welche Probleme dann zum Schluss aus dem Elektroauto resultieren.
+[00:45:55-4 @franzjosefradermacher] Wenn man aber klug an die Sache herangeht, hat man hier eine Chance, enorm Co2 einzusparen,
+[00:46:01-5 @franzjosefradermacher] und unsere Autoindustrie zu stärken, und eine viel bessere Lösung für die Mobilität zu haben als in den Elektroautos.
+[00:46:12-0 @timpritlove] Besser weil schon seit langem fertig entwickelte Technologie, die alle Bereiche abdeckt,
+[00:46:19-0 @timpritlove] weil man das zum Einsatz bringt?
+[00:46:20-7 @franzjosefradermacher] Das ist erstens schon alles da.
+[00:46:24-2 @franzjosefradermacher] Das heißt zum Beispiel auch, man muss nicht alle Wohnungen energetisch sanieren,
+[00:46:29-0 @franzjosefradermacher] wenn bereits das Heizöl klimaneutral ist.
+[00:46:31-8 @franzjosefradermacher] Daran erkennt man sofort, wie viel einfacher die Lage wird, wenn ich einen klimaneutralen Kraftstoff habe.
+[00:46:38-6 @franzjosefradermacher] Wenn die Kraftstoffe klimaneutral sind, dann sind Autos kein Problem fürs Klima,
+[00:46:44-7 @franzjosefradermacher] weil ja schon der Kraftstoff klimaneutral ist.
+[00:46:46-9 @franzjosefradermacher] Ich kann die Autos benutzen, die ich habe, ich muss mir nicht neue Autos ausdenken,
+[00:46:51-9 @franzjosefradermacher] und jetzt kommt ja beim Elektroauto das Problem dazu, dass heute allein die Batterie im Produktionsprozess
+[00:46:59-4 @franzjosefradermacher] ungefähr so viel CO2 erzeugt wie der Benziner heute in seiner ganzen Lebenszeit.
+[00:47:06-7 @franzjosefradermacher] Dass wir zusätzlich dieses Elektroauto mit Strom betreiben, der immer noch und auf Jahrzehnte,
+[00:47:13-0 @franzjosefradermacher] relativ dreckig sein wird, das heißt, das ist ja kein CO2-neutraler Strom,
+[00:47:17-8 @franzjosefradermacher] sondern das ist ein mit viel CO2-Emissionen verbundener Strom.
+[00:47:22-4 @franzjosefradermacher] Wir brauchen gigantische Infrastrukturen, etwa zum Aufladen, die es noch nicht gibt,
+[00:47:27-7 @franzjosefradermacher] wir müssen uns anschließend mit diesem Batteriemüll auseinandersetzen, wo wir nocht nicht wissen, was das praktisch heißt.
+[00:47:33-7 @franzjosefradermacher] Also wir haben lauter ungedeckte Checks, in einer Hoffnung auf eine Lösung, 
+[00:47:40-6 @franzjosefradermacher] während es eine andere Lösung gibt, die einfach das System massiv verbessert,
+[00:47:46-3 @franzjosefradermacher] das wir sowieso schon etabliert haben.
+[00:47:50-1 @timpritlove] Was hindert denn die politische Debatte um so ein System?
+[00:47:56-7 @timpritlove] Sie haben ja eben schon gesagt, es gibt dann Leute, die haben was zu verlieren, das ist natürlich etwas,
+[00:48:01-1 @timpritlove] was ja die Politik im Prinzip wegmoderieren könnte, wenn die Aussichten hier potenziell so rosig sind.
+[00:48:08-2 @timpritlove] Weil ich meine, sagen wir mal auch für eine konservative Regierung, ist das ja sehr schön,
+[00:48:13-8 @timpritlove] wenn man quasi in einem Wisch sagen könnte, naja, ist deutlich klimaneutraler bis hin zu potenziell vollständig klimaneutral,
+[00:48:23-4 @timpritlove] und erhält auch noch die Basis unseres aktuellen wirtschaftlichen Standorts.
+[00:48:28-8 @timpritlove] Müsste doch eigentlich der totale Homerun sein.
+[00:48:32-5 @franzjosefradermacher] Zumindest hat es eine Chance und es wird an dem Thema gearbeitet.
+[00:48:37-5 @franzjosefradermacher] Das heißt, es gibt Aktivitäten, zum Beispiel auf der Forschungsseite, im Bundeswirtschaftsministerium,
+[00:48:45-0 @franzjosefradermacher] und wir sind gerade dabei, mit dem Ministerium für wirtschaftliche Zusammenarbeit und vielen Industriepartnern,
+[00:48:52-3 @franzjosefradermacher] die entsprechenden Projektprozesse auf, zum Beispiel, Nordafrika auszudehnen.
+[00:48:59-4 @franzjosefradermacher] Aber das ist ein Weg, weil das ist eine massive Veränderung des Denkens.
+[00:49:04-8 @franzjosefradermacher] Bisher haben wir immer ein Denken, das zunehmend territotialer wird, bei uns verengt sich alles in der Vorstellung,
+[00:49:13-4 @franzjosefradermacher] wir müssen alles in Deutschland machen, und es gibt eine enorme Ablehnung dagegen,
+[00:49:20-3 @franzjosefradermacher] dass Geld woanders hinfließt und dass man Dinge woanders macht,
+[00:49:24-9 @franzjosefradermacher] und das läuft dann auch immer alles gerne unter Ablasshandel und unter Ablenkung usw.
+[00:49:29-7 @franzjosefradermacher] Also politisch geht man an all das nicht gerne ran, aber ich persönlich bin überzeugt,
+[00:49:36-4 @franzjosefradermacher] dass wir zunehmend da herangehen werden, weil das, was wir heute politisch versuchen,
+[00:49:43-9 @franzjosefradermacher] meiner Ansicht nach chancenlos ist, und es ist vor allen Dingen eben deshalb chancenlos,
+[00:49:50-5 @franzjosefradermacher] weil die eigentlichen Klimaprobleme der Welt in Afrika und am indischen Subkontinent entstehen und sich akkumulieren,
+[00:50:00-8 @franzjosefradermacher] und wir feststellen werden, dass, egal was wir hier tun, wir dann auf diese globalen Prozesse praktisch keinen Einfluss haben,
+[00:50:10-3 @franzjosefradermacher] und die das Zwei-Grad-Ziel verunmöglichen.
+[00:50:13-3 @franzjosefradermacher] Das wird uns jedes Jahr deutlicher werden, weil im Moment laufen die Prozesse alle in eine Richtung,
+[00:50:20-8 @franzjosefradermacher] die völlig konträr zum Zwei-Grad-Ziel ist, das heißt,
+[00:50:24-2 @franzjosefradermacher] die Welt ist nicht auf dem Weg der Dekarbonisierung,
+[00:50:28-3 @franzjosefradermacher] und der eben schonmal zitierte Präsident Trump
+[00:50:33-3 @franzjosefradermacher] ist einer der größten Akteure auf dem Globus zur Verunmöglichung eines Weges in die Dekarbonisierung.
+[00:50:40-4 @franzjosefradermacher] Die Dekarbonisierung ist genau das Gegenteil von dem, was im Moment auf der Welt stattfindet.
+[00:50:46-8 @franzjosefradermacher] Und deshalb brauchen wir die Negativemissionen, weil überhaupt keine Chance besteht auf eine rasche Dekarbonisierung,
+[00:50:53-7 @franzjosefradermacher] alle Schätzungen, die seriös sind, laufen darauf hinaus, dass 2040 mehr CO2 aus fossilen Energieträgern entstehen wird als heute.
+[00:51:08-4 @franzjosefradermacher] Und die Träume davon, dass wir dann bei der Hälfte oder einem Drittel der CO2-Emissionen von heute aus fossilen Energieträgern sind,
+[00:51:15-7 @franzjosefradermacher] die sind alle am Thema vorbei, die Menge der CO2-Emissionen wird noch zunehmen,
+[00:51:22-3 @franzjosefradermacher] und zwar aus geopolitischen Gründen, aus Machtgründen,
+[00:51:27-0 @franzjosefradermacher] aus Gründen, die mit Industriepolitik zu tun haben, und die sich Null um das Klima scheren.
+[00:51:37-0 @timpritlove] Sind denn, ich meine, es gibt ja auch noch ein paar neue Problemfälle,
+[00:51:40-7 @timpritlove] in Brasilien haben wir jetzt auch so eine neue Regierung am Start, die zwar jetzt noch nicht sehr viel sichtbares erzeugt hat,
+[00:51:48-6 @timpritlove] aber zumindest mit ihrer Diktion und Ausrichtung schonmal für Stirnrunzeln sorgt,
+[00:51:54-9 @timpritlove] das ist natürlich ausgerechnet in Brasilien, ja, also dem Heimatland des Amazonas,
+[00:52:01-0 @timpritlove] nochmal ein extra beunruhigender Trend.
+[00:52:06-0 @franzjosefradermacher] Ja, wobei meine Position aber wäre, dass der Präsident dort an einer Stelle recht hat.
+[00:52:14-4 @franzjosefradermacher] Der Regenwald im Amazonas ist für das Klima und für die Biodiversität ein zentraler Schatz der Menschheit,
+[00:52:24-0 @franzjosefradermacher] aber das müssen die reichen Länder wesentlich mitbezahlen, dass dieser Regenwald stehen bleibt.
+[00:52:30-2 @franzjosefradermacher] Wir können nicht erwarten, dass ein vergleichsweise armes Land für uns dieses tolle Regenwaldgebiet vorhält,
+[00:52:37-6 @franzjosefradermacher] und wir gucken zu und zahlen nicht.
+[00:52:43-1 @franzjosefradermacher] Für mich ist das, was in Ecuador passiert ist, an der Stelle symptomatisch.
+[00:52:50-5 @franzjosefradermacher] Es gab in Ecuador einen weit entwickelten Vorschlag, dass man Öl unter dem Regenwald in der Erde lässt,
+[00:52:59-5 @franzjosefradermacher] und es gab weit entwickelte Planungen, dass die reichen Länder dafür Jahr für Jahr bezahlen,
+[00:53:06-3 @franzjosefradermacher] und zwar so in der Größenordnung von 10 Euro pro Tonne, es war eigentlich ein günstiges Angebot,
+[00:53:13-0 @franzjosefradermacher] weil mein schützte den Wald und ließ das Öl in der Erde.
+[00:53:17-9 @franzjosefradermacher] Dieser ganze Deal ist zum Schluss unter anderem an Deutschland gescheitert,
+[00:53:22-2 @franzjosefradermacher] wir waren nicht bereit, dafür zu zahlen.
+[00:53:25-7 @franzjosefradermacher] In der politischen Diktion war die Aussage, wir zahlen nicht dafür, dass etwas nicht passiert.
+[00:53:34-8 @timpritlove] Klingt ja auch erstmal ein bisschen merkwürdig.
+[00:53:38-3 @franzjosefradermacher] Ja was ist merkwürdig?
+[00:53:40-0 @timpritlove] Naja, für etwas zu zahlen, dass etwas nicht ...
+[00:53:42-8 @franzjosefradermacher] Ja, aber wenn das, was zu passieren droht, sehr schädlich ist, dann ist doch vollkommen normal,
+[00:53:48-3 @franzjosefradermacher] dass man dafür bezahlt, dass etwas nicht passiert.
+[00:53:51-5 @franzjosefradermacher] Wenn jemand zum Beispiel sein Haus bewachen lässt, dann zahlt er dafür,
+[00:53:56-3 @franzjosefradermacher] dass etwas nicht passiert, nämlich der Einbruch.
+[00:53:59-8 @franzjosefradermacher] Es ist doch eigentlich vollkommen normal, dass man an den richtigen Stellen dafür bezahlt,
+[00:54:05-0 @franzjosefradermacher] dass etwas nicht passiert, nämlich der drohende Schaden.
+[00:54:08-4 @franzjosefradermacher] Und es ist oft sehr viel billiger, dafür zu zahlen, dass der Schaden nicht passiert,
+[00:54:14-0 @franzjosefradermacher] als den Schaden eintreten zu lassen und nachher zu versuchen aufzuräumen.
+[00:54:19-5 @franzjosefradermacher] Wenn wir reich und arm auf der Erde haben, und wenn insbesondere auch der reiche Teil der Welt will,
+[00:54:27-7 @franzjosefradermacher] dass dieses wunderbare Amazonasgebiet nicht angetastet wird, dann müssen wir dafür bezahlen.
+[00:54:36-0 @franzjosefradermacher] Heute zahlen wir aber nur, wenn man den Regenwald abholzt, denn dann zahlen wir für das Holz,
+[00:54:43-3 @franzjosefradermacher] wir zahlen für die Ressourcen, die im Boden sind, dann zahlen wir.
+[00:54:47-8 @franzjosefradermacher] Aber wir zahlen eigentlich nur dann, wenn das Gegenteil von dem passiert, was jeder kluger Mensch sagen würde,
+[00:54:55-4 @franzjosefradermacher] was wir wollen sollten und damit kommt man auch zum Kern dieser ganzen Umweltprobleme,
+[00:55:02-3 @franzjosefradermacher] die eben im Kern gar keine Umweltprobleme sind, sondern es sind Probleme über die Verteilung von Wohlstand,
+[00:55:10-3 @franzjosefradermacher] über die Frage, wer hat das Geld und wer hat es nicht,
+[00:55:13-7 @franzjosefradermacher] und wenn man sich eine Sekunde vorstellt, die Welt wäre ein Staat und eine Demokratie,
+[00:55:21-6 @franzjosefradermacher] dann wäre ja gar kein Thema, dass wir den Amazonas schützen.
+[00:55:25-9 @franzjosefradermacher] Dann wäre aber auch kein Thema, dass wir ganz anderen sozialen Ausgleich von den Gebieten mit hoher Wertschöpfung
+[00:55:34-2 @franzjosefradermacher] zu denen mit niedriger Wertschöpfung hätten, dann hätten wir sowas wie bei uns in Deutschland den Länderfinanzausgleich.
+[00:55:40-0 @timpritlove] Der ja auch immer wieder in Frage gestellt wird.
+[00:55:41-5 @franzjosefradermacher] Ja, aber der ein Segen ist, und das ist ja genau der Punkt.
+[00:55:44-4 @franzjosefradermacher] Das, was ein Segen ist, und was die Voraussetzung dafür ist, dass wir so gut als Staat funktionieren, wie wir funktionieren,
+[00:55:52-2 @franzjosefradermacher] wird trotzdem immer schlecht geredet, und weltweit tun wir nicht, was wir bei uns tun, weil es das Richtige ist,
+[00:56:01-0 @franzjosefradermacher] und indem wir aber weltweit immer das Falsche tun, kommt dann zum Schluss auch das Falsche raus,
+[00:56:06-3 @franzjosefradermacher] da muss man sich nicht wundern.
+[00:56:08-2 @franzjosefradermacher] Ich verstehe, wenn ein brasilianischer Präsident sagt, da ist eine tolle Ressource,
+[00:56:13-7 @franzjosefradermacher] da können wir eine Menge Geld draus machen, ...
+[00:56:15-7 @timpritlove] Wär doch schade, wenn dem was passieren würde.
+[00:56:19-9 @timpritlove] Also es hat sowas latent mafiöses in der Stimme, aber ich verstehe natürlich Ihren Punkt.
+[00:56:23-4 @timpritlove] Im Prinzip ist es so eine Art Versicherung, die man zahlt, weil das hat ja auch gar nichts damit zu tun,
+[00:56:29-3 @timpritlove] dass man jetzt diesen, was weiß ich, der Regierung von Ecuador unterstellt, jetzt hier also eine Erpressung zu begehen,
+[00:56:36-4 @timpritlove] das ist einfach auch wahrscheinlich die einfache Erkenntnis, dass sich dann eben so eine Ausbeutung auch mittelfristig einfach nicht verhindern lassen wird,
+[00:56:45-3 @timpritlove] weil die Kräfte, die das wollen, dann einfach zu stark werden und es entweder über den Volkswillen,
+[00:56:53-8 @timpritlove] oder über Korruption, oder im Zweifelsfall beides, irgendwie organisiert bekommen.
+[00:56:59-2 @franzjosefradermacher] Ja, und die Kräfte sind doch vollkommen nachvollziehbar.
+[00:57:01-1 @franzjosefradermacher] Wenn ich ganz armen Ländern bin, in denen die Menschen ein besseres Leben wollen,
+[00:57:06-6 @franzjosefradermacher] und jeden Tag auf ihrem Smartphone sehen, wie wir leben,
+[00:57:11-3 @franzjosefradermacher] ja, wer will denn dagegen argumentieren, dass die versuchen, aus ihren Ressourcen Wohlstand zu produzieren?
+[00:57:17-9 @franzjosefradermacher] Und jetzt können sie uns entweder das Holz verkaufen ...
+[00:57:20-5 @timpritlove] Haben wir ja auch gemacht.
+[00:57:21-6 @franzjosefradermacher] Ja, weil wir das alles auch gemacht haben, wir haben es ihnen doch alles vorexerziert.
+[00:57:27-0 @franzjosefradermacher] Was haben wir in Nordamerika, als die Einwanderer nach Nordamerika gingen,
+[00:57:32-4 @franzjosefradermacher] was haben wir da Wälder vernichtet ohne Ende, das war doch Bonanza, all dies Holz war da,
+[00:57:39-6 @franzjosefradermacher] und kostete nichts, einfach nur zugreifen.
+[00:57:42-9 @franzjosefradermacher] Da ist ein Teil unseres Wohlstands entstanden, indem wir einfach zugegriffen haben.
+[00:57:48-5 @franzjosefradermacher] Und jetzt kommen die anderen, sehen, was wir so alles so hinbekommen haben,
+[00:57:53-1 @franzjosefradermacher] und wir sagen ihnen jetzt, dass sie das alles nicht dürfen.
+[00:57:56-5 @franzjosefradermacher] Das macht ja das Klimathema so schwierig.
+[00:57:59-5 @franzjosefradermacher] Die eigentliche Dynamik kommt von dem legitimen Wunsch der Ärmeren, aufzuholen.
+[00:58:05-7 @franzjosefradermacher] China, der legitime Wunsch Chinas, aus der Armut zu kommen, beschert uns jetzt CO2-Emissionen,
+[00:58:12-4 @franzjosefradermacher] die größer sind als die von USA, Europa und Japan zusammen, man kann da gar nicht gegen argumentieren,
+[00:58:18-1 @franzjosefradermacher] es ist das selbe, was wir gemacht haben.
+[00:58:20-0 @franzjosefradermacher] Nur das Ergebnis ist, dass sich die CO2-Emissionen mal eben verdoppelt haben,
+[00:58:24-8 @franzjosefradermacher] und das wird in Afrika und Indien ein weiteres Mal passieren, wenn uns nichts klügeres einfällt.
+[00:58:31-2 @franzjosefradermacher] Und über diesen Punkt wird bei uns praktisch nie geredet.
+[00:58:35-2 @franzjosefradermacher] Bei uns wird darüber geredet, ob wir was am Hambacher Forst machen,
+[00:58:39-3 @franzjosefradermacher] bei uns wird was darüber geredet, dass die Autos nicht mehr so schnell fahren dürfen,
+[00:58:44-4 @franzjosefradermacher] bei uns wird darüber geredet, dass wir alle Häuser energetisch sanieren, und vielleicht kein Fleisch mehr essen.
+[00:58:51-4 @franzjosefradermacher] Kleiner Überschlag zeigt sofort, das hat für das globale Klima alles im Wesentlichen keine Bedeutung
+[00:58:57-3 @franzjosefradermacher] im Verhältnis zu den Größenordnungen woanders, aber darüber wird nicht geredet,
+[00:59:02-0 @franzjosefradermacher] wird auch nicht darüber geredet, was wir für einen Beitrag leisten, nichts.
+[00:59:05-7 @franzjosefradermacher] Da kommt der absurde Satz, wir würden der Welt ein Beispiel geben, das,
+[00:59:11-9 @franzjosefradermacher] also wir wollen jetzt bei uns das erst mal alles hinkriegen, damit die Welt dann sieht, wie es geht.
+[00:59:17-7 @franzjosefradermacher] Man muss aber wissen, dass wir bei 11 Tonnen CO2 pro Kopf sind und die Franzosen bei 5.
+[00:59:23-5 @franzjosefradermacher] Jetzt kann man sich mal überlegen, wann das großartige Beispiel Deutschland
+[00:59:27-5 @franzjosefradermacher] auch nur auf das französische Niveau kommt,
+[00:59:30-1 @franzjosefradermacher] das ist dann vielleicht in 30 Jahren so weit.
+[00:59:32-8 @franzjosefradermacher] Die Chinesen sind in erneuerbarer Energie überall schon, wo wir sowieso sind,
+[00:59:38-3 @franzjosefradermacher] was sollen die von uns lernen?
+[00:59:40-2 @franzjosefradermacher] Das wissen die doch sowieso alles.
+[00:59:42-0 @franzjosefradermacher] Da wartet doch keiner darauf, ob wir irgendeinen Fortschritt bei uns erzielen oder nicht,
+[00:59:46-2 @franzjosefradermacher] das ist im Wesentlichen irrelevant, aber wir erklären uns über das Beispiel,
+[00:59:52-1 @franzjosefradermacher] dass wir das Richtige tun, wenn wir alle unsere Kraft hier einsetzen,
+[00:59:57-0 @franzjosefradermacher] obwohl das eigentliche Problem woanders ist.
+[01:00:01-6 @timpritlove] Es sei denn es würde uns gelingen, unseren Verbrauch auf 10 Prozent dessen zu reduzieren, was wir heute haben.
+[01:00:08-5 @timpritlove] Das wäre ein Beispiel, aber das ist wahrscheinlich einfach nicht denkbar.
+[01:00:13-4 @franzjosefradermacher] Wenn wir Technologien hätten, mit denen wir kurzfristig auf 10 Prozent kämen,
+[01:00:19-3 @franzjosefradermacher] und ich sage mal, die Methanolökonomie könnte einen Beitrag leisten,
+[01:00:24-9 @franzjosefradermacher] relativ schnell zumindest zu halbieren, ja?
+[01:00:28-4 @franzjosefradermacher] Das könnte etwas sein, aber selbst da braucht man uns nicht für,
+[01:00:33-4 @franzjosefradermacher] weil in Methanolökonomie sind im Moment die Chinesen ohnehin die, die das höchste Volumen produzieren.
+[01:00:42-3 @franzjosefradermacher] Also man muss sich überhaupt von dieser ganzen Vorstellung trennen, wir als Beispiel, ja?
+[01:00:47-8 @franzjosefradermacher] Sondern man muss gucken, was erreiche ich mit meinem Geld?
+[01:00:51-8 @franzjosefradermacher] Was ist mein Beitrag, mit dem Geld, was ich habe?
+[01:00:55-3 @franzjosefradermacher] Und da sind wir an der Stelle, wo wir bei den reichen Ländern landen, die haben das Geld.
+[01:01:00-9 @franzjosefradermacher] Was machen die mit ihrem Geld?
+[01:01:04-3 @franzjosefradermacher] Wenn man an den Ozonschirm denkt, an das Montrealer Protokoll, ...
+[01:01:10-9 @timpritlove] Ja?
+[01:01:12-0 @franzjosefradermacher] Dieses Problem haben wir gelöst.
+[01:01:16-0 @franzjosefradermacher] Wir hatten damals eine alternative Technik, wir brauchten FCKW nicht mehr für Kühlschränke,
+[01:01:22-8 @franzjosefradermacher] und die reichen Ländern haben den ärmeren Ländern gesagt, okay, ...
+[01:01:29-3 @franzjosefradermacher] steigt mit uns aus FCKW aus
+[01:01:33-2 @franzjosefradermacher] und was das mehr kostet, werden wir bezahlen,
+[01:01:38-9 @franzjosefradermacher] wir werden euch das Geld transferieren.
+[01:01:42-1 @franzjosefradermacher] Ihr werdet in die neue Technologie zu den selben Kosten einsteigen können,
+[01:01:48-3 @franzjosefradermacher] wir ihr zu FCKW-basierten Kühlschränken einsteigen könntet.
+[01:01:54-1 @franzjosefradermacher] Und auf der Basis dieses Deals haben wir das Ozonproblem gelöst.
+[01:02:00-0 @franzjosefradermacher] Wir sind nicht bereit, den selben Deal bei Energie zu machen,
+[01:02:04-4 @franzjosefradermacher] weil wir keine vernünftige Lösung haben, und weil es so unendlich teuer ist.
+[01:02:09-0 @franzjosefradermacher] Und deshalb machen wir es nicht,
+[01:02:10-9 @franzjosefradermacher] aber wenn wir es nicht machen, werden wir das Zwei-Grad-Ziel nicht erreichen.
+[01:02:18-1 @franzjosefradermacher] Und deshalb müssen wir überlegen, wo das Geld herkommen kann,
+[01:02:24-1 @franzjosefradermacher] wenn es jedenfalls über die Politik nicht aktiviert werden kann.
+[01:02:29-1 @franzjosefradermacher] Die Politik kann nicht in dieser Größenordnung das Geld aktivieren,
+[01:02:33-6 @franzjosefradermacher] weil die Bevölkerung schon böse wird bei der heutigen Entwicklungshilfe.
+[01:02:37-8 @franzjosefradermacher] Also wir haben ja nie die 0,7 Prozent geschafft, die wir versprochen haben.
+[01:02:43-9 @franzjosefradermacher] Wir dümpeln jetzt in Europa bei 0,4, die USA sind noch deutlich unter 0,4.
+[01:02:49-6 @franzjosefradermacher] Wir haben nicht mal die 0,7 geschafft.
+[01:02:51-9 @franzjosefradermacher] Das, was wir zur Lösung des Klimaproblems brauchen, das ist aber so ungefähr das Dreifache von 0,7.
+[01:03:00-1 @franzjosefradermacher] Das ist politisch völlig undenkbar, wir können das nicht über den politischen Prozess organisieren,
+[01:03:06-8 @franzjosefradermacher] weil die reiche Welt es nicht aushält, wenn ihr Geld woanders hingeht.
+[01:03:13-0 @franzjosefradermacher] Und deshalb muss man eine andere Lösung finden, mit der politischen Lösung,
+[01:03:19-4 @franzjosefradermacher] da sind wahrscheinlich nicht mal die 100 Milliarden zu schaffen, die laut Paris-Vertrag die Voraussetzung dafür sind,
+[01:03:27-1 @franzjosefradermacher] dass die Nicht-Industrieländer ihre freiwilligen Versprechungen einhalten.
+[01:03:32-8 @franzjosefradermacher] Nicht mal das werden wir hinkriegen, weil wir die 100 Milliarden pro Jahr nicht hinkriegen werden,
+[01:03:39-6 @franzjosefradermacher] und dass die USA aussteigen aus dem Vertrag, wird vor allen Dingen eine Konsequenz haben für diese 100 Milliarden,
+[01:03:46-6 @franzjosefradermacher] weil natürlich die USA davon einen spürbaren Beitrag bringen sollen.
+[01:03:52-3 @timpritlove] Das heißt, das ist, was ihr Ausstieg, oder zumindest ihr Moratorium auf die Teilnahme am Pariser Abkommen vor allem erstmal bedeutet,
+[01:04:01-2 @timpritlove] kein Geld zahlen?
+[01:04:02-8 @franzjosefradermacher] Das bedeutet es, und die zweite Seite:
+[01:04:05-7 @franzjosefradermacher] Die USA treiben massiv die Erhöhung von fossiler Energie voran,
+[01:04:12-7 @franzjosefradermacher] die USA haben in 10 Jahren ihre Ölproduktion verdoppelt,
+[01:04:17-2 @franzjosefradermacher] die USA sind heute der größte Ölproduzent der Welt, produzieren mehr Öl als die Saudis und mehr Öl als die Russen,
+[01:04:24-9 @franzjosefradermacher] und die Planungen der USA gehen dahin, in 10 Jahren möglicherweise mehr Öl zu produzieren als die Saudis und die Russen zusammen.
+[01:04:36-8 @franzjosefradermacher] Zusammen.
+[01:04:40-0 @franzjosefradermacher] Und das Ziel ist, niedrige Energiepreise für die US-Industrie,
+[01:04:46-8 @franzjosefradermacher] aber das andere Ziel ist, den Russen, den Iranis und anderen, die Luft abzudrehen,
+[01:04:52-2 @franzjosefradermacher] indem man einen niedrigen Ölpreis durchsetzt.
+[01:04:56-7 @franzjosefradermacher] Für eine Welt, die das Klimaproblem lösen will, und die Dekarbonisieren will,
+[01:05:01-5 @franzjosefradermacher] brauchten wir eigentlich einen hohen Preis für fossile Energieträger.
+[01:05:07-3 @franzjosefradermacher] Aber der Preis ist durch die US-Politik massiv runtergegangen,
+[01:05:12-8 @franzjosefradermacher] und man muss damit rechnen, dass das so weitergehen wird, weil aus rein geostrategischen Gründen
+[01:05:18-7 @franzjosefradermacher] macht Trump alles, um die Energieproduktion, sowohl Öl als auch Gas, der USA weiter zu steigern.
+[01:05:27-4 @franzjosefradermacher] Das ist ein entscheidender Hebel im internationalen Kampf um die Macht,
+[01:05:33-3 @franzjosefradermacher] und das ist das Gegenteil von Dekarbonisierung,
+[01:05:37-3 @franzjosefradermacher] Und ich kann nicht gut das Paris-Abkommen unterschreiben, wenn ich alles tue,
+[01:05:43-4 @franzjosefradermacher] mehr CO2 aus der Erde zu holen, wobei das Ziel ist, dieses Karbonmaterial dann überall zu verkaufen.
+[01:05:53-8 @franzjosefradermacher] Also im Moment drückt ja die US-Regierung mit großer Kraft gegen Nordstream 2,
+[01:06:00-1 @franzjosefradermacher] damit wir eben nicht die Energie aus Russland holen, sondern die Energie von den USA abkaufen,
+[01:06:06-1 @timpritlove] In Form von Flüssiggas ...?
+[01:06:07-9 @franzjosefradermacher] Flüssiggas, was komplizierter und ...
+[01:06:08-1 @timpritlove] ... den Terminals, die da gebaut worden sind.
+[01:06:10-2 @franzjosefradermacher] ... teurer ist als das russische Gas, aber an dieser Stelle erkennt man auch sofort, was passiert ist.
+[01:06:15-1 @franzjosefradermacher] Es werden alle diese Terminals gebaut, es werden alle die Pipelines zu den Terminals gebaut,
+[01:06:20-1 @franzjosefradermacher] und alle diese Investitionen, die haben 40 Jahre Abschreibungszeit,
+[01:06:26-0 @franzjosefradermacher] alle diese Investitionen müssen wieder hereingespielt werden, und sie müssen Gewinne produzieren,
+[01:06:31-6 @franzjosefradermacher] und das machen wir jetzt permanent, an allen möglichen Stellen.
+[01:06:35-2 @franzjosefradermacher] Jetzt wird im Moment die größte Unterwasserpipeline, die überhaupt je gebaut wurde, geplant,
+[01:06:42-1 @franzjosefradermacher] und die kommt von der israelisch-libanesischen Küste, an Zypern vorbei, Griechenland vorbei, nach Italien.
+[01:06:49-2 @franzjosefradermacher] Die wird gerade jetzt gebaut, und da geht es um dieses Gas, was da vor der Küste ist,
+[01:06:56-2 @franzjosefradermacher] und alle diese Investitionen, die müssen 40 Jahre lang abgeschrieben werden,
+[01:07:01-1 @franzjosefradermacher] und dann träumen bei uns die Leute von der Dekarbonisierung,
+[01:07:04-1 @franzjosefradermacher] wo soll da eine Dekarbonisierung herkommen?
+[01:07:07-6 @timpritlove] Das Ganze scheint sich politisch nicht wirklich trennen zu lassen von diesen ganzen Machtfragen,
+[01:07:13-6 @timpritlove] aber die Bevölkerung spielt ja auch nicht mit.
+[01:07:15-1 @timpritlove] Man sieht das in Paris, ein bisschen an der Steuerschraube des Benzinpreises gedreht,
+[01:07:21-8 @timpritlove] schon hat man es mit wochenlangen Protesten auf der Straße zu tun, die so Frankreich-typisch dann immer gleich ausarten.
+[01:07:32-9 @timpritlove] Das bedeutet ja im Prinzip auch, die Leute gehen eigentlich im Kopf immer noch nicht so richtig mit.
+[01:07:39-2 @timpritlove] Da ist einfach noch nicht genug Erkenntnis angelangt,
+[01:07:45-0 @timpritlove] dass jetzt hier Maßnahmen mal dringend erforderlich werden,
+[01:07:47-7 @timpritlove] weil sonst würde ja auch ein entsprechender Druck auf die Politik ausgeübt werden können.
+[01:07:53-2 @timpritlove] Haben Sie das Gefühl, dass ich da irgendwas ändert?
+[01:07:55-8 @franzjosefradermacher] Na ich sehe das nicht so wie Sie, sondern ich glaube,
+[01:07:59-2 @franzjosefradermacher] die Bevölkerung ahnt instinktiv, dass es bei uns Diskurseliten gibt,
+[01:08:06-2 @franzjosefradermacher] die eigene Geschäftsmodelle verfolgen, und die bestehen in einem Framing des Problems,
+[01:08:16-1 @franzjosefradermacher] das darin besteht, dass man die Dinge hier vor Ort klären muss, egal wie teuer.
+[01:08:23-3 @franzjosefradermacher] Und dann landet man in der Umsetzung sehr schnell bei Mechanismen, die insbesondere auch Sozialschwache treffen.
+[01:08:29-8 @franzjosefradermacher] Also, nehmen Sie zum Beispiel energetische Sanierung von Gebäuden,
+[01:08:34-9 @franzjosefradermacher] dann mache ich Programme, die wohlhabenden Eigentümern von Wohnungen ermöglichen,
+[01:08:41-5 @franzjosefradermacher] ihre Wohnungen energetisch zu ertüchtigen,
+[01:08:45-7 @franzjosefradermacher] das Geld dürfen sie auf Mieter umlegen, die kaum die Mieten bezahlen können.
+[01:08:51-9 @franzjosefradermacher] Möglicherweise bekommen sie auch noch öffentliche Kredite für die Verbesserung der Situation ihres Eigentums.
+[01:09:00-1 @franzjosefradermacher] Sie profitieren.
+[01:09:02-3 @franzjosefradermacher] Bei uns profitieren sehr oft Eliten, und Leute mit viel Geld, an Maßnahmen,
+[01:09:07-2 @franzjosefradermacher] die als Umweltschutz ausgegeben werden.
+[01:09:10-6 @franzjosefradermacher] Und der Normalbürger, der hat nichts zu profitieren.
+[01:09:14-2 @franzjosefradermacher] Der Normalbürger ist der, der zahlt, zahlen, zahlen, zahlen.
+[01:09:18-2 @franzjosefradermacher] Mehr für Miete, mehr für Strom,
+[01:09:21-1 @franzjosefradermacher] und der Normalbürger ahnt, dass es andere Lösungen geben könnte.
+[01:09:26-4 @franzjosefradermacher] Aber diese anderen Lösungen werden systematisch ausgeblendet,
+[01:09:29-4 @franzjosefradermacher] das heißt, der Diskurs ist auf einen bestimmten Lösungstyp beschränkt,
+[01:09:34-0 @franzjosefradermacher] der aber genau der Lösungstyp ist, der das Problem global nicht löst,
+[01:09:38-1 @franzjosefradermacher] aber Eliten hier die Möglichkeiten eröffnet, und auch noch die Bevölkerung belastet,
+[01:09:44-9 @franzjosefradermacher] und dann die Bevölkerung irgendwann keine Lust mehr.
+[01:09:48-5 @franzjosefradermacher] Ich kann das gut nachvollziehen.
+[01:09:50-1 @franzjosefradermacher] Das ist das selbe Theater wie bei den Grenzwerten, die Diskussion, die wir jetzt haben,
+[01:09:55-1 @franzjosefradermacher] es werden absurd niedrige Grenzwerte festgesetzt,
+[01:09:58-8 @franzjosefradermacher] anschließend haben wir die Exekution von Entscheidungen von Richtern,
+[01:10:06-1 @franzjosefradermacher] die massiv in das Eigentum von Menschen eingreifen, und was wir nicht haben ist
+[01:10:11-1 @franzjosefradermacher] eine vernünftige politische Debatte darüber, ob wir diese Grenzwerte wollen,
+[01:10:16-0 @franzjosefradermacher] insbesondere ob wir diese Grenzwerte wollen,
+[01:10:18-8 @franzjosefradermacher] wenn anschließend diese Eigentumseingriffe mit der Exekution dieser Grenzwerte verbunden sind.
+[01:10:25-3 @franzjosefradermacher] Und dann fragen wir uns, wer hat eigentlich diese Grenzwerte gemacht?
+[01:10:28-5 @franzjosefradermacher] Und warum? Welches Programm ist dahinter?
+[01:10:31-4 @franzjosefradermacher] Wer versucht, das jetzt unbedingt vor die Gerichte zu bringen?
+[01:10:35-3 @franzjosefradermacher] Wer hat ein Interesse daran? Warum?
+[01:10:37-6 @franzjosefradermacher] Wer will uns unser Eigentum nehmen, für was?
+[01:10:41-4 @franzjosefradermacher] Und das sind jetzt die Debatten, die ablaufen, weil wir merken,
+[01:10:44-9 @franzjosefradermacher] da sind Frames über Regulierungen gesetzt, die bestimmten Interessen dienen,
+[01:10:51-7 @franzjosefradermacher] und die Möglichkeiten eröffnen, über bestimmte Hebel anderen Lebensstilmodelle aufzuzwingen,
+[01:10:58-2 @franzjosefradermacher] aber die anderen wollen diese Modelle nicht,
+[01:11:01-8 @franzjosefradermacher] die können sich andere Modelle vorstellen.
+[01:11:04-4 @franzjosefradermacher] Es gibt Leute, die würden sagen, ich bin sogar für meine Freiheit und für meinen Konsum bereit,
+[01:11:10-6 @franzjosefradermacher] mit einer Luft zu leben, die nicht ganz so sauber ist wie die Luft, die ich im Moment habe,
+[01:11:16-6 @franzjosefradermacher] so wie es Leute gibt, die sagen, weil ich Spaß am Skifahren habe, stürze ich mich einen Hang runter,
+[01:11:22-6 @franzjosefradermacher] obwohl eine gewisse Wahrscheinlichkeit besteht, dass anschließend meine Beine gebrochen sind.
+[01:11:27-1 @franzjosefradermacher] Der Mensch kann sich für viel entscheiden,
+[01:11:30-0 @franzjosefradermacher] und wir hatten mal ganz andere Zeiten mit der Luftverschmutzung,
+[01:11:33-9 @franzjosefradermacher] und unsere Lebenserwartung wächst dauernd, und wir haben einfach keine Lust,
+[01:11:38-7 @franzjosefradermacher] uns dauernd von irgendwem erzählen zu lassen, wir müssen jetzt hier noch einen Grenzwert verbessern,
+[01:11:43-6 @franzjosefradermacher] wenn wir deshalb nicht mehr mit unserem Auto fahren dürfen.
+[01:11:46-9 @franzjosefradermacher] Wir haben ja nichts gegen Grenzwertverbesserung, solange wir es nicht merken,
+[01:11:50-6 @franzjosefradermacher] aber sobald es ökonomisch relevant wird, sobald es Geld kostet,
+[01:11:55-9 @franzjosefradermacher] da verändert sich die Sicht auf die Themen.
+[01:12:01-2 @timpritlove] Aber ich weiß nicht, sind wir da so weit auseinander in der Sicht der Dinge?
+[01:12:03-5 @timpritlove] Ich habe den Eindruck, dass dieser Druck oder diese Erkenntnislage nicht so weit verbreitet ist,
+[01:12:08-5 @timpritlove] dass es wirklich jetzt zu einem Einfluss auf die Politik führen würde, der die Dinge auch in dem Maße
+[01:12:15-8 @timpritlove] in die Bahnen lenken würde, wie wir das hier vorher diskutiert haben?
+[01:12:21-1 @timpritlove] Wo ist die klare Erkenntnis, dass Klimawandel Priorität 1 ist?
+[01:12:25-3 @timpritlove] Wo ist die klare Erkenntnis, dass wir quasi einen globalen Länderfinanzausgleich haben wollen?
+[01:12:30-9 @timpritlove] Das ist ja nicht so ohne weiteres konsensfähig, also schon als es nur darum ging,
+[01:12:35-0 @timpritlove] hier mal Griechenland ein bisschen unter die Arme zu retten, war ja hier im Prinzip schon alles vorbei,
+[01:12:39-2 @timpritlove] in der ganzen öffentlichen Debatte.
+[01:12:42-1 @franzjosefradermacher] Ja klar, aber daran merkt man doch, wie absurd die Debatte ist.
+[01:12:44-4 @franzjosefradermacher] Es gibt keinen, der von Europa so profitiert wie wir.
+[01:12:47-6 @timpritlove] Ja.
+[01:12:48-4 @franzjosefradermacher] Die gemeinsame Währung ist besonders günstig für die Starken in Europa.
+[01:12:54-6 @franzjosefradermacher] Die Schwachen in Europa haben nicht mehr das Problem, dass sie über eine Anpassung der Währungsrelation,
+[01:13:00-4 @franzjosefradermacher] ihre Wettbewerbsfähigkeit halten können, obwohl ihr Produktivitätszuwachs niedriger ist,
+[01:13:06-1 @franzjosefradermacher] also wir profitieren von der Situation, und die Griechen haben die Nachteile.
+[01:13:11-7 @franzjosefradermacher] Statt dass wir sagen, okay, in der Situation ist doch klar, das wir irgendwas tun müssen,
+[01:13:15-0 @franzjosefradermacher] um den Griechen zu helfen, haben wir einen Diskurs, die Griechen seien zu faul.
+[01:13:20-0 @franzjosefradermacher] Und dann versuchen wir noch, uns zu vermitteln, dass wenn die Griechen so wären wie wir,
+[01:13:23-8 @franzjosefradermacher] dann gäbe es ja kein Problem.
+[01:13:26-2 @franzjosefradermacher] Dabei hätten wir ein Riesenproblem wenn alle so wären wie wir,
+[01:13:29-2 @franzjosefradermacher] weil unser Vorteil ist ja gerade, dass die anderen nicht so sind.
+[01:13:33-1 @franzjosefradermacher] Aber das wollen wir nicht zugeben, wir tun auch immer so, als wäre das für die Welt gut,
+[01:13:36-7 @franzjosefradermacher] wenn wir der Exportweltmeister sind.
+[01:13:39-1 @franzjosefradermacher] Die ganze Welt ärgert sich mittlerweile über unsere Überschüsse,
+[01:13:42-2 @franzjosefradermacher] weil die Überschüsse des Klassenbesten immer auch natürlich negative Volumina auf der anderen Seite zur Folge haben,
+[01:13:51-2 @franzjosefradermacher] und man muss sich da was ausdenken.
+[01:13:54-1 @franzjosefradermacher] Nun, wir haben uns jetzt Dinge ausgedacht, über die europäische Zentralbank,
+[01:13:59-0 @franzjosefradermacher] und die führen dann zu einer Null-Zins-Politik usw.,
+[01:14:01-9 @franzjosefradermacher] das macht dann auch alles Sinn, das ist auch eine Art, wie man die Kohärenz in Europa finanzieren kann,
+[01:14:08-9 @franzjosefradermacher] wir machen das aber so, weil das dann der Bürger nicht so merkt.
+[01:14:13-3 @franzjosefradermacher] Weil der Bürger soll nicht so merken, dass etwas passiert, was das Richtige ist,
+[01:14:18-0 @franzjosefradermacher] weil wir das Richtige schon dauernd als falsch diffamiert haben.
+[01:14:22-3 @franzjosefradermacher] Das heißt, wir haben einen absurden Politikdiskurs.
+[01:14:24-9 @franzjosefradermacher] Das ist auch der Diskurs über das böse Brüssel, nicht?
+[01:14:28-2 @franzjosefradermacher] Alle fahren, fahren sie alle nach Brüssel, um was zu beschließen,
+[01:14:31-1 @franzjosefradermacher] anschließend fahren sie nach Hause und sagen, das haben diese Bösen da in Brüssel beschlossen.
+[01:14:35-1 @franzjosefradermacher] Nein, das war der richtige Beschluss, und alle zusammen haben es in Brüssel beschlossen,
+[01:14:39-1 @franzjosefradermacher] aber weil sie ihrer Bevölkerung nicht vermitteln wollen, warum sie beschlossen haben,
+[01:14:43-7 @franzjosefradermacher] was sie beschlossen haben, und dass es nötig war, was sie beschlossen haben,
+[01:14:47-6 @franzjosefradermacher] versuchen sie sich jetzt billig aus der Sache rauszuholen, indem sie dauernd alle auf Brüssel schimpfen.
+[01:14:53-2 @franzjosefradermacher] Und die Folge ist natürlich davon, dass zum Schluss die Menschen meinen,
+[01:14:57-1 @franzjosefradermacher] das Böse säße in Brüssel,
+[01:14:59-7 @franzjosefradermacher] und nicht in einer Welt, in der es bald dreimal so viele Chinesen gibt wie Europäer,
+[01:15:05-9 @franzjosefradermacher] ist es dringend notwendig, dass wir zumindest die Einheit Europa haben,
+[01:15:10-3 @franzjosefradermacher] wenn wir uns im Konzert dieser großen Kräfte auf der Erde noch einigermaßen behaupten wollen,
+[01:15:17-1 @franzjosefradermacher] wenn wir unsere Kultur und unseren Wohlstand erhalten wollen,
+[01:15:20-4 @franzjosefradermacher] brauchen wir ein starkes Europa und dann müssen wir überlegen, wie wir Europa stärker machen,
+[01:15:27-3 @franzjosefradermacher] wie wir zum Beispiel die Demokratie in Europa stärker machen, weil wir ein stärkeres Europa brauchen,
+[01:15:34-0 @franzjosefradermacher] und nicht auch noch Europa schlecht reden.
+[01:15:38-2 @timpritlove] Und das sagen wir hier, während wir hier sitzen, am 30. Januar 2019,
+[01:15:45-8 @timpritlove] noch zwei Monate bis der Brexit formal über den Tisch gehen soll, wo man das Gefühl hat,
+[01:15:51-1 @timpritlove] dass sich Europa überhaupt nicht mehr versteht, bzw. auch die Politik überhaupt nicht mehr in der Lage ist,
+[01:15:56-1 @timpritlove] genau diese Diskrepanz dann wieder aufzulösen, weil auch dort ist es natürlich so eine Situation,
+[01:16:01-9 @timpritlove] wo die ganze Zeit gesagt wurde, ja hier, die Bösen aus Europa und jetzt haben sie den Salat.
+[01:16:09-0 @timpritlove] Jetzt glauben es alle und können überhaupt nicht mehr durchsetzen, das, was sie vielleicht eigentlich mehrheitlich auch denken,
+[01:16:15-9 @timpritlove] dass es an sich schon gar nicht so eine schlechte Idee gewesen ist.
+[01:16:19-9 @franzjosefradermacher] Also ich sage seit dem Referendum,
+[01:16:23-8 @franzjosefradermacher] dass ich eine gute Chance sehe, dass die Sache in Großbritannien so ausgehen wird,
+[01:16:31-8 @franzjosefradermacher] dass die Briten im Wesentlichen in der EU bleiben.
+[01:16:37-1 @franzjosefradermacher] Also die Lösung, die kommunikationstechnisch in der modernen Welt die beste Lösung ist,
+[01:16:43-1 @franzjosefradermacher] ist die Lösung, wo man so tun kann als wäre man draußen, währen man drin ist.
+[01:16:48-1 @franzjosefradermacher] Und das sind ja jetzt auch die Bausteine, die im Raum stehen,
+[01:16:51-9 @franzjosefradermacher] also ja, man muss überlegen, dass im Minimum, zum Beispiel, die Briten in der Zollunion bleiben,
+[01:16:59-7 @franzjosefradermacher] sobald sie in der Zollunion sind, kann man die harte Grenze in Irland vermeiden,
+[01:17:05-1 @franzjosefradermacher] und man würde sich in vielen Fragen immer orientieren an der Lösung, die die Schweiz hat,
+[01:17:11-4 @franzjosefradermacher] oder die Liechtenstein hat,
+[01:17:13-5 @franzjosefradermacher] die sind im Wesentlichen in der EU, obwohl sie draußen sind.
+[01:17:18-0 @franzjosefradermacher] Es gibt da übrigens die absurdesten Konstrukte,
+[01:17:20-0 @franzjosefradermacher] also die Schweiz ist über Spezialverträge im Binnenmarkt, ist aber nicht in der Zollunion.
+[01:17:27-2 @franzjosefradermacher] Liechtenstein ist in einer Zollunion mit der Schweiz,
+[01:17:31-6 @franzjosefradermacher] aber Liechtenstein ist auch in einer Zollunion mit der EU.
+[01:17:35-5 @franzjosefradermacher] Das ist ja schon gar nicht mehr vorstellbar, wie das überhaupt gehen soll, ja?
+[01:17:38-8 @franzjosefradermacher] Aber das ist der Status quo.
+[01:17:40-9 @timpritlove] Ja.
+[01:17:41-6 @franzjosefradermacher] Also mit anderen Worten, mit genügend viel Fantasie kann man sich Lösungen ausdenken,
+[01:17:47-0 @franzjosefradermacher] die keiner versteht, die aber materiell so sind als wäre man im Wesentlichen drin,
+[01:17:53-0 @franzjosefradermacher] aber man ist dann doch nicht drin und man kann dann im Ausnahmefall auch mal irgendwas machen,
+[01:17:57-6 @franzjosefradermacher] und mit ein bisschen Flexibilität und viel Gehirn, kriegt man es dann hin.
+[01:18:01-3 @franzjosefradermacher] Ich hoffe, dass wir da noch rauskommen werden.
+[01:18:04-6 @franzjosefradermacher] Das heißt, wir leben jetzt sozusagen in der Zuspitzung eines entscheidungstheoretischen Problems,
+[01:18:12-3 @franzjosefradermacher] dieses Problem ist schwierig, da gilt Prioritäten haben Posterioritäten zur Folge,
+[01:18:19-6 @franzjosefradermacher] einen Tod muss man sterben,
+[01:18:22-3 @franzjosefradermacher] das ist ein bisschen eine Auseinandersetzung vom Typ Prisoner's Dilemma,
+[01:18:27-9 @franzjosefradermacher] ein bisschen vom Typ Ultimatumspiel,
+[01:18:30-4 @franzjosefradermacher] ist ein bisschen was wie Pokern,
+[01:18:32-9 @franzjosefradermacher] gucken, wer die Nerven hat, bis wann.
+[01:18:35-8 @franzjosefradermacher] Also ich glaube, so wie dieser Prozess im Moment angelegt ist, gibt es noch eine vernünftige Chance,
+[01:18:41-8 @franzjosefradermacher] dass im Endergebnis die Briten im Wesentlichen in der EU bleiben.
+[01:18:47-1 @franzjosefradermacher] Meiner Ansicht nach ist das auch demokratietheoretisch die angemessene Lösung,
+[01:18:54-0 @franzjosefradermacher] weil die Briten im Grunde genommen über eine absurde Frage abgestimmt haben.
+[01:18:59-7 @franzjosefradermacher] Die haben abgestimmt über Verbleib oder Nichtverbleib in der EU,
+[01:19:05-1 @franzjosefradermacher] ohne die Konditionen zu kennen, die mit dem einen oder anderen verbunden sind.
+[01:19:11-4 @franzjosefradermacher] Bei den meisten Menschen ist es aber so, dass wenn sie über irgendwas entscheiden,
+[01:19:15-6 @franzjosefradermacher] da spielen dann die Konditionen über die Sache eine große Rolle, also bei der Frage,
+[01:19:19-4 @franzjosefradermacher] willst du ein Haus kaufen oder nicht, spielt eine Rolle, ist da vielleicht noch eine Erbpacht drauf,
+[01:19:25-0 @franzjosefradermacher] darf da noch einer 10 Jahre drin wohnen, was kostet das Haus?
+[01:19:28-4 @franzjosefradermacher] Und erst, wenn ich das alles weiß, dann kann ich sage, okay, ich kaufe oder ich nicht ...
+[01:19:32-4 @franzjosefradermacher] Also man könnte das erste Votum der Briten mal so interpretieren,
+[01:19:37-4 @franzjosefradermacher] dass sie zumindest den Gedanken zulassen, dass sie raus wollen.
+[01:19:41-3 @franzjosefradermacher] Und jetzt wäre eigentlich der Auftrag, mal zu verhandeln, zu welchen Konditionen kann ich raus?
+[01:19:46-1 @franzjosefradermacher] Welche Alternativen habe ich?
+[01:19:47-2 @franzjosefradermacher] Dann kenne ich die Angebote, und dann würde ich in einer zweiten Entscheidung darüber entscheiden,
+[01:19:52-5 @franzjosefradermacher] ob ich bei dieser Angebotslage nun wirklich raus will, oder ob ich dann doch lieber drin bleibe.
+[01:19:58-1 @franzjosefradermacher] Und diese Chance besteht ja immer noch, das heißt,
+[01:20:02-1 @franzjosefradermacher] vielleicht kommen die Briten in den nächsten Wochen noch dahin, dass sie die,
+[01:20:07-3 @franzjosefradermacher] sozusagen die finale Frage nach Ausverhandeln in einem zweiten Referendum klären.
+[01:20:13-5 @franzjosefradermacher] Das wäre eigentlich das Klügste, was sie jetzt tun könnten.
+[01:20:17-4 @timpritlove] Brexit ist ja eigentlich gar nicht unser Thema, aber ich denke, dass der Zustand in Europa,
+[01:20:22-9 @timpritlove] der sich jetzt hier in gewisser Hinsicht zumindest im Kleinen nochmal so neu verhandelt, 
+[01:20:27-9 @timpritlove] und danach vielleicht besser messen lässt, nicht ganz unwichtig ist auch für einen politischen Weg,
+[01:20:35-6 @timpritlove] den die Welt an sich gehen muss.
+[01:20:36-9 @timpritlove] Ich sehe eigentlich das EU-Modell immer so ein bisschen auch als Blaupause für eine mögliche Annäherung der Staaten in der Zukunft.
+[01:20:46-6 @timpritlove] Es gibt eigentlich überhaupt gar kein anderes vergleichbares supranationales Projekt,
+[01:20:51-1 @timpritlove] und wenn man überhaupt Vergleiche ziehen möchte, sieht man,
+[01:20:53-7 @timpritlove] dass eigentlich die anderen Staaten, zumindest erstmal über die reinen Wirtschaftsunionen,
+[01:20:58-1 @timpritlove] sei es NAFTA, seien es die ASEAN-Staaten etc., eigentlich ein ähnliches Modell fahren,
+[01:21:03-8 @timpritlove] wie es die EU am Anfang auch gemacht hat, 
+[01:21:06-1 @timpritlove] und dass ich dann hier vielleicht schon irgendwann auch mal wieder eine neue globale Politik abzeichnen kann,
+[01:21:11-6 @timpritlove] die eben über die plakative Habt-euch-doch-mal-lieb-Politik der UN hinausgehen kann.
+[01:21:19-9 @franzjosefradermacher] Ja, wobei allerdings, sagen wir mal, die geopolitischen Fragen
+[01:21:26-2 @franzjosefradermacher] weltweit auf einer ganz anderen Ebene liegen als in der kleinen EU.
+[01:21:29-6 @franzjosefradermacher] Also insofern ist die EU eigentlich der einfache Fall,
+[01:21:33-5 @franzjosefradermacher] und an diesem einfachen Fall haben wir ja auch sehr viel richtig gemacht.
+[01:21:38-9 @franzjosefradermacher] Ich bin im Moment mit dem Senat der Wirtschaft in der Entwicklung von Ideen für die Zukunft Europas.
+[01:21:50-1 @franzjosefradermacher] Europa ist heute schon ein teilsouveräner Staat,
+[01:21:54-4 @franzjosefradermacher] man muss aber die volle Souveränität Europas entwickeln,
+[01:21:59-2 @franzjosefradermacher] aber dazu braucht man auch die volle Demokratie in Europa,
+[01:22:02-7 @franzjosefradermacher] man braucht ein voll verantwortliches Parlament,
+[01:22:07-9 @franzjosefradermacher] man braucht eine andere Rolle für den Rat, der
+[01:22:12-0 @franzjosefradermacher] ja die Regierungen repräsentiert.
+[01:22:14-9 @franzjosefradermacher] Wenn man das alles klug durchdenkt, dann kann man Europa fortentwickeln,
+[01:22:19-9 @franzjosefradermacher] sehr klug, zu unserer aller Vorteil.
+[01:22:23-7 @franzjosefradermacher] Das heißt natürlich, dass deutlich mehr Budget auf die europäische Ebene muss.
+[01:22:29-3 @franzjosefradermacher] Wir müssen dafür nicht mehr Steuern zahlen, die entsprechenden Volumina müssen auf der nationalen Ebene abschmelzen,
+[01:22:36-3 @franzjosefradermacher] weil die EU Aufgaben übernimmt, die bisher die Nationalstaaten übernehmen.
+[01:22:40-9 @franzjosefradermacher] Die EU sollte vernünftigerweise die Aufgaben übernehmen, die die EU besser übernehmen kann als die Nationalstaaten,
+[01:22:47-5 @franzjosefradermacher] so dass wir eigentlich für unser Geld mehr bekommen als heute.
+[01:22:51-8 @franzjosefradermacher] Dafür müssen aber die Europäer erst einmal die ...
+[01:22:57-4 @franzjosefradermacher] Europaebene müssen sie stärken wollen.
+[01:23:01-3 @franzjosefradermacher] Mit dem jetzigen Budget lässt sich so etwas wie ein vollsouveränes Europa nicht gestalten,
+[01:23:09-0 @franzjosefradermacher] wir, es gibt viele Stellen, wo wir auf europäischer Ebene viel für ganz Europa klug tun könnten,
+[01:23:15-8 @franzjosefradermacher] und da müssen dann auch über ein paar Jahrzehnte die entsprechenden Volumina in Richtung Brüssel,
+[01:23:23-2 @franzjosefradermacher] und da ist durchaus ein vernünftiges Programm für Europa denkbar,
+[01:23:28-1 @franzjosefradermacher] aber es muss eben zu einer vollen Demokratisierung führen, sonst ist es für die Bürger nicht annehmbar,
+[01:23:35-7 @franzjosefradermacher] und das Geld muss für die Europäer auch wirksam werden.
+[01:23:39-6 @franzjosefradermacher] Also bspw. durch europäische Beiträge zu einer Mindestsicherung für alle europäischen Bürger,
+[01:23:46-8 @franzjosefradermacher] so dass alle Menschen in Europa wissen, dass Europa was für sie tut,
+[01:23:51-8 @franzjosefradermacher] und dass Europa für sie auch persönlich wichtig ist, mal ganz abgesehen davon, dass wir über Europa unsere Rolle in der Welt absichern.
+[01:24:00-7 @timpritlove] Um mal langsam wieder den Weg auf unser Kernthema zu finden,
+[01:24:03-7 @timpritlove] aber ohne den Faden jetzt hier komplett fallenzulassen:
+[01:24:07-6 @timpritlove] Wäre gerade so eine Stärkung der europäischen Struktur auch konkret für die Klimapolitik ein sinnvolles Vehikel?
+[01:24:16-4 @timpritlove] Also wäre dieses Beispiel, was wir gerade gegeben haben, oder zumindest dieses Konzept,
+[01:24:22-1 @timpritlove] was wir haben anklingen lassen, dass weitere nationale Souveränität aufgegeben werden muss,
+[01:24:27-5 @timpritlove] um Europa zu stärken, um darüber eben mehr Einheit und damit eigentlich auch mehr Schlagkräftigkeit in der Welt zu entwickeln,
+[01:24:36-1 @timpritlove] für das Erreichen der Klimaneutralität sinnvoll?
+[01:24:43-1 @franzjosefradermacher] Erstens Ja, zweitens ist das auch die gesetzliche Lage,
+[01:24:47-7 @franzjosefradermacher] und drittens nehmen wir die nicht zur Kenntnis.
+[01:24:50-7 @franzjosefradermacher] Also für die Klimafrage ist alleine die EU zuständig.
+[01:24:56-2 @franzjosefradermacher] Nur die EU verhandelt überhaupt die Klimathemen.
+[01:25:00-6 @franzjosefradermacher] Der Vertragspartner, international, ist die Europäische Union.
+[01:25:05-8 @franzjosefradermacher] Das ist auch sinnvoll, weil wir in einem gemeinsamen Markt operieren und die CO2-Emissionen ja Ergebnisse der Marktprozesse sind,
+[01:25:13-8 @franzjosefradermacher] die sich über ganz Europa erstrecken,
+[01:25:16-3 @franzjosefradermacher] und da wir Produktion von einem Land ins andere tun können, können wir Emissionen von einem Land ins andere verschieben,
+[01:25:22-8 @franzjosefradermacher] also ist bei einem gemeinsamen Markt vollkommen konsequent, dass das Klimathema als europäisches Thema verhandelt werden muss,
+[01:25:30-8 @franzjosefradermacher] und das haben wir auch immer so gemacht, und das ist gut so.
+[01:25:35-5 @timpritlove] International, aber innereuropäisch, ich meine, jetzt zum Beispiel diesen Unterschied mit den 5 Tonnen und den 11 Tonnen aufzulösen,
+[01:25:42-0 @timpritlove] wäre ja ein europäisches Vehikel auch wünschenswert.
+[01:25:45-1 @franzjosefradermacher] Ja, und wir haben ja sogar ein Vehikel.
+[01:25:48-0 @franzjosefradermacher] Und im Moment diskutieren wir zum Beispiel, dass Deutschland sein Ziel 2010 verfehlt.
+[01:25:56-2 @franzjosefradermacher] Europa wird sein Ziel 2020 nicht verfehlen.
+[01:26:00-4 @franzjosefradermacher] Wir reden über den deutschen Anteil an dem europäischen Ziel.
+[01:26:07-1 @franzjosefradermacher] Die europäischen Mechanismen beinhalten aber auch die Möglichkeit, dass wir, zum Beispiel,
+[01:26:12-0 @franzjosefradermacher] CO2-Rechte aus Rumänien und Bulgarien für viel Geld kaufen.
+[01:26:19-4 @franzjosefradermacher] Damit wandert Geld von uns nach Bulgarien und Rumänien, was sehr sinnvoll ist,
+[01:26:25-1 @timpritlove] damit die dort erneuerbare Energien aufbauen können.
+[01:26:29-8 @franzjosefradermacher] Wir können uns entsprechende Volumina anrechnen, die wiederum deshalb verfügbar sind,
+[01:26:36-8 @franzjosefradermacher] weil in Bulgarien und Rumänien diese erneuerbaren Kapazitäten entstehen.
+[01:26:44-1 @franzjosefradermacher] Das wird alles so kommen,
+[01:26:47-0 @franzjosefradermacher] aber interessanterweise sagt das keiner in Deuschland, sondern wir reden immer darüber,
+[01:26:52-2 @franzjosefradermacher] dass wir unser Klimaziel verfehlen.
+[01:26:55-8 @franzjosefradermacher] Jetzt kann man einen logischen Schritt weitergehen,
+[01:26:58-9 @franzjosefradermacher] man könnte ja jetzt die deutschen Emissionen auf die deutschen Bundesländer aufteilen,
+[01:27:04-3 @franzjosefradermacher] nach irgendeiner Logik,
+[01:27:06-4 @franzjosefradermacher] würde dann erlauben, dass wir untereinander Tonnen austauschen,
+[01:27:10-5 @franzjosefradermacher] dann würde sich plötzlich die Frage stellen, erreicht Berlin seine Klimaziele?
+[01:27:16-2 @franzjosefradermacher] Na, diese absurde Frage stellt im Moment keiner, weil Berlin ist ja Teil von Deutschland,
+[01:27:20-9 @franzjosefradermacher] könnte man aber doch so machen.
+[01:27:21-8 @timpritlove] Würde aber auf jeden Fall Geld nach Brandenburg und Mecklenburg-Vorpommern wandern.
+[01:27:25-9 @franzjosefradermacher] Natürlich, wobei das Geld jetzt auf andere Weise dahin wandert,
+[01:27:28-6 @timpritlove] Ja, okay.
+[01:27:29-2 @franzjosefradermacher] Aber sagen wir mal, dann würde es auch unmittelbar über diesen Austausch der Budgets wandern,
+[01:27:33-8 @franzjosefradermacher] das könnte man auch machen,
+[01:27:35-7 @franzjosefradermacher] in Europa haben wir das so gemacht und wir werden unsere Ziele erreichen, und Deutschland leistet seinen Beitrag.
+[01:27:41-3 @franzjosefradermacher] Und das ist genau die Richtung, wie man sich auch in Zukunft weiterentwickeln sollte,
+[01:27:46-2 @franzjosefradermacher] und dann sollte Europa dazu beitragen, dass wir zum Beispiel europäische Ziele,
+[01:27:53-0 @franzjosefradermacher] teilweise auch dadurch erreichen können, dass wir etwas in Afrika tun,
+[01:27:59-0 @franzjosefradermacher] das dann bei uns anrechenbar ist.
+[01:28:02-0 @franzjosefradermacher] Das war im Kioto-Protokoll so, das war der sogenannte Clean Development Mechanism,
+[01:28:07-2 @franzjosefradermacher] der gilt auch heute noch, weil das Kioto-Protokoll noch bis 2020 läuft.
+[01:28:12-8 @franzjosefradermacher] Ich gehe auch davon aus, dass wir etwas ähnliches ab 2020 wieder bekommen werden,
+[01:28:19-4 @franzjosefradermacher] und was die meisten Leute gar nicht gemerkt haben:
+[01:28:22-3 @franzjosefradermacher] In Katowice wurde nicht über die Ambitionen verhandelt, in Katowice war nicht das Thema,
+[01:28:28-4 @franzjosefradermacher] wie man die CO2-Volumina auf der Ebene der Versprechen verbessert.
+[01:28:35-2 @franzjosefradermacher] In Katowice hat man nur über das sogenannte Rulebook verhandelt,
+[01:28:39-7 @franzjosefradermacher] und das ist, sagen wir mal, die bürokratische Struktur des Messens und Verrechnens,
+[01:28:45-7 @franzjosefradermacher] die wiederum die Voraussetzung dafür ist, dass man einen internationalen Mechanismus bis 2020 etablieren wird.
+[01:28:54-1 @franzjosefradermacher] Und das ist ein entscheidender Baustein einer zukünftigen Klimaarchitektur,
+[01:28:58-8 @franzjosefradermacher] und da muss sich Europa natürlich entsprechend einbringen,
+[01:29:02-7 @franzjosefradermacher] aber das Problem ist, dass wir viel zu viele, mittlerweile, in Deutschland und Europa haben,
+[01:29:08-1 @franzjosefradermacher] die mit dem Schlagwort Ablasshandel gegen alle diesen internationalen Mechanismen argumentieren,
+[01:29:15-0 @franzjosefradermacher] und nicht mal mehr den Austausch innerhalb Europas zulassen wollen,
+[01:29:19-7 @franzjosefradermacher] sondern sich zunehmend national verengen, bei einem Thema,
+[01:29:24-1 @franzjosefradermacher] nämlich CO2, was ein globales Thema ist, weil es der Atmosphäre vollkommen Wurst ist,
+[01:29:30-3 @franzjosefradermacher] wo das CO2 in die Atmosphäre geht, und auch vollkommen Wurst ist, wo es wieder aus der Atmosphäre rausgeholt wird.
+[01:29:38-7 @timpritlove] Und da haben dann auch die Briten ein weiteres Brexit-Problem,
+[01:29:42-0 @timpritlove] wenn sie sozusagen für ihre Emissionen selber komplett verantwortlich sind und nicht davon profitieren können,
+[01:29:47-4 @timpritlove] dass Deutschland viel schlimmer ist.
+[01:29:49-5 @franzjosefradermacher] Das weiß ich nicht.
+[01:29:50-1 @franzjosefradermacher] Ich glaube, also die Briten werden sicher, selbst wenn sie aus der EU rausgehen,
+[01:29:55-3 @franzjosefradermacher] werden die Briten ihr Klimaregime mit unserem koppeln,
+[01:30:00-5 @franzjosefradermacher] was übrigens die Schweizer auch getan haben,
+[01:30:03-4 @franzjosefradermacher] und wir werden da eine Lösung finden, dass man zwischen Europa und Großbritannien Volumina austauschen kann,
+[01:30:11-7 @franzjosefradermacher] und wir werden sicher uns auch global ähnlich koordinieren, weil die CO2-Verrechnungsthematik,
+[01:30:19-9 @franzjosefradermacher] die ist in Großbritannien wie bei uns, und da wird sich nicht viel ändern
+[01:30:24-8 @franzjosefradermacher] - ob die nun draußen sind oder nicht.
+[01:30:28-2 @timpritlove] Zum Schluss wollte ich nochmal auf Maßnahmen der Klimakompensation eingehen,
+[01:30:33-9 @timpritlove] die man vielleicht im Kleinen anstreben kann, wenn die großen Ebenen sich da schon nicht einig werden,
+[01:30:39-6 @timpritlove] oder zumindest teilweise nicht in dem Maße, wie es einem wünschenswert vorkommt.
+[01:30:45-1 @timpritlove] Um diese ominöse CO2-Tonne, die man sich immer so schwer vorstellen kann, weil man nicht weiß,
+[01:30:50-7 @timpritlove] wie groß sie eigentlich ist,
+[01:30:54-8 @timpritlove] für sich jetzt selber weggehen zu lassen, gibt es ja auch verschiedenste Angebote,
+[01:31:01-2 @timpritlove] hier einen, und jetzt benutze ich mal das blöde Wort, Ablasshandel zu betreiben,
+[01:31:05-8 @timpritlove] indem man andere Dinge finanziert.
+[01:31:10-0 @timpritlove] Man macht einen Flug, man hat irgendeine andere nennenswerte Belastung und spendet dann entsprechend Geld an Projekte.
+[01:31:20-0 @timpritlove] Was halten Sie davon, und wie effizient sind solche Maßnahmen?
+[01:31:26-1 @franzjosefradermacher] Also ich bin ein großer Fan dieses Ansatzes, weil ich glaube, das ist die einzige Chance,
+[01:31:32-9 @franzjosefradermacher] das Klimaproblem überhaupt zu lösen.
+[01:31:36-6 @franzjosefradermacher] Wir brauchen private Akteure, die bereit sind, das nötige Geld aufzubringen,
+[01:31:42-8 @franzjosefradermacher] um die globalen Probleme im Klimabereich zu lösen.
+[01:31:46-5 @franzjosefradermacher] Ich habe dazu ein Buch geschrieben, der Milliarden-Joker,
+[01:31:50-3 @franzjosefradermacher] und ich unterstütze das BMZ in einer neuen Initiative, die heißt Allianz für Entwicklung und Klima.
+[01:31:59-5 @franzjosefradermacher] Und was wir tun ist, wir fördern, wir fordern alle privaten Akteure,
+[01:32:04-8 @franzjosefradermacher] und insbesondere solche, die über viel Geld verfügen,
+[01:32:09-4 @franzjosefradermacher] und das sind in der Regel solche, die sehr hohe CO2-Emissionen haben,
+[01:32:14-8 @franzjosefradermacher] also Leute mit 100 Tonnen im Jahr, 200 Tonnen im Jahr, 400 Tonnen im Jahr,
+[01:32:19-3 @franzjosefradermacher] wo der deutsche Durchschnitt bei 11 ist, und viele bei uns mit 5 oder 6 Tonnen auskommen,
+[01:32:26-1 @franzjosefradermacher] und der Bangladeschi mit weniger als einer Tonne.
+[01:32:28-7 @franzjosefradermacher] Wir haben Leute, 500 Tonnen, aber die haben wir auch in Bangladesch,
+[01:32:33-1 @franzjosefradermacher] das sind die Reichen in Bangladesch,
+[01:32:35-1 @franzjosefradermacher] haben wir auch in Indien, das sind die Milliardäre in Indien.
+[01:32:38-8 @franzjosefradermacher] Diese Leute, die haben einerseits ein großes Interesse daran, die Klimakatastrophe zu vermeiden,
+[01:32:46-0 @franzjosefradermacher] weil die ganz viel Wohlstand vernichten wird und diese Leute viel von diesem Wohlstand besitzen.
+[01:32:51-7 @franzjosefradermacher] Diese Leute haben auch deshalb Interesse daran, das Klimaproblem zu vermeiden,
+[01:32:57-6 @franzjosefradermacher] weil sonst in einer Hysterie bei uns massive Eingriffe in die Lebensstile kommen,
+[01:33:04-9 @franzjosefradermacher] man merkt das jetzt im Moment bei den Dieselfahrzeugen,
+[01:33:07-9 @franzjosefradermacher] aber man merkt das auch bei Forderungen, kein Fleisch zu essen, und nicht so viel zu reisen usw.
+[01:33:13-3 @franzjosefradermacher] Also es gibt Gruppen mit entsprechender Leistungskraft, die hochmotiviert eigentlich sein müssten,
+[01:33:22-4 @franzjosefradermacher] das Klimaproblem zu lösen, und unsere Aussage ist, und die Aussage der Aktivität des Ministeriums,
+[01:33:30-1 @franzjosefradermacher] nehme dein Geld und stecke es in super Projekte in Nichtindustrieländer,
+[01:33:36-0 @franzjosefradermacher] hochwertige Projekte, und diese Projekte sollen zwei Dinge tun:
+[01:33:41-1 @franzjosefradermacher] Die sollen in diesen Ländern den Wohlstand fördern,
+[01:33:44-8 @franzjosefradermacher] die sollen alle SDGs der Vereinten Nationen unterstützen,
+[01:33:49-2 @franzjosefradermacher] die sollen Frauen helfen, Kindern helfen, der Biodiversität, den Wäldern, den Meeren,
+[01:33:54-9 @franzjosefradermacher] mach was Vernünftiges in diesen Ländern.
+[01:33:57-4 @timpritlove] SDGs sind die Sustainable Development Goals.
+[01:34:00-2 @franzjosefradermacher] Das sind die Sustainable Development Goals, das sind die Ziele der Weltgemeinschaft,
+[01:34:05-3 @franzjosefradermacher] und dann sollen die selben Projekte gleichzeitig bilanziell dem Klima helfen.
+[01:34:10-8 @franzjosefradermacher] Und das sind dann Aufforstungsprojekte, Humusbildung, Schutz von Mangrovenwäldern,
+[01:34:16-4 @franzjosefradermacher] aber zum Beispiel erneuerbare Energien, synthetische Kraftstoffe usw.,
+[01:34:20-9 @franzjosefradermacher] und stecke in alles das dein Geld rein.
+[01:34:24-9 @franzjosefradermacher] Und entweder mach die Projekte, oder kaufe Zertifikate, und wenn du Zertifikate kaufst,
+[01:34:31-4 @franzjosefradermacher] ist das Geld weg, also dein entscheidender Beitrag ist, dass du dein Geld nimmst und gibst es ab.
+[01:34:40-2 @franzjosefradermacher] Es ist weg, du kannst es nicht mehr selber ausgeben.
+[01:34:43-4 @franzjosefradermacher] Du kannst auch mit dem Ausgeben von deinem Geld an der Stelle keinen Schaden mehr machen.
+[01:34:47-6 @franzjosefradermacher] Das Geld ist woanders, und es ist irgendwo, wo es Menschen hilft, der Natur hilft, und dem Klima hilft,
+[01:34:54-9 @franzjosefradermacher] und mach das, mach das im großen Stil, und mindestens in dem Umfang, wie du selber CO2 emittierst.
+[01:35:01-6 @franzjosefradermacher] Wenn du also jemand mit 10 Tonnen bist, dann kompensiere mal mindestens 10 Tonnen,
+[01:35:06-8 @franzjosefradermacher] das kann jeder machen.
+[01:35:07-8 @franzjosefradermacher] Es kostet im Moment, je nach Zertifikat, vielleicht 100 Euro,
+[01:35:12-0 @franzjosefradermacher] dann nimmt man 100 Euro, sie sind weg,
+[01:35:14-8 @franzjosefradermacher] man gibt die 100 Euro, nach Afrika, in Projekten, wo die NGOs dabei sind,
+[01:35:22-1 @franzjosefradermacher] wir reden nur über hochwertige, zertifizierte Projekte, wo WWF und Greenpeace und alle diese NGOs beteiligt sind,
+[01:35:31-5 @franzjosefradermacher] so hochwertige Projekte brauchen Förderung, und diese Projekte helfen den Menschen,
+[01:35:37-0 @franzjosefradermacher] helfen der Natur und helfen dem Klima.
+[01:35:39-5 @franzjosefradermacher] Und das sollten wir in großem Stil tun,
+[01:35:43-1 @franzjosefradermacher] und glücklicherweise hat die Allianz, die Minister Müller und sein Ministerium im ...
+[01:35:50-3 @franzjosefradermacher] September in Gang gesetzt haben, September, Oktober letzten Jahres,
+[01:35:53-7 @franzjosefradermacher] heute schon 160 Partner.
+[01:35:57-4 @franzjosefradermacher] Und darunter sind so attraktiver Partner wie die Münchner Rückversicherung,
+[01:36:02-6 @franzjosefradermacher] das ist die größte Rückversicherung der ganzen Welt, die mehr als alle anderen weiß,
+[01:36:08-9 @franzjosefradermacher] was droht, da ist SAP dabei, ist der Club of Rome dabei, ist Ritter Sport dabei,
+[01:36:15-1 @franzjosefradermacher] ist aber auch zum Beispiel das Schokoladenmuseum in Köln dabei, ist auch ein Bundesligaklub dabei,
+[01:36:21-0 @franzjosefradermacher] also damit Sie merken, das ist eigentlich etwas, das müsste die ganze Bevölkerung erfassen.
+[01:36:26-8 @franzjosefradermacher] Wir könnten, meiner Ansicht nach, das Klimaproblem alleine dadurch lösen,
+[01:36:33-0 @franzjosefradermacher] dass der Privatsektor, der das nötige Geld hat, dieses Geld in die Projekte steckt,
+[01:36:39-2 @franzjosefradermacher] und damit Entwicklung fördert, damit Bevölkerungsgrößen stabilisiert und gleichzeitig das Klima stabil hält,
+[01:36:48-9 @franzjosefradermacher] indem dieser Wohlstandszuwachs klimaneutral erfolgt.
+[01:36:54-0 @timpritlove] Ja, ich habe jetzt auch so ein Jahr mit gesteigertem Flugbedarf vor mir, und habe es mir jetzt schon angewöhnt,
+[01:37:01-2 @timpritlove] da entsprechende Klimakompensation auszusenden.
+[01:37:06-4 @franzjosefradermacher] Sehr gut, sehr gut.
+[01:37:07-7 @franzjosefradermacher] Genau das brauchen wir.
+[01:37:10-0 @timpritlove] Genau, und ist natürlich, da stellt man sich natürlich auch mal die Frage,
+[01:37:14-0 @timpritlove] warum eigentlich das nicht sowieso schon in dem Ticketpreis drin ist.
+[01:37:18-5 @franzjosefradermacher] Das sind Dinge, an denen wir jetzt arbeiten.
+[01:37:21-1 @franzjosefradermacher] Also wir wollen über das Bündnis bewirken, dass ganze Branchen, etwa Tourismus oder zum Beispiel Autovermietung,
+[01:37:31-2 @franzjosefradermacher] zumindest immer die Kompensation automatisch mit anbieten,
+[01:37:35-4 @franzjosefradermacher] vielleicht dass wir dahin kommen, dass jemand, der nicht kompensieren will, ein Kreuz machen muss.
+[01:37:40-7 @franzjosefradermacher] Und wer kein Kreuz macht, in dessen Preis ist die Kompensation schon drin,
+[01:37:44-5 @franzjosefradermacher] damit ist das alles schon geregelt.
+[01:37:46-8 @franzjosefradermacher] Also wir brauchen sozusagen Multiplikatorinstrumente, die immer mehr Menschen dazu bringen,
+[01:37:53-6 @franzjosefradermacher] dass sie automatisch diese Kompensationen finanzieren.
+[01:37:57-7 @franzjosefradermacher] Dann sind wir viel weiter.
+[01:37:59-0 @franzjosefradermacher] Es ist übrigens interessant, dass die Schweiz
+[01:38:03-2 @franzjosefradermacher] auf jedem Liter Benzin oder Diesel etwa 3 Cent zusätzlich erhebt,
+[01:38:10-1 @franzjosefradermacher] und die gehen in Kompensation.
+[01:38:12-7 @franzjosefradermacher] Das macht in der Schweiz schon die Regierung, das heißt, da ist in dem Sinne das Auto klimaneutral
+[01:38:21-3 @franzjosefradermacher] als auf Benzin und Diesel schon der Zuschlag ist, über den man global die Neutralisierung der Emissionen finanziert.
+[01:38:31-4 @franzjosefradermacher] Und da müssen wir eigentlich hin, wir müssen an möglichst vielen Stellen,
+[01:38:34-1 @franzjosefradermacher] das ist dann, wenn man so will, eine Art Internalisierung der externen Kosten,
+[01:38:39-9 @franzjosefradermacher] aber entscheidend ist für diese Internalisierung, dass die Umsetzung relativ preiswert ist,
+[01:38:46-2 @franzjosefradermacher] und das ist sie bei diesen Projekten, zum Beispiel in Afrika, im Verhältnis zu
+[01:38:52-1 @franzjosefradermacher] Sanierung von Gebäuden hier.
+[01:38:54-2 @franzjosefradermacher] Also der Klimaeffekt pro Euro ist dort 10 mal so hoch, der Hebel ist viel größer,
+[01:39:01-9 @franzjosefradermacher] und deshalb brauchen wir diese Orientierung an den SDGs in den Nichtindustrieländern,
+[01:39:08-7 @franzjosefradermacher] damit wir SDGs fördern und Klima fördern, und das zu Kosten, die man stemmen kann.
+[01:39:18-4 @timpritlove] Ja, Herr Radermacher,
+[01:39:22-0 @timpritlove] das war doch ein schönes Anschlussgespräch an das erste, was wir geführt haben.
+[01:39:25-8 @timpritlove] Mal gucken, vielleicht bleibt es ja auch nicht das letzte in dieser Reihe,
+[01:39:30-2 @timpritlove] aber ich bedanke mich jetzt erstmal sehr ...
+[01:39:32-0 @franzjosefradermacher] Ich danke Ihnen!
+[01:39:33-6 @timpritlove] ... für die Ausführungen zu Klimaneutralität und Kompensation und bedanke mich auch fürs Zuhören hier bei Forschergeist.
+[01:39:42-3 @timpritlove] Es geht bald wieder weiter, ich sage Tschüß und bis bald.

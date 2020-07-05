@@ -1,0 +1,479 @@
+﻿[00:00:00-0 Intro]
+[00:00:43-4 @timpritlove] Hallo und herzlich willkommen zu Forschergeist, dem Podcast des Stifterverbands für die deutsche Wissenschaft.
+[00:00:49-3 @timpritlove]  Mein Name ist Tim Pritlove und ich begrüße alle hier zu Ausgabe Nummer 60 unserer Gesprächsreihe über Wissenschaft und wissenschaftliche Fragestellungen
+[00:00:59-5 @timpritlove] und eine der umfangreichsten und wichtigsten Fragestellungen, die die Wissenschaft glaube ich derzeit so bearbeitet,
+[00:01:09-6 @timpritlove] mit der setzten wir uns heute aus einander, es geht um Klimawandel und die Klimaforschung und wir wollen auch auf ein paar damit verwandte Disziplinen schauen
+[00:01:20-5 @timpritlove] und dazu bin ich nach Potsdam gefahren, ans Potsdamer Institut für Klimafolgenforschung und begrüße meinen Gesprächspartner Stefan Rahmstorf, schönen guten Tag.
+[00:01:28-3 @stefanrahmstorf] Schönen guten Tag.
+[00:01:29-8 @timpritlove] Herr Rahmstorf, Sie sind hier ja als Klimaforscher, wie wahrscheinlich so viele, engagiert.
+[00:01:39-5 @timpritlove] Sind aber selber Ozeanograph und Paleoklimatologe, das sind natürlich tolle Namen.
+[00:01:45-2 @timpritlove] Wie lange braucht man, bis man die richtig aussprechen kann?
+[00:01:48-5 @stefanrahmstorf] Fünf Minuten.
+[00:01:49-1 @timpritlove] Fünf Minuten okay. Die sind gleich durch, da habe ich ja noch Hoffnung.
+[00:01:53-0 @timpritlove] Sagen Sie doch vielleicht mal kurz was zum Potsdamer Institut und wie es sich hier aufstellt in dieser ganzen Thematik.
+[00:02:02-6 @stefanrahmstorf] Ja das Potsdamer Institut ist fast einzigartig auf der Welt, weil es Forscher aus ganz unterschiedlichen Forschungsbereichen zusammenbringt.
+[00:02:13-1 @stefanrahmstorf] Nicht nur Naturwissenschaftler, sondern eben auch Sozialwissenschaftler, um eben dieses Themengebiet Klima möglichst umfassend abzudecken
+[00:02:24-2 @stefanrahmstorf] von der Grundlagenforschung bis hin zu der Frage, was können wir jetzt eigentlich dagegen tun?
+[00:02:29-3 @stefanrahmstorf] Also wir haben auch viel ökonomische Forschung, die sich mit dem Umbau des Energiesystems befasst, um eben die Emissionen auf Null zu bringen,
+[00:02:38-0 @stefanrahmstorf] was ja in dem Pariser Abkommen 2015 von der Weltgemeinschaft von allen Staaten beschlossen worden ist.
+[00:02:46-3 @stefanrahmstorf] Und das braucht natürlich auch viel Forschung, um zu gucken, wie macht man das?
+[00:02:50-9 @stefanrahmstorf] Und natürlich der ganze Bereich Klimafolgen, das heißt, die Auswirkungen der globalen Erwärmung auf Ökosysteme, auf die Landwirtschaft,
+[00:03:00-6 @stefanrahmstorf] auf die menschliche Gesellschaft insgesamt, wird an unserem Institut bearbeitet.
+[00:03:06-7 @timpritlove] Das heißt, das Ziel war, hier explizit so eine interdisziplinäre Gruppe aufzustellen?
+[00:03:12-2 @stefanrahmstorf] Genau, es ist ein interdisziplinär orientiertes Forschungsinstitut.
+[00:03:16-7 @stefanrahmstorf] Und bei einem internationalen Ranking der Thinktanks im Umweltbereich sind wir übrigens im vergangenen Jahr auf Rang 1 weltweit gekommen.
+[00:03:25-9 @timpritlove] Wie sind Sie denn selber in dieses Thema gekommen?
+[00:03:31-5 @timpritlove] Was hat Sie denn früh angetrieben, in die Wissenschaft zu gehen?
+[00:03:36-1 @stefanrahmstorf] Ja ich wusste erstaunlicherweise schon als 12-Jähriger, dass ich unbedingt Wissenschaftler werden möchte und habe auch seither nie daran gezweifelt,
+[00:03:45-9 @stefanrahmstorf] das war für mich wie eine Berufung, die mir schon als Kind ganz klar war.
+[00:03:51-9 @stefanrahmstorf] Und ich wollte eben irgendwie Naturforscher werden und anfangs habe ich mich sehr stark für Astronomie interessiert.
+[00:04:00-7 @stefanrahmstorf] Und ich habe übrigens auch meine Diplomarbeit in der Kosmologie gemacht nach meinem Physikstudium.
+[00:04:07-8 @stefanrahmstorf] Und dann wollte ich mich aber etwas irdischerem zuwenden, weil Astronomie ist ja wirklich schon und gut,
+[00:04:17-7 @stefanrahmstorf] aber es ist eben doch irgendwie eine akademische Elfenbeinturmforschung, die jetzt nicht so die unmittelbare Relevanz für uns Menschen hat.
+[00:04:25-5 @stefanrahmstorf] Und ich konnte mir es schwer vorstellen, meine ganze Arbeitskraft eines ganzen Lebens auf das nur zu verwenden,
+[00:04:33-6 @stefanrahmstorf] weil ich dachte, ich möchte eigentlich was nützliches machen für die Menschen.
+[00:04:37-6 @stefanrahmstorf] Und die Meere haben mich auch schon immer seit Kind auf fasziniert.
+[00:04:42-2 @stefanrahmstorf] Ich war von meinem 6.-12. Lebensjahr in Holland, bin dort in der Nähe von der Nordseeküste aufgewachsen und war immer am liebsten am Strand
+[00:04:52-4 @stefanrahmstorf] und so bin ich dann auch auf die Meeresforschung gekommen.
+[00:04:56-6 @timpritlove] Da waren Sie dann auch unter anderem in Neuseeland glaube ich in der Ausbildung oder?
+[00:05:02-7 @stefanrahmstorf] Ich bin nach dem Physikdiplom an der Universität Konstanz nach Neuseeland zum Promovieren gegangen und war dort eben vier Jahre lang.
+[00:05:12-5 @timpritlove] Hat Ihnen das geholfen, so viel international unterwegs zu sein?
+[00:05:17-0 @stefanrahmstorf] Auf jeden Fall, also ich hatte vorher auch schon ein Auslandsjahr in Wales gemacht und dort Ozeanographie studiert
+[00:05:24-0 @stefanrahmstorf] und das würde ich natürlich jedem Wissenschaftler empfehlen, Auslandserfahrungen zu sammeln, weil da profitiert man sein Leben lang von.
+[00:05:33-0 @timpritlove] Aber das Physikstudium war jetzt auch nicht für die Katz?
+[00:05:35-4 @stefanrahmstorf] Überhaupt nicht, weil physikalische Ozeanographie ist ein Anwendungsgebiet der Physik.
+[00:05:40-8 @stefanrahmstorf] Und ich vertrete ja auch hier nicht der Lehre an der Universität Potsdam die Ozeanographie und da stehe ich an der Tafel und leite die Grundgleichung her.
+[00:05:53-4 @stefanrahmstorf] Das sind die Navier-Stokes-Gleichungen, die jedem Physiker vertraut sind und physikalische Gleichungen, Impulserhaltung, Wärmerhaltung
+[00:06:03-3 @stefanrahmstorf] bestimmen eben auch die Zirkulation im Ozean und auch in der Atmosphäre.
+[00:06:07-9 @timpritlove] Gehen wir doch mal kurz auf die Ozeanographie.
+[00:06:12-1 @timpritlove] Also seit wann ist denn das so eine eigene wissenschaftliche Disziplin?
+[00:06:20-6 @stefanrahmstorf] Ich bin jetzt kein Historiker, aber ich würde sagen, eigentlich so seit dem 19. Jahrhundert, da gab es ja so die ersten ozeanographischen Forschungsfahrten,
+[00:06:30-5 @stefanrahmstorf] die speziell darauf angelegt waren, Messdaten aus den Weltmeeren zu sammeln und so Anfang/Mitte des 20. Jahrhunderts wurden auch so die ersten
+[00:06:45-2 @stefanrahmstorf] die wichtigen ozeanographischen Erkenntnisse gesammelt.
+[00:06:48-9 @stefanrahmstorf] Also es gibt so ein altes Lehrbuch von Herrn Defant, das stammt glaube ich aus den 1920/30er Jahren, von dem ich auch noch ein Exemplar bei mir stehen habe.
+[00:07:00-0 @stefanrahmstorf] Und dann natürlich berühmte Ozeanographie wie Henry Stommel, Walter Munk,
+[00:07:06-0 @stefanrahmstorf] die haben so Mitte des 20. Jahrhunderts die theoretischen Grundlagen zum Verständnis der Ozeanzirkulation, zum Beispiel zum Golfstromsystem gelegt.
+[00:07:15-5 @timpritlove] Aber da ging es ja im wesentlichen erst mal um die Schifffahrt nehme ich an oder?
+[00:07:18-7 @timpritlove] Zu verstehen, wie die Meere an sich erst mal ihre Kräfte entfalten.
+[00:07:23-2 @stefanrahmstorf] Richtig, also frühe Erkenntnisse über den Golfstrom zum Beispiel kamen von einem amerikanischen Postmeister namens Maury,
+[00:07:33-5 @stefanrahmstorf] der sich Gedanken gemacht hat, warum die Postschiffe aus Europa eben in die eine Richtung wesentlich schneller vorankamen als in die andere
+[00:07:45-0 @stefanrahmstorf] und hat eben dann festgestellt, dass wenn man versucht gegen den Golfstrom, den Nordatlantikstrom anzusegeln, dass es dann ziemlich mühsam ist,
+[00:07:54-7 @stefanrahmstorf] von Europa nach USA und umgekehrt viel viel schneller geht und er hat die erste Karte des Golfstroms gezeichnet.
+[00:08:01-8 @stefanrahmstorf] Und daraufhin hat man dann eben die Post und die Schifffahrt wesentlich verbessern können, weil man dann danach eben weiter südlich mit den Passatwinden über den Atlantik rüber ist
+[00:08:11-0 @stefanrahmstorf] und dann weiter nördlich mit dem Golfstrom wieder zurück.
+[00:08:13-9 @timpritlove] Und gab es auch schon ein Verständnis dafür, warum das so war?
+[00:08:17-6 @stefanrahmstorf] Das kann ich jetzt gar nicht genau sagen, zu welchem Zeitpunkt man erkannt hat, dass der Golfstrom durch die Winde angetrieben wird.
+[00:08:27-2 @stefanrahmstorf] Es ist natürlich ein naheliegender Gedanke, nur dass der Laie und das sehe ich auch bei meinen Studenten immer wieder, sich da eine falsche Vorstellung macht,
+[00:08:37-2 @stefanrahmstorf] wie dieser Antrieb durch den Wind funktioniert.
+[00:08:41-9 @stefanrahmstorf] Denn der Laie denkt natürlich, der Wind treibt das Wasser so gerade vor sich her, in die Richtung, in die der Wind bläst.
+[00:08:48-6 @stefanrahmstorf] Das ist aber auch einer rotierenden Kugel, wie es die Erde nun mal ist, eben gerade nicht der Fall, sondern das Wasser bewegt sich senkrecht zur Windrichtung.
+[00:08:57-9 @stefanrahmstorf] Und die entscheidende Gleichung, das entscheidende physikalische Gesetz, was diese Golfstromzirkulation bestimmt,
+[00:09:06-2 @stefanrahmstorf] ist die Drehimpulserhaltung, die auf einer rotierenden Kugel eben nicht so leicht einzuhalten ist.
+[00:09:14-9 @timpritlove] Ich will jetzt gar nicht zu sehr jetzt historische Daten messerscharf festlegen, ich habe nur so die Wahrnehmung gehabt,
+[00:09:21-3 @timpritlove] dass die ganze Meereskunde irgendwann dann mal auch im Mittelpunkt des Klimas und der Meteorologie natürlich auch stand.
+[00:09:31-8 @timpritlove] Dass man quasi entdeckt hat, wie maßgeblich die Ozeane zum Gesamtklima und Wettergeschehen der Welt beitragen.
+[00:09:43-1 @stefanrahmstorf] Ja die Ozeane haben mehrere sehr starke Wirkungen auf das Klima und einmal ist es natürlich die Wärmespeicherung in den Ozeanen,
+[00:09:52-8 @stefanrahmstorf] die führt vor allem zu einer zeitverzögerten oder langsameren Reaktion auf Klimaveränderungen an der Oberfläche,
+[00:10:01-9 @stefanrahmstorf] weil es natürlich eine Zeit dauert, um Meerwasser zu erwärmen.
+[00:10:07-7 @stefanrahmstorf] Das führt zum Beispiel dazu, dass die Meere im Sommer sich nicht so rasch aufheizen, kühler bleiben, im Winter dafür wärmer sind,
+[00:10:16-6 @stefanrahmstorf] das ist die Grundlage für die Monsun-Winde zum Beispiel, dieser Kontrast zwischen Land und Meer mit den Jahreszeiten.
+[00:10:24-2 @stefanrahmstorf] Dann gibt es den Transport von Wärme, da sind wir dann zum Beispiel bei dem Golfstromsystem, das riesige Wärmemengen in den Nordatlantik transportiert und dafür sorgt,
+[00:10:35-5 @stefanrahmstorf] dass der Nordatlantik eben wesentlich wärmer ist, etwa 5 Grad wärmer als der Nordpazifik auf gleichen Breitengraden.
+[00:10:44-7 @stefanrahmstorf] Mit Golfstromsystem meine ich jetzt in diesem Fall nicht den Golfstrom selber, der ja hauptsächlich windgetrieben ist, sondern die Umwälzbewegung des Nordatlantik.
+[00:10:55-3 @stefanrahmstorf] Das ist eine große Umwälzzirkulation, wo das Wasser an der Oberfläche nach Norden strömt, dort die Wärme an die Luft abgibt,
+[00:11:04-1 @stefanrahmstorf] und dann weil das kalte Wasser dann schwerer wird in die Tiefe absinkt und als kalter Tiefenstrom zurückfließt, da können wir sicher nachher noch mehr drauf kommen.
+[00:11:13-4 @stefanrahmstorf] Eine dritte sehr wichtige Funktion des Ozeans im Klimasystem ist die Speicherung von Kohlendioxid,
+[00:11:20-9 @stefanrahmstorf] denn der Ozean hat von dem vom Menschen verursachten Austausch von Kohlendioxid etwa ein Drittel aufgenommen bisher.
+[00:11:28-5 @stefanrahmstorf] Und ohne diese große Aufnahmefähigkeit der Ozeane würde der CO2-Anstieg eben noch wesentlich rascher ablaufen, als es ohnehin der Fall ist
+[00:11:37-6 @stefanrahmstorf] und damit auch die globale Erwärmung wesentlich rascher ablaufen.
+[00:11:43-3 @timpritlove] Also seit wann weiß man das?
+[00:11:44-6 @timpritlove] Ist das jetzt sozusagen eine Erkenntnis von letztem Jahr oder weiß man das eigentlich schon seit 30 Jahren?
+[00:11:50-1 @timpritlove] Die ganze Debatte um den Klimawandel, ich würde nicht sagen, dass sie jetzt neu ist, sondern sie ist dann natürlich in den letzten Jahren immer stärker auch in die Aufmerksamkeit der Öffentlichkeit gekommen,
+[00:12:01-2 @timpritlove] vielleicht noch nicht in dem Maße, wie es das verdient, aber ich kann mich erinnern, dass im Prinzip so ab dem 80er Jahren diese Darstellungen zugenommen haben.
+[00:12:11-9 @timpritlove] Dass diese Erkenntnis überhaupt erst dann so gereift ist oder war das im Prinzip schon immer klar?
+[00:12:18-0 @stefanrahmstorf] Also diese Grundfakten, dass der Ozean speichert, dass er Wärme transportiert, die waren letztlich auch schon im 19. Jahrhundert klar,
+[00:12:26-1 @stefanrahmstorf] auch die ersten Ideen über diese atlantische Umweltbewegung, die Tatsache, dass es kaltes Tiefenwasser gibt, wenn man 2000-3000 Meter tief schaut,
+[00:12:37-0 @stefanrahmstorf] was von den Polen her strömt, die wurde schon durch Messungen von Sklavenschiffen, die Sklaven nach Nordamerika rübertransportiert haben,
+[00:12:47-4 @stefanrahmstorf] damals gezogen, also das ist eine sehr alte Erkenntnis.
+[00:12:51-1 @stefanrahmstorf] Die Erkenntnis, dass der Mensch das Klima erwärmt, geht übrigens auch auf das 19. Jahrhundert zurück.
+[00:12:59-7 @stefanrahmstorf] Also der schwedische Nobelpreisträger Svante Arrhenius hat zum Beispiel in einer berühmten Arbeit 1896 zum ersten Mal ausgerechnet,
+[00:13:09-8 @stefanrahmstorf] wieviel globale Erwärmung eine Verdopplung der CO2-Menge in der Luft bringen würde.
+[00:13:16-1 @stefanrahmstorf] Er kam damals auf 4-6 Grad, heute wissen wir, dass es etwa um die 3 Grad liegt, diese Erwärmung bei CO2-Verdopplung.
+[00:13:23-8 @stefanrahmstorf] Und Arrhenius fand das übrigens eine tolle Sache und hat vorgeschlagen Kohlenflöze anzuzünden, um möglichst schnell diese Erwärmung hervorzurufen, er war Schwede.
+[00:13:36-7 @timpritlove] Ach so ja da war es kalt.
+[00:13:38-4 @stefanrahmstorf] Er fand das wahrscheinlich eine gute Idee, wenn das Klima etwas wärmer würde.
+[00:13:42-8 @stefanrahmstorf] Und hat die Folgen, die sich daraus ergeben, zum Beispiel Meeresspiegelanstieg und so weiter offenbar nicht so richtig mitgedacht.
+[00:13:51-7 @stefanrahmstorf] Und dann in den 1930er Jahren hat Callendar, ein britischer Forscher, zum ersten Mal Temperaturmessungen aus aller Welt kombiniert
+[00:14:02-6 @stefanrahmstorf] und gesehen, da gibt es einen gewissen damals noch sehr schwachen Temperaturanstieg und hat das schon in Zusammenhang mit der gestiegenen CO2-Konzentration durch Emissionen durch den Menschen in Verbindung gebracht.
+[00:14:18-3 @timpritlove] Was ist denn heute so der Schwerpunkt?
+[00:14:21-4 @timpritlove] Also es ist jetzt klar, dass der Ozean eine gewichtige Rolle mitspielt, also nicht nur für die Schifffahrt, sondern sozusagen eben fürs Wetter
+[00:14:31-3 @timpritlove] und damit eben auch für den Wandel des Klimas.
+[00:14:36-3 @timpritlove] Wie ist die Ozeanographie aufgestellt?
+[00:14:41-0 @timpritlove] Was wird jetzt neu erforscht, was will man herausfinden, was ist noch unverstanden?
+[00:14:49-7 @stefanrahmstorf] Ja vielleicht sollte man zunächst mal zwischen der biologischen und der physikalischen Meeresforschung unterscheiden.
+[00:14:56-7 @stefanrahmstorf] Was ich mit Ozeanographie meine und was ich studiert habe und mache ist eben die physikalische Ozeanographie,
+[00:15:03-8 @stefanrahmstorf] und die beschäftigt sich heute eben zum Beispiel mit Veränderungen er Meeresströmungen im Zuge des Klimawandels.
+[00:15:12-1 @stefanrahmstorf] Auch übrigens bei den zum Teil sehr abrupten natürlichen Klimaveränderungen, die es in der Erdgeschichte gegeben hat,
+[00:15:20-5 @stefanrahmstorf] die auf Instabilitäten in den Meeresströmungen zurückgeführt werden und die Ozeanographie beschäftigt sich auch mit der Frage des Meeresspiegels.
+[00:15:30-9 @stefanrahmstorf] Auch wieder sowohl in der Erdgeschichte, wo wir ja sehr große Meeresspiegelveränderungen im Zuge der Eiszeitzyklen sehen.
+[00:15:37-6 @stefanrahmstorf] Und eben natürlich den modernen Meeresspiegelanstieg, der durch die globale Erwärmung durch den Menschen jetzt verursacht wird.
+[00:15:46-6 @stefanrahmstorf] Da gibt es einmal die Frage, wie stark ist der Meeresspiegel tatsächlich in der Vergangenheit angestiegen, denn das ist gar nicht so leicht zu bestimmen,
+[00:15:59-8 @stefanrahmstorf] weil man Messungen fast nur entlang der Küsten hat.
+[00:16:04-5 @stefanrahmstorf] Aber wenn wir jetzt den global gemittelten Meeresspiegelanstieg wissen wollen, dann sind die Küsten vielleicht gar nicht so typisch für den Meeresspiegelanstieg.
+[00:16:15-0 @stefanrahmstorf] Man möchte gerne natürlich wissen, was im offenen Ozean passiert ist auch, und das wissen wir erst seit den 90er Jahren,
+[00:16:25-4 @stefanrahmstorf] 1993 als man begonnen hat, von Satelliten aus den weltweiten Meeresspiegel zu vermessen.
+[00:16:31-3 @stefanrahmstorf] Und ein großer Forschungsbereich ist natürlich der künftige Meeresspiegelanstieg.
+[00:16:37-1 @stefanrahmstorf] Wie schnell ist der zu erwarten?
+[00:16:40-1 @stefanrahmstorf] Und da sieht man auch wieder den interdisziplinären Aspekt, selbst bei einer einfachen Frage wie Meeresspiegelanstieg,
+[00:16:47-6 @stefanrahmstorf] weil da geht es einmal um eine typische ozeanographische Frage, nämlich, wie rasch erwärmen sich die Meere?
+[00:16:53-7 @stefanrahmstorf] Das führt zu einer thermischen Ausdehnung des Meerwassers und damit zum Meeresspiegelanstieg.
+[00:16:58-8 @stefanrahmstorf] Aber jetzt werden auch die Kontinentaleisforscher natürlich da gefragt, weil das Schmelzen von Gebirgsgletschern und den großen Kontinentaleismassen auf Grönland und der Antarktis
+[00:17:10-2 @stefanrahmstorf] ein sehr wesentlichen Beitrag zum Meeresspiegelanstieg leistet, dann sind die Forscher, die sich mit den Landoberflächen beschäftigen, auch gefragt,
+[00:17:20-6 @stefanrahmstorf] weil die Wasserspeicherung an Land und im Boden und unter dem Boden eine wichtige Rolle spielt.
+[00:17:27-0 @stefanrahmstorf] Und es gibt einen menschlichen Beitrag zur Absenkung des Meeresspiegels, weil wir immer mehr Wasser in Stauseen speichern.
+[00:17:36-1 @stefanrahmstorf] Und da würde man vielleicht denken, ja das kann ja nicht so viel sein.
+[00:17:39-8 @timpritlove] Ja würde ich auch denken.
+[00:17:40-7 @stefanrahmstorf] Macht aber, was wir insgesamt an Stauseen jetzt auf der Erde haben reicht aus, also um den globalen Meeresspiegel um 3cm abzusenken.
+[00:17:49-4 @timpritlove] Ernsthaft?
+[00:17:51-2 @stefanrahmstorf] Und der Anstieg bisher seit dem späten 19. Jahrhundert sind ja etwa 20cm, also da wären es noch 3cm mehr, wenn wir nicht so viel Wasser in Stauseen hätten.
+[00:18:01-6 @timpritlove] Alright, der Trend wird sich aber nicht unbedingt in dem Maße fortsetzen?
+[00:18:08-2 @stefanrahmstorf] Nein, also der Bau von Stauseen ist relativ ausgereizt, da erwarten wir eigentlich nicht, dass noch sehr große Volumina hinzukommen werden.
+[00:18:18-0 @timpritlove] Also einerseits weil die Flächen, die quasi überhaupt infrage kommen, weitgehend schon genutzt sind und andererseits es natürlich auch andere fragliche Umweltauswirkungen hat,
+[00:18:24-9 @timpritlove] solche Stauseen zu bauen.
+[00:18:28-5 @stefanrahmstorf] Ja beide spielt sicher eine Rolle, aber die wirklich günstigen Punkte, wo man eine Staumauer bauen kann und viel Wasser aufstauen kann,
+[00:18:36-6 @stefanrahmstorf] die sind eben häufig meistens schon besetzt.
+[00:18:39-1 @timpritlove] Alle schon gefunden.
+[00:18:42-1 @timpritlove] Sie erwähnten, dass so Satelliten jetzt eine Rolle spielen.
+[00:18:45-7 @timpritlove] Also mit welchem Instrumentarium gehen Sie denn vor, um sozusagen jetzt die Komplexität der Physik des Meeres zu erfassen?
+[00:18:55-4 @timpritlove] Also ist es im wesentlichen autonome Bojen, die herumliegen, sind es Forschungsschiffe oder ist es im wesentlichen die Raumfahrt, die heutzutage die Daten liefert?
+[00:19:08-5 @stefanrahmstorf] Es ist eine Mischung.
+[00:19:09-5 @stefanrahmstorf] Traditionell gibt es natürlich Schiffsmessungen und Messungen entlang der Küsten, Hafenpegel für den Meeresspiegel zum Beispiel.
+[00:19:20-2 @stefanrahmstorf] Es gibt, was die Schiffe angeht, Forschungsschiffe und auch diese sogenannten Ships of Opportunity, also Handelsschiffe,
+[00:19:29-5 @stefanrahmstorf] die regelmäßig bestimmte Routen befahren und dabei nebenbei noch ein wissenschaftliches Messprogramm durchführen.
+[00:19:36-7 @stefanrahmstorf] Und neuerdings gibt es die Satelliten, die hinzukommen, aber ist klar, vom All aus kann man jetzt nicht unbedingt in den Ozean hineindringen,
+[00:19:47-6 @stefanrahmstorf] sondern im wesentlichen nur die Oberfläche sehen.
+[00:19:51-4 @stefanrahmstorf] Das ist aber trotzdem auch sehr nützlich.
+[00:19:54-1 @stefanrahmstorf] Also gerade Meeresspiegel kann man eben zum Beispiel von Satelliten aus messen.
+[00:19:59-5 @stefanrahmstorf] Temperaturen, Meeresoberflächentemperaturen kann man messen und auch weitere Parameter.
+[00:20:06-4 @stefanrahmstorf] Und autonome Bojen haben Sie angesprochen, also da gibt es die sogenannten Argo floats, ein Programm ich glaube inzwischen etwa 3000 Stück,
+[00:20:15-5 @stefanrahmstorf] die liegen auch nicht irgendwie rum, sondern die durchkreuzen die Meere und tauchen in bestimmte Tiefen und dann tauchen sie wieder an die Oberfläche ganz autonom.
+[00:20:25-3 @stefanrahmstorf] Und wenn sie an der Oberfläche sind, funken sie ihre Messdaten an Satelliten.
+[00:20:29-9 @timpritlove] Und holen sich Strom über Solar und sind quasi wartungsfrei unterwegs?
+[00:20:35-8 @stefanrahmstorf] Die sind mit Batterien unterwegs.
+[00:20:37-8 @timpritlove] Und wie kommen diese ganzen Daten denn jetzt zusammen?
+[00:20:40-1 @timpritlove] Ich meine, wenn man jetzt so eine komplexe Datensammlung hat von den Satelliten, von irgendwelchen Schiffen,
+[00:20:47-9 @timpritlove] gibt es irgendwo einen zentralen Datensammelpunkt, wo die alle zusammengetragen werden?
+[00:20:53-7 @stefanrahmstorf] Es gibt eine ganze Reihe von Institutionen, die solche Daten sammeln.
+[00:21:00-5 @stefanrahmstorf] Für die unterschiedlichen Messeprogramme sind eben auch jeweils unterschiedliche Institutionen zuständig.
+[00:21:06-8 @stefanrahmstorf] Oft auch zwei oder drei gleichzeitig, also die Meeresspiegeldaten von den Satelliten zum Beispiel werden an der University of Colorado aber auch in Frankreich gesammelt
+[00:21:18-4 @stefanrahmstorf] und es kann auch jeder Laie jederzeit aktuell diese Daten einsehen übrigens.
+[00:21:24-1 @stefanrahmstorf] Überall gibt es gute Internetdarstellungen, wo man sich Datenkurven, den Verlauf immer ganz aktuell anschauen kann.
+[00:21:33-5 @timpritlove] Wo würde man da hinmarschieren zum Beispiel?
+[00:21:36-9 @stefanrahmstorf] Also Sealevel Colorado eingeben, dann findet man zum Beispiel den Meeresspiegelverlauf und es wird, ich weiß jetzt nicht genau in welchem Intervall,
+[00:21:47-5 @stefanrahmstorf] aber alle paar Wochen oder so wird das aktualisiert.
+[00:21:51-4 @stefanrahmstorf] Und da kann man nachschauen.
+[00:21:53-2 @stefanrahmstorf] Und genauso gibt es Daten über Meereisbedeckung, das ist von dem Snow & Ice Datacentre in den USA.
+[00:22:03-0 @stefanrahmstorf] Also es gibt über Klimadaten, Temperaturen, alles mögliche kann man sich wunderbar informieren.
+[00:22:11-7 @stefanrahmstorf] Die Datensätze sind praktisch alle transparent frei für jedermann einsehbar im Internet.
+[00:22:19-4 @stefanrahmstorf] Und ich betreibe ja seit vielen Jahren mit amerikanischen und anderen Kollegen einen Blog, der heißt Real Climate,
+[00:22:25-6 @stefanrahmstorf] und da haben wir auch eine Seite Datenquellen, wenn man da drauf klickt, findet man eine lange Liste Übersichtlinks, wo man welche Daten über das Klimasystem sich anschauen kann.
+[00:22:36-7 @timpritlove] Das packen wir natürlich hier auch alles in die Shownotes zu dieser Sendung.
+[00:22:41-8 @timpritlove] Jetzt hatten Sie ja schon den Meeresspiegelanstieg erwähnt, der ist ja ein zentraler Diskussionspunkt in dieser ganzen Debatte
+[00:22:50-0 @timpritlove] und wir eigentlich auch so als die Hauptgefahr angesehen.
+[00:22:53-4 @timpritlove] Sicherlich nicht die einzige, die vom Klimawandel ausgeht, aber ein Aspekt davon.
+[00:22:59-3 @timpritlove] Jetzt sagten Sie, 20cm hatten wir an Anstieg gesehen seit, was sagten Sie?
+[00:23:06-7 @stefanrahmstorf] Seit dem späten 19. Jahrhundert.
+[00:23:07-7 @timpritlove] Seit dem späten 19. Jahrhundert. Was passiert jetzt?
+[00:23:14-5 @timpritlove] Und inwiefern sollte man darüber beunruhigt sein?
+[00:23:19-7 @stefanrahmstorf] Also zunächst würde ich nicht sagen, dass der Meeresspiegel die Hauptgefahr ist der globalen Erwärmung, sondern wir haben glaube ich noch größere Gefahren,
+[00:23:29-2 @stefanrahmstorf] was die Ernährung der Menschheit angeht.
+[00:23:31-9 @stefanrahmstorf] Die Nahrungssicherheit, also gerade die Problematik der sich ausweitenden Dürren und natürlich Extremwetterereignisse, wie schwere Fluten
+[00:23:43-3 @stefanrahmstorf] oder extreme Hitzewellen, die sehr viele Menschenleben kosten, das sind Gefahren, die realisieren sich heute bereits.
+[00:23:49-0 @stefanrahmstorf] Langfristig gesehen ist es trotzdem richtig, dass der Meeresspiegel sicherlich eine riesige Gefahr ist.
+[00:23:57-0 @stefanrahmstorf] Die 20cm, die wir bis jetzt haben, sind noch nicht so schlimm, haben aber ja bereits Sturmfluten, wie von dem Hurricane Sandy,
+[00:24:06-2 @stefanrahmstorf] der New York getroffen hat zum Beispiel, deutlich verschlimmert.
+[00:24:11-4 @stefanrahmstorf] Dabei ist es interessiert, wenn man von einem 20cm höheren Meeresspiegel startet, die Sturmflut deutlich mehr als 20 Meter höher auflaufen kann,
+[00:24:20-4 @stefanrahmstorf] weil es da sogenannte nichtlineare Effekte noch gibt.
+[00:24:24-7 @stefanrahmstorf] Aber ja Ihre Frage war ja, was passiert jetzt oder wie geht es weiter, so habe ich das jetzt aufgefasst?
+[00:24:31-3 @timpritlove] Ja.
+[00:24:32-0 @stefanrahmstorf] Der Meeresspiegel wird weiter steigen, und zwar nicht nur so lange, wie das Klima sich weiter erwärmt, sondern noch Jahrhunderte darüber hinaus.
+[00:24:42-7 @stefanrahmstorf] Das ist ein Grund, warum das Meeresspiegelproblem so wichtig ist, weil den Meeresspiegelanstieg können wir einfach nicht mehr stoppen.
+[00:24:51-9 @stefanrahmstorf] Sondern was wir noch machen können, wenn wir die globale Erwärmung stoppen, können wir verhindern, dass der Meeresspiegelanstieg sich weiter beschleunigt.
+[00:25:01-2 @timpritlove] Warum können wir ihn nicht stoppen?
+[00:25:04-8 @stefanrahmstorf] Also das ist so wie wenn Sie jetzt einen riesigen Eisklotz aus Ihrem Gefrierfach nehmen und auf den Küchentisch legen,
+[00:25:14-1 @stefanrahmstorf] dann bringen Sie dieses Eis in eine wärmere Umgebung.
+[00:25:17-9 @stefanrahmstorf] Dieses Eis wird aber immer weiter schmelzen, bis es weg ist, auch wenn die Umgebung nicht noch wärmer wird, wenn also die Temperatur in Ihrer Küche dann konstant ist.
+[00:25:27-6 @stefanrahmstorf] Das Eis braucht aber eben eine lange Zeit, bis es komplett weg ist.
+[00:25:31-7 @stefanrahmstorf] Und wir gehen davon aus, dass die großen Eismassen auf Grönland und der westantarktische Eisschild, der relativ sensibel ist,
+[00:25:42-8 @stefanrahmstorf] dass die über Jahrhundert, möglicherweise Jahrtausende, weiter abschmelzen werden, selbst wenn wir die globale Erwärmung gestoppt haben unter den 2 Grad,
+[00:25:54-2 @stefanrahmstorf] die in Paris beschlossen worden sind.
+[00:25:57-2 @stefanrahmstorf] Und das Grönlandeis ist genug, um den weltweiten Meeresspiegel und 7m anzuheben.
+[00:26:03-7 @stefanrahmstorf] Die Westantarktis reicht für nochmal 3m aus.
+[00:26:07-8 @stefanrahmstorf] Und die Antarktis insgesamt bringt ungefähr 60m, wobei wir eben hoffen, dass der größte Teil der Antarktis, der ostantarktische Eisschild,
+[00:26:17-6 @stefanrahmstorf] weitgehend stabil ist und auch bei ein paar Grad Erwärmung nicht gleich verschwindet, aber das sieht eben bei Grönland und der Westantarktis anders aus.
+[00:26:27-9 @timpritlove] Und das beschleunigt ja dann auch nochmal den Effekt, weil in dem Moment, wo die weißen Flächen wegfallen, ja quasi sich alles weiter aufheizt,
+[00:26:38-5 @timpritlove] weil das Licht nicht zurückgeworfen wird oder ist das nur so ein Nebenaspekt?
+[00:26:41-3 @stefanrahmstorf] Ja das ist allerdings … dieser Aspekt ist wichtig für das Meereis.
+[00:26:48-4 @stefanrahmstorf] Weil das Meereis ist dünn und die Fläche schrumpft.
+[00:26:52-7 @stefanrahmstorf] Und wir haben ja fast die Hälfte der sommerliche Meereisbedeckung auf dem Nordpolarmeer bereits verloren in den letzten 30 Jahren.
+[00:27:00-6 @stefanrahmstorf] Und da ist dieser Verstärkereffekt, dadurch dass das helle Eis jetzt durch dunkle Meeresoberfläche ersetzt wird, der ist ganz deutlich.
+[00:27:08-9 @stefanrahmstorf] Das ist der Grund, warum die Arktis sich 2-3 mal so schnell erwärmt in den letzten 20 Jahren als der Rest des Globus.
+[00:27:17-7 @stefanrahmstorf] Für die großen Kontinentaleismassen ist es zunächst mal nicht so ein Problem, weil die werden erst mal nur dünner.
+[00:27:23-2 @stefanrahmstorf] Deren Fläche schrumpft nicht oder nur sehr unwesentlich, weil diese Kontinentaleispanzer sind eben mehrere tausend Meter dick.
+[00:27:33-4 @stefanrahmstorf] Und das heißt, deswegen machen die einen potenziell sehr großen Meeresspiegelanstieg, weil können Sie sich vorstellen,
+[00:27:42-5 @stefanrahmstorf] wenn die Fläche Grönlands 3000 Meter dicker Eispanzer, dass wenn der abschmilzt und Sie das verteilen über die Weltmeere, dass das 7 Meter Anstieg ergibt.
+[00:27:52-3 @stefanrahmstorf] Und eben nochmal fast zehnmal so viel in der Antarktis.
+[00:27:58-6 @stefanrahmstorf] Aber bis jetzt beobachten wir keine nennenswerte Schrumpfung der Fläche dieser Kontinentaleismassen, sondern der Massenverlust bedeutet einfach,
+[00:28:05-9 @stefanrahmstorf] dass an der Oberfläche was abschmilzt und dadurch wird das Eis dünner bzw. bei der Antarktis geht es mehr um das Abrutschen von Eis ins Meer.
+[00:28:14-6 @timpritlove] Das heißt, die einzige Möglichkeit, dieses weitere Abschmelzen und damit das Ansteigen der Meeresspiegel zu verhindern, ist, die Temperaturen quasi wieder auf die ursprünglichen Niveaus zurückzuführen?
+[00:28:26-8 @stefanrahmstorf] Damit würde man tatsächlich den Meeresspiegelanstieg stoppen, das ist aber völlig unrealistisch.
+[00:28:32-1 @stefanrahmstorf] Denn das beste, was wir schaffen können, ist, die weitere Erwärmung zu stoppen.
+[00:28:36-3 @stefanrahmstorf] Das liegt daran, dass ein Großteil des Kohlendioxid, was wir ausstoßen, ja noch Jahrtausende in der Luft bleiben wird, das sammelt sich dort an.
+[00:28:44-2 @stefanrahmstorf] Es ist nicht so, dass das wieder zurückgeht oder deutlich oder rasch zurückgeht, wenn wir bei 0 Emissionen sind, sondern in dem Moment,
+[00:28:53-3 @stefanrahmstorf] wo wir bei 0 Emissionen angekommen sind, wird das dann erreichte Temperaturniveau im globalen Mittel etwa erhalten werden.
+[00:29:02-2 @stefanrahmstorf] Abkühlen auf das vorindustrielle Niveau oder auf das heutige Niveau wird sich die Temperatur nicht.
+[00:29:08-7 @timpritlove] Es sei denn, irgendjemandem fällt noch irgendwas geniales ein, worauf aber bisher noch keiner gekommen ist?
+[00:29:14-1 @stefanrahmstorf] Ja, was natürlich durchaus auch diskutiert wird, sind Möglichkeiten, aktiv CO2 aus der Atmosphäre zu entfernen,
+[00:29:25-1 @stefanrahmstorf] aber dagegen sprechen einfach diese unvorstellbaren Mengen.
+[00:29:28-9 @stefanrahmstorf] Also in kleinem Umfang, ja wird das durchaus möglich sein.
+[00:29:31-9 @stefanrahmstorf] Es gibt ja die Möglichkeit, Aufforstung zu betreiben, aber gut wenn man alles wieder aufforstet, was der Mensch jemals abgeholzt hat,
+[00:29:41-7 @stefanrahmstorf] und quasi die Urwälder in ganz Europa wiederherstellt und so, dann hat man vielleicht 15% des Kohlendioxid wieder zurückgeholt,
+[00:29:51-0 @stefanrahmstorf] was wir aus fossilen Quellen in die Atmosphäre gegeben haben.
+[00:29:54-9 @stefanrahmstorf] Also man hat quasi nur den Entwaldungsanteil dann rückgängig gemacht, aber den wesentlich größeren fossilen Anteil an dem zusätzlichen Kohlenstoff kann man damit nicht wegbekommen.
+[00:30:06-5 @stefanrahmstorf] Und mehr technische Verfahren, Bioenergie mit Kohlenstoffspeicherung unter der Erde und so weiter, können zwar theoretisch auch genutzt werden,
+[00:30:15-2 @stefanrahmstorf] um CO2 aus der Atmosphäre herauszuholen und dann in unterirdischen Lagern wieder abzulagern, ist aber sehr teuer.
+[00:30:24-6 @stefanrahmstorf] Und was Bioenergie angeht, wir haben natürlich nur sehr begrenzte Landflächen, die Weltbevölkerung wächst, die möchte ernährt werden,
+[00:30:33-6 @stefanrahmstorf] so dass da gibt es eigentlich nur das Potenzial, eine gewisse kleine Ergänzung der Emissionsminderungsmaßnahmen zu erreichen,
+[00:30:44-8 @stefanrahmstorf] wenn man die Emissionen nicht komplette wegkriegt, weil irgendwelche Restemissionen aus der Landwirtschaft oder so nicht wegzubekommen sind,
+[00:30:51-4 @stefanrahmstorf] könnte man da noch ein bisschen gegensteuern, indem man aktiv CO2 entfernt, aber es ist undenkbar, dass man es in solchen Massen machen kann,
+[00:31:00-8 @stefanrahmstorf] wie wir fossile Brennstoffe verbrennen.
+[00:31:04-4 @timpritlove] Das klingt ja jetzt schon recht apokalyptisch, also zumindest was so die Menschheit betrifft.
+[00:31:09-2 @timpritlove] Ich meine, der Planet wird es sicherlich überleben, der ist dann halt nur anders, aber wenn ich mir vorstelle, dass jetzt so mehrere Meter Meeresspiegel dazukommen,
+[00:31:18-2 @timpritlove] dann wird sich hier einiges ändern.
+[00:31:23-2 @timpritlove] Sie meinten ja, die andere Bedrohung seien vor allem die Wetterextreme.
+[00:31:28-3 @timpritlove] Was lässt sich denn heute schon beobachten, was auf den Klimawandel zurückzuführen ist?
+[00:31:36-0 @stefanrahmstorf] Ja was sonnenklar ist, dass die Hitzeextreme logischerweise zunehmen, wenn das Klima insgesamt wärmer wird,
+[00:31:46-4 @stefanrahmstorf] und zwar in einem erstaunlich großen Ausmaß.
+[00:31:48-7 @stefanrahmstorf] Wir haben mal eine weltweite Datenanalyse gemacht über die Häufigkeit von Monatsrekorden bei der Temperatur.
+[00:31:55-5 @stefanrahmstorf] Also so etwas wie wärmster Mai seit Beginn der Aufzeichnung,
+[00:31:58-7 @stefanrahmstorf] wie wir ihn ja jetzt gerade auch hinter uns haben hier.
+[00:32:02-9 @stefanrahmstorf] Und haben festgestellt, dass diese Rekorde fünfmal so oft auftreten, als das in einem unverändertem, einem stabilen Klima der Fall wäre.
+[00:32:15-1 @stefanrahmstorf] Also natürlich treten auch ohne Klimaveränderung, allein durch Wetterzufall, immer mal neue Rekorde auf.
+[00:32:23-4 @stefanrahmstorf] Und das hört man dann ja auch immer wieder, dass Leute sagen, ja so was hat es ja schon immer gegeben.
+[00:32:28-4 @stefanrahmstorf] Aber das entscheidende ist eben, dass es wesentlich häufiger wird durch den Klimawandel und eben bei diesen Temperaturrekorden fünfmal häufiger.
+[00:32:38-1 @stefanrahmstorf] So dass man sagen kann, wenn man also eine extreme Hitzewelle wie den „Jahrhundertsommer“ 2003 hat, der in Europa etwa 70.000 Hitzetote gekostet hat,
+[00:32:50-7 @stefanrahmstorf] dass von fünf derartigen extremen Hitzewellen wäre eine durch Zufall auch aufgetreten, vier kommen hinzu aufgrund der von uns verursachten globalen Erwärmung.
+[00:33:06-6 @stefanrahmstorf] Der zweite Faktor, den man ansprechen kann, zweite Art von Extremen, sind die extremen Niederschläge und auch da ist einfach aufgrund der Physik zu erwarten,
+[00:33:17-7 @stefanrahmstorf] dass die zunehmen, weil warme Luft mehr Wasserdampf aufnehmen, das ist ein Grundgesetz der Physik, Clausius-Clapeyron-Gleichung.
+[00:33:24-5 @stefanrahmstorf] Abhängigkeit des Sättigungsdampfdrucks von der Temperatur.
+[00:33:28-6 @stefanrahmstorf] Und das heißt, pro 1 Grad Erwärmung kann 7% mehr Wasserdampf in der Luft sein.
+[00:33:35-8 @stefanrahmstorf] Und bei einem extremen Regen ist es eben typischerweise so, der entsteht durch gesättigte Luftmassen, die sich abregnen,
+[00:33:43-2 @stefanrahmstorf] daher spielt eben gerade der Sättigungsdampfdruck da die entscheidende Rolle.
+[00:33:47-2 @stefanrahmstorf] Und man muss eben davon ausgehen, dass diese extremen Regen zunehmen.
+[00:33:55-0 @timpritlove]  Und nehmen sie auch schon zu?
+[00:33:55-4 @timpritlove] Also ich meine, ist das messbar?
+[00:33:56-3 @stefanrahmstorf] Sie nehmen auch zu, richtig.
+[00:33:58-2 @stefanrahmstorf] Wir haben da auch eine weltweite Datenauswertung gemacht, was Rekorde in der Tagessumme der Niederschläge angeht
+[00:34:07-1 @stefanrahmstorf] und im Weltmaßstab da ist es seit etwa 1990 statisch signifikant, dass eine Zunahme zu verzeichnen ist,
+[00:34:18-2 @stefanrahmstorf] da etwa 1990, also vor ungefähr 30 Jahren, ist es aus dem, was noch durch Zufallsschwankungen zu erklären wäre, rausgelaufen die Kurve
+[00:34:27-1 @stefanrahmstorf] und steigt eben immer weiter an.
+[00:34:31-1 @timpritlove] Ist das auch so im globalen Mittel oder lässt sich das quasi überall nachweisen?
+[00:34:36-4 @stefanrahmstorf] Also man kann das auch auf kontinentaler Skala nachweisen.
+[00:34:38-8 @stefanrahmstorf] Also für Europa, wenn man jetzt noch kleinräumiger wird und es nur für ein Land von der Größe wie Deutschland zum Beispiel machen wird,
+[00:34:47-5 @stefanrahmstorf] dann wird es sehr schwer, weil die Niederschläge natürlich sehr große Zufallsschwankungen aufweisen in ihrer Intensität.
+[00:35:00-7 @stefanrahmstorf] Und wenn man Externe anschaut, hat man ja immer das Problem, Extreme sind per Definition selten.
+[00:35:06-5 @stefanrahmstorf] Und sonst wären sie nicht Extreme.
+[00:35:09-5 @stefanrahmstorf] Um aber statistische Signifikanz zu erreichen, also ausschließen zu können, dass es vielleicht einfach nur Zufall ist, braucht man große Fallzahlen
+[00:35:18-8 @stefanrahmstorf] und das widerspricht sich quasi.
+[00:35:21-0 @stefanrahmstorf] Und deswegen große Fallzahlen von Extremen kriegen Sie nur, wenn Sie über große Gebiete aggregieren, wie wir das nennen.
+[00:35:28-8 @stefanrahmstorf] Also große Gebiete betrachten.
+[00:35:30-6 @stefanrahmstorf] Und deswegen ist es auf der globalen Skala, auch auf der kontinentalen Skala klar nachzuweisen.
+[00:35:37-7 @stefanrahmstorf] Für Deutschland, ich weiß da arbeiten Kollegen in Dresden zum Beispiel dran, da ist es nicht ausgeschlossen, die Zunahme schon nachzuweisen,
+[00:35:48-6 @stefanrahmstorf] aber da ist es wesentlich schwieriger, da muss man also schon sehr genau in die Daten schauen und eben auch, das macht die Sache so schwierig,
+[00:35:58-5 @stefanrahmstorf] die Veränderungen im Messsystem mit berücksichtigen.
+[00:36:04-2 @stefanrahmstorf] Weil Wetterstationen kommen hinzu, dann werden sie wieder reduziert wegen Sparmaßnahmen, sie werden automatisiert.
+[00:36:11-0 @stefanrahmstorf] Also es gibt auch eben solche Veränderungen im Beobachtungssystem, die dann zu Scheintrends führen können und da muss man sehr sehr sorgfältig sich die Daten anschauen,
+[00:36:22-4 @stefanrahmstorf] damit man eine homogene Datenreihe hat.
+[00:36:24-0 @timpritlove] Ich denke, die Extreme werden natürlich auch jetzt in der Öffentlichkeit als besonders extrem wahrgenommen, wenn irgendwie sichtbare oder messbare Schäden
+[00:36:32-4 @timpritlove] und damit auch quantifizierbare Schäden damit assoziiert sind.
+[00:36:36-4 @timpritlove] Und das hängt ja dann auch teilweise damit zusammen, dass, was weiß ich, wenn es jetzt zu einer Überflutung kommt und über die letzten Jahrzehnte wurden dann eben die Flüsse,
+[00:36:46-6 @timpritlove] also sozusagen die Überlaufgebiete dieser Flüsse reduziert, dann sind natürlich dann auch die Schäden größer, weil dort eben landwirtschaftliche Gebäude weggeschwemmt werden
+[00:36:56-4 @timpritlove] oder andere Auswirkungen das Ganze gebracht hat.
+[00:36:58-9 @timpritlove] Von daher ist es glaube ich auch in der Wahrnehmung etwas schwierig, so was korrekt einzusortieren, weil es ja auch noch andere Effekte gibt,
+[00:37:07-3 @timpritlove] die dem entgegenarbeiten.
+[00:37:08-9 @timpritlove] Also ich hätte jetzt eben fast gesagt, naja so in meiner Lebenszeit, wenn ich zurückschaue, habe ich das Gefühl, dass das irgendwie zugenommen hat,
+[00:37:17-2 @timpritlove] aber das ist natürlich eine mega subjektive Perspektive, die ich an der Stelle habe und dachte mir eben gerade, naja vielleicht ist das ja auch quasi nur eine Auswirkung dessen,
+[00:37:24-3 @timpritlove] dass wir eine angreifbarere Infrastruktur geschaffen haben in der Zeit.
+[00:37:27-6 @stefanrahmstorf] Ja, deswegen schauen wir uns natürlich direkt die Wettermessungen an, wenn wir schauen, ob sich Extreme tatsächlich verändern klimabedingt.
+[00:37:36-1 @stefanrahmstorf] Die Schäden, die dadurch entstehen, die sind natürlich nochmal ein komplexeres Gebiet, weil das hängt eben dann tatsächlich davon ab,
+[00:37:42-7 @stefanrahmstorf] also Beispiel Elbeflut 2002, da kann es natürlich dazu beitragen, wenn Flüsse begradigt worden sind, dass die Flutwelle durch den Fluss dann anders verläuft,
+[00:37:53-9 @stefanrahmstorf] oder bei Hurricanes, natürlich hat man wesentlich mehr und teuere Gebäude an den Küsten aufgebaut in den letzten Jahrzehnten,
+[00:38:04-0 @stefanrahmstorf] die dann von Hurricanes zerstört werden und dadurch die Schadenszahlen natürlich stark ansteigen.
+[00:38:09-1 @stefanrahmstorf] Das ist aber eben nicht alles, sondern es gibt eben diesen Teil, der direkt durch die Klimaveränderung verursacht wird und den kann man herausfiltern,
+[00:38:17-7 @stefanrahmstorf] wenn man sich einfach die Wettermessdaten anschaut.
+[00:38:20-9 @stefanrahmstorf] Und also Elbeflut habe ich gerade erwähnt, der ging einfach die höchste jemals in Deutschland in 24 Stunden gemessene Regenmenge voraus.
+[00:38:31-4 @stefanrahmstorf] Das war die primäre Ursache, auch wenn es verschlimmert werden worden sein kann, das ist jetzt nicht mein Fachgebiet, durch Flussverbauungen und dergleichen.
+[00:38:41-1 @timpritlove] Also diese Extreme sind real, sie lassen sich statisch nachweisen, wenn man sozusagen einen möglichst großen Betrachtungsraum kontinental, global aufzieht.
+[00:38:53-1 @stefanrahmstorf] Möglich lange Zeitreihen natürlich.
+[00:38:54-6 @timpritlove] Ja und das heißt, auch hier kann man davon ausgehen, dass es noch schlimmer wird?
+[00:39:00-7 @timpritlove] Wie schlimm kann es denn werden?
+[00:39:03-9 @stefanrahmstorf] Ja, also wenn man, noch eine kleine Bemerkung, wenn so ein Wetterextrem passiert, dann rufen natürlich immer Journalisten bei uns an
+[00:39:11-2 @stefanrahmstorf] und dann liest man dann zum Teil auch immer so Fragen, belegt jetzt dieser Extremregen den Klimawandel?
+[00:39:20-7 @stefanrahmstorf] Das ist natürlich eine blöde Frage, weil der Klimawandel ist belegt, und zwar durch die Veränderung der mittleren Größen,
+[00:39:27-5 @stefanrahmstorf] mittlere Temperaturen und so weiter und Meeresspiegel ist alles bestens belegt.
+[00:39:31-6 @stefanrahmstorf] Die Frage ist nicht, ob ein Extremereignis den Klimawandel belegt, sondern inwiefern bestimmte Arten von Extremereignissen durch den Klimawandel häufiger werden,
+[00:39:43-5 @stefanrahmstorf] das ist die korrekte Frage.
+[00:39:46-8 @stefanrahmstorf] War jetzt gerade ein Bericht, den ich gesehen habe, der war überschrieben „Vorbote des Klimawandels“ über die extremen Niederschläge, die wir erlebt haben.
+[00:39:55-3 @stefanrahmstorf] Da kann man natürlich auch fragen, wieso Vorbote, wir stecken mitten im Klimawandel und man kann sagen,
+[00:40:01-0 @stefanrahmstorf] Folge des Klimawandels ist die Häufung von solchen extremen Regenereignissen, aber es ist kein Vorbote.
+[00:40:08-2 @stefanrahmstorf] Außer dass man in dem das so sagen könnte, das ist eine Sache, von der wir in den nächsten Jahrzehnten immer mehr und mehr erleben werden, solange die Erwärmung weitergeht.
+[00:40:21-5 @timpritlove] Meine Frage war eher so, werden wir jetzt quasi nur mehr solcher Ereignisse haben, die man dann vielleicht nicht mehr Extreme nennen kann,
+[00:40:33-3 @timpritlove] weil sie so oft vorkommen und damit irgendwie normal sind oder steigert sich das alles noch?
+[00:40:39-7 @timpritlove] Also ist es überhaupt vorstellbar, dass Stürme noch schneller werden, Regenmassen noch größer werden oder ist da irgendwo auch so ein Sättigungspunkt erreicht?
+[00:40:49-6 @stefanrahmstorf] Da ist kein Sättigungspunkt in Sicht, sondern es ist in der Tat damit zu rechnen, dass zum Beispiel tropische Wirbelstürme von bisher nie gekannter Intensität auftreten.
+[00:41:04-7 @stefanrahmstorf] Und es gibt ja auch eine Diskussion, die ist jetzt gerade wieder entflammt übrigens zum Beginn der Hurricane-Saison in den USA,
+[00:41:12-2 @stefanrahmstorf] es gibt ja diese Hurricanes bis zur Kategorie 5, das ist die stärkste, aber es gibt immer wieder in den letzten Jahren eine Diskussion,
+[00:41:20-7 @stefanrahmstorf] ob man nicht die Kategorie 6 einführen sollte?
+[00:41:23-3 @stefanrahmstorf] Weil wenn man diese Skala einfach in gleichen Abständen weiter fortsetzt, dann gab es jetzt schon eine ganze Reihe von Stürmen,
+[00:41:32-0 @stefanrahmstorf] die gar nicht mehr 5 gewesen wären, sondern eigentlich 6 sein müssten.
+[00:41:35-8 @timpritlove] Ist das eine lineare oder eine logarithmische Skala?
+[00:41:38-6 @stefanrahmstorf] Na es ist weder noch ehrlich gesagt.
+[00:41:42-1 @stefanrahmstorf] Die ist nicht komplett rational, was glaube ich damit zusammenhängt, dass die in Knoten und in 5 Knotenabständen Windgeschwindigkeit oder so was ist,
+[00:41:51-0 @stefanrahmstorf] ich weiß es nicht genau, aber die ist annähernd linear und wenn man da so eine Gerade reinlegt, dann ist schon relativ klar,
+[00:41:58-2 @stefanrahmstorf] das hat jetzt gerade ein Hurricane-Beobachter in den USA getweetet, ein Sturm -
+[00:42:05-2 @stefanrahmstorf] ich habe jetzt vergessen welcher das war, - der wäre schon Kategorie 7 gewesen, wenn man die Skala linear einfach mal so weiterdenkt.
+[00:42:13-1 @stefanrahmstorf] Also da gibt es nicht den Deckel nach oben.
+[00:42:14-8 @stefanrahmstorf] Die Frage, werden Extremereignisse häufiger oder extremer, das war so ein bisschen glaube ich die Richtung Ihrer Frage, das ist interessant,
+[00:42:23-4 @stefanrahmstorf] die wird oft gestellt, aber das ist eigentlich beides das gleiche.
+[00:42:28-4 @stefanrahmstorf] Das ist für uns als Wissenschaftler gar kein Untershcied, weil es gibt immer eine Häufigkeitsverteilungskurve, die zeigt,
+[00:42:36-8 @stefanrahmstorf] je extremer ein Ereignis ist, desto seltener tritt es auf.
+[00:42:39-8 @stefanrahmstorf] Also es gibt die 100-Jahres-Flut oder die 500-Jahres-Flut.
+[00:42:45-1 @timpritlove] Meine Frage war halt eher so, wenn wir jetzt bisher ein Maximum von vielleicht 250 km/h gesehen haben, ich weiß jetzt nicht genau, wie die Zahl ist,
+[00:42:52-6 @timpritlove] läuft es jetzt darauf hinaus, dass wir dann auch Stürme mit 500 oder noch mehr Geschwindigkeiten und Sättigungsgraden und auch der Dauer dieser Zustände sehen werden?
+[00:43:05-3 @stefanrahmstorf] Ja, um bei den Tropenstürmen zu bleiben, da gibt es ja eine Maximalstärke, die sie erreichen können, die hängt im wesentlichen von der Meerestemperatur ab,
+[00:43:14-3 @stefanrahmstorf] das ist die sogenannte potenzielle Intensität eines Tropensturms unter optimalen Bedingungen.
+[00:43:19-7 @stefanrahmstorf] Wenn der also nicht durch irgendwelche Scherwinde zerrissen wird oder auf Land trifft oder so, sondern wenn der sich ungestört unter optimalen atmosphärischen Bedingungen über warmem Wasser entwickeln kann,
+[00:43:30-9 @stefanrahmstorf] dann hängt die Energie und damit die Windgeschwindigkeit von der Wassertemperatur ab.
+[00:43:35-7 @stefanrahmstorf] Deswegen treten die ja auch nur in den Tropen auf bzw. Subtropen und im Sommerhalbjahr im wesentlichen,
+[00:43:42-4 @stefanrahmstorf] weil die brauchen einfach mindestens 26-27 Grad Meeresoberflächentemperatur, um überhaupt in Gang zu kommen.
+[00:43:49-0 @stefanrahmstorf] Und dieser Deckel der Maximalstärke wird immer mehr angehoben, je wärmer das Klima wird.
+[00:43:55-6 @stefanrahmstorf] Also von daher werden eben Stürme von nie da gewesener Intensität erwartet und es ist ja auch so,
+[00:44:03-3 @stefanrahmstorf] dass in der Mehrzahl der Ozeanbecken die stärksten Stürme seit Beginn der Satellitenbeobachtung, wo man einigermaßen gute durchgehende Beobachtungsreihe hat seit 1980,
+[00:44:17-9 @stefanrahmstorf] die stärksten sind alle in den letzten 4-5 Jahren aufgetreten, also nicht alle, aber in den meisten dieser Becken weit mehr, als man jetzt durch Zufall erwarten würde,
+[00:44:26-2 @stefanrahmstorf] also insofern haben wir schon Stürme von bislang nie beobachteter Stärke in den letzten Jahren gesehen.
+[00:44:35-1 @stefanrahmstorf] Und bei Niederschlägen gilt das gleiche, Sättigungsdampfdruck steigt praktisch exponentiell mit der Temperatur und von daher ist da auch keine Grenze in der Physik,
+[00:44:48-2 @stefanrahmstorf] sondern je wärmer es wird, desto wasserhaltiger kann die Luft sein.
+[00:44:54-6 @stefanrahmstorf] Und wenn Sie sagen, länger anhaltend, da ist gerade gestern eine Studie in Nature erschienen, die zeigt, dass die Tropenstürme sich langsamer bewegen.
+[00:45:08-4 @stefanrahmstorf] Die sind in den letzten paar Jahrzehnten etwa 10% langsamer geworden.
+[00:45:14-6 @stefanrahmstorf] Und das heißt eben, sie verharren auch länger über einer bestimmten Stadt, wenn sie die treffen.
+[00:45:19-1 @stefanrahmstorf] Und das Beispiel ist eben Harvey in Houston letztes Jahr, der hat ja dort in Texas in Houston so verheerende Schäden angerichtet durch Überschwemmungen,
+[00:45:30-3 @stefanrahmstorf] weil er einfach nicht weitergezogen ist.
+[00:45:32-2 @stefanrahmstorf] Dieser Sturm saß einfach da über Texas tagelang und hat deswegen zu den größten Regenmengen geführt, die jemals im kontinentalen Nordamerika beobachtet worden sind.
+[00:45:45-0 @timpritlove] Das heißt, wir müssen uns noch auf so einiges einstellen.
+[00:45:48-1 @timpritlove] Ich weiß nicht, ob ich das richtig wahrgenommen habe, aber ich glaube im letzten Jahr ist auch einer dieser Hurricanes und hat es dann auch irgendwie bis an die irische Küste geschafft.
+[00:45:55-6 @timpritlove] Also es ist jetzt auch nicht so, dass Europa da jetzt von verschont wäre von diesem Phänomen, also von diesem konkreten Hurricane-Phänomen.
+[00:46:03-3 @stefanrahmstorf] Genau, es gibt auch die Studien, die zeigen, dass sich der Verlauf von Tropenstürmen polwärts ausbreitet, in dem Maße,
+[00:46:12-3 @stefanrahmstorf] in dem auch dieses Limit von 26-27 Grad Wassertemperatur sich polwärts bewegt durch die allgemeine Erwärmung der Meeresoberflächentemperaturen.
+[00:46:23-3 @timpritlove] Ja das sind schon eine ganze Menge beunruhigende Erkenntnisse.
+[00:46:31-4 @timpritlove] Ich würde gern nochmal so gegen Ende auch nochmal auf die politische Arbeit, die Sie machen oder die wissenschaftspolitische Arbeit, nenne ich das jetzt einfach mal,
+[00:46:40-3 @timpritlove] Sie sind ja auch im IPCC mit aktiv, also in dem …
+[00:46:44-5 @stefanrahmstorf] Gewesen.
+[00:46:45-2 @timpritlove] Gewesen okay.
+[00:46:46-1 @stefanrahmstorf] Ich habe beim 4. IPCC-Bericht mitgearbeitet.
+[00:46:49-0 @timpritlove] Mitgearbeitet.
+[00:46:50-9 @stefanrahmstorf] Der 2007 erschienen ist, also ist inzwischen schon wieder eine ganze Weile her.
+[00:46:57-3 @timpritlove] Aber Sie waren in unmittelbarem Kontakt mit dieser Ebene der Auseinandersetzung mit diesem Thema.
+[00:47:06-6 @timpritlove] Wie muss man das einschätzen?
+[00:47:07-8 @timpritlove] Also so einerseits wie Sie IPCC als Initiative und was ist Ihr Eindruck, wie sehr dieses Thema in der Weltgemeinschaft angekommen ist?
+[00:47:17-5 @timpritlove] Ich meine, abgesehen davon, dass wir jetzt eine amerikanische Regiuerung haben und teilweise eben auch so Auswüchse in Europa,
+[00:47:23-9 @timpritlove] wo man sich ein bisschen an den Kopf fassen möchte, im Idealfall ist das nur temporär, aber so unter den Leuten, die sich wirklich damit beschäftigen,
+[00:47:33-0 @timpritlove] läuten da schon alle Alarmglocken oder haben Sie das Gefühl, es geht eigentlich nichts voran?
+[00:47:40-4 @stefanrahmstorf] Ja, also es ist wirklich sehr deprimierend, wie lethargisch und extrem langsam die Menschheit auf diese existentielle Bedrohung reagiert.
+[00:47:52-4 @stefanrahmstorf] Und ich sage vielleicht nochmal, warum ich das für eine existentielle Bedrohung halte, ich habe ja auch 8 Jahre lang die Bundesregierung beraten
+[00:48:00-3 @stefanrahmstorf] im wissenschaftlichen Beirat für globale Umweltveränderungen und da haben wir ein Gutachten geschrieben über Klimawandel als Sicherheitsrisiko
+[00:48:09-3 @stefanrahmstorf] und da haben wir eben tatsächlich mal so Szenarien durchgespielt, dass zum Beispiel schwache Staaten durch ein Extremereignis,
+[00:48:16-7 @stefanrahmstorf] sagen wir eine Dürre mit großen Ernteausfällen, destabilisiert werden können und letztlich in Bürgerkrieg und Chaos versinken.
+[00:48:27-6 @stefanrahmstorf] Das haben wir vor Syrien geschrieben.
+[00:48:29-4 @stefanrahmstorf] Dann kam die schwerste Dürre in der syrischen Geschichte in den Jahren bis 2011, die gefolgt war von Massenprotesten, anderthalb Millionen Binnenflüchtlingen in Syrien,
+[00:48:39-1 @stefanrahmstorf] weil die Bauern ihre Dörfer verlassen mussten, weil das Vieh gestorben war, die Ernten ausgefallen.
+[00:48:45-0 @stefanrahmstorf] Diese Dürre war übrigens die schlimmste in Syrien seit mindestens 800 Jahren, soviel weiß man aus Sedimentdaten im östlichen Mittelmeer.
+[00:48:56-3 @stefanrahmstorf] Und diese Dürre ist so vorhergesagt, also das sagen Klimamodelle seit vielen Jahren robust vorher, dass der Mittelmeerraum austrocknet,
+[00:49:05-0 @stefanrahmstorf] wenn man mehr CO2 in die Atmosphäre gibt und das ist ein Prozess, der läuft ab, den zeigen auch die Beobachtungsdaten.
+[00:49:13-4 @stefanrahmstorf] Und man kann eben sehen, dass solche Extreme Staaten destabilisieren können, das hat natürlich auch viele politische Ursachen noch,
+[00:49:20-8 @stefanrahmstorf] deswegen ja schwache Staaten, die vielleicht schon unter inneren Spannung leiden, ethnischen, religiösen Spannungen, aus welchen Gründen auch immer, korrupte Regierungen,
+[00:49:31-6 @stefanrahmstorf] aber die sind dann anfällig, wenn ein solches verheerendes Extremereignis passiert.
+[00:49:36-6 @stefanrahmstorf] Und wenn wir das jetzt nicht nur in einem Land sehen, sondern wenn sich das noch wesentlich weiter verschlimmert in den nächsten Jahrzehnten,
+[00:49:45-7 @stefanrahmstorf] ja dann kann man sich ausmalen, dass die gesamte weltpolitische Architektur destabilisiert wird, dass Staaten sich versuchen abzuschotten
+[00:49:55-2 @stefanrahmstorf] gegen dann noch wesentlich größere Flüchtlingsströme und so weiter.
+[00:49:59-7 @stefanrahmstorf] Und von daher glaube ich, dass die Zivilisation der Menschheit unseren Zusammenhalt als Menschen wirklich existentiell gefährdet.
+[00:50:11-6 @stefanrahmstorf] Und dass es diese globale Erwärmung gibt, das ist ja wirklich seit etlichen Jahrzehnten bekannt.
+[00:50:18-0 @stefanrahmstorf] Der erste offizielle Expertenbericht für die amerikanische damalige Regierung, den amerikanischen Präsidenten, Lyndon B. Johnson damals,
+[00:50:27-0 @stefanrahmstorf] stammt von 1965 und da steht alles drin, CO2 wird diese Erwärmung verursachen, Meeresspiegelanstieg, Eisschmelze und so weiter,
+[00:50:36-4 @stefanrahmstorf] die wesentlichen Fakten stehen da alle drin und es hat genau 50 Jahre Debatte gebraucht, bis man dann endlich in Paris 2015 das Pariser Abkommen geschlossen hat.
+[00:50:48-0 @stefanrahmstorf] 195 Staaten, selbst Saudi-Arabien, alle haben zugestimmt und das liegt daran, dass die Menschen, die dort verhandeln, Diplomaten,
+[00:50:59-6 @stefanrahmstorf] Mitarbeiter von Ministerien und so weiter, die dann so ein Abkommen erarbeiten, die beschäftigen sich wirklich intensiv mit dem Thema.
+[00:51:07-3 @stefanrahmstorf] Und ich glaube, jeder der sich unvoreingenommen intensiv damit beschäftigt, egal aus welchem Land er kommt, egal welche Kultur,
+[00:51:16-4 @stefanrahmstorf] erkennt, dass das eine existentielle Bedrohung ist und deswegen ist auch das Pariser Abkommen zustande gekommen.
+[00:51:23-2 @stefanrahmstorf] Aber die Delegierten dort, die das beschließen, die sagen dann auch, zu Hause meine Regierung dann zu überzeugen, die Abgeordneten, Politiker und so,
+[00:51:34-2 @stefanrahmstorf] das ist extrem schwer, weil die stecken nicht so in der Materie drin, die wollen es zum Teil einfach auch nicht verstehen
+[00:51:39-0 @stefanrahmstorf] und deswegen ist die entscheidende Schlacht jetzt, wo wir das Pariser Abkommen haben, ist die Umsetzung dessen zu erreichen,
+[00:51:47-6 @stefanrahmstorf] was dort versprochen worden ist.
+[00:51:49-0 @stefanrahmstorf] Und wir sehen ja jetzt gerade, die Kohlekommission eingesetzt in Deutschland, die auch schon nicht Kohlekommission heißen darf,
+[00:51:57-0 @stefanrahmstorf] sondern irgendwie Kommission für, weiß nicht, Wachstum, Strukturwandel oder sonst was, das ist extrem schwierig.
+[00:52:03-8 @stefanrahmstorf] Wir müssen sehr schell aus der Kohleverstromung aussteigen, es gibt nur wenige Länder, unter anderem Deutschland, die in großem Umfang noch Kohle verbrennen
+[00:52:13-0 @stefanrahmstorf] und das ist einfach praktisch der schlimmste Beitrag zur globalen Erwärmung, die schmutzigste Art, CO2-intensivste Art Energie zu erzeugen.
+[00:52:24-8 @timpritlove] Also es frustriert Sie.
+[00:52:27-2 @timpritlove] Was haben Sie denn für einen Eindruck gewonnen, was die Gründe dafür sind, dass nicht hingehört wird?
+[00:52:34-2 @timpritlove] Ist das einfach so, lalala ich höre niemanden und will damit nichts zu tun haben?
+[00:52:40-4 @timpritlove] Es müsste doch irgendeine Art Reflexion des Themas geben.
+[00:52:46-3 @stefanrahmstorf] Ja, das gibt es ja auch.
+[00:52:48-1 @stefanrahmstorf] Es gibt ja auch durchaus breite Mehrheiten, übrigens selbst in den USA in der Bevölkerung gibt es Mehrheiten für Klimaschutz,
+[00:52:55-2 @stefanrahmstorf] für einen Umstieg auf erneuerbare Energien.
+[00:52:59-4 @stefanrahmstorf] Also ich bin einfach im Laufe der Jahrzehnte zu dem Schluss gekommen, dass Regierungen zu sehr auf Lobbykräfte hören.
+[00:53:07-1 @stefanrahmstorf]  Und die Lobbys verteidigen natürlich immer den Status quo, weil die, die jetzt mächtig sind, sehr reich sind.
+[00:53:13-1 @timpritlove] Und wollen es auch bleiben.
+[00:53:14-5 @stefanrahmstorf] Die haben natürlich die starken Mittel auch, Regierungen zu beeinflussen.
+[00:53:19-2 @stefanrahmstorf] In den USA spielt Geld im Wahlkampf ja noch eine viel größere Rolle als bei uns und das ist auch der Grund,
+[00:53:24-4 @stefanrahmstorf] warum letztlich Vertreter der fossilen Energielobby die Regierung in den USA jetzt stellen.
+[00:53:30-3 @stefanrahmstorf] Und es ist ja auch in den USA sehr gut dokumentiert, wie viele hunderte Millionen Dollar in Lobbyarbeit gesteckt wird, sogenannte Thinktanks,
+[00:53:38-4 @stefanrahmstorf] die Scheinexpertisen erstellen und immer wieder die globale Erwärmung infrage stellen.
+[00:53:44-2 @stefanrahmstorf] Es ist ja jetzt zum Beispiel auch sehr detailliert nachgewiesen, wie Exxon seit Jahrzehnten systematisch die Öffentlichkeit getäuscht hat
+[00:53:52-0 @stefanrahmstorf] und in internen Dokumenten die globale Erwärmung völlig akzeptiert hat, auch in Fachpublikationen, aber in den Nachrichten an die breite Öffentlichkeit immer wieder Zweifel gesät hat.
+[00:54:04-3 @stefanrahmstorf] Also da hat über Jahrzehnte eine gezielte Täuschung und Verwirrung der Öffentlichkeit stattgefunden.
+[00:54:13-2 @stefanrahmstorf] Und dann gibt es natürlich auch viele, die diese Nachrichten gerne glauben wollen, das muss man einfach sehen.
+[00:54:17-6 @stefanrahmstorf] Wenn jetzt jemand kommt und sagt, das ist ja alles halb so schlimm, ist ja unbewiesen und lieber mal nicht überstürzt handeln,
+[00:54:25-4 @stefanrahmstorf] wer würde das nicht gerne glauben wollen?
+[00:54:28-5 @stefanrahmstorf] Das ist natürlich entlastend und beruhigend, wenn man das glauben kann.
+[00:54:32-1 @stefanrahmstorf] Und so kommt es eben, dass viele Menschen sich lieber beruhigende Märchen erzählen lassen, als der bedrohlichen Wahrheit ins Auge zu blicken.
+[00:54:43-0 @timpritlove] Was dann auch dazu führt, dass es eigentlich im Wahlkampf dann einfach nie zum Thema 1 geworden ist.
+[00:54:48-1 @timpritlove] Man würde ja mal meinen, dass eine existentielle Bedrohung der Menschheit, so in der Kategorie „Asteroid fliegt auf die Erde zu“ und das ist es ja eigentlich,
+[00:54:58-4 @timpritlove] nur eben ohne Asteroid, dass das dann eben auch irgendwann mal so eine politische Wählergemeinschaft bewegen könnte,
+[00:55:05-5 @timpritlove] aber das scheint ja nicht der Fall zu sein.
+[00:55:09-2 @stefanrahmstorf] Ja da sehe ich auch eine starke Verantwortung der Medien, dieses Thema eben mehr in den Vordergrund zu rücken und auch die Politiker immer wieder zu fragen,
+[00:55:17-6 @stefanrahmstorf] ihr habt jetzt das Pariser Abkommen unterzeichnet, ratifiziert, was macht ihr jetzt eigentlich, um das umzusetzen?
+[00:55:23-4 @stefanrahmstorf] Warum werden die Klimaziele gar nicht eingehalten?
+[00:55:26-6 @stefanrahmstorf] Stichwort Asteroid ist natürlich gut, warum ist das Klimaproblem anders?
+[00:55:31-3 @stefanrahmstorf] Es kommt nicht von außen, es hat mal jemand vor vielen Jahren gesagt unter Zeiten von Georg Bush, wenn der Klimawandel von Osama Bin Laden verursacht würde,
+[00:55:42-0 @stefanrahmstorf] dann wären die USA längst im Krieg gegen den Klimawandel gezogen.
+[00:55:45-9 @stefanrahmstorf] Es ist nicht ein Angriff von außen, sondern wir alle sind irgendwie mit verantwortlich, das schiebt man lieber gerne weg.
+[00:55:51-9 @stefanrahmstorf] Und der Asteroid würde eben etwas schneller kommen.
+[00:55:55-8 @stefanrahmstorf] Wenn man in so einem schleichenden Veränderungsprozess ist, der Jahrzehnte dauert, wie beim Klimawandel, dann findet man natürlich immer irgendwas,
+[00:56:03-8 @stefanrahmstorf] was jetzt gerade akut dringender ist.
+[00:56:05-6 @stefanrahmstorf] Wenn die Banken zu kollabieren drohen, dann kann die Politik innerhalb von einer Woche reagieren, aber auf einen Klimawandel,
+[00:56:13-0 @stefanrahmstorf] wo wir schon vor 20-30 Jahren wirklich hätten reagieren müssen, da kann man immer wieder auf die nächste Legislaturperiode verschieben
+[00:56:20-2 @stefanrahmstorf] und glaubt, das kann ja nicht so schlimm sein, aber in der Summe ist es jetzt eben so, dass wir bis 2040, allerspätestens 2050 die weltweiten Emissionen auf Null haben müssen,
+[00:56:34-3 @stefanrahmstorf] um die Ziele des Pariser Abkommens noch einzuhalten und die Erwärmung deutlich unter der 2-Grad-Grenze zu halten.
+[00:56:42-2 @timpritlove] Haben Sie da noch Hoffnung, dass das stattfinden kann?
+[00:56:47-0 @stefanrahmstorf] Ich gebe die Hoffnung nie auf, ich mache das ja jetzt schon seit 25 Jahren, und die Hoffnung stirbt zuletzt.
+[00:56:55-0 @stefanrahmstorf] Ich weiß, es ist noch möglich, die Erwärmung unter 2 Grad zu stoppen.
+[00:57:00-5 @stefanrahmstorf] Und ich hoffe, dass irgendwann so eine Art wie der Fall der Berliner Mauer, irgendwann ist genug und die Leute merken,
+[00:57:10-3 @stefanrahmstorf] jetzt müssen wir was machen.
+[00:57:11-9 @timpritlove] Der Tipping Point.
+[00:57:12-9 @stefanrahmstorf] Der Tipping Point wird erreicht.
+[00:57:16-7 @timpritlove] Ja Herr Rahmstorf vielen Dank für die Ausführungen zum Klimawandel.
+[00:57:21-4 @timpritlove] Ich denke, hier ist noch einiges zu tun, und wir werden uns hier auch bei Forschergeist noch weiter und intensiver mit dieser Frage im Detail auseinandersetzen.
+[00:57:30-0 @timpritlove] Ich danke erst mal.
+[00:57:31-3 @stefanrahmstorf] Ja vielen Dank, hat Spaß gemacht.
+[00:57:33-4 @timpritlove] Und vielen Dank auf fürs Zuhören hier bei Forschergeist.
+[00:57:36-1 @timpritlove] Ich sage, tschüss und bis bald.
+[00:57:38-7 Outro]

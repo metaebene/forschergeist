@@ -1,0 +1,3628 @@
+﻿WEBVTT
+
+00:00:44.001 --> 00:00:49.400
+<v timpritlove>Hallo und herzlich willkommen zu Forschergeist, dem Podcast des Stifterverbands für die deutsche Wissenschaft.
+
+00:00:49.401 --> 00:00:58.200
+<v timpritlove>Mein Name ist Tim Pritlove und ich begrüße alle hier zur Ausgabe Nummer 55 unserer Gesprächsreihe über Wissenschaft und wie sie funktioniert und wie sie wirkt.
+
+00:00:58.201 --> 00:01:07.000
+<v timpritlove>Und heute hat mich der Weg nach München geführt, konkreter in die Universitätssternwarte München.
+
+00:01:07.001 --> 00:01:10.500
+<v timpritlove>Teil der Fakultät der Physik der Ludwig-Maximilians-Universität.
+
+00:01:10.501 --> 00:01:13.200
+<v timpritlove>Und ich freue mich sehr, meinen Gesprächspartner zu begrüßen.
+
+00:01:13.201 --> 00:01:14.500
+<v timpritlove>Nämlich Dr. Harald Lesch, schönen guten Tag.
+
+00:01:14.501 --> 00:01:15.500
+<v haraldlesch>Guten Morgen, hallo.
+
+00:01:15.501 --> 00:01:20.400
+<v timpritlove>Herr Lesch, die Sternwarte, was macht die denn?
+
+00:01:20.401 --> 00:01:29.600
+<v haraldlesch>Das fragen sich viele Leute, die hier reinkommen, wo sind sie denn die Astronomen, die müssen doch irgendwie unter den Teleskopen liegen, müssen doch beobachten, was tagsüber immer nicht ganz so einfach ist.
+
+00:01:29.601 --> 00:01:34.300
+<v haraldlesch>Aber in der Tat fragt man sich schon, was machen die Astronomen eigentlich tagsüber?
+
+00:01:34.301 --> 00:01:39.000
+<v haraldlesch>Und inzwischen ist Astronomie, wie fast jede physikalische Wissenschaft, natürlich vor allem Datenverarbeitung.
+
+00:01:39.001 --> 00:01:45.300
+<v haraldlesch>Und man sieht hier im Haus eben sehr viele Leute vor Flachbildschirmen sitzen, die eben große Datenmengen verarbeiten.
+
+00:01:45.301 --> 00:01:53.300
+<v haraldlesch>Sowohl die in den theoretischen Gruppen als auch die Experimentatoren oder Beobachter, die eben Teleskope auf der ganzen Welt benutzen.
+
+00:01:53.301 --> 00:01:55.800
+<v haraldlesch>Teilweise sogar Teleskope im Weltall.
+
+00:01:55.801 --> 00:02:00.000
+<v haraldlesch>Und damit eben genau das tun, was die Aufgabe dieses Instituts seit Anfang ist.
+
+00:02:00.001 --> 00:02:02.400
+<v haraldlesch>Wir hatten letztes Jahre 200-jähriges Bestehen.
+
+00:02:02.401 --> 00:02:05.800
+<v haraldlesch>Nämlich herauszufinden, was tut sich am Himmel?
+
+00:02:05.801 --> 00:02:11.500
+<v haraldlesch>Früher wurde sogar noch der König regelmäßig, beziehungsweise der Prinzregent, regelmäßig informiert, was sich am Himmel tut.
+
+00:02:11.501 --> 00:02:16.500
+<v haraldlesch>Heutzutage haben wir kaum noch Anfragen von irgendwelchen Ministerpräsidenten oder anderen Regierenden.
+
+00:02:16.501 --> 00:02:17.600
+<v haraldlesch>Wir machen Grundlagenforschung.
+
+00:02:17.601 --> 00:02:20.600
+<v haraldlesch>Wir sind eben ein Teil der Physikfakultät.
+
+00:02:20.601 --> 00:02:32.100
+<v haraldlesch>Und wenn man es mal ganz, sagen wir mal, ja so ganz klar sagen wollte, dann ist es die Anwendung der physikalischen Naturgesetze, die wir von der Erde kennen, auf den Kosmos.
+
+00:02:32.101 --> 00:02:33.300
+<v haraldlesch>Das ist es.
+
+00:02:33.301 --> 00:02:36.900
+<v timpritlove>Interessieren sich denn die Könige von heute nicht mehr für das, was im Himmel geschieht?
+
+00:02:36.901 --> 00:02:40.300
+<v haraldlesch>Ich glaube nicht.
+
+00:02:40.301 --> 00:02:43.900
+<v haraldlesch>Also ich weiß auch nicht, ob man sich früher dafür interessiert hat, was am Himmel passiert ist.
+
+00:02:43.901 --> 00:02:49.900
+<v haraldlesch>Es war nur sozusagen die Aufgabe eines königlichen bayrischen Hofastronoms, sich natürlich entsprechend auch dann mitzuteilen.
+
+00:02:49.901 --> 00:02:55.100
+<v haraldlesch>Man stand ja eben im Sold des Königshauses und dann musste eben auch ab und zu mal was abgegeben werden.
+
+00:02:55.101 --> 00:03:01.500
+<v haraldlesch>Wenn man überhaupt mal in der Geschichte nachschaut, dann hatten die Astronomen ja in den frühen Hochkulturen eine unglaubliche Bedeutung,
+
+00:03:01.501 --> 00:03:09.200
+<v haraldlesch>weil sie die Dinge am Himmeln nicht nur deuten konnten, sondern vor allen Dingen aus der Erkenntnis der periodischen Wiederkehr konnten sie Erscheinungen vorhersagen
+
+00:03:09.201 --> 00:03:12.300
+<v haraldlesch>und damit hatten sie natürlich also …
+
+00:03:12.301 --> 00:03:13.400
+<v timpritlove>Das war dann schon die …
+
+00:03:13.401 --> 00:03:15.200
+<v haraldlesch>… das war schon mächtig.
+
+00:03:15.201 --> 00:03:16.800
+<v haraldlesch>Und das ging auch tatsächlich …
+
+00:03:16.801 --> 00:03:21.100
+<v haraldlesch>in der beginnenden Neuzeit wurde das ja noch viel stärker, die Himmelsmechanik,
+
+00:03:21.101 --> 00:03:24.000
+<v haraldlesch>nämlich die Anwendung der newtonschen Mechanik auf den Himmel.
+
+00:03:24.001 --> 00:03:27.900
+<v haraldlesch>Das führte dazu, dass man Planetenkonstellationen exakt berechnen konnte.
+
+00:03:27.901 --> 00:03:30.000
+<v haraldlesch>Mond- und Sonnenfinsternisse exakt berechnen konnte,
+
+00:03:30.001 --> 00:03:31.500
+<v haraldlesch>und sogar die Wiederkehr eines Kometen.
+
+00:03:31.501 --> 00:03:37.500
+<v haraldlesch>Und aus diesen Gesetzen ergaben sich sogar so Hinweise auf Planeten, die man noch gar nicht kannte.
+
+00:03:37.501 --> 00:03:43.100
+<v haraldlesch>Und daraus ergab sich aber für die Gesellschaft und natürlich auch für die Regierenden der unglaubliche Eindruck,
+
+00:03:43.101 --> 00:03:47.600
+<v haraldlesch>man könne die Natur genauestens berechnen, weil man die Dinge am Himmel genau vorhersagen kann.
+
+00:03:47.601 --> 00:03:50.600
+<v haraldlesch>Damit wäre ja dann auch wohl das irdische zu berechnen.
+
+00:03:50.601 --> 00:03:56.500
+<v haraldlesch>Und letztlich ist aus diesem Anfangserfolg, dem Triumphzug der Himmelsmechanik eine Welteinstellung entstanden,
+
+00:03:56.501 --> 00:04:00.900
+<v haraldlesch>wir könnten die Natur komplett durchkalkulieren.
+
+00:04:00.901 --> 00:04:04.700
+<v haraldlesch>Das Resultat sehen wir ja heute, was für große Fehler dabei gemacht worden sind.
+
+00:04:04.701 --> 00:04:10.900
+<v haraldlesch>Aber dieser Impuls, den die Astronomie damals geliefert hat, unter dem haben wir heute alle noch zu leiden.
+
+00:04:10.901 --> 00:04:17.000
+<v haraldlesch>Und da muss man dann schon sagen, das ist schon interessant, dass man sich nicht mehr fragt, was wissen denn die Astronomen heute über den Kosmos?
+
+00:04:17.001 --> 00:04:24.000
+<v haraldlesch>Denn heute sieht unser Bild gar nicht mehr so uhrräderwerkartig aus, wie das vor 300-400 Jahren war.
+
+00:04:24.001 --> 00:04:34.100
+<v haraldlesch>Sondern heute sehen wir, das ist ein komplexes Netzwerk von Prozessen, wo Zufall eine große Rolle spielt, Nichtlinearitäten und Komplexität insgesamt eine große Rolle spielt.
+
+00:04:34.101 --> 00:04:44.000
+<v haraldlesch>Wenn ich mir jetzt überlege, das heute in die Politik zu bringen und den Leuten zum Beispiel zu sagen, ja was wir da oben lernen heißt, dass kleinste Veränderungen ganz große Auswirkungen haben können,
+
+00:04:44.001 --> 00:04:51.000
+<v haraldlesch>dann würden wir möglicherweise eine völlig andere Politik haben, wenn die das heute genauso ernst nehmen würden, wie die Himmelsmechaniker von vor 400 Jahren.
+
+00:04:51.001 --> 00:04:54.900
+<v timpritlove>Naja so wie ein Räderwerk und ein lineares System kommt mir die Politik jetzt auch nicht gerade vor.
+
+00:04:54.901 --> 00:04:56.100
+<v haraldlesch>Nein, aber sie verhält sich so.
+
+00:04:56.101 --> 00:05:02.000
+<v haraldlesch>Wenn sie mit Natur umgeht, verhält sie sich so, als hätte sie es mit etwas zu tun, was sozusagen exakt durchplanen kann.
+
+00:05:02.001 --> 00:05:08.200
+<v haraldlesch>Und alle Begriffe, von denen immer wieder die Rede ist, die wir heute so verwenden, die zielen darauf ab, dass wir Berechenbarkeit haben wollen.
+
+00:05:08.201 --> 00:05:18.100
+<v haraldlesch>Also die Verwendung von Algorithmen, um natürliche Prozesse zu beschreiben, das ist bis zu einem gewissen Punkt nichts anderes als die komplette Übersetzung der Himmelsmechanik auf unsere heutigen Probleme.
+
+00:05:18.101 --> 00:05:25.500
+<v haraldlesch>Und zu glauben, dass man mit rein mechanischen oder mit Algorithmen, die durchaus ja selber eine gewisse Nichtlinearität besitzen können,
+
+00:05:25.501 --> 00:05:35.200
+<v haraldlesch>aber zu glauben, dass man mit Algorithmen die Natur wirklich beherrschen kann, das halte ich für – sagen wir mal – eher schlecht.
+
+00:05:35.201 --> 00:05:40.100
+<v timpritlove>Bevor wir da noch weiter einsteigen, würde mich nochmal interessieren, wie Sie selber so dazu gekommen sind?
+
+00:05:40.101 --> 00:05:44.400
+<v timpritlove>Waren Sie von Anfang denn eigentlich so davon überzeugt, Astronom zu werden?
+
+00:05:44.401 --> 00:05:45.300
+<v haraldlesch>Was sind Sie denn für ein Jahrgang?
+
+00:05:45.301 --> 00:05:46.800
+<v timpritlove>67.
+
+00:05:46.801 --> 00:05:48.800
+<v haraldlesch>Ich bin Jahrgang 60.
+
+00:05:48.801 --> 00:05:51.400
+<v haraldlesch>Dann kann man doch schon fast ablesen, was da gelaufen ist.
+
+00:05:51.401 --> 00:05:54.300
+<v timpritlove>Ja bin gerade nochmal vor den Fernseher geschoben worden für die Mondlandung
+
+00:05:54.301 --> 00:05:56.400
+<v haraldlesch>Ich habe sie schon gesehen.
+
+00:05:56.401 --> 00:06:00.700
+<v haraldlesch>Und ich hatte die große Ehre, mein Gott an meinem 50. Geburtstag, wirklich an meinem 50.,
+
+00:06:00.701 --> 00:06:04.700
+<v haraldlesch>am Abend meines 50. Geburtstags Neil Armstrong kennenzulernen.
+
+00:06:04.701 --> 00:06:06.200
+<v haraldlesch>Aber da liegt natürlich der Hund begraben.
+
+00:06:06.201 --> 00:06:09.500
+<v haraldlesch>Also ich bin 9 Jahre alt gewesen, als die Amerikaner auf dem Mond gelandet sind.
+
+00:06:09.501 --> 00:06:13.700
+<v haraldlesch>Und sie sind auf dem Mond gelandet, um das nochmal ganz deutlich hier auch nochmal zu sagen.
+
+00:06:13.701 --> 00:06:21.100
+<v haraldlesch>Und meine Mutter ist vor ein paar Monaten gestorben und bei den Aufräumarbeiten haben wir einen alten Brief wiederentdeckt, von dem ich immer dachte, dass es ihn nicht mehr gibt,
+
+00:06:21.101 --> 00:06:29.300
+<v haraldlesch>nämlich den Antwortbrief der NASA auf einen Brief von mir an die NASA, wo ich mich mit Passfoto beworben habe, um Astronaut zu werden.
+
+00:06:29.301 --> 00:06:36.300
+<v haraldlesch>Und in diesem Brief ist es wunderbar beschreiben, schreibt mir die NASA zurück, sie würden sich sehr freuen, dass ich mich da so sehr dafür interessieren würde,
+
+00:06:36.301 --> 00:06:40.700
+<v haraldlesch>aber mit Brille und als Deutscher könnte ich nunmal kein amerikanischer Astronaut werden.
+
+00:06:40.701 --> 00:06:44.900
+<v haraldlesch>Aber wenn ich mich so für den Weltraum interessiere, dann soll ich doch Astronom werden.
+
+00:06:44.901 --> 00:06:52.400
+<v haraldlesch>Dieser Brief ist von April 1970, den hatte meine Mutter irgendwo zwischen der Wäsche verstaut, mit dem Briefumschlag noch mit dabei.
+
+00:06:52.401 --> 00:06:54.500
+<v haraldlesch>Also wenn ich dran denke …
+
+00:06:54.501 --> 00:06:56.100
+<v timpritlove>Aber den haben Sie damals schon gesehen den Brief?
+
+00:06:56.101 --> 00:07:02.300
+<v haraldlesch>Ja, aber wissen Sie … ich habe immer wieder auch mal die Geschichte erzählt, nur ich sage, diesen Brief habe ich irgendwann mal gesehen,
+
+00:07:02.301 --> 00:07:12.400
+<v haraldlesch>aber ich habe ihn irgendwann - wir sind dann umgezogen - und jetzt anlässlich des Todes oder aufgrund des Todes meiner Mutter haben wir eben da die Kleiderschränke ausgeräumt,
+
+00:07:12.401 --> 00:07:15.000
+<v haraldlesch>und dann finden wir zwischen der Wäsche diesen Brief.
+
+00:07:15.001 --> 00:07:17.800
+<v haraldlesch>Ich habe gedacht, ich habe sie nicht mehr alle.
+
+00:07:17.801 --> 00:07:18.500
+<v haraldlesch>Und daran sieht man, was passiert ist.
+
+00:07:18.501 --> 00:07:26.000
+<v haraldlesch>Mit 7-8 Jahren habe ich angefangen, so Gemini-Flüge aus Zeitungen rauszuschneiden, so kleine DIN A5 Heftchen voll zu kleben.
+
+00:07:26.001 --> 00:07:34.300
+<v haraldlesch>Ich kannte diese ganzen Astronauten und vor allen die Astronauten später, habe ich was gelernt, dass es auch noch Kosmonauten gibt.
+
+00:07:34.301 --> 00:07:36.100
+<v haraldlesch>Also Weltraum war die Geschichte.
+
+00:07:36.101 --> 00:07:41.300
+<v haraldlesch>Ich habe angefangen, Perry Rhodan Romane zu lesen, wie so ein Verrückter.
+
+00:07:41.301 --> 00:07:44.200
+<v haraldlesch>Und da sehen Sie ja, was dabei rauskommt, Physikprofessor.
+
+00:07:44.201 --> 00:07:47.000
+<v timpritlove>Also ich fasse zusammen, die NASA ist schuld.
+
+00:07:47.001 --> 00:07:48.100
+<v haraldlesch>Die NASA und Perry Rhodan.
+
+00:07:48.101 --> 00:07:50.100
+<v timpritlove>Die NASA und Perry Rhodan ist schuld.
+
+00:07:50.101 --> 00:07:54.500
+<v timpritlove>Also Sie machen ja auch viel Öffentlichkeitsarbeit,
+
+00:07:54.501 --> 00:07:58.600
+<v timpritlove>tragen die Wissenschaft auch nach draußen über das Fernsehen und andere Kanäle.
+
+00:07:58.601 --> 00:07:59.300
+<v haraldlesch>Ja.
+
+00:07:59.301 --> 00:08:02.100
+<v timpritlove>Welche Erfahrungen haben Sie denn so mit der Öffentlichkeit gemacht?
+
+00:08:02.101 --> 00:08:06.500
+<v timpritlove>Ist die denn immer in dem Maße empfänglich, wie Ihnen das angemessen erscheint?
+
+00:08:06.501 --> 00:08:09.200
+<v haraldlesch>Oh man, das ist eine Frage für sich.
+
+00:08:09.201 --> 00:08:20.100
+<v haraldlesch>Also ich denke zunächst mal, dass das Interesse in einem erheblichen Teil der Bevölkerung an wissenschaftlichen Themen ungeheuer groß ist.
+
+00:08:20.101 --> 00:08:23.800
+<v haraldlesch>Also gerade so Sachen wie Weltraum, also Astronomen werden gerne eingeladen, sehr gerne.
+
+00:08:23.801 --> 00:08:29.200
+<v haraldlesch>Ich weiß nicht, Festkörperphysiker irgendwie nicht so gerne, weil da kann man sich nicht so richtig vorstellen, was die machen.
+
+00:08:29.201 --> 00:08:37.700
+<v haraldlesch>Aber so die Astronomen, das sind die, die von dem Rand des Universums was erzählen, von schwarzen Löchern, dunkler Energie, dunkel Materie, alles irgendwie dunkel und rätselhaft und geheimnisvoll.
+
+00:08:37.701 --> 00:08:39.300
+<v timpritlove>So die Seeleute des 21. Jahrhunderts.
+
+00:08:39.301 --> 00:08:42.100
+<v haraldlesch>Genau, so ist das.
+
+00:08:42.101 --> 00:08:50.500
+<v haraldlesch>Und insofern ist es natürlich immer interessant mal dann zu gucken, was passiert eigentlich, wenn man von dieser astronomischen Perspektive zurückblickt auf den eigenen Planeten
+
+00:08:50.501 --> 00:08:57.500
+<v haraldlesch>und auch mal so eine kosmische Geschichte erzählt nach dem Motto, was musste eigentlich alles passieren, damit auf dem Planeten Leben entstehen konnte?
+
+00:08:57.501 --> 00:08:58.900
+<v haraldlesch>Wo kamen die Elemente her?
+
+00:08:58.901 --> 00:09:03.500
+<v haraldlesch>Man kann das ja schön, also man kann die kosmische Geschichte ja „humanisieren“.
+
+00:09:03.501 --> 00:09:09.200
+<v haraldlesch>Man kann sie ganz darauf abzielen, mal zu gucken, was muss eigentlich alles passieren, damit ein Mensch überhaupt als Mensch funktioniert.
+
+00:09:09.201 --> 00:09:12.700
+<v haraldlesch>Erst mal gar nciht, dass er einen Gedanken hat, sondern so als Biomaschine.
+
+00:09:12.701 --> 00:09:16.800
+<v haraldlesch>Und dann stellt man schon mal fest, holy moly, da ist ja richtig viel passiert im Universum.
+
+00:09:16.801 --> 00:09:21.900
+<v haraldlesch>Schon allein die Entstehung von Kohlenstoff, Atomkernen in so Sternen, das ist ja ganz schwierig und so weiter.
+
+00:09:21.901 --> 00:09:33.100
+<v haraldlesch>Und wenn man das macht, dass man immer wieder jemanden direkt praktisch mit sich anspricht, pass mal auf mein lieber Homo Sapiens-Freund, ich kann dir mal einen erzählen, das hat was mit uns beiden zu tun,
+
+00:09:33.101 --> 00:09:40.500
+<v haraldlesch>das ist der allerbeste Weg, wie man auch Leute reinziehen kann, die überhaupt keine Lust hatten, sich von einem Physiker irgendwas erzählen zu lassen.
+
+00:09:40.501 --> 00:09:52.700
+<v haraldlesch>Wenn man allerdings den Max Weber'schen Ansatz der möglichst großen Entfernung des Forschers vom Objekt der Begierde durchzieht und das ganz nüchtern präsentiert, dann schlafen einem die Leute ein.
+
+00:09:52.701 --> 00:10:00.900
+<v haraldlesch>Also der Begriff der Glaubwürdigkeit oder des Authentischen, dass man nämlich auch mal erzählt, warum macht man das eigentlich selber, ich bin ja kein Computer,
+
+00:10:00.901 --> 00:10:09.800
+<v haraldlesch>es muss ja irgendeine Motivation geben, die sich in mir breit macht und die mich auch erfüllt, die mir Freude macht, ich bin ja kein Masochist, der hier Astronomie macht, 
+
+00:10:09.801 --> 00:10:12.100
+<v haraldlesch>weil er sich irgendwie damit quält.
+
+00:10:12.101 --> 00:10:16.500
+<v haraldlesch>Das zu erzählen ist zum Beispiel eine Rampe, über die man unglaublich viel Wissenschaft transportieren kann.
+
+00:10:16.501 --> 00:10:19.900
+<v haraldlesch>Und meistens so, dass die Leute es gar nicht merken.
+
+00:10:19.901 --> 00:10:25.500
+<v haraldlesch>Also die hören zu und sind ganz gebannt und mann wie ist das mit dem Kohlenstoff?
+
+00:10:25.501 --> 00:10:29.600
+<v haraldlesch>Dann hören die zum ersten Mal in ihrem Leben von einem Element namens Beryllium.
+
+00:10:29.601 --> 00:10:31.800
+<v haraldlesch>Und ohne diesen Beryllium-Kern könnte man aber keinen Kohlenstoff herstellen.
+
+00:10:31.801 --> 00:10:34.100
+<v haraldlesch>Also man kann die tollsten Geschichten erzählen.
+
+00:10:34.101 --> 00:10:38.600
+<v haraldlesch>Und dann natürlich auch immer wieder die Geschichten über das Sonnensystem.
+
+00:10:38.601 --> 00:10:47.500
+<v haraldlesch>Alles das, wo man Leute direkt ansprechen kann, entweder mit ihrer komischen Heimat oder mit ihrer Existenz, da trifft man sie am besten.
+
+00:10:47.501 --> 00:10:57.600
+<v haraldlesch>Und dann gibt es natürlich noch diejenigen, die versuchen mit einem Marathonläufer mitzulaufen und denen nach 400 Metern die Luft ausgeht und die dann stinksauer sind.
+
+00:10:57.601 --> 00:11:06.000
+<v haraldlesch>Und das sind diejenigen, die mit so einem profunden Halbwissen auf einen losgehen und sagen, was Sie da erzählen ist doch alles quatsch, Sie haben doch gar keine Ahnung.
+
+00:11:06.001 --> 00:11:12.100
+<v haraldlesch>Gucken Sie mal hier, was ich Ihnen aufgeschrieben habe hier, da steht die Quantenmechanik neu drin, die ist sowieso, wie sie bis jetzt gerechnet worden ist, unsinnig.
+
+00:11:12.101 --> 00:11:13.500
+<v haraldlesch>Einstein hatte keine …
+
+00:11:13.501 --> 00:11:28.100
+<v haraldlesch>Oder wunderbar ist die berühmte Szene, wissen Sie, ich habe ja 1952 bei Professor Baumann in Dresden - ich kenne weder den Baumann noch sonst was - er hat ja damals in seinen Vorlesung auch schon immer gesagt, das mit der Quantenmechanik und das mit der Relativitätstheorie das könne gar nicht richtig sein.
+
+00:11:28.101 --> 00:11:30.300
+<v haraldlesch>Und ich habe das mal weitergetragen.
+
+00:11:30.301 --> 00:11:34.600
+<v haraldlesch>Steht dann meistens ein älterer Herr vor mir, irgendein Diplom Ingenieur oder so was und dann kriegt man da einen verpasst.
+
+00:11:34.601 --> 00:11:40.100
+<v haraldlesch>Und die sammeln sich eben durch das Internet inzwischen und schlagen sich gegenseitig auf die Schultern.
+
+00:11:40.101 --> 00:11:52.700
+<v haraldlesch>Und wenn ich das dann mal wirklich mache mit jemandem, und dann merke ich eben, wer Physik nicht studiert hat und die entsprechende mathematische Kenntnis hat, der kann mit mir also so einen Marathon nicht laufen.
+
+00:11:52.701 --> 00:12:01.500
+<v haraldlesch>Der ist nach 400 Meter (keucht) und dann sage ich, komm wir haben noch gut 40 Kilometer vor uns.
+
+00:12:01.501 --> 00:12:02.700
+<v haraldlesch>Und das wollen die aber nicht mitgehen.
+
+00:12:02.701 --> 00:12:10.300
+<v haraldlesch>Also die würden sich doch auch nie trauen, mit einem Klaviervirtuosen über bestimmte Teile von einem Rachmaninov Klavierkonzert zu reden.
+
+00:12:10.301 --> 00:12:15.500
+<v haraldlesch>Oder wenn sie es versuchen würden, dann werden sie eben nach vier Sekunden merken, verdammt ich kriege die Flossen gar nicht weit genug auseinander.
+
+00:12:15.501 --> 00:12:23.200
+<v haraldlesch>Aber es hat sich inzwischen eine Einstellung unter sehr sehr vielen - ich würde mal sagen - ziemlich profund halbgebildeten Leuten verbreitet,
+
+00:12:23.201 --> 00:12:31.600
+<v haraldlesch>man könne mit uns Wissenschaftlern reden, als ob man auf dem gleichen Kenntnisstand sei wie die.
+
+00:12:31.601 --> 00:12:34.500
+<v haraldlesch>Und das geht mir teilweise ziemlich auf die Nerven muss ich sagen.
+
+00:12:34.501 --> 00:12:36.400
+<v haraldlesch>Und da bin ich inzwischen auch nicht mehr freundlich.
+
+00:12:36.401 --> 00:12:38.100
+<v haraldlesch>Das merken Sie vielleicht auch schon.
+
+00:12:38.101 --> 00:12:42.900
+<v haraldlesch>Also ich habe da schon im Laufe der letzten 20 Jahre, wo ich das mache, am Anfang war ich noch so naiv und meinte,
+
+00:12:42.901 --> 00:12:52.000
+<v haraldlesch>den einen oder anderen überzeugen zu können, inzwischen weiß ich, das geht gar nicht um den Inhalt, es geht um das Selbst dieser Menschen.
+
+00:12:52.001 --> 00:12:58.300
+<v haraldlesch>Die sich aus irgendwelchen Gründen von der Wissenschaft irgendwie enttäuscht fühlen, bedroht oder sonst irgendwas,
+
+00:12:58.301 --> 00:13:06.800
+<v haraldlesch>die aber es nicht schaffen, jemanden mal für 2-3 Jahre, nämlich so lange muss man Physik studieren, um an diesen Kenntnisstand ranzukommen, zuzuhören,
+
+00:13:06.801 --> 00:13:09.200
+<v haraldlesch>um mal zu lernen, worum geht es hier eigentlich?
+
+00:13:09.201 --> 00:13:16.900
+<v haraldlesch>Und bei den Verschwörungstheorien, gerade wenn es um den Kosmos geht, da merkt man eben, da ist so viel Unsinn dabei,
+
+00:13:16.901 --> 00:13:21.200
+<v haraldlesch>ich weiß nciht, ob Sie es gesehen haben, aber vor meiner Tür hängt ja „ich bin ein Erdkugelfaschist“.
+
+00:13:21.201 --> 00:13:26.000
+<v haraldlesch>Es beginnt also schonmal direkt hier bei uns vor der Haustür, weil ich immer wieder behaupte, dass die Erde eine Kugel ist.
+
+00:13:26.001 --> 00:13:27.100
+<v timpritlove>Ich weiß auch nicht, wie Sie darauf kommen.
+
+00:13:27.101 --> 00:13:29.900
+<v haraldlesch>Das ist doch Wahnsinn.
+
+00:13:29.901 --> 00:13:37.500
+<v haraldlesch>Ja Erdkugelfaschisten, dann die Geschichte mit den Chemtrails und so weiter, und natürlich die Mondlandungsgeschichte, dass die Außerirdischen schon mal hier gewesen sind.
+
+00:13:37.501 --> 00:13:48.800
+<v haraldlesch>Und was die natürlich machen ist diese irre Methode, dass jede Lücke automatisch der Riss ist, der das gesamte Gebäude zum Zusammensturz bringt.
+
+00:13:48.801 --> 00:13:59.100
+<v haraldlesch>Und ich sage den Leuten immer, passen Sie mal auf - also auch bei den Klimaskeptikern - wenn Sie glauben, wir hätten keine Ahnung davon, wie elektromagnetische Strahlung mit Materie wechselwirkt,
+
+00:13:59.101 --> 00:14:02.000
+<v haraldlesch>dann nutzen Sie bitte keine digitale Elektronik mehr.
+
+00:14:02.001 --> 00:14:08.200
+<v haraldlesch>Dann erwarte ich von Ihnen, dass Ihr nächster Brief von einem reitenden Boten zu mir ins Institut gebracht wird.
+
+00:14:08.201 --> 00:14:12.700
+<v haraldlesch>Und ich erwarte von Ihnen, dass Sie keinerlei elektronisches Equipment mehr benutzen, denn wer weiß was dabei rauskommt.
+
+00:14:12.701 --> 00:14:19.200
+<v haraldlesch>Wenn wir so unfähig sind, wie Sie uns darstellen, dann sollten Sie sich irgendwo in eine Hütte zurückziehen und warten, bis alles vorbei ist.
+
+00:14:19.201 --> 00:14:31.400
+<v haraldlesch>Das ist ja … also die Vorwürfe gehen ja nicht nur ins Persönliche, also von wegen Hassmails, sondern da wird die gesamte Wissenschaft angegriffen, also namentlich auch die Physik selber
+
+00:14:31.401 --> 00:14:37.900
+<v haraldlesch>und das ist eine relativ kleine Gruppe, aber eben durch das Internet hat sie einen irren Lautsprecher bekommen.
+
+00:14:37.901 --> 00:14:47.900
+<v haraldlesch>Und zum Beispiel der Eindruck, den jemand bekommt, wenn er sich über irgendwas erkundigen will, zum Beispiel Klima, wenn Sie eine Suchmaschine anschmeißen, deren Name nicht genannt werden muss,
+
+00:14:47.901 --> 00:14:53.400
+<v haraldlesch>dann kriegen Sie zunächst einmal auf der ersten Seite lauter Klimaskeptiker-Adressen, das haben die gut hingekriegt.
+
+00:14:53.401 --> 00:15:01.600
+<v haraldlesch>Obwohl es innerhalb der Wissenschaft schon lange keinen Dissens mehr gibt, was die Gründe für den Klimawandel betrifft, da kriegen Sie dann aber richtig einen erzählt.
+
+00:15:01.601 --> 00:15:04.600
+<v haraldlesch>Das ist teilweise so haarsträubender Unsinn.
+
+00:15:04.601 --> 00:15:15.100
+<v haraldlesch>Und das führt dann wieder zu einer Resonanz, auch übrigens in politischen Kreisen, das ist immer ganz interessant, wie lange Klimaskeptiker auch heute noch im Bundestag ihr Unwesen treiben dürfen.
+
+00:15:15.101 --> 00:15:17.100
+<v haraldlesch>Also das ist so ein bisschen ambivalent.
+
+00:15:17.101 --> 00:15:29.400
+<v haraldlesch>Um wieder auf die Ausgangsfrage zurückzukommen, es gibt eine große Menge an Interesse, von einer großen sehr sehr breiten Bevölkerungsschicht, die auch interessiert sind im Sinne von,
+
+00:15:29.401 --> 00:15:31.100
+<v haraldlesch>ah jetzt geben wir dem mal Zeit, da kann er was erzählen.
+
+00:15:31.101 --> 00:15:33.700
+<v haraldlesch>Da kommt auch was zurück, was positiv ist.
+
+00:15:33.701 --> 00:15:41.800
+<v haraldlesch>Und es gibt so eine kleine Guerilla-Gruppe, die sich glaube ich aufgemacht hat, die Ergebnisse der Aufklärung ein für allemal in Klump und Latsch zu zertreten.
+
+00:15:41.801 --> 00:15:45.600
+<v timpritlove>Ich frage mich, was deren Motivation ist.
+
+00:15:45.601 --> 00:15:55.100
+<v timpritlove>Weil ich meine, es könnte vielleicht im Persönlichen liegen, das kann man natürlich so nicht ergründen, aber dafür sind es irgendwie zu viele, als dass die da so kongruente Motivationslage haben können.
+
+00:15:55.101 --> 00:16:05.000
+<v timpritlove>Aber ich glaube, das hat auch ein bisschen was damit zu tun, dass die Schichten der Gesellschaft sich so separieren und es da so eine Wissensschicht gibt, die meint,
+
+00:16:05.001 --> 00:16:11.400
+<v timpritlove>naja wir machen jetzt hier Wissenschaft, wir haben das alles studiert, wir können alles erklären, wir schicken irgendwie Leute auf den Mond.
+
+00:16:11.401 --> 00:16:18.400
+<v timpritlove>Alles prima, wir checken das, jetzt müssen wir noch ein paar Elektronen im Ring durch die Gegend schießen 20 Jahre, dann wissen wir den Rest auch noch.
+
+00:16:18.401 --> 00:16:26.400
+<v timpritlove>Und der Rest steht so ein bisschen daneben und ich weiß nicht, vielleicht vermissen die so ein bisschen diesen Definitionsraum für sich.
+
+00:16:26.401 --> 00:16:33.800
+<v timpritlove>Dass sie da sozusagen so alleine stehen, fremde Leute diktieren ihnen irgendwie die Realität und versuchen da so ihre eigene Welt zu schnitzen,
+
+00:16:33.801 --> 00:16:36.200
+<v timpritlove>in der sie dann wiederum die Könige sind.
+
+00:16:36.201 --> 00:16:36.800
+<v timpritlove>Ist das eine Erklärung?
+
+00:16:36.801 --> 00:16:38.200
+<v timpritlove>Ich wie es nicht.
+
+00:16:38.201 --> 00:16:51.300
+<v haraldlesch>Also es ist sicher so, dass die Forschung inzwischen einen Komplexitätsgrad erreicht hat und auch eine Diversität, also eine unglaubliche Menge von verschiedenen Forschungsrichtungen,
+
+00:16:51.301 --> 00:16:56.600
+<v haraldlesch>dass es schon für den Fachmann und die Fachfrau extrem schwierig ist, den Überblick zu behalten.
+
+00:16:56.601 --> 00:16:58.000
+<v haraldlesch>Da haben Sie völlig recht.
+
+00:16:58.001 --> 00:17:10.200
+<v haraldlesch>Auf der anderen Seite gibt es aber auch eine unglaubliche Vielfalt an Veranstaltungen, wo jeder, der sich in irgendeiner Art und Weise bewusst von diesem wissenschaftlichen Apparat bedroht fühlt,
+
+00:17:10.201 --> 00:17:12.600
+<v haraldlesch>informieren kann, was die da eigentlich wirklich machen.
+
+00:17:12.601 --> 00:17:14.200
+<v haraldlesch>Ob es Tage der offenen Tür sind.
+
+00:17:14.201 --> 00:17:15.700
+<v haraldlesch>Es gibt Fortbildungsmaßnahmen.
+
+00:17:15.701 --> 00:17:19.800
+<v haraldlesch>Es gibt ständig irgendwelche Vorlesungsreihen, die innerhalb der Institutionen stattfinden.
+
+00:17:19.801 --> 00:17:23.200
+<v haraldlesch>Und das ist nicht nur an den Universitäten so, sondern auch die Forschungseinrichtungen.
+
+00:17:23.201 --> 00:17:29.800
+<v haraldlesch>Es gibt praktisch keine Forschungseinrichtung mehr heutzutage in Deutschland, die nicht irgendsoeine Abteilung für Öffentlichkeitsarbeit hat.
+
+00:17:29.801 --> 00:17:37.200
+<v haraldlesch>Und da sitzen Kolleginnen und Kollegen, die beides können, nämlich sowohl inhaltlich als auch von der Form her sich der Öffentlichkeit zuzuwenden.
+
+00:17:37.201 --> 00:17:42.800
+<v haraldlesch>Das machen die wirklich aller-aller-aller-erste Klasse.
+
+00:17:42.801 --> 00:17:51.400
+<v haraldlesch>Trotzdem gibt es diesen tiefgehenden, tiefsitzenden Zweifel an dem, was wir in den Wissenschaften da treiben.
+
+00:17:51.401 --> 00:17:58.300
+<v haraldlesch>Und wenn Sie da eben sagen, die landen auf dem Mond, das ist ja schon eine Weile her, das ist 50 Jahre her demnächst.
+
+00:17:58.301 --> 00:18:03.400
+<v haraldlesch>Zu diesen Zeiten hatten wir eine völlig andere Öffentlichkeit, die ganz anders mit wissenschaftlichen Ergebnissen umgegangen ist.
+
+00:18:03.401 --> 00:18:11.300
+<v haraldlesch>Wenn ich mir vorstelle, die Amerikaner würden heute auf dem Mond landen, mit dem Programm, was damals abgelaufen ist.
+
+00:18:11.301 --> 00:18:14.300
+<v haraldlesch>Die Horden Dschinghis Khans würden auf die Straße gehen überall auf der Welt,
+
+00:18:14.301 --> 00:18:20.300
+<v haraldlesch>was für ein Schwachsinn, was für ein Unsinn, wir haben hier auf unserem Planeten wirklich andere Probleme und so weiter.
+
+00:18:20.301 --> 00:18:23.000
+<v haraldlesch>Damals war das eine Geschichte…
+
+00:18:23.001 --> 00:18:26.500
+<v haraldlesch>Ich weiß, wenn ich die Zeiten an mich rankommen lasse, es gab ja auch Auseinandersetzungen,
+
+00:18:26.501 --> 00:18:32.300
+<v haraldlesch>gerade auch in Amerika bzw. von den USA selber, Vietnamkrieg und so weiter und so weiter,
+
+00:18:32.301 --> 00:18:43.200
+<v haraldlesch>es gab in Deutschland die 68er Revolten etc., und trotzdem war das so, dass die Fernsehbilder von diesen Raketen bzw. von den Landungen und alles was wir kriegen konnten,
+
+00:18:43.201 --> 00:18:47.100
+<v haraldlesch>die machten auf uns zum Beispiel einen unglaublich starken Eindruck.
+
+00:18:47.101 --> 00:18:50.900
+<v haraldlesch>Und der hat uns also enorm beflügelt.
+
+00:18:50.901 --> 00:18:57.100
+<v haraldlesch>Und dieses Beflügeln, dass es so ein großes Projekt gibt, an dem sehr sehr viele Menschen Interesse haben und auch teilnehmen,
+
+00:18:57.101 --> 00:19:02.400
+<v haraldlesch>also nicht nur Interesse haben so nach dem Motto, ah das ist aber interessant und dann wieder was anderes,
+
+00:19:02.401 --> 00:19:05.000
+<v haraldlesch>sondern wirklich da dran bleiben, dieses große Projekt gibt es nicht mehr.
+
+00:19:05.001 --> 00:19:13.900
+<v haraldlesch>Sondern was natürlich stattgefunden hat im Laufe der Zeit ist eine enorme …
+
+00:19:13.901 --> 00:19:17.300
+<v haraldlesch>wie soll ich es sagen, es sind Enttäuschungen passiert.
+
+00:19:17.301 --> 00:19:20.300
+<v haraldlesch>Also man hatte natürlich gehofft, dass aus der Wissenschaft viel viel mehr rauskommt,
+
+00:19:20.301 --> 00:19:25.800
+<v haraldlesch>stattdessen ist die Wissenschaft heute diejenige, die für erhebliche Veränderungen in unserem Alltag zuständig sind, die uns nicht passen.
+
+00:19:25.801 --> 00:19:32.500
+<v haraldlesch>Also zum Beispiel das Eindringen des Digitalen in unsere Welt, wo wir selber nur analoge Wesen sind.
+
+00:19:32.501 --> 00:19:41.400
+<v haraldlesch>Das Eindringen von extremem Zeitdruck, ausgelöst durch Technologie, mit der wir zwar zurechtkommen in Teilen, aber eben auch nicht.
+
+00:19:41.401 --> 00:19:52.600
+<v haraldlesch>Und wenn Sie sich anschauen, also wenn man so die Soziologie dieser Wissenschaftskritiker, dieser Verschwörungstheoretiker und Wissenschaftskritiker da anschaut, dann sind das fast alles Männer
+
+00:19:52.601 --> 00:20:02.000
+<v haraldlesch>und es sind fast alles Leute, die aus einer Zeit stammen, wo eben diese neuen Methoden, Instrumente und so weiter gar nicht zur Verfügung standen.
+
+00:20:02.001 --> 00:20:12.400
+<v haraldlesch>Und man muss tatsächlich befürchten, und das wäre eine schlimme Analyse bzw. ein schlimmes Ergebnis, dass sehr sehr viel von dem, was wir da heute erleben, was damit zu tun hat,
+
+00:20:12.401 --> 00:20:20.400
+<v haraldlesch>dass diese Männer vor allen Dingen sich in ihrer Lebensleistung so stark kritisiert fühlen, dass ihr Selbst davon betroffen ist, ein Identitätsproblem.
+
+00:20:20.401 --> 00:20:29.900
+<v haraldlesch>Also Ingenieure zum Beispiel, denen man jahrelang gepredigt hat, ihr müsst das und das machen, Männer und Frauen, für die Deutschland das Wunderland war, das Wirtschaftswunderland,
+
+00:20:29.901 --> 00:20:33.400
+<v haraldlesch>wo die Kamine geraucht haben, die Schornsteine geraucht haben, und denen erzählt man heute,
+
+00:20:33.401 --> 00:20:38.900
+<v haraldlesch>hört mal, das was ihr damals so gefeiert habt, das ist heute daran schuld, dass die Welt sich erwärmt.
+
+00:20:38.901 --> 00:20:40.100
+<v haraldlesch>Ist keine gute Sache.
+
+00:20:40.101 --> 00:20:48.200
+<v haraldlesch>Die Vorstellung von Symbolen, die alle so den Wohlstand dargestellt haben, ob es nun die Automobilmobilität ist oder welche Mobilität auch immer,
+
+00:20:48.201 --> 00:20:54.800
+<v haraldlesch>alles das wird heute von dieser Vorstellung, wir müssten eine Energietransformation vornehmen,
+
+00:20:54.801 --> 00:21:02.700
+<v haraldlesch>wir müssten, um den Klimawandel noch abzuwenden, unsere Lebensweise verändern, das ist ja asketisch.
+
+00:21:02.701 --> 00:21:07.500
+<v haraldlesch>Das ist ja eine Forderung, die von der Wissenschaft dargestellt wird, wie sie noch niemals in einer Gesellschaft formuliert worden ist.
+
+00:21:07.501 --> 00:21:10.900
+<v haraldlesch>Die Gesellschaft lebt von einer Wachstumsvorstellung.
+
+00:21:10.901 --> 00:21:20.700
+<v haraldlesch>Die Wachstumsvorstellung ist in uns Menschen eben so stark positiv besetzt, weil wir stammen aus einer Umgebung, in der eine größere Gruppe sicherer war als eine kleinere,
+
+00:21:20.701 --> 00:21:24.500
+<v haraldlesch>in der mehr Ressourcen zu besitzen besser war als weniger.
+
+00:21:24.501 --> 00:21:29.200
+<v haraldlesch>Das heißt Wachstum ist in uns ganz tief, fast schon genetisch angelegt als etwas gutes.
+
+00:21:29.201 --> 00:21:32.200
+<v haraldlesch>Jetzt heißt es auf einmal, jetzt ist Feierabend mit dem Wachstum.
+
+00:21:32.201 --> 00:21:41.200
+<v haraldlesch>Und das ist die erste Generation der Kritiker, die also gemerkt haben in den 70er und 80er Jahren, ups da kommt so was auf uns zu, das haben wir gar nicht gewusst.
+
+00:21:41.201 --> 00:21:46.800
+<v haraldlesch>Man muss das gar nicht zu weit treiben, aber der Club of Rome und die ökologische Bewegung, die dann gekommen ist,
+
+00:21:46.801 --> 00:21:53.800
+<v haraldlesch>die hat ja den gesamten Wissenschaftsbereich ganz schön in die Klemme genommen, weil da auf einmal was passiert ist, was vorher nie da war.
+
+00:21:53.801 --> 00:21:59.300
+<v haraldlesch>Es gab vorher … Wissenschaft hat immer die Vorstellung genährt, es geht immer weiter.
+
+00:21:59.301 --> 00:22:07.000
+<v haraldlesch>Das Einsetzen von Kernenergie zum Beispiel, da war doch, also man hat doch Vorstellungen gehabt, jeder hat demnächst seinen Kernreaktor im Garten und so weiter.
+
+00:22:07.001 --> 00:22:10.000
+<v haraldlesch>Und das waren Nobelpreisträger, die das angetrieben haben.
+
+00:22:10.001 --> 00:22:19.000
+<v haraldlesch>Man stelle sich mal vor, wir hätten uns in den 50er Jahren für Windenergie in Deutschland entschieden, statt für Kernenergie, man stelle sich das mal vor.
+
+00:22:19.001 --> 00:22:25.900
+<v haraldlesch>Denn es hat sich jetzt rausgestellt in einer wissenschaftlichen Untersuchung, Achtung (Ironie) es gab schon Wind vor den Windrädern, man hätte das machen können.
+
+00:22:25.901 --> 00:22:27.400
+<v haraldlesch>Es gab auch schon Sonne vor der …
+
+00:22:27.401 --> 00:22:29.000
+<v timpritlove>Ja wollte ich gerade sagen, und Wasser.
+
+00:22:29.001 --> 00:22:39.600
+<v haraldlesch>Es war schon alles da, es war alles da und trotzdem haben wir uns aus irgendwelchen Gründen für eine Technologie entschieden, wo von Vornherein klar war, das gibt riesige Probleme, weil wir nicht wissen, wohin mit dem Müll.
+
+00:22:39.601 --> 00:22:46.500
+<v haraldlesch>Da war dann die Vorstellung, man könne diesen Müll irgendwie zerschlagen und könne diese langlebigen Isotope, also den radioaktiven Müll,
+
+00:22:46.501 --> 00:22:54.600
+<v haraldlesch>der über Jahrzehntausende zerfällt, den zerschlägt man, dann hat man nur noch ein paar Jährchen und dann kann man das Zeug womöglich sogar wieder in den Reaktor reinschmeißen.
+
+00:22:54.601 --> 00:22:58.400
+<v haraldlesch>Also das war ja Wahnsinn, was da für eine Wissenschaftsgläubigkeit drin ist.
+
+00:22:58.401 --> 00:23:06.400
+<v haraldlesch>Und wenn Sie sich anschauen, wer heutzutage sich mit dem Klima bei den Klimaskeptikern drin ist, dann sind das Menschen, die genau in dieser Zeit sozialisiert worden sind.
+
+00:23:06.401 --> 00:23:10.400
+<v haraldlesch>Die haben das so richtig vollständig mitgekriegt, das muss doch technologisch möglich sein.
+
+00:23:10.401 --> 00:23:12.900
+<v haraldlesch>Und denken Sie nur an die Sache mit dem Geo-Ingeneering.
+
+00:23:12.901 --> 00:23:19.100
+<v haraldlesch>Es gibt ja, also dass man das heute noch weiter treibt, es gibt ja durchaus wissenschaftliche Kreise, die sagen, ja das mit dem Klimawandel das kriegen wir schon irgendwie hin.
+
+00:23:19.101 --> 00:23:28.300
+<v haraldlesch>Da machen wir zwischen Sonne und Erde machen wir so ein bisschen Metallstaub und dann schießen wir irgendwas in die Atmosphäre oder einen Spiegel zwischen Sonne…
+
+00:23:28.301 --> 00:23:30.800
+<v haraldlesch>Also es werden ja haarsträubende Projekte werden da …
+
+00:23:30.801 --> 00:23:37.600
+<v haraldlesch>Das ist dieses ingenieurhafte Denken, man könne die Welt schon irgendwie vollständig berechnen und das wird eben enttäuscht.
+
+00:23:37.601 --> 00:23:43.400
+<v haraldlesch>Das wird enttäuscht durch Reaktionen in der Natur, die wir überhaupt nicht auf dem Schirm haben.
+
+00:23:43.401 --> 00:23:48.400
+<v haraldlesch>Also wenn der blöde Trump zum Beispiel sagt, ja wo ist er denn der Klimawandel, wenn man ihn braucht?
+
+00:23:48.401 --> 00:23:53.300
+<v haraldlesch>Nur weil es in Amerika mal richtig geschneit hat im Winter, und zwar heftig, der schlimmste Schneesturm aller Zeiten,
+
+00:23:53.301 --> 00:23:56.500
+<v haraldlesch>da müsste man ihm sagen, pass mal auf Donald, ich erkläre dir jetzt mal wie das geht.
+
+00:23:56.501 --> 00:23:59.100
+<v haraldlesch>Jetzt bleibst du hier so lange sitzen, bis du verstanden hast, wovon ich gesprochen habe.
+
+00:23:59.101 --> 00:24:03.700
+<v haraldlesch>Das ist nämlich genau das, was du da draußen siehst, das ist der Klimawandel, haben wir es?
+
+00:24:03.701 --> 00:24:08.800
+<v haraldlesch>Dann sage ich es dir nochmal, und nochmal, und nochmal, und zwar so lange, bis er begriffen hat, worum es geht.
+
+00:24:08.801 --> 00:24:24.300
+<v haraldlesch>Weil wir sind da in einer Form jetzt einer Form von einer Ignoranz gegenüberstehend, die natürlich damit zu tun hat, dass etliche dieser Leute es irgendwie nicht hinkriegen zu verstehen, was Wissenschaft tut,
+
+00:24:24.301 --> 00:24:25.600
+<v haraldlesch>was Wissenschaft eigentlich will.
+
+00:24:25.601 --> 00:24:29.000
+<v haraldlesch>Also wenn Sie mich vorhin gefragt haben, was machen wir hier eigentlich?
+
+00:24:29.001 --> 00:24:37.100
+<v haraldlesch>Dann hat das natürlich damit zu tun, das hier ist heutzutage eine reine Wahrheitssucheeinrichtung.
+
+00:24:37.101 --> 00:24:37.700
+<v haraldlesch>Wir sind keine …
+
+00:24:37.701 --> 00:24:38.200
+<v timpritlove>Die Sternwarte?
+
+00:24:38.201 --> 00:24:38.800
+<v haraldlesch>Die Sternwarte.
+
+00:24:38.801 --> 00:24:43.700
+<v haraldlesch>Wir sind keine Einrichtung, die jetzt irgendein ökonomisches Ziel verfolgt.
+
+00:24:43.701 --> 00:24:45.200
+<v haraldlesch>Wir brauchen aber Geld.
+
+00:24:45.201 --> 00:24:47.100
+<v haraldlesch>Also die Teleskope in der Astronomie sind teuer.
+
+00:24:47.101 --> 00:24:54.800
+<v haraldlesch>Das heißt, wir müssen aus einer ganz anderen einer idealistischen Ebene müssen wir kommen und müssen dann eben Geldgeber davon überzeugen, dass es sinnvoll ist, das zu tun.
+
+00:24:54.801 --> 00:24:57.600
+<v haraldlesch>Bei der Elementarteilchenphysik ist es ganz ähnlich.
+
+00:24:57.601 --> 00:25:03.600
+<v haraldlesch>Also die Beschleunigung von Teilchen in 27 Kilometer langen Ringbeschleunigern, um dann rauszufinden, ob es das Higgs-Teilchen nun gibt oder nicht,
+
+00:25:03.601 --> 00:25:07.100
+<v haraldlesch>da kann man sagen, ja mein Gott, das ist doch völlig Wurscht.
+
+00:25:07.101 --> 00:25:08.700
+<v haraldlesch>Nein es ist nicht völlig Wurscht.
+
+00:25:08.701 --> 00:25:15.700
+<v haraldlesch>Also zumindest in dieser idealistischen Vorstellung, dass wir eine rationale Auseinandersetzung mit der Wirklichkeit vornehmen.
+
+00:25:15.701 --> 00:25:24.200
+<v haraldlesch>Und diese rationale Auseinandersetzung, die wissenschaftliche Auseinandersetzung, die hat ja eine gewisse Methode.
+
+00:25:24.201 --> 00:25:30.900
+<v haraldlesch>Diese Methode besteht darin, eine empirische Hypothese muss an der Erfahrung scheitern können.
+
+00:25:30.901 --> 00:25:38.700
+<v haraldlesch>Also es muss ein Experiment möglich sein, eine Beobachtung möglich sein, die die Prognose einer Hypothese überprüfbar macht.
+
+00:25:38.701 --> 00:25:39.600
+<v haraldlesch>So geht das bei uns.
+
+00:25:39.601 --> 00:25:48.000
+<v haraldlesch>Und dann ist die Guillotine, das Experiment ist sozusagen die Guillotine, die, wenn es schlimm läuft für die Theorie, dann hat sie Pech gehabt, dann verschwindet sie.
+
+00:25:48.001 --> 00:25:56.700
+<v haraldlesch>Aber wenn sie gut ist, dann wird die Guillotine nicht fallen, dann wird nämlich die Vorhersage bestätigt und wieder bestätigt, dass die Gravitationswellenmessung jetzt,
+
+00:25:56.701 --> 00:26:00.200
+<v haraldlesch>das muss man sich mal auf der Zunge zergehen lassen, was wir da gemacht haben.
+
+00:26:00.201 --> 00:26:10.000
+<v haraldlesch>Wir bauen 4 Kilometer lange Laser, einen Interferometer und bringen die also zu einer konstruktiven und destruktiven Interferenz des Lichtes.
+
+00:26:10.001 --> 00:26:12.900
+<v haraldlesch>Interferenz ist die Überlagerung von Licht, wunderbar.
+
+00:26:12.901 --> 00:26:22.700
+<v haraldlesch>Die Vorstellung ist also, dass ein durch irgendeine aus weiter Ferne ausgelöste Verschmelzung von schwarzen Löchern die Raumzeit so schwingt,
+
+00:26:22.701 --> 00:26:32.300
+<v haraldlesch>dass dieses ständig aufgebaute Interferenzmuster, was nichts anderes ist im Prinzip als weiße und helle und dunkle Streifen, ein wenig verrückt wird.
+
+00:26:32.301 --> 00:26:36.300
+<v haraldlesch>Also nicht verrückt im Sinne von psychiatrisch verrückt, sondern verschoben wird.
+
+00:26:36.301 --> 00:26:42.200
+<v haraldlesch>Und das um ein tausendstel Protonenradius.
+
+00:26:42.201 --> 00:26:47.600
+<v haraldlesch>Das muss man sich wirklich mal in der Hirnrinde allmählich vorstellen, was das eigentlich bedeutet.
+
+00:26:47.601 --> 00:26:52.000
+<v haraldlesch>Da verschmelzen schwarze Löcher, die ja an sich schon den Rand der erkennbaren Wirklichkeit darstellen,
+
+00:26:52.001 --> 00:26:57.100
+<v haraldlesch>in der Entfernung von 1,3 Milliarden Lichtjahren, das ist also schon lange her.
+
+00:26:57.101 --> 00:27:11.000
+<v haraldlesch>Und dann läuft diese Gravitationswelle durchs Universum mit Lichtgeschwindigkeit und löst einmal im Staate Washington und einmal im Staate Louisiana eine Längenveränderung in einem Laserinterferometer von einem tausendstel Protonenradius aus.
+
+00:27:11.001 --> 00:27:12.900
+<v haraldlesch>Wupp, Wahnsinn.
+
+00:27:12.901 --> 00:27:20.000
+<v haraldlesch>Anstatt auf die Knie zu gehen, dem Herrn zu danken oder wem auch immer, nichts.
+
+00:27:20.001 --> 00:27:26.100
+<v haraldlesch>Dann glauben diese Figuren eben, wenn man ihnen dann erklärt, weißt du eigentlich, wie klein ein Atomkern im Vergleich zum Atom ist?
+
+00:27:26.101 --> 00:27:35.400
+<v haraldlesch>Der ist so groß wie das Reiskorn im Anstoßpunkt des Mittelkreises eines Fußballstadions und das Atom ist der äußerste Rand dieses Stadions.
+
+00:27:35.401 --> 00:27:43.100
+<v haraldlesch>Und jetzt willst du mir sagen, nachdem wir also das Reiskorn so genau vermessen können, ein Tausendstel von diesem Reiskorn, willst du mir sagen,
+
+00:27:43.101 --> 00:27:49.000
+<v haraldlesch>dass die Moleküle, die so groß sind wie ein ganzer Landkreis im Vergleich zu einem Bundesliga-Stadion, dass wir die Molekülphysik nicht verstehen,
+
+00:27:49.001 --> 00:27:52.600
+<v haraldlesch>wenn es darum geht, wie Moleküle Infrarotstrahlung absorbiert und emittiert.
+
+00:27:52.601 --> 00:27:53.800
+<v haraldlesch>Das willst du mir erzählen?
+
+00:27:53.801 --> 00:27:55.300
+<v haraldlesch>Das kann doch nicht wahr sein.
+
+00:27:55.301 --> 00:27:56.900
+<v haraldlesch>Ja, das wäre ja was ganz anderes.
+
+00:27:56.901 --> 00:28:00.700
+<v haraldlesch>Nein, es ist eben nichts anderes, du Rindvieh.
+
+00:28:00.701 --> 00:28:02.500
+<v haraldlesch>Habe ich natürlich nicht gesagt.
+
+00:28:02.501 --> 00:28:10.400
+<v haraldlesch>Weil diese Einheit der Natur, die dahinter steckt, das wird dann eben von diesen Verschwörern oder von diesen Skeptikern nicht wahrgenommen.
+
+00:28:10.401 --> 00:28:18.400
+<v haraldlesch>Was es eigentlich bedeutet, an den verschiedenen Theorieteilen irgendwie rumzumeckern und zu sagen, das kann ja nicht richtig sein.
+
+00:28:18.401 --> 00:28:25.200
+<v haraldlesch>Und deswegen glaube ich wirklich, dass dieser ingenieurhafte Blick, ihn den Ingenieurinnen und Ingenieuren irgendwas böses zu wollen,
+
+00:28:25.201 --> 00:28:33.000
+<v haraldlesch>dieser einfache Blick einer einfach Mathematik von so einem einfachen Ursache-Wirkungs-Zusammenhang, das haben wir so sehr in uns aufgenommen,
+
+00:28:33.001 --> 00:28:42.100
+<v haraldlesch>dass alle Abweichungen davon, die von uns zum Beispiel verlangen, bedenke doch mal, wenn du das tust, welche Konsequenzen hätte denn das dann dafür?
+
+00:28:42.101 --> 00:28:50.300
+<v haraldlesch>Und was würde das bedeuten, wenn also diese Kreisprozesse, diese Prozessketten, die da ablaufen,
+
+00:28:50.301 --> 00:28:53.200
+<v haraldlesch>das können wir nur ganz schwer kommunizieren.
+
+00:28:53.201 --> 00:28:58.200
+<v haraldlesch>Und deswegen muss man - da komme ich wieder auf meinen Anfangspunkt zurück, muss man das Persönliche treffen.
+
+00:28:58.201 --> 00:29:09.500
+<v haraldlesch>Man muss jemanden so treffen, dass er die ganze Zeit total begeistert zuhört und dabei sozusagen von hinten durch die Brust ins Auge, so ganz Pädagoge, Pädagoge, Pädagoge, schiebe ich ihm das so unter die Großhirnrinde.
+
+00:29:09.501 --> 00:29:16.900
+<v haraldlesch>Und wenn ich das gut mache, dann wird er sagen, ja da haben Sie natürlich völlig recht, stimmt ja.
+
+00:29:16.901 --> 00:29:19.300
+<v haraldlesch>Und das treibt mich dann schon auch um ja.
+
+00:29:19.301 --> 00:29:27.000
+<v timpritlove>Das ist also eine Feinfühligkeit, die man quasi als Wissenschaftler oder vielleicht auch sonst, wenn man die Welt ein wenig mehr verstanden hat als andere,
+
+00:29:27.001 --> 00:29:29.500
+<v haraldlesch>auch noch zusätzlich erlernen muss.
+
+00:29:29.501 --> 00:29:31.300
+<v timpritlove>Funktioniert das denn auch in der Politik?
+
+00:29:31.301 --> 00:29:37.000
+<v haraldlesch>(lacht) Da habe ich keine Ahnung, ich bin ja nicht in der Politik.
+
+00:29:37.001 --> 00:29:44.100
+<v haraldlesch>Ich berate zwar als bayrischer Klimarat hier in Bayern viele Leute, wenn es um Energiewende und Klimawandel geht,
+
+00:29:44.101 --> 00:29:52.200
+<v haraldlesch>aber man muss natürlich sehen, dass diese Rationalität, die in den Wissenschaften gefordert, eine andere Rationalität als in der Politik oder in der Ökonomie.
+
+00:29:52.201 --> 00:30:02.700
+<v haraldlesch>Und ich glaube, dass das immer wieder auch zu enormen Kontroversen führt, weil die Art und Weise, wie wir in den Wissenschaften „funktionieren“, was wir machen, was wir wollen,
+
+00:30:02.701 --> 00:30:07.200
+<v haraldlesch>das verfolgt ganz andere Ziele als das was in der Ökonomie wichtig ist.
+
+00:30:07.201 --> 00:30:13.100
+<v haraldlesch>Ich habe im März 2017 einen Satz gelesen in einer britischen Zeitung, da sagte jemand,
+
+00:30:13.101 --> 00:30:20.000
+<v haraldlesch>„Don’t be carried away with humanistic philosophy. Like it or not, our only objective is to defend the interests of the shareholder“.
+
+00:30:20.001 --> 00:30:21.900
+<v haraldlesch>Und damit war die Sache beendet.
+
+00:30:21.901 --> 00:30:26.200
+<v haraldlesch>So damit könnte man eigentlich jeden Vortrag über Energiewende, Klimaschutz, Umweltschutz kann man damit anfangen.
+
+00:30:26.201 --> 00:30:28.900
+<v timpritlove>Also kurz gesagt, humanistische Prinzipien sind egal.
+
+00:30:28.901 --> 00:30:29.400
+<v timpritlove>Es geht hier um Aktien und Dividenden.
+
+00:30:29.401 --> 00:30:33.200
+<v haraldlesch>Vergiss es, hier geht es ums Geld und Ende der Durchsage.
+
+00:30:33.201 --> 00:30:39.500
+<v haraldlesch>Und diese ökonomische Rationalität führt eben genau dazu, dass wir ja eben inzwischen große Experimente machen.
+
+00:30:39.501 --> 00:30:48.600
+<v haraldlesch>Und da kann ich als Astronom sozusagen auch immer wieder nur sagen, da sollten wir verdammt vorsichtig sein, wenn wir uns anschauen, wie viele Planetensysteme es gibt,
+
+00:30:48.601 --> 00:30:53.700
+<v haraldlesch>wie offenbar es doch selten so eine Variation ist, wie wir sie hier im Sonnensystem haben.
+
+00:30:53.701 --> 00:30:58.700
+<v haraldlesch>Und ich unterrichte eben auch Philosophie, also Wissenschaftsphilosophie und dann benutze ich gerne dieses Bild,
+
+00:30:58.701 --> 00:31:08.800
+<v haraldlesch>wissen Sie, diese ökonomische Rationalität führt dazu, dass wir die Vergangenheit zur Gegenwart machen, indem wir uralten Kohlenstoff aus dem Boden holen und ihn dann für irgendwas verwenden und dann in die Atmosphäre entlassen.
+
+00:31:08.801 --> 00:31:11.500
+<v haraldlesch>Das ist so ein Jurassic Park Experiment mit Molekülen.
+
+00:31:11.501 --> 00:31:14.200
+<v haraldlesch>Das ist uraltes Zeug, das wäre dort nie rausgekommen, wenn wir es nicht rausgeholt hätten.
+
+00:31:14.201 --> 00:31:19.700
+<v haraldlesch>Wir brechen sogar den Boden auf, Frackness(?) auf, um das Zeug da raus zu pressen mit aller Gewalt.
+
+00:31:19.701 --> 00:31:27.800
+<v haraldlesch>Und auf der anderen Seite machen wir aber auch die Zukunft zur Gegenwart, indem nämlich genau diese Shareholder diesen Return of Invest so nah wie möglich an der Gegenwart haben wollen.
+
+00:31:27.801 --> 00:31:33.200
+<v haraldlesch>Das heißt, was wir hier versuchen ist, nachdem wir jetzt den Raum irgendwie die ganze Zeit beherrscht haben, wollen wir jetzt die Zeit beherrschen.
+
+00:31:33.201 --> 00:31:36.100
+<v haraldlesch>Zeitbeherrschung ist das A und das O.
+
+00:31:36.101 --> 00:31:44.200
+<v haraldlesch>Ob wir bei der Selfquantifying-Bewegung sind, also die Leute, die unbedingt noch, ich will aber meine Lebenszeit verlängern, indem ich noch mehr laufe oder sonst irgendwas.
+
+00:31:44.201 --> 00:31:53.100
+<v haraldlesch>Die Digitalisierung ist eine Beherrschung, der Versuch, Zeit zu komprimieren, immer mehr Tätigkeiten in immer kleinere Zeiteinheiten reinzupressen.
+
+00:31:53.101 --> 00:31:58.000
+<v haraldlesch>Also wir versuchen, unsere Beherrschungssucht eben auf alle Dimensionen auszureizen.
+
+00:31:58.001 --> 00:32:00.100
+<v haraldlesch>Und die Politik muss da mit.
+
+00:32:00.101 --> 00:32:09.800
+<v haraldlesch>Also offenbar ist sie nicht in der Lage, die Rahmenbedingungen für ökonomische Rationalität so eng zu ziehen, dass eben die zum Beispiel die Art und Weise, wie wir Rohstoffe verschwenden,
+
+00:32:09.801 --> 00:32:16.000
+<v haraldlesch>wie wir Ressourcen insgesamt verschwenden, auch die Ressource Mensch immer mehr und mehr verschwenden, wie man das eindämmen kann.
+
+00:32:16.001 --> 00:32:20.200
+<v haraldlesch>Stattdessen geht es im Wesentlichen darum, die Ressource Geld eben zu vergrößern.
+
+00:32:20.201 --> 00:32:26.800
+<v haraldlesch>Und dann auch noch so zu verändern, dass nur wenigen das wirklich zugute kommt und ein erheblicher Teil dann abgehängt wird,
+
+00:32:26.801 --> 00:32:34.600
+<v haraldlesch>was also in der politischen Rationalität offenbar, obwohl wir ja alle in den demokratischen Ländern Warnsysteme haben, wo es immer so schön heißt, one man one vote,
+
+00:32:34.601 --> 00:32:36.900
+<v haraldlesch>wo man sagen muss, das stimmt doch nicht mehr.
+
+00:32:36.901 --> 00:32:43.400
+<v haraldlesch>Wir haben eben hier eine sehr starke Beeinflussung, wo man dann eher den Eindruck haben kann, wir sind im guten alten preußischen 3-Klassen-Wahlrecht wieder angekommen,
+
+00:32:43.401 --> 00:32:47.500
+<v haraldlesch>dass die Reichen deutlich mehr Stimmen haben bei einer Wahl als die Armen,
+
+00:32:47.501 --> 00:32:54.800
+<v haraldlesch>obwohl in der Zahl natürlich wissen wir ganz genau hat auch ein CEO eines deutschen DAX-Unternehmens nur eine Stimme.
+
+00:32:54.801 --> 00:33:02.600
+<v haraldlesch>Aber wenn der bei der Kanzlerin vorrollt oder bei irgendwelchen anderen Leuten, dann wird dem der rote Teppich ausgerollt und dann vertritt der offenbar noch viel mehr,
+
+00:33:02.601 --> 00:33:09.400
+<v haraldlesch>also er ist ein Repräsentant in einer repräsentativen Demokratie, ohne aber dabei Bevölkerung zu repräsentieren.
+
+00:33:09.401 --> 00:33:21.100
+<v haraldlesch>Vertritt da anonyme Shareholder, also Teilhaber und denen wird offenbar teilweise doch erheblich mehr Bedeutung zugesprochen als den Leuten, die in diesem Land leben und ordentlich Steuern zahlen
+
+00:33:21.101 --> 00:33:26.500
+<v haraldlesch>und noch nicht in irgendwelchen Steuerflüchtlingsparadiesen auf irgendeine Insel zurück verschwunden sind.
+
+00:33:26.501 --> 00:33:29.800
+<v haraldlesch>Das heißt, wir als Wissenschaftler können eigentlich immer nur eine Ebene anbieten,
+
+00:33:29.801 --> 00:33:35.600
+<v haraldlesch>nämlich den wissenschaftlichen Blick auf die Welt, um damit Risiken zu erkennen.
+
+00:33:35.601 --> 00:33:41.700
+<v haraldlesch>Kausalität im Sinne von Ursache-Wirkungs-Zusammenhängen liefert uns die Möglichkeiten, Risiken zu erkennen.
+
+00:33:41.701 --> 00:33:53.300
+<v haraldlesch>Das ist schon schwierig genug, wenn es bedeutet, wenn man Wissenschaft braucht, um Risiko zu erkennen, dann ist das für weite Teile der Bevölkerung eine Vertrauenssache den Wissenschaftlerinnen und Wissenschaftlern nämlich zu glauben, dass sie ein Risiko erkannt haben.
+
+00:33:53.301 --> 00:34:03.400
+<v haraldlesch>Aber wie das bewertet wird, also ob das ein großes Risiko ist oder ein kleines, ob das ein wichtiges oder unwichtiges ist, das hängt gar nicht von den Kenntnissen der Wissenschaft ab,
+
+00:34:03.401 --> 00:34:07.200
+<v haraldlesch>sondern hängt davon ab, wie eine Gesellschaft ihre eigene Zukunft sieht.
+
+00:34:07.201 --> 00:34:10.500
+<v haraldlesch>Weil Risiko bedeutet ja, das ist eine Zukunft, die ich nicht haben will.
+
+00:34:10.501 --> 00:34:14.500
+<v haraldlesch>Dieses Risiko soll bitte nicht eintreten, damit ist es eine Zukunft, die ich nicht haben will.
+
+00:34:14.501 --> 00:34:18.900
+<v haraldlesch>Aber ich brauche eine positive Vorstellung von Zukunft, die ich haben will, damit ich weiß, was ich nicht haben will.
+
+00:34:18.901 --> 00:34:21.800
+<v haraldlesch>Und das geht uns natürlich völlig verloren.
+
+00:34:21.801 --> 00:34:28.100
+<v haraldlesch>Politik hat heutzutage eher so den Charakter, ich sage das immer gern so, Samstagnachmittags nach der Bundesliga,
+
+00:34:28.101 --> 00:34:33.600
+<v haraldlesch>da werden ja dann die Trainer und Spieler gefragt und so weiter und vor allen Dingen wenn eine Mannschaft 3-4 mal gewonnen hat, dann heißt es ja immer,
+
+00:34:33.601 --> 00:34:35.400
+<v haraldlesch>ja denken Sie nicht schon mal an die Meisterschaft?
+
+00:34:35.401 --> 00:34:38.700
+<v haraldlesch>Nö nö nö, nach dem Spiel ist vor dem Spiel.
+
+00:34:38.701 --> 00:34:40.200
+<v haraldlesch>Und so sind die Politiker doch alle geworden inzwischen.
+
+00:34:40.201 --> 00:34:45.200
+<v haraldlesch>Wir haben Manager, die machen das und nach der Wahl ist vor der Wahl oder nach der Sitzung ist vor der Sitzung.
+
+00:34:45.201 --> 00:34:53.800
+<v haraldlesch>Die sind alle in so einem Zeitbrei drin, und da sie sich selber gar nicht mehr besonders starken Ritualen zugehörig fühlen, auch nicht irgendwelchen Gruppen, sie managen halt.
+
+00:34:53.801 --> 00:34:58.100
+<v haraldlesch>Und die Austauschbarkeit dieser Figuren ist leider Gottes ja schon ziemlich deutlich.
+
+00:34:58.101 --> 00:35:10.300
+<v haraldlesch>Das heißt, wir kommen in der Politik leider in den Zustand, wo die Typen, die wir in den Wissenschaften haben, also Menschen, die sehr lange gebraucht haben, um zu dieser wissenschaftlichen Persönlichkeit zu werden,
+
+00:35:10.301 --> 00:35:14.600
+<v haraldlesch>die treffen auf Politiker, die praktisch pausenlos austauschbar sind.
+
+00:35:14.601 --> 00:35:17.200
+<v timpritlove>Aber war es denn schon mal anders?
+
+00:35:17.201 --> 00:35:18.800
+<v haraldlesch>Ja es war schon mal anders.
+
+00:35:18.801 --> 00:35:24.400
+<v haraldlesch>Also unter Kanzler Schmidt zum Beispiel gab es einen deutlich stärkeren Einfluss der wissenschaftlichen Community auf die Regierung,
+
+00:35:24.401 --> 00:35:31.800
+<v haraldlesch>namentlich auch auf den Kanzler selber, der da ganz erheblich mit geholfen hat, zum Beispiel wissenschaftliche Organisationen mit auszubauen.
+
+00:35:31.801 --> 00:35:44.200
+<v haraldlesch>Da gab es eine deutlich bessere Beziehung und es gab natürlich auch eine bessere Beziehung deshalb, weil die Aussichten, die Wissenschaften in Form von technischer Form dargestellt haben, besser waren.
+
+00:35:44.201 --> 00:35:45.700
+<v haraldlesch>Heutzutage bieten die Wissenschaft …
+
+00:35:45.701 --> 00:35:53.900
+<v haraldlesch>also es gibt die einen, die schreien nach Digitalisierung first, Bedenken second, was ich persönlich als einen Angriff auf meine Vernunft betrachte, muss ich ganz ehrlich sagen.
+
+00:35:53.901 --> 00:35:56.200
+<v haraldlesch>Also da bin ich stinksauer drüber.
+
+00:35:56.201 --> 00:36:01.400
+<v haraldlesch>Und dann gibt es die anderen, die nur von Digitalisierung reden, die aber gar nicht wissen wovon sie sprechen.
+
+00:36:01.401 --> 00:36:08.500
+<v haraldlesch>Wenn ich einen Vortrag über den Homo Digitalis halte, frage ich immer, kann hier irgendjemand programmieren, weiß hier irgendjemand wie ein Computer funktioniert?
+
+00:36:08.501 --> 00:36:14.100
+<v haraldlesch>Was der Unterschied zwischen Alkoholiker und Algorithmus und so weiter, also nur mal für Spaß jetzt, damit überhaupt mal klar wird, worüber wir hier reden.
+
+00:36:14.101 --> 00:36:16.000
+<v haraldlesch>Das ist die eine Sache.
+
+00:36:16.001 --> 00:36:18.800
+<v haraldlesch>Die unglaubliche Chancen in diesen Dingen sehen.
+
+00:36:18.801 --> 00:36:26.000
+<v haraldlesch>Und dann gibt es eben die anderen, die aus jeder technischen Entwicklung sofort eine Apokalypse ableiten, also was passiert denn hier eigentlich?
+
+00:36:26.001 --> 00:36:36.400
+<v haraldlesch>Und dazwischen gibt es kaum noch irgendwie und da haben Sie völlig recht, wenn Sie vorhin gesagt haben, das sind alles solche abgeschlossenen Meinungsbildungssituationen,
+
+00:36:36.401 --> 00:36:45.000
+<v haraldlesch>in denen die Leute sich ja eben gegenseitig dann in ihren Meinungen noch unterstützen und kaum noch mit dem Gegner oder dem Andersdenkenden dann mal diskutieren
+
+00:36:45.001 --> 00:36:50.400
+<v haraldlesch>und möglicherweise auch in ihrer eigenen Meinung sich dann vielleicht wenigstens korrigieren.
+
+00:36:50.401 --> 00:36:52.800
+<v haraldlesch>Müssen ja gar nicht gleich einen ganzen Schwenk machen, aber korrigieren.
+
+00:36:52.801 --> 00:36:54.400
+<v haraldlesch>Das findet leider nicht mehr statt.
+
+00:36:54.401 --> 00:37:01.600
+<v haraldlesch>Und wir hatten in anderen Zeiten, unter anderem auch deshalb, weil vieles langsamer gegangen ist, andere Diskursformen.
+
+00:37:01.601 --> 00:37:09.100
+<v haraldlesch>Diskursformen, die sehr sehr stark auf dem ganz normalen Gespräch, so wie wir beide das jetzt machen, aus war.
+
+00:37:09.101 --> 00:37:13.800
+<v haraldlesch>Heutzutage gibt es Diskursformen, die sind ganz kurz, das sind diese berühmten Tweets, die stattfinden.
+
+00:37:13.801 --> 00:37:17.500
+<v haraldlesch>Es gibt Diskursformen von langen Monologen über das Internet, die stattfinden.
+
+00:37:17.501 --> 00:37:23.100
+<v haraldlesch>Ich meine, wo hätte man denn früher einen langen Monolog absetzen können ohne Internet, wo hätte man das machen sollen?
+
+00:37:23.101 --> 00:37:24.700
+<v timpritlove>Im Brief.
+
+00:37:24.701 --> 00:37:29.500
+<v haraldlesch>Genau. Aber es gibt viele Leute, die monologisieren gerne, aber die können nicht richtig schreiben, würde ich sagen.
+
+00:37:29.501 --> 00:37:30.400
+<v haraldlesch>Also wer schreibt lange Briefe?
+
+00:37:30.401 --> 00:37:31.600
+<v haraldlesch>Das war früher schon ein Problem.
+
+00:37:31.601 --> 00:37:34.700
+<v haraldlesch>Die, die es taten, die haben tatsächlich auch …
+
+00:37:34.701 --> 00:37:40.600
+<v haraldlesch>da gibt es große Beispiele dafür, dass Politiker und Intellektuelle sich per Brief ausgetauscht haben,
+
+00:37:40.601 --> 00:37:47.900
+<v haraldlesch>weil dann natürlich das schöne war, wenn ein Brief kam, dann hat man den gelesen und konnte sich Zeit lassen mit der Antwort.
+
+00:37:47.901 --> 00:37:53.700
+<v haraldlesch>Wenn Sie heutzutage eine Email kriegen und die nicht gleich beantworten, kann es Ihnen passieren, dass Sie angerufen werden,
+
+00:37:53.701 --> 00:37:57.700
+<v haraldlesch>hör mal, ich habe dir gerade eben eine Email geschickt, du hast noch gar nicht reingeguckt, kannst du nicht mal und so weiter.
+
+00:37:57.701 --> 00:38:09.400
+<v haraldlesch>Ich muss an dieser Stelle mal darauf hinweisen, dass diese Art von Kommunikationsgeräten, die wir heutzutage alle mit uns führen, die hatten früher nur Intensivmediziner am Gürtel.
+
+00:38:09.401 --> 00:38:12.300
+<v haraldlesch>Also Leute, bei denen es um Leben und Tod ging.
+
+00:38:12.301 --> 00:38:23.400
+<v haraldlesch>Heutzutage ist die gesamte Gesellschaft in einem Ausmaß durch diese Kommunikationsgeräte hysterisiert, dass offenbar alles was passiert, also jede Vibration in der Hose muss sofort irgendwie beantwortet werden,
+
+00:38:23.401 --> 00:38:26.700
+<v haraldlesch>weil das ist irgendein Kommunikationsakt, der da stattfindet.
+
+00:38:26.701 --> 00:38:32.400
+<v haraldlesch>Und die Frequenz der Kommunikationsakte hat zugenommen, die Intensität der Kommunikationsakte hat abgenommen,
+
+00:38:32.401 --> 00:38:37.300
+<v haraldlesch>das könnte vielleicht ein Erhaltungssatz sein, das weiß ich noch nicht so genau.
+
+00:38:37.301 --> 00:38:48.200
+<v haraldlesch>Und damit ist es eben zum Beispiel ganz banal, der Terminkalender eines Politikers heutzutage ist so voll, und zwar nicht unbedingt, weil er oder sie irgendwo hin muss,
+
+00:38:48.201 --> 00:38:52.800
+<v haraldlesch>sondern weil er oder sie an irgendwelchen Skype- oder sonstigen Meetings teilnehmen muss,
+
+00:38:52.801 --> 00:38:59.400
+<v haraldlesch>dass eine lange Auseinandersetzungen mit einer Gruppe von Leuten, die was erklären wollen, fast überhaupt nicht mehr möglich ist.
+
+00:38:59.401 --> 00:39:06.600
+<v haraldlesch>Es ist ein Wunder, dass sich überhaupt noch irgendjemand findet, der diesen politischen Wahnsinn und diesen Zeitwahnsinn sich da antut, weil schön ist das nicht mehr.
+
+00:39:06.601 --> 00:39:15.000
+<v haraldlesch>Man hat immer jemanden neben sich, das habe ich also jetzt selber mal beobachtet, neben sich, es gibt immer eine Person, die dann der Politikerin oder dem Politiker sagt, wo er gerade ist,
+
+00:39:15.001 --> 00:39:17.600
+<v haraldlesch>wie viel Uhr es gerade ist und was er gerade macht.
+
+00:39:17.601 --> 00:39:21.900
+<v haraldlesch>Da wird also eine Rede zugeschoben.
+
+00:39:21.901 --> 00:39:24.700
+<v timpritlove>Sie sind in Mannheim.
+
+00:39:24.701 --> 00:39:28.300
+<v haraldlesch>Ja, Sie sind in Mannheim und wir müssen aber nachher noch nach Idar Oberstein und denken Sie dran, das ist ... und so weiter.
+
+00:39:28.301 --> 00:39:35.000
+<v haraldlesch>Und dann kommen die irgendwann nach Hause, sind völlig ausgepumpt und morgens um 6:30 Uhr steht der Chauffeur schon wieder vor der Tür und sagt,
+
+00:39:35.001 --> 00:39:40.500
+<v haraldlesch>ja also dann … oder der Assistent oder die Assistentin natürlich auch, wir müssen jetzt nach Hof und von Hof nach Berlin
+
+00:39:40.501 --> 00:39:43.400
+<v haraldlesch>und heute Abend müssen Sie aber in München noch einen Vortrag halten.
+
+00:39:43.401 --> 00:39:49.100
+<v timpritlove>Ja die Wiederentdeckung der Langsamkeit wäre hier an der Stelle vielleicht geboten.
+
+00:39:49.101 --> 00:39:51.700
+<v haraldlesch>Genau, na klar.
+
+00:39:51.701 --> 00:39:56.400
+<v timpritlove>Dafür gibt es natürlich auch Podcasts, die sind für Monologe auch ganz toll geeignet.
+
+00:39:56.401 --> 00:39:57.900
+<v haraldlesch>Das stimmt ja.
+
+00:39:57.901 --> 00:40:07.700
+<v timpritlove>Ich habe auch so den Eindruck, also wenn man sich Ausschussarbeit zum Beispiel anschaut im Bundestag, dass auch sehr viel schon mit vorgefertigten Meinungen hat.
+
+00:40:07.701 --> 00:40:15.400
+<v timpritlove>Dass zwar diese demokratischen Prozesse ablaufen, aber letztlich selten so ausgelegt sind, dass sie am Ergebnis auch irgendwas ändern können.
+
+00:40:15.401 --> 00:40:24.200
+<v timpritlove>Das würde ja im Prinzip so ein bisschen davon zeugen, dass alle eigentlich schon so mehr oder weniger ihre Positionen haben und der Diskurs komplett überflüssig ist.
+
+00:40:24.201 --> 00:40:29.600
+<v timpritlove>Jetzt kann man natürlich sagen, die böse Politik, die böse Politik,
+
+00:40:29.601 --> 00:40:34.600
+<v timpritlove>aber man kann den Spieß auch umdrehen und sagen, was macht denn jetzt die Wissenschaft eigentlich falsch, dass sie diesen Zugang nicht mehr erhält
+
+00:40:34.601 --> 00:40:38.200
+<v timpritlove>und dass diese Aufmerksamkeit nicht da ist?
+
+00:40:38.201 --> 00:40:40.500
+<v timpritlove>Also wird hier falsch für sich selbst geworben?
+
+00:40:40.501 --> 00:40:45.800
+<v timpritlove>Legt man vielleicht zu wenig Protest ein?
+
+00:40:45.801 --> 00:40:48.400
+<v timpritlove>Oder ist man einfach unklug in der Vorgehensweise?
+
+00:40:48.401 --> 00:40:55.700
+<v timpritlove>Man kann ja jetzt auch nicht sagen, es gibt ja da jetzt irgendein Naturgesetz, was dazu führt, dass das jetzt mal so ist für 50 Jahre.
+
+00:40:55.701 --> 00:41:02.700
+<v haraldlesch>Nein. Also es ist natürlich schon so, dass die Wissenschaft ja heutzutage in diesen Chor der Lobbyisten mit hinein singt und versucht,
+
+00:41:02.701 --> 00:41:10.100
+<v haraldlesch>ihre Interessen auch entsprechend politisch so deutlich zu machen, das den Politikerinnen und Politikern so deutlich zu machen, dass sie das mitkriegen.
+
+00:41:10.101 --> 00:41:14.700
+<v haraldlesch>Das ist ja auch bei den verschiedenen Ausschüssen auch immer wieder sehr erfolgreich offensichtlich.
+
+00:41:14.701 --> 00:41:21.600
+<v haraldlesch>Wir haben ja große Programme, die gerade, was Universitäten, Wissenschaft, Grundlagenforschung und so weiter, was die da alles machen,
+
+00:41:21.601 --> 00:41:24.300
+<v haraldlesch>da muss man schon sagen, da hat sich viel getan in Deutschland.
+
+00:41:24.301 --> 00:41:39.100
+<v haraldlesch>Wenn es aber darum geht, wissenschaftliche Ergebnisse so in die Politik zu bringen, dass man wirklich sagen kann, die Damen und Herren haben verstanden, was es ist um was es hier geht,
+
+00:41:39.101 --> 00:41:44.400
+<v haraldlesch>da muss man leider sagen, haben wir ziemlich versagt.
+
+00:41:44.401 --> 00:41:53.400
+<v haraldlesch>Was meiner Ansicht nach erheblich damit zu tun, nicht dass diese Repräsentanten in unseren Parlamenten dazu intellektuell nicht in der Lage wären, sondern sie haben einfach keine Zeit.
+
+00:41:53.401 --> 00:41:57.000
+<v haraldlesch>Wir fordern zu viel von ihnen.
+
+00:41:57.001 --> 00:42:05.800
+<v haraldlesch>Ausschusssitzungen, die mit vorgestanzten Texten sozusagen beschleunigt werden, werden deshalb beschleunigt, weil jeder von den Mitgliedern ein eigenes Thema hat,
+
+00:42:05.801 --> 00:42:10.000
+<v haraldlesch>was er unbedingt noch durchbringen will, wenn nicht heute, dann das nächste Mal.
+
+00:42:10.001 --> 00:42:18.200
+<v haraldlesch>Und das heißt, es wird einfach unglaublich viel von den Ausschüssen verlangt, auch von der parlamentarischen Arbeit insgesamt verlangt
+
+00:42:18.201 --> 00:42:22.100
+<v haraldlesch>und gleichzeitig hat aber der Tag nur 24 Stunden und die Woche nur 7 Tage.
+
+00:42:22.101 --> 00:42:27.700
+<v haraldlesch>Und es sind eben Homo Sapiens, die über einen bestimmten Stoffwechsel verfügen, die brauchen gewisse Pausenzeiten,
+
+00:42:27.701 --> 00:42:33.600
+<v haraldlesch>das kann man eine Weile umgehen, da kann man sich irgendwas reinpfeifen, um dann eine höhere Aufmerksamkeit zu haben und so weiter.
+
+00:42:33.601 --> 00:42:41.800
+<v haraldlesch>Aber im Grunde genommen muss man mal schlicht und ergreifend ganz naturwissenschaftlich sagen, der Politiker und die Politikerin ist auch nur ein Mensch.
+
+00:42:41.801 --> 00:42:44.900
+<v haraldlesch>Aber wir tun so, als wären sie das nicht.
+
+00:42:44.901 --> 00:42:47.200
+<v haraldlesch>Als wären es irgendwelche …
+
+00:42:47.201 --> 00:42:51.400
+<v haraldlesch>ja es wird ja dieser Begriff human ressources, dieses fürchterliche Wort,
+
+00:42:51.401 --> 00:42:55.400
+<v haraldlesch>das sind einfach Einheiten, die für uns zu funktionieren haben.
+
+00:42:55.401 --> 00:43:00.800
+<v haraldlesch>Wir verlangen von ihnen übermenschliches, wären gar nicht dazu in der Lage, das selber zu erbringen,
+
+00:43:00.801 --> 00:43:06.800
+<v haraldlesch>sind aber durch die entsprechende mediale Begleitung ständig in der Lage, maximal zu kritisieren.
+
+00:43:06.801 --> 00:43:14.500
+<v haraldlesch>Und auf diese Weise entsteht nicht gerade ein besonders günstiges Verhältnis zwischen denjenigen, die was von der Politik wollen und den Politikern und Politikerinnen selber.
+
+00:43:14.501 --> 00:43:16.500
+<v haraldlesch>Denn das ist dann ein tiefes Misstrauen.
+
+00:43:16.501 --> 00:43:22.000
+<v haraldlesch>Freundschaften zwischen Wissenschaftlern und Politikern sind glaube ich eher selten.
+
+00:43:22.001 --> 00:43:25.500
+<v haraldlesch>Weil die Rationalität beider Bereiche funktioniert völlig anders, da geht es um Macht.
+
+00:43:25.501 --> 00:43:29.600
+<v haraldlesch>Und das muss man natürlich auch sagen, der politische Betrieb verlangt auf von den Politikern einfach viel zu viel,
+
+00:43:29.601 --> 00:43:31.600
+<v haraldlesch>das können die alles überhaupt nciht leisten.
+
+00:43:31.601 --> 00:43:36.300
+<v haraldlesch>In der Art und Weise, in der heute dieses politische Rad gedreht wird, das ist völlig undenkbar.
+
+00:43:36.301 --> 00:43:43.100
+<v haraldlesch>Und wenn wir uns an die „guten alten Zeiten“, die so gut auch nicht waren, erinnern, aber was hatten die da für einen Tagesablauf?
+
+00:43:43.101 --> 00:43:48.600
+<v haraldlesch>Ja da brauchte alleine schon ein Telefonat brauchte schon ewig und drei Tage und da war das Telefonieren noch Bodybuilder-Sache,
+
+00:43:48.601 --> 00:43:58.600
+<v haraldlesch>weil die alten Bakelit-Zeiten und so weiter, wenn man sich anschaut, mit welcher Ruhe Adenauer und auch Willy Brandt noch regiert haben,
+
+00:43:58.601 --> 00:44:06.400
+<v haraldlesch>das begann wirklich mit dem Einbruch der digitalen Kommunikation in Entscheidungsprozesse und dann wird es einfach immer schwieriger,
+
+00:44:06.401 --> 00:44:10.900
+<v haraldlesch>denn die Politik ist da praktisch fast immer an der letzten Stelle.
+
+00:44:10.901 --> 00:44:14.800
+<v haraldlesch>Die Wissenschaft hat im Grunde genommen da vieles mit der Politik gemeinsam heutzutage,
+
+00:44:14.801 --> 00:44:19.200
+<v haraldlesch>weil wir dort ebenfalls einen enormen Beschleunigungsprozess beobachten.
+
+00:44:19.201 --> 00:44:26.300
+<v haraldlesch>Wir haben angefangen in vielen Lebensbereichen, diese ökonomische Quantifizierung zum Imperativ zu machen.
+
+00:44:26.301 --> 00:44:28.400
+<v haraldlesch>Das heißt, wir wollen zählen.
+
+00:44:28.401 --> 00:44:33.700
+<v haraldlesch>Das hat sich in den letzten Jahren allmählich auch irgendwie ein bisschen selbst überholt.
+
+00:44:33.701 --> 00:44:39.000
+<v haraldlesch>Das Zählen von irgendwelchen Zitaten ist keine Sache, die eine Qualitätsaussage ist, sondern ist erst mal nur eine Quantitätsaussage.
+
+00:44:39.001 --> 00:44:44.000
+<v haraldlesch>Nur weil 4 Milliarden BigMacs verkauft worden sind, heißt das noch lange nicht, dass das gutes Essen ist.
+
+00:44:44.001 --> 00:44:46.700
+<v timpritlove>Also Sie beziehen sich jetzt auf Zitate der Wissenschaft.
+
+00:44:46.701 --> 00:44:51.700
+<v haraldlesch>Ja zum Beispiel, diese Zitierweise, auch die Art und Weise, dass eben ständig Anträge gestellt werden müssen.
+
+00:44:51.701 --> 00:44:53.400
+<v haraldlesch>Das ist ja schon mal eigentlich …
+
+00:44:53.401 --> 00:45:02.300
+<v haraldlesch>Also im Grund genommen ist es ja eine Frechheit, dass man also Leuten die Gelegenheit gibt, für den Rest ihres Lebens per Urkunde das zu tun, was sie am besten können,
+
+00:45:02.301 --> 00:45:05.700
+<v haraldlesch>nämlich Wissenschaft zu betreiben und möglicherweise auch zu unterrichten an der Universität,
+
+00:45:05.701 --> 00:45:16.100
+<v haraldlesch>sie aber zugleich in so eine Art von Hunderennen zu bringen, wo also dann möglichst viele dann hinter der Wurscht hinterher laufen, damit sie Mittel beantragen können.
+
+00:45:16.101 --> 00:45:23.800
+<v haraldlesch>In diesem Institut hier zum Beispiel hatte vor dieser Ökonomisierungswelle, hatte ein Professur, und hier gab es genau einen Professor am Haus
+
+00:45:23.801 --> 00:45:28.000
+<v haraldlesch>und der hatte 6 Dauerstellen zu vergeben, 6 akademische Räte,
+
+00:45:28.001 --> 00:45:30.400
+<v haraldlesch>der brauchte keine Anträge zu schreiben.
+
+00:45:30.401 --> 00:45:34.500
+<v haraldlesch>Seine Wissenschaft hat er zusammen mit seinen Mitarbeitern gemacht.
+
+00:45:34.501 --> 00:45:44.900
+<v haraldlesch>Heutzutage gibt es hier zum Beispiel 10 Professoren und alle müssen ständig irgendwelche Anträge schreiben, weil diese Mittelfinanzierung, die früher vom Staat einfach gegeben wurde,
+
+00:45:44.901 --> 00:45:45.600
+<v haraldlesch>die gibt es nicht mehr.
+
+00:45:45.601 --> 00:45:49.700
+<v haraldlesch>Anträge zu schreiben bedeutet erst mal einen Zeitaufwand, man muss schreiben.
+
+00:45:49.701 --> 00:45:52.100
+<v haraldlesch>Dann muss man berechtigen, warum man das machen will.
+
+00:45:52.101 --> 00:45:55.400
+<v haraldlesch>Dazu braucht man Publikationen, das heißt, es muss publiziert werden wie ein Weltmeister,
+
+00:45:55.401 --> 00:46:01.100
+<v haraldlesch>um für den nächsten Antrag bereits wieder was anbieten zu können.
+
+00:46:01.101 --> 00:46:06.100
+<v haraldlesch>Zugleich aber ist Erfolg in der Wissenschaft, wenn es um die Publikationen geht, immer mit Spezialisierung verbunden.
+
+00:46:06.101 --> 00:46:10.600
+<v haraldlesch>Sie kriegen für einen Übersichtsartikel zu einem Thema kriegen Sie keinen DFG-Antrag durch.
+
+00:46:10.601 --> 00:46:15.400
+<v haraldlesch>Sie brauchen eine Spezialität, die Ihre Art der Forschung ganz besonders hervorhebt.
+
+00:46:15.401 --> 00:46:20.800
+<v haraldlesch>So und das heißt also, die Generalisten werden rausgeworfen, die haben gar keine Chance,
+
+00:46:20.801 --> 00:46:30.100
+<v haraldlesch>die sich mit ganz großen Projekten beschäftigen, sondern das Spezialistentum ist auf der einen Seite eine notwendige Entwicklung, um an den Rand der Forschung zu kommen, ist keine Frage.
+
+00:46:30.101 --> 00:46:36.400
+<v haraldlesch>Aber auf der anderen Seite, wenn es zum Beispiel um die Kommunikation mit Gesellschaft geht, dann können Ihnen die Spezialisten nicht helfen,
+
+00:46:36.401 --> 00:46:39.000
+<v haraldlesch>dann brauchen Sie jemanden, der Forschung in einen Kontext stellt.
+
+00:46:39.001 --> 00:46:45.400
+<v haraldlesch>Nicht nur in einen wissenschaftlichen Kontext, sondern auch in einen gesellschaftlichen Kontext, in einen technischen Kontext, in einen historischen Kontext und so weiter.
+
+00:46:45.401 --> 00:46:52.400
+<v haraldlesch>Das heißt, hier wären Leute gefragt, die aber gar nicht dem DFG-Förderkriterien wirklich gehorchen.
+
+00:46:52.401 --> 00:46:57.700
+<v haraldlesch>Dann versucht man das in der Wissenschaft, indem man solche großen Forschungsverbünde macht.
+
+00:46:57.701 --> 00:47:02.600
+<v haraldlesch>Aber Forschungsverbünde haben einen riesigen Nachteil, die müssen organisiert werden.
+
+00:47:02.601 --> 00:47:06.500
+<v haraldlesch>Das heißt, es gibt jetzt auf einmal Meetings, noch mehr Meetings, noch noch noch mehr Meetings.
+
+00:47:06.501 --> 00:47:10.300
+<v haraldlesch>Es gibt Deadlines für einzelne Untergruppen, die müssen da auch schon wieder …
+
+00:47:10.301 --> 00:47:11.300
+<v haraldlesch>Also das ist ja …
+
+00:47:11.301 --> 00:47:19.100
+<v haraldlesch>Also auf einmal wird eine Science-Factory, eine Wissenschaftsfabrik wird erzeugt durch die Art und Weise wie wir fördern.
+
+00:47:19.101 --> 00:47:28.200
+<v haraldlesch>Früher waren das vielleicht einzelne kleine und mittelständische Betriebe sozusagen, die waren aber Familienbetriebe, die waren unter sich.
+
+00:47:28.201 --> 00:47:32.800
+<v haraldlesch>Man hat ab und zu mal Geld eingefordert oder beantragt, aber nicht so stark wie heute.
+
+00:47:32.801 --> 00:47:36.900
+<v haraldlesch>Heutzutage sind Universitäten Drittmittelakquisemaschinen.
+
+00:47:36.901 --> 00:47:40.300
+<v haraldlesch>Ich mache Physik für 30 Millionen, was machen Sie?
+
+00:47:40.301 --> 00:47:45.600
+<v haraldlesch>Das heißt, auf einmal geht es auch gar nicht mehr darum, was die machen, es geht nur darum, Schotter, Kohle, Kies, Moos.
+
+00:47:45.601 --> 00:47:47.000
+<v haraldlesch>Darum geht es.
+
+00:47:47.001 --> 00:47:52.500
+<v haraldlesch>Denn in irgendwelchen Rankings da erscheinen immer die forschungsstärksten Universitäten.
+
+00:47:52.501 --> 00:47:55.400
+<v haraldlesch>Was heißt hier forschungsstark, die haben Kohle.
+
+00:47:55.401 --> 00:48:04.000
+<v haraldlesch>Und wenn zum Beispiel sich dann noch die entsprechenden privaten Mäzene da einspielen, da kann so eine Uni auch nochmal brutal nach oben schießen.
+
+00:48:04.001 --> 00:48:12.700
+<v haraldlesch>Also das erleben wir ja jetzt in Deutschland ja auch, dass diese großen Stiftungen sich auf einmal mit 20 oder 25 Lehrstühlen bei einer Uni einfach mal so richtig einen reinhauen.
+
+00:48:12.701 --> 00:48:23.800
+<v haraldlesch>Also diese Ökonomisierung der Wissenschaft hat sicherlich nicht dazu beigetragen, dass wir besser in der Lage wären, uns heute gegenüber der Politik so durchzusetzen,
+
+00:48:23.801 --> 00:48:27.400
+<v haraldlesch>auch inhaltlich, wie wir es gerne hätten, sondern wir werden abhängig gemacht.
+
+00:48:27.401 --> 00:48:35.200
+<v haraldlesch>Durch die Ökonomisierung, also durch die Mittelverteilung werden wir abhängige von der Politik und können gar keine neutralen Berater mehr sein,
+
+00:48:35.201 --> 00:48:39.100
+<v haraldlesch>wenn es dann um Projekte geht, die zum Beispiel dann irgendwie gefördert werden sollen.
+
+00:48:39.101 --> 00:48:44.200
+<v haraldlesch>Das ist ja einen ganz hinterhältige Art und Weise der Verquickung, die da stattfindet.
+
+00:48:44.201 --> 00:48:46.100
+<v haraldlesch>So wie das übrigens in fast allen Lebensbereichen gemacht worden ist.
+
+00:48:46.101 --> 00:48:54.700
+<v haraldlesch>Wo soll jemand einem Politiker noch direkt die Wahrheit ins Gesicht sagen, wenn doch zugleich der- oder diejenige dann irgendwann davon abhängig sein wird von einem Entscheidungsgremium,
+
+00:48:54.701 --> 00:48:59.100
+<v haraldlesch>das möglicherweise wieder politisch dominiert ist.
+
+00:48:59.101 --> 00:49:04.600
+<v haraldlesch>Also hier hat man keine klaren Trennungen mehr.
+
+00:49:04.601 --> 00:49:05.400
+<v haraldlesch>Und das bedaure ich sehr.
+
+00:49:05.401 --> 00:49:10.200
+<v haraldlesch>Ich fordere eigentlich auch ein, dass wir endlich mit diesen Unsinn aufhören.
+
+00:49:10.201 --> 00:49:13.100
+<v haraldlesch>Bei der Suche nach Wahrheit zum Beispiel kann es keinen Wettbewerb geben.
+
+00:49:13.101 --> 00:49:20.400
+<v haraldlesch>Wer immer und immer wieder in Forschungsministerien vom Wettbewerb spricht, der hat überhaupt nicht verstanden, was Forschung ist, überhaupt nicht.
+
+00:49:20.401 --> 00:49:26.200
+<v haraldlesch>Das ist ja keine Bundesligasaison, wo es am Ende des Jahres dann irgendwie hießt, oh wer ist denn der Wahrheit jetzt näher gekommen oder was.
+
+00:49:26.201 --> 00:49:28.500
+<v haraldlesch>Wer empirische Forschung zumindest auch …
+
+00:49:28.501 --> 00:49:31.100
+<v haraldlesch>Bei den Geisteswissenschaften ist es völlig offensichtlich.
+
+00:49:31.101 --> 00:49:41.200
+<v haraldlesch>Wer Forschung als eine Suche nach Wahrheit, den Versuch, so nah wie möglich an Wahrheit dran zu kommen, identifiziert, der kann doch nicht mit irgendwelchem Krämergeschwätz,
+
+00:49:41.201 --> 00:49:49.200
+<v haraldlesch>wie viel Geld eine Fakultät einwirbt oder so was, wirklich Qualität der Forschung definieren wollen.
+
+00:49:49.201 --> 00:49:49.900
+<v haraldlesch>Das darf man nicht tun.
+
+00:49:49.901 --> 00:49:58.500
+<v haraldlesch>Aber wir sind diesem ökonomischen Imperativ heute ausgeliefert an allen Ecken und Enden und müssen irgendwie gucken, wie wir damit klarkommen.
+
+00:49:58.501 --> 00:50:01.400
+<v haraldlesch>Ich bin sehr gespannt, wie wir das in Zukunft machen werden.
+
+00:50:01.401 --> 00:50:04.100
+<v haraldlesch>Wie wir zum Beispiel auch Natur berechnen werden.
+
+00:50:04.101 --> 00:50:04.900
+<v haraldlesch>Auch das ist ja so ein Punkt.
+
+00:50:04.901 --> 00:50:11.900
+<v haraldlesch>Also die Ökonomisierung der Natur, das scheint sich ja irgendwie auch immer mehr und mehr anzudeuten, dass irgendwann mal ausgerechnet werden wird,
+
+00:50:11.901 --> 00:50:18.600
+<v haraldlesch>was der Klimawandel uns alle kostet und das wird dann vielleicht das Argument für die Politik, ja müssen wir jetzt doch mal was unternehmen.
+
+00:50:18.601 --> 00:50:23.300
+<v haraldlesch>Also nicht die Natur an sich ist dafür entscheidend, sondern nur wie viel es kostet.
+
+00:50:23.301 --> 00:50:29.700
+<v timpritlove>Jetzt wüsste ich gleich drei verschiedene Pfade, die man von hier aus einschlagen könnte.
+
+00:50:29.701 --> 00:50:36.900
+<v timpritlove>Bevor wir vielleicht nochmal auf das Bildungssystem zurückgeben, weil Sie es auch gerade angesprochen haben,
+
+00:50:36.901 --> 00:50:44.000
+<v timpritlove>Klimawandel und die Energiewende, die hier auch im letzten Gespräch das Thema war, als ich mit Volker Quaschning darüber gesprochen habe,
+
+00:50:44.001 --> 00:50:51.300
+<v timpritlove>wo auch schon zur Sprache kam, dass sagen wir mal die Prioritäten der Politik verbesserungswürdig sind.
+
+00:50:51.301 --> 00:50:53.200
+<v haraldlesch>(lacht) Schön gesagt.
+
+00:50:53.201 --> 00:51:01.900
+<v haraldlesch>Muss ich mir merken, verbesserungswürdig, das ist ein würdiges Wort, sehr viel würde.
+
+00:51:01.901 --> 00:51:10.500
+<v timpritlove>Einerseits ist es eine Krise, auf der anderen Seite ist es ja vielleicht auch eine Gelegenheit, weil wir es ja nun auch wirklich mal wieder mit einem lebensbedrohlichen,
+
+00:51:10.501 --> 00:51:16.400
+<v timpritlove>existenzbedrohenden Gesamtphänomen zu tun haben.
+
+00:51:16.401 --> 00:51:24.200
+<v timpritlove>Ich weiß nicht, ob diese Gelegenheit schon im ausreichenden Maße genutzt wird, es auch so hoch aufzuhängen, streckenweise wird das sicherlich getan,
+
+00:51:24.201 --> 00:51:27.300
+<v timpritlove>nur hat man natürlich auch den Eindruck, es verfängt irgendwie noch nicht.
+
+00:51:27.301 --> 00:51:37.300
+<v timpritlove>Es verfängt halt nicht nur in den politischen Entscheidungen nicht, sondern und das hat sicherlich auch damit zu tun, es verfängt halt auch in der Gesellschaft nur eingeschränkt.
+
+00:51:37.301 --> 00:51:45.200
+<v timpritlove>Der Druck ist nicht da, es ist nicht so ein Aufschreien wie das Waldsterben Anfang der 80er Jahre,
+
+00:51:45.201 --> 00:51:49.100
+<v timpritlove>wo das ja irgendwie auf einmal das schlimmste Problem unter der Sonne zu sein schien.
+
+00:51:49.101 --> 00:51:52.300
+<v timpritlove>Sicherlich ein großes wichtiges Problem, wo ja dann auch schnell was getan wurde.
+
+00:51:52.301 --> 00:51:56.500
+<v timpritlove>Oder auch das Ozonloch, wo ja auch relativ schnell reagiert wurde.
+
+00:51:56.501 --> 00:51:58.400
+<v haraldlesch>Ja.
+
+00:51:58.401 --> 00:52:05.200
+<v timpritlove>Was ist denn Ihre Einschätzung, wo befinden wir uns denn sozusagen jetzt gerade in der Saga Klimawandel?
+
+00:52:05.201 --> 00:52:11.700
+<v timpritlove>Sind wir da noch ganz am Anfang, mitten drin oder ist schon irgendwie Nachspielzeit?
+
+00:52:11.701 --> 00:52:11.600
+<v haraldlesch>Das ist eine gute Frage.
+
+00:52:11.601 --> 00:52:13.300
+<v timpritlove>Um bei den Fußballvergleichen zu bleiben.
+
+00:52:13.301 --> 00:52:20.600
+<v haraldlesch>Bruno Latour hat mal gesagt, mein Gott vielleicht haben wir den Krieg schon verloren und haben es gar nicht mitgekriegt.
+
+00:52:20.601 --> 00:52:24.800
+<v haraldlesch>Ich habe keine Ahnung, um ehrlich zu sein, wo wir stehen.
+
+00:52:24.801 --> 00:52:28.500
+<v haraldlesch>Ich sehe nur wie die Reaktionen sind.
+
+00:52:28.501 --> 00:52:34.800
+<v haraldlesch>Zum Beispiel Umfragen unter der bayrischen Bevölkerung ergeben, dass nur noch 9% den Klimawandel als echtes Risiko ansehen.
+
+00:52:34.801 --> 00:52:39.400
+<v haraldlesch>In Hochwassergebieten haben diese Umfragen schon so ein Begriff wie Hochwasserdemenz ergeben.
+
+00:52:39.401 --> 00:52:42.100
+<v haraldlesch>Das heißt die Leute haben einfach schlicht wieder vergessen, woher das Wasser eigentlich gekommen ist.
+
+00:52:42.101 --> 00:52:48.900
+<v haraldlesch>Und wenn man ihnen auch zehnmal erklärt hat, dass es Starkregenereignisse sind, die direkt was mit dem Klimawandel zu tun haben und dass dieser Klimawandel vor allen Dingen dazu führt,
+
+00:52:48.901 --> 00:52:56.800
+<v haraldlesch>dass in der Arktis und in der Umgebung die Temperaturunterschiede geringer sind, dadurch werden die Luftströmungen instabiler und so weiter, das ist alles verschwunden.
+
+00:52:56.801 --> 00:53:07.200
+<v haraldlesch>Sofort sitzen wieder Gemeinderäte da und wollen Bauland, was ehemals unter Wasser stand sofort wieder als solches ausführen, es ist alles wieder da und wird schon nicht so schlimm werden etc. pp.
+
+00:53:07.201 --> 00:53:12.900
+<v haraldlesch>Wenn man das alles so hört und wenn man dann hört, dass der Bund der deutschen Industrie sagt, wir sollten uns von den Klimazielen 2050 verabschieden,
+
+00:53:12.901 --> 00:53:19.200
+<v haraldlesch>weil sonst die Wettbewerbsfähigkeit der deutschen Industrie gefährdet ist und so weiter und so fort.
+
+00:53:19.201 --> 00:53:28.800
+<v haraldlesch>Die neue Bundesregierung zum Thema Klima eigentlich auch nicht viel zu sagen hat, dann kann man schon sagen, ich glaube, ich wende mich den spirituellen Getränken zu.
+
+00:53:28.801 --> 00:53:37.200
+<v haraldlesch>Weil das, was wir alles wissen, was in unzähligen Publikationen veröffentlicht worden ist und was Sie von jedem Klimaforscher und jeder Klimaforscherin zu hören kriegen,
+
+00:53:37.201 --> 00:53:45.200
+<v haraldlesch>ist so eindeutig, der Weg, was wir tun müssen, ist völlig klar, völlig, gibt es überhaupt keine Frage.
+
+00:53:45.201 --> 00:53:47.900
+<v haraldlesch>Und gemacht wird viel zu wenig.
+
+00:53:47.901 --> 00:53:56.500
+<v haraldlesch>Das liegt offenbar daran, weil unter diesem ökonomischen Imperativ einfach nicht genügend Schotter, Kohle, Kies dabei rauskommt, wenn man Windräder aufstellt, Photovoltaik oder sonst irgendwas macht.
+
+00:53:56.501 --> 00:54:06.800
+<v haraldlesch>Weil wir zugleich auch in dieser Zwischenzeit auch die Industrien, die Altindustrien vor allen Dingen, also die kohlenstofferzeugende Industrie, viel zu sehr fördern.
+
+00:54:06.801 --> 00:54:13.800
+<v haraldlesch>Wir müssten momentan schon längst in der Phase sein, wo die Braunkohlekraftwerke auf der Welt abgebaut werden und nicht wieder neu gebaut werden.
+
+00:54:13.801 --> 00:54:22.800
+<v haraldlesch>Wir müssten längst in einer Phase sein, wo ein ganzer Kontinent wie Afrika die Phase dieser Kohlekraftwerke und Gaskraftwerke oder Ölverbrennung überwindet
+
+00:54:22.801 --> 00:54:23.900
+<v haraldlesch>und sofort auf Strom geht.
+
+00:54:23.901 --> 00:54:28.900
+<v haraldlesch>Wir hätten denen schon längst Windräder hinstellen müssen, noch und nöcher, wir hätten es verschenken müssen.
+
+00:54:28.901 --> 00:54:34.300
+<v haraldlesch>Photovoltaikanlagen in der Sahara oder in der arabischen Wüste hätten schon längst der Normalfall sein müssen.
+
+00:54:34.301 --> 00:54:38.000
+<v haraldlesch>Das ist keine Technologie, die jetzt irgendwie große Zauberei ist.
+
+00:54:38.001 --> 00:54:42.000
+<v haraldlesch>Wir wissen wie es geht und wir können sie bauen, also los, endlich volles Rohr.
+
+00:54:42.001 --> 00:54:47.500
+<v haraldlesch>Dafür sorgen, dass die vor Ort genügend Energie haben, kleine Wirtschaftskreisläufe selber antreiben können,
+
+00:54:47.501 --> 00:54:53.000
+<v haraldlesch>und zwar mit einer Technologie, die einfach ist und die nicht irgendwie so komplex ist wie ein Kernfusionskraftwerk.
+
+00:54:53.001 --> 00:54:57.800
+<v haraldlesch>Da wird ja von einigen immer wieder gedacht, wenn wir erst mal Kernfusion haben, dann haben wir für 300 Millionen Jahre Energie.
+
+00:54:57.801 --> 00:54:59.500
+<v haraldlesch>Ja, nur wer hat dann die Energie?
+
+00:54:59.501 --> 00:55:07.600
+<v haraldlesch>Dann kommen wir wieder auf eine Art von Kolonialismus zurück, nämlich dass nur solche Länder mit einer ganz ganz ganz besonderen Wissenschaftler- und Ingenieurtradition können solche Anlagen betreiben.
+
+00:55:07.601 --> 00:55:10.900
+<v haraldlesch>Aber wir haben ganz andere Bevölkerungsentwicklungen auf dem Planeten.
+
+00:55:10.901 --> 00:55:13.200
+<v haraldlesch>Also wir wissen genau, was wir tun müssen.
+
+00:55:13.201 --> 00:55:22.600
+<v haraldlesch>Und es ist erschütternd zu sehen, wie diese Leute sich immer wieder zusammentreffen, die da politische Entscheidungen im Grunde genommen verhindern
+
+00:55:22.601 --> 00:55:25.400
+<v haraldlesch>und das immer erfolgreicher tun.
+
+00:55:25.401 --> 00:55:31.200
+<v haraldlesch>Gerade in Deutschland ist so viel passiert, was die Energiewende beschädigt hat.
+
+00:55:31.201 --> 00:55:36.600
+<v haraldlesch>Ob das die Windkraft ist, die Photovoltaik, und vor allen Dingen, was nicht gemacht worden ist, es ist kein Zeitgeist erzeugt worden.
+
+00:55:36.601 --> 00:55:38.400
+<v haraldlesch>Wie erzeugt man Zeitgeist?
+
+00:55:38.401 --> 00:55:45.500
+<v haraldlesch>Man geht in die Schulen, die Kindergärten, man bringt die richtigen Filme raus, erzählt die richtigen Geschichten und immer und immer wieder.
+
+00:55:45.501 --> 00:55:47.900
+<v haraldlesch>Und keiner ist da, der das nieder redet.
+
+00:55:47.901 --> 00:55:53.900
+<v haraldlesch>Man macht daraus kein Politikum, sondern das ist eine Geschichte, wo wir uns drauf geeinigt haben und jetzt machen wir das.
+
+00:55:53.901 --> 00:55:56.200
+<v haraldlesch>Das ist ein bisschen wie Apollo.
+
+00:55:56.201 --> 00:55:58.800
+<v haraldlesch>Es ist ein bisschen wie eine Apollo-Mission, es wrid gemacht.
+
+00:55:58.801 --> 00:56:01.600
+<v haraldlesch>Wir, die wir das machen, wir sind alle fest davon überzeugt.
+
+00:56:01.601 --> 00:56:05.800
+<v haraldlesch>Interne Reibereien mag es geben, aber die dringen nie nach außen.
+
+00:56:05.801 --> 00:56:14.300
+<v haraldlesch>Wir können uns über den Weg Gedanken machen, aber wir sollten nicht zulassen, dass irgendjemand auf den Gedanken kommt, die Energiewende zu stoppen.
+
+00:56:14.301 --> 00:56:17.400
+<v haraldlesch>Sondern im Gegenteil, wer das will, der soll gehen.
+
+00:56:17.401 --> 00:56:19.600
+<v haraldlesch>Der kann woanders hin, es gibt genügend Länder, die das nciht wollen.
+
+00:56:19.601 --> 00:56:20.800
+<v haraldlesch>Aber wir wollen das.
+
+00:56:20.801 --> 00:56:25.400
+<v haraldlesch>Wir ziehen das durch und wir machen daraus auch überhaupt …
+
+00:56:25.401 --> 00:56:27.700
+<v haraldlesch>Also wir machen aus unserem Herzen keine Mördergrube.
+
+00:56:27.701 --> 00:56:34.800
+<v haraldlesch>Wenn wir uns wirklich dahinter stellen würden, dann könnten wir mit unglaublicher Wucht, wenn Sie sich anschauen, was Deutschland für eine Wirtschaftskraft darstellt,
+
+00:56:34.801 --> 00:56:37.500
+<v haraldlesch>aber stattdessen haben wir es mit Waschlappen zu tun.
+
+00:56:37.501 --> 00:56:38.100
+<v haraldlesch>Entschuldigen Sie den harten Ausdruck.
+
+00:56:38.101 --> 00:56:45.100
+<v haraldlesch>Ich könnte noch ein bisschen härter werden, wenn ich das Interview auf spanisch geben würde, dann könnte ich Ihnen noch ganz andere Ausdrücke nennen, was hier fehlt.
+
+00:56:45.101 --> 00:56:53.100
+<v haraldlesch>Nämlich der Mut, sich einer solchen Herausforderung, einer technischen Herausforderung als technische Industrienation zu stellen.
+
+00:56:53.101 --> 00:57:00.200
+<v haraldlesch>Was gibt es besseres als ein technisches Großprojekt, wo wir genau wissen, dass es richtig sein wird,
+
+00:57:00.201 --> 00:57:06.300
+<v haraldlesch>nämlich den Übergang von einer kohlenstoffbetriebenen Industrie zu einer, die mit erneuerbaren arbeitet.
+
+00:57:06.301 --> 00:57:15.600
+<v haraldlesch>Hören wir endlich auf, unsere großen Premiumlimousinen mit beheizbaren Außenspiegeln auszurüsten, mit noch mehr Elektronik, die es uns gestattet, während wir fahren,
+
+00:57:15.601 --> 00:57:21.700
+<v haraldlesch>was weiß ich, gleichzeitig einen Film anzugucken, unseren Kühlschrank zu programmieren und irgendwelche anderen Dinge zu tun,
+
+00:57:21.701 --> 00:57:30.100
+<v haraldlesch>bauen wir Technologie, die wir überall auf die Welt bringen können, wo die Leute, wenn das Ding kaputt geht, auch was mit anfangen können
+
+00:57:30.101 --> 00:57:36.700
+<v haraldlesch>und lassen wir unsere Ingenieurinnen und Ingenieure, die wirklich richtig gut sind, mal einen richtig guten Job machen
+
+00:57:36.701 --> 00:57:43.300
+<v haraldlesch>und hören wir auf, irgendwelchen Nonsense in die Welt zu setzen, sondern die Energiewende so umzusetzen, wie es gemacht werden muss.
+
+00:57:43.301 --> 00:57:47.000
+<v haraldlesch>Das wird teuer werden, wer soll es sich sonst leisten als Deutschland?
+
+00:57:47.001 --> 00:57:50.800
+<v haraldlesch>Wir sind eines der reichsten Länder der Welt, also machen wir das.
+
+00:57:50.801 --> 00:57:57.400
+<v haraldlesch>Wir werden Prozeduren finden, wir werden Fehler machen und wir werden etwas tun, was in den Naturwissenschaften zum Zauber geworden ist.
+
+00:57:57.401 --> 00:57:58.900
+<v haraldlesch>Wir werden uns empor irren.
+
+00:57:58.901 --> 00:58:04.400
+<v haraldlesch>Wir werden dem Irrtum eine Chance geben, weil wir werden die Irrtümer machen, die andere sich nicht leisten können.
+
+00:58:04.401 --> 00:58:06.400
+<v haraldlesch>Das wäre ein Zeitgeist.
+
+00:58:06.401 --> 00:58:13.700
+<v haraldlesch>Stellen Sie sich mal vor, wir hätten Schulen, in denen ein richtig guter Irrtum genauso gut bewertet wird wie die Lösung.
+
+00:58:13.701 --> 00:58:17.800
+<v haraldlesch>Weil ein guter Irrtum ist Gold wert.
+
+00:58:17.801 --> 00:58:24.900
+<v haraldlesch>Also zu sehen, oh das ist falsch, also klar zu erkennen, was nicht der Fall ist, das ist eigentlich der Erkenntnisgewinn der Naturwissenschaften.
+
+00:58:24.901 --> 00:58:29.600
+<v haraldlesch>Es wird immer so getan, als hätten wir so einen positiven Erkenntnisbegriff.
+
+00:58:29.601 --> 00:58:31.500
+<v haraldlesch>Nein wir sind Falsifikationisten.
+
+00:58:31.501 --> 00:58:33.600
+<v haraldlesch>Wir finden heraus, ob etwas nicht falsch ist.
+
+00:58:33.601 --> 00:58:38.400
+<v haraldlesch>Aber wenn wir es rausgefunden haben, dass es falsch ist, wow Tür zu, wir gehen woanders hin.
+
+00:58:38.401 --> 00:58:43.300
+<v haraldlesch>Stattdessen haben wir Auswendiglernerei, in der Politik ganz genauso.
+
+00:58:43.301 --> 00:58:51.000
+<v haraldlesch>Wenn Sie sich anschauen, wie die Sprache der Politik heute verkommen ist zu einer auswendig gelernten schablonenhaften Sprache, die nichts mehr sagt,
+
+00:58:51.001 --> 00:58:53.500
+<v haraldlesch>weil die Leute gar nicht die Inhalte mehr begreifen.
+
+00:58:53.501 --> 00:58:56.700
+<v haraldlesch>Die Begriffe sind teilweise wirklich grausig.
+
+00:58:56.701 --> 00:59:03.600
+<v haraldlesch>Und damit haben wir natürlich auch so gut wie niemanden, der für eine Energiewende oder für eine Klimaschutzpolitik so stehen könnte,
+
+00:59:03.601 --> 00:59:09.000
+<v haraldlesch>dass er auf Fragen, auf Nachfragen so antworten kann, dass er weiß worum es geht.
+
+00:59:09.001 --> 00:59:16.800
+<v haraldlesch>Aber wenn wir endlich mal wenigstens beginnen würden, in den Schulen den Kindern klarzumachen, wie ist das eigentlich, wenn du eine Kugel hast, die weiß ist
+
+00:59:16.801 --> 00:59:22.000
+<v haraldlesch>und du hast eine Kugel, die ist dunkel, stecken wir doch mal unten ein Thermometer rein und gucken mal, welche wärmer wird.
+
+00:59:22.001 --> 00:59:25.200
+<v haraldlesch>Oh die dunkle, warum?
+
+00:59:25.201 --> 00:59:27.000
+<v haraldlesch>Weil die weiße Oberfläche strahlt mehr zurück.
+
+00:59:27.001 --> 00:59:32.400
+<v haraldlesch>Genau, jetzt überlege dir mal, wenn das arktische Eis verschwindet, was wird denn aus dem Eis?
+
+00:59:32.401 --> 00:59:33.000
+<v haraldlesch>Machen wir ein Experiment.
+
+00:59:33.001 --> 00:59:36.500
+<v haraldlesch>Für alle, die nicht wissen, was Eis ist, bzw. was Eis macht, wenn es zu warm ist.
+
+00:59:36.501 --> 00:59:38.500
+<v haraldlesch>Da wird Wasser draus.
+
+00:59:38.501 --> 00:59:41.400
+<v haraldlesch>Das heißt wir machen aus einer weißen Oberfläche eine dunkel Oberfläche.
+
+00:59:41.401 --> 00:59:48.200
+<v haraldlesch>Kacke, eben konnte noch das Ganze reflektieren und jetzt haben wir sogar Absorption dort oben.
+
+00:59:48.201 --> 00:59:49.900
+<v haraldlesch>Das können wir doch nicht wollen, oh mann.
+
+00:59:49.901 --> 00:59:54.700
+<v haraldlesch>Also wenn die Gletscher verschwinden, verschwinden nicht nur die Gletscher, dann tut sich noch was anderes.
+
+00:59:54.701 --> 00:59:59.400
+<v haraldlesch>Wir haben zum Beispiel angefangen, eine Klimabox für die Schule zu entwickeln.
+
+00:59:59.401 --> 01:00:00.700
+<v haraldlesch>Und ich habe mich gefragt, wieso müssen wir so was machen?
+
+01:00:00.701 --> 01:00:02.800
+<v haraldlesch>Das kann doch nicht wahr sein, das hätte schon längst da sein müssen.
+
+01:00:02.801 --> 01:00:11.100
+<v haraldlesch>Wenn man sich überlegt, wie lange dieses Thema schon da ist und es gewinnt jetzt allmählich mal so richtig ein bisschen Fahrt,
+
+01:00:11.101 --> 01:00:18.200
+<v haraldlesch>aber wahrscheinlich auch nicht richtig, weil wir eben viel mehr darauf setzen, dass unsere Kinder irgendwelche anderen Eigenschaften besitzen sollen,
+
+01:00:18.201 --> 01:00:20.600
+<v haraldlesch>nur wir erzählen ihnen keine Geschichte, was ich vorhin meinte.
+
+01:00:20.601 --> 01:00:22.500
+<v timpritlove>Was ist denn die Klimabox?
+
+01:00:22.501 --> 01:00:28.500
+<v haraldlesch>Die Klimabox ist ein Koffer, da sind 50 Experimente drin zum Thema Klimawandel.
+
+01:00:28.501 --> 01:00:31.500
+<v haraldlesch>Gut, da wird auch die Geschichte erzählt, wieso die Erde anders ist als Venus und Mars.
+
+01:00:31.501 --> 01:00:40.800
+<v haraldlesch>Also wir fangen mit so einem kosmischen Blick an, also auf das Sonnensystem, wieso ist die Venus anders als die Erde, Mars anders als die Erde und so weiter
+
+01:00:40.801 --> 01:00:43.300
+<v haraldlesch>und gucken uns dann an, was ist das für ein Planet?
+
+01:00:43.301 --> 01:00:45.600
+<v haraldlesch>Also wir machen das schon von der astronomischen Perspektive aus.
+
+01:00:45.601 --> 01:00:49.900
+<v haraldlesch>Wir starten astronomisch und werden dann sehr ökologisch.
+
+01:00:49.901 --> 01:00:52.900
+<v haraldlesch>Hinterhältig, das ist praktisch wie das trojanische Pferd in den Klassenraum zu schieben.
+
+01:00:52.901 --> 01:00:57.600
+<v haraldlesch>Aber was ich sagen will ist, was wir natürlich damit auch präsentieren ist eine Vorstellung von Zukunft.
+
+01:00:57.601 --> 01:00:59.200
+<v haraldlesch>Wie soll unsere Zukunft aussehen?
+
+01:00:59.201 --> 01:01:07.800
+<v haraldlesch>Das kann doch nicht ein Planet sein, der so heiß wird, dass in weiten Teilen des Planeten die Menschen gar nicht ins Freie können, weil es so warm ist, dass sie einfach sterben würden.
+
+01:01:07.801 --> 01:01:09.500
+<v haraldlesch>Wie die Simulationen zeigen.
+
+01:01:09.501 --> 01:01:14.900
+<v haraldlesch>Dieses Business as usual Szenario für die nächsten 150 Jahre, Sie machen sich keine Vorstellungen.
+
+01:01:14.901 --> 01:01:17.400
+<v haraldlesch>Teile von Südamerika sind rot.
+
+01:01:17.401 --> 01:01:25.500
+<v haraldlesch>Das heißt, da hat man 300-350 Tage im Jahr, wo es so heiß ist, dass also ein Eiweißmolekül, wie wir es gerne in uns schon mal haben, das würde einfach zerfallen.
+
+01:01:25.501 --> 01:01:28.500
+<v haraldlesch>Afrika weg, in Asien weg.
+
+01:01:28.501 --> 01:01:33.700
+<v haraldlesch>Also wenn man sich vorstellt, wie die Erde aussehen würde, wenn tatsächlich die weiten Gletscherteile der Antarktis oder Grönlands schmelzen,
+
+01:01:33.701 --> 01:01:35.400
+<v haraldlesch>das will man sich nicht vorstellen.
+
+01:01:35.401 --> 01:01:42.200
+<v haraldlesch>Weil damit sind Migrationsströme verbunden, Flüchtlingsströme von bis zu 2 Milliarden Menschen, die da unterwegs sein werden.
+
+01:01:42.201 --> 01:01:44.700
+<v haraldlesch>Das kann man nicht wollen.
+
+01:01:44.701 --> 01:01:55.400
+<v haraldlesch>Das heißt, es muss immer und immer wieder geklärt werden, das, was wir hier tun, ist tatsächlich etwas, was man hoffentlich, wenn wir es geschickt machen, in der ganzen Welt anwenden können.
+
+01:01:55.401 --> 01:01:59.200
+<v haraldlesch>Wir müssen weg von diesem betriebswirtschaftlichen Blick, nicht nur volkswirtschaftlich.
+
+01:01:59.201 --> 01:02:03.900
+<v haraldlesch>Wir brauchen einen globalen Blick und das wird ein Evolutionsschritt werden, wenn er gelingt.
+
+01:02:03.901 --> 01:02:10.900
+<v haraldlesch>Dann wird ein neues Wesen aus dem Homo Sapiens werden, der also wesentlich weniger exzentrisch ist.
+
+01:02:10.901 --> 01:02:19.400
+<v haraldlesch>Aber das bedeutet natürlich für die ganz reichen auf diesem Globus natürlich auch einen Verzicht, der möglicherweise von vielen gar nicht akzeptiert wird.
+
+01:02:19.401 --> 01:02:21.000
+<v haraldlesch>Damit muss man leben.
+
+01:02:21.001 --> 01:02:25.300
+<v haraldlesch>Aber wenn eine Gesellschaft sich wirklich mal zu sowas aufmachen würde.
+
+01:02:25.301 --> 01:02:25.100
+<v haraldlesch>Denken Sie nur mal an was ganz …
+
+01:02:25.101 --> 01:02:29.400
+<v haraldlesch>Ein wunderschönes Beispiel finde ich ist die Stadtbevölkerung von Kopenhagen.
+
+01:02:29.401 --> 01:02:33.000
+<v haraldlesch>Die sich dazu entschlossen haben, aus ihrer Stadt eine Fahrradstadt zu machen.
+
+01:02:33.001 --> 01:02:35.100
+<v haraldlesch>Eine europäische Hauptstadt.
+
+01:02:35.101 --> 01:02:40.200
+<v haraldlesch>Können Sie sich vorstellen, dass man sich in Berlin mal zu so was durchringen würde?
+
+01:02:40.201 --> 01:02:42.100
+<v timpritlove>Es gibt zumindest sanfte Ansätze.
+
+01:02:42.101 --> 01:02:43.700
+<v haraldlesch>Das ist ja auch schon mal was, genau.
+
+01:02:43.701 --> 01:02:51.700
+<v haraldlesch>Aber die Geschichte, die dahinter steht, ist eine Geschichte, die über Jahrzehnte in Kopenhagen immer wieder aufs Neue erzählt worden ist.
+
+01:02:51.701 --> 01:02:53.600
+<v haraldlesch>Es ist wirklich eine Geschichte.
+
+01:02:53.601 --> 01:02:56.900
+<v haraldlesch>Wie wäre es, wenn wir in einer Stadt leben würden, die nicht so verdreckt wäre, wo die Luft besser ist.
+
+01:02:56.901 --> 01:02:58.200
+<v timpritlove>Die menschengemacht ist.
+
+01:02:58.201 --> 01:03:00.900
+<v haraldlesch>Genau, einfach nur, sie wird von einer Familie zur anderen getragen.
+
+01:03:00.901 --> 01:03:04.700
+<v haraldlesch>Und in jeder Familie gibt es ein schwarzes Schaf, das will unbedingt Auto fahren und so weiter, alles okay.
+
+01:03:04.701 --> 01:03:11.500
+<v haraldlesch>Aber die anderen machen stur ihren Weg weiter, weil sie genau wissen, das ist das, was wir wollen.
+
+01:03:11.501 --> 01:03:14.400
+<v haraldlesch>Und irgendwann ist der auch Erfolg auch…
+
+01:03:14.401 --> 01:03:20.900
+<v timpritlove>Doch Firmen beklagen sich in Kopenhagen, wenn sie keinen richtigen Anschluss an die Radbahn haben.
+
+01:03:20.901 --> 01:03:22.000
+<v haraldlesch>Ja das ist doch irre.
+
+01:03:22.001 --> 01:03:27.000
+<v haraldlesch>Aber das Schöne ist ja, wenn es mal in dieser Spur ist, dass es erfolgreich geworden ist.
+
+01:03:27.001 --> 01:03:30.100
+<v haraldlesch>Es gibt nichts, was mehr Sex hat, als Erfolg.
+
+01:03:30.101 --> 01:03:31.700
+<v haraldlesch>Und das müssen wir hinkriegen.
+
+01:03:31.701 --> 01:03:37.200
+<v haraldlesch>Wir müssen diese Energiewende und auch das Thema Klimawandel, das muss so sein, dass es uns wirklich erwischt.
+
+01:03:37.201 --> 01:03:40.100
+<v haraldlesch>Und Sie haben natürlich völlig recht, der Druck ist gar nicht hoch genug.
+
+01:03:40.101 --> 01:03:44.200
+<v haraldlesch>Wir gehören in Europa nicht zu den ganz großen Verlierern.
+
+01:03:44.201 --> 01:03:47.700
+<v haraldlesch>Ich wünsche mir das nicht, um Gottes Willen.
+
+01:03:47.701 --> 01:03:56.200
+<v haraldlesch>Aber wenn Sie sich anschauen, was in Amerika zum Beispiel in den USA passiert ist, nachdem ja jetzt die stärksten Hurricane aller Zeiten über sie drüber gerast sind,
+
+01:03:56.201 --> 01:04:00.100
+<v haraldlesch>sehen Sie da irgendeine Änderung in der Bevölkerungshaltung zum Klimawandel?
+
+01:04:00.101 --> 01:04:05.300
+<v timpritlove>Also ich sehe zumindest eine interessante Verschiebung der politischen Aktivität.
+
+01:04:05.301 --> 01:04:11.500
+<v timpritlove>Auf Bundesebene ist es halt derzeit ein einziges Desaster, aber es gibt da eine ganze Menge Widerstand auf Staatsebene.
+
+01:04:11.501 --> 01:04:12.800
+<v haraldlesch>Genau.
+
+01:04:12.801 --> 01:04:14.500
+<v timpritlove>Also Bundesstaatsebene in den USA.
+
+01:04:14.501 --> 01:04:18.700
+<v timpritlove>Und in gewisser Hinsicht auch nochmal sehr viel Aktivität auf so einer lokalen Ebene.
+
+01:04:18.701 --> 01:04:24.000
+<v timpritlove>Und ich frage mich halt auch, ob das nicht vielleicht auch ein guter Ansatz wäre, das Ding quasi von unten nach oben aufzukrempeln.
+
+01:04:24.001 --> 01:04:24.400
+<v haraldlesch>Na klar.
+
+01:04:24.401 --> 01:04:27.900
+<v timpritlove>Weil man kann natürlich oben alles mögliche beschließen, wenn der Rest nicht mitzieht, dann…
+
+01:04:27.901 --> 01:04:29.600
+<v haraldlesch>Da haben Sie völlig recht.
+
+01:04:29.601 --> 01:04:32.900
+<v haraldlesch>Aber das Oben kann das ja befördern.
+
+01:04:32.901 --> 01:04:41.400
+<v haraldlesch>Also ich stelle mir immer vor, man würde in einer Republik leben, wo man zum fliegen ist kein Problem, aber du kriegst automatisch auf das Ticket den Kohlendioxidpreis drauf.
+
+01:04:41.401 --> 01:04:49.000
+<v haraldlesch>Du kannst dich dagegen entscheiden mit Kreuz, ich will nicht an einer aktiven Klimapolitik teilnehmen, will ich nciht, ist billiger, gut schön.
+
+01:04:49.001 --> 01:04:50.000
+<v haraldlesch>Aber es wird dir nicht leicht gemacht.
+
+01:04:50.001 --> 01:04:57.500
+<v haraldlesch>Du kommst in den Supermarkt rein, die fair gehandelten Bananen liegen offen da, die anderen Bananen, da musst du eine Verkäuferin rufen, damit sie dir den Schrank aufmacht,
+
+01:04:57.501 --> 01:04:59.200
+<v haraldlesch>damit du da an die Dinger rankommst.
+
+01:04:59.201 --> 01:05:01.200
+<v timpritlove>So wie Zigaretten sozusagen.
+
+01:05:01.201 --> 01:05:05.800
+<v haraldlesch>Ja, wir machen das ökologisch sinnvolle zum Normalfall und man muss nicht …
+
+01:05:05.801 --> 01:05:10.700
+<v haraldlesch>Das kann man sozusagen ganz anonym kann man ökologisch das Richtige tun.
+
+01:05:10.701 --> 01:05:13.900
+<v haraldlesch>Und das Unsinnige machen wir zu einem, wo man sich dann überwinden muss.
+
+01:05:13.901 --> 01:05:15.000
+<v haraldlesch>Heutzutage ist es ja genau umgekehrt.
+
+01:05:15.001 --> 01:05:23.700
+<v haraldlesch>Wenn man heutzutage sich ökologisch verhalten will, muss man sich praktisch outen als jemand, der so, ja so möchte ich das nciht, ich möchte diese ökologische Variante haben.
+
+01:05:23.701 --> 01:05:24.900
+<v haraldlesch>Also wir müssen es genau umdrehen.
+
+01:05:24.901 --> 01:05:28.200
+<v haraldlesch>Wir müssen genau das ökologisch sinnvolle und das geht nur durch den Gesetzgeber.
+
+01:05:28.201 --> 01:05:34.700
+<v haraldlesch>Der Gesetzgeber muss praktisch durch die Gesellschaft aufgefordert werden, bitte gib uns die Rahmenbedingungen.
+
+01:05:34.701 --> 01:05:40.600
+<v haraldlesch>Es gibt einen wunderschönen österreichischen Satz, der heißt, ich bin eigentlich ganz anders, aber ich komm so selten dazu.
+
+01:05:40.601 --> 01:05:50.500
+<v haraldlesch>Das heißt, wenn die Politik einem die Gelegenheit gibt, endlich mal so zu sein, wie man wirklich ist, indem man nämlich ganz automatisch ohne Anstrengung das ökologisch Sinnvolle täte,
+
+01:05:50.501 --> 01:05:53.600
+<v haraldlesch>das wäre mal, also das wäre doch großartig.
+
+01:05:53.601 --> 01:05:56.700
+<v haraldlesch>Wenn nämlich die Bewegung von unten und von oben konvergieren.
+
+01:05:56.701 --> 01:05:59.600
+<v haraldlesch>Und dann Sie eine gesellschaftliche Konsistenz.
+
+01:05:59.601 --> 01:06:03.600
+<v haraldlesch>Und das ist das, was Menschen mit Lebensqualität beschreiben.
+
+01:06:03.601 --> 01:06:13.500
+<v haraldlesch>Auf einmal merken Sie, ich bin mit meinen Werten, mit denen ich persönlich antrete, wohl aufgehoben in einem Land, das diese Werte, die ich unterstütze, auch unterstützt.
+
+01:06:13.501 --> 01:06:20.400
+<v haraldlesch>Das ist eine Art von gesellschaftlicher Konsistenz, die man vielleicht sogar als so eine Art von Gesellschaftsglück bezeichnen kann.
+
+01:06:20.401 --> 01:06:30.900
+<v haraldlesch>Wenn das der Fall ist, dass man mit anderen nicht nur zusammenlebt, um irgendwie den Tag zu verbringen, sondern merkt, wenn was passiert,
+
+01:06:30.901 --> 01:06:40.100
+<v haraldlesch>dass alle sich kohärent in eine Richtung bewegen, weil die Werteskala klar ist, die Prioritäten der Werte klar sind.
+
+01:06:40.101 --> 01:06:45.800
+<v haraldlesch>Und da merken Sie natürlich auch, welche unglaublichen Defizite hinter wissenschaftlichem Handeln steht.
+
+01:06:45.801 --> 01:06:54.400
+<v haraldlesch>Wenn nämlich Wissenschaft sich alleine nur als Forschungssubjekt begreift, irgendwelche Ergebnisse, die werden dann auch veröffentlicht und so weiter,
+
+01:06:54.401 --> 01:06:59.100
+<v haraldlesch>in ihrer inneren Dynamik sich dann auch weiterentwickelt, aber wenn sie genau das nicht tut,
+
+01:06:59.101 --> 01:07:06.000
+<v haraldlesch>weshalb Menschen eigentlich Wissenschaft betreiben sollten, nämlich tatsächlich was zu finden, was nicht nur interessant ist, sondern auch relevant,
+
+01:07:06.001 --> 01:07:18.400
+<v haraldlesch>und wenn Wissenschaft sich als etwas versteht, was von Menschen für Menschen gemacht wird, um damit natürlich auch praktisch die Karawane weiterziehen zu lassen.
+
+01:07:18.401 --> 01:07:25.800
+<v haraldlesch>Und was ich zum Beispiel heutzutage sehe als ein ganz großes Problem der Verwendung von künstlicher Intelligenz bei der Problemlösung,
+
+01:07:25.801 --> 01:07:32.400
+<v haraldlesch>also von Algorithmen, deren interne Dynamik nicht mehr ohne weiteres durchgängig transparent ist, ist,
+
+01:07:32.401 --> 01:07:36.600
+<v haraldlesch>dass künstliche Intelligenz einem nicht erklären kann, weshalb sie bestimmte Entscheidungen trifft.
+
+01:07:36.601 --> 01:07:44.100
+<v haraldlesch>Wenn das so bleibt, dann bedeutet das, wir können zwar Probleme lösen, wir können aber aus diesen Problemlösungen keine Erkenntnisse mehr gewinnen,
+
+01:07:44.101 --> 01:07:45.900
+<v haraldlesch>die wir kommunizieren können.
+
+01:07:45.901 --> 01:07:51.200
+<v haraldlesch>Das würde bedeuten, wir erodieren unser komplettes Bildungssystem und zwar in allen Schattierungen,
+
+01:07:51.201 --> 01:07:55.200
+<v haraldlesch>weil die KI kann das, die künstliche Intelligenz macht das schon irgendwie.
+
+01:07:55.201 --> 01:08:01.500
+<v haraldlesch>Wir wissen zwar nicht genau, warum, wir sehen zwar, die Lösung ist richtig oder meistens richtig,
+
+01:08:01.501 --> 01:08:04.200
+<v haraldlesch>aber warum das passiert, das haben wir nicht mehr vor uns.
+
+01:08:04.201 --> 01:08:12.600
+<v haraldlesch>Und damit haben wir natürlich keine Kritik der Urteilskraft mehr, weil wir kennen unsere Urteile nicht mehr, wir können nur noch das Ergebnis sehen.
+
+01:08:12.601 --> 01:08:15.500
+<v haraldlesch>Fragestellungen wie, was soll ich tun, frage ich die KI …
+
+01:08:15.501 --> 01:08:17.300
+<v timpritlove>Man kann die Risiken nicht mehr richtig einschätzen.
+
+01:08:17.301 --> 01:08:20.500
+<v haraldlesch>Man kann die Risiken nicht mehr einschätzen, genau das meinte ich auch vorhin.
+
+01:08:20.501 --> 01:08:32.000
+<v haraldlesch>Also das sind natürlich Gefahren, von denen da gesprochen wird, die erst mal auf einer extrem abstrakten Ebene sich abspielen, bis sie dann real werden.
+
+01:08:32.001 --> 01:08:38.700
+<v haraldlesch>Aber wenn sie dann real geworden sind, ist es schon zu spät, dann ist nicht nur das Kind in den Brunnen gefallen, ist der Brunnen in den Brunnen gefallen, dann ist alles vorbei.
+
+01:08:38.701 --> 01:08:41.300
+<v timpritlove>Das ist so ein bisschen wie Atomkraft.
+
+01:08:41.301 --> 01:08:46.800
+<v haraldlesch>Das ist ja. Aber es gibt ja diesen schönen Witz, auf einem Planeten ist eine künstliche Intelligenz geschaffen worden.
+
+01:08:46.801 --> 01:08:49.100
+<v haraldlesch>Die Wissenschaftler stellen die erste Frage, gibt es Gott?
+
+01:08:49.101 --> 01:08:53.000
+<v haraldlesch>Und die Maschine antwortet, jetzt ja.
+
+01:08:53.001 --> 01:09:00.100
+<v haraldlesch>Also das heißt, wir haben das Problem, dass wir auf der einen Seite …
+
+01:09:00.101 --> 01:09:03.700
+<v haraldlesch>also ich würde das mal vielleicht so Punkt für Punkt.
+
+01:09:03.701 --> 01:09:07.700
+<v haraldlesch>Also eine Sache ist, wir verlangen von allen viel zu viel.
+
+01:09:07.701 --> 01:09:13.100
+<v haraldlesch>Ob es die Politiker sind, die Wissenschaftler sind, wir müssten eigentlich viel mehr runter und den Ball flacher halten, viel viel flacher halten.
+
+01:09:13.101 --> 01:09:23.700
+<v haraldlesch>Das würde uns die Gelegenheit geben, zeitlich mehr Gelegenheit zu haben, auch unsere eigenen Positionen zu hinterfragen, auch mal eine Diskussion mit jemandem zuzulassen, der uns nicht zustimmt.
+
+01:09:23.701 --> 01:09:30.100
+<v haraldlesch>Das würde für uns die Möglichkeit geben, dem Irrtum eine größere Chance zu geben, auch dem eigenen Irrtum.
+
+01:09:30.101 --> 01:09:32.300
+<v haraldlesch>Also als kritischer Rationalist weiß ich natürlich, das ich mich irren kann.
+
+01:09:32.301 --> 01:09:36.500
+<v haraldlesch>Wenn wir zu zweit sind, ist die Gefahr, dass wir uns beide irren, schon mal kleiner.
+
+01:09:36.501 --> 01:09:39.800
+<v haraldlesch>Also je mehr Meinungen oder abweichende Meinungen ins Spiel kommen, umso besser.
+
+01:09:39.801 --> 01:09:43.600
+<v haraldlesch>Aber irgendwann muss natürlich ein Punkt erreicht sein, wo dann auch eine Entscheidung getroffen wird.
+
+01:09:43.601 --> 01:09:51.900
+<v haraldlesch>Aber zu dieser Entscheidung auch zu stehen und sie als eine gesamtgesellschaftliche Aufgabe zu empfinden, beim Klimawandel und Energiewende,
+
+01:09:51.901 --> 01:09:53.600
+<v haraldlesch>das wäre natürlich wunderbar.
+
+01:09:53.601 --> 01:10:01.400
+<v haraldlesch>Und nicht das auf irgendwelche parteipolitischen oder sonstigen Geschichten zu ziehen, das halte ich für …
+
+01:10:01.401 --> 01:10:07.400
+<v haraldlesch>Ich sage immer gerne, es gibt Gesetze, die sind von Menschen und Göttern geschrieben, die gibt es.
+
+01:10:07.401 --> 01:10:09.700
+<v haraldlesch>Das sind aber „du sollst nicht“-Aussagen.
+
+01:10:09.701 --> 01:10:14.300
+<v haraldlesch>Die Naturgesetze sind völlig andere Natur, die werden auch nicht in Ausschüssen behandelt.
+
+01:10:14.301 --> 01:10:18.500
+<v haraldlesch>Es gibt keinen Staatsanwalt, keinen Rechtsanwalt, keine dubio pro reo, keinen Gerichtshof, nichts.
+
+01:10:18.501 --> 01:10:20.500
+<v haraldlesch>Es gibt nur Urteile, sonst nichts.
+
+01:10:20.501 --> 01:10:24.200
+<v haraldlesch>Nämlich die Natur reagiert so, wie sie reagiert.
+
+01:10:24.201 --> 01:10:25.700
+<v haraldlesch>Man kann sie auch nicht ansprechen, es gibt keine Antworten.
+
+01:10:25.701 --> 01:10:31.400
+<v haraldlesch>Das heißt, stimmt nicht ganz, man kann mathematische Fragen an sich stellen, dann gibt es die mathematische Antwort, da ist sie ganz nett.
+
+01:10:31.401 --> 01:10:34.500
+<v haraldlesch>Aber in weiten Teilen gibt sie keine Antworten, weil so mathematisch ist sie dann doch nicht.
+
+01:10:34.501 --> 01:10:39.800
+<v haraldlesch>Oder auf jeden Fall nicht mit der Mathematik, die wir bis heute beherrschen.
+
+01:10:39.801 --> 01:10:45.500
+<v haraldlesch>Also müssen wir etwas tun, was glaube ich in den letzten 200 Jahren in den westlichen Demokratien immer weiter und weiter zurückgegangen ist,
+
+01:10:45.501 --> 01:10:50.700
+<v haraldlesch>wir müssen an etwas glauben, wir müssen eine absolute Größe anerkennen.
+
+01:10:50.701 --> 01:10:59.300
+<v haraldlesch>Der Rückgang der Kirchen, der Rückgang des Theologischen, das müssen wir hier sehr bedauern, weil die Anerkennung der Natur als absolute Größe fehlt uns völlig.
+
+01:10:59.301 --> 01:11:01.600
+<v haraldlesch>Mit der Natur kann man nicht kommunizieren.
+
+01:11:01.601 --> 01:11:07.700
+<v haraldlesch>Es gibt einen metaphysischen Schnitt zwischen Natur und Mensch.
+
+01:11:07.701 --> 01:11:10.200
+<v haraldlesch>Wir können innerhalb der Natur etwas tun.
+
+01:11:10.201 --> 01:11:12.200
+<v haraldlesch>Und wir sind ein Teil der Natur.
+
+01:11:12.201 --> 01:11:14.000
+<v haraldlesch>Wir können uns aber nicht aus der Natur rausnehmen.
+
+01:11:14.001 --> 01:11:18.300
+<v haraldlesch>Wir können machen was wir wollen, ohne Sauerstoff…
+
+01:11:18.301 --> 01:11:25.000
+<v haraldlesch>Obwohl es gibt ja jetzt diese Transhumanisten, die wollen sich ja demnächst irgendwie so einen Chip ins Hirn und dann sind sie nur noch in der Cloud unterwegs.
+
+01:11:25.001 --> 01:11:26.400
+<v timpritlove>Sind das die mit der Lichtnahrung?
+
+01:11:26.401 --> 01:11:33.600
+<v haraldlesch>Nein das sind die, die im Silicon Valley sitzen und für 1000 Dollar pro Monat irgendwelche Medikamente reinwerfen.
+
+01:11:33.601 --> 01:11:34.800
+<v timpritlove>Na super.
+
+01:11:34.801 --> 01:11:36.000
+<v haraldlesch>Das gibt es ja alles.
+
+01:11:36.001 --> 01:11:43.300
+<v haraldlesch>Aber in Wirklichkeit sind wir eben ein Teil der Natur und man könnte dann sogar sagen, was der Mensch tut ist dann auch natürlich, weil der ist ja Teil der Natur.
+
+01:11:43.301 --> 01:11:44.400
+<v haraldlesch>Da gibt es große Diskussionen.
+
+01:11:44.401 --> 01:11:53.400
+<v haraldlesch>Aber der wirkliche Punkt, den Wissenschaft heutzutage vor allen Dingen den jungen Leuten sagen könnte, ist, wir sind ein Instrument,
+
+01:11:53.401 --> 01:12:01.900
+<v haraldlesch>mit dem man ungeheuer viel über Vorgänge erfahren kann, die uns eigentlich geschenkt sind.
+
+01:12:01.901 --> 01:12:06.000
+<v haraldlesch>Wir kommen auf diese Welt und die Welt ist schon da.
+
+01:12:06.001 --> 01:12:11.300
+<v haraldlesch>Und das mal zu verstehen, warum sind Bäume eigentlich so hoch, wo doch eigentlich gegen die Gravitation nur eine 10 Meter hohe Wassersäule sein sollte,
+
+01:12:11.301 --> 01:12:12.900
+<v haraldlesch>es gibt aber Bäume, die sind viel höher.
+
+01:12:12.901 --> 01:12:14.700
+<v haraldlesch>Wie machen die das eigentlich?
+
+01:12:14.701 --> 01:12:17.800
+<v haraldlesch>Wie funktioniert das, was da um uns rum ist?
+
+01:12:17.801 --> 01:12:21.800
+<v haraldlesch>Einfach nur die Kunst des Wissens sozusagen.
+
+01:12:21.801 --> 01:12:29.500
+<v haraldlesch>Also wirklich was zu wissen, nur um des Wissens Willen, ohne dass man daraus gleich irgendwelche Penunze machen muss, das fände ich eine schöne Sache.
+
+01:12:29.501 --> 01:12:37.900
+<v haraldlesch>Ich fände es schön, wenn Wissenschaft als etwas verwendet wird, was man auch genießt, so wie man Musik genießen kann.
+
+01:12:37.901 --> 01:12:42.300
+<v haraldlesch>Und da haben wir auf diesem ästhetischen Weg wirklich viel verloren.
+
+01:12:42.301 --> 01:12:48.200
+<v haraldlesch>Wir sind halt den starken ökonomischen Weg gegangen, den in die Anwendungen rein und das wird auch immer wieder betont.
+
+01:12:48.201 --> 01:12:55.200
+<v haraldlesch>Ganz klar, bei jedem Projekt muss irgendwie betont werden, ob man damit nicht mal irgendwann Milliardär werden kann.
+
+01:12:55.201 --> 01:13:04.300
+<v haraldlesch>Aber einfach nur die Kunst, mein Gott man kann das wissen, das macht uns so viele Felder erst schön.
+
+01:13:04.301 --> 01:13:08.000
+<v haraldlesch>Also warum soll man über die Spätantike was wissen wollen?
+
+01:13:08.001 --> 01:13:10.300
+<v haraldlesch>Weil es interessant ist.
+
+01:13:10.301 --> 01:13:14.000
+<v haraldlesch>Und diese Kenntnis davon …
+
+01:13:14.001 --> 01:13:15.300
+<v haraldlesch>Also fällt mir gerade ein.
+
+01:13:15.301 --> 01:13:22.500
+<v haraldlesch>Ich habe neulich meinen Kollegen Martin Hose gefragt, sag mal gibt es eigentlich keine Karten von den Römern über das Imperium Romanum?
+
+01:13:22.501 --> 01:13:27.100
+<v haraldlesch>Nein, sagt er, die hatten nur Straßenkarten und die musst du so lesen, wie so eine U-Bahn-Karte heute.
+
+01:13:27.101 --> 01:13:32.800
+<v haraldlesch>Die hatten gar kein Interesse daran, ihr ganzes Reich, das wollten die gar nicht wissen.
+
+01:13:32.801 --> 01:13:34.700
+<v haraldlesch>Die wollten einfach nur wissen, wie lange brauchst du von A nach B, das waren Pragmatiker.
+
+01:13:34.701 --> 01:13:44.800
+<v haraldlesch>Und dann hat er mir aber die Geschichte von einem König erzählt, der den Griechen, weil die gegen die Perser losziehen wollten, dann mal eine Karte des persischen Reiches vorgestellt hat.
+
+01:13:44.801 --> 01:13:51.000
+<v haraldlesch>So nach dem Motto, seid ihr wahnsinnig ihr paar Griechen, guckt euch mal an, mit welchem Reich ihr euch da anlegt.
+
+01:13:51.001 --> 01:13:51.600
+<v haraldlesch>Und das ist doch irre.
+
+01:13:51.601 --> 01:13:54.900
+<v haraldlesch>Ich meine, wenn man sich dann fragt, wann gab es denn die ersten Karten von der ganzen Welt?
+
+01:13:54.901 --> 01:13:59.900
+<v haraldlesch>Oder wie sind denn so Entdeckungen, wie die von Columbus eigentlich eingebaut worden?
+
+01:13:59.901 --> 01:14:03.100
+<v haraldlesch>Und der Waldseemüller auf so einer Karte dann auf einmal da reinschreibt, Amerigo.
+
+01:14:03.101 --> 01:14:07.000
+<v haraldlesch>Nur weil der Vespucci Der Meinung gewesen ist, das ist ein neuer Kontinent.
+
+01:14:07.001 --> 01:14:08.800
+<v haraldlesch>Wo man auch mal merkt, wo kommt man eigentlich her?
+
+01:14:08.801 --> 01:14:11.500
+<v haraldlesch>Was für eine Geistesgeschichte steckt dahinter?
+
+01:14:11.501 --> 01:14:21.800
+<v haraldlesch>Wenn Wissenschaft das transportieren kann und das mit Menschen tut, die das Feuer in den Augen haben und die auch Lust haben, sich mit allen denjenigen zu unterhalten,
+
+01:14:21.801 --> 01:14:26.700
+<v haraldlesch>die aber sagen, das glaube ich aber jetzt nicht, dann wäre sie auch ein Friedensfaktor.
+
+01:14:26.701 --> 01:14:37.800
+<v haraldlesch>Und heutzutage hat sie natürlich in dieser technisch kalten Variante birgt sie das unglaubliche Potenzial, die Welt sogar mit Killerrobotern zu versorgen.
+
+01:14:37.801 --> 01:14:40.900
+<v haraldlesch>Das ist natürlich nicht unbedingt das was wir wollen, aber es wird gemacht.
+
+01:14:40.901 --> 01:14:47.500
+<v haraldlesch>Diese Digitalisierung, die auf der einen Seite medizinisch und in vielen anderen Bereichen ja eine großartige Erfindung ist, die wird jetzt dazu verwendet,
+
+01:14:47.501 --> 01:14:50.800
+<v haraldlesch>uns mit autonom entscheidenden Waffensystemen zu konfrontieren.
+
+01:14:50.801 --> 01:14:55.000
+<v haraldlesch>An der Grenze zwischen Süd- und Nordkorea sind sie schon im Einsatz.
+
+01:14:55.001 --> 01:14:58.900
+<v haraldlesch>Die Israelis bauen sehr viel, die Russe, Amerikaner.
+
+01:14:58.901 --> 01:15:05.200
+<v haraldlesch>Und natürlich will irgendwie mag man sich nicht vorstellen, dass man eines Tages in dem Film Transformer drin ist, aber man ist dann auf einmal drin.
+
+01:15:05.201 --> 01:15:08.700
+<v haraldlesch>Auf einmal sind die Maschinen dann diejenigen, die dann sagen, wo es langgeht.
+
+01:15:08.701 --> 01:15:17.900
+<v haraldlesch>Und die Vorstellung, dass damit sogar friedensgefährdende Maschinen gebaut werden, wie das unlängst von einer Expertin der UNO ausgesprochen worden ist,
+
+01:15:17.901 --> 01:15:23.700
+<v haraldlesch>was da für eine apokalyptische Vision entsteht, das kann doch nicht wahr sein, dass wir uns auf so was einlassen.
+
+01:15:23.701 --> 01:15:34.400
+<v haraldlesch>Und dann sieht man wieder, wie wichtig es ist, dass kommuniziert wird und dass eben dann auch entsprechend Wissenschaft an die wieder rangeht, die sie auch letztlich immer wieder finanziert,
+
+01:15:34.401 --> 01:15:42.400
+<v haraldlesch>das ist ja dieser Rebound, der dann auch wiederkommt, dass wir ja ohne die Unterstützung der Gesellschaft auch gar keinen wissenschaftlichen Institutionen hätten.
+
+01:15:42.401 --> 01:15:51.000
+<v haraldlesch>Und eine Universitätssternwarte, es gab lange Zeit, also vor 200 Jahren gab es lange Zeit Widersacher, für was braucht Bayern eine Universitätssternwarte?
+
+01:15:51.001 --> 01:15:54.200
+<v haraldlesch>Wir haben keine Marine, dann brauchen wir auch keine Navigation.
+
+01:15:54.201 --> 01:15:59.400
+<v haraldlesch>Also auch schon damals war ja der Gedanke, dass Astronomie eher einen Nutzen haben sollte, der war ganz stark.
+
+01:15:59.401 --> 01:16:03.500
+<v haraldlesch>Und dann hat man aber gesagt, okay wir machen das jetzt, weil die anderen haben auch eine.
+
+01:16:03.501 --> 01:16:06.400
+<v haraldlesch>Und wir hatten hier mal für ein paar Jahre das größte Teleskop der Welt.
+
+01:16:06.401 --> 01:16:09.800
+<v haraldlesch>Bis dann die Bäume hier so gewachsen sind, dass man nicht mehr …
+
+01:16:09.801 --> 01:16:11.000
+<v timpritlove>Rausgucken konnte.
+
+01:16:11.001 --> 01:16:17.200
+<v haraldlesch>Aber immerhin, also da wo wir hier sind, da hat man sogar früher Straßen so gebaut, dass die Astronomen mit ihrem Teleskop bis zum Horizont gucken konnten.
+
+01:16:17.201 --> 01:16:21.300
+<v haraldlesch>Bis dann die ganz reichen Leute kamen und gesagt haben, ich will mein Haus so hinbauen, wie ich das haben will.
+
+01:16:21.301 --> 01:16:26.000
+<v haraldlesch>Dann wurde die Ökonomie schon, die hat da auch schon übernommen.
+
+01:16:26.001 --> 01:16:29.400
+<v haraldlesch>Es ist also keine Frage der Jetztzeit.
+
+01:16:29.401 --> 01:16:36.100
+<v timpritlove>Wenn Wissenschaft ist wie Musik und man da auch eine entsprechende Nähe finden muss,
+
+01:16:36.101 --> 01:16:44.900
+<v timpritlove>und wenn Natur, also sozusagen die Nähe und die innere Verbundenheit von dem Konzept Natur und dem Konzept Mensch näherbringen will,
+
+01:16:44.901 --> 01:16:53.800
+<v timpritlove>und auch so eine Begeisterungsfähigkeit rüberbringen will, stellt sich natürlich jetzt die Frage, welchen Anteil hat die frühe Schulbildung an diesem ganzen Spiel.
+
+01:16:53.801 --> 01:17:06.400
+<v timpritlove>Wir haben ja viel über Politik und wirtschaftliche Zusammenhänge geredet, das sind natürlich die Dinge, die dann erst im höheren Lebensalter richtig einem die Knüppel zwischen die Beine werfen.
+
+01:17:06.401 --> 01:17:14.200
+<v timpritlove>Es ist auch ein bisschen vermessen, glaube ich, bei jedem gesellschaftlichen Problem dann immer mit dieser, naja das müsste dann schon in der Grundschule gelehrt werden.
+
+01:17:14.201 --> 01:17:18.200
+<v haraldlesch>Nein gelehrt werden muss es nicht.
+
+01:17:18.201 --> 01:17:21.800
+<v haraldlesch>Aber das ist das, was man im Englischen das Nudging nennt, das muss so angestoßen werden.
+
+01:17:21.801 --> 01:17:29.500
+<v haraldlesch>Also ich bin zum Beispiel schon glaube ich in der Grundschule ziemlich, was meine Technikbegeisterung oder meine naturwissenschaftliche Begeisterung betrifft,
+
+01:17:29.501 --> 01:17:34.700
+<v haraldlesch>durch die Lehrer in der Grundschule begeistert worden, ohne dass sie das angesprochen hätten, aber es war halt ein Thema.
+
+01:17:34.701 --> 01:17:37.600
+<v haraldlesch>Wenn irgendwas passiert ist, dann wurde darüber gesprochen.
+
+01:17:37.601 --> 01:17:39.400
+<v haraldlesch>Ich habe das und das gehört, ja ja aha.
+
+01:17:39.401 --> 01:17:41.200
+<v haraldlesch>Das wurde positiv bewertet.
+
+01:17:41.201 --> 01:17:47.300
+<v haraldlesch>Es wurde nicht irgendwie mit diesem, diese Amerikaner sind doch verrückt mit ihren blöden Raumfahrtdingern,
+
+01:17:47.301 --> 01:17:52.500
+<v haraldlesch>sondern wenn ich da gezeigt habe, ich habe hier das mal aufgeschrieben, Gemini 8 und so weiter, was war denn das?
+
+01:17:52.501 --> 01:17:57.500
+<v haraldlesch>Das sind Männer, die sind da hochgeflogen und dann war das eine riesige Sache, positiv.
+
+01:17:57.501 --> 01:17:59.900
+<v timpritlove>Weil die Zeit damals auch so war.
+
+01:17:59.901 --> 01:18:02.000
+<v haraldlesch>Und es gab auch Zeit.
+
+01:18:02.001 --> 01:18:08.200
+<v haraldlesch>Also das Interessante ist, wirklich Lehrpläne zu vergleichen.
+
+01:18:08.201 --> 01:18:11.200
+<v haraldlesch>In welcher Zeit wurde was unterrichtet?
+
+01:18:11.201 --> 01:18:20.200
+<v haraldlesch>Das ist ungeheuerlich, was für eine Verdichtung an Informationen heute in Schulen aller Formen stattfindet im Vergleich zu früheren Zeiten.
+
+01:18:20.201 --> 01:18:29.400
+<v haraldlesch>Und zugleich dem Verlust von elementaren Fähigkeiten, weil die aufgrund von irgendwelchen pädagogischen Modellen nicht mehr wertgeschätzt werden.
+
+01:18:29.401 --> 01:18:34.400
+<v haraldlesch>Also für mich steht an oberster Stelle der völlige Verlust an Kopfrechenfähigkeit.
+
+01:18:34.401 --> 01:18:41.100
+<v haraldlesch>Also den Zahlenraum nicht schnell und fast and furious zu durchlaufen, schnelles Kopfrechnen,
+
+01:18:41.101 --> 01:18:48.300
+<v haraldlesch>und zwar in Form von Wettbewerb in der Schulklasse, immer schnell schnell schnell, wer ist der Erste, wer ist der Erste, schnell, schnell, noch schneller, noch schneller,
+
+01:18:48.301 --> 01:18:49.800
+<v haraldlesch>um das wirklich zu …
+
+01:18:49.801 --> 01:18:55.600
+<v haraldlesch>Verstehe ich nicht, dass man auf Handschrift in Zukunft verzichten will.
+
+01:18:55.601 --> 01:18:59.300
+<v haraldlesch>Also die Lesefähigkeit, dass man lesen und schreiben und rechnen können muss.
+
+01:18:59.301 --> 01:19:03.400
+<v haraldlesch>Das wird also nicht mehr an oberste Priorität gestellt.
+
+01:19:03.401 --> 01:19:08.600
+<v haraldlesch>Obwohl das Eigenschaften sind, die glaube ich in allen Zeiten immer sich als außerordentlich positiv erwiesen haben.
+
+01:19:08.601 --> 01:19:09.600
+<v timpritlove>Ja und praktisch, wenn mal der Strom ausfällt.
+
+01:19:09.601 --> 01:19:11.900
+<v haraldlesch>Zum Beispiel genau.
+
+01:19:11.901 --> 01:19:19.600
+<v haraldlesch>Aber das gab dann pädagogische Modelle und ich denke, dass heutzutage, wenn es um die Erzählung geht, die Kinder erleben sollen,
+
+01:19:19.601 --> 01:19:28.400
+<v haraldlesch>oder den Zeitgeist, in dem sie da ranwachsen, dass der natürlich schon geprägt ist durch sowohl die Medien, die eingesetzt werden,
+
+01:19:28.401 --> 01:19:30.900
+<v haraldlesch>die Medien, die die Kinder selber mitbringen.
+
+01:19:30.901 --> 01:19:35.200
+<v haraldlesch>Wo man sich fragen muss, wieso haben denn 6- oder 7-Jährige schon ein Smartphone und so weiter.
+
+01:19:35.201 --> 01:19:42.200
+<v haraldlesch>Und wo die Lehrer dann auch merken teilweise, dass die Kleinkinder die ganze Zeit auf irgendwelchen Oberflächen romgewischt haben
+
+01:19:42.201 --> 01:19:46.800
+<v haraldlesch>und so kraftlose Hände haben, dass sie keinen Bleistift mehr halten können, stellen Sie sich das mal vor.
+
+01:19:46.801 --> 01:19:49.500
+<v haraldlesch>Der Wahnsinn.
+
+01:19:49.501 --> 01:19:50.700
+<v haraldlesch>Also das ist leider kein Einzelfall.
+
+01:19:50.701 --> 01:20:00.400
+<v haraldlesch>Und da sieht man dann schon, dass natürlich hier bei dieser Vorschul- oder in den ersten Jahren, die Bildung der ersten Jahre ist auch eine Bildung, die durch die Eltern zustande kommt,
+
+01:20:00.401 --> 01:20:03.800
+<v haraldlesch>das ist nicht nur durch die Schule oder durch die Kindergärten.
+
+01:20:03.801 --> 01:20:10.900
+<v haraldlesch>Und die Eltern verhalten sich eben möglicherweise auch extrem unsicher, weil sie nicht wissen, was ist denn nun das Beste für mein Kind?
+
+01:20:10.901 --> 01:20:25.400
+<v haraldlesch>Und anstatt so eine Art von Grundausstattung richtig gut, also das Gute muss nicht viel sein, also weniger kann da viel viel mehr sein, sich auf das wirklich wichtige zu beschränken
+
+01:20:25.401 --> 01:20:32.100
+<v haraldlesch>und das so gut zu machen, dass Kinder das richtig gut können und damit natürlich auch Vertrauen zu haben.
+
+01:20:32.101 --> 01:20:41.000
+<v haraldlesch>Nämlich Vertrauen darin, dass die Kinder das, was sie dann in Zukunft lernen müssen, dann schon lernen werden, weil sie eine gute Grundlage haben,
+
+01:20:41.001 --> 01:20:44.300
+<v haraldlesch>ist aus der Schule Misstrauensmanagement geworden.
+
+01:20:44.301 --> 01:20:52.300
+<v haraldlesch>Also aus einer Kultur des Vertrauens, ja wenn die erstmal lesen, schreiben, rechnen können, den Rest den mach ich schon, ist ein Misstrauensmanagement geworden.
+
+01:20:52.301 --> 01:20:55.400
+<v haraldlesch>Das sieht man daran, wie auf die Noten geguckt wird.
+
+01:20:55.401 --> 01:21:03.800
+<v haraldlesch>Dass nach dem 4. Schuljahr hier in Bayern zum Beispiel ausgelost wird, hätte ich fast gesagt, ausgesucht wird, ob die Kinder ins Gymnasium gehen oder nicht ins Gymnasium gehen.
+
+01:21:03.801 --> 01:21:11.800
+<v haraldlesch>Wie immer und immer wieder durch irgendwelche Schultests so eine Art von Existenzberechtigung nachgewiesen wird.
+
+01:21:11.801 --> 01:21:20.600
+<v haraldlesch>Und anstatt große Freiräume für Lehrerinnen und Lehrer zur Verfügung zu stellen, weil die wissen eigentlich schon, was sie machen müssen,
+
+01:21:20.601 --> 01:21:29.700
+<v haraldlesch>sind die Lehrpläne so dicht, dass viel Zeit damit vergehen muss, erstmal das zu lernen, was gemäß einer Zentralprüfung dann irgendwie gemacht werden muss.
+
+01:21:29.701 --> 01:21:34.700
+<v haraldlesch>Und das ist eine Normierung, die da stattfindet, die keinem Kind gerecht wird.
+
+01:21:34.701 --> 01:21:37.200
+<v haraldlesch>Wir haben ja so eine Maschine, wo wir alle möglichen …
+
+01:21:37.201 --> 01:21:42.200
+<v haraldlesch>Ich glaube es ist ein Zeichentrickfilm, da kommen Kinder in eine Maschine rein.
+
+01:21:42.201 --> 01:21:47.700
+<v haraldlesch>Die einen sind langsam, die anderen sind schnell, die einen sind groß, die anderen sind klein, es gibt dicke, dünne, runde, viereckige, alles mögliche.
+
+01:21:47.701 --> 01:21:53.700
+<v haraldlesch>Aber am Ende kommt eine Schablone raus, tschup, tschup, tschup.
+
+01:21:53.701 --> 01:21:57.000
+<v haraldlesch>Und da kann man sich schon vorstellen, dass da unglaubliche Verluste stattgefunden haben auf dem Weg da durch.
+
+01:21:57.001 --> 01:22:06.300
+<v haraldlesch>Wir ziehen alles durch Schablonen durch und geben vor allen Dingen auch den Lehrerinnen und Lehrern gar nicht die Gelegenheit, Pädagogen zu sein.
+
+01:22:06.301 --> 01:22:15.200
+<v haraldlesch>Großzügig, Spielräume, zu gucken, Mensch der eine ist langsamer, der andere ist schneller und so weiter, nichts, wir behandeln alle gleich.
+
+01:22:15.201 --> 01:22:15.600
+<v haraldlesch>Das ist irre.
+
+01:22:15.601 --> 01:22:26.500
+<v haraldlesch>Ich meine, nach der Wende 89 sollte man doch denken, komm das mit dem Kommunismus das hat sich jetzt erledigt, aber nein, wir haben die Silicon Valley Monopole als große fast staatskapitalistische Systeme.
+
+01:22:26.501 --> 01:22:32.300
+<v haraldlesch>Und wir haben eine Normierung im Bildungsbereich in allen möglichen Ländern, dass es einem graust.
+
+01:22:32.301 --> 01:22:40.800
+<v haraldlesch>PISA-Test ist ein Test der OECD, wo nach ganz stark wirtschaftskompetenzfähigen Eigenschaften untersucht wird.
+
+01:22:40.801 --> 01:22:45.900
+<v haraldlesch>Und wenn man sich dann anschaut, wer da an erster Stelle ist, ….
+
+01:22:45.901 --> 01:22:52.400
+<v haraldlesch>Gestern Abend gab es so eine Sendung über Südkorea anlässlich der Olympiade, die ja jetzt beginnt.
+
+01:22:52.401 --> 01:22:55.600
+<v haraldlesch>Und da waren Kinder zu sehen, die abends um 20 Uhr noch in so einer Paukschule drin sind.
+
+01:22:55.601 --> 01:22:58.500
+<v haraldlesch>Einige brachen schon schlafend zusammen.
+
+01:22:58.501 --> 01:23:07.000
+<v haraldlesch>Müssen aber den ganzen Nachmittag, also nach der Schule sind die noch den ganzen Nachmittag in so einer Schule, da lernen sie dann programmieren und noch irgendwelchen anderen Kram,
+
+01:23:07.001 --> 01:23:10.600
+<v haraldlesch>also der Wahnsinn, abends um 20 Uhr, die waren wirklich fertig, fix und fertig.
+
+01:23:10.601 --> 01:23:17.900
+<v haraldlesch>Und das sind aber dann die Staaten, die oben bei den PISA-Test ganz oben sind, Singapur, China, Südkorea, mein Gott.
+
+01:23:17.901 --> 01:23:22.100
+<v timpritlove>Weil die dem Wirtschaftssystem sozusagen am meisten zuführbar sind?
+
+01:23:22.101 --> 01:23:28.000
+<v haraldlesch>Ja ja und auch richtig so Kommandostruktur und da wird eben genau das gelehrt, was gelernt werden muss.
+
+01:23:28.001 --> 01:23:29.900
+<v haraldlesch>Das ist keine Bildung, das ist Ausbildung.
+
+01:23:29.901 --> 01:23:30.500
+<v haraldlesch>Und das ist dann schlimm.
+
+01:23:30.501 --> 01:23:31.700
+<v timpritlove>Aber trotzdem muss ja…
+
+01:23:31.701 --> 01:23:42.400
+<v timpritlove>Ich meine, auf der einen Seite haben wir darüber gesprochen, dass wir die Komplexität dieser Welt auch in irgendeiner Form vermitteln müssen.
+
+01:23:42.401 --> 01:23:42.900
+<v haraldlesch>Ja.
+
+01:23:42.901 --> 01:23:44.700
+<v timpritlove>Und sie hat sicherlich nicht nachgelassen.
+
+01:23:44.701 --> 01:23:49.600
+<v timpritlove>Oder ich bin mir auch gar nicht so sicher, ob das die richtige Bezeichnung ist, die Welt wird immer komplexer.
+
+01:23:49.601 --> 01:23:50.600
+<v haraldlesch>Nö nö.
+
+01:23:50.601 --> 01:23:53.900
+<v timpritlove>Ich meine, was die Erkenntnisse betrifft, passt ja eigentlich immer mehr zusammen.
+
+01:23:53.901 --> 01:23:54.700
+<v haraldlesch>Genau.
+
+01:23:54.701 --> 01:23:59.400
+<v timpritlove>Das heißt eigentlich es wird schlüssiger vielleicht.
+
+01:23:59.401 --> 01:24:05.400
+<v timpritlove>Nichtsdestotrotz ist natürlich unsere Welt mit mehr Dingen und mit mehr Vorgängen gefüllt.
+
+01:24:05.401 --> 01:24:08.200
+<v haraldlesch>Das ist die, genau.
+
+01:24:08.201 --> 01:24:12.600
+<v timpritlove>So und nichtsdestotrotz muss das ja auch in irgendeiner Form honoriert werden.
+
+01:24:12.601 --> 01:24:19.100
+<v timpritlove>Da stelle ich mir natürlich die Frage, ist es überhaupt noch so möglich mit dem Schulsystem, wie wir es haben, den Leuten hier noch den Anschluß
+
+01:24:19.101 --> 01:24:22.200
+<v timpritlove>an den Stand der Forschung zu geben.
+
+01:24:22.201 --> 01:24:31.200
+<v timpritlove>Ich meine, wir haben jetzt so viel akkumuliertes Wissen über Jahrhunderte, das alles so schrittweise nachvollziehen zu können, könnte ja zu aufwendig sein.
+
+01:24:31.201 --> 01:24:32.000
+<v haraldlesch>Ja.
+
+01:24:32.001 --> 01:24:36.500
+<v timpritlove>Und wenn es vielleicht doch möglich ist, wie denn?
+
+01:24:36.501 --> 01:24:39.500
+<v haraldlesch>Also ich will nochmal kurz was sagen.
+
+01:24:39.501 --> 01:24:48.100
+<v haraldlesch>Die Natur ist sicherlich nicht komplexer geworden, sondern nur in dem Wechselspiel des Menschen mit der Natur hat er so viele verschiedene neue Verfahren entwickelt,
+
+01:24:48.101 --> 01:24:56.700
+<v haraldlesch>wo er aus dieser Sphäre des Anthropos, also des Menschen, in die Natursphäre eingreift und dann hat man diese Vorwärts-Rückwärts, also diese Rückwirkung
+
+01:24:56.701 --> 01:25:04.100
+<v haraldlesch>und das macht die eigentliche Komplexität aus, weil wir inzwischen so intensiv in die Natur eingreifen, dass die Rückwirkungen, mit denen wir zu tun haben,
+
+01:25:04.101 --> 01:25:08.500
+<v haraldlesch>dann von uns schon wieder Reaktionen verlangen, die auch ihrerseits wieder Rückwirkungen haben.
+
+01:25:08.501 --> 01:25:11.600
+<v haraldlesch>Und man muss ja unterscheiden zwischen kompliziert und komplex.
+
+01:25:11.601 --> 01:25:14.200
+<v haraldlesch>Kompliziert ist das Einbahnstraßensystem von Florenz.
+
+01:25:14.201 --> 01:25:18.300
+<v haraldlesch>Das hat man aber, wenn man da ein paar Tage gewohnt hat, hat man das raus.
+
+01:25:18.301 --> 01:25:22.500
+<v haraldlesch>Komplex würde dieses Einbahnstraßensystem, wenn die erlaubte Fahrtrichtung von der Verkehrsdichte abhängig wäre.
+
+01:25:22.501 --> 01:25:33.100
+<v haraldlesch>Dann hätte man nämlich keine Prognosemöglichkeit mehr und man könnte sogar selber versuchen, die Fahrtrichtung zu manipulieren, indem man eben in eine bestimmte Ecke fährt.
+
+01:25:33.101 --> 01:25:40.300
+<v haraldlesch>Das heißt, Komplexität bedeutet vor allen Dingen, sich auch selbst mit da rein zu nehmen in den Ablauf, den man da …
+
+01:25:40.301 --> 01:25:41.000
+<v timpritlove>Klingt so ein bisschen wie Internet.
+
+01:25:41.001 --> 01:25:48.400
+<v haraldlesch>Genau. Also da darf man auch nicht immer nur über das Internet reden, man ist ja selber auch Teil davon und deswegen sage ich auch immer,
+
+01:25:48.401 --> 01:25:55.000
+<v haraldlesch>tun Sie das nicht, tun Sie jenes nicht, und denken Sie immer dran, Sie sind auch nur ein Teil des Teils, der aber nicht anfangs alles war.
+
+01:25:55.001 --> 01:25:58.000
+<v haraldlesch>Aber zurück zur Sache, zu der Ausgangsfrage, nämlich wie könnte man das denn machen?
+
+01:25:58.001 --> 01:26:07.800
+<v haraldlesch>Gerade das, was Sie da gesagt haben, unterstützt eigentlich meine These, dass man so Grundfertigkeiten braucht, nämlich schreiben, lesen und rechnen,
+
+01:26:07.801 --> 01:26:11.000
+<v haraldlesch>die für alle diese Auseinandersetzungen mit der Welt von größter Bedeutung sind.
+
+01:26:11.001 --> 01:26:15.300
+<v haraldlesch>Das Rechnen als eine quantifizierbare Methodik, dass man mal sieht, was ist denn da?
+
+01:26:15.301 --> 01:26:20.900
+<v haraldlesch>Das kann natürlich noch viel komplizierter werden, nämlich indem man noch andere Methoden der Mathematik verwendet,
+
+01:26:20.901 --> 01:26:31.400
+<v haraldlesch>die dann bis hin zum Beispiel auch in der Informatik zu Algorithmen führen können und so weiter, aber das Schreiben und Lesen als die Auseinandersetzung mit Texten.
+
+01:26:31.401 --> 01:26:35.500
+<v haraldlesch>Texte sind etwas, was wir Menschen durch unsere gesamte Geschichte produziert haben.
+
+01:26:35.501 --> 01:26:38.300
+<v haraldlesch>Es gab Bildertexte, aber immer mehr und mehr, als die Schrift dann da war.
+
+01:26:38.301 --> 01:26:44.700
+<v haraldlesch>Und in diese Texten versuchen wir ja, Welt auch darzustellen, und zwar nicht nur die Welt von außen, sondern auch unsere inneren Welten.
+
+01:26:44.701 --> 01:26:56.400
+<v haraldlesch>Und Textanalysen, also überhaupt in der Lage zu sein, einer komplexen, einem schwierigen Text zu folgen, also Quintessenz rausziehen zu können,
+
+01:26:56.401 --> 01:26:58.000
+<v haraldlesch>was meint der denn?
+
+01:26:58.001 --> 01:27:01.400
+<v haraldlesch>In politischen Zusammenhängen sind Texte eine so wichtige Sache.
+
+01:27:01.401 --> 01:27:04.900
+<v haraldlesch>Es gibt Vorlagen, es gibt immer irgendwas, was man lesen muss.
+
+01:27:04.901 --> 01:27:09.400
+<v haraldlesch>Das heißt schreiben, lesen, rechnen sind erst mal von fundamentaler Bedeutung, das muss man können.
+
+01:27:09.401 --> 01:27:10.800
+<v haraldlesch>Aber das reicht nicht.
+
+01:27:10.801 --> 01:27:16.200
+<v haraldlesch>Was man ja braucht ist ja ein Instrumentarium, mit dem man mit Situationen umgeht, die man noch gar nicht kennt.
+
+01:27:16.201 --> 01:27:18.300
+<v haraldlesch>Das ist das eigentlich Interessante.
+
+01:27:18.301 --> 01:27:25.600
+<v haraldlesch>Deswegen muss neben schreiben, rechnen und lesen muss unbedingt gefördert werden die körperliche Fähigkeit, dem Ganzen standzuhalten.
+
+01:27:25.601 --> 01:27:27.800
+<v haraldlesch>Man braucht viel mehr Sportunterricht in der Schule.
+
+01:27:27.801 --> 01:27:29.700
+<v haraldlesch>Man braucht Kunst und Musik.
+
+01:27:29.701 --> 01:27:33.500
+<v haraldlesch>Das sind extrem wichtige Eigenschaften.
+
+01:27:33.501 --> 01:27:35.400
+<v haraldlesch>Ich will es mal vielleicht an einer Anekdote klarmachen.
+
+01:27:35.401 --> 01:27:41.100
+<v haraldlesch>Wenn ich einen Außerirdischen treffen würde, dann würde ich ihn nicht nach den Naturgesetzen fragen, das sind die gleichen wie bei uns.
+
+01:27:41.101 --> 01:27:44.500
+<v haraldlesch>Ich würde ihn fragen, was malt ihr für Bilder, was macht ihr für eine Musik?
+
+01:27:44.501 --> 01:27:46.700
+<v haraldlesch>An welche Götter glaubt ihr?
+
+01:27:46.701 --> 01:27:48.700
+<v haraldlesch>Welche Märchen erzählt ihr euren Kindern?
+
+01:27:48.701 --> 01:27:59.300
+<v haraldlesch>Also das, was uns als Kulturwesen ausmacht, sind ja nicht die Dinge, die wir da in der Natur in Form von elektrischer Ladung, Gravitationskonstanten und dem Planckschen Wirkungsquantum wiederfinden.
+
+01:27:59.301 --> 01:28:05.500
+<v haraldlesch>Sondern das ist die Auseinandersetzung, die spezifisch menschlich mit der Welt ist.
+
+01:28:05.501 --> 01:28:05.900
+<v haraldlesch>Welche Bilder malen wir?
+
+01:28:05.901 --> 01:28:08.700
+<v haraldlesch>Welche Geschichten erzählen wir unseren Kindern?
+
+01:28:08.701 --> 01:28:10.600
+<v haraldlesch>Also das ist etwas, was in uns so tief angelegt ist.
+
+01:28:10.601 --> 01:28:17.100
+<v haraldlesch>Wenn Sie sich anschauen, wie Steinzeitmenschen vor 10.000 oder 20.000 Jahren miteinander kommuniziert haben, sie haben immer Geschichten gewählt,
+
+01:28:17.101 --> 01:28:18.700
+<v haraldlesch>sie haben Symbole gewählt.
+
+01:28:18.701 --> 01:28:26.500
+<v haraldlesch>Symbole sind für uns so wichtig, weil sie ganze Zeitzusammenhänge auf einmal verdichten können.
+
+01:28:26.501 --> 01:28:28.800
+<v haraldlesch>Aber dazu braucht es die Fähigkeit, zuhören zu können.
+
+01:28:28.801 --> 01:28:34.700
+<v haraldlesch>Dazu braucht es die Fähigkeit, aufmerksam zu sein, konzentriert zu sein, sich zu fokussieren, wenn nötig,
+
+01:28:34.701 --> 01:28:39.600
+<v haraldlesch>aber ansonsten auch immer mit einem etwas breiteren Blick die Welt zu betrachten.
+
+01:28:39.601 --> 01:28:45.800
+<v haraldlesch>Also nicht zu sehr Spezialist zu sein, aber ein guter Handwerker, der sein Handwerk wirklich beherrscht.
+
+01:28:45.801 --> 01:28:47.300
+<v haraldlesch>Der weiß genau was er kann.
+
+01:28:47.301 --> 01:28:52.300
+<v haraldlesch>Und er weiß möglicherweise aus dieser Position heraus auch, was er als nächstes können würde.
+
+01:28:52.301 --> 01:28:54.600
+<v haraldlesch>Aber dazu ist es notwendig, was zu können.
+
+01:28:54.601 --> 01:28:59.500
+<v haraldlesch>Und ich sage jetzt extra können, ich rede nicht über Kompetenzen, das ist mir viel zu schwach.
+
+01:28:59.501 --> 01:29:00.900
+<v haraldlesch>Man muss Dinge können.
+
+01:29:00.901 --> 01:29:03.600
+<v haraldlesch>Dazu gehört auch, dass Dinge geübt werden müssen.
+
+01:29:03.601 --> 01:29:12.200
+<v haraldlesch>Wer Klavier spielen will, der kann nicht mit der Klavierkompetenz spielen, sondern er muss wissen, was der Unterschied ist zwischen schwarzen und weißen Tasten.
+
+01:29:12.201 --> 01:29:14.600
+<v haraldlesch>Und er muss auch die Noten können.
+
+01:29:14.601 --> 01:29:23.400
+<v haraldlesch>Also das heißt, es gibt gewisse Fähigkeiten, die sind absolut notwendig, und die werden meiner Ansicht nach heutzutage in der Schule viel zu wenig bewertet, wirklich richtig gut gemacht.
+
+01:29:23.401 --> 01:29:26.600
+<v haraldlesch>Und es gibt viel zu viel, was man lernen kann, wenn es nötig ist.
+
+01:29:26.601 --> 01:29:35.800
+<v haraldlesch>Und das Interessante finde ich zum Beispiel, es gibt eine ganze Reihe von Reformschulen, die genau dieses Projektdenken zum Beispiel sehr stark befördern.
+
+01:29:35.801 --> 01:29:46.300
+<v haraldlesch>Das heißt, die Kinder lernen Grundfertigkeiten und dann werden sie in ein Projekt gesteckt oder hineingebracht und in diesem Projekt werden jetzt neue Fähigkeiten erfordert.
+
+01:29:46.301 --> 01:29:49.700
+<v haraldlesch>Und die werden sie lernen, weil sie etwas bereits können, von dem sie ausgehen können.
+
+01:29:49.701 --> 01:29:52.000
+<v haraldlesch>Und ich denke, da kann man richtig viel machen.
+
+01:29:52.001 --> 01:30:03.600
+<v haraldlesch>Es ist gar nicht notwendig, einen Schulplan zu haben, der so voll ist, weil die Freiheiten, sich in Projekten bzw. in Interessensgebieten auch mal neu auszuprobieren, das müsste da sein.
+
+01:30:03.601 --> 01:30:07.500
+<v haraldlesch>Und das würde eben auch die Gelegenheit geben, viel langsamer …
+
+01:30:07.501 --> 01:30:11.400
+<v haraldlesch>Ich weiß bis heute nicht, warum wir das Schulsystem so beschleunigt haben, das ist auch so eine Geschichte.
+
+01:30:11.401 --> 01:30:16.400
+<v haraldlesch>Die Menschen werden immer älter, warum sollen eigentlich ausgerechnet die ersten 20 Jahre so beschleunigt werden?
+
+01:30:16.401 --> 01:30:20.400
+<v haraldlesch>Dass wir irgendwas abgeschlossen haben, völliger Schwachsinn.
+
+01:30:20.401 --> 01:30:25.200
+<v haraldlesch>Es geht im Studium ja noch weiter, was wir hier haben mit Bologna ist ja völliger Blödsinn gewesen, das zu machen.
+
+01:30:25.201 --> 01:30:26.500
+<v haraldlesch>Also systematische Fächer …
+
+01:30:26.501 --> 01:30:27.300
+<v timpritlove>Eigentlich müsste man es eher verlängern?
+
+01:30:27.301 --> 01:30:29.100
+<v haraldlesch>Na klar, na unbedingt.
+
+01:30:29.101 --> 01:30:36.600
+<v haraldlesch>Also ich würde immer dafür plädieren erst mal, dass innerhalb der Schule, spätestens nach dem 10. Schuljahr die Jugendlichen dann für ein Jahr ein soziales Jahr machen.
+
+01:30:36.601 --> 01:30:39.800
+<v haraldlesch>Und zwar Männlein wie Weiblein, um zu wissen, in welchem Land lebe ich.
+
+01:30:39.801 --> 01:30:43.800
+<v haraldlesch>Nicht ein soziales Jahr irgendwo auf der Welt, sondern hic rhodus hic salta, hier, hier.
+
+01:30:43.801 --> 01:30:46.400
+<v haraldlesch>Schau dir an, wer deine Hilfe braucht.
+
+01:30:46.401 --> 01:30:54.100
+<v haraldlesch>Das junge Menschen sich mal kennenlernen in einem Zusammenhang, wo sie merken, oh die sind ja auf meine Hilfe angewiesen.
+
+01:30:54.101 --> 01:30:56.200
+<v haraldlesch>Oder die anderen brauchen meinen Beitrag.
+
+01:30:56.201 --> 01:31:02.500
+<v haraldlesch>Um dann wieder in die Schule zurückzugehen und zu sehen, okay ich will gar nicht studieren, ich will eigentlich mit Menschen zusammenarbeiten, ich will was praktisches machen.
+
+01:31:02.501 --> 01:31:05.500
+<v haraldlesch>Also so ein Jahr zu geben für Persönlichkeitsfindung.
+
+01:31:05.501 --> 01:31:17.300
+<v haraldlesch>Ich fände es großartig, wenn wir tatsächlich unseren Studentinnen und Studenten mehr Zeit lassen würden und sie nicht in irgendwelche kanonischen fünf Jahre oder so was für ein Masterstudium reinpressen.
+
+01:31:17.301 --> 01:31:23.200
+<v haraldlesch>Und vor allen Dingen auch nicht, was ich ganz fürchterlich finde ist diese Notenkonzentration.
+
+01:31:23.201 --> 01:31:27.100
+<v haraldlesch>Dass wir jede Vorlesung mit einer Note beenden, so ein Quatsch.
+
+01:31:27.101 --> 01:31:34.300
+<v haraldlesch>Wenn ich mir angucke, ich danke Gott auf den Knien, dass man niemals erfahren hat, welche Note ich Quantenfeldtheorie gehabt habe.
+
+01:31:34.301 --> 01:31:38.500
+<v haraldlesch>Stand nur drauf, bestanden, gut.
+
+01:31:38.501 --> 01:31:44.400
+<v haraldlesch>Aber wir hatten dann etwas ganz großartiges in diesen alten Studiengängen, das fand ich extrem wichtig und heute noch mehr denn je.
+
+01:31:44.401 --> 01:31:49.000
+<v haraldlesch>Das ist nämlich die große mündliche Prüfung, in dem man ein Fach im Zusammenhang lernen musste.
+
+01:31:49.001 --> 01:31:55.500
+<v haraldlesch>Das heißt, man musste nicht irgendwie eine einzige Vorlesung vorbereiten für eine Klausur, sondern da ging es dann darum,
+
+01:31:55.501 --> 01:32:03.300
+<v haraldlesch>dem Professor/der Professorin gegenüber zu sitzen und mit ihr und ihm eine Stunde lang über so ein ganzes Teilgebiet zu sprechen.
+
+01:32:03.301 --> 01:32:05.200
+<v haraldlesch>Da waren Zusammenhänge wichtig, Korrelationen.
+
+01:32:05.201 --> 01:32:13.600
+<v haraldlesch>Und da hat man erst richtig verstanden, was man für ein Wahnsinnsfach studiert, wenn man Physik studiert oder Philosophie und das war einfach großartig.
+
+01:32:13.601 --> 01:32:15.200
+<v haraldlesch>Das fehlt heute.
+
+01:32:15.201 --> 01:32:18.300
+<v haraldlesch>Diese ganz großen Prüfungen, wo Dinge zusammen gedacht werden.
+
+01:32:18.301 --> 01:32:21.700
+<v haraldlesch>Diese ganz großen Erzählungen, da bin ich wieder bei meinem …
+
+01:32:21.701 --> 01:32:26.300
+<v haraldlesch>Wirklich diese groben Striche, die müssen gar nicht in allen Einzelheiten sein.
+
+01:32:26.301 --> 01:32:28.500
+<v haraldlesch>Und das fände ich zum Beispiel großartig.
+
+01:32:28.501 --> 01:32:34.500
+<v haraldlesch>Vielleicht komme ich nochmal darauf zurück, wenn wir von diesem Misstrauensmanagement …
+
+01:32:34.501 --> 01:32:38.000
+<v haraldlesch>Denn diese ganzen Überprüfungen sind ja nichts anderes als ein Ausdruck unseres Misstrauens.
+
+01:32:38.001 --> 01:32:43.100
+<v haraldlesch>Wenn wir von einem Misstrauensmanagement wieder zurückkommen würden zu einer Vertrauenskultur.
+
+01:32:43.101 --> 01:32:50.100
+<v haraldlesch>Wo man jemanden kennengelernt hat und sozusagen intuitiv festgestellt hat, das ist ein guter, aber der braucht noch ein bisschen.
+
+01:32:50.101 --> 01:32:51.800
+<v haraldlesch>Der ist nicht so schnell wie die anderen.
+
+01:32:51.801 --> 01:32:53.600
+<v haraldlesch>Oder, mhm bei dem musst du aufpassen.
+
+01:32:53.601 --> 01:32:59.600
+<v haraldlesch>Also das Gefühl für das Miteinander, das Gefühl für den anderen zu finden.
+
+01:32:59.601 --> 01:33:02.200
+<v haraldlesch>Denn ohne die anderen sind wir nichts.
+
+01:33:02.201 --> 01:33:04.100
+<v haraldlesch>Ohne das Du bin ich kein Ich.
+
+01:33:04.101 --> 01:33:10.600
+<v haraldlesch>Also ich brauche auf jeden Fall jemanden und das muss auch möglichst 3D sein und nicht irgendwie ein Flachbildschirm.
+
+01:33:10.601 --> 01:33:22.700
+<v haraldlesch>So gut diese digitalen Welten alle sind und wie toll die Kommunikationsfähigkeiten sind, am Ende ist es so, dass Kommunikation zwischen Menschen in einem Ausmaß auf einer nonverbalen Ebene stattfindet,
+
+01:33:22.701 --> 01:33:35.000
+<v haraldlesch>die sich aber nur dann richtig ausbreitet oder richtig entfalten kann, wenn man das Gegenüber, sage ich jetzt mal, auch olfaktorisch in 3D vollständig wahrnehmen kann, also ganz
+
+01:33:35.001 --> 01:33:36.800
+<v haraldlesch>und nicht nur irgendwie so optisch.
+
+01:33:36.801 --> 01:33:44.500
+<v haraldlesch>Und ich glaube, dass wir uns da viel vergeben, wenn wir in Schule oder auch in Universitäten alles mehr oder weniger auf diese digitale Ebene schieben.
+
+01:33:44.501 --> 01:33:47.500
+<v haraldlesch>Da kannst die Vorlesungen auch im Netz gucken und so weiter.
+
+01:33:47.501 --> 01:33:51.600
+<v haraldlesch>Eine Vorlesung im Internet ist nicht dasselbe wie eine Vorlesung in einem Hörsaal.
+
+01:33:51.601 --> 01:33:59.000
+<v haraldlesch>Und wie soll man die Menschen, mit denn man möglicherweise ein ganzes Leben zusammenleben wird, kennenlernen, wenn nicht im wirklichen Leben.
+
+01:33:59.001 --> 01:34:01.600
+<v haraldlesch>Irgendwann muss man mal ins richtige Leben.
+
+01:34:01.601 --> 01:34:06.900
+<v haraldlesch>Und da sollten wir dafür sorgen, dass unsere Kinder und Jugendlichen die richtigen Voraussetzungen dafür haben, und das sind gar nicht so viele.
+
+01:34:06.901 --> 01:34:10.500
+<v haraldlesch>Sie müssen nur das, was sie können sollen, sollten sie auch richtig gut können.
+
+01:34:10.501 --> 01:34:21.500
+<v haraldlesch>Und man sollte ihnen nicht so viel reinstopfen, sondern sollte viel Freiräume lassen und die Neugier am Leben lassen und sie nicht durch auswendig lernen kaputt machen.
+
+01:34:21.501 --> 01:34:26.800
+<v haraldlesch>Und die Lust auch aufs Leben nicht kaputt machen, dadurch dass man ihnen ständig sagt, du musst das und das und das und das.
+
+01:34:26.801 --> 01:34:30.500
+<v haraldlesch>Sondern das sind die Optionen, mach was draus.
+
+01:34:30.501 --> 01:34:41.100
+<v timpritlove>Zum Abschluss vielleicht nochmal so die Frage, wie kriegen wir denn jetzt so hier unsere aktuelle Gesellschaft ein bisschen auf Trab.
+
+01:34:41.101 --> 01:34:42.100
+<v haraldlesch>(lacht) Keine Ahnung.
+
+01:34:42.101 --> 01:34:43.100
+<v timpritlove>Also ich meine…
+
+01:34:43.101 --> 01:34:44.900
+<v haraldlesch>Oh das ist ja eine harte Frage am Ende.
+
+01:34:44.901 --> 01:34:48.400
+<v timpritlove>Naja man könnte ja mal wissenschaftlich da rangehen.
+
+01:34:48.401 --> 01:34:49.600
+<v haraldlesch>Ja.
+
+01:34:49.601 --> 01:34:55.500
+<v timpritlove>Man beobachtet ja auch und man hat so Erkenntnisse und man hat so seine Daten gesammelt,
+
+01:34:55.501 --> 01:35:01.100
+<v timpritlove>und wenn man da mit so einem gewissen Hackerapproach vielleicht mal rangeht und sich denkt,
+
+01:35:01.101 --> 01:35:07.600
+<v timpritlove>okay alles klar, das ist also der Ist-Zustand, ich habe hier so einen passenden Soll-Zustand, den ich eigentlich ganz gerne erreichen würde,
+
+01:35:07.601 --> 01:35:20.100
+<v haraldlesch>wie wende ich jetzt quasi meine Tricks an, um hier möglichst schnell von dem einen zu dem anderen Zustand einen Übergang zu moderieren, zu unterstützen, anzuschieben oder durchzuführen?
+
+01:35:20.101 --> 01:35:26.000
+<v timpritlove>Gibt es ja schon Mittel und Wege oder?
+
+01:35:26.001 --> 01:35:32.800
+<v haraldlesch>Naja wir hatten früher mal gedacht, dass all diese wissenschaftlichen Institutionen und Universitäten und so weiter und viele andere Einrichtungen,
+
+01:35:32.801 --> 01:35:41.700
+<v haraldlesch>Fachhochschulen, Berufsbildungsfachschulen und so weiter, dass das alles auch ein Weg ist, um weite Teile der Bevölkerung so auszubilden,
+
+01:35:41.701 --> 01:35:48.800
+<v haraldlesch>dass sie mit diesen komplizierten und komplexen Gegenständen positiv umgehen.
+
+01:35:48.801 --> 01:35:55.600
+<v haraldlesch>Und daraus nicht nur Kritik ableiten, sondern auch so Herausforderungen dann machen und so weiter.
+
+01:35:55.601 --> 01:35:59.800
+<v haraldlesch>Und das stimmt natürlich auch für einen erheblichen Teil der Bevölkerung, da gelingt das ganz gut.
+
+01:35:59.801 --> 01:36:05.900
+<v haraldlesch>Also es ja nicht so, dass diese Republik irgendwie und diese Gesellschaft nicht erfolgreich wäre.
+
+01:36:05.901 --> 01:36:14.300
+<v haraldlesch>Aber wenn wir uns anschauen, kann das ein Rezept sein für die nächsten 100 Jahre, dann müssen wir leider sagen, das können wir auf keinen Fall wollen.
+
+01:36:14.301 --> 01:36:21.900
+<v haraldlesch>Also wenn wir den kant'schen Ansatz, handle so, dass deine Handlungen zum allgemeinen Gesetz erhoben werden können, annähmen auf unsere eigene Lebensweise
+
+01:36:21.901 --> 01:36:26.900
+<v haraldlesch>und die anderen würden das genauso machen, das erleben wir ja jetzt, wenn die Chinesen, die Inder und so weiter das genauso machen,
+
+01:36:26.901 --> 01:36:34.700
+<v haraldlesch>dann wird dieser Planet ausgenommen bis auf die Knochen und es wird nicht mehr 30 Jahre dauern und wir haben überhaupt nichts mehr, gar nichts.
+
+01:36:34.701 --> 01:36:37.100
+<v haraldlesch>Das können wir nicht machen, das geht einfach nciht.
+
+01:36:37.101 --> 01:36:40.700
+<v haraldlesch>Und da nutzen uns auch die Entdeckungen über die Gravitationswellen und über das Higgs-Teilchen nichts.
+
+01:36:40.701 --> 01:36:43.900
+<v haraldlesch>Da müssen wir ganz anders vorgehen.
+
+01:36:43.901 --> 01:36:53.000
+<v haraldlesch>Also den Anstoß für gesellschaftliche Verwandlungen, den kann man in repräsentativen Demokratien erwarten von der Straße
+
+01:36:53.001 --> 01:36:58.400
+<v haraldlesch>und von den Repräsentanten, die die Demokratie repräsentieren in den Parlamenten.
+
+01:36:58.401 --> 01:37:04.300
+<v haraldlesch>Das Fatale ist, dass es da so Mechanismen gibt, die sowohl die einen wie die anderen hemmen.
+
+01:37:04.301 --> 01:37:14.300
+<v haraldlesch>Diejenigen, die in den Parlamenten sitzen und das eine relativ lange Weile gemacht haben, vielleicht auch mit langer Weile, die werden von diesem System so abhängig,
+
+01:37:14.301 --> 01:37:17.900
+<v haraldlesch>dass sie dingend drauf angewiesen sind, demnächst wiedergewählt zu werden.
+
+01:37:17.901 --> 01:37:18.900
+<v haraldlesch>Das ist eine Katastrophe.
+
+01:37:18.901 --> 01:37:23.300
+<v haraldlesch>Denn damit wird Wahrheit unterdrückt und wird unterdrückbar.
+
+01:37:23.301 --> 01:37:29.800
+<v haraldlesch>Wenn wir Parlamentarier hätten, die nach zwei Legislaturperioden einfach grundsätzlich wieder rausgeschmissen werden, würde die Welt ganz anders aussehen.
+
+01:37:29.801 --> 01:37:37.000
+<v haraldlesch>Aber wir haben auf jeden Fall für diejenigen, die können sich was trauen, die wissen, wir haben nichts zu verlieren, wir kommen da nicht mehr rein.
+
+01:37:37.001 --> 01:37:44.300
+<v haraldlesch>Aber stattdessen haben wir ja ein parlamentarisches Establishment, das wirklich alle vier oder fünf Jahre jeweils fürchten muss, um Gottes Willen jetzt komme ich dann nicht mehr rein,
+
+01:37:44.301 --> 01:37:45.000
+<v haraldlesch>was mach ich denn dann?
+
+01:37:45.001 --> 01:37:51.600
+<v haraldlesch>Die meisten von denen haben ja mit dem wirklichen Leben in unserem Land gar nicht mehr so viel zu tun gehabt.
+
+01:37:51.601 --> 01:37:59.500
+<v haraldlesch>Und je länger man in diesem Raumschiff Politik sich dann bewegt, umso größer wird eben natürlich dann auch der Wirklichkeitsverlust.
+
+01:37:59.501 --> 01:38:09.800
+<v haraldlesch>Das heißt, man muss letzten Endes darauf hoffen, dass NGOs das also von unten nach oben Fakten geschaffen werden, die allmählich von der Politik wahrgenommen werden
+
+01:38:09.801 --> 01:38:13.100
+<v haraldlesch>und dann in Gesetze eingegossen werden und damit zur Norm werden.
+
+01:38:13.101 --> 01:38:16.000
+<v haraldlesch>Das ist der einzige Weg.
+
+01:38:16.001 --> 01:38:18.400
+<v haraldlesch>Und der vollzieht sich in Deutschland unendlich langsam manchmal.
+
+01:38:18.401 --> 01:38:24.900
+<v haraldlesch>Also man denke nur an die großen sozialen Veränderungen der letzten Jahre, auch der Gesetzgebung,
+
+01:38:24.901 --> 01:38:30.500
+<v haraldlesch>was wir für Veränderungen da erleben konnten, aber auch immer wieder, welche Rückschläge es gibt.
+
+01:38:30.501 --> 01:38:38.300
+<v haraldlesch>Wo man einfach sagen muss, es ist doch nicht notwendig, ob es nun die Steuergerechtigkeit ist, wo man sich immer wieder fragt,
+
+01:38:38.301 --> 01:38:41.500
+<v haraldlesch>mein Gott, das wissen wir doch nun wirklich, kann denn die EU nicht mal…
+
+01:38:41.501 --> 01:38:45.900
+<v haraldlesch>Das wird ja dann auch immer wieder auf diese europäische Ebene dann hingewiesen.
+
+01:38:45.901 --> 01:38:54.900
+<v haraldlesch>Da die EU das offenbar nicht kann, wäre es schön, wenn Gesellschaft sagen würde, wir wollen Politiker haben, die auch mal Entscheidungen treffen, die nur für Deutschland gültig sind,
+
+01:38:54.901 --> 01:39:02.600
+<v haraldlesch>und zwar als Zeichen, um dann vielleicht die anderen zum Mitmachen zu bewegen, das wäre ja schon mal schön.
+
+01:39:02.601 --> 01:39:04.900
+<v haraldlesch>Weil ansonsten jede Debatte irgendwann immer in Brüssel landet und da passiert …
+
+01:39:04.901 --> 01:39:12.000
+<v haraldlesch>Obwohl Brüssel nicht in der Wüste ist, es versandet, um sich den Kalauer noch am Ende jetzt zu erlauben.
+
+01:39:12.001 --> 01:39:17.100
+<v haraldlesch>Ansonsten bin ich eigentlich gar nicht so pessimistisch was Deutschland betrifft,
+
+01:39:17.101 --> 01:39:23.500
+<v haraldlesch>wenn es gelänge, ganz alte Prinzipien wieder wach werden zu lassen.
+
+01:39:23.501 --> 01:39:30.000
+<v haraldlesch>Nämlich sich nicht von jeder Mode nach vorne treiben zu lassen, sich nicht pausenlos irgendwie drauf,
+
+01:39:30.001 --> 01:39:32.500
+<v haraldlesch>dieses Land muss modernisiert werden.
+
+01:39:32.501 --> 01:39:36.600
+<v haraldlesch>Ich weiß gar nicht, wie das aussehen soll, ein ganzes Land zu modernisieren.
+
+01:39:36.601 --> 01:39:40.100
+<v haraldlesch>Sollen wir jetzt hier andere Häuser hinstellen, andere Bäume oder was?
+
+01:39:40.101 --> 01:39:46.400
+<v haraldlesch>Diese ganze Modernisierungskampagne, dass man sich überlegt, dass man an manchen Stellen wieder zu was ganz anderem kommen muss,
+
+01:39:46.401 --> 01:39:49.500
+<v haraldlesch>nämlich der Konzentration auf das wirklich wichtige.
+
+01:39:49.501 --> 01:39:52.500
+<v haraldlesch>Das würde dann nämlich dann auch wirklich wieder Ressourcen freisetzen,
+
+01:39:52.501 --> 01:39:57.100
+<v haraldlesch>und zwar in allen Varianten, die uns die Möglichkeit geben, neue Wege zu begehen.
+
+01:39:57.101 --> 01:39:59.200
+<v haraldlesch>Also wirklich was neues anzufangen.
+
+01:39:59.201 --> 01:40:07.700
+<v haraldlesch>Aber vor allen Dingen mit einer großen Gelassenheit und Großzügigkeit mit sich, mit der Gesellschaft und mit all denen umzugehen,
+
+01:40:07.701 --> 01:40:12.100
+<v haraldlesch>die in diesem Land was zu sagen haben und nicht diesen starken medialen Druck auszuüben,
+
+01:40:12.101 --> 01:40:15.400
+<v haraldlesch>sie müssen aber jetzt doch mal was dazu sagen, dieses und jenes.
+
+01:40:15.401 --> 01:40:19.800
+<v haraldlesch>Ich glaube, dass wir uns in Deutschland alle überfordern mit allem.
+
+01:40:19.801 --> 01:40:20.700
+<v haraldlesch>Wir arbeiten viel zu viel.
+
+01:40:20.701 --> 01:40:24.300
+<v haraldlesch>Wir arbeiten viel zu schnell.
+
+01:40:24.301 --> 01:40:34.500
+<v haraldlesch>Dieser Skandal der Automobilindustrie hat damit zu tun, dass die offenbar völlig kopflos irgendwelchen Unsinn da gemacht haben.
+
+01:40:34.501 --> 01:40:38.400
+<v haraldlesch>Wenn die Zeit gehabt hätten, sich einer Lösung zuzuwenden, dann hätten die die auch gefunden.
+
+01:40:38.401 --> 01:40:45.000
+<v haraldlesch>Aber nein, Modelle müssen eben sich innerhalb von einer bestimmten Zeit müssen erneuert werden.
+
+01:40:45.001 --> 01:40:51.800
+<v haraldlesch>Und dann heißt es dann bei Audi zum Beispiel oder bei wem auch immer, ja diese AdBlue, der Kasten von AdBlue muss so klein sein,
+
+01:40:51.801 --> 01:40:59.400
+<v haraldlesch>also höchsten ein Liter pro 1000 Kilometer, das schaffen die Ingenieure nicht, weil man ihnen auch keine Zeit gibt,
+
+01:40:59.401 --> 01:41:03.100
+<v haraldlesch>und dann fangen sie an und tricksen rum, ist doch irre, ist doch eine irre Geschichte.
+
+01:41:03.101 --> 01:41:09.000
+<v haraldlesch>Wenn man sich mal anschaut, was der Grund für diesen ganzen Skandal ist, dann denkt man sich, das kann doch nciht wahr sein.
+
+01:41:09.001 --> 01:41:10.200
+<v haraldlesch>Hatten wir so was früher nötig?
+
+01:41:10.201 --> 01:41:10.600
+<v haraldlesch>Hatten wir nicht.
+
+01:41:10.601 --> 01:41:13.100
+<v haraldlesch>Früher war made in germany eine Qualitätsansage.
+
+01:41:13.101 --> 01:41:20.100
+<v haraldlesch>Heute ist es, muss man sich schon fast schämen dafür, was da gemacht worden ist, was Ingenieure und Ingenieurinnen da machen,
+
+01:41:20.101 --> 01:41:28.400
+<v haraldlesch>auch solche Unmanierlichkeiten wie die Aussagen von Bankern, natürlich müssen wir Bonuszahlungen machen, auch bei einer Bank, die enorme Verluste erleidet.
+
+01:41:28.401 --> 01:41:30.800
+<v haraldlesch>Wir müssen denen einen Bonus bezahlen, ansonsten gehen sie weg.
+
+01:41:30.801 --> 01:41:35.200
+<v haraldlesch>Kann man nur sagen, dann sollen sie doch, bitte schön, vamos, geht geht.
+
+01:41:35.201 --> 01:41:39.700
+<v haraldlesch>In diesem Zusammenhang fand ich eine Rede vom Stoiber vor vielen vielen Jahren mal interessant, wo er gesagt hat,
+
+01:41:39.701 --> 01:41:45.600
+<v haraldlesch>wenn die Manager unbedingt Löhne wie in Bangladesch bezahlen wollen, dann sollen sie mit ihren Familien auch nach Bangladesch ziehen.
+
+01:41:45.601 --> 01:41:54.600
+<v haraldlesch>Ich glaube, dass wir wirklich allmählich mal anfangen sollten, gegenüber dieser ganzen ökonomischen Mischpoke eine gewisse ordentliche vernünftige Souveränität an den Tag zu legen.
+
+01:41:54.601 --> 01:41:59.800
+<v haraldlesch>Deutlich zu machen, wer wir sind, was wir wollen und wenn die da nicht mitgehen, dann bitte verschwindet hier.
+
+01:41:59.801 --> 01:42:05.400
+<v haraldlesch>Macht euch irgendwo hin, wo ihr noch mehr Geld verdienen könnt, bis der Arzt kommt, ihr fangt sowieso nichts damit an.
+
+01:42:05.401 --> 01:42:12.000
+<v haraldlesch>Wir wollen hier Leute haben, die das, was sie verdient haben oder was sie an Reichtümern haben, möglicherweise auch wieder mal reinvestieren.
+
+01:42:12.001 --> 01:42:13.900
+<v haraldlesch>Die Investitionsquoten sind viel zu gering.
+
+01:42:13.901 --> 01:42:17.500
+<v haraldlesch>Auch der Superreichen vor allen Dingen.
+
+01:42:17.501 --> 01:42:20.800
+<v haraldlesch>Wir wollen Wirtschaftskreisläufe anregen.
+
+01:42:20.801 --> 01:42:28.400
+<v haraldlesch>Wir wollen der Jugend die Möglichkeit geben, sich Perspektiven zu entwickeln, also zu arbeiten und nicht dass Arbeit wegrationalisiert wird.
+
+01:42:28.401 --> 01:42:32.100
+<v haraldlesch>Nur um noch mehr Geld zu verdienen, was dann wiederum nicht investiert wird etc.
+
+01:42:32.101 --> 01:42:42.400
+<v haraldlesch>Also es gibt da eine ganze Reihe von Fragestellungen, wo wir mit einer größeren Gelassenheit und mit einer gewissen, wirklich mit einem ordentlichen Selbstvertrauen sagen könnte,
+
+01:42:42.401 --> 01:42:44.100
+<v haraldlesch>wir machen das hier schon.
+
+01:42:44.101 --> 01:42:53.700
+<v haraldlesch>Und ich finde nach wie vor, Kopenhagen, die Dänen mit diesem Ansatz eine Hauptstadt zu einer Fahrradstadt zu machen, das finde ich symbolisch,
+
+01:42:53.701 --> 01:42:56.400
+<v haraldlesch>was man machen kann.
+
+01:42:56.401 --> 01:43:03.100
+<v haraldlesch>Wie stark Gesellschaften in der Lage sind, ihre Visionen so zu formulieren und auch durchzusetzen,
+
+01:43:03.101 --> 01:43:06.400
+<v haraldlesch>dass es völlig egal ist, was die anderen wollen.
+
+01:43:06.401 --> 01:43:09.300
+<v haraldlesch>Wir sind der Meinung, das ist das Richtige für uns.
+
+01:43:09.301 --> 01:43:13.600
+<v haraldlesch>Und mit diesem Selbstbewusstsein könnten wir wirklich deutlich mehr machen.
+
+01:43:13.601 --> 01:43:21.200
+<v haraldlesch>Anstatt dessen ewig diese Vergleicherei und so weiter, ewig dieses Misstrauen, mhm ist denn das noch richtig, was wir hier machen?
+
+01:43:21.201 --> 01:43:23.100
+<v haraldlesch>Ich glaube, dass das nicht notwendig ist.
+
+01:43:23.101 --> 01:43:29.000
+<v haraldlesch>Wir können uns auch in der Wissenschaft viel viel mehr Gelassenheit leisten.
+
+01:43:29.001 --> 01:43:37.900
+<v haraldlesch>Das ist eigentlich, die Entdeckung der Langsamkeit ist auch, eine gewisse Gelassenheit an den Tag zu legen und die Dinge gut zu machen,
+
+01:43:37.901 --> 01:43:43.000
+<v haraldlesch>hohe Qualität und das ist keine Frage von Zeitdruck, sondern das ist eine Frage, dass man Dinge einfach gut kann.
+
+01:43:43.001 --> 01:43:52.800
+<v haraldlesch>Und auf Können, auf eine gewisse Gelassenheit zurückzugreifen, ich glaube, wenn wir das hinkriegen, dann mache ich mir um dieses Land, um diesen ganzen Kontinent keine Gedanken.
+
+01:43:52.801 --> 01:43:55.900
+<v haraldlesch>Aber wir dürfen nicht in so eine Art von Hunderennen verfallen.
+
+01:43:55.901 --> 01:44:03.000
+<v haraldlesch>Und bei Hunderennen kann ich nur raten dazu, wenn alle losrennen, dann ist der schlauste Hund derjenige, der sitzen bleibt,
+
+01:44:03.001 --> 01:44:07.400
+<v haraldlesch>weil er weiß ganz genau, dass die Wurscht sowieso wiederkommt.
+
+01:44:07.401 --> 01:44:11.800
+<v timpritlove>Die Zeit haben wir uns jetzt auf jeden Fall genommen.
+
+01:44:11.801 --> 01:44:13.000
+<v timpritlove>Herr Lesch, vielen Dank…
+
+01:44:13.001 --> 01:44:15.000
+<v haraldlesch>War mir ein Vergnügen, vielen Dank.
+
+01:44:15.001 --> 01:44:17.200
+<v timpritlove>…für die Ausführungen.
+
+01:44:17.201 --> 01:44:22.800
+<v timpritlove>Ja, und das bringt uns ans Ende dieser Ausgabe von Forschergeist.
+
+01:44:22.801 --> 01:44:25.800
+<v timpritlove>Ich bedanke mich auch bei allen, die sich die Zeit genommen haben, hier reinzuhören.
+
+01:44:25.801 --> 01:44:32.400
+<v timpritlove>Und vor allem bei denen, die sich auch die Zeit nehmen werden, in die nächste Folge mit reinzuhören, die dann bestimmt bald kommt.
+
+01:44:32.401 --> 01:44:48.500
+<v timpritlove>Ich sage bis dahin, tschüss und bis bald.

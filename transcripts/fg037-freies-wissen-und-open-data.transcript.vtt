@@ -1,0 +1,647 @@
+﻿WEBVTT
+
+00:00:43.701 --> 00:01:24.800
+<v timpritlove>Hallo und herzlich Willkommen zu Forschergeist, dem Podcast des Stifterverbands für die deutsche Wissenschaft. Mein Name ist Tim Pritlove und ich begrüße alle hier zur 37. Ausgabe unserer Gesprächsserie rund um das Forschen und auch das Wissen. Und heute soll es genau darum vor allem gehen, über das geschaffene Wissen oder das noch zu schaffende Wissen, insbesondere unter dem Aspekt der freien Verfügbarkeit der Daten. Welches Label man da auch immer dran kleben mag. Und dafür begrüße ich zunächst einmal meinen Gesprächspartner, nämlich Pavel, Pavel Richter, hallo.
+
+00:01:24.801 --> 00:01:26.500
+<v pavelrichter>Hallo Tim.
+
+00:01:26.501 --> 00:01:30.400
+<v timpritlove>Pavel du bist kein Wissenschaftler, kann ich gleich mal festhalten.
+
+00:01:30.401 --> 00:01:31.700
+<v pavelrichter>Das stimmt.
+
+00:01:31.701 --> 00:01:32.500
+<v timpritlove>Haben wir ja nicht so oft hier.
+
+00:01:32.501 --> 00:01:35.600
+<v pavelrichter>Ich habe nach meinem Magister aufgehört mit der Wissenschaft.
+
+00:01:35.601 --> 00:01:38.500
+<v timpritlove>Magister, was denn für ein Magister?
+
+00:01:38.501 --> 00:01:41.500
+<v pavelrichter>In Geschichte und Politikwissenschaft und öffentlichem Recht.
+
+00:01:41.501 --> 00:01:44.300
+<v timpritlove>Okay, aber das ist ja dann schon so eine halbe wissenschaftliche Karriere.
+
+00:01:44.301 --> 00:01:54.800
+<v pavelrichter>Ich habe sogar eine Doktorarbeit angefangen, wie so viele und sie liegt in meinem Schreibtisch und wartet nur darauf, von mir mal fertiggestellt zu werden, seit 18 Jahren.
+
+00:01:54.801 --> 00:01:59.200
+<v timpritlove>Okay die Hoffnung stirbt zuletzt. Also bist sagen wir mal mit dem wissenschaftlichen Prozess aber vertraut?
+
+00:01:59.201 --> 00:01:59.400
+<v pavelrichter>Ich denke schon.
+
+00:01:59.401 --> 00:02:06.200
+<v timpritlove>Ja und das war dann auch schon so der ursprüngliche Gedanke, da mal in irgendeiner Form da auch eine entsprechende Karriere einzuschlagen?
+
+00:02:06.201 --> 00:03:07.600
+<v pavelrichter>Ich habe meine Doktorarbeit mit dem festen Vorsatz begonnen, C4 Professor zu werden, wie mein Vater, der C4 Professor ist, wunderbarer Job. Ganz wunderbar. Ich musste allerdings während meiner Doktorarbeit feststellen, dass, wie bei so vielen schönen Arbeiten und Berufungen und Berufen, der Weg dorthin ganz fürchterlich sein kann. Und meine Einblicke in den Wissenschaftsbetrieb Ende der 90er Jahre haben mich dann dazu geführt zu gucken, ob ich nicht was anderes machen kann. Also ich habe mich dann entschieden, doch keine universitäre Laufbahn anzustreben. Und das war im Jahr 1998, wo ich diese Entscheidung dann für mich getroffen habe und das war das Jahr, in dem jeder, der bei drei nicht auf den Bäumen war, Unternehmensberater werden konnte. Sogar Menschen, die Politik und öffentliches Recht und Geschichte studiert haben. Und das wurde ich dann auch. Und dann habe ich tatsächlich 12 Jahre lang als Unternehmensberater und später dann im Management von Unternehmensberatungen gearbeitet. Vom Riskmanagement bei Banken bis eben dann zu Implementierungen von größeren Softwareprojekten bei Kunden.
+
+00:03:07.601 --> 00:03:10.100
+<v timpritlove>Und das war befriedigend?
+
+00:03:10.101 --> 00:03:42.500
+<v pavelrichter>Ja sehr befriedigend. Ich habe zwei Jahre in Australien gelebt, was ich sonst nie gekonnt hätte, weil wir dort einen großen Kunden hatten. Ich habe Dinge gelernt, von denen ich mit meiner eigenen Ausbildung, aus meiner eigenen Herkunft keine Ahnung hatte. Ich wusste nicht was Risikomanagement ist und ich wusste auch nicht was ein IT-Projekt ist und ich wusste nicht was ein Projektmanager macht. Und ich hatte natürlich auch keinerlei Ahnung, wie man Budgets erstellt, wie man Mitarbeiter führt, wie man Einstellungsgespräche führt, all diese Dinge habe ich gelernt. Und da mache ich auch keinen Hehl draus, man verdient auch ganz gut als Unternehmensberater.
+
+00:03:42.501 --> 00:03:43.600
+<v timpritlove>Ja bist du aber nicht geblieben?
+
+00:03:43.601 --> 00:04:42.900
+<v pavelrichter>Nein bin ich nicht geblieben. Auch wieder eine ganz bewusste Entscheidung. Nach 12 Jahren hat es mich dann nicht mehr aus dem Bett getrieben morgens. Die Bilanz meiner Firma, also nicht meiner Firma, sondern der Firma, für die ich gearbeitet habe oder die Bilanz irgendeines Kundens um einen Milliprozentpunkt nach oben zu entwickeln. Ich hatte den Eindruck, ich habe gelernt und getan und gemacht, was ich dort tun konnte und eine wirkliche Karriere war das für mich nicht. Und auch vor allem nichts, was mich jetzt letztendlich längerfristig interessiert hätte. Und dann habe ich mir ähnlich wie 98, als ich mich gefragt habe, was ich denn außerhalb einer Unikarriere machen kann, habe ich mich dann umgeguckt, was kann man denn so machen mit dem, was ich jetzt 12  Jahre gemacht hatte. Und bin dann relativ schnell darauf gekommen, dass das Management von gemeinnützigen Organisationen ein sehr interessanter Bereich ist. Denn ganz viele gemeinnützige Organisationen, das ist ein Allgemeinplatz für Leute, die sich in diesem Bereich bewegen.
+
+00:04:42.901 --> 00:05:05.900
+<v pavelrichter>Aber ganz viele gemeinnützige Organisationen werden gegründet und werden getrieben von Aktivisten, von Menschen, die eine Mission haben, von Menschen, die eine Überzeugung haben, die notwendig sind auch, um überhaupt so etwas aufzubauen. Doch dann kommt ganz oft die Situation, wo eine solche Organisation auch Mitarbeiter hat, über teilweise sehr große Budgets verfügt.
+
+00:05:05.901 --> 00:05:07.000
+<v timpritlove>Strukturen aufbaut.
+
+00:05:07.001 --> 00:05:30.000
+<v pavelrichter>Strukturen aufbaut etc., etc.. Und da sah ich eine Chance und eine Möglichkeit, das was ich in meiner Unternehmensberatertätigkeit gelernt habe, nämlich mit Menschen umzugehen, auch Menschen zu führen, mit Budgets und mit Zahlen umzugehen, mit Strukturen umzugehen und Strukturen auch aufzubauen und zu verbessern, das in einem Bereich zu machen, den ich sehr befriedigender fand und immer noch finde. Nämlich im gemeinnützigen Sektor.
+
+00:05:30.001 --> 00:05:37.400
+<v timpritlove>Und so bist du dann, war das dann schon die erste Aktivität, die Tätigkeit für die Wikimedia Foundation?
+
+00:05:37.401 --> 00:05:41.700
+<v pavelrichter>Die Tätigkeit für Wikimedia Deutschland, nicht für die Wikimedia Foundation.
+
+00:05:41.701 --> 00:05:42.900
+<v timpritlove>Ja Entschuldigung, der Unterschied muss gemacht werden.
+
+00:05:42.901 --> 00:06:38.400
+<v pavelrichter>Aber ein wichtiger Unterschied. Ja muss er. Das war tatsächlich meine erste Tätigkeit in diesem Bereich. Denn da kam, das war der perfekte Sturm. Ich bin seit 2004, also für Wikipedia-Verhältnisse sehr lange, Wikipedianer und habe ganz oft als Unternehmensberater noch in Hotelzimmern gesessen und dann in der Wikipedia ein bisschen und en Bereichen gearbeitet, in denen ich studiert und auch meine Doktorarbeit angefangen habe. Und habe dann … also ich war mit der Wikipedia vertraut und wollte dann eben im gemeinnützigen Sektor tätig werden und Wikimedia Deutschland suchte zu diesem Zeitpunkt einen neuen Geschäftsführer. Die waren gerade von Frankfurt nach Berlin gezogen, hatten einen Interimsgeschäftsführer und suchten nun einen neuen Geschäftsführer. Und da habe ich mich beworben und bin es dann auch nach einigen Wikipedia-typischen Schlenkern auch tatsächlich geworden.
+
+00:06:38.401 --> 00:07:17.200
+<v timpritlove>2004, jetzt muss ich gerade mal nachdenken, das war ja im Prinzip auch so noch die richtige Frühjungsteinzeit eigentlich der Wikipedia. Eine Phase, das kann man sich heutzutage fast gar nicht mehr vorstellen jetzt 12 Jahre später, wo es noch nicht diesen Blick gab wie, es gibt so was wie eine Onlineenzyklopädie und sie ist in der Lage, alle bis dahin bestehenden Enzyklopädien schlicht einfach mal vom Markt zu nehmen, sondern das war zu dem Zeitpunkt ja im Prinzip noch so eine wilde Idee von so ein paar Verrückten, die es nicht lassen konnten.
+
+00:07:17.201 --> 00:08:15.800
+<v pavelrichter>Damit sind glaube ich hauptsächlich zwei Typen von Menschen von der Wikipedia angezogen worden. Zum einen diejenigen, die aus der technischen Ecke kamen und die diesen kollarborativen Ansatz und die Arbeit mit deinem Wiki spannend fanden. Der große Vorteil und einer der Alleinstellungsmerkmale einer Wiki-Enzyklopädie ist nunmal, dass man auch ohne Spezialwissen, zumindest in den Anfangsphasen, sehr einfach etwas beitragen konnte. Wir alle wissen schließlich viele Dinge, und wenn es eben aus unserem eigenen privaten oder beruflichen Umfeld ist. Aber ganz viele Leute kamen glaube ich über diese, oh wow da gibt es ja eine Webseite und da kann jeder mitschreiben. Ich gehöre eher zur zweiten Gruppe und die Einteilung ist jetzt von mir so, ich habe die jetzt mal einfach so gemacht, ob die tatsächlich wissenschaftlich überprüfbar weiß ich nicht. Aber die zweite Gruppe waren die Leute, die den Community-Aspekt spannend fanden. Also diese, oh da arbeiten ganz viele Menschen übers Netz miteinander zusammen.
+
+00:08:15.801 --> 00:08:26.600
+<v pavelrichter>Und wie kann denn das funktionieren? Und wie bauen sich denn da Regeln auf? Und ich glaube, ich habe den perfekten Einstieg gewählt, ich wurde nämlich sehr schnell zum Troll. Ganz fürchterlich.
+
+00:08:26.601 --> 00:08:28.400
+<v timpritlove>Für wen?
+
+00:08:28.401 --> 00:09:23.300
+<v pavelrichter>Ich bin nicht stolz auf diese Einstiegszeit. Ich habe damals unter einem Benutzerkonto, man hat ja in der Wikipedia, da editieren viele, wenn nicht die meisten, unter einem selbstgewählten Benutzerkonto. Ich habe also nicht unter meinem eigenen Namen editiert und auch dafür gesorgt, dass mein eigener Name damals nicht bekannt wurde und bin nicht sehr stolz auf mein Diskussionsverhalten. Ich musste das auch erst lernen. Wie wir alle wahrscheinlich mal irgendwann lernen mussten, wie man online diskutiert und wie man sich benimmt, wenn man nur eine Tastatur vor sich hat. Un das war ein schwieriger Lernprozess. Schwierig für die Leute, denen ich damals Unrecht getan habe und schwierig auch für mich. Ich habe dann aber irgendwann diesen Account, nodutschke übrigens hieß er, zu dem Namen kann man auch noch was erzählen, aber ich habe diesen Account dann auch ganz bewusst stillgelegt und gesagt, mit dem arbeite ich nicht mehr weiter. Und habe dann meinen zweiten Account bei Wikimedia oder Wikipedia gestartet. 
+
+00:09:23.301 --> 00:09:25.600
+<v timpritlove>So ein digitales Rebirthing ja?
+
+00:09:25.601 --> 00:10:02.300
+<v pavelrichter>Ja genau, das ist ja auch das Tolle an der Anonymität und das Tolle an einem Benutzer, man kann sich neu erfinden, zumindest teilweise. Und ich fand das eine sehr spannende Lernerfahrung für mich. Ich habe mich dann irgendwann angeguckt und gesagt, das bist du doch gar nicht, so bist du eigentlich gar nicht, aber natürlich war ich so. Und das war auch nur meine Schuld, da ist niemand anders schuld dran gewesen, fand ich aber für mich sehr spannend. Wahrscheinlich im Internetzeitalter ja wahnsinnig spät, so was 2004 zu merken. Aber in der Wikipedia war das eben noch relativ jung, die Wikipedia war gerade drei Jahre alt zum damaligen Zeitpunkt.
+
+00:10:02.301 --> 00:10:21.500
+<v timpritlove>Ich würde mich wahrscheinlich persönlich mehr erst mal in die Kategorie 1 einführen, weil ich bin mehr so vom Wiki zur Wikipedia gekommen. Weil mich einfach gerade die Technologie als solche fasziniert hat und ich glaube ich war dann auch eine Zeit lang einer der größten Kommaspender in der Wikipedia.
+
+00:10:21.501 --> 00:10:20.800
+<v pavelrichter>Vielen Dank.
+
+00:10:20.801 --> 00:11:26.900
+<v timpritlove>Um einfach so als Training in gewisser Hinsicht, weil ich einfach das Werkzeug gut erlernen wollte. Aber es war dann eben auch für mich schnell absehbar, oha da wächst was heran und ich finde auch die Wikipedia ist insofern aus unserer Perspektive nochmal was besonderes, als dass es ja etwas ist, was man nicht oft hat. Auch wenn es in den USA initiiert wurde, gibt es glaube ich kein zweites Projekt im Netz, was mit derselben Dynamik in Deutschland aufgegriffen und vorangetrieben wurde. Also der deutsche Teil der ganzen Wikipedia-Bewegung ist ja die unangefochtene Nummer 2 glaube ich weltweit. Also hier entsteht ja viel, hier sind viele Strukturen entstanden, dann halt auch unter deiner Zeit, die ja weit auch über Community-Aktivität hinausgehen. Softwareentwicklung, was da nicht alles noch gefolgt ist. Das ist schon so ein deutsches Phänomen an der Stelle, so eine Begeisterung für dieses Gut Enzyklopädie. Was ja eben das freie Wissen im Prinzip auch repräsentieren wollte.
+
+00:11:26.901 --> 00:11:54.400
+<v pavelrichter>Also ich glaube, dass insbesondere die Idee einer Enzyklopädie in Deutschland wahnsinnig gut angekommen ist. Es gibt eine Forschungsarbeit von Benjamin Mako Hill aus den USA, der untersucht hat. Vor der Wikipedia gab es acht andere kollaborative Online-Enzyklopädien, die gescheitert sind. Das weiß kaum jemand, aber es ist tatsächlich so. Die Wikipedia ist nicht die erste kollaborative freie Online-Enzyklopädie.
+
+00:11:54.401 --> 00:11:56.400
+<v timpritlove>Das ist die erste, die funktioniert hat.
+
+00:11:56.401 --> 00:12:55.900
+<v pavelrichter>Das ist die erste, die funktioniert hat. Und er hat ganz ganz kurz zusammengefasst, es gibt zwei Gründe, warum das so funktioniert hat. Zum einen weil die Wikipedia nie um ihre Technik gekümmert hat. Also sie hat nicht probiert, eine eigene Software zu machen. Und sie wollte nie etwas anderes sein als eine Enzyklopädie. Sie hat nicht gesagt, sie will eine Online-Enzyklopädie oder eine Enzyklopädie der neuen Art sein, sondern sie hat etwas gemacht, was jeder von uns instinktiv kennt, nämlich eine Enzyklopädie sein zu wollen. Und das hat einen enormen Sog ausgewirkt. Und dass das in Deutschland so gut funktioniert hat, hat wahrscheinlich auch was mit uns Deutschen als Mentalität zu tun, vielleicht sind wir alle eine bisschen besserwisserisch. Aber wir wollen eben gerne glaube ich auch Wissen systematisieren, Wissen strukturieren, in einer Art und Weise präsentieren, vielleicht auch demokratisieren. So dass das tatsächlich sehr gut funktioniert hat. Und dann kommt sicherlich wie immer auch im Leben ein gewisser Moment des Zufalls dazu.
+
+00:12:55.901 --> 00:13:07.900
+<v pavelrichter>Dass die richtigen Leute sich engagieren und die richtigen Leute dabei bleiben und die falschen Leute wegbleiben. So dass eine zarte Pflanze dann auch die Möglichkeit hat, zu wachsen. Jimmy Wales sagt immer gerne, …
+
+00:13:07.901 --> 00:13:09.500
+<v timpritlove>Der Gründer des Projekts.
+
+00:13:09.501 --> 00:13:18.500
+<v pavelrichter>Der Gründer von Wikipedia sagt immer gerne, es gibt nur ein Land in der ganzen Welt, in dem er auf der Straße erkannt und angesprochen wird und das ist Deutschland.
+
+00:13:18.501 --> 00:13:19.600
+<v timpritlove>Really?
+
+00:13:19.601 --> 00:13:26.800
+<v pavelrichter>Ja. Da kommt dann … sehr deutsch vielleicht.
+
+00:13:26.801 --> 00:13:41.900
+<v timpritlove>Mich überrascht das nicht. Mir ging es ja in gewisser Hinsicht auch so. Also das mag wirklich eine sehr deutsche Eigenschaft sein, einfach so, wenn wir was strukturieren können, dann geht das Herz auf.
+
+00:13:41.901 --> 00:13:54.000
+<v pavelrichter>Und wir sind ja auch nicht ganz schlecht darin. Also deutsche Enzyklopädien, auch vor der Wikipedia, waren jetzt ja nicht Randprodukte, sondern das sind ja schon sehr klingende Namen, die es dort gab.
+
+00:13:54.001 --> 00:14:50.800
+<v timpritlove>Aber wenn wir mal auf den Community-Aspekt, den zweiten Teil, noch eingehen, das ist ja auch etwas, was dann auch sich sehr stark entfesselt hat. Gerade jetzt in der deutschen Wikipedia, wo sich ja auch starke kulturelle Unterschiede herausgearbeitet haben, so aus meiner Betrachtung heraus. Während, das ist jetzt wahrscheinlich eine etwas leidliche Diskussion, aber die du sicherlich kennen wirst, der inkludistische Ansatz, wie man so schön sagt, in der amerikanischen oder amerikanisch dominierten, also englischsprachigen Wikipedia alles mögliche zu erfassen, was bei drei nicht auf den Bäumen ist, bis hin zu einzelnen Comic-Charakteren aus irgendwelchen Fernsehserien, vs. einem ja anders getragenen Enzyklopädie-Verständnis, wie ich das sehe, in Deutschland der Versuch, da eher 20 mal drüber nachzudenken, bevor so ein Schritt gegangen wird. 
+
+00:14:50.801 --> 00:15:05.400
+<v timpritlove>Wie siehst du die Community, die hinter diesem freien Wissensprojekt gestanden hat? Wie hat die sic hier entwickelt und welchen Teil hat die daran?
+
+00:15:05.401 --> 00:16:10.200
+<v pavelrichter>Also zum ersten finde ich es völlig normal, dass solche Projekte sehr unterschiedlich sind, wenn sie aus unterschiedlichen kulturellen Kontexten kommen. Niemand würde ja sagen, würde ja dem deutschen Film vorwerfen, nicht so zu sein wie der amerikanische Film. Nein das ist ja ein Alleinstellungsmerkmal, dass der deutsche Film halt der deutsche Film ist und nicht der amerikanische Film. Und warum soll dann nicht die deutsche Wikipedia die deutsche Wikipedia sein. Also insofern das ist grundsätzlich erst mal kein Problem, dass sie scheinbar nicht so inkludistisch ist, wie die englischsprachige. Ich würde die Grundthese erst mal anzweifeln, dass sie das nicht ist, aber das ist vielleicht eine Spezialdiskussion. Der Community-Aspekt ach das ist ein … ich finde das ein wahnsinnig … also erst mal muss man unterscheiden, dass es nicht die Wikipedia-Community gibt. Es gibt so ein paar Schätzzahlen, die offiziellen liegen glaube ich so, dass es ungefähr 500 sehr aktive Wikipedianer aktuell gibt in Deutschland oder in der deutschsprachigen Wikipedia.
+
+00:16:10.201 --> 00:17:07.000
+<v pavelrichter>Ich halte diese Zahl für viel zu hoch gegriffen. Ich glaube der Core der Menschen, die tatsächlich dieses Projekt als Projekt aufrechterhalten und die Strukturen auch ausverhandeln, liegt unter 100, und zwar wahrscheinlich deutlich unter 100. Ist einfach ein Erfahrungswert aus 12 Jahren, die ich teils dabei war und teils beobachtet habe. Während meiner Zeit als Geschäftsführer von Wikimedia Deutschland war ich deutlich mehr Beobachter als Teilnehmer dieser Community. Dann gibt es aber, deswegen sage ich, es gibt nicht diese eine Community, das sind die Menschen, die das Projekt als Projekt aufrechterhalten. Das ist aber noch deutlich .. und andere Menschen, als die die beitragen zur Wikipedia. Es gibt tatsächlich Menschen, die sich für das Projekt an sich gar nicht so großartig interessieren, die aber sich um ihren Fachbereich kümmern. Die ihre Artikel schreiben, die also für den Content, würde man heutzutage sagen, sorgen.
+
+00:17:07.001 --> 00:17:58.500
+<v pavelrichter>Ohne dass sie sich für den Aspekt des eigentlichen Projektes, der internen Strukturen von Wikipedia tatsächlich ernsthaft interessiert. Und diese Zahl ist natürlich viel größer und hat eine viel höhere Fluktuation. Da kommen Menschen, die wollen halt über ein bestimmtes Thema schreiben, die tun das und dann gehen sie auch wieder. Und in den allermeisten Fällen, würde ich auch sagen, ist das eine problemlose Erfahrung. Es gibt natürlich auch jede Menge Situationen, wo das dann ein schmerzhafterer Prozess war bedauerlicherweise. Aber in den allermeisten Fällen sind die Menschen, die beitragen wollen, die tragen bei und beteiligen sich aber nicht weiter. Und dann gibt es diejenigen, die dieses Projekt vorantreiben als Projekt mit seinen internen Strukturen und auch seinen internen Problemen.
+
+00:17:58.501 --> 00:18:24.200
+<v timpritlove>Wie hat sich denn, um nochmal kurz bei der Wikipedia zu bleiben, dieses Projekt … also hat es sich verändert? Also ich meine es gab natürlich Veränderung ganz klar, aber die Frage geht eher so, ist es noch im Kern da, wo es von Anfang an hin wollte oder hat sich da etwas getan über die Zeit? Die ja eigentlich noch eine relativ kurze Zeit ist.
+
+00:18:24.201 --> 00:18:31.200
+<v pavelrichter>Ja relativ kurze Zeit, in Internet-Jahren ist es dann wahrscheinlich schon eher eins der älteren Projekte, die es heute noch gibt.
+
+00:18:31.201 --> 00:18:31.400
+<v timpritlove>Richtig alt.
+
+00:18:31.401 --> 00:19:29.200
+<v pavelrichter>Richtig alt. Ja natürlich hat sich die Wikipedia sehr deutlich verändert und auch als Community-Projekt hat sie sich sehr deutlich verändert. Sie ist sicherlich nicht mehr so offen, wie sie das in den Anfangsjahren war. Das ist zum einen der Notwendigkeit geschuldet. Es ist sicherlich heute deutlich schwieriger, substanziell an der Wikipedia teilzunehmen. Es ist einfach nicht mehr so offensichtlich, wo ich etwas beitragen kann. Es gibt natürlich immer noch riesige Lücken, aber als ich in der Wikipedia angefangen habe, sind wir über die sogenannte roten Links, das waren also Links innerhalb des Fließtextes der Wikipedia, die auf einen Artikel verlinken, den es noch nicht gab. Und da sah man dann einfach, oh guck mal, dazu gibt es noch keinen Artikel und dann hat man den angelegt. Das ist heute dieser ganz niederschwellige Einstieg, den gibt es heutzutage so nicht mehr. Gleichzeitig ist sicherlich die Wikipedia-Community konservativer, deutlich konservativer geworden.
+
+00:19:29.201 --> 00:19:51.300
+<v pavelrichter>Es gibt immer wieder die Frage, was machen wir denn … vielleicht muss man einen Moment ausholen und erläutern, dass die Anzahl der Autorinnen und Autoren kontinuierlich zurückgeht, seit vielen Jahren schon. Das ist so. Und das ist nicht gut, weil eine Community eine gewisse kritische Größe braucht und eine kritische Masse braucht.
+
+00:19:51.301 --> 00:19:53.700
+<v timpritlove>Und auch eine gewisse Diversität.
+
+00:19:53.701 --> 00:20:55.900
+<v pavelrichter>Und auch eine gewisse Diversität, die in der Wikipedia nie gegeben war bisher. Also das sind weiße mittelalte Männer, die die Wikipedia schreiben. Das ist leider so. Aber das Thema Diversität ist noch was anderes, jetzt geht es erst mal um die schiere Anzahl und die nimmt kontinuierlich ab. Und es gibt immer wieder Versuche von Wikimedia Deutschland, von der Wikimedia Foundation, aber auch andere interessierte Gruppen, die Anzahl der Autorinnen und Autoren zu erhöhen. Und was macht man denn, wenn jetzt plötzlich in diese Community 100-150-200 Leute reinkommen und einfach quasi das Versprechen, das die Wikipedia ihnen gegeben hat, nämlich wir sind die Enzyklopädie, an der jeder mitarbeiten kann, plötzlich einfordern. Das ist schwierig, denn die Wikipedia hat ein recht komplexes Regelwerk und die Wikipedia hat vor allem sehr viel kulturelles Kapital und soziales Kapital, haben die Teilnehmer aufgebaut. Und wenn ich jetzt neu dazukomme fehlt mir dieses Kapital und ich werde nicht so ernst genommen und mir wird nicht so zugehört.
+
+00:20:55.901 --> 00:21:48.500
+<v pavelrichter>Wie Leuten, die schon seit vielen Jahren dabei sind. Und dann gibt es sicherlich so eine Form, vielleicht ist das gar nicht so untypisch für Online-Communitys im Allgemeinen, dieses bewahren wollen. Also ich stelle in der deutschsprachigen Wikipedia als Beobachter aktuell fest, dass es tatsächlich eine Angst vor diesem Neuen gibt oder eine Angst davor, sich weiter zu entwickeln. Weil das was wir jetzt haben ja auch sehr gut funktioniert hat und auch immer noch sehr gut funktioniert. Vielleicht liegt die Zukunft deswegen gar nicht darin, dass man Menschen in die Wikipedia bringt und dazu bringt, an einer Enzyklopädie mitzuarbeiten, sondern vielleicht müssen wir die Menschen wo ganz anders abholen, um ihr Wissen abzufragen und aufzubereiten. Vielleicht ist das Zeitalter … oder vielleicht brauchen wir neben dem Enzyklopädie-Projekt noch was anderes. Und da gibt es ja hier in Deutschland etwas, was hier entwickelt wurde, nämlich Wikidata. 
+
+00:21:48.501 --> 00:22:55.000
+<v pavelrichter>Das ist tatsächlich das seit der Gründung der Wikipedia einzige Projekt, das erfolgreich es geschafft hat, sich zu etablieren als ein nach den Grundprinzipien der Wikipedia funktionierendes Projekt zur Strukturierung und Sammlung von Wissen. Das in dem Fall nicht enzyklopädisch ist, es geht hier um Daten, um strukturierte Daten, aber es ist enorm erfolgreich. 12.000 Community-Member weltweit, die also sich aktiv daran beteiligen. Und ich glaube, wir müssen, wenn wir dann auch außerhalb von Deutschland gucken, wenn wir uns anschauen, dass es jede Menge Bereiche und Kulturen in dieser Welt gibt, die überhaupt kein Verständnis für das Konzept der Enzyklopädie haben, weil es eben nicht … die Enzyklopädie ist ein Projekt der Aufklärung, es gibt keine Enzyklopädie ohne Aufklärung. Es gibt aber sehr viele Gegenden in dieser Welt, in der Aufklärung keine kulturelle Verwurzlung hat. Und das ist jetzt weder gut noch schlecht, aber es bedeutet, dass wir auch hier andere Zugänge finden müssen, wie wir Menschen dazu bringen können, ihr Wissen zu teilen und ihr Wissen aufzubereiten und verfügbar zu machen.
+
+00:22:55.001 --> 00:23:53.700
+<v pavelrichter>Und ich glaube, dass die Idee einer gemeinschaftlich geschriebenen Enzyklopädie da tatsächlich an ihre Grenzen stößt. Und dass wir eine Diversität auch in diesen Projekten brauchen, die es uns erlauben, andere Zugänge zu finden und andere Angebote zu machen, hey hier kannst du was machen. Quora ist mein Lieblingsbeispiel dafür. Quora diese Seite im Internet, wo man eine Frage stellen kann und andere Menschen beantworten diese Frage und wiederum andere Menschen bewerten diese Antwort und die am besten bewertet Antwort kann ich mir anschauen. Ein enorm erfolgreiches Projekt. Ist im Grunde genommen nichts anderes, als dass was die Wikipedia auch mal sein wollte. Nämlich es ist ein riesiger Wissensschatz. Nicht ganz so gut strukturiert wie eine Enzyklopädie, aber die Daten sind erst mal da. Das Wissen ist in der Datenbank von Quora. Und ich bin sehr gespannt, was in den nächsten Jahren mit diesem Wissensschatz, der dort angesammelt wurde, gemacht wird. Aber hier wird eben ein menschliches Bedürfnis aufgegriffen, nämlich Fragen zu beantworten.
+
+00:23:53.701 --> 00:24:37.200
+<v pavelrichter>Ich stelle dir eine Frage und du beantwortest sie und das ist ganz natürlich. Und niemandem wird gesagt, hey willst du nicht eine Enzyklopädie mitschreiben. Was nämlich unter uns auch sehr einschüchternd sein kann. Wer bin ich eigentlich, dass ich an einer Enzyklopädie mitschreibe. Eine der häufigsten Antworten, wenn wir gefragt haben, warum arbeitest du nicht in der Wikipedia mit, und eine insbesondere von Frauen häufig zu hörende Antwort ist, ich sehe nicht, dass ich jetzt dazu beitragen kann zu einer Enzyklopädie. Weil das kann auch einschüchternd sein. Vielleicht ist das für diejenigen, die jetzt in der Wikipedia mitarbeiten, das sind Menschen, die sagen, ja klar Enzyklopädie schreiben wir mit. Aber es gibt eben ganz viele, die diesen robusten Ansatz nicht haben und die müssen wir ganz anders kriegen.
+
+00:24:37.201 --> 00:25:35.000
+<v timpritlove>Ja man merkt, dass die Wikipedia extrem gereift ist. Ich erinnere mich immer noch mit Freude, es wurde mal an einem Tag ich glaube der 10.000 Artikel des französischen Schwesterprojekts, also der französischen Wikipedia, bejubelt. Da war alles noch ganz am Anfang und ich glaube die Deutsche war da so bei 100.000 Seiten, also auch gar kein Vergleich mehr. Und die französische Wikipedia hat dann diesen Tag mit dem schönen Satz bejubelt, eine Birne ist eine Frucht. Und das war der erste Satz, der in dem Artikel Birne drin stand. Und es wurde sozusagen zelebriert so dieses, guck mal es reicht, wenn so eine einfache Feststellung erst mal da reinschreibt und daraus entwickelt sich dann halt ein ausführlicher Artikel, der halt irgendwie alles über Birnen erzählt, was man irgendwie nur wissen mag. Und das hat sehr schön diese Dynamik am Anfang des Projekts ausgedrückt.
+
+00:25:35.001 --> 00:26:36.600
+<v timpritlove>Und in gewisser Hinsicht könnte man vielleicht auch feststellen, Wikipedia war ein Erfolg, befindet sich in gewisser Hinsicht jetzt in so einer sich langsam weiterentwickelnden Konsolidierungsphase. Man kann auch fast sagen, das Ziel wurde erreicht. Es wird natürlich immer wieder neues Wissen geben, Dinge werden verfeinert, aber man scheint seine Struktur gefunden zu haben. Nichts desto trotz und hättest du es jetzt nicht angesprochen, hätte ich das sicherlich auch noch aufgebracht, ist dieses Wikidata-Projekt ja im Prinzip dann auch so der nächste Schritt. Dass man sagt, okay jetzt liefern wir halt nicht nur Wissen zum Nachlesen, im Sinne Menschen lesen Texte von Menschen über Dinge, was ja im Prinzip die Enzyklopädie immer leisten wollte, hin zu einem Menschen und Computer liefern Daten für Menschen und Computer. Und ist damit in gewisser Hinsicht ja noch viel moderner aufgestellt und liefert eine ganz andere Maschine, die quasi freies Wissen ja auch in eine andere Position reinbringt. 
+
+00:26:36.601 --> 00:26:53.500
+<v timpritlove>Weil während man oft Wikipedia-Artikel gelesen hat, um daraus zu lernen, ist es ja nicht so, dass Roboter sich nach dem Inhalt von Wikipedia-Artikeln verhalten können, aber das sieht ja dann bei Wikidata schon wieder ganz anders aus.
+
+00:26:53.501 --> 00:27:56.500
+<v pavelrichter>Absolut. Wikidata ist insbesondere … also vielleicht ist Wikidata einfach die logische Fortentwicklung eines Enzyklopädie-Projektes. Eine Enzyklopädie, also ein Fließtext, der sich an Menschen richtet, die etwas lesen wollen, arbeitet mit den Mitteln des Buchdrucks im Grunde genommen in digitaler Form, ein bisschen Hypertext ist dabei, ein bisschen Verlinkung, aber im Grunde genommen reden wir hier über einen klassischen Textaufbau, dem auch die Wikipedia folgt. Wikidata ist die Referenz dafür, dass sich auch die Nutzbarmachung von Wissen und vielleicht sogar auch die Definition von Wissen dahingehend aus meiner Sicht geändert hat, dass es heutzutage wichtig ist, oder nicht nur wichtig, sondern auch überhaupt möglich ist, auch technisch möglich ist, sehr viel Wissen zu generieren und aufzubereiten in einer nachvollziehbaren Form, ohne dass es einer menschlichen Interaktion dafür bedarf.
+
+00:27:56.501 --> 00:28:58.000
+<v pavelrichter>Ohne dass es eines Redakteurs bedarf. Sei das nun ein hauptamtlicher Redakteur eines Verlages oder sei das nun ein ehrenamtlicher Redakteur der Wikipedia, sondern dass Maschinen sehr viel besser geworden sind im Erstellen und im Präsentieren und im Aufbereiten von Wissen und Informationen. Wir haben noch gar nicht über Artificial Intelligence gesprochen, aber alleine mit dem, was heutzutage möglich ist, kann man eben … Computerprogramme können noch keine Enzyklopädie schreiben, aber sie können zum Beispiel Fragen beantworten. Und die meisten Menschen, die in der Wikipedia etwas suchen, wollen ja meistens eine ganz spezifische Frage beantwortet haben. Die wollen ja nicht einen gesamten Artikel zur französischen Revolution lesen, es sei denn sie sind Schüler und schreiben gerade ein Referat über die französische Revolution, aber anordnen kommen wir alle, weil wir irgendwie so eine Pappquizfrage haben, die wir beantwortet wissen wollen.
+
+00:28:58.001 --> 00:30:01.600
+<v pavelrichter>Und dafür bedarf es eben auch nicht unbedingt einer Enzyklopädie, sondern dafür bedarf es idealerweise maschinenlesbaren Informationen, die dann zu Wissen zusammengesetzt werden können. In Maßen, also ich glaube nicht, dass wir zumindest heutzutage soweit sind, dass wir längere Texte strukturiert erstellen können, aber eben für diese Beantwortung von Fragen ist das was Wikidata und ähnliche Projekte machen die Grundlage, die damit zu tun hat, dass wir jetzt eben die technischen Möglichkeit haben, tatsächlich auch mit solchen strukturierten Daten menschengerecht umzugehen und Informationen und Wissen daraus zu generieren, die Bedürfnisse von Menschen befriedigen. Die Wikipedia in Schweden zum Beispiel ist genau diesen Weg gegangen. Die ist mittlerweile numerisch gesehen deutlich größer als die deutschsprachige Wikipedia, weil sie einen Großteil ihrer Artikel mit sogenannten Bots, also mit Computerprogrammen schreibt.
+
+00:30:01.601 --> 00:30:25.700
+<v pavelrichter>Die strukturierte Datenbanken, unter anderem auch Wikidata, aber eben auch jede Menge andere Datenbanken durchforstet und Artikel zu Tiergattungen schreibt oder Artikel zu Pflanzen schreibt. Und das mittlerweile tatsächlich auch so, dass dort Informationen geliefert werden, die auch gesucht und gelesen werden.
+
+00:30:25.701 --> 00:31:25.900
+<v timpritlove>Ein Nebenaspekt von Wikidata, den ich auch sehr interessant fand, ist, wenn man jetzt Wikipedia wahrnimmt, dann denkt man halt schnell an die deutsche, die englische und das ist so das was die meisten Leute aus Deutschland heraus zumindest konsumieren, mit ein paar Ausnahmen sicherlich, je nachdem an welcher Sprache und an welchem Land so das eigene Herz hängt. Aber es gibt ja sehr viele Wikipedien, im Prinzip halt so viele wie es Sprachen gibt, also theoretisch zumindest. Nur dass es natürlich dann nicht so viele Native-Speaker gibt, und schon gar nicht genug Native Speaker, die dann auch tatsächlich bereit sind, an so einer Wikipedia mitzuarbeiten. Wikidata hat das so ein bisschen auf den Kopf gestellt. Dass sich jetzt im Prinzip aus diesem Wikidata-Bestand, der sich ja selber wiederum aus dem Wissen aller Wikipedien rekrutiert hat, zumindest initial, dass daraus jetzt im Prinzip schon so halbfertige Enzyklopädiegerüste zusammengebaut werden können, wo man dann eben diesen ersten Schritt schonmal vorgegeben bekommt, der einen ansonsten vielleicht, wenn er wegfällt, davon abhält, überhaupt erst mal aktiv zu werden.
+
+00:31:25.901 --> 00:32:28.100
+<v pavelrichter>Das ist sicherlich so. Aber ich glaube, dass … also man kann sicherlich diese Art der automatisch aufbereiteten Enzyklopädien unter dem Markennamen Wikipedia ganz gut vertreiben, der Markenname funktioniert ja weltweit, also auch in Kulturen, die keinen enzyklopädischen Kontext kennen oder nicht den gleichen enzyklopädischen Kontext kennen wie wir, aber ich glaube, das ist ungefähr so wie die ersten Webseiten von Zeitungen, die ungefähr so aussehen wollten wie eine gedruckte Zeitung. Und wenn die Ergebnisse aus Wikidata so aussehen wollen wie eine echte Enzyklopädie, dann ist das glaube ich eine Brückentechnologie. Wirklich spannend wird es, wenn auf diese Information zugegriffen wird auf eine ganz natürliche Art und Weise, dass ich eine Frage bei Google eintippe und die Antwort kriege, die aus Wikidata generiert wird. Es ist ja auch kein Zufall, dass Suchmaschinen wie Google oder auch die russische Variante Yandex Geld in die Entwicklung von Wikidata gesteckt haben.
+
+00:32:28.101 --> 00:33:28.100
+<v pavelrichter>Das ist natürlich für die ein enormer Schatz, nicht nur an Wissen, sondern auch die Community, die darum entsteht, ist natürlich enorm spannend und enorm interessant. Also ich glauben, dass die Nutzung von Wikidata zur automatischen Erstellung von Enzyklopädien in Märkten, in denen es diese Enzyklopädien noch nicht gibt, das ist eine Übergangstechnologie. Das sehen wir jetzt, aber ich glaube der eigentliche Wert von Wikidata wird sich erst noch zeigen, wenn auch die Anwendungen spezifischer werden und marktgenauer werden. Vielleicht werden die auch unter dem Namen Wikipedia vertrieben oder präsentiert, aber sie werden dann keine Enzyklopädie sein in unserem Sinne. Was ich überhaupt nicht schlimm finde. Ich war nie ein Freund davon zu sagen, die Aufgabe  von Wikipedia im Mission Statement ist das gesamte Wissen der Menschheit allen Menschen der Welt frei zur Verfügung zu stellen. In diesem Statement kommt das Internet nicht vor und in diesem Statement kommt auch die Enzyklopädie nicht vor. Das sind beides Tools, die wir benutzen.
+
+00:33:28.101 --> 00:33:42.800
+<v pavelrichter>Das eine ist ein technisches Tool und das andere ist ein kulturelles Tool. Aber wenn ich in einem Markt agiere, in dem dieses kulturelle Tool zum Beispiel nicht funktioniert, dann brauche ich ein anderes. Anstatt so zu tun, als könnte man da auch eine Enzyklopädie schreiben, wie wir sie in Deutschland schreiben oder in Frankreich oder in Spanien.
+
+00:33:42.801 --> 00:34:33.800
+<v timpritlove>Aber es ist auf jeden Fall so ein Aspekt, den ich dabei noch ganz charmant finde, dass man ja im Prinzip hier auch Minderheiten die Möglichkeit gibt, ihre kulturelle Identität auch dann sozusagen weiter zu unterfüttern, indem man halt einfach auch aus dieser Perspektive den Blick auf die Welt eröffnet und dabei eben sozusagen auch hilft. Weil wir hatten das ja gerade, jedes Land oder jeder Sprachkulturraum sage ich mal, das ist ja jetzt nicht so sehr an Nationalgrenzen festzumachen, hat sozusagen seine eigene Sicht der Welt und an der Stelle ist ja auch die Wikipedia nicht nur reines Wissen, sondern im Prinzip ja auch ein Ort, wo man über dies Wissensvermittlung auch eine Betrachtung der Welt manifestiert, die sagen wir mal zumindest erst mal mit Leuten der eigenen Sprache überhaupt erst mal teilt und damit ja auch eine Diskussionsbasis schafft.
+
+00:34:33.801 --> 00:35:29.700
+<v pavelrichter>Ja und da wird es dann wirklich mittelfristig enorm spannend, wenn man sich jetzt mal von dem Enzyklopädieaspekt ein bisschen entfernt, sondern sagt es gibt unterschiedliche Arten und Weisen wie Wissen in einer Gesellschaft gespeichert und zugänglich gemacht wird. Also es gibt zum Beispiel ein Projekt im südlichen Afrika, in dem Menschen mit Aufnahmegeräten von Dorf zu Dorf ziehen und Geschichten aufnehmen. Weil Wissen in Form von Geschichten oder Liedern oder Gedichten weitergegeben wird und das ist genauso relevantes Wissen wie enzyklopädisches Wissen. Und dieses zu erfassen und zugänglich zu machen, ist eine Weltaufgabe. Und meines Erachtens nebenbei die Aufgabe der Wikimedia Foundation. Also ganz klar, es muss um mehr gehen als um das Erstellen einer Enzyklopädie. Es muss genau um dieses greifbar machen und zugänglich machen, und zwar das weltweite zugänglich machen, gehen. Und da wird es dann extrem spannend.
+
+00:35:29.701 --> 00:36:00.300
+<v pavelrichter>Ich habe leider nur ein Beispiel aus einem westlichen Kulturkreis. Aber eine der großen ungeborenen Stärken der Wikipedia besteht darin, dass ich, wenn ich in einem Artikel bin, ich mir angucken kann, in welchen anderen Sprachen es einen ähnlichen Artikel oder einen gleichen Artikel gibt. Und man kann das in der deutschsprachigen Wikipedia sehr schön machen, man liest sich einen Artikel zur Abtreibung durch in der deutschen Wikipedia und den Artikel zur Abtreibung oder Abortion in der englischsprachigen, sehr US-geprägten, Wikipedia durch.
+
+00:36:00.301 --> 00:36:01.100
+<v timpritlove>Oder in der polnischen.
+
+00:36:01.101 --> 00:37:00.400
+<v pavelrichter>Oder wenn man polnisch kann in der polnischen. Man wird, sowohl der deutsche als auch der englischsprachige Artikel zum Thema Abtreibung oder Abortion ist extrem gut, aber völlig unterschiedlich. In Deutschland dominiert der Selbstbestimmungsaspekt, der Aspekt des §218, der Aspekt der Befreiung der Frau, der Selbstbefreiung der Frau, das war das Thema in der Frauenbewegung in Deutschland. Und es ist ein abgeschlossenes Themengebiet, es gibt keine Kontroversen in Deutschland über die Abtreibung. Das ist ein Recht und bis auf wenige katholische Fundamentalisten gibt es kaum jemanden, der dieses Recht wirklich ernsthaft in Frage stellt. Es gibt keinen gesellschaftlichen Diskurs darüber. Das ist in den USA komplett anders. Sehr guter Artikel in der englischen Wikipedia. Ganz anders, es geht um das Recht auf Leben versus das Recht auf Selbstbestimmung. Es hat eine viel höhere religiöse Schlagkraft als der deutsche Artikel. Auch sehr gut, auch sehr enzyklopädisch. Und wenn ich mir das jetzt vorstelle, das lese ich auch noch auf türkisch, das lese ich auch noch auf polnisch und das lese ich auch noch auf Thai.
+
+00:37:00.401 --> 00:37:13.900
+<v pavelrichter>Und lerne darüber etwas über die kulturellen Zugänge zu bestimmten Themen, das ist das Weltwissen, von dem die Menschheit doch schon seit tausenden von Jahren träumt.
+
+00:37:13.901 --> 00:38:15.400
+<v timpritlove>Da kann man dann wirklich mal auf die künstliche Intelligenz hoffen, dass sie a) in der Lage ist, mir die alle zu übersetzen, so dass sozusagen der Wortsinn auch beibehalten wird oder vielleicht so weit zu gehen und zu sagen, ich habe das jetzt mal alles zusammengefasst, wie die einzelnen Sprachräume das so sehen und hier ist sozusagen der globale Konsens, den wir gerade haben. Aber da greife ich jetzt wahrscheinlich ein bisschen zu weit. Jetzt haben wir schon viel über Wikipedia gesprochen, im Kern wollten wir ja über freies Wissen sprechen. Ich möchte trotzdem aber nochmal auf einen zweiten Veteranen eingehen, der parallel entstanden ist und der auch seine ganz eigene Bedeutung und seine ganz eigene Wirkmächtigkeit entfaltet hat, aber sich einfach in einem ganz anderen Rahmen abspielt, die Rede ist von Open Streetmap, das ja wiederum in England gestartet worden ist. Ich bin mir jetzt über die Genese nicht ganz genau im Klaren, aber Karten sind da auf jeden Fall ein Thema gewesen und auch die Verfügbarkeit und die Nutzbarkeit von Karten.
+
+00:38:15.401 --> 00:39:16.700
+<v timpritlove>In Großbritannien ist es halt vor allem diese Ordnance Survey Karten, die im Prinzip eigentlich das Bild der Landschaft skizziert haben. Das war quasi so die einzige nennenswerte Quelle. Digitale Karten in dem Sinne gab es nur im Ansatz bis dahin. Google Maps ist halt gestartet und hat schon mal versucht, so ein bisschen die Verkehrssituation zusammenzutragen, aber trotzdem gab es auch dort eben den Wunsch der Datenbefreiung, kann man sagen. Also mehr noch als bei Wikipedia, wo das ja nicht so wirklich um eine Befreiung ging, weil ja am Ende mit der Wikipedia etwas ganz anderes entstanden ist. Es gab eigentlich nicht dasselbe vorher. Es gab etwas, das nannte sich Enzyklopädie. Aber wenn halt Enzyklopädien gedruckte, Brockhaus etc., neben Wikipedia liegt, ist ja gar kein Vergleich. Also der Umfang, die Tiefe, der Hypertext, der da alles mit drin ist, aber die Karten sind im Prinzip auf gleicher Augenhöhe angetreten.
+
+00:39:16.701 --> 00:40:16.600
+<v pavelrichter>Also zunächst mal würde ich jetzt sagen, bei Open Streetmap geht es aus meiner Sicht weniger um die Befreiung von Daten, sondern es geht um Crowdsourcen von Daten. Es geht darum, dass Daten, die mir als Nutzer nicht frei zur Verfügung stehen, und die ich auch nicht anderweitig kriegen kann, dass ich mir die eben selber erschaffe. Und das ist erst mal abstrus und dann auch gleich noch mit Geodaten anzufangen. Aber Geodaten gab es ja durchaus. Es gab die Katasterämter in Deutschland. Also es gibt jede Menge Geodaten, es gab sie auch schon lange Zeit. Sie waren aber eben nicht frei verfügbar. Navigationsgeräte an Autos gibt es auch schon sehr lange, jeweils mit extrem teurem Kartenmaterial. Aber was hier eben fehlte war freizugängliche Geodaten, die Open Streetmap dann gesammelt hat.
+
+00:40:16.601 --> 00:41:19.000
+<v pavelrichter>Und das ist ja fast schon eine Hybris zu sagen, wir machen jetzt eine Karte von Deutschland und zwar eine Straßenkarte von Deutschland oder von England oder von den USA. Zeigt aber natürlich, wie großartig die Kombination aus einer Idee und der richtigen Zeit, nämlich dass die Technologie dafür vorhanden war, das GPS-Geräte billiger wurden, dass ich also plötzlich als Hobby eine Landkarte machen konnte. Und sich eine Community darum gebildet hat, die sich dem verschrieben hat, das ist glaube ich das Erfolgsrezept von Open Streetmap. Ich würde noch dazu sagen, dass Open Streetmap aber ähnlich wie Wikipedia auch nicht einfach nur bestehendes Datenmaterial nochmal erstellt hat, sondern hier insbesondere der Produktionsprozess von Wissen sich radikal verändert hat. Hier sind eben keine Vermessungsteams unterwegs, die mit aufwendigen Vermessungsinstrumentarien Straßen vermessen.
+
+00:41:19.001 --> 00:42:04.600
+<v pavelrichter>Oder auch neue Straßen anlegen oder kaputte Straßen sperren oder erschließen in dem Kartenmaterial, sondern der Produktionsprozess ist einfach enorm demokratisiert worden. Heutzutage jeder mit einem Smartphone kann zu Open Streetmap beitragen und das führt aber nicht nur zu billigeren und zu kostenlosen Daten, sondern es führt auch zu deutlich besseren, weil es nämlich erlaubt, sehr viel einfacher Fehler zu korrigieren. Ich bin immer noch überrascht darüber, wie wenig Feedback-Möglichkeiten es so im Internet gibt, wenn ich auf einen Fehler gestoßen bin. Wir alle kennen das, wir lesen bei Spiegel Online irgendwas was objektiv falsch ist und es gibt keine Möglichkeit, irgendwie Bescheid zu sagen, hallo das ist falsch, ändert das. Ich könnte wahrscheinlich eine E-Mail schreiben, die aber wahrscheinlich und so weiter.
+
+00:42:04.601 --> 00:42:04.600
+<v timpritlove>Hasskommentar.
+
+00:42:04.601 --> 00:42:33.900
+<v pavelrichter>Hasskommentar, den liest ja eh niemand. Und Open Streetmap und Wikipedia sind für mich insbesondere was den Prozess des Wissenschaffens angeht enorme Erfolgsrezepte und zeigen, dass es hier nicht nur darum geht, etwas billiger oder umsonst zur Verfügung zu stellen, sondern dass es hier auch darum geht, einen Produktionsprozess neu aufzustellen, der lange Zeit von Experten, auch von teuren Experten beherrscht wurde.
+
+00:42:33.901 --> 00:43:33.800
+<v timpritlove>Trotzdem ist ja bei beiden Projekten die Frage der Lizenzierung, also wie öffentlich ist das jetzt wirklich, wie sehr ist es nutzbar, wie ist es auch gewerblich nutzbar, von Anfang an natürlich ein Thema gewesen. Es gab ja da bei Wikipedia so ein bisschen auch so dieses Problem des Urknalls. Man hat sich eine Lizenz genommen, die eigentlich mehr so aus der Software-Welt kam, wo man dann später festgestellt hat, passt vielleicht doch nicht so ganz in unsere Ziele rein. Bei Open Streetmap war es ja von Anfang an so, dass man gesagt hat, ja wir sammeln jetzt hier nicht nur die Daten von allen und stellen sie sozusagen zur Betrachtung zur Verfügung und dass jeder sie ändern kann, sondern wir wollen auch explizit eine kommerzielle Nutzung ermöglichen. Bzw. wir schränken die Nutzung in keiner Form ein, damit wir uns sozusagen auch selber gar nicht groß in die Quere kommen. Und es schafft ja dann potenziell ja auch einen wirtschaftlichen Impact.
+
+00:43:33.801 --> 00:44:35.500
+<v pavelrichter>Ja, ja das tut es und über den wirtschaftlichen Aspekt können wir sicherlich auch noch reden. Ich glaube aber, dass die Wirkung einer offenen Lizenz zunächst mal Community-intern ist. Ich glaube, es ist der große Schatz einer offenen Lizenz, dass wenn ich etwas unter einer offenen Lizenz veröffentliche, ich von Vornherein bereit bin, zu akzeptieren, dass andere mit dem, was ich da produziert habe, frei umgehen. Und zwar zunächst mal innerhalb des Projekts, in dem ich mich bewege. Die ersten Änderungen in einem Wikipedia-Artikel sind ja innerhalb der Wikipedia. Da geht es nicht darum, dass irgendjemand den nimmt, druckt und damit Geld verdient, sondern es geht darum, dass es kein Streit in der Community darüber geben kann, dass überhaupt jemand es wagt, sich an einem Artikel, einer Information, an einem Stück Wissen von einem anderen da rumzumachen. Sondern dadurch, dass ich es unter eine freie Lizenz stelle, habe ich diese Diskussion von Vornherein ausgeschlossen.
+
+00:44:35.501 --> 00:45:36.900
+<v pavelrichter>Es gibt natürlich auch in der Wikipedia Menschen, die quasi die Wikipedia, die ihren Artikel besitzen und es gibt Hauptautoren, das auf jeden Fall. Aber es gibt eben nicht diese Debatte, misch dich nicht in meinen Artikel ein. Und das hat was mit der Lizenz zu tun. Ich glaube, das ist eigentlich die wesentliche Funktion einer offenen Lizenz, dass sie Community-bildend ist. Und es ist glaube ich kein Zufall, dass sich mit Open Streetmap und Wikipedia, aber auch mit Wikidata drei sehr große Communities gebildet haben rund um jeweils eine mittlerweile mehr oder minder vergleichbare offene und freie Lizenz. Dass es dann auch noch eine Außenwirkung gibt, was die Nutzung angeht, das ist zum Beispiel bei Open Streetmap ganz sicherlich wichtiger. Ich würde mal, ohne dass ich da jetzt Statistiken kenne, vermuten, dass Open Streetmap deutlich häufiger auch kommerziell genutzt wird. Es gibt mehr und mehr Navigationssysteme, die auf Open Streetmap zurückgreifen. Es gibt mehr und mehr Webseiten, die wenn sie einen Kartendienst anbieten, nicht mehr Google Maps anbieten.
+
+00:45:36.901 --> 00:46:09.100
+<v pavelrichter>Was ja für den normalen Webseitenbetreiber durchaus Geld kosten kann, sondern die sich auf Open Streetmap konzentrieren. Also die Weiternutzung, auch die kommerzielle Weiternutzung von Open Streetmap ist glaube ich weiter geschritten als die ernsthafte kommerzielle Weiternutzung der Wikipedia. Es gibt so Trittbrettfahrer, die so Book on demand Bücher bei Amazon machen mit Wikipedia-Artikeln und arme Menschen damit betrügen. Aber ansonsten glaube ich die wirtschaftliche Nutzbarmachung der Wikipedia-Inhalte gering.
+
+00:46:09.101 --> 00:47:10.300
+<v timpritlove>Zumindest in Puncto von, ich nehme die Daten und mach daraus aber was komplett neues. Ich denke, dass der wirtschaftliche Fortbildungswert von Wikipedia auch enorm ist und sich wahrscheinlich in Zahlen überhaupt gar nicht mehr ausdrücken lässt. Trotzdem also ich will da nicht so sehr darauf rumreiten, aber ich hatte schon so den Eindruck, dass Open Streetmap schon auch noch eine konkretere Antwort auf dieses Lizenzproblem war. Also Wikipedia hat mehr so einen grundsätzlichen Mangel, weil es so was halt noch gar nicht gab in dieser Form, auch nicht mit dieser Nutzbarkeit angegangen. Open Streetmap war schon auch so eine Reaktion auf die Eigenschaft bestimmter vorhandener Daten, es ist ja nicht so, dass es keine guten Karten gegeben hätte, es gab viele Karten. Da war jetzt vielleicht nicht jeder Briefkasten eingezeichnet, aber gerade das Ordance Survey Kartenmaterial muss ich ja jetzt nicht verstecken.
+
+00:47:10.301 --> 00:48:11.100
+<v timpritlove>Das war schon immer sehr ausführlich und allumfassend, zumindest was Großbritannien anging, aber es war eben nicht in dem selben Maße nutzbar. Und du hast ja schon angesprochen, auch hier mit den Katasterämtern, wenn man halt Zugriff darauf haben wollte, was der Staat quasi hier über unser Land in Form von geografischer Information weiß, war das mit Kosten verbunden, seien es Bearbeitungsgebühren oder wie sie auch immer heißen. Man konnte nicht mal eben sich von einem Bundesland beliebige Daten holen. Also abgesehen davon, dass der Kopierprozess auch teilweise sehr arkan war, waren halt immer irgendwelche Gebühren damit verbunden und auch Einschränkungen in der Nutzung. Und das war schon so ein bisschen mein Eindruck, dass eigentlich Open Streetmap diesen Gedanken der freien Verwendbarkeit und Wiederverwendbarkeit noch sehr viel mehr im Fokus hatte, als das vielleicht bei Wikipedia am Anfang im Kopf war. Und wenn die Nutzung jetzt auch so ist, dann zeigt sich das ja eigentlich auch oder?
+
+00:48:11.101 --> 00:48:35.100
+<v pavelrichter>Ja. Dem kann ich voll und ganz zustimmen. Ich würde noch einen Schritt weitergehen, was Open Streetmap angeht, nämlich dass es eben auch weite Teile, insbesondere international weite Teile, gibt, in denen eben dieses Kartenmaterial überhaupt nicht vorhanden war, weil es keinen kommerziellen Nutzen gab, Karten von Entwicklungsländern zu machen.
+
+00:48:35.101 --> 00:48:38.600
+<v timpritlove>Oder auch Verbote, wie in Indien. 
+
+00:48:38.601 --> 00:49:34.700
+<v pavelrichter>Oder auch Verbote oder auch schlicht und ergreifend, es lohnte sich nicht, diese Daten zu sammeln oder zur Verfügung zu stellen. Und da liegt natürlich das große demokratische Element von Open Streetmap, dass es unabhängig vom kommerziellen Nutzen Menschen motiviert, aus anderen Gründen heraus beizutragen. Unter andrem eben auch, weil es unter einer freien Lizenz steht. Nicht aus eigenem kommerziellen Interesse heraus es zu machen, sondern aus altruistischen Gründen, oder einfach nur, weil es Spaß macht und es eben mein Hobby ist, das zu tun. Und das führt dann eben dazu, dass nach dem großen Erdbeben in Nepal ist innerhalb von 48 Stunden hat es glaube ich gedauert, dann gab es auf Open Streetmap eine Karte, die den Hilfsorganisationen gezeigt hat, welche Straßen befahrbar waren und welche nicht. Das hat eine internationale Community anhand von Satellitenbildern gemacht. Das ist nicht nur von der Geschwindigkeit her enorm, sondern eben auch weil …
+
+00:49:34.701 --> 00:50:10.700
+<v pavelrichter>Also erst mal natürlich wegen der Geschwindigkeit enorm. Aber es ist eben auch enorm, weil hier ein lokales Problem global angegangen wurde, durch eine – und deswegen ist diese Community-Aspekt so enorm wichtig – eben durch eine Community, die Bock auf so was hat. Die das macht, weil sie findet, dass Kartendaten verdammt nochmal frei sein müssen und nicht irgendjemandem gehören. Und dieser Impuls ermöglicht überhaupt erst genau diese Form von humanitärem Engagement, die dann tatsächlich Menschenleben retten.
+
+00:50:10.701 --> 00:50:38.900
+<v timpritlove>Nicht nur in Nepal. Ich erinnere mich auch an Haiti, an ähnliche Erdbebengebiete, sind also besonders davon betroffen, Naturkatastrophen im Großen und Ganzen. Und so ganz nebenbei, was auch ein interessanter Effekt ist, den man vielleicht bei Karten nicht so sieht, das es ja dann auch ein interessanter historischer Speicher wird, weil man ja sozusagen die Änderungen über die Zeit ja auch nicht verliert. Ich habe irgendwann mal gesehen, wie in Hamburg, wie heißt noch gleich das große Volksfest?
+
+00:50:38.901 --> 00:50:41.600
+<v pavelrichter>Der Dom.
+
+00:50:41.601 --> 00:51:14.800
+<v timpritlove>Wie dann eben auch Leute angefangen haben, jeden Schausteller, der dann halt dort sein Zelt aufgebaut hat, für eben diese Zeit dort einzuzeichnen und kaum war alles vorbei verschwand es auch wieder. Also einerseits so ein gewisser Echtzeitaspekt, aber natürlich auch die Möglichkeit, irgendwann mal so mit dem Slider in die Vergangenheit zu gehen und zu sehen, wie hat sich denn die Welt eigentlich verändert? Also jetzt Schausteller mag jetzt nicht so die relevanteste Information sein, aber ein Wiederaufbau eines Landes zum Beispiel spricht natürlich an der Stelle auch eine ganz andere Sprache und liefert natürlich auch Forschungsmaterial.
+
+00:51:14.801 --> 00:52:10.100
+<v pavelrichter>Die Wikipedia wird ein enormer Fundus für diese Form von Forschung sein. Nehmen wir ein tatsächliches und ein fiktives Beispiel. Das tatsächliche Beispiel ist der Artikel zur Rating-Agentur. Heutzutage weiß jeder von uns ungefähr was eine Rating-Agentur ist, das wissen wir aber eigentlich auch erst seit 2008, seit der Finanzkrise und dem Versagen der Rating-Agenturen. Der Wikipedia-Artikel zur Rating-Agentur kommt aber aus dem Jahr 2004/05, und da lässt sich wunderbar zeigen, dass das bis zur Finanzkrise ein ganz kleiner, relativ unbedeutender Artikel war, der einfach nur erklärte, was eine Rating-Agentur ist. Heute ist das ein Artikel, der sich kritisch mit den Funktionsweisen von Rating-Agenturen, ihrer politischen und wirtschaftlichen Wirkung auseinandersetzt. Weil wir einfach etwas gelernt haben über die Bedeutung von Rating-Agenturen für dein und mein Leben, wo wir früher nie gedacht hätten, dass uns ein Triple-A von irgendeiner amerikanischen Bank direkt betrifft, aber das tut es eben. Und das reflektiert sich in diesem Artikel wieder.
+
+00:52:10.101 --> 00:52:52.600
+<v pavelrichter>Und das finde ich ein enorm spannenden Evolutionsprozess, den man Schritt für Schritt für Schritt verfolgen kann. Und wenn man sich das jetzt, da reden wir jetzt über acht Jahre seit der Finanzkrise, jetzt stellt man sich das mal über 50 Jahre, über 100 Jahre, über 500 Jahre vor, wie sich gesellschaftliche Diskurse in solchen Artikeln widerspiegeln und auch die Änderungen von gesellschaftlichen Diskursen widerspiegeln. So gesehen kann Wikipedia, und insbesondere die sogenannte Versionsgeschichte, die also den Zugriff auf diese historischen Entwicklungen erlaubt, so gesehen kann Wikipedia tatsächlich ein kulturelles Gedächtnis einer Gesellschaft sein, über Jahre, Jahrzehnte, wenn nicht sogar Jahrhunderte.
+
+00:52:52.601 --> 00:53:09.500
+<v timpritlove>Sind denn da Forschungsprojekte bekannt, die sich gerade mit diesem Aspekt der Zeitläufigkeit all dieser Daten beschäftigt? Aber ich meine unabhängig von konkreten Beispielen. Das Potenzial ist doch hier auch soziologische Forschung anzustellen?
+
+00:53:09.501 --> 00:53:45.100
+<v pavelrichter>Ja, aber ich glaube, das dauert einfach noch, bis die Wikipedia eben nicht nur als eine Internetseite mit Wissen wahrgenommen wird, sondern es gibt natürlich Forschung zur Wikipedia, aber ich glaube die Nutzung, quasi die Sekundärnutzung der internen Prozesse, der Diskurse, auch der technischen Entwicklung, das steckt sicherlich noch in den Kinderschuhen. Und da stecke ich jetzt allerdings auch nicht mehr tief genug drin, da müsste man sich mit Menschen unterhalten, die sehr viel näher noch an der aktuellen Wikipedia-Forschung sind, was ich tatsächlich nicht mehr bin.
+
+00:53:45.101 --> 00:54:46.400
+<v timpritlove>Trotzdem man sieht ja auch eine ähnliche Debatte in Forscherkreisen. Wir hatten hier selbst bei Forschergeist schon einmal ein Gespräch über Open Science, was sich eben auch konkret mit dieser Problematik der Veröffentlichung von Wissen, also dem gesamten Prozess von Veröffentlichen, Verlagen, kritisch auseinandergesetzt hat. Es gab auch ein weiteres Gespräch über die Qualität der Forschung und die Überprüfbarkeit von Forschung, die ja im Wesentlichen auch ein Datenproblem ist. Die sozusagen einerseits natürlich die Verfügbarkeit der Paper selber, also dass man überhaupt erst mal die Ergebnisse, die beschriebenen Ergebnisse als solche sehen kann. Aber oft geht es ja auch noch weiter mit, ja was sind denn nun die konkreten Daten, die ich brauche, um dieses Ergebnis auch vielleicht reproduzieren und verifizieren zu können? Jetzt steigen wir so ein bisschen weg von diesen Internetprojekten hin in die eigentliche Frage, Open Data als Begriff, Open Access jetzt konkret im Wissenschaftsbereich.
+
+00:54:46.401 --> 00:55:02.300
+<v timpritlove>Oder um es ein bisschen weiter aufzudröseln, Open Knowledge. Wir kommen auch gleich nochmal zur Open Knowledge Organisation, wo du ja Geschäftsführer bist. Wie ändert sich das Bild an der Stelle aus deiner Perspektive?
+
+00:55:02.301 --> 00:56:03.300
+<v pavelrichter>Zunächst mal hat sich das für mich persönlich tatsächlich verändert. Ich war, als kleine Brücke noch zum vorhergehenden Themenblock, ich war als Wikipedianer relativ strikt gegen Open Access. Ich habe gesagt, es geht nicht um die Verfügbarmachung der Forschungsergebnisse, dass ich sie also sehen und lesen kann, sondern es geht darum, dass ich auch mit ihnen machen kann was ich möchte. In einen Wikipedia-Artikel einarbeiten oder was auch immer. Also dass sie unter einer freien Lizenz stehen müssen. Davon bin ich ein bisschen abgerückt. Ich glaube tatsächlich, dass es bei Forschungsergebnissen, so schön es auch wäre, wenn sie alle unter einer freien Lizenz stehen, aber das hier der zentrale Aspekt tatsächlich der Zugang zu diesen Forschungsergebnissen ist, der freie Zugang zu Forschungsergebnissen. Der es also mir ermöglicht, ein Paper zu lesen, ohne dafür viel Geld bezahlen zu müssen oder es gar irgendwie hinter einer Schranke steckt. Also insofern da macht Open Access definitiv Sinn, im Sinne von, Ergebnisse präsentieren und Ergebnisse zugänglich machen.
+
+00:56:03.301 --> 00:57:04.200
+<v pavelrichter>Ich glaube aber, dass sich da der Forschungs- und Wissenschaftsprozess auch dahingehend wandelt. Da stehen wir sicherlich noch relativ am Anfang, dass es eben nicht nur um das eigentliche Ergebnis geht, sondern auch die Rohdaten quasi zur Verfügung zu stellen, also das Ausgangsmaterial, die Testreihen, die erhobenen Datensätze zugänglich zu machen. Und zwar aus zwei Gründen. Zum einen zum Zwecke der Überprüfbarkeit, um tatsächlich selber nachvollziehen zu können, ob die Daten das hergeben, was das Paper sagt. Wichtiger vielleicht auch noch im gesellschaftlichen Sinne, also das ist quasi der Binnenwissenschaftsaspekt, aber im gesellschaftlichen Sinne wichtiger ist noch, dass ja wenn Daten gesammelt werden und ich darauf diese Daten erforsche, ich ja eine bestimmte Fragestellung anlege. Und dementsprechend auch was bestimmtes rauskriege. Ich kann aber auch eine andere Fragestellung an diese Daten stellen und damit ein anderes Ergebnis herausbekommen.
+
+00:57:04.201 --> 00:58:02.900
+<v pavelrichter>Und diese Daten quasi als einen Rohstoff zur Verfügung zu stellen, anderen Wissenschaftlern, anderen Forschern, die eine andere Fragestellung haben. Da geht es also nicht um die Überprüfung meiner Hypothese, sondern es geht um die Nutzung meiner Daten zur Überprüfung einer anderen Hypothese. Das ist der glaube ich gesellschaftlich extrem spannende Prozess. Da stehen wir aber wirklich noch sehr am Anfang. Ich glaube der Wissenschaftsbetrieb ist sehr geprägt von der Open Access Debatte und von der Debatte nach der Rolle von Fachzeitschriften und weil es sehr viel Geld kostet, dort Paper zu veröffentlichen und sie dann hinterher wieder abzurufen. Ich glaube da ist die Wissenschaft selber noch sehr in dieser Thematik gefangen oder damit beschäftigt will ich mal sagen. Und diesen Rohdaten-, Rohmaterialaspekt und auch den Aspekt, den eigenen Forschungsprozess offen zu legen, das ist glaube etwas, wo wir noch sehr am Anfang stehen.
+
+00:58:02.901 --> 00:58:04.200
+<v timpritlove>Aber es findet bereits statt?
+
+00:58:04.201 --> 00:58:11.200
+<v pavelrichter>Ja, es gibt ein sehr populäres, ein sehr gutes, sehr radikales Bespiel von …
+
+
+00:58:17-5 @pavelrichter] Genau, der seine Doktorarbeit geschrieben hat in Google Docs, so dass jeder den Entstehungsprozess mitlesen konnte, aber auch immer noch nachvollziehen kann. Auch Google Docs hat eine Versionsgeschichte, die mir erlaubt, mir anzugucken, wie sich diese Arbeit dann doch entwickelt hat. Das ist natürlich ein sehr radikales sich öffnen und den eigenen Forschungsprozess. Ich weiß nicht, ob das für jedermann und jederfrau möglich wäre. Aber es zeigt, dass es möglich ist und dass man damit so eine Doktorarbeit schreiben kann, die eben den eigenen Entstehungsprozess ebenfalls mit offenlegt.
+00:58:50.501 --> 00:58:58.100
+<v timpritlove>Also wir reden nicht nur von einer Veröffentlichung, sondern wir reden sozusagen von mehr oder weniger einem Livestreaming des Schreibens?
+
+00:58:58.101 --> 00:59:07.400
+<v pavelrichter>Genau, mit allem was dazu gehört, mit Fehlentwicklungen, mit sich verzetteln, mit Löschen von ganzen Kapiteln, mit …
+
+00:59:07.401 --> 00:59:09.200
+<v timpritlove>Copy Paste Plagiate.
+
+00:59:09.201 --> 01:00:08.200
+<v pavelrichter>All das, aber genau, der lebt diese Offenheit. Und er hat auch über ein verwandtes Thema diese Doktorarbeit geschrieben. Wollte aber eben auch zeigen, dass das keine akademische Debatte ist, sondern dass das praktische Auswirkungen auf einen selber haben kann. Und dass sich damit auch der Prozess der Wissenschaft verändern kann. Also das ist ein radikales Beispiel. Es gibt aber noch eins, das sicherlich im medizinischen Bereich sehr viel wirkungsmächtiger sein wird in Zukunft, die Bill and Melinda Gates Foundation, die weltweit größte Stiftung, die sich konzentriert auf medizinische Forschung, insbesondere zur Bekämpfung von einigen schwerwiegenden Krankheiten wie Malaria. Hat Anfang 2015 eine, sie nennen das, Open Access Policy veröffentlicht. Die aber im Grunde genommen sehr radikal folgendes festlegt, wenn du Geld bekommst von der Bill and Melinda Gates Foundation, sei es exklusiv, also wir sind die einzigen, die dich fördern, oder wenn wir nur einen Teil deines Projektes fördern, musst du alle Ergebnisse unter eine freie Lizenz stellen.
+
+01:00:08.201 --> 01:00:14.800
+<v pavelrichter>Du musst aber auch alle Daten, die auf dem Weg entstanden sind, ebenfalls maschinenlesbar und unter einer freien Lizenz zur Verfügung stellen.
+
+01:00:14.801 --> 01:00:17.200
+<v timpritlove>Also alle Messdaten.
+
+01:00:17.201 --> 01:00:17.900
+<v pavelrichter>Alle Messdaten.
+
+01:00:17.901 --> 01:00:19.500
+<v timpritlove>Aber auch alle Software?
+
+01:00:19.501 --> 01:00:36.200
+<v pavelrichter>Nein, hier geht es nur um die Ergebnisse, nicht um die Technik, die du dafür benutzt hast. Du kannst also … hey das ist die Stiftung von Bill Gates, dass er jetzt nur offen und freie Software pushen würde, wäre glaube ich viel verlangt.
+
+01:00:36.201 --> 01:01:13.700
+<v timpritlove>Ja aber auch das ist natürlich ein Problem, dass die Reproduzierbarkeit, also auch Verifizierbarkeit, von solchen Informationen natürlich auch davon abhängt, dass man in der Lage ist, dasselbe nochmal zu tun und mit Geräten, die selber halt in zunehmendem Maße auch von Software abhängen und sozusagen ganz anders funktionieren, ganz anders messen und reagieren können, wenn sich eben diese Softwaresituation ändert und natürlich auch alt wird, irgendwann nicht mehr verfügbar ist, gegebenenfalls simuliert werden muss, das sind ja auch alles Aspekte, die da noch mit reinkommen. Also ist vielleicht noch Entwicklungspotenzial, aber es ist natürlich auf jeden Fall schon mal ein ganz guter Ansatz an dieser Stelle.
+
+01:01:13.701 --> 01:02:14.100
+<v pavelrichter>Und was wir halt hier sehen ist, dass ein zentraler, ich würde jetzt gar nicht mal sagen, eine gemeinnützige Stiftung, sondern ich würde sagen, ein zentraler Forschungsförderer einen bestimmten Ansatz sehr massiv pusht, nämlich einen Ansatz des Sharing, einen Ansatz des Rohdaten zur Verfügungstellens, weil dahinter die Überzeugung steht, dass die Probleme, die wir lösen wollen, zu groß sind, um von einem einzelnen Forscher, einem einzelnen Forscherteam gelöst zu werden. Und dass wenn ich Rohmaterialen zur Verfügung stelle, wenn ich Daten zur Verfügung stelle, Menschen damit faszinierende Dinge tun. Sie kombinieren, sie auf eine neue Art und Weise auswerten, neue Fragestellungen an sie anlegen. Und die Daten sind aber dann da, was ich mit ihnen mache, das ist dann der kreative und der neue Prozess. Und ich halte das für einen sehr guten Ansatz. Das ist natürlich sehr radikal. Das kann man sich natürlich auch dann leisten, wenn man der weltweit größte Geldgeber in diesem Bereich ist.
+
+01:02:14.101 --> 01:03:07.900
+<v pavelrichter>Aber ich verstehe nicht, warum die deutsche Forschungsgesellschaft Gelder vergibt, ohne ähnliche Anforderungen zu stellen. Das sind schließlich öffentliche Mittel, die hier vergeben werden, und mindestens mal da, wo mit öffentlichen Mitteln gefördert wird, sollte die Offenheit der Default sein. Dass es natürlich Realitäten im Wissenschaftsbetrieb gibt, was die Auswertung von solchen Daten angeht und auch die eigene Karriere, die davon natürlich abhängig ist, das darf man nicht ignorieren, da muss man den Realitäten des Wissenschaftsbetriebs hier auch realistisch gegenüber treten. Aber die grundsätzliche Forderung muss aus meiner Sicht ganz klar sein, dass wenn etwas aus öffentlichen Mitteln gefördert wird, dann muss nicht nur das Ergebnis, sondern auch der Weg dorthin und das Rohmaterial, die Rohdaten frei zur Verfügung stehen.
+
+01:03:07.901 --> 01:03:38.200
+<v timpritlove>Das bringt uns im Prinzip so ein bisschen zu dem Punkt auch der Politik, wie die jetzt hier in dieses Spiel mit eingezogen wird. Bevor wir da vielleicht nochmal genauer darauf eingehen, aber vielleicht sind wir dann automatisch auch schon in dem Bereich. Muss man nochmal sagen, nach der Zeit bei Wikimedia bist du dann gewechselt und hast jetzt die Geschäftsführung inne bei einer anderen Organisation, nämlich der Open Knowledge International, wenn das die richtige Bezeichnung ist, das war mal die Open Knowledge Foundation, hat sich aber umbenannt, weil …
+
+01:03:38.201 --> 01:03:50.500
+<v pavelrichter>Ja. Weil wir keine Foundation sind. Wir sind keine Stiftung. Wir haben kein Geld, das wir jemandem geben können. Und wir machen eigene Projekte, aber wir fördern nicht. Wir sind aber immer wieder überschwemmt worden mit Förderanfragen, weil wir halt Foundation hießen.
+
+01:03:50.501 --> 01:03:52.800
+<v timpritlove>Ach verstehe, das war so ein Bugfix im Namen sozusagen.
+
+01:03:52.801 --> 01:03:53.800
+<v pavelrichter>Genau.
+
+01:03:53.801 --> 01:03:59.200
+<v timpritlove>Okay, was ist denn dann sozusagen die Ausrichtung der Open Knowledge International, worum geht es?
+
+01:03:59.201 --> 01:04:13.600
+<v pavelrichter>Open Knowledge International gibt es jetzt seit 14 Jahren. Die Organisation hat und mit anderen zusammen die Grundlagen eigentlich für das Thema, das Feld Open Data gelegt.
+
+01:04:13.601 --> 01:04:16.500
+<v timpritlove>Also im Prinzip ähnlich alt wie Wikipedia.
+
+01:04:16.501 --> 01:05:19.600
+<v pavelrichter>Ja beide gleich alt. Und wurde gegründet von Rufus Pollock, der bis ich jetzt die Geschäftsführung übernommen habe, eben auch der Leiter der Organisation war. Und hat zunächst mal die Grundlagen mutgeschaffen. Insbesondere geschaffen mit einer damals noch relativ kleinen und diffusen Community, die sich mit dem Thema Open Data überhaupt beschäftigen wollte. Über die OpenDefinition.org überhaupt erst mal zu erklären, was Open Data und was Openess bedeutet. Softwaregrundlagen zu schaffen, die erlauben, Daten frei zu publizieren. CKAN ist hier das Stichwort, auf dem mittlerweile die meisten der großen Datenportale, wie Data.gov oder Data.gov.uk laufen. Ganz viel Grundlagenarbeit wurde da gemacht. Und dann ging es auch wieder parallel zur Entwicklung dieser – kann man Bewegung sagen? - dieser Community rund um das Thema Openess und Open Data ging es darum, Daten zu befreien, liberate Data. 
+
+01:05:19.601 --> 01:06:15.500
+<v pavelrichter>Also insbesondere von staatlichen Akteuren zu fordern, gebt die Daten frei. Sorgt dafür, dass Daten, die ihr sowieso schon habt, frei und maschinenlesbar zur Verfügung gestellt werden. Dieses Öffnen von Daten, dieses Befreien von Daten spielte eine enorme Rolle. Zum einen weil es natürlich kampagnenfähig ist, du kannst das gut erklären, und du kannst auch öffentlichen und politischen Druck ausüben, dass diese Daten frei sein sollen. Weil es aber eben auch grundsätzlich richtig ist, vom Staat zu fordern, dass wenn es keine Notwendigkeit gibt, Daten nicht offen zu halten, nicht zu öffnen, dass sie dann gefälligst offen sein sollten. Denn es ist ja nicht so, dass diese Daten nicht früher schon verfügbar waren, nur meistens eben gegen Geld, was zum Beispiel Konzernen wie Google völlig egal ist. Die zahlen dann halt ein paar hunderttausend Euro im Jahr, um Zugriff auf Katasterdaten zu bekommen oder um Zugriff auf andere Informationen.
+
+01:06:15.501 --> 01:07:13.400
+<v pavelrichter>Aber es sind gerade die kleinen, die zivilgesellschaftlichen Akteure. Es sind gemeinnützige Organisationen, das sind Aktivisten und Journalisten, die eben diese finanziellen Mittel nicht haben, auf diese Daten zuzugreifen. Also Datenbefreiung war und ist auch immer noch eine ganz zentrale Forderung. Ich sehe allerdings, insbesondere seitdem ich jetzt, ich bin jetzt seit 1,5 Jahren bei Open Knowledge International, in dieser Zeit sehe ich mehr und mehr einen Paradigmenwandeln, Paradigmenwechsel wäre jetzt zu groß gesprochen, aber hier verschiebt sich gerade etwas auf eine ganz interessante Art und Weise. Nämlich dass Offenheit an sich nicht als Wert gesehen wird. Also offene Daten ändern nichts. Wenn ich einen Datensatz öffne, passiert erst mal nichts. Der ist dann erst mal da, der ist offen. Und dann hat sich aber noch nichts verbessert irgendwo, sondern ich habe einen offenen Datensatz.
+
+01:07:13.401 --> 01:08:14.300
+<v pavelrichter>Und den Wandel, den ich sehe und den wir auch als Organisation aktiv vorantreiben wollen, ist, dass es vielmehr um die Nutzung und die richtige und die gute Nutzung von offenen Daten geht. Also wir können nicht jahrelang Kampagnen fahren und die Freiheit von Daten fordern und dann, wenn sie da sind, passiert nichts damit. Wir müssen also dafür sorgen, dass diese Daten genutzt werden. Und zwar genutzt werden in einer Art und Weise, die tatsächlich dazu führt, dass es Menschen besser geht. Also die eine direkte Auswirkung auf unsere Gesellschaft haben, auf Gesellschaft in der ganzen Welt haben. Weswegen wir also unsere zentrale Aufgabe als Organisation darin sehen, andere zivilgesellschaftliche Organisationen, die sich um die Umwelt kümmern, die sich um die Rechte von Minderheiten kümmern, die sich um Menschenrechte kümmern, die sich um Medizinthemen kümmern, dass wir solchen zivilgesellschaftlichen Organisationen dabei helfen, offene Daten gewinnbringend für sie sinnvoll einzusetzen.
+
+01:08:14.301 --> 01:08:54.100
+<v pavelrichter>Ihnen dabei zu helfen, überhaupt zu verstehen, was Open Data ist, und dann zu schauen, wie Open Data ihnen helfen kann, tatsächlich einen positiven Impact, einen positiven Einfluss auf das Leben von Menschen zu haben. Ein konkretes Beispiel, Projekt, das wir jetzt gerade hier während des World Health Summit letzte Woche in Berlin öffentlich gemacht haben, Open Trials, Open Trials ist ein Projekt, in dem wir alle Informationen zusammentragen und verlinken und strukturieren, die weltweit zu pharmazeutischen Tests vorliegen. Also zu den Tests, die man machen muss, wenn man ein neues Medikament entwickelt.
+
+01:08:54.101 --> 01:08:54.400
+<v timpritlove>Für die Zulassung.
+
+01:08:54.401 --> 01:09:48.000
+<v pavelrichter>Für die Zulassung. Die sind weit verstreut diese Daten. Wir führen die in einer Datenbank zusammen, aber wir reichern sie eben auch noch an um Informationen, die sonst nicht vorhanden sind. Zum Beispiel, wenn ich einen solchen sogenannten Trial mache, einen solchen pharmazeutischen Test, dann muss ich die Testsubjekte, also die Patienten, die sich beteiligen, muss ich ausführlich informieren. Das passiert mit Dokumenten, die ich diesen Patienten vorher aushändige, und wir wollen diese Dokumente zur Verfügung stellen, zusammen mit dem jeweiligen Testergebnis. Wir wollen aber eben auch die zugrundeliegenden Daten, wenn wir sie denn bekommen veröffentlichen. Wir wollen also dafür sorgen, dass es sehr viel transparenter wird, woran gerade in der pharmazeutischen Industrie geforscht wird, welche Zulassungsverfahren gerade laufen und was die Ergebnisse dieser Tests sind. Das ist kein Nischenthema.
+
+01:09:48.001 --> 01:10:44.900
+<v pavelrichter>Sondern beim letzten großen Ebola-Ausbruch im südlichen Afrika war es enorm wichtig für Hilfsorganisationen on the ground für Hilfsorganisationen vor Ort zu wissen, welche Medikamente zu Ebola werden jetzt gerade getestet, wer arbeitet woran? Was sind die Fragestellungen und wie kommt man in die Programme rein. Und diese Informationen frei und strukturiert zur Verfügung zu machen. Das ist eine Form von technischer Dienstleistung, die wir erbringen, indem wir eine Datenbank programmieren und eine Webseite und Crawler, die diese Daten aus den einzelnen Datenbanken der Registrierungsbehörden weltweit ausliest und bei uns einliest. Das ist also eine technische Dienstleistung, die aber eben nicht mehr nur zum Ziel hat, diese Daten irgendwie mal offen zu machen, sondern wir arbeiten mit Ben Goldacre von der Universität Oxford zusammen, wo es dann tatsächlich um die Nutzung dieser Daten geht.
+
+01:10:44.901 --> 01:11:12.500
+<v pavelrichter>Um die Frage, wie kann die Forschung, wie können zivilgesellschaftliche Akteure diese Daten nutzen. Und diesen Nutzungsaspekt für uns als Organisation spielt heute eine größere Rolle als es früher der Fall war. Weil eben wir mittlerweile nicht mehr nur für die offenen Daten kämpfen müssen, sondern wir müssen auch zeigen, welche Kraft und welcher Nutzen in diesen Daten liegt.
+
+01:11:12.501 --> 01:11:16.500
+<v timpritlove>Und auch sozusagen herausfinden, welche Prozesse sind erforderlich, um das wirklich urbar zu machen.
+
+01:11:16.501 --> 01:12:14.900
+<v pavelrichter>Ja genau. Und da kommt halt unsere Expertise als Organisation, wir stellen die als Dienstleistung zur Verfügung. Um mit Organisationen, die überhaupt keine Ahnung von Open Data haben, die vielleicht gar nicht wissen, dass Open Data für sie etwas interessantes sein kann, ihnen dabei zu helfen, das herauszufinden, ob und wie gegebenenfalls offene Daten ihnen helfen können. Global Witness ist ein schönes Beispiel dafür. Global Witness hat eine große Kampagne gestartet, da geht es um den Handel von Jade, ein weltweit hochkorrupter milliardenschwerer Markt. Und anstatt sich nur auf veröffentlichte Quellen, auf journalistische Quellen zu stützen, hat Global Witness von Anfang an großen Wert auf die Auswertung von Datenbanken, von Handelsregistern, von Bilanzen, von Antikorruptionsregistern gesetzt.
+
+01:12:14.901 --> 01:13:20.300
+<v pavelrichter>Und unter anderem mit unserer Hilfe dafür gesorgt, dass hier Netzwerke plötzlich sichtbar wurden im internationalen Jadehandel. Die ohne das Wissen über die Verwendbarkeit und über die Nutzbarmachung von Open Data so nie zustande gekommen wären und so nie sichtbar geworden wären. Und Global Witness hätte vor diesem Projekt gar nicht an das Thema Open Data gedacht. Jetzt haben sie mittlerweile eigene Stellen geschaffen, sie haben also ihre eigene Expertise zum Thema Open Data aufgebaut, nachdem wir initial da mithelfen konnten, können sie das mittlerweile sehr gut alleine. Und das ist ein gutes Beispiel dafür, dass sich auch die Nutzung von Daten dahingehend demokratisiert, dass es etwas ist, was nicht mehr nur eine Spezialität von einigen wenigen ist. Gab ja ganze Berufsfelder, Data Analysts oder Data-Typisten gab es früher auch nochmal bei uns, aber dass heute der Umgang mit Daten und auch mit offenen Daten eine Grundlagenkenntnis ist. Die sehr viel mehr Berufen und Organisationen bedarf, als es früher noch der Fall war.
+
+01:13:20.301 --> 01:14:15.100
+<v timpritlove>Ich würde nochmal kurz auf die zwei Sachen eingehen. Also einerseits diese Ebola-Geschichte war ja auf der einen Seite erst mal eine dringende Krise, die ja über viele Länder, die gar nicht wussten, wie sie sich wehren sollen, hereingebrochen ist. Strukturelle Probleme natürlich in den Ländern ohnehin, teilweise ja auch von Bürgerkriegen ohnehin belastet, sei es aktive, sei es vergangene, aber die ja auch das Problem hatten, dass es sich hier um eine Krankheit handelte, wo es im Prinzip ja kein aktiv bekanntes Gegenmittel gab. Wenn ich das richtig mitbekommen habe, ist ja hier innerhalb kürzester Zeit tatsächlich auch medizinisch ein enormer Fortschritt erzielt worden. Dass tatsächlich wirksame Medikamente und Impfungen entwickelt wurden, wo zwei Jahre vorher das Ganze im Prinzip noch ein riesiges schwarzes Loch war, wo man nicht wusste, wo man anfangen soll.
+
+01:14:15.101 --> 01:14:26.400
+<v pavelrichter>Also ob es da jetzt tatsächlich schon funktionsfähige Impfungen gibt, das weiß ich nicht, dazu kann ich nichts sagen, aber tatsächlich gibt es jede Menge, was der Mediziner Interventionen nennt, also Möglichkeiten des Eingreifens.
+
+01:14:26.401 --> 01:14:29.800
+<v timpritlove>Ja okay, das war vielleicht …
+
+01:14:29.801 --> 01:14:31.500
+<v pavelrichter>Und diese Interventionen haben sich sehr deutlich entwickelt.
+
+01:14:31.501 --> 01:14:36.600
+<v timpritlove>Also bei einer Infektion Mittel zu geben, die zumindest das Fortschreiten der Krankheit in den Griff bekommt.
+
+01:14:36.601 --> 01:15:33.700
+<v pavelrichter>Oder die Ansteckbarkeit reduzieren, so dass sie sich nicht weiter verbreitet. Also diese Form von Intervention, die nicht notwendigerweise auf Heilung, sondern auch auf andere Aspekte abzielt. Und hier würde ich jetzt nicht behaupten, dass dieser Forschungsprozess das Ergebnis von offenen Daten ist. Die Funktion von offenen Daten war eher, dass die Überbrückung zwischen dem, was gerade in Forschungsabteilungen und in Forschungslaboren passiert, und dem, was vor Ort benötigt wird, dass hier eine Brücke geschlagen wurde mittels offener Daten. Weil plötzlich konnten wir zeigen, hier darüber wird gerade dort und dort geforscht und das wiederum war für die Hilfsorganisationen vor Ort enorm wichtig. Die wären sonst nicht auf diese Informationen oder nie so einfach an diese Informationen gekommen. Und haben auch gar nicht die Ressourcen, sich lang und breit mit Datenbankstrukturen zu beschäftigen oder auch nur zu gucken, wo man denn diese  Informationen bekommt.
+
+01:15:33.701 --> 01:15:35.900
+<v timpritlove>Also hatte mindestens eine beschleunigende Wirkung…
+
+01:15:35.901 --> 01:15:36.900
+<v pavelrichter>Eine deutlich beschleunigende …
+
+01:15:36.901 --> 01:16:06.400
+<v timpritlove>Oder das Entfernen von Bremsklötzen, je nachdem wie man es drehen will. Ich meine bei dieser Jade-Geschichte, das ist ja auch sehr interessant, da ging es ja gegen Korruption, da geht es im Prinzip ja auch bricht es ja auch politische Konstellationen, gesellschaftspolitische als auch konkrete politische Konstellationen auf. Das heißt an dieser Stelle agiert Open Data auch als politischer Faktor?
+
+01:16:06.401 --> 01:17:03.800
+<v pavelrichter>Absolut. Insbesondere, es gibt ja mehrere Tools, die den Status von Open Data weltweit messen. Es gibt das Open Data Barometer von der World Wide Web Foundation. Es gibt den Global Open Data Index von uns, von Open Knowledge. Es gibt noch eine Reihe von spezialisierten Indizes, die diesen State of Openess, wie wir im Englischen sagen, also wie offen sind die Daten einer Gesellschaft, weltweit messen und auch in Ranglisten stecken. Das Interessante ist, dass es einen bestimmten Datensatz gibt, der in fast keinem Land wirklich frei zugänglich ist und das sind Firmenregister. Also Register, in denen drin steht, wem gehört eine Firma. Bei uns ist das das Handelsregister. Die Daten des Handelsregisters sind nicht frei zugänglich. Natürlich kann ich auf der Webseite etwas abrufen.
+
+01:17:03.801 --> 01:18:00.700
+<v pavelrichter>Aber dass ich eine Auswertung über die Handelsregisterdaten machen kann, über alle Handelsregisterdaten in Deutschland, quasi unmöglich. Es gibt diesen Zugang nicht. Und das gilt für fast alle Gesellschaften weltweit. Das ist nicht zufällig so. Denn darin verbirgt sich eine enorme globale Sprengkraft. Nämlich es ist heutzutage so einfach, Firmen weltweit zu gründen und verschachtelte Firmenkonstrukte zu schaffen, die es quasi unmöglich machen, festzustellen, wem gehört eine Firma eigentlich wirklich? Die gehört dann immer noch einer anderen Firma, die irgendeiner anderen. Aber wer ist derjenige, der am Ende des Tages diese Firma kontrolliert? Und da steht am Ende immer ein Mensch, der das ist. Und ich glaube, hier wird schon deutlich, welche Sprengkraft in diesen Datensätzen liegen würde, wenn es uns gelingen würde, diese Daten weltweit miteinander zu vernetzen.
+
+01:18:00.701 --> 01:18:28.600
+<v pavelrichter>Um plötzlich rauszufinden, dass ein Unternehmen, dass in Nassau auf den Bahamas registriert ist, das gehört einer Firma, die auf den Philippinen registriert ist und so weiter. Aber irgendwann, und das ist eben das Schöne auch an großen strukturierten Datensätzen, irgendwann komme ich ans Ende dieser Kette. Und natürlich dahinter steckt eine enorme Sprengkraft, weil es auch Firmengeflechte aufzeigen würde und Korruptionen aufzeigen würde, die wir uns heute so noch gar nicht vorstellen können.
+
+01:18:28.601 --> 01:19:03.700
+<v timpritlove>Ja ich meine den Fall gab es ja nun jüngst, die Panama Papers waren ja im Prinzip genauso ein vereinzeltes Leak, das natürlich noch nicht mit einer komplett offenen Handelsregisterverkettung zu sehen ist. Ich denke Crowdsourcing hat hier nicht so unbedingt die Zukunft, aber auf Basis von Leaks entstehen ja zumindest teilweise zumindest schonmal so viele Transparenzen, dass man vielleicht eben diese Debatte auch in irgendeiner Form mal in diese Richtung lenken könnte, denn am Ende fragt man sich natürlich, ja warum ist denn das eigentlich nicht öffentlich? Also warum?
+
+01:19:03.701 --> 01:19:52.200
+<v pavelrichter>Ich sage auch immer, wir sind in dieser Diskussion, seitdem wir diese Diskussion über Openess und Open Data führen, führen wie sie immer, indem wir erklären, warum etwas offen sein soll. Wenn man es mal andersrum probiert, merkt man, wie abstrus diese Situation ist. Erklär mir mal den guten Case für Closed Data. Ja bei individuellen Patientendaten bin ich auch all for closed. Da bin ich auf jeden Fall dafür, die sollen nicht frei zugänglich sein. Die sollen auch nicht meinem Arbeitgeber zugänglich sein etc. Aber in den allermeisten Fällen wird es dir nicht gelingen, einen guten Case zu machen, warum etwas nicht offen sein sollte, warum es geschlossen sein sollte. Weil es tatsächlich auch in den allermeisten Fällen keine gute Begründung gibt oder aber die Begründung, die tatsächliche Begründung eine politische Sprengkraft hätte, wie zum Beispiel bei den Handelsregisterinformationen.
+
+01:19:52.201 --> 01:20:06.000
+<v timpritlove>Das heißt man sollte sich sozusagen Gedanken darüber machen, ob man nicht in einem beliebigen politischen Prozess, wo Datenbanken, Datensammlungen in irgendeiner Art anfallen, erst mal das Prinzip open by default sozusagen voranstellt?
+
+01:20:06.001 --> 01:21:03.000
+<v pavelrichter>Absolut. Aber dass das so nicht ist, liegt ja nicht daran, dass die Politik das nicht versteht oder sich nicht dafür interessiert. Das wäre glaube ich ein naiver Blick auf Politik. Das gibt es nicht, weil es Interessen gibt, die das verhindern. Es gibt Menschen und es gibt Gruppierungen und es gibt Mächte, das klingt jetzt fast ein bisschen verschwörungstheoretisch, aber man darf immer nicht so tun, als wenn es nur Freunde der Openess gäbe. Es gibt Menschen, die sich von dieser Art von Transparenz, auch wenn ich den Begriff eigentlich nicht mag, also von dieser Art von Offenheit, massiv bedroht fühlen, weil sie ihre Geschäfte besser machen, wenn Informationen über sie nicht verfügbar sind. Und da steckt viel Geld dahinter und viel Macht und viel auch schwarzes Geld und dunkle Macht, dass es kein Zufall ist, dass genau diese Informationen nicht frei sind. Also Wetterdaten werden wir sehr viel schneller freikriegen als Handelsregisterdaten.
+
+01:21:03.001 --> 01:22:02.000
+<v pavelrichter>Dabei liegt es natürlich im Interesse der Staaten selbst, dass diese Informationen miteinander verknüpft werden, denn das sind ja Dinge, die ein einzelner staatlicher Akteur heute gar nicht mehr leisten kann. Welches deutsche Finanzamt ist denn dafür zuständig, globale Firmengeflechte aufzubereiten? Keins. Aber wenn diese Daten zur Verfügung stehen und sich journalistische, zivilgesellschaftliche Organisationen oder einfach auch nur ein paar Aktivisten damit beschäftigen, dann ist da eine Leistung plötzlich möglich, die staatliche Akteure überhaupt nicht in der Lage sind, zu erbringen. Und damit zum Beispiel ließen sich natürlich Steuervermeidungen ganz anders angehen. Die Frage, wo zahlt Apple eigentlich Steuern, wo zahlt Facebook steuern, wo zahlt McDonalds steuern? Das ist ja erst einmal einfach auch ein Informationsproblem, wir wissen das ja gar nicht. Es ist nicht so einfach rauszukriegen, weil auch diese Daten nicht frei zugänglich sind.
+
+01:22:02.001 --> 01:22:17.400
+<v pavelrichter>Und dabei sollte eigentlich der Staat ein großes Interesse daran haben, diese Informationen strukturiert zugänglich zu haben, um zum Beispiel faire Steuergesetze zu verabschieden.
+
+01:22:17.401 --> 01:22:21.400
+<v timpritlove>Wenn es jetzt diesen Open Data Barometer und wie hieß euer Index?
+
+01:22:21.401 --> 01:22:23.300
+<v pavelrichter>Global Open Data Index.
+
+01:22:23.301 --> 01:22:49.500
+<v timpritlove>Global Open Data Index gibt, was kann man aus diesem Index lernen? Was sind denn so die Länder und Regionen, die hier eher als Vorreiter agieren und vielleicht gibt es auch ein paar schöne Beispiele, in welcher Form sie das tun und was da sich so an Vorteilen und vielleicht auch Nachteilen, kann ja auch sein, ergeben hat?
+
+01:22:49.501 --> 01:23:38.000
+<v pavelrichter>Ich bin nicht der größte Freund dieser globalen Rankings. Weil ich glaube, dass hier ganz oft Birnen mit Äpfeln mit Ingwerstücken verglichen werden. Also es ist extrem schwer, hier tatsächlich einen objektiven Vergleichsmaßstab zu erstellen. Das großartige an diesen Indizes ist, dass sie zweierlei zeigen. Zum einen wir verändern die Methodik, nach der wir definieren, ab wann ein Datensatz zu einem bestimmten Thema, also sei es Wasser, sei es Wahldaten, seien es Geodaten, seien es Budgetdaten eines Staates. Die Definition, was offene Daten sind, ändert sich permanent. Jedes Jahr verändern wir diese Definition, was natürlich auch die Vergleichbarkeit über die Jahre etwas schwierig macht. Der Hintergrund ist aber, weil wir auch erst …
+
+01:23:38.001 --> 01:23:43.400
+<v timpritlove>Weil sie breiter gestreut ist oder weil sich der Fokus ändert?
+
+01:23:43.401 --> 01:24:29.100
+<v pavelrichter>Weil wir haben angefangen, das für uns selber zu definieren, quasi wissenschaftlich zu definieren. Was wir heute viel eher machen, das hat was mit der Wirkung von Daten zu tun, ist, wir sprechen mit den Organisationen, die diese Daten vor Ort nutzen. Was braucht die eigentlich an Informationen zum Beispiel über Wahldaten? Deutschland ist gerade zwischen 2014 und 2015 im Global Open Data Index um ich glaube 20 Plätze nach unten gefallen. Das hat unter anderem damit zu tun, dass wir die Definition von offenen Wahldaten geändert haben. Heute akzeptieren wir Datensätze nur noch dann als offen, wenn sie Geokoordinaten für die Wahllokale beinhalten. Das ist in Deutschland nicht Teil des Datensatzes, den wir bekommen. Ist aber enorm wichtig für Regionen, in denen tatsächlich man nachgucken muss, wo ist dieses Wahllokal und ist da wirklich ein Wahllokal?
+
+01:24:29.101 --> 01:24:30.500
+<v timpritlove>Also um es zu finden?
+
+01:24:30.501 --> 01:24:43.300
+<v pavelrichter>Um es zu finden, aber nicht nur, um dort zu wählen, sondern auch um zu kontrollieren und einen physischen Ort festzustellen, wo ein solches Wahllokal ist. Das spielt in vielen Entwicklungsländern eine enorme Rolle.
+
+01:24:43.301 --> 01:24:49.200
+<v timpritlove>Oder auch eine statistische Aussage darüber zu machen, wie weit ist denn ein Wahllokal im Mittel entfernt von den Leuten, die dort wählen sollen?
+
+01:24:49.201 --> 01:25:51.900
+<v pavelrichter>Genau und ist vielleicht in bestimmten Bezirken die Dichte höher, weil man dort will, dass die Leute eher zur Wahl gehen und in Bezirken, in denen die Machthaber nicht wollen, dass die Leute zur Wahl gehen, gibt es vielleicht keine oder viel weniger. Das sind wahnsinnig wichtige Informationen. Die sind in Deutschland vielleicht nicht so relevant. Aber wir haben die Definition dahingehend geändert, weil wir eben mit zivilgesellschaftlichen Organisationen zusammengearbeitet haben, die uns gesagt haben, das ist das was wir wissen müssen. Und wenn wir das nicht wissen, dann ist der Datensatz für uns nicht nutzbar und damit auch funktionslos. Also deswegen, wir wollen nicht, dass Daten einfach nur so veröffentlicht werden, sondern es müssen die Daten veröffentlicht werden, die auch wirklich gebraucht werden, für die es einen Use Case gibt. Das ist das eine, was wir gelernt haben. Das zweite ist, Taiwan ist auf Platz 1 gesprungen, hat England verdrängt von Platz 2 im Global Open Data Index. Und am Tag, nachdem England von Platz 1 auf Platz 2 gefallen ist, wurde das im englischen Kabinett diskutiert. Und die Ansage war ganz eindeutig, nächstes Jahr sind wir wieder auf Platz 1. Was sagt uns das?
+
+01:25:51.901 --> 01:26:02.000
+<v timpritlove>Das britische Regierungskabinett hat sich mit diesem Index von der Open Knowledge International auseinandergesetzt?
+
+01:26:02.001 --> 01:26:37.800
+<v pavelrichter>Das ist zum einen natürlich schön für uns, aber was es eigentlich noch viel mehr zeigt ist, dass es ein politisches Thema ist. Und dass es ein Thema ist, was politischer Führung und politischer Entscheidung bedarf. In England spielt das Thema Open Data im Regierungshandeln eine sehr viel größere Rolle. Es gibt Budgetposten im Haushalt dafür. Es gibt eben Management Attention würde man das nennen, also das Kabinett beschäftigt sich mit diesem Thema und sagt dann, das ändern wir jetzt, wir wollen besser werden wieder. Wohingegen in Deutschland gibt es schöne Reden, aber es gibt keinen Haushaltsposten zu offenen Daten.
+
+01:26:37.801 --> 01:26:40.800
+<v timpritlove>Auf welchem Platz steht denn Deutschland gerade so?
+
+01:26:40.801 --> 01:26:41.200
+<v pavelrichter>28 glaube ich. Aber wie gesagt …
+
+01:26:41.201 --> 01:26:47.600
+<v timpritlove>Das ist ja ungefähr in dem Bereich, wo auch der Glasfaserausbau steht.
+
+01:26:47.601 --> 01:27:39.600
+<v pavelrichter>Genau. Das ist ja das skurrile daran, es wäre so einfach, hier Vorreiter zu sein und es würde tatsächlich Innovation ermöglichen, es würde Forschung ermöglichen, es würde zivilgesellschaftliches Engagement ermöglichen. Es gibt kaum negative Aspekte, die möglich wären. Es ist hier tatsächlich eine Mischung aus Desinteresse und Trägheit. Also der Glasfaserausbau, den haben wir seit 15 Jahren vernachlässigt und das wird mindestens 15 Jahre dauern, bis wir das wieder aufholen können. Mit offenen Daten geht das sehr viel schneller. Aber es bedarf eben, und das ist die Lehre aus England, es bedarf eines politischen Willens. Und politischer Wille drückt sich ganz klar in einer Demokratie im Budget aus. Und solange ich keinen Budgetposten Open Data im Bundeshaushalt sehe, glaube ich nicht daran, dass das ernsthaft als Thema vorangetrieben wird.
+
+01:27:39.601 --> 01:27:46.300
+<v timpritlove>Aber was sind denn jetzt zum Beispiel ein paar konkrete Maßnahmen, die jetzt in Großbritannien ergriffen wurden, die erst dazu geführt haben, dass Britannien so weit oben mitspielt?
+
+01:27:46.301 --> 01:28:49.000
+<v pavelrichter>Zunächst mal, dass die politische Führung des Landes gesagt hat, wir wollen das grundsätzlich, dass unsere Daten offengelegt werden. Dann gibt es ein Datenportal, Data.gov.uk, in dem die einzelnen Behörden des Landes verpflichtet sind, ihre Daten zu veröffentlichen. Und das ist politischer Wille und es werden auch die Stellen dafür geschaffen. Es gibt also Stellenpläne in den Innenministerium, Menschen eingestellt werden, die dieses Thema vorantreiben. Und die auch das technische know-how haben, diese Daten in einer Art und Weise zur Verfügung zu stellen, die auch nutzbar sind. Also es sind wirklich, man muss sich ein bisschen damit beschäftigen, wie Verwaltungshandeln funktioniert. Und Verwaltungen handeln erstens dann, wenn man sie anweist, etwas zu tun aus politischer Sicht und wenn man ihnen die Mittel zur Verfügung stellt, das auch zu tun. Das eine ohne das andere funktioniert nicht. Ihnen die Mittel zu geben, ohne ihnen quasi die politische Rückendeckung zu verschaffen, wird niemals Funktionieren und ihnen eine politische Forderung zu präsentieren, ohne ihnen die Mittel zur Verfügung zu stellen, wird auch nicht funktionieren.
+
+01:28:49.001 --> 01:29:06.600
+<v pavelrichter>Und das passiert eben in Deutschland noch viel zu wenig. Und das ist in England, aber nicht nur in England, das ist eben auch in den USA sehr viel verbreiteter, dass es zum einen diesen politischen Willen gibt und die dafür notwendigen Mittel zur Verfügung gestellt werden.
+
+01:29:06.601 --> 01:29:31.700
+<v timpritlove>Das heißt da gibt es so richtig von Berufswegen Datenbefreier. Aber was sind denn so vielleicht ein bisschen konkreter, also abgesehen von dem Generellen, das wird ja jetzt allein nicht für den Platz 1 gesorgt haben, was sind denn so Daten, die da rausfallen, die auch einen konkreten gesellschaftlichen, wirtschaftlichen und vielleicht halt auch Forschungsnutzen haben, wo jetzt andere hinterherhinken?
+
+01:29:31.701 --> 01:30:35.600
+<v pavelrichter>Also mit Daten ist es wie mit Politik, die eigentlich wichtigen Sachen spielen sich lokal ab. Also nicht auf der großen Bundes- und Nationenebene, sondern vor Ort. Das ist dort, wo es um das Leben von Menschen geht. Und in England ist es sehr viel einfacher, Informationen zum Beispiel zu Schulbezirken zu bekommen, die ich kombinieren kann, mit Informationen von der Umweltbehörde über Luftverschmutzung im Mikroklima, die ich kombinieren kann mit Informationen und Daten über Immobilienpreise, so dass ich ein Angebot schaffen kann für Familien, die irgendwo hinziehen wollen und quasi die ideale Nachbarschaft suchen. Mit den richtigen Schulen, die die richtigen Schwerpunktfächer haben. In eine ohne zu viel Luftverschmutzung und mit günstigen Wohnpreisen. Diese Informationen sind auch in Deutschland alle vorhanden, die gibt es alle. Aber England ist eben sehr viel weiter auch in der technischen Zurverfügungstellung dieser Daten.
+
+01:30:35.601 --> 01:31:12.400
+<v pavelrichter>Und dann gibt es eine Szene, die es aber in Deutschland genauso gäbe, von Startups, zivilgesellschaftliche Akteure, die diese Daten nehmen und kombinieren, Apps schreiben, Anwendungen schreiben, Webseiten zur Verfügung stellen, die diese Daten neu miteinander kombiniert und vor allem visualisiert und sichtbar macht. Diese Community, diese Menschen gäbe es in Deutschland auch. Es gibt aber eben dann häufig gerade im Kommunalbereich, da liegen die Daten schlicht nich offen vor. Was ein Problem des politischen Willens ist.
+
+01:31:12.401 --> 01:31:56.300
+<v timpritlove>Was mich nochmal interessieren würde, es gibt ja auch eine ähnliche Debatte von Open Data im Bildungsbereich, gibt es auch so ein paar schöne Stichworte, Open Educational Ressources (OER) ist so ein Begriff, der dort viel hin und her getragen wird. Auch hier hat es ja viel mit Wissen zu tun und unser Bildungssystem steht ja auch in so einer fortwährenden Debatte der Lernmittelfreiheit auf der einen Seite bzw. dem finanziellen Aufwand, den Familien oder dann eben auch der Staat im Zweifelsfall ausgeben muss, um diese Bildung eben zu ermöglichen. Ist Open Knowledge in irgendeiner Form auch in diesem Bildungsbereich unterwegs oder hast du da nochmal eine eigene Perspektive drauf?
+
+01:31:56.301 --> 01:32:54.800
+<v pavelrichter>Also wir als Organisation haben damit in Deutschland … es ist nicht unser Thema. Wir sind tatsächlich da sehr fokussiert auf Open Data als auch technische Dienstleistung. Aber nicht zuletzt aus meiner Zeit bei Wikimedia Deutschland, da habe ich durchaus eine Position zum Thema. Open Educational Ressources oder wie man auf deutsch auch sehr schön sagen kann, freie Lehr- und Lernmaterialien. Und ich halte das für … ich war am Anfang sehr skeptisch, als der zuständige Mitarbeiter bei Wikimedia Deutschland dieses Thema gepitcht hat bei mir und gesagt hat, hier damit müssen wir uns beschäftigen. Da war ich sehr kritisch, hielt das nicht für sonderlich zukunftsfähig. Hielt so ein bisschen für so ein Modethema. Alle reden jetzt über OER und so. Da habe ich meine Meinung geändert, nicht zuletzt, weil zum Beispiel das Bundesbildungsministerium da ziemlich viel Geld reinsteckt in das Thema, was für ich ein guter Indikator ist, dass dahinter tatsächlich auch ein politischer Wille steht, da tatsächlich sich auch politisch mit zu beschäftigen.
+
+01:32:54.801 --> 01:33:55.000
+<v pavelrichter>Ich finde es, um auch ein bisschen zum Anfang des Gesprächs zurückzukommen, unter den Gesichtspunkten der Lernerfahrung, was mit der Wikipedia passiert ist, finde ich das in zweierlei Hinsicht ein extrem spannendes Thema. Zum einen wenn ich ein Schulbuch Verlag wäre, würde ich mir sehr sehr ernsthaft Gedanken über mein zukünftiges Geschäftsmodell machen. Also Bücher in regelmäßigen Neuauflagen in Klassensatzstärke zu Festpreisen zu verkaufen, wäre ich mir nicht so sicher, dass das allzu lange noch hält. Wenn es sich tatsächlich durchsetzt und mehr und mehr durchsetzt, Lehr- und Lernmaterialien unter freier Lizenz selber zu erarbeiten. Aber dieser Geschäftsaspekt ist der uninteressantere. Das ist das was Brockhaus erlebt hat und dann war Brockhaus eben nicht mehr da, weil das Geschäftsmodell weggebrochen ist. Das ist nicht mein Problem, das ist das Problem der Schulbuchverlage. Viel spannender finde ich den Aspekt, dass hier eigentlich ein uraltes humboldtsches Bildungsideal der Gemeinschaft der Lehrenden und Lernenden wieder aufleben wird.
+
+01:33:55.001 --> 01:34:43.600
+<v pavelrichter>Was für eine Schule ist das, in der Schüler ihre Lehrmaterialien selber erarbeiten in einem Prozess. Wir alle wissen, dass wir so viel mehr lernen, als wenn wir ein Buch aufschlagen und einfach Sachen lesen. Hier geht es wieder um den Prozess der Wissensaneignung und der gleichzeitig der Prozess der Wissenserstellung ist, der Wissenssammlung ist. Und das ist das was Wikipedia als kulturelles Prinzip so toll vorlebt. Und ich glaube das ist da wo der große Wert und die große Stärke von Open Educational Ressources, freien Lehr- und Lernmaterialien liegen kann, dass hier tatsächlich Lehrerinnen und Lehrer und Schülerinnen und Schüler gemeinschaftlich an Lehrmaterialien arbeiten. Und zwar kontinuierlich. So wie die Enzyklopädie nie fertig werden wird, wird auch das Mathematikbuch der Zukunft nicht fertig sein.
+
+01:34:43.601 --> 01:34:58.400
+<v timpritlove>Also reden wir jetzt davon, dass quasi alle Schüler Deutschlands an dem ewigen Mathebuch gemeinsam arbeiten oder? Dann haben wir ja wieder so einen Effekt wie mit Wikipedia, dann ist es irgendwann mal fertig und die anderen haben nichts mehr zu schreiben.
+
+01:34:58.401 --> 01:35:52.100
+<v pavelrichter>Erst mal glaube ich nicht, dass das etwas ist, was alle machen werden. Erst mal hat das natürlich auch mit Leistungsfähigkeiten zu tun und auch mit eigenen Entwicklungsständen. Ein Zweitklässler wird da sicherlich ganz andere Möglichkeiten haben als jemand, der in der 12. Klasse des Gymnasiums ist. Und wahrscheinlich wird es auch hier so sein, dass sich ähnlich wie bei der Wikipedia so eine gewisse Gruppe von Schülerinnen und Schülern und Lehrerinnen und Lehrern, die darf man in dem Zusammenhang überhaupt nicht vergessen, aber eben auch von Pädagogen von Wissenschaftlern an pädagogischen Hochschulen, dass sich dort eine Gruppe zusammenfindet, die diesen Prozess moderiert und diesen Prozess vorantreibt und dann wird es immer wieder Menschen geben, die dazu beitragen. Und sei es durch ihr pädagogisches Wissen oder sei es durch ihr Fachwissen. Wobei das Fachwissen in den meisten Schulbüchern ja gar nicht der zentrale Punkt ist, sondern hier der Schwerpunkt in Schulbüchern auf der pädagogischen Aufbereitung liegt. 
+
+01:35:52.101 --> 01:36:55.300
+<v pavelrichter>Ich finde die Vorstellung, dass eine Schule ein Ort ist, an dem Schüler und Lehrer gemeinsam ihren Stoff erarbeiten und gemeinsam an ihren Schulbüchern arbeiten, soll man nicht in der Schule das Lernen lernen, anstatt das Wissen zu lernen? Und ist das nicht eigentlich ein toller Lernprozess, sich dieses Wissen zu erarbeiten und ist das nicht sehr viel auch nützlicher und nutzbarer in einer Arbeitswelt, in der es nicht darauf ankommt, dass ich in meiner Ausbildung mal etwas gelernt habe, sondern in der ich tatsächlich mir ständig Wissen selber erarbeiten und anlernen und erarbeiten muss aus unterschiedlichsten Quellen. Also ich halte hier Open Educational Ressources beileibe nicht für irgendein modisches Schlagwort, sondern für etwas was das Potenzial hat, einen Bildungsprozess sehr radikal zu verändern. Unter Anleitung und unter Einbeziehung von Pädagogen, von Fachleuten, von Wissenschaftlern. 
+
+01:36:55.301 --> 01:37:25.500
+<v pavelrichter>Das ist also hier kein Plädoyer für „das kann ja jeder“, so wie jeder Kunst kann. Nicht jeder kann Schulbücher schreiben. Und es ist eine hohe pädagogische Kunst und da braucht man Erfahrung und Wissen und know-how, aber dieses sollte meines Erachtens eben in den Prozess gesteckt werden und weniger in das Produkt. Ein bisschen wie auch in der Wissenschaft, wo das Produkt vielleicht mehr und mehr hinter den eigentlichen Entstehungsprozess zurücktritt oder daneben mal mindestens tritt.
+
+01:37:25.501 --> 01:38:24.900
+<v timpritlove>Wenn wir jetzt mal so nochmal die ganz große Klammer aufmachen und sagen, okay freies Wissen hat in den letzten 15 Jahren schon eine Menge bewirkt, so parallel mit der Internetrevolution. Wir haben viel über Wikipedia und verwandte Projekte, Open Streetmap etc., gesprochen, da gibt es ja auch immer wieder neue Initiativen, die so für sich genommen freies Wissen in bestimmten Feldern erzeugen. Dann haben wir so einen Bewusstseinswandel in gewisser Hinsicht, der sich gesellschaftlich politisch niederschlägt. Der sich auf Forschung und Bildung auswirkt. Teilweise eben auch in so Nebenbereiche, wie den Journalismus zum Beispiel. Haben wir vorhin nicht so explizit angesprochen, aber im Prinzip ist ja auch diese ganze Transparenzmachung wirtschaftlicher Vorgänge oder konkret des Handelsregisters am Ende natürlich auch wirklcih ein Futter für eine neue Form des Journalismus, der auch anders auf einmal mit Quellen umgehen kann, einfach weil es auch mehr gibt.
+
+01:38:24.901 --> 01:38:45.100
+<v timpritlove>Welches Potenzial siehst du jetzt sozusagen für die nächste Zeit, wo das Thema freies Wissen am meisten Eindruck noch machen kann  auf diese Gesellschaft oder was sind noch auch so Bereiche, die noch nicht wirklich erschlossen sind und die es vielleicht Wert wären, mal angegangen zu werden?
+
+01:38:45.101 --> 01:39:45.900
+<v pavelrichter>Vielleicht steckt da mehr Hoffnung als Realität dahinter. Aber ich glaube, wir werden in absehbarer Zeit einen Dammbruch erleben, was die Verfügbarkeit von Daten angeht. Wir sehen das jetzt teilweise schon in bestimmten Bereichen, in denen eine Unmenge an Daten bereits vorhanden ist. Budgetdaten sind so ein gutes Beispiel. Die sind relativ offen weltweit. Und ich glaube, das wir dort Dominosteine fallen sehen. Wenn da erst mal jemand anfängt und damit Erfolg hat, wird sich dieses Open by default sehr viel schneller durchsetzen. Ist eine Frage dann, wie schnell zum Beispiel Deutschland dabei ist. Aber ich hoffe und ich sehe dort einen Dammbruch auf uns zukommen. Das wird uns Dinge ermöglichen, die wir uns heute nicht vorstellen können. Denn das ist ja das Tolle an Openess im Generellen.
+
+01:39:45.901 --> 01:40:44.500
+<v pavelrichter>Dass es einfach Möglichkeitsräume öffnet und wir keine Ahnung haben, wer die mal nutzt. Sei es wirtschaftlich, sei es politisch, sei es in der Forschung, welche Konsequenzen das hat und welche Möglichkeiten sich dadurch auftun. Nebenbei durchaus auch negative Konsequenzen und negative Möglichkeiten. Man kann ja mit offenen Daten auch Schindluder treiben, man kann ja auch schlimme Dinge damit tun. Es ist ja nicht alles rosig, nur weil es offen ist. Deswegen wird also glaube ich sich der Fokus für uns, die wir uns mit dem Thema Openess und Open Data beschäftigen, von der Befreiung zur Nutzung ganz klar verschieben müssen. Und hier müssen wir wieder und wieder demonstrieren, dass Offenheit im Allgemeinen und bei Daten einen enormen gesellschaftlichen Nutzen haben kann und haben muss, das zu beweisen steht für uns quasi als nächstes an. Wir behaupten das und in einigen wenigen Bereichen können wir es schon zeigen.
+
+01:40:44.501 --> 01:41:47.100
+<v pavelrichter>Aber da fehlt uns ganz sicherlich noch der große Durchbruch. Und deswegen sehe ich hier für die Zivilgesellschaft in der Pflege, Use Cases zu finden, zu zeigen, hier das kann man damit machen, das haben wir konkret bewirkt. Und da sehe ich unsere große Chance. Die Bereiche, in denen das der Fall sein wird, da bin ich ein gebranntes Kind. Ich glaube da sollten wir, die wir uns mit dem Thema Open Data oder Openess als Prinzip beschäftigen, sollten wir sehr zurückhaltend sein. Im Englischen gibt es das schöne Wort humble, also sich selber zurücknehmen und gar nicht glauben, dass wir wissen können, wo das zukünftige Potenzial von Openess und Open Data liegt, sondern das wissen zivilgesellschaftliche Akteure, das wissen Aktivisten, das wissen Journalisten, die sich mit bestimmten Themen, von LGBT-Rights zu Gesundheitsthemen.
+
+01:41:47.101 --> 01:42:43.900
+<v pavelrichter>Von Menschenrechten bis zu Umweltthemen, das sind die Organisationen die viel besser als wir wissen, wo der größtmögliche Nutzen liegt und dann ist es unsere Aufgabe zu schauen, ob und wenn ja wie und welche Rolle Openess und Open Data da spielen kann. Wir sollten nicht so vermessen sein, weil wir uns mit Open Data und Openess als Prinzip, dass wir deswegen wüssten, wo die besten Anwendungsfälle sind. Da müssen wir und wir auch als Organisation, als Open Knowledge International, nehmen uns da gerade zurück und sehen uns mehr als Wissensvermittler und Dienstleister für diejenigen, die sich mit den eigentlichen Themen, die die Menschheit bewegt, besser auskennen als wir. Denn Open Data an sich erst mal verändert die Welt nicht, die Welt wird von Menschen verändert.
+
+01:42:43.901 --> 01:42:58.400
+<v pavelrichter>Und wie sie dazu Openess und Open Data verwenden können, das müssen sie selber entscheiden. Mit unserer Hilfe und unserer Expertise, aber sie müssen das selber entscheiden.
+
+01:42:58.401 --> 01:43:31.900
+<v timpritlove>Über Bildung haben wir ja schon gesprochen, vielleicht nochmal so ein detaillierterer Blick so in die Möglichkeiten, die die Forschung konkret aus Open Data ziehen kann. Ich meine wir haben es schon angesprochen, Open Access, also der Zugriff auf die Papers oder eben auch auf Forschungsergebnisse als solche, das macht. Aber vielleicht gibt es auch dort noch andere Szenerien. Seid ihr denn mit wissenschaftlichen Organisationen in irgendeiner Form auch schon in Kontakt geraten?
+
+01:43:31.901 --> 01:44:29.600
+<v pavelrichter>Ja wir starten gerade ein neues Projekt namens Next Geos. Ein EU-weites Projekt, wo es um die Nutzung von Geodaten geht. Und das ist ein hochakademischer Bereich, in dem wir dort tätig sind. Open Trials im Bereich der pharmazeutischen Forschung und der medizinischen Forschung. Denn ganz oft geht es ja hier auch um das Strukturieren großer Datensätze. Also um nochmal das Beispiel mit Open Trials, also der Datenbank für klinische pharmazeutische Tests, hier geht es ja nicht nur darum, dass das Aktivisten vor Ort nutzen können, sondern wenn wir zum Beispiel den gleichen Test in drei verschiedenen Datenbanken finden und zusammenführen, dann können wir eine Qualitätskontrolle machen, ob überall die gleichen Informationen drin stehen oder ob da einfach Fehler drin sind. Das heißt es geht hier um die Anreicherung, die qualitative Verbesserung von Datensätzen, was wiederum der Forschung unmittelbar zugute kommt.
+
+01:44:29.601 --> 01:45:30.700
+<v pavelrichter>Wenn hier Mechanismen aufgebaut werden, die Datenqualität erhöhen und die Datenstrukturierung ermöglichen. Dann ermöglicht das bessere Forschung. Deswegen ist das also nicht nur ein reines Aktivistenthema, sondern die Aufbereitung und Präsentation und Zugänglichmachung von großen Datensätzen kann bessere Forschung ermöglichen. Man kann besseren wissenschaftlichen Zugang ermöglichen. Außerdem ermöglicht insbesondere das Zurverfügungstellen von offenen Daten, die die Grundlage von Forschung sind, führt einfach zu einer enorm deutlich verbessertes Effizienz. Warum, wenn Daten einmal vorhanden sind, warum müssen sie nochmal erhoben werden, nur weil jemand anderes von einer anderen Universität sie verwenden will. Das ist ein Gemeingut, das eigentlich frei zur Verfügung stehen sollte. Was enorme auch finanzielle Möglichkeiten für Universitäten plötzlich gibt. Diese Daten wären kaum verkäuflich, kaum wirtschaftlich nutzbar machen. Und das ist ja auch nicht die Aufgabe des Wissenschaftsbetriebs.
+
+01:45:30.701 --> 01:46:30.100
+<v pavelrichter>Aber es würde durch die freie Verfügbarmachung im globalen Maßstab würde es zu enormen Einsparungen in der Erhebung von Daten führen. Weil einfach Doppelerhebungen und Dreifacherhebungen und Vierfacherhebungen nicht mehr stattfinden würden. Un der letzte Aspekt, den ich im Wissenschaftsbereich sehe, vielleicht ist das ein bisschen zu klischeehaft gedacht, wie Wissenschaft früher war, aber dass eben der Entstehungsprozess von wissenschaftlicher Forschung und Forschungsergebnissen und deren Grundlagen sehr viel transparenter werden in Zukunft, als das in der Vergangenheit der Fall war. Und diese Form von mehr Offenheit auch wiederum mehr Möglichkeiten bietet. Welche Möglichkeiten das sind und wie diese genutzt werden, das kann nur der Wissenschaftsbetrieb und die wissenschaftlichen Abläufe für sich selber ermöglichen. Auch hier gilt, dass Offenheit erst mal nur ein Enabler ist, ein Möglichmachen, ein Zurverfügungstellen.
+
+01:46:30.101 --> 01:46:36.300
+<v pavelrichter>Die Nutzung ist dann eine Frage, die den wissenschaftlichen Fachdisziplinen obliegt.
+
+01:46:36.301 --> 01:47:11.300
+<v timpritlove>Und wenn man den Spieß mal umdreht? Was kann die Wissenschaft sozusagen für Open Data tun? Ich meine wir haben es hier mit großen Datenmengen zu tun, das ist jetzt an sich nichts neues, dass es große Datenmengen gibt, aber ich sehe hier so viel, hier tut sich was auf, da tut sich was auf, man hat es permanent mit Korrelationen zu tun. Man hat halt sozusagen auch immer größere Heuhaufen und muss immer mehr Stecknadeln darin finden. Da frage ich mich natürlich auch, sind denn überhaupt die Werkzeuge da, um Leuten da eine Aktion zu ermöglichen, die jetzt nicht ausgebildete Mathematiker sind?
+
+01:47:11.301 --> 01:48:16.000
+<v pavelrichter>Ganz klar Standards, Standards, Standards ist hier der Schlachtruf. Es muss tatsächlich die Openess eines Datensatzes muss quasi in der Entstehung schon angelegt sein. Er muss in einer Art und Weise designed und aufbereitet sein, der die Weiternutzung später ermöglicht. Das muss nicht unbedingt ein globaler Standard sein, das ist im Zweifelsfall illusorisch, aber es muss eine gute Dokumentation sein und es muss eben auch Teil des Forschungsprojektes sein. Wir hatten gerade diese Diskussion auf dem World Health Summit, wo eine junge Forscherin sagt, dann brauche ich aber auch Geld dafür. Diese Datensätze sind ja nicht eine Excel-Datei, die ich irgendwo hochlade und dann habe ich Open Data, sondern diese Data-Publishing ist ein aufwendiger Prozess. Das Bereinigen der Daten, das vielleicht anonymisieren, wenn ich das fordere von der Wissenschaft, dann muss ich der Wissenschaft hier auch die Möglichkeiten, sowohl das know-how, aber eben auch die finanziellen Möglichkeiten zur Verfügung stellen.
+
+01:48:16.001 --> 01:48:30.300
+<v pavelrichter>Es muss also klar sein, dass wenn ich bei der DFG eine Förderanfrage stelle, dass dort ein Posten ist Kosten des Data-Publishing. Und dass diese Kosten getragen werden müssen.
+
+01:48:30.301 --> 01:49:14.300
+<v timpritlove>Aber die Kosten müssten halt auch sinken. Das ist ja sozusagen nicht akzeptabel, dass man große Gelder oder große Anteile der eigenen Forschungsförderung nur darin reinsteckt, etwas zu machen, was ohnehin von einem erwartet wird und was man möchte. Also an der Stelle Werkzeuge zu schaffen. Ich frage mich gerade, ob es irgendwelche Konferenzen eigentlich gibt, die sich sozusagen spezifisch mit diesem Problem der Datenbereitstellung, des Austauschs überhaupt jemals beschäftigt haben. Also in den einzelnen Bereichen erhebt man natürlich die Forderung und das und das muss jetzt irgendwie offen sein, aber sozusagen diese Mechanismen des globalen Austauschs wissenschaftlicher Natur oder welcher auch immer, sozusagen mal in den Fokus zu rücken, wäre ja vielleicht auch mal ganz spannend.
+
+01:49:14.301 --> 01:49:21.600
+<v pavelrichter>Ja also ist mir nicht bekannt, was jetzt aber auch einfach an mir liegen kann. Höchstwahrscheinlich sogar liegt es einfach an mir.
+
+01:49:21.601 --> 01:49:23.100
+<v timpritlove>Oder an mir.
+
+01:49:23.101 --> 01:50:10.600
+<v pavelrichter>Aber Open Knowledge International zum Beispiel hat ein Projekt, das wir seit einem guten Jahr betreiben, heißt frictionless Data. Also die Idee hier ist, am besten kann man das erklären, die große Revolution im internationalen Güterverkehr war die Erfindung des Containers. Wo ich also beliebige Inhalte reintun kann und diese Transportkisten, Container standardisiert sind und die ich dann auch weltweit einfach transportieren kann. Hat den globalen Handel erst möglich gemacht im Grunde genommen. Und die Idee hinter frictionless Data ist, etwas ähnliches für Daten zu machen. Nicht dafür zu sorgen, dass alle Daten in einem ganz bestimmten Format abgelegt und zugänglich gemacht werden. Aber dass quasi um einen Datensatz eine Art Container …
+
+01:50:10.601 --> 01:50:12.300
+<v timpritlove>Überhaupt erst mal anliefern zu können sozusagen.
+
+01:50:12.301 --> 01:51:08.200
+<v pavelrichter>Genau. Also wir sagen, das ist ein Container, hier, bildlich gesprochen, kannst du deine Daten reintun und dann musst du auf eine bestimmte Art und Weise angeben, was da drin ist, also was ist die Natur dieser Daten, was ist das Format. Einige Kerninformationen, Metadaten quasi mitzuliefern, die es dann anderen erlaubt, diesen Container zu nehmen und auszuwerten, ohne dass sie gegebenenfalls wissen, ohne dass sie vielleicht was mit dem Inhalt bereits anfangen können. Aber alleine dadurch, dass ich diesen Container habe, der Metadaten transportiert und standardisierte Informationen über den inneliegenden Datensatz, sehr vereinfacht gesprochen, mitliefert, schaffe ich eine Basis, auf der überhaupt erst mal Austausch stattfinden kann, bevor ich mich jetzt irgendwie probiere, eine weltweite Standardbehörde zu schaffen, die dafür sorgt, dass alle Wissenschaftler nach einem ganz bestimmten Datenschema vorgehen.
+
+01:51:08.201 --> 01:51:59.000
+<v timpritlove>Ja so wie das IP-Paket sozusagen den Datentrafnser ja auch global ermöglicht hat, ohne Aussagen darüber zu treffen, was denn damit jetzt tatsächlich transportiert wird, könnte man sich ja so ein Modell auch vorstellen als ein Enabler nicht nur für eine Nutzung offener Daten und Generierung offener Daten und eines Austausches, sondern auch einem Echtzeitflow zum Beispiel solcher Datenergebnisse, weil heute hat das viel mit, ich exportier das mal, dann importier ich das mal und gibt es eine neue Version, ach ja da muss ich erst die alten Daten wegschmeißen und so weiter. Also es sind ja auch Prozesse, die sozusagen erst mal eingeschliffen werden müssen. Und in dem Moment, wo halt auch – es muss ja nicht immer unbedingt in Echtzeit sein, aber zumindest in einer beschleunigten Form – solche Datenaustausche automatisiert sind, könnte man ja vielleicht auch ganz neue Erkenntnisse gewinnen, allein schon aus der Veränderung über die Zeit.
+
+01:51:59.001 --> 01:51:59.900
+<v pavelrichter>Genau.
+
+01:51:59.901 --> 01:52:18.600
+<v timpritlove>Ich sehe schon, da ist noch eine Menge zu holen in diesem Bereich. Aber wir haben es jetzt glaube ich erst mal, soweit es uns möglich ist, aufgezeichnet für die Nachwelt. Podcasts werden ja noch in 500 Jahren gehört, von daher ist auch hier noch in Fundus zu heben in der Zukunft. Pavel vielen Dank.
+
+01:52:18.601 --> 01:52:20.100
+<v pavelrichter>Vielen Dank.
+
+01:52:20.101 --> 01:52:40.600
+<v timpritlove>Für die Ausführung zu Open Knowledge, freiem Wissen und Open Data auch im Besonderen und ja vielen Dank wie immer fürs Zuhören hier bei Forschergeist, das war es für dieses Mal und ich hoffe, ihr kommt alle bald wieder und sage tschüss und bis bald.
+
+

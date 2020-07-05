@@ -1,0 +1,807 @@
+﻿[00:00:00-0 @intro]
+[00:00:43-7 @timpritlove] Hallo und herzlich willkommen zu Forschergeist dem Podcast des Stifterverbandes für die deutsche Wissenschaft.
+[00:00:48-8 @timpritlove] Mein Name ist Tim Pritlove und ich begrüße alle zur Ausgabe Nummer 75 der Gesprächsserie, wo wir immer sehr viel sprechen über Forschung, über Wissenschaft und all die ganzen Aspekte,
+[00:00:59-5 @timpritlove] die sich daraus ergeben, insbesondere im Wandel der Zeit und das ist ein Fokus heute, denn heute geht es salopp gesagt um Literatur.
+[00:01:10-0 @timpritlove] Konkreter wollen wir werden und sprechen über die Aspekte der modernen Archivierung von Literatur und natürlich auch, wie sich dieser Literaturbegriff so entwickelt hat.
+[00:01:24-2 @timpritlove] Und dazu begrüße ich zunächst einmal meine Gesprächspartnerin, nämlich Frau Sandra Richter, schönen guten Tag.
+[00:01:31-3 @sandrarichter] Guten Tag Herr Pritlove.
+[00:01:34-0 @timpritlove] Frau Richter, Sie sind Leiterin des deutschen Literaturarchivs in Marbach, stimmt?
+[00:01:42-7 @sandrarichter] Ja.
+[00:01:43-4 @timpritlove] Ganz frisch eigentlich, seit 2019.
+[00:01:46-0 @sandrarichter] Ja, schon seit einem Jahr.
+[00:01:47-8 @timpritlove] Schon seit einem Jahr.
+[00:01:48-4 @sandrarichter] Das ist ja gar nicht mehr so frisch.
+[00:01:50-6 @timpritlove] Also fühlt sich schon wie eine Ewigkeit an?
+[00:01:53-4 @sandrarichter] Ach naja, also ein Jahr ist schon eine lange Zeit und in diesem Jahr haben wir überlegt, wie wir uns für die viel beschworene Zukunft aufstellen,
+[00:02:02-0 @sandrarichter] die da digital wird, die bereits sehr international ist und die natürlich auch immer dort ankommen möchte, wo wir unsere Interessenten haben, nämlich beim Leser und beim Besucher des Archivs.
+[00:02:14-6 @timpritlove] Über das Archiv möchte ich gerne noch ausführlich sprechen.
+[00:02:19-0 @timpritlove] Zunächst einmal würde mich aber mal interessieren, wie Sie eigentlich in dieses Feld geraten sind?
+[00:02:25-5 @timpritlove] Ich habe jetzt so eine romantische Vorstellung davon, dass man schon so als Kind viel in Büchern geschmökert hat
+[00:02:33-8 @timpritlove] und dann von vornherein dem Thema verfangen war oder ist das eher eine späte Liebe, die hier kam?
+[00:02:42-0 @sandrarichter] Also wenn man in Büchern schmökert, muss man nicht unbedingt ein Archiv leiten.
+[00:02:45-8 @sandrarichter] Manche Menschen neigen dann dazu, selbst zu sammeln und so weiter, das tue ich eigentlich gar nicht,
+[00:02:50-3 @sandrarichter] sondern ich kam umgekehrt über das Rationale dazu, also ganz unromantisch eigentlich.
+[00:02:55-4 @sandrarichter] Ich war und bin Professorin für Literaturwissenschaft, ziemlich in der Nähe, an der Uni Stuttgart.
+[00:03:03-0 @sandrarichter] Marbach und Stuttgart das liegt nah beieinander, das sind so ein paar Kilometer.
+[00:03:07-2 @sandrarichter] Und ich habe viel mit dem Archiv gearbeitet als Professorin, mit meinen Studenten, habe dort Seminare gegeben,
+[00:03:14-2 @sandrarichter] habe mit den Archivaren zusammen Dinge angeschaut und eine Spezialität, die wir dort entwickelt haben in Stuttgart, sind die Digital Humanities
+[00:03:24-9 @sandrarichter] und das ist wohl etwas, was das Archiv zurzeit vor allem auch braucht und möglicherweise ist deshalb eine Kommission dereinst darauf verfallen,
+[00:03:33-7 @sandrarichter] mich zur Direktorin dort zu machen und dann bin ich tatsächlich ein wenig wie die Jungfrau zum Kinde gekommen, das war nicht geplant,
+[00:03:40-2 @sandrarichter] sondern das war eher Zufall und plötzlich war es da.
+[00:03:46-4 @timpritlove] Ich wollte eigentlich viel weiter nach hinten gehen in der Historie.
+[00:03:50-4 @timpritlove] Also wie ist denn sozusagen überhaupt dieser Bezug zur Literatur bei Ihnen entstanden?
+[00:03:55-8 @sandrarichter] Der ist tatsächlich ganz klassisch übers Lesen entstanden.
+[00:03:58-0 @sandrarichter] Also ich habe immer viel gelesen.
+[00:03:59-4 @sandrarichter] Ich bin in einem kleinen Dorf aufgewachsen und da gab es nichts außer Bücher und Kühe.
+[00:04:04-3 @sandrarichter] Die Kühe fand ich nicht so spannend und die Bücher waren schon interessanter.
+[00:04:09-0 @sandrarichter] Also Bücher als Tor zur Welt, damals noch in einer Zeit, in der alles analog war.
+[00:04:14-7 @sandrarichter] Und das war sicherlich der ausschlaggebende Punkt.
+[00:04:17-5 @timpritlove] Von welchem Jahrzehnt sprechen wir jetzt?
+[00:04:19-7 @sandrarichter] Nicht dem 19. Jahrhundert, aber fühlt sich so ähnlich an, 1970er Jahre.
+[00:04:24-1 @timpritlove] Ja.
+[00:04:24-8 @sandrarichter] Da begann das alles irgendwann und auch das mit dem Lesen und ging so weiter.
+[00:04:31-7 @sandrarichter] Erste Leseerfahrungen, die wichtig waren und in der Tat so was waren wie, oh da gibt es eine andere Welt außer die des Dorfes und die ist spannend
+[00:04:39-6 @sandrarichter] und da kann man viel lernen, sei es über Literatur oder auch ganz andere Arten von Texten.
+[00:04:43-5 @timpritlove] Aber dann ist es doch schon ein Problem, überhaupt an die richtigen Bücher zu kommen?
+[00:04:46-3 @sandrarichter] Ja und nein.
+[00:04:48-0 @sandrarichter] Es gab eine tatsächlich nicht schlechte Dorfbibliothek und vor allem die Stadtbibliothek Kassel.
+[00:04:54-3 @sandrarichter] Ich bin dort in der Nähe aufgewachsen und diese Bibliothek ist ganz gut.
+[00:04:57-3 @sandrarichter] Also ich habe da eine Menge lesen können und wöchentlich größere Rucksäcke nach Hause geschleppt und da gab es alles mögliche,
+[00:05:04-8 @sandrarichter] von Physikeinführungsbüchern bis hin zu Adorno und Horkheimer und anderen Dingen, also da fühlte ich mich eigentlich ganz gut bedient.
+[00:05:13-3 @timpritlove] Das heißt, Sie haben einfach die Bücher gar nicht erst groß angeschaut vorher, sondern einfach Regalmeter um Regalmeter eingesammelt und dann geguckt, was mal bei rauskommt?
+[00:05:22-1 @sandrarichter] Ganz so nicht, bin ja keine Bibliothekarin, sondern ich habe mir schon überlegt, was ich jetzt lesen will und dann eher systematisch geguckt,
+[00:05:31-1 @sandrarichter] was möchte ich jetzt durchgehen.
+[00:05:32-6 @sandrarichter] Will ich jetzt kritische Theorie mir erarbeiten oder etwas ganz anderes.
+[00:05:36-5 @sandrarichter] Und bin das dann mehr oder minder systematisch tatsächlich auch durchgegangen.
+[00:05:40-4 @timpritlove] Das heißt, die Bibliothek war eigentlich schon so auch Ihr Vehikel und die Organisation dieser Bibliothek hat entscheidend dazu beigetragen,
+[00:05:50-3 @timpritlove] dass diese Systematik sich überhaupt erst entwickeln konnte?
+[00:05:54-1 @sandrarichter] Ja, modern gesprochen, Informationsinfrastrukturen haben mich immer schon fasziniert, also wie organisiert man Wissen so,
+[00:05:59-5 @sandrarichter] dass es auch jemanden erreicht und dass schnell gefunden wird, was man finden möchte.
+[00:06:06-4 @sandrarichter] Und zugleich aber auch die Möglichkeit besteht, sich mal völlig zu verlaufen und in Arten von zufälligen Nachbarschaften Dinge zu entdecken, die man nicht vermutet hat.
+[00:06:18-4 @sandrarichter] Also zum Beispiel Habermas neben Heidegger oder so etwas.
+[00:06:22-5 @sandrarichter] Und das macht Spaß, das macht Freude, das bewegt und das regt Forschung auch erst an, ermöglicht Forschung auch erst.
+[00:06:29-6 @sandrarichter] Und heute speziell in der digitalen Zeit fragt man sich natürlich, was macht man, wenn diese Zufallsordnungen zum Teil der Bibliotheken, wenn das so nicht mehr gegeben ist?
+[00:06:39-9 @timpritlove] Zufallsordnung, also es stand alles dann doch nicht so gut sortiert beieinander?
+[00:06:46-0 @sandrarichter] Stand im Wesentlichen gut sortiert, aber man sieht doch immer Dinge nebeneinander, die man nicht kennt bisher und auf die man auch nicht einfach klickt,
+[00:06:53-8 @sandrarichter] weil möglicherweise dieser Link gar nicht da ist, sondern da ist mal ein Buch irgendwo hingelegt worden per Zufall und man sieht,
+[00:07:00-7 @sandrarichter] ach das ist auch interessiert oder will ich nicht vielleicht mal diesen Weg gehen oder blickt ins Nachbarregal, das in der Ordnung der Bibliothek ganz klar da stehen muss,
+[00:07:09-8 @sandrarichter] aber für jemanden, der sich erst etwas erarbeitet, dort vielleicht ganz neu ist und das man dort nicht vermutet hätte.
+[00:07:18-0 @sandrarichter] Und das ist eine, finde ich, Zufallsordnung, die man beim Lesen, beim sich Erarbeiten, so wahrnimmt, die natürlich nach bibliothekarischem Schema so zufällig dann wiederum nicht ist.
+[00:07:31-1 @timpritlove] Es gibt ja dieses schöne Wort des Browsing, was wir so aus dem Englischen so übernommen haben, ohne uns vielleicht wirklich darüber Gedanken zu machen,
+[00:07:37-6 @timpritlove] wofür es eigentlich mal benutzt wurde, weil, ich glaube, gerade dieser Vorgang des, welches Buch könnte denn das nächste für mich sein, wenn man so durch Regalreihen schreitet,
+[00:07:48-4 @timpritlove] da hat man ja dann doch eigentlich einen sehr viel breiteren Blick als es jetzt auch der breiteste Bildschirm in der Regel zulässt und klar, es gibt eine Ordnung,
+[00:07:58-6 @timpritlove] aber wenn man halt weit genug schaut, dann wird auch diese Ordnung in gewisser Hinsicht auch schon wieder zu so einem Chaos.
+[00:08:04-8 @timpritlove] Und mal sind es Farben, mal sind es Größen, mal sind es Buchstaben, Zeichnungen, die einen leiten, man wählt sich dann sozusagen seinen Weg dann doch weitgehend selber.
+[00:08:15-8 @sandrarichter] Ja.
+[00:08:17-4 @timpritlove] Das ist wahrscheinlich etwas, was gar nicht so einfach zu replizieren ist in der digitalen Welt.
+[00:08:21-7 @sandrarichter] Das ist überhaupt nicht einfach zu replizieren.
+[00:08:23-5 @sandrarichter] Alleine dass Sie in einem Raum stehen und dann raumweise weiter orientieren können und eben auch mal in einen Raum begeben, in dem Sie sich eigentlich gar nicht auskennen.
+[00:08:33-1 @sandrarichter] Das geht im Internet im Prinzip auch, aber möglicherweise ist man schneller irritiert.
+[00:08:38-6 @sandrarichter] Woran viele arbeiten zurzeit, ist tatsächlich ja das Netz auch und die Suchordnungen im Netz vielfältiger zu machen.
+[00:08:44-6 @sandrarichter] Also wie kann ein Katalog der Zukunft aussehen?
+[00:08:49-3 @sandrarichter] Da öffnet es natürlich wieder viele Möglichkeiten.
+[00:08:50-9 @sandrarichter] Man kann über Wordclouds vorgehen wollen oder über anderes.
+[00:08:56-8 @sandrarichter] Und vielleicht gibt es auch künftig dann solche Suchmöglichkeiten, die diese psychische Ordnung der Bibliothek beinahe wiederholen oder anders machen
+[00:09:06-3 @sandrarichter] oder noch variabler machen.
+[00:09:07-7 @sandrarichter] Da ist sicherlich bei weitem noch nicht das Ende der Möglichkeiten erreicht, sondern da stehen wir erst am Anfang.
+[00:09:15-5 @timpritlove] Bleiben wir nochmal bei Ihrer Entwicklung.
+[00:09:16-7 @timpritlove] Also nachdem Sie dann sozusagen diese Hardcore-Literaturjugend durchgelebt haben, so würde ich es jetzt mal nennen ganz frech,
+[00:09:23-5 @timpritlove] dann stand aber schon dann eben auch die Entscheidung, so okay, alles klar, das muss ich jetzt auch studieren?
+[00:09:29-0 @sandrarichter] Das hat sich dann quasi so ergeben.
+[00:09:32-4 @sandrarichter] Ich habe auch mal überlegt, was anderes zu machen, wie Journalismus und Politikwissenschaft, das habe ich tatsächlich auch studiert, auch abgeschlossen
+[00:09:39-1 @sandrarichter] und mich sehr angefreundet mit empirischen Vorgehen und dergleichen.
+[00:09:44-3 @sandrarichter] Aber es ergab sich dann auch durch Interessen, dass ich doch eher in der Literaturwissenschaft bleiben wollte, weil dieser variantenreiche Zugang zu Texten,
+[00:09:53-5 @sandrarichter] zu Sprache mich sehr fasziniert hat.
+[00:09:55-5 @sandrarichter] Was kann man da alles herausholen und wie schaffe ich das, ohne gleich auf einen großen Begriff wie macht oder etwas zu verengen,
+[00:10:02-2 @sandrarichter] sondern öffne erst mal das Feld.
+[00:10:05-9 @timpritlove] Germanistik war auch noch dabei.
+[00:10:07-0 @sandrarichter] Genau, Germanistik, Politikwissenschaft, zeitweise auch Kunstgeschichte, Philosophie, all das, was ich fand, es lohnt mal genauer angeguckt zu werden.
+[00:10:17-2 @timpritlove] Verstehe.
+[00:10:20-1 @timpritlove] Und dann muss man sich ja dann irgendwann auch mal entscheiden, was man eigentlich wirklich machen möchte.
+[00:10:27-4 @timpritlove] Wie ist dann Ihre Reise weitergegangen?
+[00:10:30-9 @timpritlove] Sie waren, glaube ich, auch ganz gut unterwegs.
+[00:10:33-3 @sandrarichter] Ich war auch viel unterwegs und habe vielfach mir auch anderes wiederum angeschaut, habe auch mal mich beworben in die Unternehmensberatungen hinein.
+[00:10:44-2 @sandrarichter] Das sah auch alles ganz vielversprechend aus.
+[00:10:48-6 @sandrarichter] Aber dann dachte ich mir, da muss ich immer dasselbe Schema anwenden und das ist auch langweilig, das will ich eigentlich nicht.
+[00:10:54-0 @sandrarichter] Und Forschen ist eine gute Sache und so etwas wie Forschergeist den gibt es tatsächlich und den wollte ich tatsächlich gerne ausleben und den wollte ich weitertreiben
+[00:11:03-8 @sandrarichter] und ich dachte auch immer, in diesem Feld, was ich da bestellte, da gibt es noch so viel zu entdecken und je genauer man schaut, desto mehr gibt es eigentlich zu entdecken
+[00:11:13-1 @sandrarichter] und desto genauer ist auch mir klar geworden, wie wenig ich eigentlich weiß.
+[00:11:20-0 @sandrarichter] Und dieses immer wieder neu fragen und Dinge auf den Kopf stellen, das ist doch etwas, was mich sehr begeistert hat.
+[00:11:25-4 @sandrarichter] Dass es dann die Literaturwissenschaft wurde, hing sicherlich dann auch tatsächlich mit Personen zusammen und mit Möglichkeiten, die sich eröffneten.
+[00:11:36-4 @sandrarichter] Möglichkeiten, die vor allem in die Forschung wiesen.
+[00:11:38-5 @sandrarichter] Da gab es dann Drittmittelprojekte, da gab es Zusammenhänge, Gruppen, die sich verständigten, damals über Ideengeschichte und ihre Entwicklung.
+[00:11:50-0 @sandrarichter] Im weitesten Sinne in der Geschichtswissenschaft, in der Literaturwissenschaft und das fand ich, das war ein guter Kontext,
+[00:11:55-7 @sandrarichter] da konnte ich einige meiner Fragen loswerden.
+[00:12:00-4 @timpritlove] Wenn ich es richtig sehe, waren Sie sowohl in Großbritannien als auch in den USA und auch in China unterwegs, stimmt das?
+[00:12:07-6 @sandrarichter] Das zum Teil dann erst in jüngerer Zeit, in Frankreich zunächst, dann in Großbritannien.
+[00:12:14-1 @sandrarichter] In Großbritannien hatte ich meine erste feste Stelle, dann auch eine Professur.
+[00:12:19-1 @sandrarichter] Ich habe viel dort gelernt auch über verschiedene Wissenschaftskulturen, die in England weniger hierarchisch sind als hierzulande.
+[00:12:28-1 @sandrarichter] Die auch zum Teil flexibler sind, es gibt keine Beamtenstrukturen, das findet man natürlich gut, auf der anderen Seite, wenn man so eine verbeamtete Stelle hat,
+[00:12:37-2 @sandrarichter] aber andererseits führt es auch dazu, dass sie zum Teil schneller reagieren können.
+[00:12:43-3 @sandrarichter] War später zum Forschen noch in den USA und mehr zum Lehren in China und habe gesehen und gemerkt, wie lebendig chinesische Studierende, Doktoranden und junge Lehrende sein können,
+[00:12:57-5 @sandrarichter] die immer wieder und auch unabhängig von politischen Vorgaben fragen, was denn zum Beispiel so was ist wie Freiheit in Schillers Maria Stuart oder so.
+[00:13:08-7 @timpritlove] Sind das nicht eher schwierige Diskussionen dann in China?
+[00:13:14-2 @sandrarichter] Nein, das sind gar nicht so schwierige Diskussionen, die sprechen erstaunlich offen, nun geht es um historischen Text natürlich
+[00:13:20-0 @sandrarichter] und so etwas ermöglicht dann auch wiederum Freiräume mal auszuloten, was heißt das.
+[00:13:27-0 @sandrarichter] Und welche Art von Freiheit ist eigentlich sinnvoll und wünschbar im Don Carlos?
+[00:13:30-6 @sandrarichter] Kann der sich von seinem Hof verabschieden, kann der allein sein, Gefühlen leben, vermutlich nicht und solche Dinge, das können sie schon recht offen diskutieren.
+[00:13:39-5 @timpritlove] Schwerpunkt aber so in den letzten zehn Jahren war, glaube ich, Ihre Tätigkeit an der Universität Stuttgart?
+[00:13:46-9 @sandrarichter] Mhm (bejahend)
+[00:13:49-7 @timpritlove] Wo Sie eine Professur hatten, wenn ich das richtig sehe, auch eher zu den jüngsten dort gehörten.
+[00:13:58-8 @sandrarichter] Ja, heute nicht mehr, aber damals schon.
+[00:14:00-5 @timpritlove] Ja, was war so da der Fokus?
+[00:14:06-0 @sandrarichter] Zunächst einmal ging es um die große Frage, wie hängen Wissen und Literatur zusammen?
+[00:14:09-3 @sandrarichter] Das war lange Zeit eine Grundlinie, also wie wirkt etwa Medizin, Medizingeschichte auf die Literatur?
+[00:14:17-3 @sandrarichter] Es gibt viel dazu, also viele Autoren, Goethe nur einer von vielen, haben sich mit Medizin beschäftigt und haben sich gefragt, was hat das zu sagen?
+[00:14:27-8 @sandrarichter] Haben auch empirische Studien beinahe gemacht.
+[00:14:31-0 @sandrarichter] Das war ein erster Fokus, der aber bald abgelöst wurde durch die Dynamiken, die wir auch an der Universität sehr stark gespürt haben.
+[00:14:38-9 @sandrarichter] Die Dynamiken der Digitalisierung.
+[00:14:42-4 @sandrarichter] Die Uni Stuttgart hat traditionell eine sehr starke Informatik, die auch in die Geisteswissenschaften hineinreicht und diese hat mich dann sehr beschäftigt.
+[00:14:52-5 @sandrarichter] Wie kommen wir zusammen?
+[00:14:52-8 @sandrarichter] Kann man Texte digital lesen?
+[00:14:56-1 @sandrarichter] Wie kann das gehen?
+[00:14:58-6 @sandrarichter] Was kann eine Maschine leisten in diesem Zusammenhang?
+[00:15:01-4 @sandrarichter] Kommen wir über das reine Wörterzählen hinaus?
+[00:15:03-7 @sandrarichter] Wie sieht das dann aus, welche Fragen können wir stellen?
+[00:15:06-0 @sandrarichter] Das ist ein Zusammenhang, der mich nach wie vor sehr beschäftigt, und der mich seit einigen Jahren eben dort auch gemeinsam mit Kollegen aus der Computerlinguistik,
+[00:15:16-0 @sandrarichter] aus der Informatik auch, dort auf Trab hält.
+[00:15:20-3 @timpritlove] Wie sah denn die Zusammenarbeit da aus?
+[00:15:24-0 @timpritlove] Also wie hat sich das so konkret geäußert?
+[00:15:28-9 @sandrarichter] Wir hatten verschiedene Projekte und haben verschiedene Projekte.
+[00:15:34-1 @sandrarichter] Zunächst haben wir uns erst einmal zusammengesetzt und gefragt, wie kommen wir überhaupt zusammen?
+[00:15:36-9 @sandrarichter] Das sind verschiedene Fächer mit unterschiedlichen Beschreibungssprachen, mit unterschiedlichen Erklärungsansprüchen,
+[00:15:42-5 @sandrarichter] mit unterschiedlichen Interpretationsansprüchen speziell bei uns, und wie schaffen wir das?
+[00:15:48-5 @sandrarichter] Die Computerlinguistik ist da ein ziemlich wichtiges Feld in der Mitte, weil die schon es ermöglicht, über die Sprache, die Hauptgegenstand ist,
+[00:16:00-0 @sandrarichter] eine Verbindung zu schaffen hin zu den rein technischen Disziplinen.
+[00:16:05-1 @sandrarichter] Und so haben wir uns zusammengesetzt und gefragt, was wollen wir wissen, was können wir zusammen machen, und haben ein Projekt entwickelt
+[00:16:10-4 @sandrarichter] zum Thema der Untersuchung von Poetiken.
+[00:16:12-9 @sandrarichter] Das ist ein argumentierendes Material, wissenschaftshistorisches Material, das sich fragt, wie entsteht Literatur, wie schreibt Literatur, welche Begriffe tauchen da auf?
+[00:16:22-7 @sandrarichter] Begriffe wie Metapher oder Ironie und so, die werden dort definiert.
+[00:16:28-1 @sandrarichter] Und wie kann man dieses Material, dieses Textmaterial digital analysieren, was kann man damit machen?
+[00:16:34-5 @sandrarichter] Ich hatte dazu ein Buch geschrieben und die Kollegen sagten, das ist spannend und wir wollen das jetzt mal angucken und diese Texte mit unseren Instrumentarien vermessen.
+[00:16:44-5 @sandrarichter] Das haben wir gemacht.
+[00:16:46-3 @sandrarichter] Da kamen dann einzelne Analysetechniken heraus zum Thema Argumentationsanalyse.
+[00:16:52-2 @sandrarichter] Wir haben uns gefragt, wie kann man wörtliche Rede auszeichnen und solche Dinge.
+[00:16:57-8 @sandrarichter] Und das waren so erste Schritte in diese Richtung, auf die ich dann versucht habe sukzessive aufzubauen.
+[00:17:04-0 @sandrarichter] Wir haben einen Studiengang gegründet, weil wir gemerkt haben, wir brauchen mehr Studierende in diesem Feld.
+[00:17:09-0 @sandrarichter] Jetzt gibt es einen florierenden Studiengang Digital Humanities, der viele Studierende beschäftigt.
+[00:17:15-4 @sandrarichter] Und kaum fangen die an, sind die schon unterwegs in der Wirtschaft, bekommen sehr schnell Stellen, weil sie offenbar etwas lernen, was aktuell nachgefragt wird.
+[00:17:26-3 @timpritlove] Digital Humanities, wie kriege ich da jetzt die Verbindung in die Wirtschaft hin?
+[00:17:35-1 @timpritlove] Also was zeichnet da dieses Interesse aus?
+[00:17:37-5 @sandrarichter] Das ist nicht unbedingt nur die Wirtschaft im traditionellen Sinne, sondern das sind zum Teil Verlage, das sind Bibliotheken,
+[00:17:45-4 @sandrarichter] das sind Bereiche, die mit Texten umgehen, in unserem Fall und das gibt es natürlich auch für Bilder.
+[00:17:50-5 @sandrarichter] Es sind Bereiche, die mit Texten umgehen und die aber merken, dass sie nicht mehr allein mit den traditionell hermeneutischen Vorgehensweisen zurechtkommen.
+[00:17:59-8 @sandrarichter] Sie funktionieren nicht mehr analog, sondern zunehmend digital.
+[00:18:03-2 @sandrarichter] Verlage arbeiten mit e-Books, Verlage suchen neue Techniken der Präsentation, fragen sich, wie Autoren künftig schreiben werden
+[00:18:10-7 @sandrarichter] und vor allem, wie sie das Ganze auch an den Kunden bringen.
+[00:18:14-5 @sandrarichter] Und da sind diese Leute ganz gut aufgehoben.
+[00:18:17-6 @sandrarichter] Es geht letztlich auch um so was wie Datenanalyse ausgehend von größeren Textmengen.
+[00:18:22-5 @sandrarichter] Größeren und kleineren Textmengen, schon kleine Textmengen können ziemlich komplex sein.
+[00:18:27-2 @sandrarichter] Aber wenn Sie etwa eine Bibliothek vor sich haben, dann wird es natürlich sehr schnell sehr komplex.
+[00:18:33-7 @sandrarichter] Und das ist etwas, was diese Studierenden dort in dem Studiengang lernen mithilfe verschiedener Techniken.
+[00:18:38-7 @sandrarichter] Wie bekommt man bestimmte Themen heraus, Topics sogenannte.
+[00:18:45-3 @sandrarichter] Oder wie macht man so was wie Figurenanalyse, Netzwerkanalyse, und das kann man dann entsprechend anwenden.
+[00:18:51-6 @timpritlove] War das dann schon eher …
+[00:18:52-8 @timpritlove] Ich meine, das klingt für mich so ein bisschen, also ich habe jetzt auch so ein bisschen die Computerperspektive und ist ja insofern auch interessant, 
+[00:19:00-2 @timpritlove] als dass ja die Computerlinguistik schon extrem früh, bevor eigentlich die Informatik so richtig klar sichtbar war und auch in ihrer Bedeutung anerkannt war,
+[00:19:11-4 @timpritlove] dass die Computerlinguisten schon in den 50er Jahren so Begriffe wie künstliche Intelligenz verfolgt haben und ja quasi über diese Beschäftigung der Analyse von Sprache
+[00:19:22-6 @timpritlove] und der Bildung von Begrifflichkeiten und dem Verstehen von Wörtern und natürlich einerseits der Forschung an Programmiersprachen,
+[00:19:32-1 @timpritlove] aber dann eben auch immer wieder diese Verbindung zu unserer Sprache und der Frage, welche Intelligenz steckt sozusagen, also was von unserer Intelligenz steckt in dieser Sprache
+[00:19:41-5 @timpritlove] und wie können wir diese interpretieren oder für uns nutzbar machen?
+[00:19:47-2 @timpritlove] Wenn man das jetzt sozusagen mit der Literaturwissenschaft verbindet, was kam da konkret bei raus und was war das für ein Arbeiten mit den Digitalen?
+[00:20:01-2 @sandrarichter] Naja, also die Computerlinguistik und die Informatik haben sich schon sehr stark parallel entwickelt.
+[00:20:07-5 @sandrarichter] Ich gebe mal ein Beispiel.
+[00:20:09-8 @sandrarichter] In dem Stuttgarter Kontext, aus dem ich komme, gibt es seit den 50er Jahren eine ziemlich enge Verbindung zwischen beiden.
+[00:20:17-0 @sandrarichter] Max Bense ist so ein Name unter den älteren Professoren, der da wichtig ist und war, der in den 40/50er Jahren, dann vor allen Dingen in den 50er Jahren,
+[00:20:28-3 @sandrarichter] die englischen Kybernetiker Norbert Wieder und andere eingeladen hat und mit dabei geholfen hat, dass sich so was wie eine Feldcomputerlinguistik
+[00:20:39-1 @sandrarichter] und auch dann Informatik entwickelt konnte.
+[00:20:41-1 @sandrarichter] Den hat interessiert, wie Maschine und Sprache zusammenkommen, wie man das modellieren kann.
+[00:20:46-7 @sandrarichter] Und es gab in diesem Feld eine ganze große Gruppe von Studierenden, die dann eben in die Informatik ging.
+[00:20:52-6 @sandrarichter] Rul Gunzenhäuser, einer der Begründer der Informatik, auf der einen Seite, Theo Lutz, ein Informatiker, der dann die ersten deutschsprachigen Computerpoeme schrieb.
+[00:21:03-0 @sandrarichter] Und diese Computerpoeme finden sich mittlerweile im deutschen Literaturarchiv Marbach.
+[00:21:07-6 @sandrarichter] Die ersten entstanden bereits Ende der 1950er Jahre, sind relativ stereotyp.
+[00:21:13-6 @sandrarichter] Der hat meistens mit Versatzstücken aus Kafka-Texten gearbeitet, die dann mit einem Algorithmus zusammen kombiniert werden zu einem neuen Text.
+[00:21:22-4 @sandrarichter] Das ist ein ziemlich faszinierendes Umfeld und die Informatik musste sich natürlich als Wissenschaft dann erst mal herausbilden, ihre eigenen Fragestellungen entwickeln
+[00:21:30-3 @sandrarichter] und ist sehr stark maschinenabhängig.
+[00:21:32-8 @sandrarichter] Welche Art von Maschine habe ich, was kann ich damit programmieren und was ist tatsächlich möglich und so.
+[00:21:38-6 @sandrarichter] Und die Computerlinguistik hat durch die Linguistik natürlich ein traditionelles Fragevokabular, die hat traditionelle Vorgaben,
+[00:21:46-2 @sandrarichter] die weiß ungefähr, in welche Richtungen sie will.
+[00:21:48-6 @sandrarichter] Sie will große Corpora analysieren oder sie will bestimmten Problemen auf den Grund gehen, etwa wie analysiere ich Argumente?
+[00:21:56-7 @sandrarichter] Große Frage, das muss man erst mal hinkriegen.
+[00:21:59-2 @sandrarichter] Und für mich als Literaturwissenschaftlerin sind da verschiedene Zugänge interessant.
+[00:22:03-9 @sandrarichter] Zum einen der Zugang über einen Corpus, meine Poetiken sind so ein Corpus, das man eben mit maschinellen Methoden auch mal anders durchsuchen kann
+[00:22:13-0 @sandrarichter] Ich erfahre dann etwa, nachdem wir gemeinsam überlegt haben, wie kann man wörtliche Rede identifizieren, wo überall in diese Poetiken Beispieltexte drinstecken
+[00:22:24-1 @sandrarichter] die dann wörtlich zitiert werden
+[00:22:24-8 @sandrarichter] Welcher große Textteil ist eigentlich ein Beispiel und wo wird eigentlich überhaupt argumentiert und welche Funktionen haben diese Beispieltexte?
+[00:22:34-3 @sandrarichter] Die sollen offenbar Dinge nahe bringen, die sollen aber auch typische Beispiele liefern und sogleich stehen die aber auch wie so ein Exempel,
+[00:22:42-3 @sandrarichter] hinter das man nicht zurückfallen kann.
+[00:22:43-6 @sandrarichter] Die haben ganz unterschiedliche Funktionen.
+[00:22:45-7 @sandrarichter] Da muss sich dann zum Teil wieder interpretieren dran, während mir die Computerlinguistik im Wesentlichen zeigt, also die Hälfte des Textes das sind aber Beispiele
+[00:22:54-7 @sandrarichter] und hier wird immer wieder so und so stereotyp argumentiert und dann muss ich mich fragen, aber was sagt mir das eigentlich dann literaturwissenschaftlich.
+[00:23:03-2 @sandrarichter] So und so ähnlich …
+[00:23:04-1 @timpritlove] Das heißt, es entsteht ein Werkzeug sozusagen, was einen auf bestimmte Textteile hinweist und sagt, hier müssen wir nochmal genauer drauf schauen, hier ist unter Umständen was zu holen.
+[00:23:13-6 @sandrarichter] Mhm (bejahend)
+[00:23:13-9 @timpritlove] Und man hat quasi eine Ersparnis, weil natürlich das digitale System sehr viel mehr Daten und Texte auf einmal anschauen kann als man irgendwie an drei Wochenenden lesen kann.
+[00:23:24-6 @sandrarichter] Das ist, denke ich, ein sehr basaler Zugriff.
+[00:23:27-7 @sandrarichter] Dass es erst einmal quantitativ aufzeigt, was in so einem Text ungefähr drin sein.
+[00:23:32-5 @sandrarichter] Es macht aufmerksam.
+[00:23:34-6 @sandrarichter] Was man da findet ist nicht wirklich eine Erklärung oder eine Interpretation, das ist es eigentlich nie.
+[00:23:40-5 @sandrarichter] Sondern es ist zunächst mal ein Indiz, da ist was.
+[00:23:43-6 @sandrarichter] Und ich kann mit quantitativen Methoden unterschiedliche Fragestellungen loswerden.
+[00:23:48-5 @sandrarichter] Also ich kann mit quantitativen Methoden unterschiedliche Fragestellungen bearbeiten.
+[00:23:53-5 @sandrarichter] Also etwa welche Begriffe tauchen auf, welche Begriffe korrelieren wie besonders stark?
+[00:24:00-6 @sandrarichter] Ich nehme ein anderes Beispiel als die Poetiken.
+[00:24:03-7 @sandrarichter] Etwa in Schillers berühmtem fragmentarischen Text „Der Geisterseher“ taucht der Begriff „jetzt“ sehr oft auf.
+[00:24:12-8 @sandrarichter] Das ist ein deiktischer Ausdruck, ich erfahre, eben jetzt passiert irgendwas und der korreliert vor allem mit Begriffen, die Gefahr nahelegen.
+[00:24:23-2 @sandrarichter] Also Umsturz oder Unruhe und solche Dinge.
+[00:24:26-8 @sandrarichter] Also das „Jetzt“ ist offenbar relevant und da passiert jeweils was, da ist man als Interpretationswissenschaftler geneigt, dann zu sagen,
+[00:24:33-2 @sandrarichter] ja aber was passiert jetzt und was sind das für Textstellen und wieso ist das so?
+[00:24:37-4 @sandrarichter] Also zum einen ist es eine Suchmaschine und zum anderen weist es aber eben auch so auf Dinge hin, dass man gleichzeitig bestimmte Befunde erhalten kann.
+[00:24:47-5 @sandrarichter] Ich muss nicht darüber spekulieren, dass da dieser deiktische Ausdruck besonders wichtig ist, sondern ich kann es belegen mit Zahlen.
+[00:24:55-6 @sandrarichter] Welche Häufigkeit der hat und wie der wo mit was korreliert.
+[00:24:59-5 @sandrarichter] Und da finde ich in diesem Bereich, da stehen wir zum Teil tatsächlich noch am Anfang, auszuloten was das nun eigentlich heißt.
+[00:25:08-3 @sandrarichter] Dass es da Begriffe gibt, die miteinander in Verbindung stehen oder die auch im Verlauf eines Textes in bestimmter Häufigkeit auftauchen.
+[00:25:15-5 @sandrarichter] Das ist eine Fragerichtung, meine ich, die noch sehr viel produktives hervorbringen kann und die vor allem verbunden werden muss mit Erklärungs- oder Interpretationshypothesen.
+[00:25:28-7 @sandrarichter] Man kann literarische Texte gegen normalsprachliche Corpora laufen lassen und sich fragen, inwiefern unterscheiden die sich von Normalsprache?
+[00:25:35-3 @sandrarichter] Was ist eigentlich das ästhetische Element dabei?
+[00:25:36-5 @timpritlove] Was heißt das Corporal?
+[00:25:37-9 @sandrarichter] Normalsprachliche Corpora, also größere Textmengen in Normalsprache.
+[00:25:44-6 @sandrarichter] Also beispielsweise ich möchte herausbekommen, was den Goethe so außergewöhnlich macht.
+[00:25:48-5 @sandrarichter] Und dann habe ich auf der einen Seite das digitalisierte Werk Goethes und auf der anderen Seite ein typisches digitalisiertes Corpus in Normalsprache der Zeit.
+[00:25:59-5 @sandrarichter] Das ist ein bisschen schwierig, weil kaum jemand hat so gesprochen wie die Schriftsprache war in der Zeit.
+[00:26:04-2 @sandrarichter] Aber zumindest kann ich herausfinden, wie sich Goethe von der Schriftsprache der Zeit unterscheidet, Zeitungsartikel oder so etwas.
+[00:26:10-9 @sandrarichter] Und kann dann sagen, ah das machte offenbar Literatur aus.
+[00:26:14-5 @sandrarichter] Man kann das natürlich auch mit Gegenwartstexten machen und sieht dann etwa, ist Literatur besonders begabt darin, bestimmte Metaphern zu erfinden oder was ist das,
+[00:26:26-7 @sandrarichter] was so besonders ist an ihr?
+[00:26:28-3 @sandrarichter] Und das ist eine Frage, die reizt mich sehr.
+[00:26:32-6 @sandrarichter] Man kann sie mit digitalen Methoden bearbeiten, aber auch natürlich mit analogen.
+[00:26:37-1 @sandrarichter] Und man muss nicht immer gleich digital werden, oft reicht das analoge auch aus und ist für sich auch spannend, aber die Verbindung ist für sich genommen methodisch nochmal reizvoll.
+[00:26:45-6 @timpritlove] Und man erzählt mindestens erst mal ein neues Werkzeug, um hier intensiver zu arbeiten und vielleicht auch Sachen einfach mal zu betrachten,
+[00:26:53-0 @timpritlove] die so vorher überhaupt nicht leistbar waren.
+[00:26:55-1 @sandrarichter] Genau.
+[00:26:56-2 @timpritlove] Jetzt haben wir es ja schon erwähnt, Sie ereilte der Ruf nach Marbach zum Literaturarchiv.
+[00:27:03-9 @timpritlove] Was ist das Deutsche Literaturarchiv?
+[00:27:07-1 @timpritlove] Was sollte man darüber verstanden haben?
+[00:27:11-7 @sandrarichter] Das Deutsch Literaturarchiv Marbach ist ein Ort, an dem zurzeit etwa 1.400 Vor- und Nachlässe von Autoren liegen, die in deutscher Sprache publiziert haben.
+[00:27:23-2 @sandrarichter] 36 Verlagsarchive finden sich dort.
+[00:27:27-0 @sandrarichter] 450.000 Objekte, ungezählte Audiodateien.
+[00:27:33-5 @sandrarichter] Die wohl größte und umfangreichste Fachbibliothek der Germanistik.
+[00:27:39-4 @sandrarichter] Sie sehen ein vielschichtiges Institut, das zum einen sammelnde Funktion hat und damit eine Infrastruktur ist, eine Informationsinfrastruktur, eine sehr komplexe.
+[00:27:52-9 @sandrarichter] Zum anderen aber auch, weil sie so komplex ist, immer auch ein außeruniversitäres Forschungsinstitut ist.
+[00:27:58-9 @sandrarichter] Man kann dort, weil es um Vor- und Nachlässe geht, um unikale Materialien, nicht einfach nur Dinge ins Regal legen, sondern man muss sie immer erst erschließen.
+[00:28:08-4 @sandrarichter] Beispiel, Sie haben irgendein Papier vor sich aus dem 19. Jahrhundert und stellen fest, die Handschrift kommt mir bekannt vor und fragen sich,
+[00:28:16-0 @sandrarichter] wer ist es gewesen und kommen vielleicht auf die Idee, es könnte Schiller sein.
+[00:28:19-7 @sandrarichter] Dann gucken Sie genauer hin, sehen aber, es ist eine Fälschung oder aber vielleicht auch nicht.
+[00:28:25-0 @sandrarichter] Das sind komplexe Fragen, da brauchen Sie natürlich jeweils ein Fachwissen.
+[00:28:28-6 @sandrarichter] Mit anderen Worten, Infrastruktureinrichtung, außeruniversitäres Forschungsinstitut und zugleich gibt es 1.500 Quadratmeter Museen, in denen Literatur ausgestellt wird.
+[00:28:41-3 @sandrarichter] Also damit auch eine Einrichtung, die für die Öffentlichkeit und die Öffentlichkeitsarbeit der Literatur zuständig ist.
+[00:28:49-5 @sandrarichter] Eine multifunktionale komplexe Einrichtung.
+[00:28:52-1 @timpritlove] Gibt es vergleichbare Archive noch in Deutschland?
+[00:28:56-1 @sandrarichter] Es gibt vergleichbare Archive, die aber zeitlich anders sammeln.
+[00:29:00-1 @sandrarichter] Also etwa die Stiftung Weimarer Klassik, die das Erbe Schillers, Goethes und anderer verwaltet in Weimar und damit aber auch eine abgeschlossene Sammlung zu bieten hat.
+[00:29:12-2 @sandrarichter] Wir haben das nicht.
+[00:29:14-3 @sandrarichter] Wir sammeln in die Gegenwart hinein.
+[00:29:15-9 @sandrarichter] Wir sammeln bis hin zu den allerneusten Formen und Farben sozusagen der Literatur.
+[00:29:24-5 @sandrarichter] Unsere Aufgabe ist es, in den Bereich Bibliothek, in die Zukunft hineinzuschauen und zu fragen, was kommt künftig?
+[00:29:30-5 @sandrarichter] Und damit auch zu sondieren, was legen wir als größeren Bestand, als Vor- oder Nachlass tatsächlich dann ins Archiv?
+[00:29:38-5 @sandrarichter] Und diese Aufgabe erfüllen in diesem Sinne einige der größeren Bibliotheken auch noch und gelegentlich.
+[00:29:48-0 @sandrarichter] Autoren finden gelegentlich auch Eingang mit ihren Vor- und Nachlässen in die Staatsbibliothek in München oder in Berlin oder in Hamburg,
+[00:29:56-9 @sandrarichter] aber wir sind da, muss man sagen, der größte Ort in Deutschland, der dieses Geschäft betreibt und vergleichbar dann vielleicht mit dem Schweizer Literaturarchiv oder dem österreichischen,
+[00:30:08-2 @sandrarichter] die beide kleine sind, aber gleichwohl natürlich auch wichtig.
+[00:30:13-4 @timpritlove] Jetzt speichert man ja nicht einfach alles ab, was irgendwie Text ist, sondern das muss ja in irgendeiner Form auch eine Qualitätsschwelle oder eine Relevanzschwelle geben,
+[00:30:23-7 @timpritlove] die jetzt sagt, okay das ist jetzt aber auch wirklich archivierungswürdig.
+[00:30:27-6 @timpritlove] Wie sieht denn so was konkret aus?
+[00:30:29-9 @timpritlove] Also gibt es da sozusagen eine große Zahl von Mitarbeitern, die das permanent bewertet oder sind das einfach mehr oder weniger automatisierte Quellen,
+[00:30:39-0 @timpritlove] so nach dem Motto, jedes Buch, was irgendwie gedruckt ist, das ist schon mal würdig aufgenommen zu werden und dann hat man alles voll mit Liebesromanen?
+[00:30:48-1 @sandrarichter] Da sind wir tatsächlich sehr selektiv.
+[00:30:50-6 @sandrarichter] Wie eben angedeutet, ist es ein mehrstufiger Prozess.
+[00:30:53-7 @sandrarichter] Zunächst einmal gibt es die Abteilung Bibliothek und die Abteilung Bibliothek versucht natürlich, möglichst vollständig zu sammeln um die deutschsprachige Literatur herum.
+[00:31:02-0 @sandrarichter] Das gilt aber für die ästhetisch ambitionierte Literatur, nicht etwa für die große Zahl der Texte, die sich per se und ohnehin verkauft.
+[00:31:12-8 @sandrarichter] Also etwa Rosamunde Pilcher liegt auch in den Texten, in ihren Romanen im Archiv, aber nur weil sie als eine der Beispielautoren gilt für die sich gut verkaufende Literatur.
+[00:31:23-1 @sandrarichter] Ich vermeide den Begriff Trivialliteratur, weil er nicht besonders glücklich ist.
+[00:31:27-9 @sandrarichter] Diese Autoren gucken wir uns immer partiell an.
+[00:31:30-5 @sandrarichter] Schönes Beispiel ist auch Volker Kutscher, der die Vorlage für Babylon Berlin sozusagen geschrieben hat.
+[00:31:36-2 @sandrarichter] Das gucken wir uns schon auch immer an, wird aber nicht im Archivbereich gesammelt, sondern das geht partiell in die Bibliothek.
+[00:31:42-9 @sandrarichter] Im Archivbereich haben wir eine Liste von Autoren, die wir beobachten und das tut nicht nur ein Kollege, sondern das tun tatsächlich mehrere.
+[00:31:52-5 @sandrarichter] Und wir diskutieren in regelmäßigen Abständen, was und wer denn ins Archiv hinein könnte, wer zu sammeln ist.
+[00:32:00-0 @sandrarichter] Da bedarf es zum Beispiel einiger Literaturpreise.
+[00:32:05-0 @sandrarichter] Das ist ein nicht unbedingt hinreichendes Merkmal, aber doch eins, was notwendig ist, um zu sehen, ach da ist jemand wirklich bedeutsam.
+[00:32:13-8 @sandrarichter] Bedeutsamkeit ist so ein Wort, was wir gerne nutzen.
+[00:32:17-1 @sandrarichter] Das muss uns nicht immer gefallen, was die Leute schreiben, wir müssen dem auch nicht zustimmen, aber jemand muss diskutiert werden,
+[00:32:24-5 @sandrarichter] muss relevant sein, muss ästhetisch in besonderer Weise irgendwie etwas angestoßen haben.
+[00:32:32-6 @sandrarichter] Und das wird gemeinsam diskutiert und nach und nach entscheiden wir, wer tatsächlich dann ins Archiv kommen könnte.
+[00:32:40-8 @sandrarichter] Und natürlich sammeln wir dabei nicht nur Autoren, die jetzt noch leben oder künftig leben werden, sondern immer auch wiederum altes,
+[00:32:48-2 @sandrarichter] wir ergänzen auch die alten Sammlungen.
+[00:32:50-5 @sandrarichter] Und aus dieser Ergänzungsnotwendigkeit wird auch manches andere und manches neue Geschäft.
+[00:32:55-7 @sandrarichter] Autoren haben Verbindungen zu anderen und man möchte dann diese anderen Autoren, die mit den irgendwie in Verbindung stehen, auch ins Archiv legen.
+[00:33:04-0 @timpritlove] Das heißt, es macht sich mehr an den Autoren fest als an den Werken selbst?
+[00:33:07-6 @timpritlove] Also klar, die Werke, die geschrieben werden, sind natürlich dann entscheidend für Preise etc., aber wenn man sozusagen einmal diese Relevanzhürde genommen hat
+[00:33:14-1 @timpritlove] als Person, als Autorin oder Autor, dann kann man danach auch … kriegt man auch seine ganzen Arztromane noch unter?
+[00:33:23-2 @sandrarichter] Es ist ein, glaube ich, bisher ein Fall, der mir so noch nicht untergekommen ist.
+[00:33:27-7 @sandrarichter] Es gibt immer wieder Autoren, die auch mal einen Text schreiben, weil man dafür Geld kriegt, aber das ist bei dem Portfolio, was wir so sammeln, eigentlich nicht der Fall.
+[00:33:37-2 @sandrarichter] Sondern die Autoren müssen schon mehr als einen Roman geschrieben haben, die müssen über eine gewisse Zeit relevant sein.
+[00:33:44-7 @sandrarichter] Es wäre natürlich schön, wenn man auch sagen könnte, naja so 30-40 Jahre so nach den wesentlichen Werken da guckt man mal und dann nimmt man die Sachen auf.
+[00:33:52-2 @sandrarichter] Aber tatsächlich sind wir näher dran und mit vielen Autoren, die gegenwärtig schöne Sachen schreiben, interessante Sachen schreiben, auch bereits im Gespräch
+[00:34:01-2 @sandrarichter] mehr oder minder offen über die Vorlässe oder künftigen Nachlässe, das sind Gespräche, die man über lange Zeit führt.
+[00:34:08-7 @sandrarichter] Und da geht es natürlich auch darum, immer wieder um Vertrauen zu werben.
+[00:34:12-1 @sandrarichter] Denn denken Sie, wenn ein Autor, eine Autorin seinen Bestand, ihren Bestand zu uns gibt, die möchte natürlich auch wissen, werden die Sachen da gut betreut,
+[00:34:24-0 @sandrarichter] passiert damit was?
+[00:34:24-7 @sandrarichter] Also eine gute Frage ist immer oder eine interessante Frage für Autoren ist immer, werden meine Dinge denn auch ausgestellt werden, gibt es da eine Diskussion?
+[00:34:32-8 @sandrarichter] Kümmert ihr euch darum, dass Forscher an die Sachen herankommen?
+[00:34:38-1 @sandrarichter] Das ist eine ganz wichtige Aufgabe, dann tatsächlich Doktoranden, Forscher aus alle Welt an die Dinge hinzuführen und zugleich den Autoren zu signalisieren,
+[00:34:47-3 @sandrarichter] ja natürlich wir kümmern uns darum, das ist eine Forschungsaufgabe für uns.
+[00:34:50-9 @timpritlove] Also es ist vor allem auch nicht so eine Einbahnstraße, dass Sie jetzt quasi als Archiv entscheiden, so ah okay, hier du bist jetzt relevant, gib mal her,
+[00:34:58-0 @timpritlove] dass die dann alles bereitwillig herausgeben.
+[00:35:00-4 @timpritlove] Also klar, das Publizierte ist natürlich in gewisser Hinsicht verfügbar, aber es geht ja um mehr als das.
+[00:35:04-0 @timpritlove] Man will ja vielleicht dann auch Manuskripte haben, Dinge, die jetzt sozusagen in diesem Schaffensprozess selber noch begleitet haben.
+[00:35:13-0 @timpritlove] Und da muss man sozusagen dieses Vertrauen, wenn ich es richtig verstanden habe, erst mal aufbauen, so nach dem Motto, hier wir sind auch relevant
+[00:35:16-8 @timpritlove] und wir wissen auch, was wir tun und gehen da sorgsam mit um, wenn ich das richtig verstehe?
+[00:35:25-3 @sandrarichter] Zum Teil ist dieses Vertrauen natürlich schon da.
+[00:35:27-7 @sandrarichter] Manche mögen auch ganz gern den Gedanken, dass sie mal in so einem Archiv liegen werden und stellen allerlei Dinge an, um dann mit uns ins Gespräch zu kommen.
+[00:35:36-6 @sandrarichter] Es gibt die unterschiedlichsten Konstellationen.
+[00:35:38-4 @sandrarichter] Mitunter gibt es sogar Autoren, die dann für ihr Archiv schreiben, ist ja auch schön.
+[00:35:42-0 @sandrarichter] Sie haben so einen Archivar und der kümmert sich um die Sachen und der weiß auch alles, der weiß wo was liegt und man muss sich nicht selber um diese ganzen lästigen Dinge kümmern.
+[00:35:50-5 @sandrarichter] Ganz großartig.
+[00:35:52-1 @sandrarichter] Etwa Peter Rümkow, auch das war so einer.
+[00:35:54-2 @sandrarichter] Das ist einer der ersten Vorlassgeber gewesen, das ist ein riesiger Vorlass und tatsächlich hat er gesagt, er schreibt vor allem für sein Archiv.
+[00:36:01-6 @sandrarichter] Und das ist ja auch ein Kompliment, würde ich sagen, für das deutsche Literaturarchiv.
+[00:36:06-7 @sandrarichter] Die Archivare identifizieren sich sehr stark damit, die sind Teil des Literaturbetriebs, wenn man so will.
+[00:36:12-6 @sandrarichter] Tauchen mitunter auch mal im Roman auf, weil die Beziehung dann zum Autor mitunter sehr sehr eng ist.
+[00:36:19-0 @sandrarichter] Sehr schönes Beispiel ist auch Hans Magnus Enzensberger, der zunächst einmal behauptete, er hätte eigentlich gar nicht so viele Dinge
+[00:36:26-3 @sandrarichter] und als er dann in seinen Keller ging, entdeckte er vieles und seitdem nennt er sein Hausarchiv und das, was bei uns liegt, zärtlich seinen Komposthaufen,
+[00:36:34-8 @sandrarichter] aus dem das ein oder andere erwächst, ist schon ein Roman daraus entstanden.
+[00:36:40-7 @timpritlove] Naja, Komposthaufen ist ja eigentlich was sehr dynamisches.
+[00:36:44-1 @sandrarichter] Eben, eben das lebt, auch wenn einem nicht immer klar ist, was sich da so befindet, man manches auch gar nicht so genau wissen will,
+[00:36:49-7 @sandrarichter] inklusive der bibliologischen Prozesse, aber es ist doch Dynamik drin.
+[00:36:53-8 @timpritlove] Um das vielleicht mal quantitativ zu erfassen, wieviele lebende Autoren sind denn sozusagen in diesem Sammelstrom derzeit drin?
+[00:37:05-1 @timpritlove] Reden wir hier von einer zweistelligen, einer dreistelligen oder einer vier- oder noch viel größerstelligen Zahl?
+[00:37:11-5 @sandrarichter] Einer zweistelligen Zahl.
+[00:37:13-0 @timpritlove] Das ist also schon sehr selektiv, wenn ich das mal so sagen darf?
+[00:37:15-5 @sandrarichter] Das ist schon sehr selektiv und es gibt nun auch noch andere Archive, die sich mitunter auch sehr bemühen um einzelne.
+[00:37:23-0 @sandrarichter] Und natürlich Autoren au Österreich, Autoren aus der Schweiz landen gerne auch in den Archiven in Bern oder in Wien.
+[00:37:29-6 @sandrarichter] Peter Handke etwa ist dominant natürlich in Wien und da spricht man sich auch gerne ab und überlegt, was da wohin gehört, das ist auch ein Teil des Geschäftes.
+[00:37:41-1 @sandrarichter] Wesentlicher Partner dabei ist etwa die National Library of Israel, die die Bestände im Bereich der deutsch-jüdischen Autoren mit bespielt
+[00:37:50-4 @sandrarichter] und wir teilen die sozusagen unter uns und immer, wenn wir etwas sehen von Max Brod, dann werden wir mit den Kollegen in Kontakt kommen und diese Kontakt auch suchen
+[00:38:00-7 @sandrarichter] und umgekehrt wird man das dann gemeinsam versuchen zu lösen, wenn etwa so ein Problem auftaucht wie, auf dem Nachlassmarkt, auf dem Autographenmarkt
+[00:38:08-4 @sandrarichter] findet man jetzt etwas, was für mehrere Parteien interessant sein könnte.
+[00:38:12-2 @timpritlove] Schauen wir vielleicht mal auf den anderen Weg, dass diese Informationen aus diesem Archiv auch wieder herausgehen.
+[00:38:17-5 @timpritlove] Wie sieht die Zusammenarbeit jetzt aus konkret mit Wissenschaftlern?
+[00:38:22-4 @timpritlove] Auf welcher Basis kann man da mit diesem Archiv zusammenarbeiten, wie läuft das ab?
+[00:38:27-0 @sandrarichter] Wir unterbreiten vielfältige Angebote.
+[00:38:29-5 @sandrarichter] Zum einen haben wir ein großes Stipendienprogramm, man kann sich bewerben, man kann zwei-drei Monate bei uns arbeiten
+[00:38:36-4 @sandrarichter] und das tut man am besten auf der Grundlage von Katalogrecherchen, möglicherweise auch guckt man schon mal so gut es geht ins Material rein.
+[00:38:44-0 @sandrarichter] Manches ist digitalisiert, noch bei weitem nicht so viel wie ich gerne hätte, aber wir werden in diese Richtung weitergehen.
+[00:38:50-3 @sandrarichter] Der Katalog wird gerade neu gebaut und wird sicherlich ein sehr schöner, schon sehr flexibler Katalog sein, wo man vieles suchen und finden kann,
+[00:39:00-6 @sandrarichter] Dinge verlinken kann und dann bewirbt man sich mit solchen Proposal für Stipendien und dergleichen oder kommt einfach so mit eigenem Geld, auf eigene Kosten vorbei
+[00:39:12-4 @sandrarichter] und kann jederzeit mit uns, sofern man sagt, ich habe dieses und jenes Interesse, möchte dieses und jenes angucken, ins Gespräch kommen,
+[00:39:20-0 @sandrarichter] bei uns recherchieren, sich Dinge digitalisieren lassen, wie auch immer, je nachdem was das für ein Bestand ist.
+[00:39:25-9 @sandrarichter] Mitunter sind es schwierige Bestände, die auch urheberrechtlich nicht trivial sind, speziell wenn die Autoren noch leben oder noch nicht 70 Jahre tot sind,
+[00:39:33-9 @sandrarichter] da muss man sich rückversichern, dass man die auch angucken darf.
+[00:39:39-6 @sandrarichter] Aber das ist alles möglich und wir versuchen, in dem Bereich alles zur Verfügung zu stellen.
+[00:39:44-0 @sandrarichter] Wir organisieren auch mit Kollegen oder auch alleine Tagungen, haben zahlreiche Zusammenarbeiten mit Instituten im In- und Ausland,
+[00:39:54-1 @sandrarichter] universitär und außeruniversitär, verfolgen unsere eigenen Forschungslinien, in die wir natürlich Kollegen auch versuchen einzubeziehen.
+[00:40:02-3 @timpritlove] Außeruniversitäre im Sinne von was ist das dann?
+[00:40:05-2 @timpritlove] Also wer tritt an das Archiv heran, der nicht in einem universitären Forschungs- und konkret vielleicht auch literaturwissenschaftlichen Kontext unterwegs ist?
+[00:40:14-4 @timpritlove] Ist sicherlich die Minderheit?
+[00:40:15-6 @sandrarichter] Ich nenne mal zwei Einrichtungen, nein das sind tatsächlich ziemlich viele.
+[00:40:19-6 @sandrarichter] Zwei Einrichtungen, mit denen wir unmittelbar gerade zusammenarbeiten, das ist das Höchstleistungsrechenzentrum in Stuttgart,
+[00:40:27-7 @sandrarichter] die haben einen der größten Rechner in der Bundesrepublik und großes Interesse an Texten, Textverarbeitung,
+[00:40:33-4 @sandrarichter] mit denen haben wir zusammen ein Projekt über Born Digitals, also über Texte, die nicht mehr mit der Hand geschrieben werden, sondern die per se digital entstehen.
+[00:40:44-8 @sandrarichter] Im Computer durch bestimmte Software und so weiter und so weiter.
+[00:40:49-6 @sandrarichter] Ein anderes Beispiel ist das Institut für Wissensmedien in Tübingen, ein Leibniz-Institut, das vor allem von Wissenspsychologen, von Psychologen,
+[00:40:57-8 @sandrarichter] die sich für Medien interessieren, betrieben wird und die mit uns gemeinsam Leser beforschen.
+[00:41:03-9 @sandrarichter] Wir fragen uns, wie lesen wir heute Texte?
+[00:41:07-3 @sandrarichter] Für uns eine eminent wichtige Frage, das Archiv enthält viele viele Lesespuren und Lesezeugnisse, Glossen, Korrespondenzen und so weiter
+[00:41:15-1 @sandrarichter] und wir wollen wissen, wie geht das eigentlich heute?
+[00:41:17-6 @sandrarichter] Wie lesen Menschen in einer medialen Umbruchssituation noch Texte?
+[00:41:22-6 @sandrarichter] Das machen wir mit denen zusammen.
+[00:41:25-7 @timpritlove] Ja, da kann man den Elefanten im Raum ja auch gleich mal hervorholen.
+[00:41:29-9 @timpritlove] So das Zauberwort Digitalisierung meint viel und nicht immer sind sich alle darüber einig, was es denn nun eigentlich genau beschreiben soll.
+[00:41:39-7 @timpritlove] Aber dieses klassische analoge Spiel mit den Büchern ist natürlich etwas, jetzt auf vielen Vektoren eigentlich dieser Digitalisierung ausgesetzt ist,
+[00:41:51-2 @timpritlove] konkret im Markt natürlich in der Konkurrenz zu all dem Digitalen, was sonst noch herumfliegt im Internet, Spielen etc.,
+[00:41:57-4 @timpritlove] aber natürlich ist auch der Prozess selber sowohl des Schreibens als auch des Lesens in zunehmendem Maße digitalem Wandel ausgesetzt.
+[00:42:07-2 @timpritlove] Was, haben Sie ja schon angesprochen, so einiges ist digital, manches sollte es noch werden, wie stehen Sie denn erst mal zu dem Begriff?
+[00:42:19-7 @timpritlove] Und was triggert der im Kontext Ihrer Arbeit bei Ihnen?
+[00:42:28-1 @sandrarichter] Der Begriff Digitalisierung triggert unmittelbar, um Himmels Willen, wir brauchen mehr Scanner, wir brauchen mehr Personal, das sich an diese stellt
+[00:42:34-3 @sandrarichter] und unsere unikalen Materialien auf diese Dinge tut und am besten gleich die Metadaten abliefert.
+[00:42:42-9 @sandrarichter] Also am besten, Sie scannen Metadaten raus, die werden nochmal bearbeitet, ab in den Katalog und das Textbild hochladen
+[00:42:51-2 @sandrarichter] und zugleich aber auch die Volltextversion, die dann bearbeitbar ist, mit der man umgehen kann.
+[00:42:57-0 @sandrarichter] Das wäre eigentlich meine Traumwelt, sozusagen Archiv digital.
+[00:42:58-5 @timpritlove] Das findet aber auch schon statt?
+[00:43:00-8 @sandrarichter] Das findet auch statt, aber bei weitem nicht so schnell wie es sollte.
+[00:43:04-9 @sandrarichter] Denn wir bekommen ständig neue Nach- und Vorlässe, wir hinken sozusagen notorisch hinterher.
+[00:43:11-2 @sandrarichter] Und manche Arbeit müssen wir vielleicht nicht machen, weil das Bücherscannen das können manche Bibliotheken natürlich schneller und besser.
+[00:43:17-7 @sandrarichter] Staatsbibliothek Berlin etwa ist da ganz gut ausgestattet.
+[00:43:23-7 @sandrarichter] Das müssen wir vielleicht nicht machen, aber das unikale Material, das ist sicherlich primär unsere Aufgabe, dieses zu erschließen und zugänglich zu machen.
+[00:43:29-9 @timpritlove] Also das, was nur Sie haben?
+[00:43:31-7 @sandrarichter] Das, was nur bei uns ist und das ist natürlich schwierig.
+[00:43:34-2 @sandrarichter] Das können Sie nicht ohne weiteres auf einen Scanner legen.
+[00:43:37-0 @sandrarichter] Das ist manchmal brüchig, das ist ein schwieriger Text.
+[00:43:39-2 @sandrarichter] Früher hat man das vermikrofichet, heute scannt man es und retrodigitalisiert es und das ist wirklich eine große Aufgabe.
+[00:43:47-7 @sandrarichter] Oft ist es handschriftliches Material, dafür gibt es kein OCR, also keine Optical Character Recognition, das gibt Ihnen nicht unbedingt gleich den Text ausgedruckt oder dann digital,
+[00:43:59-8 @sandrarichter] in dem Sie das haben wollen, sondern das muss man dann erst bearbeiten.
+[00:44:05-0 @sandrarichter] Also hier ist noch viel zu erledigen, viel zu tun, um diesen Prozess der Digitalisierung von Material, an den ich denke, wenn ich das Wort Digitalisierung höre, so aufzusetzen,
+[00:44:16-7 @sandrarichter] dass er tatsächlich befriedigend für uns, für Nutzer und so fort wäre, so dass das Material auch gleich beforschbar ist.
+[00:44:24-9 @sandrarichter] Man muss auch noch berücksichtigen, wenn wir was digitalisieren, müssen wir das eventuell zunächst wiederum konfiszieren, weil es rechtlich problematisch ist.
+[00:44:35-5 @sandrarichter] Etwa wenn der Text noch nicht 70 Jahre alt ist und der Autor noch nicht 70 Jahre tot, dann wird es schwierig.
+[00:44:39-9 @sandrarichter] Dann können wir das eigentlich nur zur internen Nutzung freigeben und es gar nicht online stellen, da haben wir nur eventuell die Metadaten,
+[00:44:47-0 @sandrarichter] die wir dann zumindest zur Verfügung stellen können und dann ginge es weiter.
+[00:44:51-1 @sandrarichter] Das ist das Stichwort Digitalisierung.
+[00:44:54-7 @sandrarichter] Dass allerdings in der wirklichen Welt mit diesem Wort noch viel mehr umschlossen wird, Bereiche, die ich vielleicht eher so grob mit dem Stichwort Digitalität auszeichnen würde.
+[00:45:05-9 @sandrarichter] Wie etwa, wie forschen wir mit diesem Material?
+[00:45:09-6 @sandrarichter] Wie machen wir tiefe Textanalyse und vergleichbares?
+[00:45:12-8 @sandrarichter] Wie stellen wir sowas auch aus?
+[00:45:14-8 @sandrarichter] Also wie machen wir unseren Besuchern, den Interessenten, all denen, die sich für Literatur interessieren, Literatur digital zugänglich?
+[00:45:24-0 @sandrarichter] Das sind nochmal ganz andere Welten, die für mich nicht unter das Stichwort Digitalisierung passen.
+[00:45:27-4 @sandrarichter] Digitalisierung ist für mich ein sehr stark technischer Begriff, der vor allem diesen Prozess bezeichnet und zugleich auf ein Problem hinweist,
+[00:45:37-6 @sandrarichter] das allerdings nicht so richtig unter diesen Begriff fällt,
+[00:45:40-8 @sandrarichter] nämlich die Frage, was tun wir mit unseren Born Digitals, mit den eben primär digitalen Materialien?
+[00:45:47-3 @timpritlove] Ich höre viele Fragen.
+[00:45:53-7 @timpritlove] Da muss man sich natürlich Gedanken über die Antworten machen.
+[00:45:55-5 @timpritlove] Um es vielleicht mal kurz aufzubrechen, in der Reihenfolge, wie Sie es jetzt auch erwähnt haben.
+[00:46:00-1 @timpritlove] Also dieser Digitalisierungsprozess im Sinne von, wir erfassen jetzt überhaupt erst mal unser Material, ist natürlich sicherlich dann auch nochmal eine ganz interessante Beschäftigung
+[00:46:07-9 @timpritlove] wiederum mit der Informatik, also an der Stelle könnte man ja nun wirklich sagen, so hier werft euch doch mal hier auf die Handschriften, das wäre jetzt mal …
+[00:46:16-7 @timpritlove] Weil OCR von Gedrucktem und so kann ja jeder, das findet sicherlich auch schon in irgendeiner Form statt, nehme ich an?
+[00:46:24-8 @sandrarichter] Ja. Das findet statt und wie gesagt, das ist auch, würde ich eher bei den großen Bibliotheken sehen.
+[00:46:28-7 @sandrarichter] Wir haben mit dem unikalen Material genug zu tun.
+[00:46:34-0 @sandrarichter] Aber tatsächlich mein Traum wäre so was wie eine digitale Erschließung von handschriftlichem Material, dass die zugleich auch zumindest, sagen wir,
+[00:46:43-7 @sandrarichter] einen Satz von Metadaten so liefert, dass man dann damit gleich arbeiten kann.
+[00:46:47-5 @timpritlove] Welche Metadaten hätten Sie denn gern?
+[00:46:49-5 @sandrarichter] Möglichst komplexe und möglichst viele und ich meine auch, die Forscher sind da aufgefordert, sich zu fragen, welche Metadaten brauchen wir eigentlich?
+[00:46:58-1 @sandrarichter] Also ich möchte natürlich wissen, Autor/Autorin, Adressat, Ort, Jahr, wann geschrieben, wo an wen, vielleicht dann auch wo veröffentlicht
+[00:47:07-9 @sandrarichter] wer hat darüber schon mal geforscht, kann man das eventuell mit der Forschung verlinken?
+[00:47:13-1 @sandrarichter] Bei unikalem Material hoch interessant, über welches Auktionshaus ist das gegangen, was hat das gekostet, wo kommt das her?
+[00:47:19-5 @sandrarichter] Können Sie noch Provenienzen beforschen und und und.
+[00:47:24-4 @sandrarichter] Die Fragen sind sozusagen ad infinitem weiterzutreiben.
+[00:47:29-4 @sandrarichter] Ein Metadatum ist natürlich auch immer ein Primärdatum für die Forschung.
+[00:47:34-0 @timpritlove] Sei erwähnten das Urheberrecht, damit haben ja so einige Bereiche unserer Gesellschaft auch erhebliche Probleme, außer den Urhebern meistens.
+[00:47:44-2 @timpritlove] Wie stehen Sie denn so dazu, dass Urheberrecht noch 70 Jahre nach dem Tod gilt?
+[00:47:50-8 @sandrarichter] Ich nehme das erst mal zur Kenntnis und dann fällt mir auf, dass die deutschsprachige Literatur, wenn man das an der mal festmachen möchte, eine große Zeit erlebte,
+[00:48:03-7 @sandrarichter] als das Urheberrecht als solches eingeführt wurde.
+[00:48:05-8 @sandrarichter] Denn im 18. Jahrhundert hat man immer wieder sich gefragt, tja aber wem gehört der Text?
+[00:48:13-7 @sandrarichter] Jemand wie Goethe hat da also heftig gekämpft, um das Urheberrecht mit tatsächlich auf die Agenda zu heben.
+[00:48:20-7 @sandrarichter] Der wollte natürlich mit seinen Texten was verdienen.
+[00:48:23-5 @sandrarichter] Und wenn dem Verleger das Recht am Text gehört, ist das ein bisschen schlecht.
+[00:48:26-0 @sandrarichter] So war das damals, und so ist die Situation für Autoren sicherlich auch heute.
+[00:48:32-0 @sandrarichter] Wie kriege ich das hin, mit meinem Geschriebenen irgendwas zu verdienen?
+[00:48:36-1 @sandrarichter] Und da haben wir noch nicht wirklich ein Modell entwickelt, das befriedigend ist, glaube ich, für keine Seite.
+[00:48:40-1 @sandrarichter] Natürlich möchte ich als Forscherin Texte möglichst schnell zur Verfügung haben und das Urheberrecht ist eigentlich was ärgerliches.
+[00:48:47-4 @sandrarichter] Aber auf der anderen Seite sehe ich die Produzenten, die in irgendeiner Form auch für das honoriert werden wollen was sie tun.
+[00:48:54-6 @timpritlove] Ja, aber doch nicht 70 Jahre nachdem sie tot sind.
+[00:48:57-7 @sandrarichter] Ja, da leben dann vielleicht noch andere davon, die dann wiederum anderes mit solchen Texten finanzieren.
+[00:49:03-7 @sandrarichter] Also mancher Verlag lebt noch von dem großen Autor, der um 1900 geboren wurde und da einen Nobelpreis gekriegt hat und so weiter.
+[00:49:14-5 @timpritlove] Das tun sie, die Frage ist, tun sie das zurecht?
+[00:49:16-6 @sandrarichter] Das ist eine sehr interessante Frage, nun bin ich …
+[00:49:18-0 @timpritlove] Oder sagen wir mal, zurecht auf jeden Fall, weil das ist ja das Recht, die Frage ist die Legitimität, weil natürlich dieses ausufernde Urheberrecht,
+[00:49:27-6 @timpritlove] dieser Zeitraum hat sich ja in den letzten Jahren immer weiter verlängert, scheint ja eigentlich nur dafür gemacht zu sein, dass eben Verlage dann noch lange ihr Geld mit machen.
+[00:49:38-1 @timpritlove] Aber schadet es nicht dann auch wiederum der Forschung?
+[00:49:43-4 @sandrarichter] Für die Forschung ist das auf jeden Fall nicht gut.
+[00:49:44-1 @sandrarichter] Die Forschung braucht natürlich möglichst große Textmengen und sie braucht bestimmte Texte und sie braucht die Dinge möglichst gleich und nicht mit großer Verzögerung.
+[00:49:53-7 @sandrarichter] Mitunter ist es so, dass sie zur Forschungszwecken allerdings auch Texte bekommen, die im normalen Handel dann nicht zugänglich sind.
+[00:50:01-6 @sandrarichter] Also wir können auch natürlich mit Autoren arbeiten, dann bekomme ich diesen und jenen Text etwa in digitaler Form, kann ich damit arbeiten.
+[00:50:10-4 @sandrarichter] Das gelingt häufig auch.
+[00:50:11-7 @sandrarichter] Aber man muss sich dann natürlich erst mal ganz anders bemühen und das ist ein komplizierter Prozess.
+[00:50:18-6 @sandrarichter] Ich glaube, dass wir da juristisch keine Lösung hinbekommen, die alle Seiten notorisch befriedigen wird.
+[00:50:25-0 @sandrarichter] Als Leser habe ich natürlich auch ein Interesse daran, dass Autoren gut davon leben können, was sie da tun, damit sie eben ordentlich weiter schreiben.
+[00:50:34-1 @sandrarichter] Und es gibt solche Gegenbeispiele wie etwa das norwegische Modell.
+[00:50:37-5 @sandrarichter] Da ist es so, dass der norwegische Staat Autoren quasi ein Stipendium gibt und die können dann schreiben, ihre Texte gehen aber sofort online
+[00:50:45-4 @sandrarichter] und sind sofort zugänglich, das ist auch reizvoll.
+[00:50:50-7 @sandrarichter] Kann man auch mal überlegen, ob das ein Modell ist für uns.
+[00:50:53-5 @sandrarichter] Aktuell haben wir viele Stipendien und Preise und so was, und will man so ein norwegisches Modell, sozusagen Grundeinkommen für Schriftstelle, fände ich auch nicht verkehrt.
+[00:51:06-6 @sandrarichter] Aber auch da wird viel diskutiert, will man nicht doch auch dann wieder Geld verdienen mit Büchern und ist das nicht auch wieder ein Anreiz?
+[00:51:13-6 @sandrarichter] Werden die Texte dann möglicherweise besser?
+[00:51:17-3 @sandrarichter] Man muss es vielleicht einfach mal ausprobieren.
+[00:51:20-0 @timpritlove] Das kann man ja dann auch ganz gut erforschen, ob die Texte dann besser geworden sind.
+[00:51:22-3 @sandrarichter] Naja, wenn man die norwegische Literatur anguckt, ist das nicht schlecht für so ein kleines Land, was da entsteht, muss man tatsächlich sagen.
+[00:51:30-5 @timpritlove] Vielleicht könnte es ja zumindest in der nahen Zukunft bestimmte FairUse-Regelungen geben, die es ja im angelsächsischen Rechtsraum durchaus gibt,
+[00:51:45-0 @timpritlove] hier aber irgendwie noch nicht ganz so den Weg gefunden haben.
+[00:51:48-4 @timpritlove] Jetzt würde mich mal so interessieren, was eigentlich so Ihr Literaturbegriff ist, gerade jetzt im Hinblick auf eben diese digitale Frage.
+[00:51:58-8 @timpritlove] Was ist denn eigentlich heute dann Literatur?
+[00:52:04-6 @timpritlove] Ist das alles nur, was irgendwie in einem Buch erscheint?
+[00:52:08-3 @timpritlove] Die Vorstellung scheint mir ein wenig …
+[00:52:10-6 @sandrarichter] … die ist antiquiert.
+[00:52:12-8 @timpritlove] Ja.
+[00:52:13-7 @sandrarichter] Die ist antiquiert, das ist auch historisch falsch.
+[00:52:15-1 @sandrarichter] Also früher hat man gesprochen oder gesungen und der Begriff Lyrik kommt ja nicht von ungefähr auch von Lyra.
+[00:52:24-9 @sandrarichter] Und das Schreiben war erst mal ein Zufallsprodukt der Geschichte.
+[00:52:28-3 @sandrarichter] Von den Texten, die in der Antike oder der Literatur, die in der Antike und im Mittelalter produziert wurde, kennen wir ja nur noch einen Bruchteil,
+[00:52:35-7 @sandrarichter] weil die zufällig irgendwie Eingang auf Papier gefunden haben und auf Papyrus.
+[00:52:39-3 @sandrarichter] Wir können davon ausgehen, dass Literatur sehr viel stärker eine performative Form gewesen ist, die in Gruppen in besonderen Situationen praktiziert wurde
+[00:52:50-3 @sandrarichter] und dieses Modell, dieses sehr westliche auch Modell des Niederschreibens von Texten aus dem Autorensubjekt heraus,
+[00:52:59-9 @sandrarichter] ganz klassisch, das ist, glaube ich, tatsächlich an eine bestimmte Epoche gebunden, nach dem Buchdruck und als diese Konstellation dann möglich war
+[00:53:09-8 @sandrarichter] und auch eine bestimmte Wertigkeit erhielt in der Romantik.
+[00:53:13-7 @sandrarichter] Aber Literatur ist weitaus mehr als das.
+[00:53:16-7 @sandrarichter] Für mich ist Literatur eine Kunst und etwas, was mit ästhetischem Anspruch dargeboten wird, die mit Worten und vermutlich auch so was wie Texten arbeitet.
+[00:53:27-6 @sandrarichter] Es können auch Lieder sein, es können auch andere Formen sein, sie kann, aber muss nicht, schriftlich niedergelegt sein, sondern sie kann auch andere Gestalt annehmen.
+[00:53:38-8 @sandrarichter] Und so kann es natürlich auch Dinge geben wie Twitter-Literatur, Literatur, die flüchtig ins Netz hineingeschrieben wird, das ist zu beobachten.
+[00:53:50-8 @timpritlove] Und wird es beobachtet?
+[00:53:53-7 @sandrarichter] Das wird beobachtet, dazu gibt es Forschung, zu dem was im Netz entsteht, dass deutsche Literaturarchiv Marbach hatte dazu mal ein schönes Projekt,
+[00:54:02-1 @sandrarichter] das hieß Netzliteratur, da haben sie archivarisch das Problem, dass sie die flüchtigen Produkte des Netzes irgendwie für das Archiv stillstellen müssen.
+[00:54:11-7 @sandrarichter] Sie müssen dann einfach Images anfertigen, sonst geht es nicht, sonst kann man das nicht so gut hosten.
+[00:54:17-9 @sandrarichter] Mittlerweile ginge das vielleicht ein Stück weit besser.
+[00:54:21-4 @sandrarichter] Aber Streaming ist eine große Herausforderung für die Archive.
+[00:54:24-1 @sandrarichter] Was macht man mit Dingen, die eben nur flüchtig auf irgendwelchen Streamingdiensten zugänglich sind?
+[00:54:30-2 @sandrarichter] Wenn die nicht zufällig mal auf einer CD-Rom landen, dann ist das tatsächlich nicht einfach für ein Archiv, das auch die technischen Mittel zurzeit gar nicht hat,
+[00:54:38-9 @sandrarichter] um so auf die Dinge reagieren zu können.
+[00:54:41-4 @sandrarichter] Und so geht im Augenblick, so was wie Twitter-Literatur sammeln wir jedenfalls nicht, weil wir dafür keine Ressourcen haben.
+[00:54:50-0 @sandrarichter] Und manche andere Institution wird es versuchen, aber auch da ist es schwierig, weil die Experten fehlen.
+[00:54:56-3 @sandrarichter] Wir haben also im Augenblick eine Zeit, die Gefahr läuft, geschichtslos zu werden, weil die Archive nicht hinterherkommen, mit dem was sie an Kompetenzen aufgebaut haben
+[00:55:03-6 @sandrarichter] und mit ihren Ressourcen.
+[00:55:06-1 @sandrarichter] Ich wüsste dazu gerne mehr, aber im Augenblick kann man nur sagen, es gibt partiell immer mal Forschung dazu, aber eben keine Dokumentation in ausreichendem Maße.
+[00:55:19-5 @timpritlove] Ich weiß nicht, ob mir Twitter jetzt als erstes eingefallen wäre bei Literatur.
+[00:55:22-9 @timpritlove] Also es hat manchmal lyrische Anflüge.
+[00:55:29-7 @timpritlove] Man sieht ja auch viel nicht so schönes in diesem ganzen sozialen Mediendiskurs und vielleicht überhaupt auch die Frage,
+[00:55:38-1 @timpritlove] ist das sozusagen, also wenn man sozusagen dieses klassische Bild mit, die Dichter schreiben sich Briefe, das war ja damals noch was ganz außergewöhnliches,
+[00:55:45-8 @timpritlove] weil nicht jeder konnte schreiben, nicht jeder konnte lesen, nicht jeder war überhaupt in der Lage, solche Dienstleistungen in Anspruch zu nehmen
+[00:55:51-9 @timpritlove] oder kannte auch nur irgendjemanden, wo es sich gelohnt hätte, einen Brief hinzuschreiben.
+[00:55:56-7 @timpritlove] Also das war ja etwas sehr außergewöhnliches zumindest in der Anfangszeit.
+[00:56:01-0 @timpritlove] Natürlich haben diese Briefe in gewisser Hinsicht heute einen Wert und wenn es bekannte Namen sind, kann man daraus natürlich noch eine Menge ziehen.
+[00:56:08-0 @timpritlove] Heute schreibt sich jeder mit jedem, ist permanent in irgendeiner Textkommunikation.
+[00:56:14-1 @timpritlove] Wo fängt dann sozusagen die Schwelle an, wo hier wirklich etwas literarisches geschafft wird, was dann auch archivierungswürdig wäre?
+[00:56:26-5 @timpritlove] Also wie findet denn zum Beispiel die Relevanzprüfung bei Ihnen statt, wenn sonst nur 20 Autoren da durchkommen pro Jahrzehnt?
+[00:56:36-0 @timpritlove] Bei Twitter gibt es dann auch mehr davon.
+[00:56:37-3 @sandrarichter] Also bei Twitter gibt es mehr davon, da sind auch viele Autoren unterwegs, das ist nicht uninteressant.
+[00:56:41-9 @sandrarichter] Zunächst würde ich sagen, solche Dinge wie Netzliteratur oder Twitter-Literatur, man könnte jetzt X ergänzen, Instagram oder was auch immer,
+[00:56:51-4 @sandrarichter] die würden wir immer nur exemplarisch angucken und ins Archiv legen oder in irgendeiner Form versuchen zu sammeln.
+[00:57:00-3 @sandrarichter] Bei Autoren gilt nach wie vor das Autorenprinzip, also wenn wir uns entscheiden, einen Autor zu sammeln, eine Autorin zu sammeln, wollen wir am liebsten alles haben,
+[00:57:08-1 @sandrarichter] und das bezieht sich auch auf die Social Media Accounts.
+[00:57:12-2 @sandrarichter] Und natürlich haben Sie dann größere rechtliche Schwierigkeiten, weil die Social Media Accounts den Betreibern gehören.
+[00:57:19-0 @sandrarichter] Also das kann man nicht einfach archivieren.
+[00:57:24-2 @sandrarichter] Also man kann es schon, man kann es dann eben als Bild archivieren und das führt zu einer ganz interessanten Frage.
+[00:57:28-9 @sandrarichter] Wenn Autoren vornehmlich über solche Accounts schreiben würden, was sie ja erfreulicherweise nicht tun, sondern sie sind dann irgendwie im Gespräch miteinander
+[00:57:37-0 @sandrarichter] und man kann da interessante Diskursformationen sich angucken.
+[00:57:42-1 @sandrarichter] Wir heute waren wir, Saša Stanišić regt sich über Peter Handke auf und dann andere machen mit und so entstehen also regelrechte große Diskussionen.
+[00:57:53-0 @sandrarichter] Das kann man beobachten und sich daraus ein Urteil bilden.
+[00:57:58-2 @sandrarichter] Manchmal hat das dann eben auch lyrische oder andere Qualitäten.
+[00:58:02-8 @sandrarichter] Aber die Frage, was wäre denn, wenn Autoren komplett im Internet schreiben und wo tun sie das?
+[00:58:10-9 @sandrarichter] Gibt es Verlage, die den Autoren sozusagen die Websites eröffnen? Und dann wird darüber kommuniziert.
+[00:58:15-0 @sandrarichter] Auch das wäre ja ein Modell, dass man sich ja mal überlegen kann.
+[00:58:18-8 @sandrarichter] Je nachdem wie die Technik voranschreitet, kann man sein Buch eben direkt online lesen, auch diese Modelle gab es ja schon, bei Herrendorf etwa, Wolfgang Herrendorf.
+[00:58:28-8 @sandrarichter] Der einen Blog geschrieben hat, so eine Art Krankheitstagebuch, der dann schließlich als Buch erschien.
+[00:58:36-9 @sandrarichter] Herrendorf ist verstorben infolge dieser Krankheit und das sind auch natürlich literarische Experimente, die dann auf diese Weise vollzogen werden.
+[00:58:45-2 @sandrarichter] Reinhold Götz, „Abfall für alle“ ist ein anderes Beispiel dieser Art.
+[00:58:49-4 @sandrarichter] Da werden Texte erst mal vorgeführt und es wird ausgetestet, was kann denn das Medium eigentlich und wie weit reicht es?
+[00:58:56-5 @sandrarichter] Das ist jetzt nicht große Praxis geworden, sondern große Praxis in der Literatur ist im Augenblick schon das Traditionelle.
+[00:59:02-5 @sandrarichter] Das Hängen am Buch, das Orientieren am, der Wille dazu, irgendwann so ein Oeuvre zu schreiben und da ist das digitale Medium ein zusätzliches.
+[00:59:12-5 @sandrarichter] Für uns ist das interessant, weil wir eben alles um die Literatur auch sammeln, speziell wenn es um einen solchen Autor geht, der etwa korrespondiert mit anderen
+[00:59:21-9 @sandrarichter] und der seine Texte so halb im Tippen mit entwickelt.
+[00:59:26-9 @timpritlove] Mir würde ja jetzt so au dem Stand mal eine ganz andere Kategorie von Autoren einfallen, die sehr wohl im Internet auch eine bestimmte kulturelle Bedeutung erlangt haben,
+[00:59:38-0 @timpritlove] nämlich Comic-Zeichner.
+[00:59:40-8 @timpritlove] Also während so, sagen wir mal, der geschriebene Text jetzt so nicht auffällig ist, haben ja in den letzten Jahren sehr viele Comic-Zeichner eine erhebliche Bedeutung und Bekanntheit
+[00:59:50-0 @timpritlove] bis hin zu Berühmtheit erreicht, so xkcd, aber eben auch sehr viele andere Leute, die auch so mal eben damit angefangen haben
+[00:59:59-8 @timpritlove] und gar nicht groß jetzt erst mal primär durch ihre grafischen Qualitäten aufgefallen sind, sondern schlicht durch den Humor und eben diesen Blick für die Gesellschaft.
+[01:00:10-2 @timpritlove] Da würde ich jetzt mal sagen, das ist wirklich Literatur, vor allem wahrscheinlich wegen der Texte, die die Comics begleiten,
+[01:00:18-7 @timpritlove] aber Comiczeichnungen an sich haben ja immer noch nicht diesen Nimbus des höhenwertigen literarischen Schaffens oder hat sich das schon geändert?
+[01:00:28-1 @sandrarichter] Das ist auf dem Weg sich zu ändern.
+[01:00:31-0 @sandrarichter] Zwei Beispiele, es gibt eine große Debatte über die Graphic Novel, die im französischen Sprachraum und so eine riesige Tradition hat
+[01:00:38-6 @sandrarichter] und die langsam hierzulande auch anerkannt wird.
+[01:00:42-4 @sandrarichter] Ich betreue eine Doktorarbeit zu dem Thema und bin sehr gespannt, was wir in Ausgang davon auch machen können möglicherweise im Archiv und wie wir damit umgehen können.
+[01:00:51-9 @sandrarichter] Das ist fürs Archiv selbst eine große Herausforderung, weil Comic natürlich auch heißt, man hat mit Bildern zu tun, dafür ist so ein Textarchiv nicht ausgelegt.
+[01:01:02-4 @sandrarichter] Da brauchen Sie eigentlich jemanden, der ein Bildexperte ist und damit umgehen kann.
+[01:01:08-7 @sandrarichter] Und diese Mehrfachmedien, diese multimedialen Konstruktionen, die sind für so ein traditionelles Archiv ziemlich schwierig und eigentlich für alle.
+[01:01:17-2 @sandrarichter] Es gibt nicht wirklich einen Ort für so Doppelbegabungen.
+[01:01:22-0 @sandrarichter] Und Comiczeichner sind ein Beispiel von vielen.
+[01:01:24-3 @sandrarichter] Es gibt ja auch Leute, die drehen Filme und schreiben und so.
+[01:01:28-4 @sandrarichter] Und für die haben wir bisher nicht wirklich einen befriedigenden Ort im Bibliotheks- und Archivsystem, sondern die werden sich vermutlich entweder in irgendeinem Bildarchiv oder in einem anderen finden.
+[01:01:40-7 @sandrarichter] Aber das gemeinsame Bearbeiten von beidem, das gelingt nicht ohne weiteres, das ist tatsächlich schwierig.
+[01:01:48-2 @sandrarichter] Ein interessantes Beispiel in dem Zusammenhang sind die Autoren und oft auch Zeichner der neuen Frankfurter Schule.
+[01:01:55-1 @sandrarichter] Wilhelm Genazino und andere, die eben tatsächlich auch beides gemacht haben.
+[01:01:59-8 @sandrarichter] Robert Gernhardt gehört dazu.
+[01:02:03-4 @sandrarichter] Und dafür den Ort zu finden, das ist tatsächlich nicht ganz leicht.
+[01:02:07-7 @sandrarichter] Gernhardt und Genazino sind nun im Deutschen Literaturarchiv mit ihren Nachlässen und das ist auch gut so.
+[01:02:13-9 @sandrarichter] Aber man sucht natürlich immer die Verbindung auch zum Comic und zu den Ausdrucksformen, die damit zusammenhängen.
+[01:02:20-0 @timpritlove] Und wollen Sie das aufbrechen?
+[01:02:20-8 @timpritlove] Ist das ein Weg, den das Literaturarchiv Marbach gehen sollte, hier sich multimedial aufzustellen und sich im Prinzip so ein bisschen zu lösen
+[01:02:28-7 @timpritlove] von dem bisher traditionellen, rein textorientierten Autorensuchprogramm?
+[01:02:33-8 @sandrarichter] Das hat es implizit schon immer gemacht, sich systematisch damit aber nur sukzessive beschäftigt.
+[01:02:40-7 @sandrarichter] Mit dem Bild schon in den letzten Jahren, in den vergangenen Jahren.
+[01:02:44-8 @sandrarichter] Es sind unter anderem auch Vorlässe von einer Fotografin dazu gekommen, nämlich von Barbara Klemm,
+[01:02:51-9 @sandrarichter] in Bezug auf die Autorenfotos, die sie gemacht hat, die hoch interessant sind und für das Archiv relevant sind.
+[01:02:56-4 @sandrarichter] Und so gibt es auch im Archiv ein Projekt zum Thema Bild und Fotografie.
+[01:03:01-7 @sandrarichter] Da geht es um die Frage, wie wird das erschlossen, was macht man damit und so weiter?
+[01:03:06-7 @sandrarichter] Also das Archiv versucht es, aber es ist tatsächlich ein längerer Weg, der nicht so ohne weiteres gegangen werden kann,
+[01:03:12-9 @sandrarichter] sondern mit dem man natürlich auch Zuwendungsgebern und so weiter erklären muss, warum und wieso das sinnvoll ist.
+[01:03:19-4 @timpritlove] Auch gerade bei Kinderbüchern sehe ich gerade so einen Trend.
+[01:03:21-5 @timpritlove] Also ich meine, Illustrationen in Kinderbüchern waren ja schon immer da, aber ich hatte jetzt zuletzt auch ein paar Bücher in der Hand,
+[01:03:26-5 @timpritlove] wo auch die Schrift selber auf einmal sich anders darreichte,
+[01:03:32-9 @timpritlove] wo die Buchstaben wild anfingen zu springen, selber grafisch aus diesem Normzeilenraster herauszugehen
+[01:03:43-9 @timpritlove] und dadurch ihre Betonung und die Lebendigkeit des Textes förmlich sogar nochmal doppelt unterstrichen oder überhaupt erst zum Ausdruck gebracht haben.
+[01:03:50-6 @sandrarichter] Mhm (bejahend)
+[01:03:51-2 @timpritlove] Also das ist ja ohnehin ein …
+[01:03:54-8 @timpritlove] weil es eben auch in der digitalen Erstellung jetzt so sehr viel mehr Möglichkeiten gibt, genau solche komplexen Werke auch überhaupt zu schaffen.
+[01:04:02-6 @timpritlove] Ist natürlich dann auch das Endergebnis ganz anders, als man es bisher gehabt habt.
+[01:04:07-6 @sandrarichter] Ja und viele Autoren sind zunehmend geneigt und interessiert daran, aus dem Text auszubrechen und andere Formen auszuprobieren.
+[01:04:15-7 @sandrarichter] Da gibt es ganz kuriose Formen, wie etwa Sibylle Lewitscharoff, die eine Insektenoper gebaut hat, und zwar wirklich physisch gebaut hat aus Holz.
+[01:04:25-7 @sandrarichter] Und das Ganze kann man nun bei uns auch im Archiv besichtigen.
+[01:04:29-0 @timpritlove] Also ein Gebäude?
+[01:04:29-3 @sandrarichter] Ein kleines Gebäude, mit sehr lieben kleinen Tierchen, die funkeln und so und sehen wirklich aus wie Insekten.
+[01:04:36-7 @sandrarichter] Dazu gibt es auch ein Marbacher Magazin, in dem man das Ganze anschauen kann.
+[01:04:40-5 @sandrarichter] Und das ist natürlich auch ein großer Reiz für Autoren, mal zu gucken, wie geht das, wenn ich in einem anderen Medium denke oder mich ausdrücke.
+[01:04:47-7 @timpritlove] Wer ja auch viel schreibt sind Programmiererinnen und Programmierer.
+[01:04:55-0 @timpritlove] Computerspiele haben in der letzten Zeit, glaube ich, im kulturellen Bereich, zumindest vom Umsatz, aber auch von der Bedeutung, der kulturellen Bedeutung für die Jugend,
+[01:05:04-5 @timpritlove] einen großen Schritt nach vorne gemacht, wenn sie nicht sogar schon längst weit vorne liegen.
+[01:05:09-9 @timpritlove] Mehr Umsatz macht die Branche als Hollywood ohnehin schon, da ist ja einiges am Köcheln.
+[01:05:15-0 @timpritlove] Wie stehen Sie denn zu solchen Phänomenen?
+[01:05:19-4 @sandrarichter] Also Archiv, das in die Zukunft sammelt, können wir unseren Blick vor Computerspielen mindestens nicht verschließen.
+[01:05:25-4 @sandrarichter] Jetzt ist die Frage, wie weit geht man da?
+[01:05:29-5 @sandrarichter] Natürlich sind Computerspiele immer auch narrative Konstrukte ebenso wie Filme und so.
+[01:05:34-8 @sandrarichter] Und es gibt für diese Spiele nicht wirklich ein Archiv.
+[01:05:36-9 @sandrarichter] Es gibt ein Computerspielemuseum in Berlin, das den Katalog mit aufbaut.
+[01:05:43-2 @sandrarichter] Und wir sammeln umgekehrt Dinge, die dort nicht ohne weiteres liegen.
+[01:05:48-8 @sandrarichter] Das Computerspielemuseum bekommt seine Spiele durch Fans, durch Spieler und so weiter.
+[01:05:54-1 @sandrarichter] Wir bekommen Spiele, weil in den Nachlässen, Vorlässen von Autoren solche Spiele liegen, das kommt vor, die haben auch gespielt
+[01:06:01-3 @sandrarichter] oder die haben sich an Spielen orientiert, wenn sie schrieben.
+[01:06:05-1 @sandrarichter] Oder wir sammeln Spiele, weil die von Literatur handeln.
+[01:06:07-7 @sandrarichter] Das Kafka-Game oder das Karl May Game oder solche Sachen.
+[01:06:12-9 @sandrarichter] Und zugleich sehen wir aber, es gibt solche Spiele, die sind ästhetisch so komplex, dass sie tatsächlich sehr stark narrativ sind
+[01:06:20-3 @sandrarichter] und wollen wir die nicht auch im Archiv haben?
+[01:06:23-0 @sandrarichter] Müssen wir die nicht sogar im Archiv haben?
+[01:06:25-0 @sandrarichter] Es gibt Leute, die schreiben Bücher, die schreiben Romane, die schreiben Theaterstücke und die schreiben auch mal ein Computerspiel.
+[01:06:31-6 @sandrarichter] Gamedesigner sind oft in Narratologie, in Erzähltexttheorie sehr gebildet und müssen das kennen und drücken sich dann in unterschiedlicher Form aus.
+[01:06:41-2 @sandrarichter] Wir sind dabei, in diesem Bereich zunächst zu gucken und Kategorien zu entwickeln und werden in Kürze einen größeren Schwerpunkt dazu haben.
+[01:06:51-9 @sandrarichter] Und uns fragen, wie genau wir da vorgehen, was wir genau sammeln.
+[01:06:55-9 @sandrarichter] Meine Vermutung ist, dass wir auch dort schreiberzentriert, autorenzentriert vorgehen und uns fragen, was produzieren die Leute heute
+[01:07:04-7 @sandrarichter] und wann auf welcher Ebene, wann schreibt jemand ein Spiel, wann was anderes?
+[01:07:09-6 @timpritlove] Aber welche Bedeutung messen Sie denn diesen Computerspielen derzeit zu?
+[01:07:14-0 @timpritlove] Also ich meine, es ist ja eine extrem komplexe und vor allem auch nicht mehr so an einem einzigen Autor in der Regel festzumachende kreative kulturelle Leistung.
+[01:07:22-9 @timpritlove] Aber im Endergebnis ist es natürlich mega, weil es halt ja nicht nur bombastisch daherkommt oft, sondern dass es vor allem eine komplexe Welt erzählt,
+[01:07:33-0 @timpritlove] in der Leute ja mehr als nur eintauchen, die sich auch wandelt.
+[01:07:38-4 @timpritlove] Es gibt ja auch in der Literatur mittlerweile so Experimente mit interaktiver Literatur, wo man während des Lesens selber Entscheidungen mit hineingeben kann
+[01:07:48-4 @timpritlove] und das Buch ändert sich sozusagen unter den eigenen Augen durch den eigenen Einfluss.
+[01:07:52-4 @timpritlove] Also das ist ja ein Trend, der sich immer weiter beschleunigt.
+[01:07:58-2 @sandrarichter] Es ist ein Trend, der sich weiter beschleunigt und der bisher noch wenig beforscht ist, den man erst mal beobachten muss und beobachten soll, finde ich.
+[01:08:07-5 @sandrarichter] Auch um solche Extremphänomene wie politische Radikalisierung möglicherweise durch bestimmte Spiele anzugucken.
+[01:08:15-3 @sandrarichter] Spiele sind ein kulturelles Phänomen, das hat die Bundesregierung mittlerweile auch anerkannt.
+[01:08:19-3 @sandrarichter] Und wir als Archiv, das sich mit einem Aspekt befasst, der auch bei Spielen eine Rolle spielt, nämlich mit Sprache, mit ästhetisch genutzter Sprache,
+[01:08:29-7 @sandrarichter] müssen das natürlich auch angucken.
+[01:08:30-7 @sandrarichter] Wie genau die kulturelle, psychologische und so weiter Bedeutung sein wird von Spielen, können wir im Augenblick noch nicht abschätzen.
+[01:08:39-6 @sandrarichter] Mich interessiert sehr, wie der Unterschied ist, des Tuns mit der Hand beim Spiel oder des Lesens und Blätterns, das ja vermeintlich abstrakter ist.
+[01:08:48-6 @sandrarichter] Was genau passiert da und was macht dieses Versinken aus?
+[01:08:51-9 @sandrarichter] Versinken gibt es auch beim Lesen von Literatur, ja gelegentlich ist man da so reingezogen, aber beim Computerspiel scheint das nochmal extremer zu sein.
+[01:09:00-3 @sandrarichter] Was unterscheidet Leser von Gamern und so weiter?
+[01:09:02-9 @sandrarichter] Das sind hoch interessante Fragen, aber jetzt wäre es Spekulation, dazu schon abschließendes wissen zu wollen.
+[01:09:10-8 @timpritlove] Ja, aber was denken Sie denn?
+[01:09:15-0 @sandrarichter] Ich glaube, dass Spiele eine sehr zukunftsträchtige Gattung sind, die eben aufgrund dieses Gesamtwelterlebnisses möglicherweise auch größere Gruppen von Nutzern,
+[01:09:31-4 @sandrarichter] Spielern faszinieren als Literatur.
+[01:09:34-4 @sandrarichter] Literatur ist ja was kompliziertes, man muss sich das erst erarbeiten, man muss es lesen, das sinnliche Erlebnis muss im Kopf umgesetzt werden in sinnliche Signale,
+[01:09:42-4 @sandrarichter] in sinnliches Erleben und das hat man im Spiel sozusagen immer schon da, es ist in gewisser Weise einfacher.
+[01:09:50-7 @sandrarichter] Zugleich ist es aber teurer und komplexer.
+[01:09:53-1 @sandrarichter] Und manch einer mag lieber Literatur lesen als ein Spiel spielen.
+[01:09:58-9 @sandrarichter] Ich glaube, Spiele sind einerseits eine Gefahr für die Psyche, wenn man sozusagen immer wieder sich dort hineinziehen lässt,
+[01:10:06-9 @sandrarichter] immer wieder in diese Welten, die man ja selbst bedingt, mit aufbauen kann, aber eben nicht selber nur aufgebaut hat und die man nur bedingt kontrollieren kann,
+[01:10:14-3 @sandrarichter] wenn man immer wieder das tut.
+[01:10:16-5 @sandrarichter] Literatur ist etwas distanziertes, was immer wieder vor allem auf eines aus ist, nämlich das Urteilen zu erlernen, das Reflektieren zu lernen
+[01:10:25-7 @sandrarichter] und das tun die Spiele in dieser Weise vermutlich nicht.
+[01:10:29-4 @sandrarichter] Es gibt sicherlich einige, die das versuchen, aber erst einmal ist es das sinnliche Erleben, das primär ist.
+[01:10:36-8 @sandrarichter] Das will man erst einmal kulturell so ein wenig anschauen, was damit einhergeht.
+[01:10:41-8 @timpritlove] Wobei die Gefahrenwarnung über den bösen Einfluss der neuen Kulturgütern, das gab es ja auch bei Büchern.
+[01:10:47-6 @timpritlove] Als die Leute angefangen haben, Bücher zu lesen, gab es auch eine Menge Warner, die gesagt haben, oh das kann aber nicht gut sein.
+[01:10:55-6 @sandrarichter] Ja, Romane vor allem, das ist ganz gefährlich, das macht melancholisch und führt zu Selbstmord und so, das hat man ja beim Werther schon gesehen.
+[01:11:02-5 @sandrarichter] Genau, deshalb wollen wir uns das Ganze ja jetzt mal angucken und uns mit Computerspielen befassen und nicht so tun als seien wir die Besserwisser aus der Literaturfraktion.
+[01:11:12-2 @timpritlove] Vielleicht nochmal zurück zu den Büchern selbst.
+[01:11:16-9 @timpritlove] Das klang ja am Anfang auch schon an, die Verlage, nicht nur die Verlage, die Autoren auch selber müssen sich sozusagen auch damit beschäftigen,
+[01:11:26-8 @timpritlove] was die allgegenwärtige Verfügbarkeit von digitalen Werkzeugen so mit sich bringt, sowohl was das Erstellen als eben auch das Lesen betrifft.
+[01:11:36-5 @timpritlove] Lassen wir das Lesen vielleicht mal außen vor.
+[01:11:38-3 @timpritlove] Ich habe mich gefragt, hat sich denn eigentlich das Schreiben verändert, dadurch dass andere Werkzeuge existieren?
+[01:11:44-5 @timpritlove] Ich hatte jetzt gerade dieses Beispiel mit der Gestaltung, das mal außen vor, aber wenn ich mir vorstelle, dass jemand ein Buch schreibt ,ein Werk schafft mit der Hand,
+[01:11:58-8 @timpritlove] später gab es die Schreibmaschine, die ja sozusagen diesen Aufschreibeprozess schon deutlich automatisiert hat.
+[01:12:05-2 @timpritlove] Aus heutiger Sicht immer noch sehr langsam und sehr fehleranfällig und man fängt jetzt nicht mal an, mal eben alles nochmal neu zu tippen,
+[01:12:12-6 @timpritlove] aber es war ja immerhin schon mal eine gewisse Beschleunigung.
+[01:12:14-5 @timpritlove] Dann kamen diese ersten Textprozessoren, heutzutage kann man im Prinzip sein Buch auch schon diktieren.
+[01:12:21-8 @timpritlove] Haben Sie da was feststellen können?
+[01:12:25-9 @timpritlove] Ist das überhaupt Teil der Forschung, ob sich sozusagen an den Werken selbst dadurch etwas verändert hat?
+[01:12:33-7 @timpritlove] Sind Werke auf einmal komplexer oder sind sie in irgendeiner anderen Form verändert als man das vielleicht früher gesehen hat?
+[01:12:44-8 @sandrarichter] Dazu gibt es tatsächlich nicht viel Forschung.
+[01:12:48-1 @sandrarichter] Natürlich ist das ein Interessengebiet, also wie schreibt einer und was macht das so mit dem Autor?
+[01:12:53-7 @sandrarichter] Aber tatsächlich belegen zu können, dass seit der Erfindung des Computers sich das Schreiben nochmal massiv gewandelt hat, das fällt ziemlich schwer.
+[01:13:01-9 @sandrarichter] Das Internet und so diese Formen der kollektiven Kommunikation, das ist was neues, da kann man was sehen.
+[01:13:11-1 @sandrarichter] Aber am Roman sozusagen jetzt als klassische Gattung selbst kann man schwer ablesen, ob die Autoren der 80er Jahre nach der Erfindung des Computers plötzlich anders schrieben.
+[01:13:22-3 @sandrarichter] Was man sagen kann aus Archivperspektive ist, dass je jünger die Autoren sind und Autorinnen sind, desto mehr Dateien gibt es im Archiv.
+[01:13:30-7 @sandrarichter] Desto seltener gibt es überhaupt noch irgendwas anderes und ich denke mir, dass es den Schreibprozess natürlich erleichtert.
+[01:13:37-8 @sandrarichter] Wenn Sie nicht jede Schreibmaschinenseite zerreißen müssen, wenn Sie sich vertippen, sondern wenn Sie einfach Dinge in den Computer geben
+[01:13:45-4 @sandrarichter] und die zusammenfügen können und verändern können.
+[01:13:47-0 @sandrarichter] Früher hat man das mit Tipp-Ex gemacht und geklebt, heute kann man das natürlich sehr viel schneller und sehr viel leichter auf diese Weise erzeugen.
+[01:13:55-3 @sandrarichter] Aber ich glaube tatsächlich nicht, dass der Computer per se da so viel mehr verändert hat, dazu ist das Medium, die Gattung Roman, doch sehr stark orientiert.
+[01:14:08-8 @sandrarichter] Hingegen wenn Sie plötzlich solche Zeichen sehen, Zeichensprache oder so was, was explizit an Smileys und irgendwelche Email-Nachrichten
+[01:14:16-2 @sandrarichter] und andere Formen der Kommunikation erinnert, dann ja, aber das ist das World Wide Web, nicht der Computer.
+[01:14:27-8 @timpritlove] Ich muss die ganze Zeit parallel an ein andere Archivierungsprojekt denken, was sich sehr digital darstellt, das ist das Internet Archive, archive.org.
+[01:14:40-9 @timpritlove] Von Brewster Kahle vor einigen Ahren schon gegründet.
+[01:14:45-2 @timpritlove] Die ja gleich von Anfang gesehen, okay wir haben jetzt hier so einen komplett neuen Kulturraum, der hat einerseits den Vorteil, dass er sich so weit ausdehnen kann,
+[01:14:58-7 @timpritlove] so unglaublich viel neues Zeug enthält, andererseits ist das auch wieder ein Nachteil, weil alles das, was entsteht, das vergeht auch wieder sehr schnell.
+[01:15:06-1 @timpritlove] Und dann haben sie ja tatsächlich angefangen, dieses Internet wirklich konsequent einem Backup zu unterziehen.
+[01:15:11-1 @timpritlove] Ich bin immer wieder erschlagen, was man dort alles wiederfinden kann und was ja auch einen kritischen Punkt hat.
+[01:15:20-3 @timpritlove] Weil in gewisser Hinsicht, manche Informationen, die vielleicht irgendwann mal veröffentlicht wurden, man teilweise auch sehr froh ist, wenn die dann vielleicht nicht mehr da sind.
+[01:15:27-8 @timpritlove] Und das ist natürlich auch ein Problem.
+[01:15:31-1 @timpritlove] Ist jetzt, sagen wir mal, von ihrer konkreten Ausrichtung jetzt mit dem Literaturarchiv natürlich relativ weit entfernt, trotz alledem dürfte Sie das doch interessieren,
+[01:15:39-9 @timpritlove] was die für Erfahrungen gemacht haben.
+[01:15:40-9 @timpritlove] Gibt es da Kontakte, gibt es da eine Beobachtung?
+[01:15:45-6 @timpritlove] Weil das ist ja im Prinzip das Primärexemplar, was man sich mal anschauen muss, wenn es darum geht, das Digitale zu archivieren.
+[01:15:53-8 @sandrarichter] Den Kontakt hätte ich gerne, da würde ich mir gerne mal ausführlicher Gedanken machen.
+[01:15:57-5 @sandrarichter] Weil wir natürlich noch sehr stark von der Ordnung der großen staatlich geförderten Infrastruktur herkommen
+[01:16:03-6 @sandrarichter] und da wäre es unglaublich gut, da mal hineinzuschauen.
+[01:16:06-8 @sandrarichter] Also genauer beobachtet haben wir zuletzt Google, Google Arts&Culture, was macht man damit und so, wie geht man damit um?
+[01:16:14-4 @sandrarichter] Und davon halten wir uns freundlich distanziert und versuchen, so erste Wege der Zusammenarbeit.
+[01:16:23-3 @sandrarichter] Aber es wäre in der Tat interessant, das mal genauer anzuschauen.
+[01:16:27-0 @sandrarichter] Wir haben natürlich das Bestreben, dass wir in so einem Archiv die Dinge, wir werden mit öffentlichen Mitteln gefördert, die Dinge sollen zugänglich sein,
+[01:16:37-4 @sandrarichter] die sollen möglichst für die Ewigkeit zugänglich sein, die sollen nicht irgendeiner kommerziellen Ordnung unterliegen.
+[01:16:44-6 @sandrarichter] Und das ist auch ziemlich strikt zu betrachten.
+[01:16:45-6 @sandrarichter] Und vor diesem Hintergrund versuchen wir, in das Digitale hineinzugehen, digitalisieren selbst, machen das nicht in Zusammenarbeit mit irgendeinem Konzern
+[01:16:56-0 @sandrarichter] und das führt natürlich dann zu allerlei wiederum Kosten und Aufwand und so fort-
+[01:17:02-6 @timpritlove] Aber da kann man auf jeden Fall die Schreibereien gerade so aus den letzten 20 Jahren, so mit dem Aufkommen der Blogkultur,
+[01:17:08-5 @timpritlove] wo auch viel ins Netz hineingeschrieben wurde, auch das ein oder andere lyrische, viele Tagebücher und andere Beiträge so zum Gesamtgeschehen,
+[01:17:16-9 @timpritlove] das lässt sich dort natürlich wunderbar herauslesen.
+[01:17:19-9 @timpritlove] Aber so ganz undigital geht es ja bei Ihnen auch nicht zu, wenn ich das richtig sehe, haben Sie ja auch Audioarchive in Ihrem System.
+[01:17:29-9 @timpritlove] Was ist denn da zu finden?
+[01:17:32-5 @timpritlove] Gibt es da auch Podcasts?
+[01:17:33-6 @sandrarichter] Da gibt es auch Podcasts, aber sicher sammeln wir auch Podcasts.
+[01:17:39-0 @sandrarichter] Das Aufnehmen von Literatur hat bereits in den Jahren 1907/08 begonnen, als die Wiener Akademie Arthur Schnitzler und Hugo von Hofmannsthal das erste Mal vor ein Mikrofon setzte.
+[01:17:49-1 @sandrarichter] Und seitdem sammeln wir Literatur auch in Audioform.
+[01:17:53-6 @sandrarichter] Seitdem sind wir daran interessiert, wie werden literarische Texte gelesen und aktualisiert, wie werden sie gesungen?
+[01:18:00-3 @sandrarichter] Durch berühmte Sprecher, nicht so berühmte Sprecher und so weiter.
+[01:18:04-6 @sandrarichter] Also wenn Sie etwa Schillers Bürgschaft angucken, das ist ein Text, der vielfach gesprochen wurde, dann finden Sie in Marbach an die 80 Einspielungen dieser Lesung.
+[01:18:13-5 @sandrarichter] Das ist hoch interessant das mal zu vergleichen, weil die jeweils sehr sehr unterschiedlich aussehen.
+[01:18:18-5 @sandrarichter] Ursprünglich groß Bühnensprache und heute wird das mehr so runtergeleiert oder man versucht, dem Text als Text mit einer gewissen natürlichen Sprache gerecht zu werden.
+[01:18:27-7 @sandrarichter] Texte werden gesungen, Heines Buch der Lieder, Lyrisches Intermezzo ist ein großes Beispiel dafür von Robert Schumann vertont und so weiter.
+[01:18:39-4 @sandrarichter] Wie wird das vertont, wir wird das gesungen, das sammeln wir im Archiv.
+[01:18:43-0 @sandrarichter] Wir sammeln im Archiv auch Interviews, literarisch orientierte Interviews, Literatursendungen aus dem Radio, aus dem Fernsehen dann auch.
+[01:18:52-8 @sandrarichter] Es gibt dann auch Videomitschnitte und so fort.
+[01:18:56-6 @sandrarichter] Wir sind trotzdem dadurch kein Film- oder Audioarchiv, sondern wir sammeln konzentriert in Bezug auf die Literatur und können/müssen das eben auch abbilden,
+[01:19:06-2 @sandrarichter] häufig reflektiert eben gerade auch das Audiomedium und das visuelle Medium zurück, dann auf die Literatur.
+[01:19:14-4 @sandrarichter] Und manch einer kennt die Literatur vor allem, weil sie irgendwann mal gesprochen wurde oder irgendwann darüber diskutiert wurde, berühmterweise zum Beispiel im literarischen Quartett von Marcel Reich-Ranicki.
+[01:19:26-3 @sandrarichter] Und solche Dinge der öffentlichen Wirkung, wir orientieren uns ja an Bedeutsamkeit, wollen wir abbilden.
+[01:19:34-6 @timpritlove] Hörbücher?
+[01:19:38-0 @sandrarichter] Hörbücher gibt es auch, ist auch ein Teil der Sammlung.
+[01:19:42-6 @sandrarichter] Also wenn wir sowieso einen Autor sammeln, dann sammeln wir natürlich auch entsprechend die Hörbücher dazu, ja.
+[01:19:48-5 @timpritlove] Ja, wie geht es jetzt weiter mit all dieser ganzen Modernisierung des Archivs?
+[01:19:57-5 @timpritlove] Ich hatte vor zwei Sendungen hier in einem ganz anderen wissenschaftlichen Kontext, da wurde die NFDI-Infrastruktur-Initiative angesprochen,
+[01:20:11-6 @timpritlove] die ist für Sie auch relevant oder?
+[01:20:12-5 @sandrarichter] Die nationale Forschungsdateninfrastruktur ist für uns sehr wichtig, weil wir uns natürlich fragen, wie wir das, was wir tun, möglicherweise nochmal in eine andere Form überführen müssen.
+[01:20:23-1 @sandrarichter] Wie wir das Forschung zugänglich machen.
+[01:20:26-4 @sandrarichter] Für uns vor allem wichtig in dem Zusammenhang sind die Born Digitales.
+[01:20:30-3 @sandrarichter] Also wir wollen zeigen, wie man damit arbeiten kann, was man damit machen kann und auf dem Wege der NFDI mit anderen Kollegen ausloten,
+[01:20:37-8 @sandrarichter] wie man das auch technisch tun kann.
+[01:20:39-8 @sandrarichter] Wie können wir unsere ganzen digitalen Dateien, wie können wir die so aufbereiten, dass die zugänglich sind und dass man die durchforsten kann?
+[01:20:49-8 @sandrarichter] Das ist eine Sache, eine große Aufgabe, die die NFDI hat, für die verschiedenen Fächer, in den Geisteswissenschaften, in den Ingenieurwissenschaften, you name it,
+[01:20:58-7 @sandrarichter] Daten zugänglich zu machen, viele Daten zu schaffen, Daten zu schaffen, die wir in dieser Form so in der Bundesrepublik noch nicht haben.
+[01:21:05-3 @sandrarichter] Wenn Sie im Augenblick hier etwas suchen, müssen Sie in jeder Bibliothek speziell gucken, aber gemeinsame Kataloge oder so was, das ist sehr schwierig.
+[01:21:13-7 @sandrarichter] Ist auch sehr schwierig aufzusetzen, denn das zerfällt dann jeweils in die Bibliothek, die Bundesländer, die das alles archivieren.
+[01:21:20-1 @sandrarichter] Und das ist eine große Aufgabe, das Bibliothekssystem in einer Weise zusammenzubekommen, dass man als Forscher eben nicht sich seine Daten an verschiedenen Stellen sucht,
+[01:21:30-1 @sandrarichter] sondern vielleicht nur noch einen Zugang hat.
+[01:21:32-1 @timpritlove] Also Standards zu schaffen?
+[01:21:34-0 @sandrarichter] Standards zu schaffen, gemeinsame Plattformen zu schaffen, Zugänge zu schaffen, das ist eine große Sache.
+[01:21:41-7 @sandrarichter] Und diese möglichst auch noch zugleich mit digitalen Tools zu verbinden, wäre natürlich großartig, so dass man die auch gleich durchforsten kann.
+[01:21:47-7 @sandrarichter] Ein gutes Beispiel dafür bietet das Deutsche Textarchiv.
+[01:21:51-7 @sandrarichter] Das ist ein Projekt, das mit sehr sehr hohen Standards der Textdigitalisierung arbeitet, aber zugleich auch auf der Textoberfläche dann bestimmte Tools mitliefert,
+[01:22:02-2 @sandrarichter] in dem Fall Voyant Tools, wo man etwa gucken kann, welche Worthäufigkeiten da sind, wo die auftreten und auch Korrelationen 
+[01:22:11-5 @sandrarichter] und so was sich in einem bestimmten Rahmen ausspucken lassen kann.
+[01:22:15-4 @timpritlove] Mhm (bejahend)
+[01:22:18-1 @timpritlove] Wäre es hier nicht an der Stelle auch sinnvoll, auf einer europäischen Ebene mit anderen ähnlich gelagerten Literaturarchiven zusammenzuarbeiten?
+[01:22:27-5 @timpritlove] Findet das statt?
+[01:22:28-2 @sandrarichter] Wir sind dabei, diese Zusammenarbeit zu pflegen.
+[01:22:30-5 @sandrarichter] Haben gute Kontakte zu bestimmten, die deutschsprachigen habe ich schon erwähnt, suchen aber natürlich auch weitere,
+[01:22:36-9 @sandrarichter] haben gute Kontakte etwa zum sogenannten IMEC, Institut mémoires de l’édition contemporaine in Frankreich.
+[01:22:44-1 @sandrarichter] Das ist sozusagen der Counterpart in Frankreich und so weiter.
+[01:22:47-1 @sandrarichter] Und sicher fänden wir es unglaublich wichtig, dass in Europa man nun konsequent die Frage der Informationsinfrastrukturen angeht.
+[01:22:55-4 @sandrarichter] Wollen wir langfristig von Google in der Weise abhängig bleiben, wie wir es aktuell sind?
+[01:22:59-5 @sandrarichter] Wollen wir eigene Infrastrukturen aufsetzen, wie sollen die aussehen?
+[01:23:02-8 @sandrarichter] Und dieses speziell in dem sensiblen Bereich der Bibliotheken und Archive, wie können wir da tatsächlich zusammenkommen.
+[01:23:10-3 @sandrarichter] Es gibt den Ansatz der Europeana, der versucht einen Zugang zu bieten, aber den müsste man tatsächlich ausbauen und aufbauen.
+[01:23:18-4 @sandrarichter] Was soll dahin?
+[01:23:19-1 @sandrarichter] Soll das eine Art großes europäisches Archiv werden?
+[01:23:22-1 @sandrarichter] Soll das eine Bibliothek werden oder eher eine Art Ausstellungsfläche, eine virtuelle?
+[01:23:28-0 @sandrarichter] Das sind, glaube ich, Fragen, die wir uns dringend in der nächsten Zeit beantworten müssen und für die es ein großes europäisches Konsortium bräuchte,
+[01:23:34-5 @sandrarichter] das möglichst flexibel sein muss, um diesem flexiblen Gegenstand, diesem flüchtigen Gegenstand der Informationswirklichkeit, der Gegenwart entsprechend zu begegnen.
+[01:23:45-5 @timpritlove] Ja, Frau Richter, ich sehe schon, eine nicht enden wollende Flut von Herausforderungen, die auf Sie da zukommt.
+[01:23:57-0 @timpritlove] Ein Teil des Weges scheint auch schon gegangen zu sein.
+[01:23:59-9 @timpritlove] Was wünschen Sie sich denn so, was muss denn, was sollte denn noch passieren oder welche Form von Initiative würden Sie denn gerne noch sehen,
+[01:24:09-6 @timpritlove] jenseits dieser Standardisierungsbemühungen im Kleinen, im digitalen Entwicklungsland Deutschland?
+[01:24:19-3 @sandrarichter] Ich wünsche mir politische Spitzen und Akteure, die dieses Thema der Digitalisierung oder Digitalität besser im weiten Sinne konsequent vorantreiben.
+[01:24:29-1 @sandrarichter] Nicht nur im Kulturbereich, sondern auch im Wirtschaftsbereich.
+[01:24:31-9 @sandrarichter] Und eine Öffentlichkeit, die neugierig in diesen Fragen weiter mitarbeitet und möglichst nicht angstgetrieben reagiert, wenn da ein Archiv sagt,
+[01:24:41-6 @sandrarichter] wir müssen uns auch Computerspiele angucken.
+[01:24:45-7 @timpritlove] Ich finde es gut.
+[01:24:47-0 @timpritlove] Ich sage, vielen Dank Frau Richter.
+[01:24:48-9 @sandrarichter] Danke Ihnen.
+[01:24:50-4 @timpritlove] Vielen Dank und vielen Dank auch fürs Zuhören wie immer hier bei Forschergeist.
+[01:24:54-9 @timpritlove] Ich sage, tschüss und bis bald.
+[01:24:59-0 @outro]
