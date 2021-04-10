@@ -285,10 +285,10 @@
 00:38:28.601 --> 00:39:28.300
 <v michaelschermann>Die kriegen dann so und jetzt das ist eigentlich das Spannende, sie wissen zwar, wo jetzt der Fraud drinsteckt, weil sie ja genau wissen, dass das andere Team auch Fraud gemacht hat, aber sie müssen es jetzt erklären. Und das ist eigentlich das, das wo die Studis wirklich lernen, wie die Systeme funktionieren und wie die Unternehmensprozesse funktionieren, weil sie sozusagen sie kriegen fünf Tabellen, 27 Datensätze und müssen jetzt im Prinzip erklären, wie die einzelnen Datensätze in den Tabellen zusammengehören und was sie tatsächlich bedeuten und was sozusagen die Motivation dessen war, der die da gemacht hat. So, dass das Daten finden gar nicht so die Herausforderung ist, in dem späteren Umgang dann vielleicht schon. Sondern tatsächlich das erklären. Und das ist auch etwas, wo zumindest mein Eindruck ist, die stellen unglaublich viel an. Weil sie kapieren, wie so ein System funktioniert. Sie kapieren, wo so etwas abgelegt wird, wie die Unternehmensprozesse ablaufen und sie müssen es tatsächlich erklären können.
 
-00:39:28.301 --> 00:39:43.500
+00:39:28.301 --> 00:39:42.500
 <v michaelschermann>Das heißt sie müssen verstanden haben, was das andere Team gemacht hat. Wir hatten ja vorn schon so ein bisschen geredet, dass es ja auch durchaus um Buchungen und was auch immer geht und Fehler geht und sie müssen jetzt halt tatsächlich erkennen, warum ist das jetzt tatsächlich Fraud und nicht einfach nur ein Fehler.
 
-00:39:43.501 --> 00:39:42.600
+00:39:42.501 --> 00:39:42.600
 <v timpritlove>Ja.
 
 00:39:42.601 --> 00:40:24.200
@@ -432,13 +432,13 @@
 00:55:50.001 --> 00:55:57.200
 <v timpritlove>... so ein prädiktives System zu bauen, was so quasi schon anhand von Bewegungen sagt, mh das sieht mir jetzt nicht richtig aus.
 
-00:55:57.201 --> 00:56:14.300
+00:55:57.201 --> 00:56:13.300
 <v michaelschermann>Ja, also ich meine, das Konzept ist im Prinzip nicht neu, das wird schon gefühlt seit 100 Jahren diskutiert. Das Problem ist, das Problem der False-Positives. Man kriegt halt genau den Handwerker, der auf der Messe in Spanien …
 
-00:56:14.301 --> 00:56:13.500
+00:56:13.301 --> 00:56:14.500
 <v timpritlove>Geholfen hat.
 
-00:56:13.501 --> 00:56:25.800
+00:56:14.501 --> 00:56:25.800
 <v michaelschermann>... geholfen hat, den kriegt man jetzt plötzlich als den großen Fraud-Fall vorgelegt. Und damit lähmt man natürlich. Also wenn da 20 Millionen Transaktionen im Monat.
 
 00:56:25.801 --> 00:56:29.600
@@ -510,13 +510,13 @@
 01:04:20.801 --> 01:05:02.400
 <v michaelschermann>Der eigentliche Witz an der Geschichte ist, man könnte natürlich jetzt auch wieder einen Contest daraus machen und sagen, man lädt Praxispartner ein, die solche Fälle neu stellen. Also die im Prinzip die Situation beschreiben oder synthetische Daten rausgeben, die jetzt einen Fall beschreiben. Das heißt wir selber wissen gar nicht mehr, was für ein Fraud-Fall da drin ist. Man gibt das sozusagen als einen Wettbewerb nach draußen und sagt, hier gibt es einen Datensatz, hier gibt es eine Fallbeschreibung dazu, löst das mal. Und dann können sozusagen Studenten aus der ganzen Welt dahin kommen und sagen, okay, das wäre unser Vorschlag. Wir hätten gedacht, dass dort dort und dort das drin ist. Und dann kann man es irgendwann auflösen oder so.
 
-01:05:02.401 --> 01:05:10.600
+01:05:02.401 --> 01:05:10.100
 <v timpritlove>Aber es wäre ja sicherlich auch ganz interessant, so die Kreativität der Masse dazu zu nutzen, noch neuen Fraud einzusammeln.
 
-01:05:10.601 --> 01:05:10.100
+01:05:10.101 --> 01:05:10.600
 <v michaelschermann>Richtig.
 
-01:05:10.101 --> 01:05:16.000
+01:05:10.601 --> 01:05:16.000
 <v timpritlove>Nicht so ganz verstanden, inwiefern dann diese ERP-Systeme jetzt ein limitierender Faktor sind. Ist das so eine reine Lizenzproblematik oder?
 
 01:05:16.001 --> 01:05:17.400
@@ -570,13 +570,13 @@
 01:10:46.201 --> 01:10:58.000
 <v timpritlove>Ja. Michael ich glaube, jetzt haben wir auch alles gesagt, was man dazu sagen kann oder haben wir noch irgendwas wichtiges vergessen?
 
-01:10:58.001 --> 01:11:01.100
+01:10:58.001 --> 01:10:59.100
 <v michaelschermann>Nein, nicht das ich wüsste.
 
-01:11:01.101 --> 01:08:10.900
+01:10:59.101 --> 01:12:18.900
 <v timpritlove>Ich finde das ganz spannend, dass – wie soll ich sagen – dass ihr da so einen Bereich bearbeitet, in dem einfach so zwei mindestens zwei Sachen zusammenkommen. Also einerseits durch diese Vermischung von Wirtschaft und Informatik an sich schon mal, dann noch mit dieser ethischen Dimension, aber dass das auch so einen kreativen spielerischen Charakter auch hat. Das ist ja so, ich möchte meinen, dass im Studium immer vieles davon getragen ist, Fakten einfach einzusammeln. Bücher lesen, auswendig lernen etc. Ich will nicht sagen, dass es nirgendwo eine kreative Komponente gibt, aber in dem Moment, wo Inhalte auch wirklich über so ein spielerisches Moment vermittelt werden, dass sie dann auch das Potenzial haben, auf der einen Seite sehr viel mehr Kreativität freizusetzen als das vielleicht sonst, weil man sonst in einer anderen Art und Weise gefordert ist und zumindest nach meiner Erfahrung, dass wenn man spielerisch an Sachen herangeht, das auch auf eine ganz andere Art und Weise auch verhaften. Dass das einen ganz anderen Fußabdruck bei einem selbst hinterlassen in dem Moment. Ist das auch so eine Erfahrung, die ihr gemacht habt?
 
-01:08:10.901 --> 01:12:58.600
+01:12:18.901 --> 01:12:58.600
 <v michaelschermann>Ja definitiv. Ich glaube, was mich wirklich begeistert an diesem ganzen Konzept, deswegen mache ich da auch die ganze Zeit dran rum, die Studis machen Dinge oder machen eigentlich alles, ohne dass ich es ihnen sage. Also ich muss nicht großartig Vorlesungen halten oder irgendwelche Sachen, die dann dröge irgendwie herkommen, sondern die gehen selber suchen. Also wir haben dann halt, die mussten sich halt mit den Systemen auseinandersetzen und dann fangen sie halt automatisch an, zu googlen und finden sich irgendwelche Webseiten, Foren und was auch immer, in denen über die Tabellenstrukturen, was auch immer, wo man was findet, raus finden.
 
 01:12:58.601 --> 01:13:43.200
@@ -614,5 +614,3 @@
 
 01:17:12.201 --> 01:17:32.000
 <v timpritlove>Das war es hier bei Forschergeist, die 8. Ausgabe, ich sage nochmal vielen Dank fürs Zuhören und bis bald, bis zum nächsten Forschergeist. Tschüss.
-
-
